@@ -23,16 +23,20 @@ export default class CategoryManager {
 
   import ({ categories = [], subcategories = [], alternateSubcategories = [], percentView = false, categoryPercents = undefined } = {}) {
     if (!categoryPercents) {
-      categoryPercents = [];
-      for (let i = 0; i < CATEGORIES.length; i++) {
-        categoryPercents.push(0);
-      }
+      categoryPercents = CATEGORIES.map(() => 0);
     }
 
     if (categories.length > 0 && subcategories.length === 0) {
       categories.forEach(category => {
         CATEGORY_TO_SUBCATEGORY[category].forEach(subcategory => {
           subcategories.push(subcategory);
+        });
+      });
+    }
+    if (categories.length > 0 && alternateSubcategories.length === 0) {
+      categories.forEach(category => {
+        CATEGORY_TO_ALTERNATE_SUBCATEGORIES[category].forEach(alternateSubcategory => {
+          alternateSubcategories.push(alternateSubcategory);
         });
       });
     }

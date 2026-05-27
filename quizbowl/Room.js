@@ -14,7 +14,16 @@ export default class Room {
     };
   }
 
-  async message (id, message) { throw new Error('Not implemented'); }
+  async message ({ userId, username }, message) {
+    switch (message.type) {
+      case 'clear-stats': return this.clearStats({ userId, username }, message);
+    }
+  }
+
+  clearStats ({ userId }) {
+    this.players[userId].clearStats();
+    this.emitMessage({ type: 'clear-stats', userId });
+  }
 
   /**
    * Sends a message to all sockets
@@ -28,11 +37,18 @@ export default class Room {
   }
 
   leave (userId) {
-    // this.deletePlayer(userId);
-    this.players[userId].online = false;
+    if (!this.players[userId]) { return; }
+    const player = this.players[userId];
+    const username = player.username;
     delete this.sockets[userId];
-    const username = this.players[userId].username;
-    this.emitMessage({ type: 'leave', userId, username });
+    if (!player.hasActivity()) {
+      // delete this.players[userId];
+      // delete this.teams[userId];
+      this.emitMessage({ type: 'leave', userId, username, remove: true });
+    } else {
+      player.online = false;
+      this.emitMessage({ type: 'leave', userId, username });
+    }
   }
 
   /**
@@ -45,7 +61,7 @@ export default class Room {
     this.sockets[userId].send(message);
   }
 
-  setUsername (userId, { username }) {
+  setUsername ({ userId }, { username }) {
     if (typeof username !== 'string') { return false; }
     const oldUsername = this.players[userId].username;
     this.players[userId].username = username;

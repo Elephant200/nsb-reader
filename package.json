@@ -1,17 +1,14 @@
 {
     "name": "qbreader",
-    "version": "7.6.8",
+    "version": "26.04",
     "type": "module",
     "scripts": {
-        "test": "mocha",
         "build": "npm run webpack && npm run sass",
         "dev": "npm run build && npm run start",
-        "start": "node index.js",
         "lint": "npx semistandard --fix",
         "sass": "sass scss/custom.scss client/style.css --style compressed",
-        "sass-watch": "sass scss/custom.scss client/style.css --style compressed --watch",
-        "webpack": "webpack --config webpack.config.js",
-        "webpack-watch": "webpack --config webpack.config.js --watch"
+        "start": "node server.js",
+        "webpack": "webpack --config webpack.config.js"
     },
     "dependencies": {
         "bootstrap": "^5.3.8",
@@ -22,30 +19,28 @@
         "dotenv": "^16.0.1",
         "express": "^4.19.2",
         "express-rate-limit": "^6.7.0",
-        "jsdom": "^21.1.0",
+        "jsdom": "^28.1.0",
         "jsonwebtoken": "^9.0.0",
         "mongodb": "^6.17.0",
         "morgan": "^1.10.0",
-        "nodemailer": "^7.0.9",
-        "qb-answer-checker": "^1.1.7",
+        "nodemailer": "^8.0.4",
+        "qb-answer-checker": "^1.1.9",
         "stripe": "^12.10.0",
-        "uuid": "^8.3.2",
+        "uuid": "^14.0.0",
         "ws": "^8.8.0"
     },
     "devDependencies": {
         "@babel/core": "^7.20.2",
         "@babel/preset-react": "^7.18.6",
         "babel-loader": "^10.0.0",
-        "chai": "^4.3.7",
-        "mocha": "^11.3.0",
         "sass": "^1.56.2",
         "semistandard": "^17.0.0",
         "webpack": "^5.100.2",
-        "webpack-cli": "^6.0.1"
+        "webpack-cli": "^6.0.1",
+        "yargs": "^18.0.0"
     },
     "semistandard": {
         "globals": [
-            "$",
             "bootstrap",
             "React",
             "ReactDOM"

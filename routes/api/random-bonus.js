@@ -1,43 +1,20 @@
+import * as validateArray from '../validators/array.js';
+import * as validateBoolean from '../validators/boolean.js';
+import * as validateInt from '../validators/int.js';
+import validateCategoryBundle from '../validators/category-bundle.js';
 import getRandomBonuses from '../../database/qbreader/get-random-bonuses.js';
 
 import { Router } from 'express';
 const router = Router();
 
 router.get('/', async (req, res) => {
-  if (typeof req.query.difficulties === 'string') {
-    req.query.difficulties = req.query.difficulties.split(',').map(d => parseInt(d));
-    req.query.difficulties = req.query.difficulties.length ? req.query.difficulties : undefined;
-  } else {
-    req.query.difficulties = undefined;
-  }
-
-  if (typeof req.query.alternateSubcategories === 'string') {
-    req.query.alternateSubcategories = req.query.alternateSubcategories.split(',');
-    req.query.alternateSubcategories = req.query.alternateSubcategories.length ? req.query.alternateSubcategories : undefined;
-  } else {
-    req.query.alternateSubcategories = undefined;
-  }
-
-  if (typeof req.query.categories === 'string') {
-    req.query.categories = req.query.categories.split(',');
-    req.query.categories = req.query.categories.length ? req.query.categories : undefined;
-  } else {
-    req.query.categories = undefined;
-  }
-
-  if (typeof req.query.subcategories === 'string') {
-    req.query.subcategories = req.query.subcategories.split(',');
-    req.query.subcategories = req.query.subcategories.length ? req.query.subcategories : undefined;
-  } else {
-    req.query.subcategories = undefined;
-  }
-
-  req.query.minYear = isNaN(req.query.minYear) ? undefined : parseInt(req.query.minYear);
-  req.query.maxYear = isNaN(req.query.maxYear) ? undefined : parseInt(req.query.maxYear);
-  req.query.number = isNaN(req.query.number) ? undefined : parseInt(req.query.number);
-
-  req.query.bonusLength = (req.query.threePartBonuses === 'true') ? 3 : undefined;
-  req.query.standardOnly = (req.query.standardOnly === 'true');
+  req.query = validateArray.difficulties(req.query);
+  req.query = validateBoolean.threePartBonuses(req.query);
+  req.query = validateBoolean.standardOnly(req.query);
+  req.query = validateInt.minYear(req.query);
+  req.query = validateInt.maxYear(req.query);
+  req.query = validateInt.number(req.query);
+  req.query = validateCategoryBundle(req.query);
 
   const bonuses = await getRandomBonuses(req.query);
 

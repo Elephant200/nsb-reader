@@ -7,12 +7,13 @@ async function getTossupGraphStats (userId, query) {
   return await perTossupData.aggregate([
     { $match: matchDocument },
     { $unwind: '$data' },
-    { $match: { 'data.user_id': userId } },
+    { $match: matchDocument },
     {
       $addFields: {
         result: {
           $switch: {
             branches: [
+              { case: { $eq: ['$data.pointValue', 20] }, then: 'superpower' },
               { case: { $eq: ['$data.pointValue', 15] }, then: 'power' },
               { case: { $eq: ['$data.pointValue', 10] }, then: 'ten' },
               { case: { $eq: ['$data.pointValue', 0] }, then: 'dead' },
@@ -37,6 +38,7 @@ async function getTossupGraphStats (userId, query) {
         pptu: { $avg: '$data.pointValue' },
         count: { $sum: 1 },
         correct: { $sum: { $cond: ['$data.isCorrect', 1, 0] } },
+        superpowers: { $sum: { $cond: [{ $eq: ['$result', 'superpower'] }, 1, 0] } },
         powers: { $sum: { $cond: [{ $eq: ['$result', 'power'] }, 1, 0] } },
         tens: { $sum: { $cond: [{ $eq: ['$result', 'ten'] }, 1, 0] } },
         deads: { $sum: { $cond: [{ $eq: ['$result', 'dead'] }, 1, 0] } },

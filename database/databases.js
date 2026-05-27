@@ -1,3 +1,5 @@
+import 'dotenv/config';
+
 import { MongoClient } from 'mongodb';
 
 const uri =
@@ -11,3 +13,7 @@ console.log('connected to mongodb');
 export const qbreader = mongoClient.db('qbreader');
 export const accountInfo = mongoClient.db('account-info');
 export const geoword = mongoClient.db('geoword');
+
+export const closeConnection = async () => {
+  await mongoClient.close();
+};
