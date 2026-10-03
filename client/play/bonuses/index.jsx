@@ -9,7 +9,7 @@ import SoloBonusClient from '../../clients/SoloBonusClient.js';
 
 const modeVersion = '2025-01-14';
 const queryVersion = '2025-05-07';
-const settingsVersion = '2026-05-10';
+const settingsVersion = 'nsb-single-bonus';
 
 const USER_ID = 'user';
 const TEAM_ID = 'team';
@@ -74,11 +74,6 @@ document.addEventListener('keydown', (event) => {
     case 's': return document.getElementById('next').click();
     case 't': return document.getElementsByClassName('star-bonus')[0].click();
     case 'y': return navigator.clipboard.writeText(room.bonus._id ?? '');
-    case '0': return document.getElementById(`checkbox-${room.pointsPerPart.length}`)?.click();
-    case '1': return document.getElementById('checkbox-1').click();
-    case '2': return document.getElementById('checkbox-2').click();
-    case '3': return document.getElementById('checkbox-3').click();
-    case '4': return document.getElementById('checkbox-4').click();
   }
 });
 

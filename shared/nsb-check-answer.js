@@ -1,11 +1,11 @@
 function plain (value) {
   return String(value ?? '').replace(/<[^>]*>/g, '').replace(/&amp;/g, '&')
     .replace(/&nbsp;/g, ' ').replace(/&#39;/g, "'").replace(/&quot;/g, '"')
-    .normalize('NFKC').replace(/[−–]/g, '-').replace(/\s+/g, ' ').trim();
+    .normalize('NFKC').replace(/[−–]/g, '-').replace(/[⁄∕]/g, '/').replace(/\s+/g, ' ').trim();
 }
 
 export function createNsbAnswerChecker (checkShortAnswer) {
-  return function checkAnswer (answerline, givenAnswer, strictness = 7) {
+  return function checkAnswer (answerline, givenAnswer, strictness = 7, question = '') {
     const answer = plain(answerline);
     const given = plain(givenAnswer);
     const reject = { directive: 'reject', directedPrompt: null };
@@ -23,6 +23,8 @@ export function createNsbAnswerChecker (checkShortAnswer) {
 
     const letter = choice[1].toUpperCase();
     const text = choice[2].replace(/\s*\((?:ACCEPT|DO NOT ACCEPT|ALSO ACCEPT)[\s\S]*$/i, '').trim();
+    const choices = plain(question).match(new RegExp(`(?:^|\\s)${letter}\\)\\s*(.*?)(?=\\s[WXYZ]\\)|$)`, 'i'));
+    const acceptedTexts = [text, choices?.[1]].filter(Boolean).map(value => value.toLocaleLowerCase());
     const letterOnly = given.match(/^([WXYZ])(?:[).])?$/i);
     let correct;
     if (letterOnly) {
@@ -32,7 +34,7 @@ export function createNsbAnswerChecker (checkShortAnswer) {
       const responseText = combined ? combined[2] : given;
       // Choice text is exact except for capitalization and whitespace.
       correct = (!combined || combined[1].toUpperCase() === letter) &&
-        responseText.toLocaleLowerCase() === text.toLocaleLowerCase();
+        acceptedTexts.includes(responseText.toLocaleLowerCase());
     }
     return { directive: correct ? 'accept' : 'reject', directedPrompt: null };
   };

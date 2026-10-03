@@ -58,6 +58,7 @@ export default class SoloBonusRoom extends BonusRoom {
 
   startBonusAnswer ({ userId, username }) {
     if (!this.settings.typeToAnswer) {
+      super.startBonusAnswer({ userId, username });
       this.giveBonusAnswer({ userId, username }, { givenAnswer: this.bonus.answers_sanitized[this.currentPartNumber] });
       return;
     }

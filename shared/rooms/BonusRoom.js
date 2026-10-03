@@ -29,6 +29,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
 
     this.bonusQuestionSplit = [];
     this.bonusWordIndex = 0;
+    this.bonusAnswerer = null;
 
     this.query = {
       threePartBonuses: false,
@@ -37,7 +38,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
 
     this.settings = {
       ...this.settings,
-      readBonusLikeATossup: false,
+      readBonusLikeATossup: true,
       readingSpeed: 50
     };
   }
@@ -65,6 +66,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
 
   endCurrentBonus ({ userId }) {
     if (this.queryingQuestion) { return false; }
+    if (this.bonusAnswerer !== null) return false;
     if (this.bonusProgress === BONUS_PROGRESS_ENUM.READING && !this.settings.skip) { return false; }
 
     clearInterval(this.timer.interval);
@@ -89,14 +91,14 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
   }
 
   giveBonusAnswer ({ userId, username }, { givenAnswer }) {
-    if (typeof givenAnswer !== 'string' || this.bonusProgress !== BONUS_PROGRESS_ENUM.READING || this.currentPartNumber < 0) { return false; }
+    if (typeof givenAnswer !== 'string' || this.bonusProgress !== BONUS_PROGRESS_ENUM.READING || this.currentPartNumber < 0 || this.bonusAnswerer !== userId) { return false; }
 
     this.liveAnswer = '';
     clearInterval(this.timer.interval);
     clearTimeout(this.timeoutId);
     this.emitMessage({ type: CLIENT_MESSAGE_TYPE.TIMER_UPDATE, timeRemaining: ANSWER_TIME_LIMIT * 10 });
 
-    const { directive, directedPrompt } = this.checkAnswer(this.bonus.answers[this.currentPartNumber], givenAnswer);
+    const { directive, directedPrompt } = this.checkAnswer(this.bonus.answers_sanitized?.[this.currentPartNumber] ?? this.bonus.answers[this.currentPartNumber], givenAnswer, this.settings.strictness, this.bonus.parts_sanitized?.[this.currentPartNumber]);
     this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.GIVE_BONUS_ANSWER, currentPartNumber: this.currentPartNumber, directive, directedPrompt, givenAnswer, userId });
 
     if (directive === 'prompt') {
@@ -107,6 +109,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
       );
     } else {
       this.pointsPerPart.push(directive === 'accept' ? this.getPartValue() : 0);
+      this.bonusAnswerer = null;
       this.revealNextAnswer();
       this.revealNextPart();
     }
@@ -140,6 +143,8 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
     this.emitMessage({
       type: BONUS_CLIENT_MESSAGE_TYPE.REVEAL_NEXT_ANSWER,
       answer: this.bonus.answers[this.currentPartNumber],
+      question: this.bonus.parts[this.currentPartNumber],
+      correct: this.pointsPerPart[this.currentPartNumber] > 0,
       currentPartNumber: this.currentPartNumber,
       lastPartRevealed
     });
@@ -159,9 +164,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
         value: this.getPartValue()
       });
       const partSanitized = this.bonus.parts_sanitized?.[this.currentPartNumber] ?? '';
-      this.startReadingBonusText(partSanitized, () => {
-        this.autoStartBonusAnswer();
-      });
+      this.startReadingBonusText(partSanitized, () => {});
     } else {
       this.emitMessage({
         type: BONUS_CLIENT_MESSAGE_TYPE.REVEAL_NEXT_PART,
@@ -174,6 +177,9 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
   }
 
   startBonusAnswer ({ userId, username }) {
+    if (this.bonusProgress !== BONUS_PROGRESS_ENUM.READING || this.currentPartNumber < 0 || this.bonusAnswerer !== null) return false;
+    this.bonusAnswerer = userId;
+    clearTimeout(this.timeoutId);
     this.emitMessage({ type: BONUS_ROOM_MESSAGE_TYPE.START_BONUS_ANSWER, userId });
     this.startServerTimer(
       ANSWER_TIME_LIMIT * 10,
@@ -191,6 +197,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
     this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.START_NEXT_BONUS, packetLength: this.packet.bonuses.length, bonus: this.bonus, userId, username });
     this.currentPartNumber = -1;
     this.pointsPerPart = [];
+    this.bonusAnswerer = null;
     this.bonusProgress = BONUS_PROGRESS_ENUM.READING;
     this.revealLeadin();
     if (!this.settings.readBonusLikeATossup) {

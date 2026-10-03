@@ -4,7 +4,7 @@ import BonusClient from './BonusClient.js';
 
 const modeVersion = '2025-01-14';
 const queryVersion = '2025-05-07';
-const settingsVersion = '2024-11-02';
+const settingsVersion = 'nsb-single-bonus';
 
 export default class SoloBonusClient extends BonusClient {
   onmessage (message) {
@@ -25,16 +25,6 @@ export default class SoloBonusClient extends BonusClient {
     if (lastPartRevealed && (this.room.mode !== MODE_ENUM.LOCAL)) {
       questionStats.recordBonus({ _id: bonus._id, pointsPerPart, multiplayer: false });
     }
-  }
-
-  revealNextPart ({ bonusEligibleTeamId, currentPartNumber, part, value }) {
-    super.revealNextPart({ bonusEligibleTeamId, currentPartNumber, part, value });
-    const room = this.room;
-    const USER_ID = this.USER_ID;
-    const input = document.getElementById(`checkbox-${currentPartNumber + 1}`);
-    input.addEventListener('click', function () {
-      room.message({ userId: USER_ID }, { type: 'toggle-bonus-part', partNumber: currentPartNumber, correct: this.checked });
-    });
   }
 
   setCategories ({ alternateSubcategories, categories, subcategories, percentView, categoryPercents }) {
@@ -137,10 +127,9 @@ export default class SoloBonusClient extends BonusClient {
  * Calculates the points per bonus and updates the display.
  */
   updateStatDisplay (stats) {
-    const numBonuses = stats[0] + stats[10] + stats[20] + stats[30];
-    const points = 30 * stats[30] + 20 * stats[20] + 10 * stats[10];
-    const ppb = Math.round(100 * points / numBonuses) / 100 || 0;
+    const numBonuses = stats[0] + stats[10];
+    const points = 10 * stats[10];
     const includePlural = (numBonuses === 1) ? '' : 'es';
-    document.getElementById('statline').textContent = `${ppb} PPB with ${numBonuses} bonus${includePlural} seen (${stats[30]}/${stats[20]}/${stats[10]}/${stats[0]}, ${points} pts)`;
+    document.getElementById('statline').textContent = `${stats[10]} correct with ${numBonuses} bonus${includePlural} seen (${points} pts)`;
   }
 }

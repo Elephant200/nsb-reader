@@ -362,9 +362,18 @@ export default class QuestionRoom extends Room {
       const packetNumber = isNaN(rawPacketNumber) ? 1 : rawPacketNumber;
       for (let i = 0; i < questions.length; i++) {
         questions[i]._id = Math.random().toString(16).slice(2); // generate a random id
-        questions[i].number = i + 1;
+        questions[i].number ??= i + 1;
         questions[i].packet = { number: packetNumber };
         questions[i].set = { name: filename };
+        if (s === 'tossups') {
+          questions[i].question_sanitized ??= questions[i].question?.replace(/<br\s*\/?\s*>/gi, '\n');
+          questions[i].answer_sanitized ??= questions[i].answer;
+        } else {
+          questions[i].leadin ??= '';
+          questions[i].leadin_sanitized ??= questions[i].leadin;
+          questions[i].parts_sanitized ??= questions[i].parts?.map(part => part.replace(/<br\s*\/?\s*>/gi, '\n'));
+          questions[i].answers_sanitized ??= questions[i].answers;
+        }
       }
       this.localPacket[s] = questions;
     }

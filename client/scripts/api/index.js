@@ -19,8 +19,8 @@ export default class api {
     * directedPrompt: String | null
   * }>}
   */
-  static checkAnswer (answerline, givenAnswer, strictness = 7) {
-    return checkAnswer(answerline, givenAnswer, strictness);
+  static checkAnswer (answerline, givenAnswer, strictness = 7, question = '') {
+    return checkAnswer(answerline, givenAnswer, strictness, question);
   }
 
   static async getBonus (_id) {

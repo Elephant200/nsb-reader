@@ -54,9 +54,8 @@ export const TossupClientMixin = (ClientClass) => class extends ClientClass {
   }
 
   revealTossupAnswer ({ answer, question }) {
-    const q = question.replace(/\n/g, '<br>');
-    document.getElementById('question').innerHTML = q;
-    document.getElementById('answer').innerHTML = 'ANSWER: ' + answer;
+    document.getElementById('question').innerHTML = renderReadingText(question, { formatChoices: false });
+    document.getElementById('answer').innerHTML = 'ANSWER: ' + renderReadingText(answer, { formatChoices: false });
     document.getElementById('pause').disabled = true;
   }
 
@@ -79,6 +78,9 @@ export const TossupClientMixin = (ClientClass) => class extends ClientClass {
 
   startNextTossup ({ tossup, packetLength }) {
     this.startNextQuestion({ question: tossup, packetLength });
+    document.getElementById('buzz').classList.remove('d-none');
+    document.getElementById('pause').classList.remove('d-none');
+    document.getElementById('reveal')?.classList.add('d-none');
     document.getElementById('buzz').textContent = 'Buzz';
     document.getElementById('buzz').disabled = false;
     document.getElementById('pause').disabled = false;

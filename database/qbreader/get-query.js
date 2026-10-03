@@ -162,29 +162,29 @@ async function getQuery (options = {}) {
 
   const tossupQuery = ['tossup', 'all'].includes(options.questionType)
     ? getQuestionQuery({
-        fields: [
-          { kind: 'question', sql: 'q.question_sanitized' },
-          { kind: 'answer', sql: 'q.answer_sanitized' }
-        ],
-        mapper: mapTossupRow,
-        options,
-        pagination: options.tossupPagination,
-        table: 'tossups'
-      })
+      fields: [
+        { kind: 'question', sql: 'q.question_sanitized' },
+        { kind: 'answer', sql: 'q.answer_sanitized' }
+      ],
+      mapper: mapTossupRow,
+      options,
+      pagination: options.tossupPagination,
+      table: 'tossups'
+    })
     : null;
 
   const bonusQuery = ['bonus', 'all'].includes(options.questionType)
     ? getQuestionQuery({
-        fields: [
-          { kind: 'question', sql: 'q.leadin_sanitized' },
-          { kind: 'question', sql: "array_to_string(q.parts_sanitized, ' ')" },
-          { kind: 'answer', sql: "array_to_string(q.answers_sanitized, ' ')" }
-        ],
-        mapper: mapBonusRow,
-        options,
-        pagination: options.bonusPagination,
-        table: 'bonuses'
-      })
+      fields: [
+        { kind: 'question', sql: 'q.leadin_sanitized' },
+        { kind: 'question', sql: "array_to_string(q.parts_sanitized, ' ')" },
+        { kind: 'answer', sql: "array_to_string(q.answers_sanitized, ' ')" }
+      ],
+      mapper: mapBonusRow,
+      options,
+      pagination: options.bonusPagination,
+      table: 'bonuses'
+    })
     : null;
 
   const values = await Promise.all([tossupQuery, bonusQuery]);

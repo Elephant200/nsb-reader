@@ -1,6 +1,5 @@
 import star from '../../scripts/auth/star.js';
 import { removeParentheses } from '../../../shared/string-utils.js';
-import getBonusPartLabel from '../../scripts/utilities/get-bonus-part-label.js';
 
 /**
  * See tossup-game-card.js for documentation.
@@ -21,7 +20,7 @@ export default async function addBonusGameCard ({ bonus, starred }) {
   for (let i = 0; i < bonusLength; i++) {
     cardBody += `<hr></hr>
       <p>
-        ${getBonusPartLabel(bonus, i)} ${parts[i]}
+        ${parts[i]}
         ${i + 1 === bonusLength ? `<a class="user-select-none" href="#" id="${reportQuestionId}" data-bs-toggle="modal" data-bs-target="#report-question-modal">Report Question</a>` : ''}
       </p>
       <div>ANSWER: ${answers[i]}</div>

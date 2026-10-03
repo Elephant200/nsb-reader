@@ -61,6 +61,7 @@ test('only the eligible player may answer a bonus, and repeated submissions do n
   room.bonusProgress = BONUS_PROGRESS_ENUM.READING;
   room.bonus = { parts: ['Gas?'], answers: ['W) OXYGEN'], values: [10] };
   room.currentPartNumber = 0;
+  room.startBonusAnswer({ userId: 'b' });
   room.giveBonusAnswer({ userId: 'c' }, { givenAnswer: 'W' });
   assert.deepEqual(room.pointsPerPart, []);
   room.giveBonusAnswer({ userId: 'b' }, { givenAnswer: 'W' });

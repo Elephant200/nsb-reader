@@ -9,9 +9,9 @@ const connectionString =
 
 export const pool = connectionString
   ? new Pool({
-      connectionString,
-      ssl: process.env.POSTGRES_SSL === 'false' ? false : { rejectUnauthorized: false }
-    })
+    connectionString,
+    ssl: process.env.POSTGRES_SSL === 'false' ? false : { rejectUnauthorized: false }
+  })
   : null;
 
 export async function query (text, values = []) {

@@ -107,6 +107,19 @@ code {
     font-size: 20px;
 }
 
+.nsb-fraction {
+    display: inline-flex;
+    flex-direction: column;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 1;
+    margin: 0 .15em;
+}
+
+.nsb-fraction > span:first-child {
+    border-bottom: 1px solid currentColor;
+}
+
 .navbar {
     background-color: #dfebfb;
 }
@@ -151,4 +164,3 @@ a.list-group-item:hover {
 #set-settings {
     min-height: 90px;
 }
-

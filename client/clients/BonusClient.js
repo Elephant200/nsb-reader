@@ -39,30 +39,25 @@ export const BonusClientMixin = (ClientClass) => class extends ClientClass {
   giveBonusAnswer ({ currentPartNumber, directive, directedPrompt, userId }) {
     super.giveAnswer({ directive, directedPrompt, userId });
 
-    if (directive === 'accept') {
-      document.getElementById(`checkbox-${currentPartNumber + 1}`).checked = true;
-    }
-
-    if (directive !== 'prompt') {
-      document.getElementById('reveal').disabled = false;
-    }
+    document.getElementById('reveal').disabled = true;
   }
 
   revealLeadin ({ leadin }) {
     const paragraph = document.createElement('p');
     paragraph.id = 'leadin';
-    paragraph.innerHTML = leadin;
+    paragraph.innerHTML = renderReadingText(leadin, { formatChoices: false });
     document.getElementById('question').appendChild(paragraph);
   }
 
-  revealNextAnswer ({ answer, currentPartNumber, lastPartRevealed }) {
-    const paragraph = document.createElement('p');
-    paragraph.innerHTML = 'ANSWER: ' + answer;
-    document.getElementById(`bonus-part-${currentPartNumber + 1}`).appendChild(paragraph);
+  revealNextAnswer ({ answer, question, correct, currentPartNumber, lastPartRevealed }) {
+    if (question) document.getElementById(`bonus-part-${currentPartNumber + 1}`).querySelector('p').innerHTML = renderReadingText(question, { formatChoices: false });
+    document.getElementById('answer').innerHTML = 'ANSWER: ' + renderReadingText(answer, { formatChoices: false });
+    this.updateBonusFeedback(correct);
 
     if (lastPartRevealed) {
       document.getElementById('reveal').disabled = true;
       document.getElementById('next').textContent = 'Next';
+      document.getElementById('next').disabled = false;
     }
   }
 
@@ -72,40 +67,33 @@ export const BonusClientMixin = (ClientClass) => class extends ClientClass {
       bonusEligibleTeamId === this.room.players[this.USER_ID]?.teamId
     );
 
-    const input = document.createElement('input');
-    input.id = `checkbox-${currentPartNumber + 1}`;
-    input.className = 'checkbox form-check-input rounded-0 me-1';
-    input.type = 'checkbox';
-    input.style = 'width: 20px; height: 20px; cursor: pointer';
-
-    const inputWrapper = document.createElement('label');
-    inputWrapper.style = 'cursor: pointer';
-    inputWrapper.appendChild(input);
-
     const p = document.createElement('p');
-    p.innerHTML = `[${value}] ${part}`;
+    p.innerHTML = renderReadingText(part, { formatChoices: false });
 
     const bonusPart = document.createElement('div');
     bonusPart.id = `bonus-part-${currentPartNumber + 1}`;
     bonusPart.appendChild(p);
 
-    const row = document.createElement('div');
-    row.className = 'd-flex';
-    row.appendChild(inputWrapper);
-    row.appendChild(bonusPart);
-
-    document.getElementById('question').appendChild(row);
+    document.getElementById('question').appendChild(bonusPart);
+    document.getElementById('reveal').textContent = 'Buzz';
   }
 
-  startBonusAnswer () {
+  startBonusAnswer ({ userId } = {}) {
+    document.getElementById('reveal').disabled = true;
+    document.getElementById('next').disabled = true;
+    if (userId && userId !== this.USER_ID) return;
     document.getElementById('answer-input-group').classList.remove('d-none');
     document.getElementById('answer-input').focus();
-    document.getElementById('reveal').disabled = true;
   }
 
   startNextBonus ({ bonus, packetLength }) {
     this.startNextQuestion({ packetLength, question: bonus });
+    document.getElementById('buzz')?.classList.add('d-none');
+    document.getElementById('pause')?.classList.add('d-none');
+    document.getElementById('reveal').classList.remove('d-none');
     document.getElementById('next').textContent = 'Skip';
+    document.getElementById('bonus-answer-feedback')?.classList.add('d-none');
+    document.getElementById('reveal').textContent = 'Buzz';
   }
 
   setMode ({ mode }) {
@@ -123,7 +111,18 @@ export const BonusClientMixin = (ClientClass) => class extends ClientClass {
   }
 
   toggleBonusPart ({ partNumber, correct }) {
-    document.getElementById(`checkbox-${partNumber + 1}`).checked = correct;
+    this.updateBonusFeedback(correct);
+  }
+
+  updateBonusFeedback (correct) {
+    const feedback = document.getElementById('bonus-answer-feedback');
+    if (!feedback) return;
+    const owner = this.room.ownerId === undefined || this.room.ownerId === this.USER_ID;
+    feedback.classList.toggle('d-none', !owner);
+    document.getElementById('bonus-correctness-label').textContent = correct ? 'right' : 'wrong';
+    const button = document.getElementById('toggle-bonus-correctness');
+    button.textContent = correct ? 'I was wrong' : 'I was right';
+    button.dataset.correct = String(!!correct);
   }
 
   toggleThreePartBonuses ({ threePartBonuses }) {
@@ -145,6 +144,10 @@ export const BonusClientMixin = (ClientClass) => class extends ClientClass {
 };
 
 function attachEventListeners (room, socket) {
+  document.getElementById('toggle-bonus-correctness')?.addEventListener('click', function (event) {
+    event.preventDefault();
+    socket.sendToServer({ type: BONUS_ROOM_MESSAGE_TYPE.TOGGLE_BONUS_PART, partNumber: 0, correct: this.dataset.correct !== 'true' });
+  });
   document.getElementById('reveal').addEventListener('click', function () {
     this.blur();
     socket.sendToServer({ type: BONUS_ROOM_MESSAGE_TYPE.START_BONUS_ANSWER });

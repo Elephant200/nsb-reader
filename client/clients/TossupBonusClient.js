@@ -23,9 +23,9 @@ export default class TossupBonusClient extends BonusClientMixin(TossupClientMixi
     this.bonusEligibleTeamId = teamId;
   }
 
-  startBonusAnswer () {
+  startBonusAnswer (data) {
     if (this.bonusEligibleTeamId !== null && this.USER_ID !== this.bonusEligibleTeamId) { return; }
-    super.startBonusAnswer();
+    super.startBonusAnswer(data);
   }
 
   startNextTossup ({ tossup, packetLength }) {

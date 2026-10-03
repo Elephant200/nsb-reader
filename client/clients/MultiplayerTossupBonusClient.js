@@ -154,6 +154,9 @@ export const MultiplayerClientMixin = (ClientClass) => class extends ClientClass
     this.room.setLength = packetCount;
     this.TEAM_ID = teamId;
     this.USER_ID = userId;
+    document.getElementById('buzz').classList.toggle('d-none', currentQuestionType === QUESTION_TYPE_ENUM.BONUS);
+    document.getElementById('pause').classList.toggle('d-none', currentQuestionType === QUESTION_TYPE_ENUM.BONUS);
+    document.getElementById('reveal').classList.toggle('d-none', currentQuestionType !== QUESTION_TYPE_ENUM.BONUS);
     window.localStorage.setItem('USER_ID', this.USER_ID);
 
     document.getElementById('buzz').disabled = !canBuzz;
@@ -549,14 +552,15 @@ export const MultiplayerClientMixin = (ClientClass) => class extends ClientClass
     super.pause({ paused });
   }
 
-  revealAnswer ({ answer, question }) {
-    super.revealAnswer({ answer, question });
+  revealTossupAnswer ({ answer, question }) {
+    super.revealTossupAnswer({ answer, question });
     document.getElementById('next').textContent = 'Next';
     document.getElementById('next').disabled = false;
   }
 
-  revealNextAnswer ({ answer, currentPartNumber, lastPartRevealed }) {
-    super.revealNextAnswer({ answer, currentPartNumber, lastPartRevealed });
+  revealNextAnswer (data) {
+    const { lastPartRevealed } = data;
+    super.revealNextAnswer(data);
     if (lastPartRevealed) {
       document.getElementById('next').textContent = 'Next';
       document.getElementById('next').disabled = false;
@@ -675,6 +679,7 @@ export const MultiplayerClientMixin = (ClientClass) => class extends ClientClass
   }
 
   startNextTossup ({ tossup, packetLength, username }) {
+    document.getElementById('bonus-answer-feedback')?.classList.add('d-none');
     this.logEventConditionally(username, 'started the next tossup');
     super.startNextTossup({ tossup, packetLength });
   }

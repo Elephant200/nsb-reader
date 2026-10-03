@@ -262,7 +262,7 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
     const endOfQuestion = this.settings.stopOnPower ? this.stopOnPowerEnded : (this.wordIndex === this.questionSplit.length);
     const inSuperpower = false;
     const inPower = false;
-    const { directive, directedPrompt } = this.checkAnswer(this.tossup.answer, givenAnswer, this.settings.strictness);
+    const { directive, directedPrompt } = this.checkAnswer(this.tossup.answer_sanitized ?? this.tossup.answer, givenAnswer, this.settings.strictness, this.tossup.question_sanitized);
     const isCorrect = directive === 'accept';
     const points = isCorrect
       ? 4

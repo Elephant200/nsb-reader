@@ -26,5 +26,12 @@ test('short answers retain answerline acceptance instructions', () => {
 test('numeric answers keep fraction denominators and signs', () => {
   assert.equal(check('7/5', '7').directive, 'reject');
   assert.equal(check('7/5', '7 / 5').directive, 'accept');
+  assert.equal(check('7/5', '7⁄5').directive, 'accept');
   assert.equal(check('-2', '2').directive, 'reject');
+});
+
+test('multiple choice accepts the displayed option when the answer key abbreviates it', () => {
+  const question = 'Which?\nW) sodium chloride\nX) magnesium oxide\nY) calcium oxide\nZ) water';
+  assert.equal(check('W) NaCl', 'sodium chloride', 7, question).directive, 'accept');
+  assert.equal(check('W) NaCl', 'X sodium chloride', 7, question).directive, 'reject');
 });

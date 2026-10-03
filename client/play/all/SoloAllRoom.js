@@ -45,7 +45,10 @@ export default class SoloAllRoom extends TossupBonusRoom {
   }
 
   startBonusAnswer (player) {
-    if (!this.settings.typeToAnswer) return this.giveBonusAnswer(player, { givenAnswer: this.bonus.answers_sanitized[this.currentPartNumber] });
+    if (!this.settings.typeToAnswer) {
+      super.startBonusAnswer(player);
+      return this.giveBonusAnswer(player, { givenAnswer: this.bonus.answers_sanitized[this.currentPartNumber] });
+    }
     return super.startBonusAnswer(player);
   }
 
