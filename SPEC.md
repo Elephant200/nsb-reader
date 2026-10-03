@@ -4,7 +4,7 @@ NSB Reader provides high-school National Science Bowl practice through QBReader'
 
 ## Reading and answers
 
-Questions appear progressively. Each multiple-choice option occupies its own line. Players buzz before entering an answer, including on multiple-choice questions. Accept the correct W/X/Y/Z letter or correct choice text; when both are supplied, both must agree. Short answers use automatic checking with a grading override.
+Questions appear progressively, beginning with the category and “Multiple Choice” or “Short Answer” before the prompt. Each multiple-choice option occupies its own line. Players buzz before entering an answer, including on multiple-choice questions. Accept the correct W/X/Y/Z letter or correct choice text; when both are supplied, both must agree. Short answers use automatic checking with a grading override.
 
 Solo practice supports tossups, bonuses, and paired questions. Paired practice shows the bonus after a missed tossup by default, with an earned-only option. Question selection supports random practice, categories, sets, and packets. Question history and reports remain available.
 

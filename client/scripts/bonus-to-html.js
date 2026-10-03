@@ -24,7 +24,7 @@ export default function bonusToHTML (bonus, tagPronunciationGuides = false) {
     div.appendChild(document.createElement('br'));
   }
 
-  const tag = bonus.metadata ?? `${bonus.category} / ${bonus.subcategory}${bonus.alternate_subcategory ? ' / ' + bonus.alternate_subcategory : ''}`;
+  const tag = bonus.metadata ?? `${bonus.category}`;
   div.appendChild(document.createTextNode(`<${tag}>`));
   return div;
 }

@@ -4,9 +4,7 @@ import star from '../scripts/auth/star.js';
 import TossupCard from './TossupCard.jsx';
 import BonusCard from './BonusCard.jsx';
 import CategoryModal from '../scripts/components/CategoryModal.jsx';
-import DifficultyDropdown from '../scripts/components/DifficultyDropdown.jsx';
 import Star from '../scripts/components/Star.jsx';
-import { getDropdownValues, setDropdownValues } from '../scripts/utilities/dropdown-checklist.js';
 import filterParams from '../scripts/utilities/filter-params.js';
 import CategoryManager from '../../shared/category-manager.js';
 import reportQuestion from '../scripts/api/report-question.js';
@@ -52,7 +50,6 @@ function QueryForm () {
   const [ignoreWordOrder, setIgnoreWordOrder] = React.useState(initialParams.get('ignoreWordOrder') === 'true');
   const [exactPhrase, setExactPhrase] = React.useState(initialParams.get('exactPhrase') === 'true');
   const [caseSensitive, setCaseSensitive] = React.useState(initialParams.get('caseSensitive') === 'true');
-  const [powermarkOnly, setPowermarkOnly] = React.useState(initialParams.get('powermarkOnly') === 'true');
   const [hideAnswerlines, setHideAnswerlines] = React.useState(false);
   const [hideCardFooters, setHideCardFooters] = React.useState(false);
 
@@ -135,13 +132,11 @@ function QueryForm () {
     const unfilteredParams = {
       q: queryString,
       ...categoryManager.export(),
-      difficulties: getDropdownValues('difficulties'),
       maxReturnLength,
       questionType,
       randomize,
       exactPhrase,
       caseSensitive,
-      powermarkOnly,
       regex,
       ignoreWordOrder,
       searchType,
@@ -287,8 +282,6 @@ function QueryForm () {
     document.getElementById('set-list').innerHTML = setList.map(setName => `<option>${setName}</option>`).join('');
 
     if (window.location.search !== '') {
-      const difficulties = initialParams.get('difficulties')?.split(',')?.map(difficulty => parseInt(difficulty));
-      if (difficulties) { setDropdownValues('difficulties', difficulties); }
       handleSubmit(null, initialParams.get('randomize') === 'true');
     }
   }, []);
@@ -303,9 +296,6 @@ function QueryForm () {
           <button id='randomize' className='btn btn-success' onClick={event => { handleSubmit(event, true); }}>Random</button>
         </div>
         <div className='row'>
-          <div className='col-6 col-xl-3 mb-2'>
-            <DifficultyDropdown />
-          </div>
           <div className='col-6 col-xl-3 mb-2'>
             <input type='number' className='form-control' id='max-return-length' placeholder='# to Display' value={maxReturnLength} onChange={event => { setMaxReturnLength(event.target.value); }} />
           </div>
@@ -356,10 +346,6 @@ function QueryForm () {
             <div className='form-check form-switch'>
               <input className='form-check-input' type='checkbox' role='switch' id='toggle-case-sensitive' checked={caseSensitive} onChange={() => { setCaseSensitive(!caseSensitive); }} />
               <label className='form-check-label' htmlFor='toggle-case-sensitive'>Case sensitive search</label>
-            </div>
-            <div className='form-check form-switch'>
-              <input className='form-check-input' type='checkbox' role='switch' id='toggle-powermark-only' checked={powermarkOnly} onChange={() => { setPowermarkOnly(!powermarkOnly); }} />
-              <label className='form-check-label' htmlFor='toggle-powermark-only'>Powermarked tossups only</label>
             </div>
             <div className='form-check form-switch'>
               <input className='form-check-input' type='checkbox' role='switch' id='toggle-hide-answerlines' checked={hideAnswerlines} onChange={() => { setHideAnswerlines(!hideAnswerlines); }} />

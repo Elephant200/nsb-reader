@@ -19,24 +19,3 @@ document.getElementById('difficulty').textContent = tossup.difficulty;
 document.getElementById('standard').textContent = tossup.set.standard;
 document.getElementById('time-created').textContent = new Date(tossup.createdAt).toLocaleString();
 document.getElementById('last-modified').textContent = new window.Date(tossup.updatedAt).toLocaleString();
-
-const { stats } = await fetch('/api/question-stats/tossup?' + new URLSearchParams({ _id: tossup._id })).then(response => response.json());
-
-if (stats) {
-  document.getElementById('tuh').textContent = stats.count;
-
-  for (const [pointValue, count] of Object.entries(stats.resultCounts).sort((a, b) => b[0] - a[0])) {
-    const pointValueElement = document.createElement('div');
-    pointValueElement.innerHTML = `<b>${pointValue}s:</b> ${count}`;
-    document.getElementById('result-counts').appendChild(pointValueElement);
-  }
-
-  const averageCelerity = stats.numCorrect > 0 ? (stats.totalCorrectCelerity / stats.numCorrect) : 0;
-  document.getElementById('average-celerity').textContent = averageCelerity.toFixed(3);
-  document.getElementById('total-points').textContent = stats.totalPoints;
-  document.getElementById('pptu').textContent = stats.pptu.toFixed(2);
-} else {
-  document.getElementById('question-stats').textContent = 'No stats available for this question.';
-}
-
-document.getElementById('question-stats').classList.remove('d-none');

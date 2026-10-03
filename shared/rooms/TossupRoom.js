@@ -1,5 +1,6 @@
 import { ANSWER_TIME_LIMIT, DEAD_TIME_LIMIT, MODE_ENUM, TOSSUP_PROGRESS_ENUM } from '../constants.js';
 import insertTokensIntoHTML from '../insert-tokens-into-html.js';
+import { withTossupReadingHeader } from '../question-reading-header.js';
 import QuestionRoom from './QuestionRoom.js';
 import { CLIENT_MESSAGE_TYPE } from '../protocol/room.js';
 import { QUESTION_ROOM_MESSAGE_TYPE } from '../protocol/question-room.js';
@@ -288,6 +289,7 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
     this.tossup = await this.getNextQuestion('tossups');
     this.queryingQuestion = false;
     if (!this.tossup) { return; }
+    this.tossup = withTossupReadingHeader(this.tossup);
     this.emitMessage({ type: TOSSUP_CLIENT_MESSAGE_TYPE.START_NEXT_TOSSUP, packetLength: this.packet.tossups.length, tossup: this.tossup, userId, username });
     this.questionSplit = this.tossup.question_sanitized.split(' ').filter(word => word !== '');
     this.wordIndex = 0;

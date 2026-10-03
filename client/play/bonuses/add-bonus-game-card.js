@@ -8,7 +8,7 @@ import getBonusPartLabel from '../../scripts/utilities/get-bonus-part-label.js';
 export default async function addBonusGameCard ({ bonus, starred }) {
   if (!bonus || Object.keys(bonus).length === 0) { return; }
 
-  const { leadin, parts, answers, category, subcategory, alternate_subcategory: alternateSubcategory, set, packet, number, _id } = bonus;
+  const { leadin, parts, answers, category, set, packet, number, _id } = bonus;
   const now = new Date();
   const secondsSinceMidnight = now.getHours() * 3600 + now.getMinutes() * 60 + now.getSeconds();
   const uniqueId = `${_id}-${secondsSinceMidnight}`;
@@ -48,7 +48,7 @@ export default async function addBonusGameCard ({ bonus, starred }) {
         ${cardBody}
       </div>
       <div class="card-footer">
-        <small class="text-muted">${set.name} / ${category} / ${subcategory}${alternateSubcategory ? ' / ' + alternateSubcategory : ''}</small>
+        <small class="text-muted">${set.name} / ${category}</small>
         <small class="text-muted float-end">Packet ${packet.number} / Question ${number}</small>
       </div>
     </div>

@@ -348,7 +348,7 @@ export const MultiplayerClientMixin = (ClientClass) => class extends ClientClass
       this.room.players[userId].superpowers++;
     } else if (score === 15) {
       this.room.players[userId].powers++;
-    } else if (score === 10) {
+    } else if (score === 4) {
       this.room.players[userId].tens++;
     } else if (score < 0) {
       this.room.players[userId].negs++;
@@ -541,6 +541,7 @@ export const MultiplayerClientMixin = (ClientClass) => class extends ClientClass
     });
 
     document.getElementById('toggle-controlled').disabled = this.room.public || (this.room.ownerId !== this.USER_ID);
+    this.toggleControlled({ controlled: true });
   }
 
   pause ({ paused, username }) {

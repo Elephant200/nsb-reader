@@ -22,3 +22,9 @@ test('short answers retain answerline acceptance instructions', () => {
   assert.equal(check('MITOCHONDRION (ACCEPT: MITOCHONDRIA)', 'mitochondria').directive, 'accept');
   assert.equal(check('oxygen', '').directive, 'reject');
 });
+
+test('numeric answers keep fraction denominators and signs', () => {
+  assert.equal(check('7/5', '7').directive, 'reject');
+  assert.equal(check('7/5', '7 / 5').directive, 'accept');
+  assert.equal(check('-2', '2').directive, 'reject');
+});

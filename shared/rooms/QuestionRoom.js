@@ -156,7 +156,7 @@ export default class QuestionRoom extends Room {
     do {
       switch (this.mode) {
         case MODE_ENUM.SET_NAME:
-          if (this.questionIndex[questionType] === this.packet[questionType].length) {
+          while (this.questionIndex[questionType] >= this.packet[questionType].length) {
             this.questionIndex[questionType] = 0;
             this.query.packetNumbers.shift();
             const packetNumber = this.query.packetNumbers[0];
@@ -369,6 +369,6 @@ export default class QuestionRoom extends Room {
       this.localPacket[s] = questions;
     }
 
-    this.emitMessage({ type: QUESTION_CLIENT_MESSAGE_TYPE.ALERT, message: `Successfully uploaded ${this.localPacket.tossups.length} tossups and ${this.localPacket.bonuses.length} bonuses.`, userId });
+    this.emitMessage({ type: QUESTION_CLIENT_MESSAGE_TYPE.ALERT, message: `Successfully uploaded ${this.localPacket.tossups?.length ?? 0} tossups and ${this.localPacket.bonuses?.length ?? 0} bonuses.`, userId });
   }
 }

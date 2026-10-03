@@ -1,4 +1,5 @@
 import { ANSWER_TIME_LIMIT, BONUS_PROGRESS_ENUM, MODE_ENUM } from '../constants.js';
+import { withBonusReadingHeader } from '../question-reading-header.js';
 import QuestionRoom from './QuestionRoom.js';
 import { CLIENT_MESSAGE_TYPE } from '../protocol/room.js';
 import { QUESTION_ROOM_MESSAGE_TYPE } from '../protocol/question-room.js';
@@ -185,6 +186,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
     this.bonus = await this.getNextQuestion('bonuses');
     this.queryingQuestion = false;
     if (!this.bonus) { return; }
+    this.bonus = withBonusReadingHeader(this.bonus);
     clearTimeout(this.timeoutId);
     this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.START_NEXT_BONUS, packetLength: this.packet.bonuses.length, bonus: this.bonus, userId, username });
     this.currentPartNumber = -1;

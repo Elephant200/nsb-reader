@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 
 const ssiFileNames = [
-  'api-docs-sidebar.html',
   'funny-toast.html',
   'head.html',
   'nav.html',

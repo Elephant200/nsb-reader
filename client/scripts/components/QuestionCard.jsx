@@ -18,7 +18,7 @@ export default function QuestionCard ({ children, onClickHeader, question, topRi
           data-bs-toggle={onClickHeader === 'collapse' ? 'collapse' : null}
           data-bs-target={onClickHeader === 'collapse' ? `#question-${_id}` : null}
         >
-          {question.set.name} | {question.category} | {question.subcategory} {question.alternate_subcategory ? ' | ' + question.alternate_subcategory : ''} | {question.difficulty}
+          {question.set.name} | {question.category}
         </b>
         <span>
           <b className='clickable' data-bs-toggle='collapse' data-bs-target={`#question-${_id}`}>

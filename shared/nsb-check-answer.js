@@ -11,7 +11,15 @@ export function createNsbAnswerChecker (checkShortAnswer) {
     const reject = { directive: 'reject', directedPrompt: null };
     if (!answer || !given) return reject;
     const choice = answer.match(/^([WXYZ])\)\s*(.*)$/i);
-    if (!choice) return checkShortAnswer(answerline, givenAnswer, strictness);
+    if (!choice) {
+      // Fuzzy word matching must not accept a fraction's numerator as its answer.
+      const numeric = /^[+-]?(?:\d+(?:\.\d+)?|\.\d+)(?:\s*\/\s*[+-]?\d+(?:\.\d+)?)?$/;
+      if (numeric.test(answer)) {
+        const normalizeNumber = value => value.replace(/\s/g, '').replace(/^\+/, '');
+        return { directive: normalizeNumber(answer) === normalizeNumber(given) ? 'accept' : 'reject', directedPrompt: null };
+      }
+      return checkShortAnswer(answerline, givenAnswer, strictness);
+    }
 
     const letter = choice[1].toUpperCase();
     const text = choice[2].replace(/\s*\((?:ACCEPT|DO NOT ACCEPT|ALSO ACCEPT)[\s\S]*$/i, '').trim();

@@ -22,42 +22,6 @@ export default function BonusCard ({ bonus, highlightedBonus, hideAnswerlines, h
     document.getElementById('report-question-id').value = _id;
   }
 
-  function showBonusStats () {
-    fetch('/api/question-stats/bonus?' + new URLSearchParams({ _id }))
-      .then(response => response.json())
-      .then(response => {
-        document.getElementById('bonus-stats-question-id').value = _id;
-        const { stats } = response;
-        if (!stats) {
-          document.getElementById('bonus-stats-body').textContent = 'No stats found for this question.';
-          return;
-        }
-
-        const statsList = [['BH', stats.count]];
-
-        for (const [i, part] of stats.partConversion.entries()) {
-          statsList.push([`Part ${i + 1}`, `${(10 * part).toFixed(2)} pts`]);
-        }
-
-        const resultCountsKeys = Object.keys(stats.resultCounts).sort((a, b) => b - a);
-
-        statsList.push([resultCountsKeys.map(key => `${key}s`).join('/') + ':', resultCountsKeys.map(key => stats.resultCounts[key]).join('/')]);
-        statsList.push(['Total Points', stats.totalPoints.toFixed(2)]);
-        statsList.push(['PPB', stats.ppb.toFixed(2)]);
-
-        const ul = document.createElement('ul');
-        ul.className = 'list-group';
-        for (const [label, value] of statsList) {
-          const li = document.createElement('li');
-          li.className = 'list-group-item d-flex justify-content-between align-items-center';
-          li.innerHTML = `${label} <span>${value}</span>`;
-          ul.appendChild(li);
-        }
-        document.getElementById('bonus-stats-body').textContent = '';
-        document.getElementById('bonus-stats-body').appendChild(ul);
-      });
-  }
-
   return (
     <QuestionCard
       onClickHeader={clickToCopy}
@@ -77,7 +41,7 @@ export default function BonusCard ({ bonus, highlightedBonus, hideAnswerlines, h
         )}
       </div>
       <div className={`card-footer d-flex justify-content-between ${hideCardFooter && 'd-none'}`}>
-        <div className='clickable flex-grow-1' onClick={showBonusStats} data-bs-toggle='modal' data-bs-target='#bonus-stats-modal'>
+        <div className='flex-grow-1'>
           <small className='text-muted'>
             {bonus.packet.name ? 'Packet ' + bonus.packet.name : <span>&nbsp;</span>}
           </small>

@@ -12,7 +12,7 @@ import { removeParentheses } from '../../../shared/string-utils.js';
 export default async function addTossupGameCard ({ roomHistoryId = 'room-history', starred, tossup }) {
   if (!tossup || Object.keys(tossup).length === 0) return;
 
-  const { markedQuestion, answer, category, subcategory, alternate_subcategory: alternateSubcategory, set, packet, number, _id } = tossup;
+  const { markedQuestion, answer, category, set, packet, number, _id } = tossup;
   const now = new Date();
   const secondsSinceMidnight = now.getHours() * 3600 + now.getMinutes() * 60 + now.getSeconds();
   const uniqueId = `${_id}-${secondsSinceMidnight}`;
@@ -42,7 +42,7 @@ export default async function addTossupGameCard ({ roomHistoryId = 'room-history
         <div>ANSWER: ${answer}</div>
       </div>
       <div class="card-footer">
-        <small class="text-muted">${set.name} / ${category} / ${subcategory}${alternateSubcategory ? ' / ' + alternateSubcategory : ''}</small>
+        <small class="text-muted">${set.name} / ${category}</small>
         <small class="text-muted float-end">Packet ${packet.number} / Question ${number}</small>
       </div>
     </div>
