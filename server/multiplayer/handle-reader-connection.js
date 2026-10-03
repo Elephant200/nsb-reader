@@ -8,6 +8,7 @@ import getPairedBonus from '../../database/qbreader/get-paired-bonus.js';
 import { clientIp, isBannedIp } from '../moderation/ip-filter.js';
 import { MAX_CONNECTIONS_PER_IP, MAX_ONLINE_PLAYERS } from './constants.js';
 import RateLimit from '../RateLimit.js';
+import readerUsername from './reader-username.js';
 
 const connections = new Map();
 const rateLimit = new RateLimit(50, 1000);
@@ -40,6 +41,8 @@ export default function handleReaderConnection (ws, req) {
       room.identities.set(token, playerId);
       room.game.join(playerId, username);
     } else room.game.players[playerId].online = true;
+    const savedName = readerUsername(params.get('username'), room.game.players, playerId);
+    if (savedName) room.game.players[playerId].username = savedName;
   }
   clearTimeout(room.cleanup);
   for (const [socket, identity] of room.sockets) {
@@ -67,12 +70,29 @@ export default function handleReaderConnection (ws, req) {
   };
   broadcast();
   ws.on('message', async data => {
-    if (!room.sockets.has(ws) || rateLimit(ws) || ws.readyState !== 1) return;
+    if (room.ended || !room.sockets.has(ws) || rateLimit(ws) || ws.readyState !== 1) return;
     try {
       const message = JSON.parse(data.toString());
       if (!message || typeof message.type !== 'string') return;
       if (!reader) {
         if (message.type === 'buzz' && readerOnline()) room.game.buzz(playerId);
+        if (message.type === 'set-username') {
+          const username = readerUsername(message.username, room.game.players, playerId);
+          if (!username) throw new Error('Choose an available username of 1–32 characters.');
+          room.game.players[playerId].username = username;
+          ws.send(JSON.stringify({ type: 'username-saved', username }));
+        }
+      } else if (message.type === 'end-room') {
+        room.ended = true;
+        clearTimeout(room.cleanup);
+        clearTimeout(room.timerTimeout);
+        readerRooms.delete(code);
+        for (const socket of room.sockets.keys()) {
+          socket.send(JSON.stringify({ type: 'room-ended' }));
+          socket.close();
+        }
+        room.sockets.clear();
+        return;
       } else if (message.type === 'next') {
         if (room.loading) return;
         if (room.game.nextBonus()) { broadcast(); return; }
@@ -89,7 +109,7 @@ export default function handleReaderConnection (ws, req) {
           const tossup = tossups.find(q => !room.seen.has(q._id) && (!category || q.category === category));
           if (!tossup) throw new Error('No unread questions in this selection.');
           const bonus = await getPairedBonus(tossup.packet._id, tossup.number);
-          if (room.game.load({ tossup, bonus })) room.seen.add(tossup._id);
+          if (!room.ended && room.game.load({ tossup, bonus })) room.seen.add(tossup._id);
         } finally { room.loading = false; }
       } else if (message.type === 'move-player') {
         if (typeof message.id === 'string' && [0, 1].includes(message.team) && Number.isInteger(message.index)) room.game.move(message.id, message.team, message.index);
@@ -113,8 +133,8 @@ export default function handleReaderConnection (ws, req) {
       scheduleTimer();
       broadcast();
     } catch (error) {
-      ws.send(JSON.stringify({ type: 'error', message: reader ? error.message : 'Unable to process buzzer action.' }));
       broadcast();
+      if (ws.readyState === 1) ws.send(JSON.stringify({ type: 'error', message: error instanceof SyntaxError ? 'Invalid message.' : error.message }));
     }
   });
   ws.on('close', () => {
@@ -125,7 +145,7 @@ export default function handleReaderConnection (ws, req) {
     if (playerId && ![...room.sockets.values()].some(identity => identity.playerId === playerId)) room.game.players[playerId].online = false;
     if (reader && !readerOnline()) { room.game.stopTimer(); room.game.paused = true; }
     broadcast();
-    if (!room.sockets.size) {
+    if (!room.ended && !room.sockets.size) {
       clearTimeout(room.timerTimeout);
       room.cleanup = setTimeout(() => readerRooms.delete(code), 60 * 60 * 1000).unref();
     }

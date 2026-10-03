@@ -9,6 +9,9 @@
   .answer-section { display: flex; justify-content: space-between; align-items: center; gap: 24px; }
   .answer-copy { overflow-wrap: anywhere; min-width: 0; }
   .judge-buttons { min-width: 110px; }
+  .question-advance .btn { width: 140px; }
+  .username-form { max-width: 500px; margin-left: auto; }
+  .player-username { overflow-wrap: anywhere; max-width: calc(100vw - 64px); }
   .buzzer-stage { min-height: 65vh; display: grid; place-items: center; }
   .big-buzzer { width: min(62vw, 300px); aspect-ratio: 1; border-radius: 50%; border: 1px solid #ffffff25; background: #c83742; color: white; box-shadow: 0 3px 0 #8d2530, 0 12px 32px #0002; font-size: 2rem; font-weight: 600; letter-spacing: .02em; transition: transform .12s, box-shadow .12s, background .12s; }
   .big-buzzer:hover:not(:disabled) { background: #d33d49; }
@@ -30,11 +33,23 @@
   .room-code { font-variant-numeric: tabular-nums; letter-spacing: .16em; }
   .room-entry { max-width: 420px; margin: 10vh auto; }
   @media (max-width: 767px) {
+    .mobile-reading .reader-room-header, .mobile-reading .workspace aside { display: none !important; }
+    .mobile-config .reader-tabs { display: flex !important; flex-wrap: wrap; }
+    .mobile-config [data-action="question-tab"] { display: none; }
+    .mobile-config .workspace aside { padding-right: 0 !important; }
     .workspace { grid-template-columns: 1fr; }
     .workspace aside { border-right: 0 !important; }
     .question-copy { font-size: 1.15rem; }
     .player-role { left: 20px; bottom: 20px; }
     .roster-slot { gap: 5px; padding: 12px 6px; }
+    .roster-slot { flex-wrap: wrap; }
+    .roster-name { flex: 1; }
+    .roster-slot .ms-auto { flex-basis: 100%; justify-content: end; }
+    [data-drag-handle], [data-kick] { min-width: 36px; min-height: 40px; }
+    .answer-section { gap: 12px; }
+    .judge-buttons { min-width: 100px; }
+    .buzzer-stage { min-height: 55svh; }
+    .player-role { position: static; margin: 24px 8px; }
   }
 }
 .roster-ghost { position: fixed; z-index: 1000; pointer-events: none; opacity: .9; display: flex; align-items: center; gap: 12px; padding: 16px 12px; background: var(--bs-tertiary-bg); box-shadow: 0 10px 30px #0003; }
