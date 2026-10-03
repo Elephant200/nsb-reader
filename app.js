@@ -1,7 +1,6 @@
 import 'dotenv/config';
 
 import indexRouter from './routes/index.js';
-import webhookRouter from './routes/api/webhook.js';
 import { ipFilterMiddleware } from './server/moderation/ip-filter.js';
 import { COOKIE_MAX_AGE } from './server/constants.js';
 import hostnameRedirection from './server/hostname-redirection.js';
@@ -33,7 +32,6 @@ app.use(httpsEnforcement);
 // See https://masteringjs.io/tutorials/express/query-parameters for why we use 'simple'
 app.set('query parser', 'simple');
 
-app.use('/api/webhook', express.raw({ type: '*/*' }), webhookRouter);
 app.use(express.json());
 
 app.use(cookieSession({

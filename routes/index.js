@@ -1,9 +1,7 @@
-import adminRouter from './admin.js';
 import apiRouter from './api/index.js';
 import authRouter from './auth/index.js';
 import dbRouter from './db/index.js';
 import playRouter from './play/index.js';
-import userRouter from './user.js';
 
 import redirectsRouter from './redirects.js';
 import ssiMiddleware, { replaceSSI } from './ssi-middleware.js';
@@ -22,12 +20,10 @@ router.get('/health', (req, res) => res.sendStatus(200));
 /**
  * Routes:
  */
-router.use('/admin', adminRouter);
 router.use('/api', cors(), apiRouter);
 router.use('/auth', authRouter);
 router.use('/db', dbRouter);
 router.use('/play', playRouter);
-router.use('/user', userRouter);
 
 router.use('/shared', express.static('shared'));
 

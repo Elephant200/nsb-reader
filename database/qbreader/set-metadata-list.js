@@ -1,59 +1,38 @@
-import { sets } from './collections.js';
+import { query } from '../postgres.js';
 
 /**
- * Retrieves metadata for quiz bowl sets with optional question counts.
- *
- * @param {Object} [options={}] - Configuration options
- * @param {number} [options.limit] - Maximum number of results to return (must be finite and > 0)
- * @param {boolean} [options.includeCounts] - Whether to include packet, tossup, and bonus counts
- * @returns {Promise<Array<Object>>} Array of set metadata objects containing:
- *   - _id: Set identifier
- *   - setName: Name of the set
- *   - difficulty: Difficulty level of the set
- *   - standard: Standard classification
- *   - year: Year of the set
- *   - packets: Packet information (always included)
- *   - tossups: Tossup question counts (if includeCounts is true)
- *   - bonuses: Bonus question counts (if includeCounts is true)
- *
- * Results are sorted by year (descending) then by set name (ascending).
+ * Retrieves metadata for NSB sets with optional question counts.
  */
-export default async function getSetMetadata ({ limit, includeCounts } = {}) {
-  let aggregation = [
-    {
-      $group: {
-        _id: '$_id',
-        setName: { $first: '$name' },
-        difficulty: { $first: '$difficulty' },
-        standard: { $first: '$standard' },
-        year: { $first: '$year' }
-      }
-    },
-    { $sort: { year: -1, setName: 1 } }
-  ];
+export default async function getSetMetadata ({ limit, includeCounts = true } = {}) {
+  const limitSql = isFinite(limit) && limit > 0 ? 'limit $1' : '';
+  const values = limitSql ? [limit] : [];
+  const countSql = includeCounts
+    ? `,
+      count(distinct p.id)::int as "packetsCount",
+      count(distinct t.id)::int as "tossupsCount",
+      count(distinct b.id)::int as "bonusesCount"`
+    : '';
+  const joinSql = includeCounts
+    ? `
+      left join packets p on p.set_id = s.id
+      left join tossups t on t.set_id = s.id
+      left join bonuses b on b.set_id = s.id`
+    : '';
 
-  if (includeCounts) {
-    aggregation = updateAggregation(aggregation, 'packets');
-    aggregation = updateAggregation(aggregation, 'tossups');
-    aggregation = updateAggregation(aggregation, 'bonuses');
-  }
+  const { rows } = await query(`
+    select
+      s.id as _id,
+      s.name as "setName",
+      s.difficulty,
+      s.standard,
+      s.year
+      ${countSql}
+    from sets s
+    ${joinSql}
+    group by s.id
+    order by s.year desc, s.name asc
+    ${limitSql}
+  `, values);
 
-  if (isFinite(limit) && limit > 0) {
-    aggregation.push({ $limit: limit });
-  }
-
-  return await sets.aggregate(aggregation).toArray();
-}
-
-function updateAggregation (aggregation, field) {
-  aggregation.at(-2).$group[`${field}Count`] = { $sum: { $size: `$${field}` } };
-  const stage = {
-    $lookup: {
-      from: field,
-      localField: '_id',
-      foreignField: 'set._id',
-      as: field
-    }
-  };
-  return [stage, ...aggregation];
+  return rows;
 }

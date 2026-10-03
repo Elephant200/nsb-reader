@@ -1,7 +1,6 @@
 import { MAX_ONLINE_PLAYERS, MAX_CONNECTIONS_PER_IP, PERMANENT_ROOMS, VERIFIED_ROOMS, ROOM_NAME_MAX_LENGTH } from './constants.js';
 import ServerTossupBonusRoom from './ServerTossupBonusRoom.js';
 import { configurePermanentRoomSettings } from './configure-permanent-room.js';
-import { checkToken } from '../authentication.js';
 import CategoryManager from '../../shared/category-manager.js';
 import getRandomName from '../../shared/get-random-name.js';
 import hasValidCharacters from '../moderation/has-valid-characters.js';
@@ -52,8 +51,8 @@ function createAndReturnRoom (roomName, userId, isPrivate = false, isControlled 
   if (!Object.prototype.hasOwnProperty.call(tossupBonusRooms, roomName)) {
     const room = new ServerTossupBonusRoom(roomName, userId, false, new CategoryManager());
     // A room cannot be both public and controlled
-    room.settings.public = !isPrivate && !isControlled;
-    room.settings.controlled = isControlled;
+    room.settings.public = false;
+    room.settings.controlled = true;
     // Remove the room once it empties out so it doesn't leak (see closeConnection).
     room.onEmpty = () => { delete tossupBonusRooms[roomName]; };
     tossupBonusRooms[roomName] = room;
@@ -103,25 +102,6 @@ export default function handleWssConnection (ws, req) {
       roomOwner
     }));
     return false;
-  }
-
-  if (room.settings.loginRequired === true) {
-    let valid = true;
-    try {
-      const cookieString = (req?.headers?.cookie ?? 'session=;').split(';').find(token => token.trim().startsWith('session='));
-      const cookieBuffer = Buffer.from(cookieString.split('=')[1], 'base64');
-      const cookies = JSON.parse(cookieBuffer.toString('utf-8'));
-      valid = checkToken(cookies.username, cookies.token, true);
-    } catch (e) { valid = false; }
-
-    if (!valid) {
-      ws.send(JSON.stringify({
-        type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR,
-        message: 'You must be logged in with a verified email to join this room.',
-        roomOwner
-      }));
-      return false;
-    }
   }
 
   if (!isAppropriateString(username)) {

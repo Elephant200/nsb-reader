@@ -1,18 +1,21 @@
-import { packets } from './collections.js';
+import { query } from '../postgres.js';
 
 /**
  * Retrieves the list of packets for a given set name, sorted by packet number.
  *
  * @param {string} setName - The name of the set to retrieve packets from.
- * @returns {Promise<{number: number, name: string}[]>} A promise that resolves to an array of packet objects, each containing a number and name.
+ * @returns {Promise<{number: number, name: string}[]>}
  */
 export default async function getPacketList (setName) {
   if (!setName) { return []; }
 
-  const packetList = await packets.find({ 'set.name': setName }, {
-    sort: { number: 1 },
-    project: { _id: 0, number: 1, name: 1 }
-  }).toArray();
+  const { rows } = await query(`
+    select p.number, p.name
+    from packets p
+    join sets s on s.id = p.set_id
+    where s.name = $1
+    order by p.number asc
+  `, [setName]);
 
-  return packetList;
+  return rows;
 }

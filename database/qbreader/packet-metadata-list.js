@@ -1,36 +1,22 @@
-import { packets } from './collections.js';
+import { query } from '../postgres.js';
 
 export default async function getPacketMetadata (setId) {
-  const aggregation = [
-    { $match: { 'set._id': setId } },
-    {
-      $lookup: {
-        from: 'tossups',
-        localField: '_id',
-        foreignField: 'packet._id',
-        as: 'tossups'
-      }
-    },
-    {
-      $lookup: {
-        from: 'bonuses',
-        localField: '_id',
-        foreignField: 'packet._id',
-        as: 'bonuses'
-      }
-    },
-    {
-      $group: {
-        _id: '$_id',
-        packetName: { $first: '$name' },
-        packetNumber: { $first: '$number' },
-        setName: { $first: '$set.name' },
-        tossupCount: { $sum: { $size: '$tossups' } },
-        bonusCount: { $sum: { $size: '$bonuses' } }
-      }
-    },
-    { $sort: { packetNumber: 1 } }
-  ];
+  const { rows } = await query(`
+    select
+      p.id as _id,
+      p.name as "packetName",
+      p.number as "packetNumber",
+      s.name as "setName",
+      count(distinct t.id)::int as "tossupCount",
+      count(distinct b.id)::int as "bonusCount"
+    from packets p
+    join sets s on s.id = p.set_id
+    left join tossups t on t.packet_id = p.id
+    left join bonuses b on b.packet_id = p.id
+    where p.set_id = $1
+    group by p.id, s.name
+    order by p.number asc
+  `, [setId]);
 
-  return await packets.aggregate(aggregation).toArray();
+  return rows;
 }

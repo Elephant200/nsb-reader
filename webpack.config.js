@@ -7,8 +7,7 @@ export default {
     'play/bonuses/index': './client/play/bonuses/index.jsx',
     'play/mp/room': './client/play/mp/room.jsx',
     'db/index': './client/db/index.jsx',
-    'db/frequency-list/subcategory': './client/db/frequency-list/subcategory.jsx',
-    'admin/category-reports/index': './client/admin/category-reports/index.jsx'
+    'db/frequency-list/subcategory': './client/db/frequency-list/subcategory.jsx'
   },
   output: {
     filename: '[name].min.js',

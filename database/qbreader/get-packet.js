@@ -1,35 +1,21 @@
-import { bonuses, packets, tossups } from './collections.js';
+import { query } from '../postgres.js';
+import { mapBonusRow, mapTossupRow, packetJoinSql, questionSelectSql } from './sql.js';
 
-// eslint-disable-next-line no-unused-vars
-import * as types from '../../types.js';
-
-/**
- * Modaqifies a tossup without modifying the original tossup.
- * @param {types.Tossup} tossup - The tossup to modaqify.
- * @returns The modaqified tossup.
- */
 function modaqifyTossup (tossup) {
-  const result = {
+  return {
     question: tossup.question.replace('<i>', '<em>').replace('</i>', '</em>'),
     answer: tossup.answer.replace('<i>', '<em>').replace('</i>', '</em>'),
-    metadata: `${tossup.category} - ${tossup.subcategory}` + tossup.alternate_subcategory ? ` - ${tossup.alternate_subcategory}` : ''
+    metadata: tossup.category
   };
-
-  return result;
 }
 
-/**
- *
- * @param {types.Bonus} bonus
- * @returns
- */
 function modaqifyBonus (bonus) {
   const result = {
     values: bonus.values ?? bonus.parts.map(() => 10),
     leadin: bonus.leadin.replace('<i>', '<em>').replace('</i>', '</em>'),
     parts: bonus.parts.map(part => part.replace('<i>', '<em>').replace('</i>', '</em>')),
     answers: bonus.answers.map(answer => answer.replace('<i>', '<em>').replace('</i>', '</em>')),
-    metadata: `${bonus.category} - ${bonus.subcategory}` + bonus.alternate_subcategory ? ` - ${bonus.alternate_subcategory}` : ''
+    metadata: bonus.category
   };
 
   if (bonus.difficultyModifiers) {
@@ -39,42 +25,56 @@ function modaqifyBonus (bonus) {
   return result;
 }
 
+async function getPacketRecord ({ _id, setName, packetNumber }) {
+  if (_id) {
+    const { rows } = await query(`
+      select p.id, p.name, p.number, s.id as set_id, s.name as set_name, s.year as set_year, s.standard as set_standard
+      from packets p
+      join sets s on s.id = p.set_id
+      where p.id = $1
+    `, [_id]);
+    return rows[0];
+  }
+
+  const { rows } = await query(`
+    select p.id, p.name, p.number, s.id as set_id, s.name as set_name, s.year as set_year, s.standard as set_standard
+    from packets p
+    join sets s on s.id = p.set_id
+    where s.name = $1 and p.number = $2
+  `, [setName, packetNumber]);
+  return rows[0];
+}
+
 /**
  * Retrieves a packet of questions from the database.
- * @param {object} options - The options for the packet retrieval.
- * @param {string} options.setName - The name of the set (e.g. "2021 ACF Fall").
- * @param {number} options.packetNumber - **one-indexed** packet number.
- * @param {Array<String>} [options.questionTypes=['tossups', 'bonuses']] - The types of questions to retrieve.
- * If only one allowed type is specified, only that type will be searched for (increasing query speed).
- * The other type will be returned as an empty array.
- * @param {boolean} [options.modaq=false] - Whether to output in a result compatible with MODAQ.
- * @returns {Promise<{tossups: types.Tossup[], bonuses: types.Bonus[]}>} The retrieved packet of questions.
  */
 async function getPacket ({ _id, setName, packetNumber, questionTypes = ['tossups', 'bonuses'], modaq = false }) {
   if (!_id && (!setName || isNaN(packetNumber) || packetNumber < 1)) {
     return { tossups: [], bonuses: [] };
   }
 
-  const packet = _id
-    ? await packets.findOne({ _id })
-    : await packets.findOne({ 'set.name': setName, number: packetNumber });
+  const packetRecord = await getPacketRecord({ _id, setName, packetNumber });
 
-  if (!packet) {
+  if (!packetRecord) {
     return { tossups: [], bonuses: [] };
   }
 
   const tossupResult = questionTypes.includes('tossups')
-    ? tossups.find({ 'packet._id': packet._id }, {
-      sort: { number: 1 },
-      project: { reports: 0 }
-    }).toArray()
+    ? query(`
+      select ${questionSelectSql()}
+      ${packetJoinSql('tossups')}
+      where q.packet_id = $1
+      order by q.number asc
+    `, [packetRecord.id])
     : null;
 
   const bonusResult = questionTypes.includes('bonuses')
-    ? bonuses.find({ 'packet._id': packet._id }, {
-      sort: { number: 1 },
-      project: { reports: 0 }
-    }).toArray()
+    ? query(`
+      select ${questionSelectSql()}
+      ${packetJoinSql('bonuses')}
+      where q.packet_id = $1
+      order by q.number asc
+    `, [packetRecord.id])
     : null;
 
   const values = await Promise.all([tossupResult, bonusResult]);
@@ -82,20 +82,30 @@ async function getPacket ({ _id, setName, packetNumber, questionTypes = ['tossup
   const result = {
     tossups: [],
     bonuses: [],
-    packet
+    packet: {
+      _id: packetRecord.id,
+      name: packetRecord.name,
+      number: packetRecord.number,
+      set: {
+        _id: packetRecord.set_id,
+        name: packetRecord.set_name,
+        year: packetRecord.set_year,
+        standard: packetRecord.set_standard
+      }
+    }
   };
 
   if (questionTypes.includes('tossups')) {
-    result.tossups = values[0];
+    result.tossups = values[0].rows.map(mapTossupRow);
   }
 
   if (questionTypes.includes('bonuses')) {
-    result.bonuses = values[1];
+    result.bonuses = values[1].rows.map(mapBonusRow);
   }
 
   if (modaq) {
-    result.tossups = result.tossups.map(tossup => modaqifyTossup(tossup));
-    result.bonuses = result.bonuses.map(bonus => modaqifyBonus(bonus));
+    result.tossups = result.tossups.map(modaqifyTossup);
+    result.bonuses = result.bonuses.map(modaqifyBonus);
   }
 
   return result;

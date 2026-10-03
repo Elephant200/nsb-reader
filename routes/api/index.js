@@ -1,14 +1,10 @@
-import adminRouter from './admin/index.js';
 import bonusRouter from './bonus.js';
 import checkAnswerRouter from './check-answer.js';
 import frequencyListRouter from './frequency-list.js';
-import geowordRouter from './geoword/index.js';
 import multiplayerRouter from './multiplayer/index.js';
 import numPacketsRouter from './num-packets.js';
 import packetRouter from './packet.js';
 import packetListRouter from './packet-list.js';
-import pgLookupRouter from './pg-lookup.js';
-import questionStatsRouter from './question-stats/index.js';
 import queryRouter from './query.js';
 import randomBonusRouter from './random-bonus.js';
 import randomNameRouter from './random-name.js';
@@ -44,17 +40,13 @@ router.use((req, _res, next) => {
   next();
 });
 
-router.use('/admin', adminRouter);
 router.use('/bonus', bonusRouter);
 router.use('/check-answer', checkAnswerRouter);
 router.use('/frequency-list', frequencyListRouter);
-router.use('/geoword', geowordRouter);
 router.use('/multiplayer', multiplayerRouter);
 router.use('/num-packets', numPacketsRouter);
 router.use('/packet', packetRouter);
 router.use('/packet-list', packetListRouter);
-router.use('/pg-lookup', pgLookupRouter);
-router.use('/question-stats', questionStatsRouter);
 router.use('/query', queryRouter);
 router.use('/random-bonus', randomBonusRouter);
 router.use('/random-name', randomNameRouter);

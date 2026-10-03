@@ -1,4 +1,10 @@
-import { CATEGORIES, CATEGORY_TO_SUBCATEGORY, CATEGORY_TO_ALTERNATE_SUBCATEGORIES } from './categories.js';
+import {
+  ALTERNATE_SUBCATEGORIES,
+  CATEGORIES,
+  CATEGORY_TO_SUBCATEGORY,
+  CATEGORY_TO_ALTERNATE_SUBCATEGORIES,
+  SUBCATEGORIES
+} from './categories.js';
 
 export default class CategoryManager {
   /**
@@ -22,20 +28,26 @@ export default class CategoryManager {
   }
 
   import ({ categories = [], subcategories = [], alternateSubcategories = [], percentView = false, categoryPercents = undefined } = {}) {
+    categories = categories.filter(category => CATEGORIES.includes(category));
+    subcategories = subcategories.filter(subcategory => SUBCATEGORIES.includes(subcategory));
+    alternateSubcategories = alternateSubcategories.filter(subcategory => ALTERNATE_SUBCATEGORIES.includes(subcategory));
+
     if (!categoryPercents) {
+      categoryPercents = CATEGORIES.map(() => 0);
+    } else if (categoryPercents.length !== CATEGORIES.length) {
       categoryPercents = CATEGORIES.map(() => 0);
     }
 
     if (categories.length > 0 && subcategories.length === 0) {
       categories.forEach(category => {
-        CATEGORY_TO_SUBCATEGORY[category].forEach(subcategory => {
+        CATEGORY_TO_SUBCATEGORY[category]?.forEach(subcategory => {
           subcategories.push(subcategory);
         });
       });
     }
     if (categories.length > 0 && alternateSubcategories.length === 0) {
       categories.forEach(category => {
-        CATEGORY_TO_ALTERNATE_SUBCATEGORIES[category].forEach(alternateSubcategory => {
+        CATEGORY_TO_ALTERNATE_SUBCATEGORIES[category]?.forEach(alternateSubcategory => {
           alternateSubcategories.push(alternateSubcategory);
         });
       });
@@ -71,8 +83,7 @@ export default class CategoryManager {
       return true;
     }
 
-    const hasNoSubcategories = ['Religion', 'Mythology', 'Philosophy', 'Social Science', 'Current Events', 'Geography', 'Other Academic'];
-    const validSubcategory = hasNoSubcategories.includes(question.subcategory) || this.subcategories.includes(question.subcategory);
+    const validSubcategory = this.subcategories.length === 0 || this.subcategories.includes(question.subcategory);
 
     const validAlternateSubcategory = question.alternate_subcategory
       ? this.alternateSubcategories.length > 0 && this.alternateSubcategories.includes(question.alternate_subcategory)
@@ -131,6 +142,10 @@ export default class CategoryManager {
    * @returns {boolean} true if the category was added, false if the category was removed
    */
   updateCategory (category) {
+    if (!CATEGORIES.includes(category)) {
+      return false;
+    }
+
     if (this.categories.includes(category)) {
       this.categories = this.categories.filter(a => a !== category);
       this.subcategories = this.subcategories.filter(a => !CATEGORY_TO_SUBCATEGORY[category].includes(a));

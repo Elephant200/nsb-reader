@@ -1,4 +1,4 @@
-import { ObjectId } from 'mongodb';
+import { _id as validateId } from '../validators/object-id.js';
 import reportQuestion from '../../database/qbreader/report-question.js';
 
 import { Router } from 'express';
@@ -13,18 +13,27 @@ router.use(rateLimit({
 }));
 
 router.post('/', async (req, res) => {
-  let _id;
-  try { _id = new ObjectId(req.body._id); } catch (e) {
+  const { _id } = validateId({ _id: req.body._id });
+  if (!_id) {
     return res.status(400).send('Invalid ID');
   }
 
   const reason = req.body.reason ?? '';
   const description = req.body.description ?? '';
-  const successful = await reportQuestion(_id, reason, description);
+  if (typeof reason !== 'string' || typeof description !== 'string' ||
+      !reason.trim() || reason.length > 200 || description.length > 5000) {
+    return res.status(400).send('Provide a reason and a description of at most 5000 characters');
+  }
+  let successful;
+  try {
+    successful = await reportQuestion(_id, reason.trim(), description.trim());
+  } catch (error) {
+    return res.sendStatus(500);
+  }
   if (successful) {
     return res.sendStatus(200);
   } else {
-    return res.sendStatus(500);
+    return res.sendStatus(404);
   }
 });
 
