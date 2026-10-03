@@ -1,0 +1,76 @@
+{
+    "tossups": [
+        {
+            "question": "What force keeps planets in orbit around the Sun?",
+            "answer": "gravity",
+            "category": "Physics"
+        },
+        {
+            "question": "What type of bond involves the sharing of electron pairs between atoms?",
+            "answer": "covalent bond",
+            "category": "Chemistry"
+        },
+        {
+            "question": "What organelle is responsible for producing ATP through cellular respiration?",
+            "answer": "mitochondria",
+            "category": "Biology"
+        },
+        {
+            "question": "What is the term for the boundary between two different air masses?",
+            "answer": "front",
+            "category": "Earth and Space"
+        },
+        {
+            "question": "What is the value of pi rounded to two decimal places?",
+            "answer": "3.14",
+            "category": "Math"
+        }
+    ],
+    "bonuses": [
+        {
+            "leadin": "Answer the following about chemical bonds.",
+            "parts": [
+                "What type of bond shares electrons?",
+                "What type of bond involves the transfer of electrons?",
+                "What type of bond holds water molecules together?"
+            ],
+            "answers": [
+                "covalent bond",
+                "ionic bond",
+                "hydrogen bond"
+            ],
+            "category": "Chemistry",
+            "values": [10, 10, 10]
+        },
+        {
+            "leadin": "Answer the following about forces in physics.",
+            "parts": [
+                "What force opposes the relative motion of two surfaces in contact?",
+                "What is the name of the force exerted by a fluid on an object submerged in it?",
+                "What is the SI unit of force?"
+            ],
+            "answers": [
+                "friction",
+                "buoyancy",
+                "newton"
+            ],
+            "category": "Physics",
+            "values": [10, 10, 10]
+        },
+        {
+            "leadin": "Answer the following about the solar system.",
+            "parts": [
+                "What is the largest planet in the solar system?",
+                "What is the name of the largest moon of Saturn?",
+                "What is the term for the region beyond Neptune containing many icy bodies?"
+            ],
+            "answers": [
+                "Jupiter",
+                "Titan",
+                "Kuiper Belt"
+            ],
+            "category": "Earth and Space",
+            "values": [10, 10, 10]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+  "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round3.pdf": {
+    "tossups": {
+      "11": {
+        "question": "Giving your answer as a proper fraction, what is the cube root of <span class=\"nsb-fraction\"><span>125</span><span>343</span></span>?",
+        "question_sanitized": "Giving your answer as a proper fraction, what is the cube root of 125⁄343?",
+        "answer": "5/7",
+        "answer_sanitized": "5/7"
+      }
+    },
+    "bonuses": {
+      "11": {
+        "leadin": "",
+        "leadin_sanitized": "",
+        "parts": [
+          "Find the following product, giving your answer in standard form: (4x<sup>3</sup> + x)(7x<sup>3</sup> + 4x<sup>2</sup>)"
+        ],
+        "parts_sanitized": [
+          "Find the following product, giving your answer in standard form: (4x³ + x)(7x³ + 4x²)"
+        ],
+        "answers": [
+          "28x<sup>6</sup> + 16x<sup>5</sup> + 7x<sup>4</sup> + 4x<sup>3</sup> (ACCEPT: x<sup>3</sup>(28x<sup>3</sup> + 16x<sup>2</sup> + 7x + 4))"
+        ],
+        "answers_sanitized": [
+          "28x⁶ + 16x⁵ + 7x⁴ + 4x³ (ACCEPT: x³(28x³ + 16x² + 7x + 4))"
+        ]
+      },
+      "18": {
+        "leadin": "",
+        "leadin_sanitized": "",
+        "parts": [
+          "Simplify the following rational expression by combining like terms, assuming x is not equal to 4: <span class=\"nsb-fraction\"><span>x<sup>2</sup> - 16</span><span>4x - x<sup>2</sup></span></span>"
+        ],
+        "parts_sanitized": [
+          "Simplify the following rational expression by combining like terms, assuming x is not equal to 4: (x² - 16)⁄(4x - x²)"
+        ],
+        "answers": [
+          "-<span class=\"nsb-fraction\"><span>x + 4</span><span>x</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>x + 4</span><span>-x</span></span> or -(x + 4)/x or (-x - 4)/x)"
+        ],
+        "answers_sanitized": [
+          "-(x + 4)/x (ACCEPT: (x + 4)/(-x) or -(x + 4)/x or (-x - 4)/x)"
+        ]
+      }
+    }
+  }
+}
