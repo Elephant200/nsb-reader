@@ -24,3 +24,9 @@ Open `/play/in-person/` to create a reader room or join with a six-digit code. T
 The server connects directly to PostgreSQL. Supabase supplies managed PostgreSQL; the browser does not require a Supabase key. Questions and question reports are stored in the database. Stars and preferences stay in the browser, and multiplayer statistics last for the room session.
 
 Production requires `SECRET_KEY_1` and `SECRET_KEY_2` for signed session cookies, plus a PostgreSQL connection URL. Keep credentials in environment variables.
+
+## Render hosting
+
+`render.yaml` defines one Node web service for the website, HTTP API, and WebSocket rooms. Supply the Supabase Session pooler connection string as `DATABASE_URL`; Render generates the session signing keys. Build with `npm ci --include=dev && npm run build` and start with `npm start`.
+
+Keep this service at one instance: live room state is held in memory. Automatic deploys are disabled because deployments and restarts end active rooms. The free plan sleeps after 15 minutes without HTTP or WebSocket traffic and takes time to wake for the next visitor. PostgreSQL questions and reports remain in Supabase.

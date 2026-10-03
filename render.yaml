@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: nsb-reader
+    runtime: node
+    plan: free
+    branch: nsb-practice
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /health
+    autoDeployTrigger: "off"
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        sync: false
+      - key: SECRET_KEY_1
+        generateValue: true
+      - key: SECRET_KEY_2
+        generateValue: true
