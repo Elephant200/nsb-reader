@@ -7,6 +7,7 @@ import hasValidCharacters from '../moderation/has-valid-characters.js';
 import { clientIp, isBannedIp } from '../moderation/ip-filter.js';
 import isAppropriateString from '../moderation/is-appropriate-string.js';
 import { MULTIPLAYER_CLIENT_MESSAGE_TYPE } from '../../shared/protocol/multiplayer-room.js';
+import handleReaderConnection from './handle-reader-connection.js';
 
 import createDOMPurify from 'dompurify';
 // below is used for type annotation
@@ -68,6 +69,7 @@ function createAndReturnRoom (roomName, userId, isPrivate = false, isControlled 
  */
 export default function handleWssConnection (ws, req) {
   const parsedUrl = new url.URL(req.url, process.env.BASE_URL ?? 'http://localhost');
+  if (parsedUrl.pathname === '/reader-room') return handleReaderConnection(ws, req);
   const isPrivate = parsedUrl.searchParams.get('private') === 'true';
   const isControlled = parsedUrl.searchParams.get('controlled') === 'true';
   const roomName = parsedUrl.searchParams.get('roomName');

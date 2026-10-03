@@ -14,7 +14,19 @@ Private rooms support individual free-for-all play without accounts. Each player
 
 Bonuses are optional and disabled by default. When enabled, only the player who answers the tossup correctly may answer its paired bonus. A correct bonus scores 10 points; a missed bonus scores 0.
 
-The room creator controls settings, question advancement, and grading corrections, and may transfer control. Rooms retain QBReader-style typed-answer timers without match clocks. Teams, captains, competition simulation, audio reading, and host-led in-person play are outside this scope.
+The room creator controls settings, question advancement, and grading corrections, and may transfer control. Rooms retain QBReader-style typed-answer timers without match clocks.
+
+## In-person practice
+
+In-person practice is a separate reader-led mode. The reader creates a room with a six-digit numeric join code. Players enter the code and receive unique generated usernames, balanced team assignments, and a buzzer. Team positions are Captain, One, Two, Three, and onward. The reader can reorder players within or between teams using an insertion preview, kick players, and lock new arrivals. Usernames and individual statistics stay with each player when their position changes.
+
+Players see only their own username, team position, connection status, and central buzzer, also activated by Space. Questions, answers, timers, scores, and other players' statistics are not sent to player connections. Reader access uses a separate private credential saved in the reader's browser.
+
+The reader dashboard separates Question, Roster, Statistics, and Question selection. Questions are selected randomly by category or sequentially from a selected set and packet, without repeats during the room session. A tossup and its paired bonus use the same source packet and number. On a buzz, BUZZ and the player's position and username replace the prompt, preserving the panel height and keeping the answer visible. The reader judges every buzz. The Interrupt checkbox defaults on before the timer starts and off afterward, with manual override.
+
+Correct tossups award 4 points; incorrect interruptions award 4 to the other team. Next opens the paired bonus after a correct tossup and the next tossup after a wrong answer. Bonuses require no buzz and have right/wrong controls beside the answer, awarding 10 or 0 team points. Judgments can be corrected until advancing. Bonus results belong to the team rather than an individual.
+
+The reader starts, pauses, and resets a 5-second tossup or 20-second bonus response timer. Timer expiration does not automatically judge an answer. Session statistics show each player's buzzes, correct answers, misses, and interruptions, plus team bonus results. Kicked players' statistics remain visible. Reconnecting from the same browser restores identity; kicked credentials cannot rejoin. Empty rooms expire after one hour, and server restarts end sessions. There is no results download or cross-session history.
 
 ## Questions and storage
 

@@ -1,6 +1,6 @@
 # NSB Reader
 
-High-school National Science Bowl practice with solo tossups, bonuses, paired questions, and private multiplayer rooms. The interface and reading controls use [QBReader](https://github.com/qbreader/website).
+High-school National Science Bowl practice with solo tossups, bonuses, paired questions, private multiplayer rooms, and reader-led in-person practice. The interface and reading controls use [QBReader](https://github.com/qbreader/website).
 
 ## Run locally
 
@@ -14,6 +14,10 @@ High-school National Science Bowl practice with solo tossups, bonuses, paired qu
 Run `npm test` for behavior and parser checks. Run `npm run lint` for JavaScript formatting.
 
 [Product specification](SPEC.md) · [Contributing](.github/CONTRIBUTING.md)
+
+## In-person rooms
+
+Open `/play/in-person/` to create a reader room or join with a six-digit code. The reader controls question selection, timers, judgments, team assignments, and scores. Player devices get a buzzer and generated username. Reader credentials and player reconnect identities stay in their respective browsers; room state and performance statistics stay in server memory for the session. Use the same server address on all devices.
 
 ## Storage
 

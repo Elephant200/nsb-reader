@@ -13,6 +13,7 @@ import randomTossupRouter from './random-tossup.js';
 import reportQuestionRouter from './report-question.js';
 import setListRouter from './set-list.js';
 import tossupRouter from './tossup.js';
+import readerRoomRouter from './reader-room.js';
 
 import packetBonusesRouter from './deprecated/packet-bonuses.js';
 import packetTossupsRouter from './deprecated/packet-tossups.js';
@@ -56,6 +57,7 @@ router.use('/random-tossup', randomTossupRouter);
 router.use('/report-question', reportQuestionRouter);
 router.use('/set-list', setListRouter);
 router.use('/tossup', tossupRouter);
+router.use('/reader-room', readerRoomRouter);
 
 // deprecated, but kept for backwards compatibility
 router.use('/bonus-by-id', bonusRouter);
