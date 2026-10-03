@@ -10,6 +10,9 @@
   .answer-copy { overflow-wrap: anywhere; min-width: 0; }
   .judge-buttons { min-width: 110px; }
   .question-advance .btn { width: 140px; }
+  .mobile-reading-timer > div { display: flex; align-items: center; justify-content: flex-end; gap: 12px; }
+  .mobile-reading-timer .text-uppercase, .mobile-reading-timer [data-timer-status] { display: none; }
+  .mobile-reading-timer .timer-number { font-size: 2.5rem; margin-right: auto; }
   .username-form { max-width: 500px; margin-left: auto; }
   .player-username { overflow-wrap: anywhere; max-width: calc(100vw - 64px); }
   .buzzer-stage { min-height: 65vh; display: grid; place-items: center; }
