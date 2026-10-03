@@ -16,7 +16,9 @@ import getPacket from '../../database/qbreader/get-packet.js';
 import getSetList from '../../database/qbreader/get-set-list.js';
 import getNumPackets from '../../database/qbreader/get-num-packets.js';
 
-import checkAnswer from 'qb-answer-checker';
+import checkShortAnswer from 'qb-answer-checker';
+import { createNsbAnswerChecker } from '../../shared/nsb-check-answer.js';
+import getPairedBonus from '../../database/qbreader/get-paired-bonus.js';
 import Team from '../../shared/Team.js';
 
 const BAN_DURATION = 1000 * 60 * 30; // 30 minutes
@@ -26,7 +28,8 @@ const BAN_DURATION = 1000 * 60 * 30; // 30 minutes
  * @param {TBase} RoomClass
  */
 const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
-  checkAnswer = checkAnswer;
+  checkAnswer = createNsbAnswerChecker(checkShortAnswer);
+  getPairedBonus = getPairedBonus;
   getPacket = getPacket;
   getPacketCount = getNumPackets;
   getRandomBonuses = getRandomBonuses;
@@ -47,9 +50,9 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
     this.settings = {
       ...this.settings,
       lock: false,
-      loginRequired: isVerified,
-      public: true,
-      controlled: false
+      loginRequired: false,
+      public: false,
+      controlled: true
     };
 
     this.cleanupInterval = setInterval(this.cleanupExpiredBansAndKicks.bind(this), 5 * 60 * 1000); // 5 minutes
@@ -57,6 +60,15 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
   }
 
   async message ({ userId, username }, message) {
+    if (!message || typeof message.type !== 'string') return;
+    const playerActions = new Set(['buzz', 'give-answer', 'give-answer-live-update', 'start-bonus-answer', 'set-username', 'clear-stats', 'chat', 'chat-live-update']);
+    if (!playerActions.has(message.type) && !this.allowed(userId)) return;
+    if (message.type === 'transfer-owner') {
+      if (!this.players[message.targetId]?.online) return;
+      this.ownerId = message.targetId;
+      this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.OWNER_CHANGE, newOwner: this.ownerId });
+      return;
+    }
     switch (message.type) {
       case MULTIPLAYER_ROOM_MESSAGE_TYPE.BAN: return this.ban({ userId, username }, message);
       case MULTIPLAYER_ROOM_MESSAGE_TYPE.CHAT: return this.chat({ userId, username }, message);
@@ -69,12 +81,12 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
       case MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_PUBLIC: return this.togglePublic({ userId, username }, message);
       case MULTIPLAYER_ROOM_MESSAGE_TYPE.VOTEKICK_INIT: return this.votekickInit({ userId, username }, message);
       case MULTIPLAYER_ROOM_MESSAGE_TYPE.VOTEKICK_VOTE: return this.votekickVote({ userId, username }, message);
-      default: super.message({ userId, username }, message);
+      default: return super.message({ userId, username }, message);
     }
   }
 
   allowed (userId) {
-    return (userId === this.ownerId) || this.settings.public || !this.settings.controlled;
+    return userId === this.ownerId;
   }
 
   ban ({ userId }, { targetId, targetUsername }) {
@@ -143,7 +155,10 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
         console.log(`Error parsing message: ${message}`);
         return;
       }
-      this.message({ userId, username: this.players[userId]?.username }, message);
+      Promise.resolve(this.message({ userId, username: this.players[userId]?.username }, message)).catch(error => {
+        console.error('Unable to process room message:', error.message);
+        this.sendToSocket(userId, { type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR, message: 'Unable to complete that action. Please try again.' });
+      });
     });
 
     socket.on('close', this.closeConnection.bind(this, { userId, username }));
@@ -259,11 +274,6 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
         this.giveAnswer({ userId, username }, { givenAnswer: this.liveAnswer });
         this.buzzedIn = null;
       }
-    } else if (this.currentQuestionType === QUESTION_TYPE_ENUM.BONUS) {
-      const allowed = this.endCurrentBonus({ userId, username });
-      if (allowed) {
-        this.startNextTossup({ userId, username });
-      }
     }
 
     this.leave(userId);
@@ -367,7 +377,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
   toggleControlled ({ userId, username }, { controlled }) {
     if (this.settings.public) { return; }
     if (userId !== this.ownerId) { return; }
-    this.settings.controlled = !!controlled;
+    this.settings.controlled = true;
     this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_CONTROLLED, controlled, username });
   }
 
@@ -384,7 +394,8 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
   toggleLoginRequired ({ userId, username }, { loginRequired }) {
     if (this.isVerified || this.settings.public || !this.allowed(userId)) { return; }
-    this.settings.loginRequired = loginRequired;
+    if (loginRequired) return;
+    this.settings.loginRequired = false;
     this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_LOGIN_REQUIRED, loginRequired, username });
   }
 
@@ -415,7 +426,8 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
   togglePublic ({ userId, username }, { public: isPublic }) {
     if (this.isPermanent || this.settings.controlled) { return; }
-    this.settings.public = isPublic;
+    if (isPublic) return;
+    this.settings.public = false;
     if (isPublic) {
       this.settings.lock = false;
       this.settings.loginRequired = false;

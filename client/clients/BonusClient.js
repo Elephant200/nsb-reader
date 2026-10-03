@@ -1,3 +1,4 @@
+import { renderReadingText } from '../../shared/render-reading-text.js';
 import addBonusGameCard from '../play/bonuses/add-bonus-game-card.js';
 import QuestionClient from './QuestionClient.js';
 import { MODE_ENUM } from '../../shared/constants.js';
@@ -136,9 +137,9 @@ export const BonusClientMixin = (ClientClass) => class extends ClientClass {
 
   updateBonusQuestion ({ word, currentPartNumber }) {
     if (currentPartNumber === -1) {
-      document.getElementById('leadin').innerHTML += word + ' ';
+      document.getElementById('leadin').innerHTML += renderReadingText(word) + ' ';
     } else {
-      document.getElementById(`bonus-part-${currentPartNumber + 1}`).querySelector('p').innerHTML += word + ' ';
+      document.getElementById(`bonus-part-${currentPartNumber + 1}`).querySelector('p').innerHTML += renderReadingText(word) + ' ';
     }
   }
 };

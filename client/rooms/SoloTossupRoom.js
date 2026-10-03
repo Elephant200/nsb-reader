@@ -1,14 +1,11 @@
+import star from '../scripts/auth/star.js';
 import api from '../scripts/api/index.js';
 import TossupRoom from '../../shared/rooms/TossupRoom.js';
 
 let starredTossupIds = null;
 async function getStarredTossup () {
   if (starredTossupIds === null) {
-    starredTossupIds = await fetch('/auth/stars/tossup-ids')
-      .then(response => {
-        if (!response.ok) { return null; }
-        return response.json();
-      });
+    starredTossupIds = await star.getStarredTossupIds();
 
     if (starredTossupIds === null) { return null; }
 

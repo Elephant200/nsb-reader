@@ -3,6 +3,7 @@ export default {
   experiments: { outputModule: true },
   // below is based on https://stackoverflow.com/questions/35903246/how-to-create-multiple-output-paths-in-webpack-config
   entry: {
+    'play/all/index': './client/play/all/index.jsx',
     'play/tossups/index': './client/play/tossups/index.jsx',
     'play/bonuses/index': './client/play/bonuses/index.jsx',
     'play/mp/room': './client/play/mp/room.jsx',

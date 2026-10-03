@@ -12,7 +12,7 @@ class RateLimit {
   constructor (limit, interval) {
     let now = 0;
     const last = Symbol('last'); const count = Symbol('count');
-    setInterval(() => ++now, interval);
+    setInterval(() => ++now, interval).unref();
     return o => {
       if (o[last] === now) return ++o[count] > limit;
       o[last] = now;

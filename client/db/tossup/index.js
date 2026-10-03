@@ -1,4 +1,3 @@
-import mongoIdToDate from '../mongo-id-to-date.js';
 import tossupToHTML from '../../scripts/tossup-to-html.js';
 
 const tossupId = new URLSearchParams(window.location.search).get('_id');
@@ -18,7 +17,7 @@ document.getElementById('tossup').appendChild(tossupToHTML(tossup));
 document.getElementById('_id').textContent = tossup._id;
 document.getElementById('difficulty').textContent = tossup.difficulty;
 document.getElementById('standard').textContent = tossup.set.standard;
-document.getElementById('time-created').textContent = mongoIdToDate(tossup._id).toLocaleString();
+document.getElementById('time-created').textContent = new Date(tossup.createdAt).toLocaleString();
 document.getElementById('last-modified').textContent = new window.Date(tossup.updatedAt).toLocaleString();
 
 const { stats } = await fetch('/api/question-stats/tossup?' + new URLSearchParams({ _id: tossup._id })).then(response => response.json());

@@ -1,6 +1,6 @@
 export const MIN_YEAR = 2000;
 export const MAX_YEAR = 2026;
-export const DEFAULT_MIN_YEAR = 2010;
+export const DEFAULT_MIN_YEAR = MIN_YEAR;
 export const DEFAULT_MAX_YEAR = MAX_YEAR;
 
 export const DEFAULT_QUERY_RETURN_LENGTH = 25;

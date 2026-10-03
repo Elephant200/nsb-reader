@@ -1,4 +1,5 @@
 import bonusRouter from './bonus.js';
+import pairedBonusRouter from './paired-bonus.js';
 import checkAnswerRouter from './check-answer.js';
 import frequencyListRouter from './frequency-list.js';
 import multiplayerRouter from './multiplayer/index.js';
@@ -41,6 +42,7 @@ router.use((req, _res, next) => {
 });
 
 router.use('/bonus', bonusRouter);
+router.use('/paired-bonus', pairedBonusRouter);
 router.use('/check-answer', checkAnswerRouter);
 router.use('/frequency-list', frequencyListRouter);
 router.use('/multiplayer', multiplayerRouter);

@@ -2,18 +2,9 @@ Users interested in contributing to this repository should read this document be
 
 # Running the Server
 
-If you're interested in running the server locally or deploying a clone, please **contact me** on discord at [thedoge42](https://discord.com/users/298250592135020545) so I can give you (read-only) credentials to the MongoDB server.
+Follow the setup steps in [README.md](../README.md). Use a local PostgreSQL database for development.
 
-1. Clone the repository and navigate to its root directory.
-   e.g. `git clone https://github.com/qbreader/website && cd website`
-2. Run `npm install`.
-3. Run `npm run build` to build `.jsx` files to `.js` and `.scss` files to `.css`.
-4. Create a `.env` file in the root of the directory, and insert values for `MONGODB_USERNAME` and `MONGODB_PASSWORD` (will need to ask me for credentials).
-5. Run `npm start`.
-   The website is at localhost:3000
-
-If you make any changes, you can rebuild using `npm run build`.
-You can watch changes in .jsx files by running `npm run webpack -- --watch`, and the command for .scss files is `npm run sass -- --watch`.
+Run `npm run build` after client changes, `npm test` for behavior checks, and `npm run lint` before committing.
 
 # Code Structure
 

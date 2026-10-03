@@ -2,12 +2,9 @@ import addTossupGameCard from '../play/tossups/add-tossup-game-card.js';
 import QuestionClient from './QuestionClient.js';
 import audio from '../play/audio.js';
 import { MODE_ENUM } from '../../shared/constants.js';
-import { TOSSUP_CLIENT_MESSAGE_TYPE, TOSSUP_ROOM_MESSAGE_TYPE } from '../../shared/protocol/tossup-room.js';
 
-/**
- * @template {typeof QuestionClient} TBase
- * @param {TBase} ClientClass
- */
+import { renderReadingText } from '../../shared/render-reading-text.js';
+
 export const TossupClientMixin = (ClientClass) => class extends ClientClass {
   constructor (room, userId, socket) {
     super(room, userId, socket);
@@ -17,17 +14,17 @@ export const TossupClientMixin = (ClientClass) => class extends ClientClass {
   onmessage (message) {
     const data = JSON.parse(message);
     switch (data.type) {
-      case TOSSUP_ROOM_MESSAGE_TYPE.BUZZ: return this.buzz(data);
-      case TOSSUP_CLIENT_MESSAGE_TYPE.END_CURRENT_TOSSUP: return this.endCurrentTossup(data);
-      case TOSSUP_CLIENT_MESSAGE_TYPE.GIVE_TOSSUP_ANSWER: return this.giveTossupAnswer(data);
-      case TOSSUP_ROOM_MESSAGE_TYPE.PAUSE: return this.pause(data);
-      case TOSSUP_CLIENT_MESSAGE_TYPE.REVEAL_TOSSUP_ANSWER: return this.revealTossupAnswer(data);
-      case TOSSUP_CLIENT_MESSAGE_TYPE.START_NEXT_TOSSUP: return this.startNextTossup(data);
-      case TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_CORRECT: return this.toggleCorrect(data);
-      case TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_POWERMARK_ONLY: return this.togglePowermarkOnly(data);
-      case TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_REBUZZ: return this.toggleRebuzz(data);
-      case TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_STOP_ON_POWER: return this.toggleStopOnPower(data);
-      case TOSSUP_CLIENT_MESSAGE_TYPE.UPDATE_QUESTION: return this.updateQuestion(data);
+      case 'buzz': return this.buzz(data);
+      case 'end-current-tossup': return this.endCurrentTossup(data);
+      case 'give-tossup-answer': return this.giveTossupAnswer(data);
+      case 'pause': return this.pause(data);
+      case 'reveal-tossup-answer': return this.revealTossupAnswer(data);
+      case 'set-reading-speed': return this.setReadingSpeed(data);
+      case 'start-next-tossup': return this.startNextTossup(data);
+      case 'toggle-correct': return this.toggleCorrect(data);
+      case 'toggle-rebuzz': return this.toggleRebuzz(data);
+      case 'toggle-stop-on-power': return this.toggleStopOnPower(data);
+      case 'update-question': return this.updateQuestion(data);
       default: return super.onmessage(message);
     }
   }
@@ -57,7 +54,8 @@ export const TossupClientMixin = (ClientClass) => class extends ClientClass {
   }
 
   revealTossupAnswer ({ answer, question }) {
-    document.getElementById('question').innerHTML = question;
+    const q = question.replace(/\n/g, '<br>');
+    document.getElementById('question').innerHTML = q;
     document.getElementById('answer').innerHTML = 'ANSWER: ' + answer;
     document.getElementById('pause').disabled = true;
   }
@@ -66,11 +64,9 @@ export const TossupClientMixin = (ClientClass) => class extends ClientClass {
     super.setMode({ mode });
     switch (mode) {
       case MODE_ENUM.SET_NAME:
-        document.getElementById('toggle-powermark-only').disabled = true;
         document.getElementById('toggle-standard-only').disabled = true;
         break;
       case MODE_ENUM.RANDOM:
-        document.getElementById('toggle-powermark-only').disabled = false;
         document.getElementById('toggle-standard-only').disabled = false;
         break;
     }
@@ -90,14 +86,6 @@ export const TossupClientMixin = (ClientClass) => class extends ClientClass {
     this.room.tossup = tossup;
   }
 
-  toggleCorrect ({ isCorrect, targetUserId, player }) {
-    throw new Error('toggleCorrect should be implemented in a subclass of TossupClientMixin');
-  }
-
-  togglePowermarkOnly ({ powermarkOnly }) {
-    document.getElementById('toggle-powermark-only').checked = powermarkOnly;
-  }
-
   toggleRebuzz ({ rebuzz }) {
     document.getElementById('toggle-rebuzz').checked = rebuzz;
   }
@@ -108,14 +96,15 @@ export const TossupClientMixin = (ClientClass) => class extends ClientClass {
 
   updateQuestion ({ word }) {
     if (word === '(*)' || word === '[*]' || word === '(+)') { return; }
-    document.getElementById('question').innerHTML += word + ' ';
+    document.getElementById('question').innerHTML += renderReadingText(word) + ' ';
   }
 };
 
 function attachEventListeners (room, socket) {
   document.getElementById('buzz').addEventListener('click', function () {
     this.blur();
-    socket.sendToServer({ type: TOSSUP_ROOM_MESSAGE_TYPE.BUZZ });
+    socket.sendToServer({ type: 'buzz' });
+    socket.sendToServer({ type: 'give-answer-live-update', givenAnswer: '' });
   });
 
   document.getElementById('pause').addEventListener('click', function () {
@@ -123,22 +112,25 @@ function attachEventListeners (room, socket) {
     const seconds = parseFloat(document.querySelector('.timer .face').textContent);
     const tenths = parseFloat(document.querySelector('.timer .fraction').textContent);
     const pausedTime = (seconds + tenths) * 10;
-    socket.sendToServer({ type: TOSSUP_ROOM_MESSAGE_TYPE.PAUSE, pausedTime });
+    socket.sendToServer({ type: 'pause', pausedTime });
   });
 
-  document.getElementById('toggle-powermark-only').addEventListener('click', function () {
-    this.blur();
-    socket.sendToServer({ type: TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_POWERMARK_ONLY, powermarkOnly: this.checked });
+  document.getElementById('reading-speed').addEventListener('change', function () {
+    socket.sendToServer({ type: 'set-reading-speed', readingSpeed: this.value });
   });
 
-  document.getElementById('toggle-rebuzz').addEventListener('click', function () {
-    this.blur();
-    socket.sendToServer({ type: TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_REBUZZ, rebuzz: this.checked });
+  document.getElementById('reading-speed').addEventListener('input', function () {
+    document.getElementById('reading-speed-display').textContent = this.value;
   });
 
-  document.getElementById('toggle-stop-on-power').addEventListener('click', function () {
+  document.getElementById('toggle-rebuzz')?.addEventListener('click', function () {
     this.blur();
-    socket.sendToServer({ type: TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_STOP_ON_POWER, stopOnPower: this.checked });
+    socket.sendToServer({ type: 'toggle-rebuzz', rebuzz: this.checked });
+  });
+
+  document.getElementById('toggle-stop-on-power')?.addEventListener('click', function () {
+    this.blur();
+    socket.sendToServer({ type: 'toggle-stop-on-power', stopOnPower: this.checked });
   });
 }
 

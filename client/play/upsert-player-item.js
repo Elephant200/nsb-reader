@@ -33,7 +33,7 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
   player.userId = escapeHTML(player.userId);
   player.username = escapeHTML(player.username);
 
-  const { userId, username, superpowers = 0, powers = 0, tens = 0, negs = 0, tuh = 0, points = 0, online } = player;
+  const { userId, username, tens = 0, negs = 0, tuh = 0, points = 0, online } = player;
   const celerity = player?.celerity?.correct?.average ?? NaN;
 
   const { bonusStats = { 0: 0, 10: 0, 20: 0, 30: 0 } } = team;
@@ -78,11 +78,9 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
   playerItem.setAttribute('data-bs-title', username);
   playerItem.setAttribute('data-bs-content', `
     <ul class="list-group list-group-flush">
-        <li class="list-group-item"><span>Superpowers</span><span id="superpowers-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${superpowers}</span></li>
-        <li class="list-group-item"><span>Powers</span><span id="powers-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${powers}</span></li>
-        <li class="list-group-item"><span>Tens</span><span id="tens-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tens}</span></li>
-        <li class="list-group-item"><span>Negs</span><span id="negs-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${negs}</span></li>
-        <li class="list-group-item"><span>TUH</span><span id="tuh-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tuh}</span></li>
+        <li class="list-group-item"><span>Correct</span><span id="tens-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tens}</span></li>
+        <li class="list-group-item"><span>Interrupts</span><span id="negs-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${negs}</span></li>
+        <li class="list-group-item"><span>Tossups seen</span><span id="tuh-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tuh}</span></li>
         <li class="list-group-item"><span>Bonus Points</span><span id="bonus-points-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${bonusPoints}</span></li>
         <li class="list-group-item"><span>PPB</span><span id="ppb-${userId}" class="float-end stats stats-${userId}">${isNaN(ppb) ? '0.000' : ppb.toFixed(3)}</span></li>
         <li class="list-group-item"><span>Celerity</span><span id="celerity-${userId}" class="float-end stats stats-${userId}">${celerity.toFixed(3)}</span></li>
@@ -107,6 +105,16 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
     const dropdownMenu = document.createElement('ul');
     dropdownMenu.className = 'dropdown-menu';
     dropdownMenu.setAttribute('aria-labelledby', 'playerActionsDropdown');
+
+    if (banTrigger && online) {
+      const item = document.createElement('li');
+      const button = document.createElement('button');
+      button.className = 'dropdown-item';
+      button.textContent = 'Make room owner';
+      button.addEventListener('click', () => socket.send(JSON.stringify({ type: 'transfer-owner', targetId: userId })));
+      item.appendChild(button);
+      dropdownMenu.appendChild(item);
+    }
 
     if (muteTrigger) {
       const muteItem = document.createElement('li');

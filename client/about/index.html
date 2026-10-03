@@ -1,120 +1,19 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-    <title>QBReader - About</title>
+    <title>NSB Reader - About</title>
     <!--#include virtual="/ssi/head.html" -->
-    <meta name="description" content="A text-based quizbowl packet reader and database.">
+    <meta name="description" content="High-school National Science Bowl practice.">
 </head>
-
 <body>
     <!--#include virtual="/ssi/nav.html" -->
-
     <div class="container-xl mt-3 mb-5 pb-5">
-        <p class="lead" id="numbering-info">
-            A text-based quizbowl packet reader and database created by <a href="https://github.com/geoffrey-wu">Geoffrey Wu</a>,
-        </p>
-        <p>
-            with contributions from
-            <a href="https://github.com/skysomorphic">Sky Hong</a>,
-            <a href="https://github.com/Captain-Quack">Mason Lack</a>,
-            <a href="https://github.com/BLCRAFT210">Brian Lai</a>,
-            and <a href="https://github.com/qbreader/website/graphs/contributors">others</a>.
-            The <a href="https://github.com/qbreader/python-module">Python API wrapper module</a> was created by
-            <a href="https://github.com/rtenacity">Rohan Arni</a> and is currently maintained by
-            <a href="https://github.com/skysomorphic">Sky Hong</a> with contributions from
-            <a href="https://github.com/dylanbowman314">Dylan Bowman</a>.
-        </p>
-        <p>
-            Packets are collected from
-            <a href="https://quizbowlpackets.com/">quizbowlpackets.com</a>
-            and parsed into JSON files using a Python-based
-            <a href="https://github.com/geoffrey-wu/qb-packet-parser">quizbowl packet parser</a>.
-            If you notice any issues with packets or categorization, please <b>report the question</b> (preferred)
-            or contact me on discord at
-            <a href="https://discord.com/users/298250592135020545">thedoge42</a>.
-            Packets are numbered numerically, if possible, and otherwise by alphabetical order of their names.
-        </p>
-        <p>
-            Feel free to contribute to the <a href="https://github.com/qbreader">source code on Github</a>.
-            If you have a feature you want to see in qbreader, you can
-            <a href="https://github.com/qbreader/website/issues">open a new issue</a>.
-        </p>
-        <h4>Legal:</h4>
-        <ul>
-            <li>Privacy policy: <a href="/about/privacy-policy">click here</a></li>
-            <li>Terms of service: <a href="/about/terms-of-service">click here</a></li>
-        </ul>
-        <h4>Why QB Reader?</h4>
-        <ul>
-            <li>
-                Uses the latest set of questions.
-                Packets are uploaded to the website as soon as they are released on quizbowlpackets.com.
-            </li>
-            <li>Can filter questions by tossup/bonus, difficulty, packet, and category.</li>
-            <li>Excellent mobile support.</li>
-            <li>Over 300,000 questions from over 600 sets.</li>
-        </ul>
-        <h4>What does making an account do?</h4>
-        <p>
-            Making an account with a verified email gives you the following features:
-        </p>
-        <ul>
-            <li>Lets you track your tossup and bonus stats.</li>
-            <li>Contributes to community-wide per-question stats.</li>
-            <li>Lets you play <a href="/play/geoword/">geoword</a>.</li>
-        </ul>
-        <h4>Why do I need to verify my email?</h4>
-        <p>
-            This is to prevent spam accounts from being created.
-            Your email will not be used for anything other than verifying your account.
-            You can reset your password using your email regardless of whether or not it is verified.
-        </p>
-        <h4>Does it cost money to create an account?</h4>
-        <p>
-            No.
-            <a href="/play/geoword/">Geoword</a> is the only feature that costs money.
-            All of the other features of QB Reader are completely free.
-        </p>
-        <h4>What do I do if someone is causing trouble in a room?</h4>
-        <p>
-            If a player in a public room is causing issues, such as spamming, advertising, or being expletive, you have a few options.
-        </p>
-        <ul>
-            <li>You can initiate a votekick on a player by using the "VK" under their name.
-                If enough players also press the votekick, then the user will be banned from that room.
-                They will not be able to rejoin.</li>
-            <li>When the room is private and you are the owner, you can outright ban the player instead.
-                Press the "Ban" button under an user's name and they will be banned from the room and cannot rejoin.</li>
-            <li>If you wish to not see the messages of a certain player, you can mute them.
-                Use the "Mute" button under the player's name and you will no longer see chat messages from them.
-                You can unmute an user at any time to see their messages again.</li>
-        </ul>
-        <h4>What does "standard format" mean?</h4>
-        <p>See <a href="/about/standard-format">here</a> for more info.</p>
-        <h4>Where can I request a set?</h4>
-        <p>
-            You can do so
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLScODq_i9jmEYvrmJqDGuvaBbCYOe0G7K98t7I-C0jcgioYf0w/viewform">here</a>.
-        </p>
-        <h4>Can I get a copy of all the questions?</h4>
-        <p>Check out the <a href="/db/backups">backups</a>.</p>
-        <h4>What do the dots mean in the difficulty scale?</h4>
-        <p>
-            The dots are taken from the
-            <a href="https://collegequizbowlcalendar.com/difficulty-scale/">college quizbowl calendar difficulty scale</a>.
-        </p>
-        <h4>Packet List:</h4>
-        <p>
-            Please visit
-            <a href="https://docs.google.com/spreadsheets/d/1Q_DURZJRPCbQmikcXGu986-7Mj5KJNJoux1OqJjxUkM/edit?usp=sharing">
-                this link
-            </a>
-            for info about sets, their labeled difficulty, and whether or not they have bolding/underlining in the answerlines.
-        </p>
+        <p class="lead">NSB Reader provides high-school National Science Bowl practice.</p>
+        <p>Practice tossups, bonuses, or paired questions on your own, or share a private room for individual multiplayer practice.</p>
+        <p>The interface uses <a href="https://github.com/qbreader/website">QBReader</a>, created by Geoffrey Wu and its contributors. Answer checking uses <a href="https://github.com/qbreader/qb-answer-checker">qb-answer-checker</a>.</p>
+        <p>Questions come from the U.S. Department of Energy's <a href="https://science.osti.gov/wdts/nsb/Regional-Competitions/Resources/HS-Sample-Questions">high-school sample questions</a>. Use the flag beside a question to report an incorrect answer or formatting problem.</p>
+        <p><a href="/about/tips">Practice instructions and keyboard shortcuts</a></p>
+        <p>No account is required. Preferences and starred questions are saved in your browser; multiplayer scores last for the room session.</p>
     </div>
-
-
 </body>
-
 </html>

@@ -42,17 +42,17 @@ export default class QuestionRoom extends Room {
 
     this.categoryManager = categoryManager;
     this.mode = MODE_ENUM.RANDOM;
-    this.packetCount = 24; // Length of 2024 PACE NSC
+    this.packetCount = 0;
     this.queryingQuestion = false;
     this.supportedQuestionTypes = supportedQuestionTypes;
     this.useRandomQuestionCache = true;
 
     this.query = {
-      difficulties: [4, 5],
+      difficulties: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
       minYear: DEFAULT_MIN_YEAR,
       maxYear: DEFAULT_MAX_YEAR,
       packetNumbers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
-      setName: '2023 PACE NSC',
+      setName: '',
       reverse: true, // used for `database.getSet`
       standardOnly: false,
       ...this.categoryManager.export()

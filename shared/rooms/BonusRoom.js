@@ -30,7 +30,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
     this.bonusWordIndex = 0;
 
     this.query = {
-      threePartBonuses: true,
+      threePartBonuses: false,
       ...this.query
     };
 
@@ -88,7 +88,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
   }
 
   giveBonusAnswer ({ userId, username }, { givenAnswer }) {
-    if (typeof givenAnswer !== 'string') { return false; }
+    if (typeof givenAnswer !== 'string' || this.bonusProgress !== BONUS_PROGRESS_ENUM.READING || this.currentPartNumber < 0) { return false; }
 
     this.liveAnswer = '';
     clearInterval(this.timer.interval);
@@ -199,7 +199,9 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
   toggleBonusPart ({ userId, username }, { partNumber, correct }) {
     if (typeof partNumber !== 'number') { return false; }
     if (partNumber < 0 || partNumber >= this.bonus.parts.length) { return false; }
+    if (partNumber >= this.pointsPerPart.length || typeof correct !== 'boolean') return false;
     this.pointsPerPart[partNumber] = correct ? this.getPartValue(partNumber) : 0;
+    this.emitMessage({ type: BONUS_ROOM_MESSAGE_TYPE.TOGGLE_BONUS_PART, partNumber, correct });
   }
 
   toggleThreePartBonuses ({ username }, { threePartBonuses }) {

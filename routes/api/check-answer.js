@@ -1,5 +1,8 @@
 import { Router } from 'express';
-import checkAnswer from 'qb-answer-checker';
+import checkShortAnswer from 'qb-answer-checker';
+import { createNsbAnswerChecker } from '../../shared/nsb-check-answer.js';
+
+const checkAnswer = createNsbAnswerChecker(checkShortAnswer);
 
 const router = Router();
 

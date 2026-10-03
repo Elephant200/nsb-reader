@@ -1,3 +1,4 @@
+import star from '../scripts/auth/star.js';
 import BonusRoom from '../../shared/rooms/BonusRoom.js';
 import api from '../scripts/api/index.js';
 
@@ -8,11 +9,7 @@ async function getPacket ({ setName, packetNumber }) {
 let starredBonusIds = null;
 async function getRandomStarredBonus () {
   if (starredBonusIds === null) {
-    starredBonusIds = await fetch('/auth/stars/bonus-ids')
-      .then(response => {
-        if (!response.ok) { return null; }
-        return response.json();
-      });
+    starredBonusIds = await star.getStarredBonusIds();
 
     if (starredBonusIds === null) { return null; }
 
@@ -60,13 +57,12 @@ export default class SoloBonusRoom extends BonusRoom {
   }
 
   startBonusAnswer ({ userId, username }) {
-    const teamId = this.players[userId].teamId;
     if (!this.settings.typeToAnswer) {
-      this.giveBonusAnswer({ userId: teamId, username }, { givenAnswer: this.bonus.answers_sanitized[this.currentPartNumber] });
+      this.giveBonusAnswer({ userId, username }, { givenAnswer: this.bonus.answers_sanitized[this.currentPartNumber] });
       return;
     }
 
-    super.startBonusAnswer({ userId: teamId, username });
+    super.startBonusAnswer({ userId, username });
   }
 
   toggleTypeToAnswer ({ userId, username }, { typeToAnswer }) {

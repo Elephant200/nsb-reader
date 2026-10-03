@@ -26,6 +26,7 @@ export function _id (object) {
   return validateObjectId(object, '_id');
 }
 
-export function set_id (object) {
+export function set_id (object) { // eslint-disable-line camelcase
+  object.set_id ??= object.setId;
   return validateObjectId(object, 'set_id');
 }

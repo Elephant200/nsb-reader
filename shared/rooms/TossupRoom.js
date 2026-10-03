@@ -48,7 +48,7 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
       isCorrect: true,
       inPower: false,
       inSuperpower: false,
-      negValue: -5,
+      negValue: -4,
       powerValue: 15,
       superpowerValue: 20,
       tossup: {},
@@ -259,14 +259,12 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
   scoreTossup ({ givenAnswer }) {
     const celerity = this.questionSplit.slice(this.wordIndex).join(' ').length / this.tossup.question.length;
     const endOfQuestion = this.settings.stopOnPower ? this.stopOnPowerEnded : (this.wordIndex === this.questionSplit.length);
-    const superpowerIndex = this.questionSplit.indexOf('(+)');
-    const powerIndex = Math.max(this.questionSplit.indexOf('(*)'), this.questionSplit.indexOf('[*]'));
-    const inSuperpower = superpowerIndex !== -1 && superpowerIndex >= this.wordIndex;
-    const inPower = !inSuperpower && powerIndex !== -1 && powerIndex >= this.wordIndex;
+    const inSuperpower = false;
+    const inPower = false;
     const { directive, directedPrompt } = this.checkAnswer(this.tossup.answer, givenAnswer, this.settings.strictness);
     const isCorrect = directive === 'accept';
     const points = isCorrect
-      ? (inSuperpower ? this.previousTossup.superpowerValue : (inPower ? this.previousTossup.powerValue : 10))
+      ? 4
       : (endOfQuestion ? 0 : this.previousTossup.negValue);
 
     this.previousTossup = {
@@ -320,11 +318,11 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
       this.players[targetUserId].points += multiplier * this.previousTossup.powerValue;
     } else {
       this.players[targetUserId].tens += multiplier * 1;
-      this.players[targetUserId].points += multiplier * 10;
+      this.players[targetUserId].points += multiplier * 4;
     }
 
     if (this.previousTossup.endOfQuestion) {
-      this.players[targetUserId].dead += multiplier * -1;
+      this.players[targetUserId].zeroes += multiplier * -1;
     } else {
       this.players[targetUserId].negs += multiplier * -1;
       this.players[targetUserId].points += multiplier * -this.previousTossup.negValue;
@@ -332,7 +330,7 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
 
     const correctBuzzes = this.players[targetUserId].superpowers + this.players[targetUserId].powers + this.players[targetUserId].tens;
     this.players[targetUserId].celerity.correct.total += multiplier * this.previousTossup.celerity;
-    this.players[targetUserId].celerity.correct.average = this.players[targetUserId].celerity.correct.total / correctBuzzes;
+    this.players[targetUserId].celerity.correct.average = this.players[targetUserId].celerity.correct.total / (correctBuzzes || 1);
 
     this.emitMessage({ type: TOSSUP_ROOM_MESSAGE_TYPE.TOGGLE_CORRECT, correct, targetUserId, player: this.players[targetUserId] });
   }

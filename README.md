@@ -1,33 +1,22 @@
-# qbreader/website
+# NSB Reader
 
-A website for practicing quizbowl online, including singleplayer, multiplayer, and a searchable database of questions.
-Inspired by [QuizBug](https://quizbug2.karangurazada.com/) and [Protobowl](https://protobowl.com/).
-See [qbwiki](https://www.qbwiki.com/wiki/QBReader) and the official [about page](https://www.qbreader.org/about) for more information.
+High-school National Science Bowl practice with solo tossups, bonuses, paired questions, and private multiplayer rooms. The interface and reading controls use [QBReader](https://github.com/qbreader/website).
 
-## Running the Server
+## Run locally
 
-Please read the [contributing guidelines](.github/CONTRIBUTING.md#running-the-server) for instructions on how to run the server.
+1. Install Node.js 22 or newer and run `npm ci`.
+2. Create a PostgreSQL database, or start local Supabase with `supabase start`.
+3. Apply the SQL files in `supabase/migrations/` in filename order. With Supabase, use `supabase db reset` for a fresh local database.
+4. Copy `.env.example` to `.env` and set the database URL.
+5. Import questions using the [question importer](tools/import/README.md).
+6. Run `npm run build`, then `npm start`. Open http://localhost:3000.
 
-## Contributing
+Run `npm test` for behavior and parser checks. Run `npm run lint` for JavaScript formatting.
 
-**Note:** If you've cloned the repository before July 31st, 2025, you'll have to delete your local copy of the repository and make a fresh clone.
+[Product specification](SPEC.md) · [Contributing](.github/CONTRIBUTING.md)
 
-Pull requests and Github issues are welcome!
-Please read the [contributing guidelines](.github/CONTRIBUTING.md) before making changes.
+## Storage
 
-### Answer Checking
+The server connects directly to PostgreSQL. Supabase supplies managed PostgreSQL; the browser does not require a Supabase key. Questions and question reports are stored in the database. Stars and preferences stay in the browser, and multiplayer statistics last for the room session.
 
-Feel free to contribute to the answer checking code located at [this repository](https://github.com/qbreader/qb-answer-checker) which is published as an [npm package](https://www.npmjs.com/package/qb-answer-checker).
-
-## Tech Stack
-
-qbreader.org uses:
-
-- Heroku to host its backend
-- MongoDB to store the question data
-- [MailerSend](https://www.mailersend.com/) to send emails
-- [Namecheap](https://www.namecheap.com/) to manage the domain
-- [BetterStack/Logtail](https://elements.heroku.com/addons/logtail) for logging integration with Heroku
-- [Heroku Scheduler](https://elements.heroku.com/addons/scheduler) to restart the server at 8:00 AM UTC (3 AM EST / 4 AM EDT) every day
-  - Based on [protobowl always restarting at 4 am](https://github.com/neotenic/protobowl?tab=readme-ov-file), since supposedly that's when it's the least busy
-  - See https://stackoverflow.com/questions/43926740/schedule-heroku-to-restart-dynos-every-10-or-so-minutes for more information
+Production requires `SECRET_KEY_1` and `SECRET_KEY_2` for signed session cookies, plus a PostgreSQL connection URL. Keep credentials in environment variables.

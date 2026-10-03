@@ -49,13 +49,13 @@ class Player {
   updateStats (points, celerity) {
     this.points += points;
     this.celerity.all.total += celerity;
-    this.celerity.all.average = this.celerity.all.total / this.tuh;
+    this.celerity.all.average = this.celerity.all.total / (this.tuh || 1);
 
     if (points === 20) {
       this.superpowers++;
     } else if (points === 15) {
       this.powers++;
-    } else if (points === 10) {
+    } else if (points === 4) {
       this.tens++;
     } else if (points === 0) {
       this.zeroes++;

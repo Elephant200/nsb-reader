@@ -32,7 +32,15 @@ export default class TossupBonusRoom extends BonusRoomMixin(TossupRoomMixin(Ques
   }
 
   canUserAnswerBonus ({ userId }) {
-    return this.players[userId].teamId === this.bonusEligibleTeamId;
+    return this.currentQuestionType === QUESTION_TYPE_ENUM.BONUS &&
+      this.bonusProgress === BONUS_PROGRESS_ENUM.READING &&
+      this.players[userId]?.teamId === this.bonusEligibleTeamId;
+  }
+
+  async getNextQuestion (questionType) {
+    if (questionType !== 'bonuses') return super.getNextQuestion(questionType);
+    if (this.tossup?.packet?._id) return this.getPairedBonus(this.tossup.packet._id, this.tossup.number);
+    return this.localPacket.bonuses?.find(bonus => bonus.number === this.tossup?.number) ?? null;
   }
 
   giveAnswer ({ userId, username }, { givenAnswer }) {
@@ -50,9 +58,10 @@ export default class TossupBonusRoom extends BonusRoomMixin(TossupRoomMixin(Ques
   }
 
   giveTossupAnswer ({ userId, username }, { givenAnswer }) {
+    if (this.buzzedIn !== userId || typeof givenAnswer !== 'string') return false;
+    const { directive } = this.scoreTossup({ givenAnswer });
     super.giveTossupAnswer({ userId, username }, { givenAnswer });
     if (Object.keys(this.tossup || {}).length === 0) { return; }
-    const { directive } = this.scoreTossup({ givenAnswer });
     if (directive === 'accept') {
       const teamId = this.players[userId].teamId;
       this.bonusEligibleTeamId = teamId;
@@ -95,9 +104,10 @@ export default class TossupBonusRoom extends BonusRoomMixin(TossupRoomMixin(Ques
     super.startBonusAnswer({ userId, username });
   }
 
-  startNextBonus ({ userId, username }) {
+  async startNextBonus ({ userId, username }) {
     this.currentQuestionType = QUESTION_TYPE_ENUM.BONUS;
-    return super.startNextBonus({ userId, username });
+    await super.startNextBonus({ userId, username });
+    if (!this.bonus) return this.startNextTossup({ userId, username });
   }
 
   startNextTossup ({ userId, username }) {

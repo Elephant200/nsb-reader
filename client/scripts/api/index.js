@@ -1,7 +1,16 @@
-import checkAnswer from 'https://cdn.jsdelivr.net/npm/qb-answer-checker/dist/main.mjs';
+import checkShortAnswer from 'https://cdn.jsdelivr.net/npm/qb-answer-checker/dist/main.mjs';
+import { createNsbAnswerChecker } from '../../../shared/nsb-check-answer.js';
 import filterParams from '../utilities/filter-params.js';
 
+const checkAnswer = createNsbAnswerChecker(checkShortAnswer);
+
 export default class api {
+  static async getPairedBonus (packetId, number) {
+    const response = await fetch('/api/paired-bonus?' + new URLSearchParams({ packetId, number }));
+    if (!response.ok) return null;
+    return (await response.json()).bonus;
+  }
+
   /**
    * @param {string} answerline
    * @param {string} givenAnswer

@@ -7,7 +7,7 @@ import { createServer } from 'http';
 import { WebSocketServer } from 'ws';
 
 if (process.env.NODE_ENV === 'production') {
-  for (const key of ['SECRET', 'SALT', 'SECRET_KEY_1', 'SECRET_KEY_2']) {
+  for (const key of ['SECRET_KEY_1', 'SECRET_KEY_2']) {
     if (!process.env[key]) {
       throw new Error(`Missing required environment variable in production: ${key}`);
     }

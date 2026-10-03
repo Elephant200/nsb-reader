@@ -1,5 +1,4 @@
 import bonusToHTML from '../../scripts/bonus-to-html.js';
-import mongoIdToDate from '../mongo-id-to-date.js';
 
 const bonusId = new URLSearchParams(window.location.search).get('_id');
 const { bonus } = await fetch('/api/bonus?' + new URLSearchParams({ _id: bonusId })).then(res => res.json());
@@ -18,7 +17,7 @@ document.getElementById('bonus').appendChild(bonusToHTML(bonus));
 document.getElementById('_id').textContent = bonus._id;
 document.getElementById('difficulty').textContent = bonus.difficulty;
 document.getElementById('standard').textContent = bonus.set.standard;
-document.getElementById('time-created').textContent = mongoIdToDate(bonus._id).toLocaleString();
+document.getElementById('time-created').textContent = new Date(bonus.createdAt).toLocaleString();
 document.getElementById('last-modified').textContent = new window.Date(bonus.updatedAt).toLocaleString();
 
 const { stats } = await fetch('/api/question-stats/bonus?' + new URLSearchParams({ _id: bonus._id })).then(response => response.json());
