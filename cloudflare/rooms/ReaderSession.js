@@ -17,7 +17,16 @@ export class ReaderSession {
     ctx.storage.sql.exec('CREATE TABLE IF NOT EXISTS room_state (id INTEGER PRIMARY KEY CHECK(id = 1), data TEXT NOT NULL)');
     const rows = ctx.storage.sql.exec('SELECT data FROM room_state WHERE id = 1').toArray();
     this.room = rows.length ? JSON.parse(rows[0].data) : null;
-    if (this.room) this.game = Object.assign(new ReaderRoom(), this.room.game);
+    if (this.room) {
+      this.game = Object.assign(new ReaderRoom(), this.room.game);
+      const onlinePlayers = new Set([...this.sockets.values()].map(identity => identity.playerId));
+      for (const player of Object.values(this.game.players)) player.online = onlinePlayers.has(player.id);
+      if (!this.readerOnline()) { this.game.stopTimer(); this.game.paused = true; }
+      if (!this.sockets.size && !this.room.emptySince) {
+        this.room.emptySince = Date.now();
+        ctx.blockConcurrencyWhile(() => this.save());
+      }
+    }
   }
 
   async fetch (request) {

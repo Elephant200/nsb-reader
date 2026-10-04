@@ -23,7 +23,14 @@ export default {
         return env.MULTIPLAYER.getByName(name).fetch(request);
       }
       if (url.pathname === '/health') return new Response('OK');
-      if (url.pathname.startsWith('/api/')) return await api(request, env);
+      if (url.pathname.startsWith('/api/')) {
+        const response = await api(request, env);
+        const result = new Response(response.body, response);
+        result.headers.set('Access-Control-Allow-Origin', '*');
+        result.headers.set('Cache-Control', 'no-store');
+        result.headers.set('X-Content-Type-Options', 'nosniff');
+        return result;
+      }
       if (/^\/play\/mp\/[^/.]+\/?$/.test(url.pathname)) {
         url.pathname = '/play/mp/room';
         return env.ASSETS.fetch(new Request(url, request));

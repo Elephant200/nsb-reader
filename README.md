@@ -2,6 +2,8 @@
 
 High-school National Science Bowl practice with solo tossups, bonuses, paired questions, private multiplayer rooms, and reader-led in-person practice. The interface and reading controls use [QBReader](https://github.com/qbreader/website).
 
+Play at [nsb.elephant-id.org](https://nsb.elephant-id.org).
+
 ## Run locally
 
 Install Node.js 22 or newer, then:
@@ -19,6 +21,16 @@ Open http://localhost:8787. This uses local D1 and Durable Object emulators; no 
 The Express development server is also available with `npm start`. It requires PostgreSQL, the migrations in `supabase/migrations/`, `.env.example` configuration, and the [question importer](tools/import/README.md).
 
 Run `npm test` for behavior and parser checks. Run `npm run lint` for JavaScript formatting.
+
+With the local Cloudflare server running, verify the HTTP API and both room protocols:
+
+```sh
+node tools/cloudflare/verify-api.js
+node tools/cloudflare/verify-reader.js
+node tools/cloudflare/verify-multiplayer.js
+```
+
+Each accepts a site URL as its first argument. Room checks create temporary sessions and disconnect their players afterward.
 
 [Product specification](SPEC.md) · [Contributing](.github/CONTRIBUTING.md)
 
