@@ -34,6 +34,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
   getPacketCount = getNumPackets;
   getRandomBonuses = getRandomBonuses;
   getRandomTossups = getRandomTossups;
+  getSetList = getSetList;
 
   constructor (name, ownerId, isPermanent, categoryManager, supportedQuestionTypes, isVerified = false) {
     super(name, categoryManager, supportedQuestionTypes);
@@ -56,7 +57,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
     };
 
     this.cleanupInterval = setInterval(this.cleanupExpiredBansAndKicks.bind(this), 5 * 60 * 1000); // 5 minutes
-    this.cleanupInterval.unref();
+    this.cleanupInterval.unref?.();
   }
 
   async message ({ userId, username }, message) {
@@ -339,7 +340,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
   async setSetName ({ userId, username }, { setName }) {
     if (!this.allowed(userId)) { return; }
-    if (!this.packetList) { this.packetList = await getSetList(); }
+    if (!this.packetList) { this.packetList = await this.getSetList(); }
     if (!this.packetList.includes(setName)) { return; }
     super.setSetName({ userId, username }, { doNotFetch: false, setName });
   }

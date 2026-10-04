@@ -3,6 +3,9 @@
     "version": "26.04",
     "type": "module",
     "scripts": {
+        "build:cloudflare": "npm run build && node tools/cloudflare/build.js",
+        "dev:cloudflare": "wrangler dev --port 8787",
+        "deploy:cloudflare": "npm run build:cloudflare && wrangler deploy",
         "build": "npm run webpack && npm run sass",
         "dev": "npm run build && npm run start",
         "lint": "npx semistandard --fix",
@@ -22,10 +25,11 @@
         "express-rate-limit": "^6.7.0",
         "jsdom": "^28.1.0",
         "morgan": "^1.10.0",
+        "pg": "^8.21.0",
         "qb-answer-checker": "^1.1.9",
+        "re2js": "^2.8.6",
         "uuid": "^14.0.0",
-        "ws": "^8.8.0",
-        "pg": "^8.21.0"
+        "ws": "^8.8.0"
     },
     "devDependencies": {
         "@babel/core": "^7.20.2",
@@ -35,6 +39,7 @@
         "semistandard": "^17.0.0",
         "webpack": "^5.100.2",
         "webpack-cli": "^6.0.1",
+        "wrangler": "^4.147.0",
         "yargs": "^18.0.0"
     },
     "semistandard": {

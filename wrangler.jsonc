@@ -1,0 +1,30 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "nsb-reader",
+  "main": "cloudflare/worker.js",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "routes": [{"pattern": "nsb.elephant-id.org", "custom_domain": true}],
+  "assets": {
+    "directory": ".cloudflare/assets",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*", "/health", "/reader-room", "/play/mp/*"]
+  },
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "nsb-reader",
+    "database_id": "23659736-86ea-4cfd-abd8-37d7a6ed66f3",
+    "migrations_dir": "cloudflare/migrations"
+  }],
+  "durable_objects": {
+    "bindings": [
+      {"name": "READERS", "class_name": "ReaderSession"},
+      {"name": "MULTIPLAYER", "class_name": "MultiplayerSession"},
+      {"name": "TRAFFIC", "class_name": "TrafficGuard"},
+      {"name": "SEARCH", "class_name": "QuestionSearch"}
+    ]
+  },
+  "migrations": [{"tag": "v1", "new_sqlite_classes": ["ReaderSession", "MultiplayerSession", "TrafficGuard", "QuestionSearch"]}],
+  "observability": {"enabled": true}
+}

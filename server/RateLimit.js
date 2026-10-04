@@ -10,10 +10,9 @@ class RateLimit {
      * @returns {function} A function that returns true if the object has exceeded the rate limit.
      */
   constructor (limit, interval) {
-    let now = 0;
     const last = Symbol('last'); const count = Symbol('count');
-    setInterval(() => ++now, interval).unref();
     return o => {
+      const now = Math.floor(Date.now() / interval);
       if (o[last] === now) return ++o[count] > limit;
       o[last] = now;
       o[count] = 1;

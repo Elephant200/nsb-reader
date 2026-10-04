@@ -4,12 +4,19 @@ High-school National Science Bowl practice with solo tossups, bonuses, paired qu
 
 ## Run locally
 
-1. Install Node.js 22 or newer and run `npm ci`.
-2. Create a PostgreSQL database, or start local Supabase with `supabase start`.
-3. Apply the SQL files in `supabase/migrations/` in filename order. With Supabase, use `supabase db reset` for a fresh local database.
-4. Copy `.env.example` to `.env` and set the database URL.
-5. Import questions using the [question importer](tools/import/README.md).
-6. Run `npm run build`, then `npm start`. Open http://localhost:3000.
+Install Node.js 22 or newer, then:
+
+```sh
+npm ci
+npm run build:cloudflare
+npx wrangler d1 migrations apply nsb-reader --local
+npx wrangler d1 execute nsb-reader --local --file .cloudflare/seed.sql
+npm run dev:cloudflare
+```
+
+Open http://localhost:8787. This uses local D1 and Durable Object emulators; no Supabase connection or Cloudflare login is needed. Keep an empty `.dev.vars` file if a PostgreSQL `.env` is also present, so Wrangler does not load those unrelated credentials.
+
+The Express development server is also available with `npm start`. It requires PostgreSQL, the migrations in `supabase/migrations/`, `.env.example` configuration, and the [question importer](tools/import/README.md).
 
 Run `npm test` for behavior and parser checks. Run `npm run lint` for JavaScript formatting.
 
@@ -17,16 +24,27 @@ Run `npm test` for behavior and parser checks. Run `npm run lint` for JavaScript
 
 ## In-person rooms
 
-Open `/play/in-person/` to create a reader room or join with a six-digit code. The reader controls question selection, timers, judgments, team assignments, and scores. Player devices get a buzzer and generated username. Reader credentials and player reconnect identities stay in their respective browsers; room state and performance statistics stay in server memory for the session. Use the same server address on all devices.
+Open `/play/in-person/` to create a reader room or join with a six-digit code. The reader controls question selection, timers, judgments, team assignments, and scores. Player devices get a buzzer and generated username. Reader credentials and player reconnect identities stay in their respective browsers. Use the same site address on all devices.
 
 ## Storage
 
-The server connects directly to PostgreSQL. Supabase supplies managed PostgreSQL; the browser does not require a Supabase key. Questions and question reports are stored in the database. Stars and preferences stay in the browser, and multiplayer statistics last for the room session.
+Cloudflare D1 stores questions and reports. A SQLite-backed Durable Object coordinates each reader room, saves its state after actions, and keeps its WebSocket connections through hibernation. Reader rooms expire one hour after everyone disconnects. End disconnects everyone immediately. Stars and preferences stay in the browser; there is no cross-session player history.
 
-Production requires `SECRET_KEY_1` and `SECRET_KEY_2` for signed session cookies, plus a PostgreSQL connection URL. Keep credentials in environment variables.
+Individual multiplayer uses the existing word-reading engine inside a separate Durable Object for each room. Its open WebSockets keep the engine active; a deployment can end those sessions. Both transports enforce per-IP connection limits and 10 KB incoming message limits. The frontend, shared rules, and wire protocols are common to both hosting runtimes.
 
-## Render hosting
+## Cloudflare hosting
 
-`render.yaml` defines one Node web service for the website, HTTP API, and WebSocket rooms. Supply the Supabase Session pooler connection string as `DATABASE_URL`; Render generates the session signing keys. Build with `npm ci --include=dev && npm run build` and start with `npm start`.
+`wrangler.jsonc` binds the Worker to D1, Durable Objects, and compiled static assets. HTML includes are expanded during the build. The deterministic corpus import preserves question IDs across imports. Random practice selects from a compact category/year index and fetches only selected rows. Search uses a static text index inside a Durable Object, avoiding full D1 table scans; regular expressions use RE2JS for bounded matching rather than backtracking.
 
-Keep this service at one instance: live room state is held in memory. Automatic deploys are disabled because deployments and restarts end active rooms. The free plan sleeps after 15 minutes without HTTP or WebSocket traffic and takes time to wake for the next visitor. PostgreSQL questions and reports remain in Supabase.
+Authenticate with `npx wrangler login`. For a new Cloudflare account, create the D1 database with `npx wrangler d1 create nsb-reader` and update its ID in `wrangler.jsonc`. Apply the schema and import the corpus once:
+
+```sh
+npm run build:cloudflare
+npx wrangler d1 migrations apply nsb-reader --remote
+npx wrangler d1 execute nsb-reader --remote --file .cloudflare/seed.sql
+npx wrangler deploy
+```
+
+For code-only updates, use `npm run deploy:cloudflare`; do not reimport unchanged questions. The import writes about 73,000 rows including indexes, within D1's free daily 100,000-write allowance. Repeated imports consume that allowance again. Cloudflare credentials remain in Wrangler's local configuration, outside the repository.
+
+The app uses resources available on Workers Free. Free quotas are finite: the regular individual multiplayer engine consumes active Durable Object duration while a room is connected, whereas reader rooms hibernate between events. Review [Workers](https://developers.cloudflare.com/workers/platform/pricing/), [D1](https://developers.cloudflare.com/d1/platform/pricing/), and [Durable Objects](https://developers.cloudflare.com/durable-objects/platform/pricing/) usage in the Cloudflare dashboard. No paid subscription is required by the configuration.

@@ -30,7 +30,7 @@ The reader starts, pauses, and resets a 5-second tossup or 20-second bonus respo
 
 ## Questions and storage
 
-PostgreSQL/Supabase stores questions and reports. NSB sample PDFs are converted to a common packet format with question numbers, categories, prompts, choices, answers, and paired bonuses. Import validation identifies missing answers, incomplete choices, and pairing problems. Reports accept a reason and description.
+Cloudflare D1 stores questions and reports. A Durable Object coordinates each live room. Reader rooms persist state across hibernation; individual multiplayer keeps its word-reading engine active while players are connected. NSB sample PDFs are converted to a common packet format with question numbers, categories, prompts, choices, answers, and paired bonuses. Import validation identifies missing answers, incomplete choices, and pairing problems. Reports accept a reason and description.
 
 Practice requires no account. Preferences and lightweight personal progress use browser storage; room statistics are session-based.
 
