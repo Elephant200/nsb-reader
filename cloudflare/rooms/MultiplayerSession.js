@@ -92,6 +92,7 @@ export class MultiplayerSession {
     let joining = true;
     this.game.connection(adapter, userId, username, ip, request.headers.get('User-Agent'));
     joining = false;
+    adapter.send(JSON.stringify({ type: 'timer-update', timeRemaining: this.game.timer.timeRemaining }));
     const answerer = this.game.buzzedIn || this.game.bonusAnswerer;
     if (answerer) adapter.send(JSON.stringify({ type: this.game.buzzedIn ? 'buzz' : 'start-bonus-answer', userId: answerer, username: this.game.players[answerer].username }));
     if (resume) this.resume();
