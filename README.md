@@ -40,7 +40,9 @@ Open `/play/in-person/` to create a reader room or join with a six-digit code. T
 
 ## Storage
 
-Cloudflare D1 stores questions and reports. A SQLite-backed Durable Object coordinates each reader room, saves its state after actions, and keeps its WebSocket connections through hibernation. Reader rooms expire one hour after everyone disconnects. End disconnects everyone immediately. Stars and preferences stay in the browser; there is no cross-session player history.
+Cloudflare D1 stores questions and reports. A SQLite-backed Durable Object coordinates each reader room, saves its state after actions, and keeps its WebSocket connections through hibernation. Reader rooms expire one hour after everyone disconnects. End disconnects everyone immediately.
+
+Individual multiplayer rooms persist questions, reading position, settings, ownership, player identities, scores, and pending answers in Durable Object storage. Reading and answer timers stop while the room is empty and resume when someone returns. Solo statistics persist in browser storage separately for tossups, bonuses, and combined practice; Clear stats resets the saved totals. Stars and preferences also stay in the browser. In-person performance remains scoped to its room.
 
 Individual multiplayer uses the existing word-reading engine inside a separate Durable Object for each room. Its open WebSockets keep the engine active; a deployment can end those sessions. Both transports enforce per-IP connection limits and 10 KB incoming message limits. The frontend, shared rules, and wire protocols are common to both hosting runtimes.
 

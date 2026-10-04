@@ -63,10 +63,10 @@ export default class SoloAllClient extends TossupBonusClient {
 
   clearStats () { this.updateStats(); }
   setDifficulties () {}
-  updateStats () {
+  updateStats (bonusStats) {
     const player = this.room.players[this.USER_ID];
     document.getElementById('tossup-statline').textContent = player.tens + ' correct, ' + player.negs + ' interrupts (' + player.points + ' points)';
-    const stats = this.room.teams[player.teamId].bonusStats;
+    const stats = bonusStats ?? this.room.teams[player.teamId].bonusStats;
     document.getElementById('bonus-statline').textContent = (stats[10] ?? 0) + ' bonuses correct';
   }
 }

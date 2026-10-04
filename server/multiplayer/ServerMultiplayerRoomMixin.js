@@ -172,6 +172,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
       bonusProgress: this.bonusProgress,
       bonusEligibleTeamId: this.bonusEligibleTeamId,
       buzzedIn: this.buzzedIn,
+      paused: this.paused,
       canBuzz: this.settings.rebuzz || !this.buzzes.includes(userId),
       currentQuestionType: this.currentQuestionType,
       isPermanent: this.isPermanent,

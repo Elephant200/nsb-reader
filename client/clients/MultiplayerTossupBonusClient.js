@@ -131,6 +131,7 @@ export const MultiplayerClientMixin = (ClientClass) => class extends ClientClass
     bonusEligibleTeamId,
     bonusProgress,
     buzzedIn,
+    paused = false,
     canBuzz,
     currentQuestionType,
     isPermanent,
@@ -230,6 +231,7 @@ export const MultiplayerClientMixin = (ClientClass) => class extends ClientClass
     this.setReadingSpeed({ readingSpeed: settings.readingSpeed });
     this.setStrictness({ strictness: settings.strictness });
     this.toggleStopOnPower({ stopOnPower: settings.stopOnPower });
+    super.pause({ paused });
 
     if (settings.controlled) {
       this.toggleControlled({ controlled: settings.controlled });
