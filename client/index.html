@@ -1,59 +1,50 @@
-<!DOCTYPE html><html lang="en"><head>
+<!doctype html>
+<html lang="en">
+<head>
     <title>NSB Reader - Home</title>
     <!--#include virtual="/ssi/head.html" -->
-    <meta name="description" content="A text-based science bowl packet reader and database.">
+    <meta name="description" content="High-school National Science Bowl solo, multiplayer, and in-person practice.">
 </head>
-
 <body>
     <!--#include virtual="/ssi/nav.html" -->
-
-    <div class="container-xl mt-3 mb-5 pb-5">
-        <p class="lead">
-            Welcome to NSB Reader<span id="welcome-username"></span>!
-        </p>
-        <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4 mb-3">
+    <main class="container-xl mt-3 mb-5 pb-5">
+        <h1 class="lead">Welcome to NSB Reader!</h1>
+        <!--#include virtual="/ssi/play-modes.html" -->
+        <div class="row row-cols-1 row-cols-md-3 g-4">
             <div class="col">
                 <div class="card h-100">
                     <div class="card-body">
-                        <h5>Question Reader</h5>
-                        <p>Practice high-school National Science Bowl questions on your own:</p>
-                        <p class="text-center">
-                            <a class="btn btn-primary" href="/play/tossups/">Tossups</a>
-                            <a class="btn btn-primary" href="/play/bonuses/">Bonuses</a>
-                         <a class="btn btn-primary" href="/play/all/">Paired</a></p>
-                        <p>Or, join a multiplayer room to play against other people:</p>
-                        <p class="text-center">
-                            <a class="btn btn-success" href="/play/mp/">Multiplayer</a>
-                        </p>
-                        <p>New to NSB Reader? Check out tips and instructions:</p>
-                        <p class="text-center">
-                            <a class="btn btn-primary" href="/about/tips">Tips &amp; Instructions</a>
-                        </p>
+                        <h2 class="h5">Question Database</h2>
+                        <p>Browse and search National Science Bowl sample questions.</p>
+                        <div class="d-flex flex-wrap gap-2">
+                            <a class="btn btn-primary" href="/db/">Search</a>
+                            <a class="btn btn-primary" href="/db/set-list/">Set List</a>
+                            <a class="btn btn-primary" href="/db/frequency-list/">Frequency List</a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <div class="card-body"><h5>Question Database</h5><p>Browse and search National Science Bowl sample questions.</p><p class="text-center"><a class="btn btn-primary" href="/db/">Search</a> <a class="btn btn-primary" href="/db/set-list/">Set List</a></p><p>Report question problems with a reason using the flag beside a question.</p></div>
+                    <div class="card-body">
+                        <h2 class="h5">Settings</h2>
+                        <p>Adjust your display, sound, and multiplayer username.</p>
+                        <a class="btn btn-primary" href="/settings/">Settings</a>
+                    </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <div class="card-body"><h5>Practice</h5><p>Join a private room to practice against other players. No account is required.</p><p class="text-center"><a class="btn btn-success" href="/play/mp/">Multiplayer</a></p><h5>Settings</h5><p class="text-center"><a class="btn btn-primary" href="/settings/">Adjust site-wide settings.</a></p></div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card h-100">
-                    <div class="card-body"><h5>Resources</h5><p><a href="https://science.osti.gov/wdts/nsb/Regional-Competitions/Resources/HS-Sample-Questions">Official sample questions</a></p><p>Built with <a href="https://github.com/qbreader/website">NSB Reader</a>.</p><h5>About</h5><p><a href="/about/">About NSB Reader</a></p></div>
+                    <div class="card-body">
+                        <h2 class="h5">Resources</h2>
+                        <p><a href="/about/tips">Tips &amp; Keyboard Shortcuts</a></p>
+                        <p><a href="https://science.osti.gov/wdts/nsb/Regional-Competitions/Resources/HS-Sample-Questions">Official Sample Questions</a></p>
+                        <p><a href="/about/">About NSB Reader</a></p>
+                        <p class="mb-0">Built with <a href="https://github.com/qbreader/website">QBReader</a>.</p>
+                    </div>
                 </div>
             </div>
         </div>
-
-
-    </div>
-
-    <script type="module" src="/index.js"></script>
-
-
-
-</body></html>
+    </main>
+</body>
+</html>

@@ -5,6 +5,7 @@ const ssiFileNames = [
   'funny-toast.html',
   'head.html',
   'nav.html',
+  'play-modes.html',
   'report-question-modal.html',
   'star-toast.html'
 ];

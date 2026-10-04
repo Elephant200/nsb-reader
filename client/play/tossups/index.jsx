@@ -1,5 +1,5 @@
 import CategoryManager from '../../../shared/category-manager.js';
-import persistSoloStats from '../../scripts/persist-solo-stats.js';
+import trackSoloStats from '../../scripts/track-solo-stats.js';
 import Player from '../../../shared/Player.js';
 import CategoryModal from '../../scripts/components/CategoryModal.jsx';
 import SoloTossupRoom from '../../rooms/SoloTossupRoom.js';
@@ -17,7 +17,7 @@ const socket = { sendToServer: (message) => room.message({ userId: USER_ID, user
 const client = new SoloTossupClient(room, USER_ID, socket);
 socket.send = (message) => client.onmessage(message);
 room.sockets[USER_ID] = socket;
-persistSoloStats(room, USER_ID, 'tossups', window.localStorage, stats => client.updateStatDisplay(stats.player));
+trackSoloStats(room, USER_ID, stats => client.updateStatDisplay(stats.player));
 
 document.getElementById('local-packet-input').addEventListener('change', function (event) {
   const file = this.files[0];

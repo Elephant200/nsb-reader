@@ -2,7 +2,7 @@ import { getDropdownValues } from '../../scripts/utilities/dropdown-checklist.js
 import CategoryModal from '../../scripts/components/CategoryModal.jsx';
 import DifficultyDropdown from '../../scripts/components/DifficultyDropdown.jsx';
 import CategoryManager from '../../../shared/category-manager.js';
-import persistSoloStats from '../../scripts/persist-solo-stats.js';
+import trackSoloStats from '../../scripts/track-solo-stats.js';
 import Player from '../../../shared/Player.js';
 import Team from '../../../shared/Team.js';
 import SoloBonusRoom from '../../rooms/SoloBonusRoom.js';
@@ -23,7 +23,7 @@ const socket = { sendToServer: (message) => room.message({ userId: USER_ID, user
 const client = new SoloBonusClient(room, USER_ID, socket);
 socket.send = (message) => client.onmessage(message);
 room.sockets[TEAM_ID] = socket;
-persistSoloStats(room, USER_ID, 'bonuses', window.localStorage, stats => client.updateStatDisplay(stats.bonusStats));
+trackSoloStats(room, USER_ID, stats => client.updateStatDisplay(stats.bonusStats));
 
 document.getElementById('local-packet-input').addEventListener('change', function (event) {
   const file = this.files[0];

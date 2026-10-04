@@ -61,6 +61,8 @@
         const href = link.getAttribute('href');
         if (link.textContent === 'Search') {
             if (path === href) { link.classList.add('active'); }
+        } else if (href === '/play/' && (path.startsWith('/play/mp/') || path.startsWith('/play/in-person/'))) {
+            return;
         } else if (href !== '/' && path.startsWith(href)) {
             link.classList.add('active');
         }
