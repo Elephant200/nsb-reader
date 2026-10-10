@@ -19,6 +19,7 @@ export class ReaderSession {
     this.room = rows.length ? JSON.parse(rows[0].data) : null;
     if (this.room) {
       this.game = Object.assign(new ReaderRoom(), this.room.game);
+      this.game.migrateHistory();
       const onlinePlayers = new Set([...this.sockets.values()].map(identity => identity.playerId));
       for (const player of Object.values(this.game.players)) player.online = onlinePlayers.has(player.id);
       if (!this.readerOnline()) { this.game.stopTimer(); this.game.paused = true; }
@@ -146,7 +147,7 @@ export class ReaderSession {
         }
         this.sockets.clear();
       } else if (message.type === 'next') {
-        if (this.loading) return;
+        if (this.loading || this.game.historyIndex !== null) return;
         if (!this.game.nextBonus() && this.game.needsQuestion()) {
           const category = message.category || '';
           const setName = message.setName || '';
@@ -182,6 +183,7 @@ export class ReaderSession {
           }
         }
       } else if (message.type === 'lock' && typeof message.locked === 'boolean') this.room.locked = message.locked;
+      else if (message.type === 'history-select') this.game.selectHistory(message.index);
       else this.game.action(message);
       await this.save();
       this.broadcast();

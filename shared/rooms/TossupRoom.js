@@ -1,4 +1,5 @@
-import { ANSWER_TIME_LIMIT, DEAD_TIME_LIMIT, MODE_ENUM, TOSSUP_PROGRESS_ENUM } from '../constants.js';
+import { ANSWER_TIME_LIMIT, DEAD_TIME_LIMIT, DEFAULT_READING_SPEED, MODE_ENUM, TOSSUP_PROGRESS_ENUM } from '../constants.js';
+import { readingWordDelay } from '../reading-word-delay.js';
 import insertTokensIntoHTML from '../insert-tokens-into-html.js';
 import { withTossupReadingHeader } from '../question-reading-header.js';
 import QuestionRoom from './QuestionRoom.js';
@@ -40,7 +41,7 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
       ...this.settings,
       rebuzz: false,
       stopOnPower: false,
-      readingSpeed: 50
+      readingSpeed: DEFAULT_READING_SPEED
     };
 
     this.previousTossup = {
@@ -228,17 +229,7 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
     this.emitMessage({ type: TOSSUP_CLIENT_MESSAGE_TYPE.UPDATE_QUESTION, word });
 
     // calculate time needed before reading next word
-    let time = Math.log(word.length) + 1;
-    if ((word.endsWith('.') && word.charCodeAt(word.length - 2) > 96 && word.charCodeAt(word.length - 2) < 123) ||
-      word.slice(-2) === '.\u201d' || word.slice(-2) === '!\u201d' || word.slice(-2) === '?\u201d') {
-      time += 2.5;
-    } else if (word.endsWith(',') || word.slice(-2) === ',\u201d') {
-      time += 1.5;
-    } else if (word === '(*)' || word === '[*]' || word === '(+)') {
-      time = 0;
-    }
-
-    time = time * 0.9 * (140 - this.settings.readingSpeed);
+    const time = readingWordDelay(this.questionSplit, this.wordIndex - 1, this.settings.readingSpeed, { skipPowerMarkers: true });
     const delay = time - Date.now() + expectedReadTime;
 
     this.timeoutID = setTimeout(() => {
@@ -262,7 +253,7 @@ export const TossupRoomMixin = (QuestionRoomClass) => class extends QuestionRoom
     const endOfQuestion = this.settings.stopOnPower ? this.stopOnPowerEnded : (this.wordIndex === this.questionSplit.length);
     const inSuperpower = false;
     const inPower = false;
-    const { directive, directedPrompt } = this.checkAnswer(this.tossup.answer_sanitized ?? this.tossup.answer, givenAnswer, this.settings.strictness, this.tossup.question_sanitized);
+    const { directive, directedPrompt } = this.checkAnswer(this.tossup.answer, givenAnswer, this.settings.strictness, this.tossup.question);
     const isCorrect = directive === 'accept';
     const points = isCorrect
       ? 4

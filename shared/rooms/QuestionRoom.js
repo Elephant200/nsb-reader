@@ -130,9 +130,10 @@ export default class QuestionRoom extends Room {
    * @param {string} answerline
    * @param {string} givenAnswer
    * @param {number} [strictness]
+   * @param {string} [question] Rich prompt, including multiple-choice options.
    * @returns {{directive: 'accept' | 'reject' | 'prompt', directedPrompt?: string}}
    */
-  checkAnswer (answerline, givenAnswer, strictness = 7) { throw new Error('Not implemented'); }
+  checkAnswer (answerline, givenAnswer, strictness = 7, question = '') { throw new Error('Not implemented'); }
 
   async getNextQuestion (questionType) {
     if (!this.supportedQuestionTypes.includes(questionType)) { return; }

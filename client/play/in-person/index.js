@@ -43,27 +43,33 @@ function entry () {
 }
 
 function timer () {
-  const disabled = !state.pair || state.result !== null || !!state.pending;
+  const disabled = !state.pair || state.result !== null || !!state.pending || state.viewingHistory;
   return `<div class="text-center"><div class="small text-uppercase text-body-secondary">Timer</div><div class="timer-number" data-timer>00</div><div class="small my-2" data-timer-status></div><div class="d-flex gap-2 justify-content-center">${button(state.timer.deadline === null ? 'start-timer' : 'pause-timer', state.timer.started && state.timer.deadline === null ? 'Resume' : 'Pause', 'outline-secondary', disabled || !state.timer.started || state.timer.remaining <= 0)}${button('reset-timer', 'Reset', 'outline-secondary', disabled)}</div></div>`;
 }
 
 function question () {
   if (!state.pair) return `<div class="question-stage border rounded p-4 mb-4 d-flex align-items-center justify-content-center">${button('next', 'Load question', 'primary', state.loading)}</div>`;
+  const viewingHistory = state.viewingHistory;
+  const historyIndex = state.historyIndex;
+  const historyControls = state.history?.length > 1
+    ? `<div class="d-flex gap-2 flex-shrink-0">${button('history-previous', '← Previous', 'outline-secondary btn-sm', viewingHistory ? historyIndex === 0 : state.history.length < 2)}${button('history-forward', 'Next →', 'outline-secondary btn-sm', !viewingHistory || historyIndex >= state.history.length - 1)}</div>`
+    : '';
   const bonus = state.kind === 'bonus';
   const q = bonus ? state.pair.bonus : state.pair.tossup;
   const prompt = bonus ? [q.leadin, q.parts[0]].filter(Boolean).join('<br>') : q.question;
   const answer = bonus ? q.answers[0] : q.answer;
-  const player = state.pending && state.players[state.pending.id];
-  const attempt = state.pending || state.judgedAttempt;
+  const player = !viewingHistory && state.pending && state.players[state.pending.id];
+  const attempt = viewingHistory ? null : state.pending || state.judgedAttempt;
   const interrupt = interruptOverride ?? attempt?.interrupt ?? false;
   const heading = questionReadingHeader(q.category, prompt, answer);
-  const judged = state.result !== null;
-  const disabled = !bonus && !attempt;
-  const advance = judged || state.timer.started;
-  return `<div class="border-bottom pb-3 mb-4 text-body-secondary">${escapeHTML(q.set.name)} · Packet ${q.packet.number} · Question ${q.number}</div><div class="d-flex justify-content-between mb-3"><strong>${bonus ? 'Bonus' : 'Tossup'} · ${escapeHTML(heading)}</strong>${bonus ? `<span>Team ${state.bonusTeam === 0 ? 'A' : 'B'}</span>` : ''}</div>
+  const judged = !viewingHistory && state.result !== null;
+  const disabled = viewingHistory || (!bonus && !attempt);
+  const advance = !viewingHistory && (judged || state.timer.started);
+  const liveBuzz = viewingHistory && state.pending && state.players[state.pending.id];
+  return `${viewingHistory ? `<div class="alert alert-info" role="status">Reviewing history. Live scoring and timer are unchanged.${liveBuzz ? ` ${escapeHTML(liveBuzz.title)} (${escapeHTML(liveBuzz.username)}) has buzzed; return to the current question to judge.` : ''}<div class="mt-2">${button('history-current', 'Return to current', 'primary btn-sm')}</div></div>` : ''}<div class="d-flex align-items-center justify-content-between gap-3 border-bottom pb-3 mb-4 text-body-secondary"><div style="min-width: 0; overflow-wrap: anywhere">${escapeHTML(q.set.name)} · Packet ${q.packet.number} · Question ${q.number}</div>${historyControls}</div><div class="d-flex justify-content-between mb-3"><strong>${bonus ? 'Bonus' : 'Tossup'} · ${escapeHTML(heading)}</strong>${bonus && !viewingHistory ? `<span>Team ${state.bonusTeam === 0 ? 'A' : 'B'}</span>` : ''}</div>
     <div class="question-stage border rounded p-4 ${player ? 'has-buzz' : ''}"><div class="question-copy" ${player ? 'aria-hidden="true"' : ''}>${renderReadingText(prompt)}</div>${player ? `<div class="buzz-overlay" role="status"><div class="text-primary fw-bold fs-4">BUZZ</div><div class="buzz-title">${escapeHTML(player.title)}</div><div class="text-body-secondary fs-5">${escapeHTML(player.username)}</div><label class="mt-3"><input id="interrupt" type="checkbox" ${interrupt ? 'checked' : ''}> Interrupt</label></div>` : ''}</div>
-    <div class="answer-section border-bottom py-4 mb-4"><div class="answer-copy"><div class="small text-body-secondary mb-2">ANSWER</div><div class="fs-3">${renderReadingText(answer)}</div>${judged ? `<div class="mt-2 text-${state.result ? 'success' : 'danger'}">${state.result ? 'Right' : 'Wrong'}</div>` : ''}</div><div class="d-grid gap-2 judge-buttons">${button('right', '✓ Right', 'success', disabled)}${button('wrong', '✕ Wrong', 'danger', disabled)}${button('no-answer', 'No answer', 'outline-secondary', !!player || judged)}</div></div>
-    <div class="question-advance">${advance ? button('next', state.loading ? 'Loading…' : 'Next', 'primary', !!player || state.loading) : button('start-timer', 'Start timer', 'primary', !!player || state.loading)}</div>`;
+    <div class="answer-section border-bottom py-4 mb-4"><div class="answer-copy"><div class="small text-body-secondary mb-2">ANSWER</div><div class="fs-3">${renderReadingText(answer)}</div>${judged ? `<div class="mt-2 text-${state.result ? 'success' : 'danger'}">${state.result ? 'Right' : 'Wrong'}</div>` : ''}</div>${viewingHistory ? '' : `<div class="d-grid gap-2 judge-buttons">${button('right', '✓ Right', 'success', disabled)}${button('wrong', '✕ Wrong', 'danger', disabled)}${button('no-answer', 'No answer', 'outline-secondary', !!player || judged)}</div>`}</div>
+    ${viewingHistory ? '' : `<div class="question-advance">${advance ? button('next', state.loading ? 'Loading…' : 'Next', 'primary', !!player || state.loading) : button('start-timer', 'Start timer', 'primary', !!player || state.loading)}</div>`}`;
 }
 
 function roster () {
@@ -213,6 +219,16 @@ root.addEventListener('click', async event => {
   if (kick) { send('kick', { id: kick.dataset.kick }); return; }
   const action = event.target.closest('[data-action]')?.dataset.action;
   if (!action) return;
+  if (role === 'reader' && ['history-current', 'history-previous', 'history-forward'].includes(action)) {
+    const index = action === 'history-current'
+      ? null
+      : action === 'history-previous'
+        ? (state.viewingHistory ? state.historyIndex - 1 : state.history.length - 2)
+        : (state.viewingHistory ? state.historyIndex + 1 : state.history.length - 1);
+    send('history-select', { index });
+    return;
+  }
+  if (role === 'reader' && state?.viewingHistory && ['right', 'wrong', 'no-answer', 'next', 'start-timer', 'pause-timer', 'reset-timer'].includes(action)) return;
   if (action === 'mobile-config') {
     mobileConfig = !mobileConfig;
     if (mobileConfig && tab === 'question') tab = 'roster';

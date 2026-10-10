@@ -6,6 +6,8 @@ export default class ReaderRoom {
     this.scores = [0, 0];
     this.bonuses = [{ correct: 0, misses: 0 }, { correct: 0, misses: 0 }];
     this.pair = null;
+    this.history = [];
+    this.historyIndex = null;
     this.kind = 'tossup';
     this.pending = null;
     this.result = null;
@@ -68,6 +70,8 @@ export default class ReaderRoom {
   load (pair) {
     if (!this.needsQuestion()) return false;
     this.pair = pair;
+    this.history.push({ pair, kind: 'tossup' });
+    this.historyIndex = null;
     this.kind = 'tossup';
     this.bonusTeam = null;
     this.resetQuestion();
@@ -77,8 +81,16 @@ export default class ReaderRoom {
   nextBonus () {
     if (this.kind !== 'tossup' || !this.result || !this.pair?.bonus) return false;
     this.kind = 'bonus';
+    this.history.push({ pair: this.pair, kind: 'bonus' });
     this.resetQuestion();
     return true;
+  }
+
+  /** Add a history entry when restoring a snapshot written before history existed. */
+  migrateHistory () {
+    if (this.history?.length || !this.pair) return;
+    this.history ||= [];
+    this.history.push({ pair: this.pair, kind: this.kind });
   }
 
   canBuzz (id) {
@@ -96,7 +108,7 @@ export default class ReaderRoom {
 
   /** Apply an authenticated reader action. */
   action (message) {
-    if (!this.pair) return false;
+    if (!this.pair || this.historyIndex !== null) return false;
     if (message.type === 'judge') return this.judge(message.correct, message.interrupt);
     if (message.type === 'no-answer' && !this.pending && this.result === null) {
       this.stopTimer();
@@ -115,6 +127,17 @@ export default class ReaderRoom {
       this.timer = { started: false, remaining: this.kind === 'bonus' ? 20000 : 5000, deadline: null };
       this.paused = false;
     } else return false;
+    return true;
+  }
+
+  /** Select a saved question for read-only review, or return to the live question. */
+  selectHistory (index) {
+    if (index === null) {
+      this.historyIndex = null;
+      return true;
+    }
+    if (!Number.isInteger(index) || index < 0 || index >= this.history.length) return false;
+    this.historyIndex = index === this.history.length - 1 ? null : index;
     return true;
   }
 
@@ -163,6 +186,7 @@ export default class ReaderRoom {
   }
 
   readerView () {
+    const historical = this.historyIndex !== null ? this.history[this.historyIndex] : null;
     return {
       type: 'state',
       role: 'reader',
@@ -171,8 +195,21 @@ export default class ReaderRoom {
       teams: this.teams,
       scores: this.scores,
       bonuses: this.bonuses,
-      pair: this.pair,
-      kind: this.kind,
+      pair: historical ? historical.pair : this.pair,
+      kind: historical ? historical.kind : this.kind,
+      history: this.history.map(({ pair, kind }) => {
+        const question = kind === 'bonus' ? pair.bonus : pair.tossup;
+        return {
+          id: question._id,
+          category: question.category,
+          setName: question.set?.name,
+          packetNumber: question.packet?.number,
+          number: question.number,
+          kind
+        };
+      }),
+      historyIndex: this.historyIndex,
+      viewingHistory: !!historical,
       pending: this.pending,
       result: this.result,
       bonusTeam: this.bonusTeam,

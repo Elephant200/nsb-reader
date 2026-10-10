@@ -1,4 +1,5 @@
-import { ANSWER_TIME_LIMIT, BONUS_PROGRESS_ENUM, MODE_ENUM } from '../constants.js';
+import { ANSWER_TIME_LIMIT, BONUS_PROGRESS_ENUM, DEFAULT_READING_SPEED, MODE_ENUM } from '../constants.js';
+import { readingWordDelay } from '../reading-word-delay.js';
 import { withBonusReadingHeader } from '../question-reading-header.js';
 import QuestionRoom from './QuestionRoom.js';
 import { CLIENT_MESSAGE_TYPE } from '../protocol/room.js';
@@ -39,7 +40,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
     this.settings = {
       ...this.settings,
       readBonusLikeATossup: true,
-      readingSpeed: 50
+      readingSpeed: DEFAULT_READING_SPEED
     };
   }
 
@@ -98,7 +99,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
     clearTimeout(this.timeoutId);
     this.emitMessage({ type: CLIENT_MESSAGE_TYPE.TIMER_UPDATE, timeRemaining: ANSWER_TIME_LIMIT * 10 });
 
-    const { directive, directedPrompt } = this.checkAnswer(this.bonus.answers_sanitized?.[this.currentPartNumber] ?? this.bonus.answers[this.currentPartNumber], givenAnswer, this.settings.strictness, this.bonus.parts_sanitized?.[this.currentPartNumber]);
+    const { directive, directedPrompt } = this.checkAnswer(this.bonus.answers[this.currentPartNumber], givenAnswer, this.settings.strictness, this.bonus.parts[this.currentPartNumber]);
     this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.GIVE_BONUS_ANSWER, currentPartNumber: this.currentPartNumber, directive, directedPrompt, givenAnswer, userId });
 
     if (directive === 'prompt') {
@@ -265,15 +266,7 @@ export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomC
     const word = this.bonusQuestionSplit[this.bonusWordIndex++];
     this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.UPDATE_BONUS_QUESTION, word, currentPartNumber: this.currentPartNumber });
 
-    let time = Math.log(word.length) + 1;
-    if ((word.endsWith('.') && word.charCodeAt(word.length - 2) > 96 && word.charCodeAt(word.length - 2) < 123) ||
-      word.slice(-2) === '.\u201d' || word.slice(-2) === '!\u201d' || word.slice(-2) === '?\u201d') {
-      time += 2.5;
-    } else if (word.endsWith(',') || word.slice(-2) === ',\u201d') {
-      time += 1.5;
-    }
-
-    time = time * 0.9 * (140 - this.settings.readingSpeed);
+    const time = readingWordDelay(this.bonusQuestionSplit, this.bonusWordIndex - 1, this.settings.readingSpeed);
     const delay = time - Date.now() + expectedReadTime;
 
     this.timeoutId = setTimeout(() => {

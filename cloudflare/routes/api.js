@@ -106,7 +106,8 @@ export default async function api (request, env) {
     }
     case '/api/check-answer': {
       if (typeof params.answerline !== 'string' || typeof params.givenAnswer !== 'string' || params.answerline.length > 5000 || params.givenAnswer.length > 5000) return json({ error: 'Invalid answer.' }, 400);
-      return json(checkAnswer(params.answerline, params.givenAnswer, params.strictness));
+      if (params.question !== undefined && (typeof params.question !== 'string' || params.question.length > 20000)) return json({ error: 'Invalid question.' }, 400);
+      return json(checkAnswer(params.answerline, params.givenAnswer, params.strictness, params.question || ''));
     }
     case '/api/multiplayer/room-list': return json({ activePlayers: 0, activeRooms: 0, roomList: [] });
     default: return json({ error: 'Not found.' }, 404);

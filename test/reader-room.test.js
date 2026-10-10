@@ -84,3 +84,53 @@ test('an unresolved buzz cannot be skipped or automatically judged', () => {
   assert.equal(game.load({ tossup: {} }), false);
   assert.equal(game.nextBonus(), false);
 });
+
+test('reader history reviews earlier questions without changing the live game', () => {
+  const game = room();
+  game.buzz('a');
+  game.action({ type: 'judge', correct: true });
+  game.nextBonus();
+  game.action({ type: 'judge', correct: true });
+  game.load({ tossup: { _id: 'question-2', question: 'Current prompt', answer: 'Current answer' }, bonus: null });
+  game.action({ type: 'start-timer' });
+  const liveTimer = structuredClone(game.timer);
+  const liveScores = [...game.scores];
+  const livePair = game.pair;
+
+  assert.deepEqual(game.history.map(entry => entry.kind), ['tossup', 'bonus', 'tossup']);
+
+  assert.equal(game.selectHistory(0), true);
+  const reviewed = game.readerView();
+  assert.equal(reviewed.viewingHistory, true);
+  assert.equal(reviewed.pair.tossup._id, 'question-1');
+  assert.equal(reviewed.history.length, 3);
+  assert.equal(reviewed.history[0].id, 'question-1');
+  assert.equal(game.playerView('b', true).history, undefined);
+  assert.equal(game.pair, livePair);
+  assert.deepEqual(game.timer, liveTimer);
+  assert.deepEqual(game.scores, liveScores);
+  assert.equal(game.action({ type: 'judge', correct: false }), false);
+  assert.equal(game.action({ type: 'reset-timer' }), false);
+  assert.equal(game.buzz('b'), true);
+  assert.equal(game.readerView().pending.id, 'b');
+  assert.deepEqual(game.scores, liveScores);
+
+  assert.equal(game.selectHistory(1), true);
+  assert.equal(game.readerView().kind, 'bonus');
+  assert.equal(game.readerView().pair.tossup._id, 'question-1');
+  assert.equal(game.selectHistory(2), true);
+  assert.equal(game.readerView().viewingHistory, false);
+  assert.equal(game.readerView().pair.tossup._id, 'question-2');
+  assert.deepEqual(game.scores, liveScores);
+  assert.equal(game.selectHistory(3), false);
+});
+
+test('legacy room snapshots with a live question gain a current history entry', () => {
+  const saved = { pair: { tossup: { _id: 'legacy-question' }, bonus: null }, kind: 'tossup' };
+  const game = Object.assign(new ReaderRoom(), saved);
+  game.migrateHistory();
+  assert.deepEqual(game.history, [{ pair: saved.pair, kind: 'tossup' }]);
+  assert.equal(game.selectHistory(0), true);
+  assert.equal(game.readerView().viewingHistory, false);
+  assert.equal(game.history.length, 1);
+});
