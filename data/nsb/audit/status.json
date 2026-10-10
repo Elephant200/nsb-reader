@@ -17,6 +17,15 @@
     "lint": "passed",
     "build": "passed",
     "localApiVerification": "passed",
+    "productionApiVerification": "passed",
+    "localBrowserVerification": "passed",
+    "productionBrowserVerification": "passed",
+    "browserVerificationPath": "data/nsb/audit/triage-browser-verification.json",
+    "productionPayloadParity": "12024/12024; no remaining updates",
+    "productionIdsAndOrdinals": "unchanged",
+    "productionQuestionUpdates": 173,
+    "workerVersion": "ba3a93d7-1fbe-4d8c-9cde-2603cee04b07",
+    "productionUrl": "https://nsb.elephant-id.org/play/tossups/",
     "summaryPath": "data/nsb/audit/triage-summary.json"
   },
   "finalValidation": {

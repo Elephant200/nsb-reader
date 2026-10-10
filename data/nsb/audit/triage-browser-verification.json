@@ -1,0 +1,80 @@
+{
+  "environment": "Local UI at http://localhost:8791/",
+  "date": "2026-10-09",
+  "browser": "Headless Chromium via Playwright",
+  "production": {
+    "url": "https://nsb.elephant-id.org/",
+    "release": "ba3a93d7-1fbe-4d8c-9cde-2603cee04b07",
+    "checks": [
+      {
+        "name": "Corrected Math equation and answer check",
+        "question": "2012 NSB Sample Set 2, Packet 6, Question 6 (Math)",
+        "id": "2528e933-1102-59d0-824f-48653b79c2b5",
+        "result": "The page initially showed reading speed 35. The restored x-squared fraction and full read-as cue appeared in the reader; entering 6 was accepted and scored 4 points.",
+        "imagePaths": [
+          "/tmp/nsb-production-math-full.png"
+        ]
+      },
+      {
+        "name": "Corrected ionic charge and answer check",
+        "question": "2009 NSB Sample Set 1, Packet 5, Question 1 (Chemistry)",
+        "id": "779d8405-6e41-576e-bdcc-6e19e79d549b",
+        "result": "The restored chromate formula displayed as CrO₄²⁻. The initial reader speed was 35, and entering 6 was accepted for 10 points.",
+        "imagePaths": [
+          "/tmp/nsb-production-chem-bonus.png"
+        ]
+      },
+      {
+        "name": "Production shared renderer and equation timing",
+        "result": "Imported /shared/render-reading-text.js in the production page; it preserved superscript markup and the nsb-fraction wrapper. At speed 35, /shared/reading-word-delay.js returned 225.5 ms for a four-letter prose token and 472.5 ms for an equals sign, or 2.10x.",
+        "browserErrors": []
+      }
+    ],
+    "browserErrors": []
+  },
+  "checks": [
+    {
+      "name": "Tossup fraction rendering and answer check",
+      "question": "2012 NSB Sample Set 2, Packet 6, Question 6 (Math)",
+      "id": "2528e933-1102-59d0-824f-48653b79c2b5",
+      "result": "The initial reader setting showed 35. The stem's x-squared fraction rendered with a stacked numerator and denominator, and its full read-as cue was visible. Entering 6 produced 1 correct, 1 tossup seen, and 4 points.",
+      "imagePaths": [
+        "/tmp/nsb-ui-math-tossup.png"
+      ]
+    },
+    {
+      "name": "Equation reading delay",
+      "result": "At reading speed 35, shared/reading-word-delay.js returned 225.5 ms for a four-letter prose token and 472.5 ms for an equation equals sign, a 2.10x delay. The browser showed the default speed as 35 before the full-read capture was accelerated for the longer prompts.",
+      "imagePaths": [
+        "/tmp/nsb-ui-math-tossup.png"
+      ]
+    },
+    {
+      "name": "Bonus nested fraction and answer display",
+      "question": "2014 NSB Sample Set 8, Packet 2, Question 11 (Math)",
+      "id": "978b68b6-895e-5082-9d9d-36e5f90ddab5",
+      "result": "The stem rendered its powered numerator and denominator as a stacked fraction, with the read-as cue intact. Submitting 0 showed the wrong-answer state and displayed the source answer as a stacked negative fraction.",
+      "imagePaths": [
+        "/tmp/nsb-ui-math-bonus-revealed.png"
+      ]
+    },
+    {
+      "name": "Chemical charge and subscript rendering",
+      "question": "2009 NSB Sample Set 1, Packet 5, Question 1 (Chemistry)",
+      "id": "779d8405-6e41-576e-bdcc-6e19e79d549b",
+      "result": "The chromate ion rendered as CrO₄²⁻, with both the subscript and superscript charge visible.",
+      "imagePaths": [
+        "/tmp/nsb-ui-chem-bonus-full.png"
+      ]
+    },
+    {
+      "name": "In-person history does not change scores",
+      "result": "In a disposable local room, a player was judged correct and Team A reached 4 while Team B remained 0. Navigating to the prior question displayed the history notice and left scores at 4–0; returning to the current question also left them at 4–0. The test room was ended after the check.",
+      "imagePaths": [
+        "/tmp/nsb-ui-inperson-history.png"
+      ]
+    }
+  ],
+  "browserErrors": [],
+  "limitations": []
+}
