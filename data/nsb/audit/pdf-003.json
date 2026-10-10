@@ -446,7 +446,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 shows the sulfite ion prompt, answer SO₃²⁻, and accepted reversed charge notation SO₃⁻²; corpus misplaced both answer formulas in the prompt and omitted them from the answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "According to standard chemical nomenclature and indicating the proper charge, what is the formula for the sulfite ion? 32– 3–2"
@@ -463,7 +463,7 @@
           "SO<sub>3</sub><sup>2−</sup> (ACCEPT: SO<sub>3</sub><sup>−2</sup>)"
         ],
         "answers_sanitized": [
-          "SO_3^(2−) (ACCEPT: SO_3^(−2))"
+          "SO₃²⁻ (ACCEPT: SO₃⁻²)"
         ]
       }
     },

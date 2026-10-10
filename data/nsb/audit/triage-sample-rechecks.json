@@ -1,0 +1,144 @@
+{
+  "reviewed": 7,
+  "counts": {
+    "Math:2011": {
+      "reviewed": 7,
+      "verified": 2,
+      "corrected": 5,
+      "unresolved": 0
+    }
+  },
+  "entries": [
+    {
+      "p": 62,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2011,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF page 9 prints y = x² − 15x + 54; the sampled corpus prompt omitted the superscript 2.",
+      "changes": {
+        "question": "What are the x-intercepts of y = x² − 15x + 54?"
+      }
+    },
+    {
+      "p": 63,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2011,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF page 4 prints choice Y) √.7; the sampled corpus lost the radical sign.",
+      "changes": {
+        "parts": [
+          "If the sine of an angle is 0.3, which of the following is a possible cosine of that angle?<br>W) .09<br>X) .7<br>Y) √.7<br>Z) √.91"
+        ],
+        "options": [
+          "W) .09",
+          "X) .7",
+          "Y) √.7",
+          "Z) √.91"
+        ],
+        "answers": [
+          "Z) √.91"
+        ]
+      }
+    },
+    {
+      "p": 66,
+      "k": "bonuses",
+      "i": 12,
+      "category": "Math",
+      "year": 2011,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF page 7 matches the book-distribution prompt and answer 1260.",
+      "changes": {}
+    },
+    {
+      "p": 70,
+      "k": "tossups",
+      "i": 4,
+      "category": "Math",
+      "year": 2011,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF page 3 matches y = cx + c and the negative-x-axis choice Y.",
+      "changes": {}
+    },
+    {
+      "p": 72,
+      "k": "bonuses",
+      "i": 18,
+      "category": "Math",
+      "year": 2011,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF page 10 prints c²x for x ≤ 2 and (5/4)cx² + 3 for x > 2; the sampled corpus lost both exponents.",
+      "changes": {
+        "parts": [
+          "Find all values of c such that the given function is continuous from negative infinity to infinity: f(x) = c²x when x ≤ 2, and f(x) = (5/4)cx² + 3 when x > 2."
+        ]
+      }
+    },
+    {
+      "p": 76,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2011,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF page 1 prints 1/2! − 1/3! + 1/4! − 1/5! + … and answer 1/e; the sampled corpus lost the series and gave e.",
+      "changes": {
+        "parts": [
+          "What is the value of the infinite sum: 1/2! − 1/3! + 1/4! − 1/5! + …?"
+        ],
+        "answers": [
+          "1/e"
+        ]
+      }
+    },
+    {
+      "p": 78,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Math",
+      "year": 2011,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF page 3 prints x sin(3x)/(1 − cos x); the sampled corpus lost the expression structure.",
+      "changes": {
+        "parts": [
+          "What is the limit as x goes to 0 of x sin(3x)/(1 − cos(x))?"
+        ],
+        "answers": [
+          "6"
+        ]
+      }
+    }
+  ]
+}

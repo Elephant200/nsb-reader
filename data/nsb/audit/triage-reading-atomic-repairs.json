@@ -1,0 +1,155 @@
+{
+  "entries": [
+    {
+      "p": 21,
+      "k": "tossups",
+      "i": 2,
+      "before": {
+        "question_sanitized": "Which of the following is equivalent to 25^(log_5 8) [25 to the power of the log base 5 of 8]? W) 8; X) 16; Y) 64; Z) 128"
+      },
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Which of the following is equivalent to 25^(log₅8) [25 to the power of the log base 5 of 8]?\nW) 8\nX) 16\nY) 64\nZ) 128"
+      }
+    },
+    {
+      "p": 23,
+      "k": "bonuses",
+      "i": 0,
+      "before": {
+        "parts_sanitized": [
+          "Find the largest possible real range of the function y = 1 - 2e^(x/2 - 3) [y equals 1 minus 2 times e to the power of the quantity x over 2 minus 3]."
+        ]
+      },
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Find the largest possible real range of the function y = 1 − 2e^(x/2 - 3) [y equals 1 minus 2 times e to the power of the quantity x over 2 minus 3]."
+        ]
+      }
+    },
+    {
+      "p": 90,
+      "k": "bonuses",
+      "i": 24,
+      "before": {
+        "parts_sanitized": [
+          "Evaluate the following: the integral from 0 to 2 of (1/t) times e^(ln t) dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
+        ]
+      },
+      "number": 25,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Evaluate the following: ∫₀² (1)/(t) · e^(ln t) dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
+        ]
+      }
+    },
+    {
+      "p": 96,
+      "k": "bonuses",
+      "i": 13,
+      "before": {
+        "parts_sanitized": [
+          "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9^(2x) = 27^(3x - 4) [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
+        ]
+      },
+      "number": 14,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9^(2x) = 27^(3x - 4) [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
+        ]
+      }
+    },
+    {
+      "p": 118,
+      "k": "tossups",
+      "i": 16,
+      "before": {
+        "question_sanitized": "Differentiate f(x) = e^(cos x) [f of x equals e to the power of cosine of x] with respect to x.",
+        "answer_sanitized": "-sin(x)e^(cos x)"
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Differentiate f(x) = e^(cos x) [f of x equals e to the power of cosine of x] with respect to x.",
+        "answer_sanitized": "−sin(x)e^(cos x)"
+      }
+    },
+    {
+      "p": 122,
+      "k": "bonuses",
+      "i": 19,
+      "before": {
+        "parts_sanitized": [
+          "What value of x satisfies the equation 27^(6 - x) = 9^(x - 1) [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
+        ]
+      },
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "What value of x satisfies the equation 27^(6 - x) = 9^(x - 1) [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
+        ]
+      }
+    },
+    {
+      "p": 126,
+      "k": "tossups",
+      "i": 16,
+      "before": {
+        "question_sanitized": "Which of the following statements is TRUE? W) -7 is not a prime number X) e^(i pi) = -e^(-i pi) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi] Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other Z) There is no number a such that log(-a) [log of negative a] exists."
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Which of the following statements is TRUE?\nW) −7 is not a prime number\nX) e^(iπ) = −e^(-iπ) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]\nY) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other\nZ) There is no number a such that log(−a) [log of negative a] exists."
+      }
+    },
+    {
+      "p": 128,
+      "k": "bonuses",
+      "i": 20,
+      "before": {
+        "parts_sanitized": [
+          "The tangent line to the graph y = e^(2 - x) [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes? W) 2e X) e^2 - 1 [e squared minus one] Y) e^2 [e squared] Z) 4e [four e]"
+        ]
+      },
+      "number": 21,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "The tangent line to the graph y = e^(2 - x) [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes?\nW) 2e\nX) e² − 1 [e squared minus one]\nY) e² [e squared]\nZ) 4e [four e]"
+        ]
+      }
+    }
+  ],
+  "scope": "Reader token repairs derived from existing source-reviewed rich fields. These are counted separately from fresh PDF reviews."
+}

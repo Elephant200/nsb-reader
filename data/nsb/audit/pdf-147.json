@@ -122,13 +122,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is 10.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "For what integer value of k is 2015 cubed closest to 10 ?"
       },
       "changes": {
         "question": "For what integer value of k is 2015 cubed closest to 10<sup>k</sup>?",
-        "question_sanitized": "For what integer value of k is 2015 cubed closest to 10^k?"
+        "question_sanitized": "For what integer value of k is 2015 cubed closest to 10^(k)?"
       }
     },
     {

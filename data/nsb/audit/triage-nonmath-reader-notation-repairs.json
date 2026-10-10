@@ -1,0 +1,799 @@
+{
+  "entries": [
+    {
+      "p": 0,
+      "k": "tossups",
+      "i": 22,
+      "before": {
+        "answer_sanitized": "H_2S"
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "H₂S"
+      }
+    },
+    {
+      "p": 3,
+      "k": "bonuses",
+      "i": 15,
+      "before": {
+        "answers_sanitized": [
+          "SO_3^(2−) (ACCEPT: SO_3^(−2))"
+        ]
+      },
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "SO₃²⁻ (ACCEPT: SO₃⁻²)"
+        ]
+      }
+    },
+    {
+      "p": 4,
+      "k": "bonuses",
+      "i": 14,
+      "before": {
+        "answers_sanitized": [
+          "NO_2^(−)"
+        ]
+      },
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "NO₂⁻"
+        ]
+      }
+    },
+    {
+      "p": 8,
+      "k": "bonuses",
+      "i": 15,
+      "before": {
+        "parts_sanitized": [
+          "Name all of the following 4 species that contain an odd number of electrons: O_2^(1−); O_2^(2−); SO_2; CO"
+        ],
+        "answers_sanitized": [
+          "O_2^(1−)"
+        ]
+      },
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Name all of the following 4 species that contain an odd number of electrons: O₂¹⁻; O₂²⁻; SO₂; CO"
+        ],
+        "answers_sanitized": [
+          "O₂¹⁻"
+        ]
+      }
+    },
+    {
+      "p": 11,
+      "k": "bonuses",
+      "i": 22,
+      "before": {
+        "answers_sanitized": [
+          "Na_3PO_4(aqueous) + 3H_2O(liquid) (products in any order)"
+        ]
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "Na₃PO₄(aqueous) + 3H₂O(liquid) (products in any order)"
+        ]
+      }
+    },
+    {
+      "p": 13,
+      "k": "tossups",
+      "i": 0,
+      "before": {
+        "question_sanitized": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO_4(aqueous) → ZnSO_4(aqueous) + Cu(solid)"
+      },
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO₄(aqueous) → ZnSO₄(aqueous) + Cu(solid)"
+      }
+    },
+    {
+      "p": 14,
+      "k": "bonuses",
+      "i": 1,
+      "before": {
+        "parts_sanitized": [
+          "Consider the reaction, N_2(gas) + 3H_2(gas) → 2NH_3(gas). If the concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the second decimal place in moles per liter minute:"
+        ]
+      },
+      "number": 2,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Consider the reaction, N₂(gas) + 3H₂(gas) → 2NH₃(gas). If the concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the second decimal place in moles per liter minute:"
+        ]
+      }
+    },
+    {
+      "p": 18,
+      "k": "bonuses",
+      "i": 23,
+      "before": {
+        "parts_sanitized": [
+          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid? W) NH3; X) H2CO3; Y) BF3; Z) HSO3^-"
+        ]
+      },
+      "number": 24,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Which of the following can behave as a Lewis acid, but NOT as a Bronsted-Lowry acid?\nW) NH₃\nX) H₂CO₃\nY) BF₃\nZ) HSO₃⁻"
+        ]
+      }
+    },
+    {
+      "p": 21,
+      "k": "tossups",
+      "i": 23,
+      "before": {
+        "question_sanitized": "If the two alleles for color sensitivity are X^b [X-little-B] = color-blind, and X^B [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual? W) X^B X^b [X-big-B-X-little-B]; X) X^B X^B [X-big-B-X-big-B]; Y) X^bY [X-little-B-Y]; Z) X^BY [X-big-B-Y].",
+        "answer_sanitized": "Y) X^bY"
+      },
+      "number": 24,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "If the two alleles for color sensitivity are X^(b) [X-little-B] = color-blind, and X^(B) [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual?\nW) X^(B)X^(b) [X-big-B-X-little-B]\nX) X^(B)X^(B) [X-big-B-X-big-B]\nY) X^(b)Y [X-little-B-Y]\nZ) X^(B)Y [X-big-B-Y]",
+        "answer_sanitized": "Y) X^(b)Y"
+      }
+    },
+    {
+      "p": 27,
+      "k": "tossups",
+      "i": 6,
+      "before": {
+        "question_sanitized": "Cocaine has a tertiary amine group with a pK_b of 5.6. What is the pK_a of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
+      },
+      "number": 7,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Cocaine has a tertiary amine group with a pK_(b) of 5.6. What is the pK_(a) of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
+      }
+    },
+    {
+      "p": 28,
+      "k": "bonuses",
+      "i": 14,
+      "before": {
+        "parts_sanitized": [
+          "Match the following reactions: E2, S_N2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
+        ]
+      },
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Match the following reactions: E2, S_(N)2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
+        ]
+      }
+    },
+    {
+      "p": 43,
+      "k": "tossups",
+      "i": 22,
+      "before": {
+        "question_sanitized": "The hybridization of one ‘s’ (read as: one <pause> s) orbital and 3 ‘p’ (read as: three <pause> p) orbitals and one ‘d’ (read as: one <pause> d) orbital creates how many sp^3d hybrid orbitals?"
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "The hybridization of one 's' (read as: one <pause> s) orbital and 3 'p' (read as: three <pause> p) orbitals and one 'd' (read as: one <pause> d) orbital creates how many sp³d hybrid orbitals?"
+      }
+    },
+    {
+      "p": 48,
+      "k": "bonuses",
+      "i": 22,
+      "before": {
+        "parts_sanitized": [
+          "A sphere of radius 1 meter contains uniformly distributed charge of charge density rho. Assuming rho/epsilon_0 (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
+        ]
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "A sphere of radius 1 meter contains uniformly distributed charge of charge density ρ. Assuming ρ/ε₀ (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
+        ]
+      }
+    },
+    {
+      "p": 61,
+      "k": "tossups",
+      "i": 8,
+      "before": {
+        "answer_sanitized": "Ca(s) + ½ O_2(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O_2(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
+      },
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "Ca(s) + ½ O₂(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O₂(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
+      }
+    },
+    {
+      "p": 66,
+      "k": "bonuses",
+      "i": 18,
+      "before": {
+        "answers_sanitized": [
+          "Q = I^2Rt"
+        ]
+      },
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "Q = I²Rt"
+        ]
+      }
+    },
+    {
+      "p": 68,
+      "k": "bonuses",
+      "i": 15,
+      "before": {
+        "parts_sanitized": [
+          "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H_2, 2) B_2, 3) ClBr, 4) OF."
+        ],
+        "answers_sanitized": [
+          "H_2, B_2, ClBr (ACCEPT: 1, 2, AND 3)"
+        ]
+      },
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H₂, 2) B₂, 3) ClBr, 4) OF."
+        ],
+        "answers_sanitized": [
+          "H₂, B₂, ClBr (ACCEPT: 1, 2, AND 3)"
+        ]
+      }
+    },
+    {
+      "p": 76,
+      "k": "tossups",
+      "i": 21,
+      "before": {
+        "question_sanitized": "If g_E and g_M are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g_E/g_M<br>X) 1<br>Y) g_M/g_E^2<br>Z) (g_M/g_E)^2"
+      },
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "If g_(E) and g_(M) are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan's oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?\nW) g_(E)/g_(M)\nX) 1\nY) g_(M)/g_(E)²\nZ) (g_(M)/g_(E))²"
+      }
+    },
+    {
+      "p": 77,
+      "k": "tossups",
+      "i": 8,
+      "before": {
+        "question_sanitized": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V_A and V_B of A and B at the end of the displacement?<br>W) V_B = V_A/2<br>X) V_B = sqrt(2) V_A<br>Y) V_B = 2V_A<br>Z) V_B = 4V_A",
+        "answer_sanitized": "X) V_B = sqrt(2) V_A"
+      },
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V_(A) and V_(B) of A and B at the end of the displacement?\nW) V_(B) = V_(A)/2\nX) V_(B) = √2 V_(A)\nY) V_(B) = 2V_(A)\nZ) V_(B) = 4V_(A)",
+        "answer_sanitized": "X) V_(B) = √2 V_(A)"
+      }
+    },
+    {
+      "p": 79,
+      "k": "bonuses",
+      "i": 14,
+      "before": {
+        "parts_sanitized": [
+          "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O2(g) -> 2NO2(g) and given that the rate law of this reaction is k(NO)^2."
+        ]
+      },
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O₂(g) → 2NO₂(g) and given that the rate law of this reaction is k(NO)²."
+        ]
+      }
+    },
+    {
+      "p": 81,
+      "k": "tossups",
+      "i": 19,
+      "before": {
+        "answer_sanitized": "sp^3d^2"
+      },
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "sp³d²"
+      }
+    },
+    {
+      "p": 92,
+      "k": "bonuses",
+      "i": 10,
+      "before": {
+        "parts_sanitized": [
+          "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?\nW) Krypton: sp^3; each fluorine: sp^3\nX) Krypton: sp^3d; each fluorine: sp^3\nY) Krypton: sp^3d^2; each fluorine: sp^2\nZ) Krypton: sp^3d; each fluorine: sp^2"
+        ],
+        "answers_sanitized": [
+          "X) KRYPTON: sp^3d; EACH FLUORINE: sp^3"
+        ]
+      },
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?\nW) Krypton: sp³; each fluorine: sp³\nX) Krypton: sp³d; each fluorine: sp³\nY) Krypton: sp³d²; each fluorine: sp²\nZ) Krypton: sp³d; each fluorine: sp²"
+        ],
+        "answers_sanitized": [
+          "X) KRYPTON: sp³d; EACH FLUORINE: sp³"
+        ]
+      }
+    },
+    {
+      "p": 95,
+      "k": "bonuses",
+      "i": 6,
+      "before": {
+        "answers_sanitized": [
+          "sp^3d^2"
+        ]
+      },
+      "number": 7,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "sp³d²"
+        ]
+      }
+    },
+    {
+      "p": 96,
+      "k": "bonuses",
+      "i": 24,
+      "before": {
+        "parts_sanitized": [
+          "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s Ka is 2 x 10^-5."
+        ]
+      },
+      "number": 25,
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid's K_(a) is 2 × 10⁻⁵."
+        ]
+      }
+    },
+    {
+      "p": 102,
+      "k": "tossups",
+      "i": 22,
+      "before": {
+        "question_sanitized": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope? W) -ΔH_vap/R [negative delta H of vaporization over R]; X) ΔH_vap/R [delta H of vaporization over R]; Y) -R/ΔH_vap [negative R over delta H of vaporization]; Z) R/ΔH_vap [R over delta H of vaporization].",
+        "answer_sanitized": "W) -ΔH_vap/R"
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope?\nW) −∆H_(vap)/R [negative delta H of vaporization over R]\nX) ∆H_(vap)/R [delta H of vaporization over R]\nY) −R/∆H_(vap) [negative R over delta H of vaporization]\nZ) R/∆H_(vap) [R over delta H of vaporization]",
+        "answer_sanitized": "W) −∆H_(vap)/R"
+      }
+    },
+    {
+      "p": 107,
+      "k": "bonuses",
+      "i": 17,
+      "before": {
+        "parts_sanitized": [
+          "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m_l? W) -1 X) 0 Y) 2 Z) 3"
+        ]
+      },
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m_(l)?\nW) -1\nX) 0\nY) 2\nZ) 3"
+        ]
+      }
+    },
+    {
+      "p": 108,
+      "k": "bonuses",
+      "i": 11,
+      "before": {
+        "parts_sanitized": [
+          "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 x 10^-12 coulombs squared over newtons meter squared as epsilon_0 [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
+        ]
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 × 10⁻¹² coulombs squared over newtons meter squared as ε₀ [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
+        ]
+      }
+    },
+    {
+      "p": 109,
+      "k": "tossups",
+      "i": 24,
+      "before": {
+        "question_sanitized": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I^P [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby? W) O X) AP Y) P Z) A"
+      },
+      "number": 25,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien's blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I^(P) [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent's blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby?\nW) O\nX) AP\nY) P\nZ) A"
+      }
+    },
+    {
+      "p": 110,
+      "k": "tossups",
+      "i": 11,
+      "before": {
+        "question_sanitized": "A body with a 2 kilogram mass has position vector r = 3i + 2t^2j meters. What is the velocity at t = 1 second? W) 1j X) 4j Y) 3i + 4j Z) 1i + 1j"
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "A body with a 2 kilogram mass has position vector r = 3i + 2t²j meters. What is the velocity at t = 1 second?\nW) 1j\nX) 4j\nY) 3i + 4j\nZ) 1i + 1j"
+      }
+    },
+    {
+      "p": 110,
+      "k": "bonuses",
+      "i": 11,
+      "before": {
+        "parts_sanitized": [
+          "Two objects with masses m_1 and m_2 are hanging vertically by different springs of spring constants k_1 and k_2. If m_1 = 3m_2 and k_1 = 2k_2, what is the ratio x_1/x_2 of their stretches? W) 2/3 X) 3/2 Y) 4 Z) 6"
+        ]
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Two objects with masses m₁ and m₂ are hanging vertically by different springs of spring constants k₁ and k₂. If m₁ = 3m₂ and k₁ = 2k₂, what is the ratio x₁/x₂ of their stretches?\nW) 2/3\nX) 3/2\nY) 4\nZ) 6"
+        ]
+      }
+    },
+    {
+      "p": 111,
+      "k": "tossups",
+      "i": 18,
+      "before": {
+        "question_sanitized": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture? W) E1 X) E2 Y) S_N1 Z) S_N2",
+        "answer_sanitized": "Y) S_N1"
+      },
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture?\nW) E1\nX) E2\nY) S_(N)1\nZ) S_(N)2",
+        "answer_sanitized": "Y) S_(N)1"
+      }
+    },
+    {
+      "p": 121,
+      "k": "tossups",
+      "i": 7,
+      "before": {
+        "question_sanitized": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m_l) [M-L], respectively? W) 1, infinity X) 0, 2 Y) -3, 3 Z) -½, ½"
+      },
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m_(l)) [M-L], respectively?\nW) 1, infinity\nX) 0, 2\nY) -3, 3\nZ) -½, ½"
+      }
+    },
+    {
+      "p": 126,
+      "k": "bonuses",
+      "i": 17,
+      "before": {
+        "parts_sanitized": [
+          "An alpha-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10^5 kilovolts. Find the ratio (K_alpha/K_p) [k alpha over k proton] of their final kinetic energies? W) 1/4 X) 1/2 Y) 2 Z) 4"
+        ]
+      },
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "An α-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10⁵ kilovolts. Find the ratio (K_(α)/K_(p)) [k alpha over k proton] of their final kinetic energies.\nW) 1/4\nX) 1/2\nY) 2\nZ) 4"
+        ]
+      }
+    },
+    {
+      "p": 130,
+      "k": "tossups",
+      "i": 12,
+      "before": {
+        "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S_N1; 2) S_N2; 3) E1; 4) E2"
+      },
+      "number": 13,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev's rule: 1) S_(N1); 2) S_(N2); 3) E₁; 4) E₂"
+      }
+    },
+    {
+      "p": 134,
+      "k": "bonuses",
+      "i": 5,
+      "before": {
+        "answers_sanitized": [
+          "sp^3d^3"
+        ]
+      },
+      "number": 6,
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "sp³d³"
+        ]
+      }
+    },
+    {
+      "p": 140,
+      "k": "tossups",
+      "i": 0,
+      "before": {
+        "answer_sanitized": "sp^3d^2 [s-p-3-d-2]"
+      },
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "sp³d² [s-p-3-d-2]"
+      }
+    },
+    {
+      "p": 172,
+      "k": "bonuses",
+      "i": 16,
+      "before": {
+        "parts_sanitized": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li_2; 2) Be_2; 3) B_2."
+        ]
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li₂; 2) Be₂; 3) B₂."
+        ]
+      }
+    },
+    {
+      "p": 174,
+      "k": "bonuses",
+      "i": 14,
+      "before": {
+        "parts_sanitized": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B_2; 2) C_2; 3) N_2."
+        ],
+        "answers_sanitized": [
+          "1 (ACCEPT: B_2)"
+        ]
+      },
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B₂; 2) C₂; 3) N₂."
+        ],
+        "answers_sanitized": [
+          "1 (ACCEPT: B₂)"
+        ]
+      }
+    },
+    {
+      "p": 175,
+      "k": "bonuses",
+      "i": 10,
+      "before": {
+        "answers_sanitized": [
+          "METHANE (ACCEPT: CH_4)"
+        ]
+      },
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "METHANE (ACCEPT: CH₄)"
+        ]
+      }
+    },
+    {
+      "p": 189,
+      "k": "bonuses",
+      "i": 9,
+      "before": {
+        "parts_sanitized": [
+          "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp^3; 2) Nitrogen tri-iodide and sp^2; 3) Sulfur tetrafluoride and d^2sp^3."
+        ]
+      },
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp³; 2) Nitrogen tri-iodide and sp²; 3) Sulfur tetrafluoride and d²sp³."
+        ]
+      }
+    },
+    {
+      "p": 195,
+      "k": "bonuses",
+      "i": 11,
+      "before": {
+        "parts_sanitized": [
+          "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction? W) S_N1 at low temperatures and E1 at high temperatures; X) E1 at low temperatures and S_N1 at high temperatures; Y) S_N2 at low temperatures and E2 at high temperatures; Z) E2 at low temperatures and S_N2 at high temperatures"
+        ],
+        "answers_sanitized": [
+          "Y) S_N2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
+        ]
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction?\nW) S_(N)1 at low temperatures and E1 at high temperatures\nX) E1 at low temperatures and S_(N)1 at high temperatures\nY) S_(N)2 at low temperatures and E2 at high temperatures\nZ) E2 at low temperatures and S_(N)2 at high temperatures"
+        ],
+        "answers_sanitized": [
+          "Y) S_(N)2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
+        ]
+      }
+    },
+    {
+      "p": 200,
+      "k": "bonuses",
+      "i": 6,
+      "before": {
+        "parts_sanitized": [
+          "A weak acid has a K_a of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
+        ]
+      },
+      "number": 7,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "A weak acid has a K_(a) of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
+        ]
+      }
+    }
+  ],
+  "scope": "Canonical reader notation derived from existing source-reviewed rich scientific fields; counted separately from fresh PDF reviews."
+}

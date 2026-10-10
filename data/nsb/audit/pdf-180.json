@@ -150,11 +150,18 @@
       "kind": "tossups",
       "itemIndex": 13,
       "number": 15,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 shows “Identify all of the following three species that are Lewis acids: 1) Zn 2+ ; 2) Cl - ; 3) BH 3 .” and answer “1 AND 3”; compared the full prompt, choices if present, and answer."
+      "evidence": "Page 8 prints the charged species as Zn²⁺ and Cl⁻, with BH₃; current question flattens both charges and the borane subscript into baseline text. Source render: /tmp/chem180-check-08.png.",
+      "before": {
+        "question": "Identify all of the following three species that are Lewis acids: 1) Zn 2+ ; 2) Cl - ; 3) BH<sub>3</sub> ."
+      },
+      "changes": {
+        "question": "Identify all of the following three species that are Lewis acids: 1) Zn²⁺; 2) Cl⁻; 3) BH₃.",
+        "question_sanitized": "Identify all of the following three species that are Lewis acids: 1) Zn²⁺; 2) Cl⁻; 3) BH₃."
+      }
     },
     {
       "kind": "tossups",

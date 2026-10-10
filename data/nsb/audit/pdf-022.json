@@ -482,7 +482,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered source page 9 confirms the equation/formula notation restored in this entry.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Providing an exact answer, solve the following equation for x: ex(8 – ex) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
@@ -493,7 +493,7 @@
           "Providing an exact answer, solve the following equation for x: e<sup>x</sup>(8 − e<sup>x</sup>) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
         ],
         "parts_sanitized": [
-          "Providing an exact answer, solve the following equation for x: e^x(8 - e^x) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
+          "Providing an exact answer, solve the following equation for x: e^(x)(8 − e^(x)) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
         ]
       }
     },
@@ -568,7 +568,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered source page 12 confirms the equation/formula notation restored in this entry.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Solve the following equation for x over the real numbers: log 2 (x + 5) – log 2 (x – 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
@@ -579,7 +579,7 @@
           "Solve the following equation for x over the real numbers: log<sub>2</sub>(x + 5) − log<sub>2</sub>(x − 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
         ],
         "parts_sanitized": [
-          "Solve the following equation for x over the real numbers: log_2(x + 5) - log_2(x - 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
+          "Solve the following equation for x over the real numbers: log₂(x + 5) − log₂(x − 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
         ]
       }
     },

@@ -10,16 +10,16 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Page 1 prints x⁴y⁷ in the prompt and 7x⁴y⁶ as the answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is the partial derivative with respect to y of the expression x 4 y 7 ?",
         "answer": "7x 4 y 6"
       },
       "changes": {
         "question": "What is the partial derivative with respect to y of the expression x<sup>4</sup>y<sup>7</sup>?",
-        "question_sanitized": "What is the partial derivative with respect to y of the expression x^4y^7?",
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x⁴y⁷?",
         "answer": "7x<sup>4</sup>y<sup>6</sup>",
-        "answer_sanitized": "7x^4y^6"
+        "answer_sanitized": "7x⁴y⁶"
       }
     },
     {

@@ -191,7 +191,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "PDF p.9 visibly prints −7, Euler’s formula, and log(−a) in their own choices; OCR displaced symbols and choice text.",
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Which of the following statements is TRUE? 7<br>W) is not a prime number<br>X) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]<br>Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other log<br>Z) There is no number such that [log of negative a] exists. 7",
         "options": [
@@ -211,7 +211,7 @@
           "Z) There is no number a such that log(−a) [log of negative a] exists."
         ],
         "answer": "W) −7 IS NOT A PRIME NUMBER",
-        "question_sanitized": "Which of the following statements is TRUE? W) -7 is not a prime number X) e^(i pi) = -e^(-i pi) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi] Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other Z) There is no number a such that log(-a) [log of negative a] exists.",
+        "question_sanitized": "Which of the following statements is TRUE?\nW) −7 is not a prime number\nX) e^(iπ) = −e^(-iπ) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]\nY) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other\nZ) There is no number a such that log(−a) [log of negative a] exists.",
         "answer_sanitized": "W) -7 IS NOT A PRIME NUMBER"
       }
     },
@@ -430,7 +430,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "PDF p.9 prints α, 10⁵ kV, and Kα/Kp; extracted corpus misplaced the alpha and exponent.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "An [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10 5 kilovolts. Find the ratio (K /K ) [k alpha  p over k proton] of their final kinetic energies.<br>W) 1/4<br>X) 1/2<br>Y) 2<br>Z) 4"
@@ -441,7 +441,7 @@
           "An α-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10<sup>5</sup> kilovolts. Find the ratio (K<sub>α</sub>/K<sub>p</sub>) [k alpha over k proton] of their final kinetic energies.<br>W) 1/4<br>X) 1/2<br>Y) 2<br>Z) 4"
         ],
         "parts_sanitized": [
-          "An alpha-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10^5 kilovolts. Find the ratio (K_alpha/K_p) [k alpha over k proton] of their final kinetic energies? W) 1/4 X) 1/2 Y) 2 Z) 4"
+          "An α-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10⁵ kilovolts. Find the ratio (K_(α)/K_(p)) [k alpha over k proton] of their final kinetic energies.\nW) 1/4\nX) 1/2\nY) 2\nZ) 4"
         ]
       }
     },

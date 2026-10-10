@@ -316,11 +316,24 @@
       "kind": "bonuses",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Page 4 prints “A balloon is being filled with water. Its volume in gallons is given by the V(r) = r /10 r function ”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) 0.7) against the corpus."
+      "evidence": "Page 4 V(r)=r³/10, so average rate from 1 to 2 inches is (8/10−1/10)/(2−1)=0.7; restore the formula and keep the source read-as cue. Source render: /tmp/nsb-math-expand-101-04.png.",
+      "before": {
+        "parts": [
+          "A balloon is being filled with water. Its volume in gallons is given by the V(r) = r /10 r function 3 [V of r equals r cubed over 10], where is the radius of the balloon in inches. What is the average rate of change in gallons per inch of the volume of the balloon as the radius is increased from 1 to 2 inches?<br>W) 0.3<br>X) 0.7<br>Y) 0.8<br>Z) 1.2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A balloon is being filled with water. Its volume in gallons is given by the function V(r) = <span class=\"nsb-fraction\"><span>r<sup>3</sup></span><span>10</span></span> [V of r equals r cubed over 10], where r is the radius of the balloon in inches. What is the average rate of change in gallons per inch of the volume of the balloon as the radius is increased from 1 to 2 inches?<br>W) 0.3<br>X) 0.7<br>Y) 0.8<br>Z) 1.2"
+        ],
+        "parts_sanitized": [
+          "A balloon is being filled with water. Its volume in gallons is given by the function V(r) = (r³)/(10) [V of r equals r cubed over 10], where r is the radius of the balloon in inches. What is the average rate of change in gallons per inch of the volume of the balloon as the radius is increased from 1 to 2 inches?\nW) 0.3\nX) 0.7\nY) 0.8\nZ) 1.2"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -457,11 +470,24 @@
       "kind": "bonuses",
       "itemIndex": 19,
       "number": 20,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "Page 10 prints “A line in parametric mode is given by the equations: x 2 = 2 t and y . What is the slope of this lin”; I compared its complete wording, all choices where present, significant numbers, and answer key (4) against the corpus."
+      "evidence": "Page 10 x=½t+2 and y=2t give slope dy/dx=(dy/dt)/(dx/dt)=4; restore the two parametric equations. Source render: /tmp/nsb-math-expand-101-10.png.",
+      "before": {
+        "parts": [
+          "A line in parametric mode is given by the equations: x 2 = 2 t and y . What is the slope of this line?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A line in parametric mode is given by the equations: x = ½t + 2 and y = 2t. What is the slope of this line?"
+        ],
+        "parts_sanitized": [
+          "A line in parametric mode is given by the equations: x = ½t + 2 and y = 2t. What is the slope of this line?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

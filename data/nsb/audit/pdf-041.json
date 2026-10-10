@@ -229,7 +229,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered source page 9 shows W as 30, 6, 6/5…, X as a², a³b, a⁴b²…, Y as 6, 13, 20…, and Z as 3/2, 3/4, 3/8…. The corpus interleaved stacked fractions and flattened powers.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Which of the following is NOT a geometric sequence: 6<br>W) 30, 6, … 5<br>X) a2, a3b, a4b2…<br>Y) 6, 13, 20… 3 3 3<br>Z) , , … 2 4 8",
         "options": [
@@ -241,7 +241,7 @@
       },
       "changes": {
         "question": "Which of the following is NOT a geometric sequence:<br>W) 30, 6, <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>…<br>X) a<sup>2</sup>, a<sup>3</sup>b, a<sup>4</sup>b<sup>2</sup>…<br>Y) 6, 13, 20…<br>Z) <span class=\"nsb-fraction\"><span>3</span><span>2</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>4</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>8</span></span>…",
-        "question_sanitized": "Which of the following is NOT a geometric sequence:; W) 30, 6, 6/5…; X) a^2, a^3b, a^4b^2…; Y) 6, 13, 20…; Z) 3/2, 3/4, 3/8…",
+        "question_sanitized": "Which of the following is NOT a geometric sequence:\nW) 30, 6, (6)/(5)...\nX) a², a³b, a⁴b²...\nY) 6, 13, 20...\nZ) (3)/(2), (3)/(4), (3)/(8)...",
         "options": [
           "W) 30, 6, <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>…",
           "X) a<sup>2</sup>, a<sup>3</sup>b, a<sup>4</sup>b<sup>2</sup>…",
@@ -566,7 +566,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered source page 9 prints (x⁻² + y)(x² − y⁻²) and answer 1 − 1/(x²y²) + x²y − 1/y; the corpus flattened powers and the stacked fractions.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Find the product of the following, giving your answer without negative exponents: (x-2 + y)(x2 – y-2) 1 1"
@@ -586,7 +586,7 @@
           "1 − <span class=\"nsb-fraction\"><span>1</span><span>x<sup>2</sup>y<sup>2</sup></span></span> + x<sup>2</sup>y − <span class=\"nsb-fraction\"><span>1</span><span>y</span></span> (Note: the terms can be given in any order)"
         ],
         "answers_sanitized": [
-          "1 − 1/(x^2y^2) + x^2y − 1/y (Note: the terms can be given in any order)"
+          "1 − (1)/(x²y²) + x²y − (1)/(y) (Note: the terms can be given in any order)"
         ]
       }
     },

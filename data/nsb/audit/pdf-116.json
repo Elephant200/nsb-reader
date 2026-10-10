@@ -398,11 +398,24 @@
       "kind": "bonuses",
       "itemIndex": 19,
       "number": 20,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "Page 10: PDF text for question 20 reads “Molecule A, with oxidation number +1 [ plus one], and Molecule B, with oxidation number -2 [minus tw”; answer reads “MOLECULE A: +1; MOLECULE B: -2”."
+      "evidence": "The visually inspected source reads “+1 [plus one]”; the stored part had an extra space after the opening bracket. Removed the stray space while preserving the remaining cue, reaction wording and answer.",
+      "before": {
+        "parts": [
+          "Molecule A, with oxidation number +1 [ plus one], and Molecule B, with oxidation number -2 [minus two], undergo a metathesis [muh-THAT-uh-sis] reaction. After the reaction, what are their oxidation numbers?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Molecule A, with oxidation number +1 [plus one], and Molecule B, with oxidation number -2 [minus two], undergo a metathesis [muh-THAT-uh-sis] reaction. After the reaction, what are their oxidation numbers?"
+        ],
+        "parts_sanitized": [
+          "Molecule A, with oxidation number +1 [plus one], and Molecule B, with oxidation number -2 [minus two], undergo a metathesis [muh-THAT-uh-sis] reaction. After the reaction, what are their oxidation numbers?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

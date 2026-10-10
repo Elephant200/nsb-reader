@@ -273,11 +273,24 @@
       "kind": "bonuses",
       "itemIndex": 1,
       "number": 2,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "PDF p.1 bonus 2 gives principal quantum number 4 and asks for an allowed orbital angular momentum quantum l; options are -2, 0, 1/2, 4 and answer X) 0, matching the corpus."
+      "evidence": "The visually inspected page says “orbital angular momentum quantum number l”; the stored part incorrectly placed l before the word number. Replaced the full part while retaining all four choices and the keyed answer.",
+      "before": {
+        "parts": [
+          "If the principal quantum number of an electron within an atom is 4, which of the following is an allowed value of the orbital angular momentum quantum l number ?<br>W) -2<br>X) 0<br>Y) ½<br>Z) 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the principal quantum number of an electron within an atom is 4, which of the following is an allowed value of the orbital angular momentum quantum number l?<br>W) -2<br>X) 0<br>Y) ½<br>Z) 4"
+        ],
+        "parts_sanitized": [
+          "If the principal quantum number of an electron within an atom is 4, which of the following is an allowed value of the orbital angular momentum quantum number l?\nW) -2\nX) 0\nY) ½\nZ) 4"
+        ]
+      }
     },
     {
       "kind": "bonuses",

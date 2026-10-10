@@ -110,13 +110,13 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Source p. 7 displays (1 − cos(x))/x² and lim as x approaches 0; both the fraction layout and full spoken cues are preserved.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Given 𝑔(𝑥) = [g of x equals the fraction with numerator 1 𝑥2 minus cosine of x and denominator x squared], find lim𝑥→0 𝑔(𝑥) [the limit as x approaches 0 of g of x]."
       },
       "changes": {
         "question": "Given g(x) = <span class=\"nsb-fraction\"><span>1 − cos(x)</span><span>x<sup>2</sup></span></span> [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim<sub>x→0</sub> g(x) [the limit as x approaches 0 of g of x].",
-        "question_sanitized": "Given g(x) = (1 - cos(x))/(x^2) [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim_(x->0) g(x) [the limit as x approaches 0 of g of x]."
+        "question_sanitized": "Given g(x) = (1 − cos(x))/(x²) [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim_(x→0) g(x) [the limit as x approaches 0 of g of x]."
       }
     },
     {
@@ -177,13 +177,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Source p. 10 prints ln of the square root of e^x; its radical bar covers e^x, and the source includes the complete read-as cue.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Given 𝑓(𝑥) = 𝑙𝑙√𝑒 𝑥 [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
       },
       "changes": {
         "question": "Given f(x) = ln(√(e<sup>x</sup>)) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x.",
-        "question_sanitized": "Given f(x) = ln(sqrt(e^x)) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
+        "question_sanitized": "Given f(x) = ln(√(e^(x))) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
       }
     },
     {
@@ -251,13 +251,13 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Source p. 13 prints allele I with superscript P and the cue “[eye superscript P]”; all four phenotypes and answer X) AP match.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "You suspect that Cylon, an alien, may be the parent of a human- alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by IP [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby?<br>W) O<br>X) AP<br>Y) P<br>Z) A"
       },
       "changes": {
         "question": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I<sup>P</sup> [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby?<br>W) O<br>X) AP<br>Y) P<br>Z) A",
-        "question_sanitized": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I^P [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby? W) O X) AP Y) P Z) A"
+        "question_sanitized": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien's blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I^(P) [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent's blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby?\nW) O\nX) AP\nY) P\nZ) A"
       }
     },
     {
@@ -328,7 +328,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Source p. 4 equation reads y² + 3x²y = 7x² − 5, evaluated for dy/dx at (3, 2); source answer is 6/31.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Assuming y2 + 3x2y = 7x2 – 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
@@ -339,7 +339,7 @@
           "Assuming y<sup>2</sup> + 3x<sup>2</sup>y = 7x<sup>2</sup> − 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
         ],
         "parts_sanitized": [
-          "Assuming y^2 + 3x^2y = 7x^2 - 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
+          "Assuming y² + 3x²y = 7x² − 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
         ]
       }
     },

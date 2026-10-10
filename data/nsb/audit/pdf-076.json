@@ -221,7 +221,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Matched toss-up 22 by printed number and opening wording on Round 10 page 11; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "If g and g are the accelerations due to gravity on the surfaces E M of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g /g E M<br>X) 1<br>Y) g /g M E 2<br>Z) (g /g ) M E",
         "options": [
@@ -233,7 +233,7 @@
       },
       "changes": {
         "question": "If g<sub>E</sub> and g<sub>M</sub> are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g<sub>E</sub>/g<sub>M</sub><br>X) 1<br>Y) g<sub>M</sub>/g<sub>E</sub><sup>2</sup><br>Z) (g<sub>M</sub>/g<sub>E</sub>)<sup>2</sup>",
-        "question_sanitized": "If g_E and g_M are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g_E/g_M<br>X) 1<br>Y) g_M/g_E^2<br>Z) (g_M/g_E)^2",
+        "question_sanitized": "If g_(E) and g_(M) are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan's oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?\nW) g_(E)/g_(M)\nX) 1\nY) g_(M)/g_(E)²\nZ) (g_(M)/g_(E))²",
         "options": [
           "W) g<sub>E</sub>/g<sub>M</sub>",
           "X) 1",

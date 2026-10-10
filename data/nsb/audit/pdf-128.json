@@ -80,7 +80,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "PDF p.5 shows the stacked 5/4 as the argument of log in choice W; choice X separately has base 5. The read-as cue identifies W's log argument as five-fourths.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "For the expression 5 4 , [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true?<br>W) log [x to the power of z equals log of five-fourths]<br>X) log [z divided by four equals log base five of x]<br>Y) <br>Z) 1 [x divided by z is less than one]",
         "options": [
@@ -100,7 +100,7 @@
           "Z) <span class=\"nsb-fraction\"><span>x</span><span>z</span></span> &lt; 1 [x divided by z is less than one]"
         ],
         "answer": "Z) <span class=\"nsb-fraction\"><span>x</span><span>z</span></span> &lt; 1",
-        "question_sanitized": "For the expression 5^x = 4^z [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true? W) x^z = log(5/4) [x to the power of z equals log of five-fourths] X) z/4 = log_5(x) [z divided by four equals log base five of x] Y) z < x Z) x/z < 1 [x divided by z is less than one]",
+        "question_sanitized": "For the expression 5^(x) = 4^(z) [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true?\nW) x^(z) = log (5)/(4) [x to the power of z equals log of five-fourths]\nX) (z)/(4) = log₅(x) [z divided by four equals log base five of x]\nY) z < x\nZ) (x)/(z) < 1 [x divided by z is less than one]",
         "answer_sanitized": "Z) x/z < 1"
       }
     },
@@ -505,7 +505,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "PDF p.11 prints y=e^(2−x) and e²−1/e² options, with the original read-as cues; answer is W) 2e.",
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "The tangent line to the graph y = e2 – x [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes?<br>W) 2e<br>X) e2 – 1 [e squared minus one]<br>Y) e2 [e squared]<br>Z) 4e [four e]"
@@ -528,7 +528,7 @@
           "Z) 4e [four e]"
         ],
         "parts_sanitized": [
-          "The tangent line to the graph y = e^(2 - x) [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes? W) 2e X) e^2 - 1 [e squared minus one] Y) e^2 [e squared] Z) 4e [four e]"
+          "The tangent line to the graph y = e^(2 - x) [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes?\nW) 2e\nX) e² − 1 [e squared minus one]\nY) e² [e squared]\nZ) 4e [four e]"
         ]
       }
     },

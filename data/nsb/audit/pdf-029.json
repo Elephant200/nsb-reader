@@ -221,13 +221,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Compared the complete tossup 20 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 10; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Evaluate lim [the limit as x goes to infinity of the fraction x to 𝑥𝑥 → ∞ 𝑒𝑒 𝑥𝑥 the fifth over e to the x]."
       },
       "changes": {
         "question": "Evaluate lim<sub>x → ∞</sub> <span class=\"nsb-fraction\"><span>x<sup>5</sup></span><span>e<sup>x</sup></span></span> [the limit as x goes to infinity of the fraction x to the fifth over e to the x].",
-        "question_sanitized": "Evaluate the limit as x goes to infinity of x^5/e^x [the limit as x goes to infinity of the fraction x to the fifth over e to the x]."
+        "question_sanitized": "Evaluate lim_(x → ∞) (x⁵)/(e^(x)) [the limit as x goes to infinity of the fraction x to the fifth over e to the x]."
       }
     },
     {

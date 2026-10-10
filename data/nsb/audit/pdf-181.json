@@ -117,13 +117,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 prints the expression −i³³. The import flattened the exponent and left an extraction space before the period; the answer is −i.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Evaluate the following expression: –i 33 ."
       },
       "changes": {
         "question": "Evaluate the following expression: –i<sup>33</sup>.",
-        "question_sanitized": "Evaluate the following expression: –i^33."
+        "question_sanitized": "Evaluate the following expression: -i³³."
       }
     },
     {

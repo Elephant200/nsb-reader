@@ -1,0 +1,432 @@
+{
+  "updatedAt": "2026-10-10T03:31:02.401Z",
+  "scope": "Fresh stratified source-PDF review and targeted expansion; identities counted once. Corrections include later findings in the original sample. Additional reader-field consistency repairs are separate.",
+  "sampled": 1680,
+  "reviewed": 5677,
+  "corrections": 186,
+  "readingConsistencyRepairs": 281,
+  "categories": [
+    {
+      "category": "Biology",
+      "corpus": 2180,
+      "sampled": 280,
+      "sampleCorrections": 0,
+      "reviewed": 280,
+      "corrections": 0,
+      "years": {
+        "2007": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2009": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2011": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2012": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2013": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2014": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2015": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2016": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2017": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2018": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2019": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2020": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2021": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2022": {
+          "reviewed": 20,
+          "corrections": 0
+        }
+      }
+    },
+    {
+      "category": "Chemistry",
+      "corpus": 2076,
+      "sampled": 280,
+      "sampleCorrections": 1,
+      "reviewed": 2076,
+      "corrections": 51,
+      "years": {
+        "2007": {
+          "reviewed": 146,
+          "corrections": 4
+        },
+        "2009": {
+          "reviewed": 146,
+          "corrections": 11
+        },
+        "2011": {
+          "reviewed": 254,
+          "corrections": 8
+        },
+        "2012": {
+          "reviewed": 266,
+          "corrections": 10
+        },
+        "2013": {
+          "reviewed": 144,
+          "corrections": 3
+        },
+        "2014": {
+          "reviewed": 156,
+          "corrections": 3
+        },
+        "2015": {
+          "reviewed": 136,
+          "corrections": 2
+        },
+        "2016": {
+          "reviewed": 134,
+          "corrections": 4
+        },
+        "2017": {
+          "reviewed": 136,
+          "corrections": 6
+        },
+        "2018": {
+          "reviewed": 136,
+          "corrections": 0
+        },
+        "2019": {
+          "reviewed": 136,
+          "corrections": 0
+        },
+        "2020": {
+          "reviewed": 136,
+          "corrections": 0
+        },
+        "2021": {
+          "reviewed": 60,
+          "corrections": 0
+        },
+        "2022": {
+          "reviewed": 90,
+          "corrections": 0
+        }
+      }
+    },
+    {
+      "category": "Earth and Space",
+      "corpus": 2191,
+      "sampled": 280,
+      "sampleCorrections": 0,
+      "reviewed": 280,
+      "corrections": 0,
+      "years": {
+        "2007": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2009": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2011": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2012": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2013": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2014": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2015": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2016": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2017": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2018": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2019": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2020": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2021": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2022": {
+          "reviewed": 20,
+          "corrections": 0
+        }
+      }
+    },
+    {
+      "category": "Energy",
+      "corpus": 1338,
+      "sampled": 240,
+      "sampleCorrections": 1,
+      "reviewed": 244,
+      "corrections": 1,
+      "years": {
+        "2011": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2012": {
+          "reviewed": 21,
+          "corrections": 1
+        },
+        "2013": {
+          "reviewed": 22,
+          "corrections": 0
+        },
+        "2014": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2015": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2016": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2017": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2018": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2019": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2020": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2021": {
+          "reviewed": 21,
+          "corrections": 0
+        },
+        "2022": {
+          "reviewed": 20,
+          "corrections": 0
+        }
+      }
+    },
+    {
+      "category": "General Science",
+      "corpus": 202,
+      "sampled": 40,
+      "sampleCorrections": 0,
+      "reviewed": 41,
+      "corrections": 0,
+      "years": {
+        "2007": {
+          "reviewed": 21,
+          "corrections": 0
+        },
+        "2009": {
+          "reviewed": 20,
+          "corrections": 0
+        }
+      }
+    },
+    {
+      "category": "Math",
+      "corpus": 1986,
+      "sampled": 280,
+      "sampleCorrections": 10,
+      "reviewed": 1986,
+      "corrections": 134,
+      "years": {
+        "2007": {
+          "reviewed": 102,
+          "corrections": 8
+        },
+        "2009": {
+          "reviewed": 110,
+          "corrections": 4
+        },
+        "2011": {
+          "reviewed": 300,
+          "corrections": 94
+        },
+        "2012": {
+          "reviewed": 242,
+          "corrections": 18
+        },
+        "2013": {
+          "reviewed": 136,
+          "corrections": 5
+        },
+        "2014": {
+          "reviewed": 130,
+          "corrections": 2
+        },
+        "2015": {
+          "reviewed": 136,
+          "corrections": 1
+        },
+        "2016": {
+          "reviewed": 136,
+          "corrections": 0
+        },
+        "2017": {
+          "reviewed": 136,
+          "corrections": 0
+        },
+        "2018": {
+          "reviewed": 136,
+          "corrections": 1
+        },
+        "2019": {
+          "reviewed": 136,
+          "corrections": 1
+        },
+        "2020": {
+          "reviewed": 136,
+          "corrections": 0
+        },
+        "2021": {
+          "reviewed": 60,
+          "corrections": 0
+        },
+        "2022": {
+          "reviewed": 90,
+          "corrections": 0
+        }
+      }
+    },
+    {
+      "category": "Physics",
+      "corpus": 2050,
+      "sampled": 280,
+      "sampleCorrections": 0,
+      "reviewed": 770,
+      "corrections": 0,
+      "years": {
+        "2007": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2009": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2011": {
+          "reviewed": 282,
+          "corrections": 0
+        },
+        "2012": {
+          "reviewed": 240,
+          "corrections": 0
+        },
+        "2013": {
+          "reviewed": 27,
+          "corrections": 0
+        },
+        "2014": {
+          "reviewed": 21,
+          "corrections": 0
+        },
+        "2015": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2016": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2017": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2018": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2019": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2020": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2021": {
+          "reviewed": 20,
+          "corrections": 0
+        },
+        "2022": {
+          "reviewed": 20,
+          "corrections": 0
+        }
+      }
+    }
+  ],
+  "reports": [
+    "triage-chemistry-remaining-a.json",
+    "triage-chemistry-remaining-b.json",
+    "triage-chemistry-remaining-c.json",
+    "triage-math-sample-recheck.json",
+    "triage-modern-math-expansion.json",
+    "triage-molecular-expansion.json",
+    "triage-molecular.json",
+    "triage-natural-expansion.json",
+    "triage-natural.json",
+    "triage-physics-expansion.json",
+    "triage-quantitative.json",
+    "triage-reading-residual.json",
+    "triage-root-source-checks.json",
+    "triage-sample-rechecks.json"
+  ]
+}

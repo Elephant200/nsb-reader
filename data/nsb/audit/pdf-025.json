@@ -30,7 +30,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered source page 2 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "Rendered source page /tmp/audit-b25-02.png shows the keyed answer Y) CO₂. Current answer lost the subscript and rendered it as “CO 2”; restored the formula.",
       "before": {
         "question": "Which of the following species does NOT have at least two equally favorable resonance structures?<br>W) C 6 H 6<br>X) NO 2 -<br>Y) CO 2<br>Z) SO 2",
         "options": [
@@ -38,7 +38,8 @@
           "X) NO 2 -",
           "Y) CO 2",
           "Z) SO 2"
-        ]
+        ],
+        "answer": "Y) CO 2"
       },
       "changes": {
         "question": "Which of the following species does NOT have at least two equally favorable resonance structures?<br>W) C<sub>6</sub>H<sub>6</sub><br>X) NO<sub>2</sub><sup>−</sup><br>Y) CO<sub>2</sub><br>Z) SO<sub>2</sub>",
@@ -47,7 +48,9 @@
           "X) NO<sub>2</sub><sup>−</sup>",
           "Y) CO<sub>2</sub>",
           "Z) SO<sub>2</sub>"
-        ]
+        ],
+        "answer": "Y) CO<sub>2</sub>",
+        "answer_sanitized": "Y) CO₂"
       }
     },
     {
@@ -117,7 +120,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered source page 5 confirms the notation restored in the replacement.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Express the following in simplest form, with variables raised only to positive powers: (4𝑥𝑥 5 𝑦𝑦 −3 )−2 [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2] 𝑦𝑦 6",
         "answer": "16𝑥𝑥 10"
@@ -126,7 +129,7 @@
         "question": "Express the following in simplest form, with variables raised only to positive powers: (4x<sup>5</sup>y<sup>-3</sup>)<sup>-2</sup> [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2].",
         "question_sanitized": "Express the following in simplest form, with variables raised only to positive powers: (4x^5 y^(-3))^(-2) [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2].",
         "answer": "<span class=\"nsb-fraction\"><span>y<sup>6</sup></span><span>16x<sup>10</sup></span></span>",
-        "answer_sanitized": "y^6/(16x^10)"
+        "answer_sanitized": "(y⁶)/(16x¹⁰)"
       }
     },
     {

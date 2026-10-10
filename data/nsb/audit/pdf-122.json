@@ -455,7 +455,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "PDF p.10 visually prints 27^(6 − x) = 9^(x − 1); corpus lost both superscript boundaries.",
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What value of x satisfies the equation 276-x = 9x-1 [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
@@ -466,7 +466,7 @@
           "What value of x satisfies the equation 27<sup>6 - x</sup> = 9<sup>x - 1</sup> [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
         ],
         "parts_sanitized": [
-          "What value of x satisfies the equation 27^(6 - x) = 9^(x - 1) [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
+          "What value of x satisfies the equation 27^(6 - x) = 9^(x - 1) [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
         ]
       }
     },

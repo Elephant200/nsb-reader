@@ -362,7 +362,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
+      "evidence": "Rendered original source page 5 at /tmp/chem-008p05.png; corrected notation/spacing in the full replacement field(s) to match the printed formula and its layout.",
       "before": {
         "parts": [
           "Consider the following equilibrium reaction, ↔ PCl PCl + Cl . If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> 5(gas) 3(gas) 2(gas) st at equilibrium, find the molar amounts, to the 1 decimal place, of PCl<sub>5</sub> at equilibrium:"
@@ -370,10 +370,10 @@
       },
       "changes": {
         "parts": [
-          "Consider the following equilibrium reaction, PCl<sub>5(gas)</sub> ↔ PCl<sub>3(gas)</sub> + Cl<sub>2(gas)</sub>. If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
+          "Consider the following equilibrium reaction, PCl<sub>5</sub>(gas) ↔ PCl<sub>3</sub>(gas) + Cl<sub>2</sub>(gas). If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
         ],
         "parts_sanitized": [
-          "Consider the following equilibrium reaction, PCl_(5(gas)) ↔ PCl_(3(gas)) + Cl_(2(gas)). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
+          "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
         ]
       }
     },
@@ -445,7 +445,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 shows O₂¹⁻, O₂²⁻, SO₂, CO; the odd-electron answer is O₂¹⁻. Corpus charges were displaced in the prompt and answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Name all of the following 4 species that contain an odd number 21– 22– of electrons: O ; O ; SO<sub>2</sub> ; CO 21–"
@@ -462,10 +462,10 @@
           "O<sub>2</sub><sup>1−</sup>"
         ],
         "parts_sanitized": [
-          "Name all of the following 4 species that contain an odd number of electrons: O_2^(1−); O_2^(2−); SO_2; CO"
+          "Name all of the following 4 species that contain an odd number of electrons: O₂¹⁻; O₂²⁻; SO₂; CO"
         ],
         "answers_sanitized": [
-          "O_2^(1−)"
+          "O₂¹⁻"
         ]
       }
     },

@@ -245,11 +245,18 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Visually compared source p.12: MATH Short Answer Find the magnitude of the vector 5i – 12j.; ANSWER: 13"
+      "evidence": "Page 12 asks for the magnitude of vector 5i−12j, but the current prompt drops the vector entirely. Restore it; source render: /tmp/nsb-math-expand-098-12.png.",
+      "before": {
+        "question": "Find the magnitude of the vector"
+      },
+      "changes": {
+        "question": "Find the magnitude of the vector 5i − 12j.",
+        "question_sanitized": "Find the magnitude of the vector 5i − 12j."
+      }
     },
     {
       "kind": "tossups",

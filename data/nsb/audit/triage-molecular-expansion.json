@@ -1,0 +1,1036 @@
+{
+  "entries": [
+    {
+      "p": 0,
+      "k": "tossups",
+      "i": 1,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 000, page 1. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 0,
+      "k": "tossups",
+      "i": 22,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 000, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 0,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 000, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 2,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 002, page 12 shows the superscript +2 attached to N (N⁺²). The corpus prompt drops the charge; restored as N<sup>+2</sup>, preserving the source’s printed charge order. Source image: /tmp/nsb-exp-2-12-12.png.",
+      "changes": {
+        "parts": [
+          "The Lewis dot structure for the N<sup>+2</sup> ion would show how many dots?"
+        ]
+      }
+    },
+    {
+      "p": 4,
+      "k": "tossups",
+      "i": 21,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 004, page 11. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 4,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 004, page 1. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 5,
+      "k": "bonuses",
+      "i": 15,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 005, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 7,
+      "k": "bonuses",
+      "i": 14,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 007, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 10,
+      "k": "bonuses",
+      "i": 14,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 010, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 11,
+      "k": "tossups",
+      "i": 22,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 011, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 11,
+      "k": "bonuses",
+      "i": 1,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 011, page 1. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 14,
+      "k": "tossups",
+      "i": 8,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 014, page 5. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 16,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Chemistry",
+      "year": 2009,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 016, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 19,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 019, page 6. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 20,
+      "k": "tossups",
+      "i": 11,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 020, page 6. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 21,
+      "k": "bonuses",
+      "i": 18,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 021, page 10. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 23,
+      "k": "bonuses",
+      "i": 23,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 023, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 24,
+      "k": "tossups",
+      "i": 14,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 024, page 8 prints the answer as W) MnO₄²⁻; the corpus answer loses the subscript and charge formatting as “MnO 4 2-”. Restored in rich notation. Source image: /tmp/nsb-exp-24-8-08.png.",
+      "changes": {
+        "answer": "W) MnO<sub>4</sub><sup>2−</sup>"
+      }
+    },
+    {
+      "p": 24,
+      "k": "tossups",
+      "i": 24,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 024, page 13. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 24,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 024, page 6. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 25,
+      "k": "bonuses",
+      "i": 14,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 025, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 26,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 026, page 4 prints pK with a subscript a; the corpus has “pK a” separated in the prompt. Restored pK<sub>a</sub> and retained all four choices. Source image: /tmp/nsb-exp-26-4-04.png.",
+      "changes": {
+        "parts": [
+          "The Henderson-Hasselbalch equation can provide the percent dissociation of a weak acid. When the pH is equal to pK<sub>a</sub>, the weak acid is which of the following?<br>W) 99% dissociated<br>X) 75% dissociated<br>Y) 50% dissociated<br>Z) 25% dissociated"
+        ]
+      }
+    },
+    {
+      "p": 27,
+      "k": "tossups",
+      "i": 6,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 027, page 4. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 27,
+      "k": "tossups",
+      "i": 12,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 027, page 7. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 28,
+      "k": "bonuses",
+      "i": 21,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 028, page 11. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 29,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 029, page 4. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 30,
+      "k": "tossups",
+      "i": 12,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 030, page 7. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 30,
+      "k": "bonuses",
+      "i": 23,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 030, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 32,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 032, page 5. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 38,
+      "k": "tossups",
+      "i": 15,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 038, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 40,
+      "k": "tossups",
+      "i": 24,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 040, page 13. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 40,
+      "k": "bonuses",
+      "i": 1,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 040, page 1. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 41,
+      "k": "bonuses",
+      "i": 1,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 041, page 1. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 42,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 042, page 1. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 44,
+      "k": "bonuses",
+      "i": 15,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 044, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 48,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Chemistry",
+      "year": 2007,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 048, page 4. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 50,
+      "k": "tossups",
+      "i": 14,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 050, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 50,
+      "k": "tossups",
+      "i": 19,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 050, page 10. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 50,
+      "k": "bonuses",
+      "i": 19,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 050, page 10. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 51,
+      "k": "tossups",
+      "i": 8,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 051, page 5. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 51,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 051, page 5. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 51,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 051, page 9. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 52,
+      "k": "bonuses",
+      "i": 11,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 052, page 6. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 53,
+      "k": "tossups",
+      "i": 23,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 053, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 55,
+      "k": "tossups",
+      "i": 9,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 055, page 5. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 55,
+      "k": "tossups",
+      "i": 19,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 055, page 10. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 55,
+      "k": "bonuses",
+      "i": 19,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 055, page 10. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 57,
+      "k": "tossups",
+      "i": 24,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 057, page 13. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 58,
+      "k": "tossups",
+      "i": 6,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 058, page 4. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 63,
+      "k": "tossups",
+      "i": 19,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 063, page 10. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 67,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 067, page 1. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 68,
+      "k": "tossups",
+      "i": 13,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 068, page 7. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 68,
+      "k": "bonuses",
+      "i": 15,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 068, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 70,
+      "k": "tossups",
+      "i": 24,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 070, page 13. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 71,
+      "k": "tossups",
+      "i": 14,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 071, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 75,
+      "k": "tossups",
+      "i": 20,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 075, page 11. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 75,
+      "k": "tossups",
+      "i": 24,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 075, page 13. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 75,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 075, page 9. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 75,
+      "k": "bonuses",
+      "i": 20,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 075, page 11. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 78,
+      "k": "tossups",
+      "i": 16,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 078, page 9. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 78,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 078, page 9. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 78,
+      "k": "bonuses",
+      "i": 24,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 078, page 13. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 79,
+      "k": "tossups",
+      "i": 14,
+      "category": "Chemistry",
+      "year": 2011,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 079, page 8. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 82,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 082, page 3. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 85,
+      "k": "tossups",
+      "i": 6,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 085, page 4. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 86,
+      "k": "tossups",
+      "i": 23,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 086, page 12. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 86,
+      "k": "bonuses",
+      "i": 18,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 086, page 10. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 92,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 092, page 9. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 93,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 093, page 9. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 94,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 094, page 9. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 95,
+      "k": "tossups",
+      "i": 20,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete toss-up prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 095, page 11. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 95,
+      "k": "bonuses",
+      "i": 20,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 095, page 11. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    },
+    {
+      "p": 96,
+      "k": "bonuses",
+      "i": 24,
+      "category": "Chemistry",
+      "year": 2012,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete bonus prompt, answer choices where present, answer key, acceptance text, notes, and any explicit reading text with packet 096, page 13. The rendered source page was checked; extracted text and current payload match for the screened chemistry notation.",
+      "changes": {}
+    }
+  ]
+}

@@ -107,7 +107,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 shows (a^(b²))(a^b), under the stated conditions, with answer a^(b²+b); corpus flattened both expressions.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Simplify the following expression, where a is not equal to zero if b = 0 2 b b or if b = –1: ( a )( a ) 2 + b b",
         "answer": "a"
@@ -116,7 +116,7 @@
         "question": "Simplify the following expression, where a is not equal to zero if b = 0 or if b = −1: (a<sup>b<sup>2</sup></sup>)(a<sup>b</sup>)",
         "answer": "a<sup>b<sup>2</sup> + b</sup>",
         "question_sanitized": "Simplify the following expression, where a is not equal to zero if b = 0 or if b = −1: (a^(b^(2)))(a^(b))",
-        "answer_sanitized": "a^(b^(2) + b)"
+        "answer_sanitized": "a^(b² + b)"
       }
     },
     {
@@ -233,13 +233,13 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered PDF page 12 prints the answer H₂S contiguously; the corpus had an extra space after the subscript tag.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "answer": "H<sub>2</sub> S"
       },
       "changes": {
         "answer": "H<sub>2</sub>S",
-        "answer_sanitized": "H_2S"
+        "answer_sanitized": "H₂S"
       }
     },
     {

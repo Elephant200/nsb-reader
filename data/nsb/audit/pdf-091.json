@@ -134,20 +134,20 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Rendered source page 7 shows 2 raised to t in every option; the choices, embedded options, and answer had flattened exponents.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?<br>W) y = 100 + 2t [y equals 100 plus 2 to the power of t]<br>X) y = 100(2t) [y equals 100 times the quantity 2 to the power of t]<br>Y) y = 2t [y equals 2 to the power of t]<br>Z) y = 200(2t) [y equals 200 times the quantity 2 to the power of t]",
-        "answer": "X) y = 100(2t)",
         "options": [
           "W) y = 100 + 2t [y equals 100 plus 2 to the power of t]",
           "X) y = 100(2t) [y equals 100 times the quantity 2 to the power of t]",
           "Y) y = 2t [y equals 2 to the power of t]",
           "Z) y = 200(2t) [y equals 200 times the quantity 2 to the power of t]"
-        ]
+        ],
+        "answer": "X) y = 100(2t)"
       },
       "changes": {
         "question": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?<br>W) y = 100 + 2<sup>t</sup> [y equals 100 plus 2 to the power of t]<br>X) y = 100(2<sup>t</sup>) [y equals 100 times the quantity 2 to the power of t]<br>Y) y = 2<sup>t</sup> [y equals 2 to the power of t]<br>Z) y = 200(2<sup>t</sup>) [y equals 200 times the quantity 2 to the power of t]",
-        "question_sanitized": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?\nW) y = 100 + 2^t [y equals 100 plus 2 to the power of t]\nX) y = 100(2^t) [y equals 100 times the quantity 2 to the power of t]\nY) y = 2^t [y equals 2 to the power of t]\nZ) y = 200(2^t) [y equals 200 times the quantity 2 to the power of t]",
+        "question_sanitized": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?\nW) y = 100 + 2^(t) [y equals 100 plus 2 to the power of t]\nX) y = 100(2^(t)) [y equals 100 times the quantity 2 to the power of t]\nY) y = 2^(t) [y equals 2 to the power of t]\nZ) y = 200(2^(t)) [y equals 200 times the quantity 2 to the power of t]",
         "options": [
           "W) y = 100 + 2<sup>t</sup> [y equals 100 plus 2 to the power of t]",
           "X) y = 100(2<sup>t</sup>) [y equals 100 times the quantity 2 to the power of t]",
@@ -155,7 +155,7 @@
           "Z) y = 200(2<sup>t</sup>) [y equals 200 times the quantity 2 to the power of t]"
         ],
         "answer": "X) y = 100(2<sup>t</sup>)",
-        "answer_sanitized": "X) y = 100(2^t)"
+        "answer_sanitized": "X) y = 100(2^(t))"
       }
     },
     {

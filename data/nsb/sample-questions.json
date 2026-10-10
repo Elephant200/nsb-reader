@@ -134,7 +134,7 @@
           "options": [],
           "notes": [],
           "question_sanitized": "Simplify the following expression, where a is not equal to zero if b = 0 or if b = −1: (a^(b^(2)))(a^(b))",
-          "answer_sanitized": "a^(b^(2) + b)"
+          "answer_sanitized": "a^(b² + b)"
         },
         {
           "number": 12,
@@ -275,7 +275,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "H_2S"
+          "answer_sanitized": "H₂S"
         },
         {
           "number": 24,
@@ -2918,7 +2918,7 @@
           "options": [],
           "notes": [],
           "answers_sanitized": [
-            "SO_3^(2−) (ACCEPT: SO_3^(−2))"
+            "SO₃²⁻ (ACCEPT: SO₃⁻²)"
           ]
         },
         {
@@ -3140,7 +3140,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Simplify the following without the use of negative exponents: (−24x^3y^5)/(10y^6z^2)",
+          "question_sanitized": "Simplify the following without the use of negative exponents: (−24x³y⁵)/(10y⁶z²)",
           "answer_sanitized": "−(12x^3)/(5yz^2)"
         },
         {
@@ -3187,7 +3187,7 @@
         },
         {
           "number": 8,
-          "question": "Ca(OH)<sub>2</sub> , NaOH, and Ba(OH)<sub>2</sub> , are all:<br>W) weak bases<br>X) completely ionized in water<br>Y) alkali halides<br>Z) standard buffers",
+          "question": "Ca(OH)<sub>2</sub>, NaOH, and Ba(OH)<sub>2</sub>, are all:<br>W) weak bases<br>X) completely ionized in water<br>Y) alkali halides<br>Z) standard buffers",
           "answer": "X) COMPLETELY IONIZED IN WATER",
           "category": "Chemistry",
           "type": "Multiple Choice",
@@ -3197,7 +3197,8 @@
             "Y) alkali halides",
             "Z) standard buffers"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Ca(OH)₂, NaOH, and Ba(OH)₂, are all:\nW) weak bases\nX) completely ionized in water\nY) alkali halides\nZ) standard buffers"
         },
         {
           "number": 9,
@@ -3707,7 +3708,7 @@
           "options": [],
           "notes": [],
           "answers_sanitized": [
-            "NO_2^(−)"
+            "NO₂⁻"
           ]
         },
         {
@@ -4181,17 +4182,18 @@
         },
         {
           "number": 23,
-          "question": "Which of the following is NOT true:<br>W) hydrogen gas found in nature exists as a monatomic molecule<br>X) when 2 oxygen atoms combine to form O<sub>2</sub> , energy is released<br>Y) when chlorine gains 1 electron, it becomes larger<br>Z) noble gases tend not to bond because of their stable valence configurations",
+          "question": "Which of the following is NOT true:<br>W) hydrogen gas found in nature exists as a monatomic molecule<br>X) when 2 oxygen atoms combine to form O<sub>2</sub>, energy is released<br>Y) when chlorine gains 1 electron, it becomes larger<br>Z) noble gases tend not to bond because of their stable valence configurations",
           "answer": "W) HYDROGEN GAS FOUND IN NATURE EXISTS AS A MONATOMIC MOLECULE",
           "category": "Chemistry",
           "type": "Multiple Choice",
           "options": [
             "W) hydrogen gas found in nature exists as a monatomic molecule",
-            "X) when 2 oxygen atoms combine to form O<sub>2</sub> , energy is released",
+            "X) when 2 oxygen atoms combine to form O<sub>2</sub>, energy is released",
             "Y) when chlorine gains 1 electron, it becomes larger",
             "Z) noble gases tend not to bond because of their stable valence configurations"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Which of the following is NOT true:\nW) hydrogen gas found in nature exists as a monatomic molecule\nX) when 2 oxygen atoms combine to form O₂, energy is released\nY) when chlorine gains 1 electron, it becomes larger\nZ) noble gases tend not to bond because of their stable valence configurations"
         },
         {
           "number": 24,
@@ -5155,7 +5157,7 @@
           "number": 9,
           "leadin": "",
           "parts": [
-            "To the nearest whole number, how many grams of Na<sub>2</sub> SO<sub>4</sub> , whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?"
+            "To the nearest whole number, how many grams of Na<sub>2</sub>SO<sub>4</sub>, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?"
           ],
           "answers": [
             "7"
@@ -5168,6 +5170,9 @@
           "options": [],
           "notes": [
             "(Solution: (0.5L)(0.1 mol/L) = 0.05 mol (142 g/mol) = 7.1 g)"
+          ],
+          "parts_sanitized": [
+            "To the nearest whole number, how many grams of Na₂SO₄, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?"
           ]
         },
         {
@@ -5285,10 +5290,10 @@
           "number": 16,
           "leadin": "",
           "parts": [
-            "Which of the following is considered a weak acid:<br>W) HCO<sub>2</sub> H<br>X) HClO<sub>4</sub><br>Y) HNO<sub>3</sub><br>Z) HBr"
+            "Which of the following is considered a weak acid:<br>W) HCO<sub>2</sub>H<br>X) HClO<sub>4</sub><br>Y) HNO<sub>3</sub><br>Z) HBr"
           ],
           "answers": [
-            "W) HCO<sub>2</sub> H"
+            "W) HCO<sub>2</sub>H"
           ],
           "category": "Chemistry",
           "values": [
@@ -5296,12 +5301,18 @@
           ],
           "type": "Multiple Choice",
           "options": [
-            "W) HCO<sub>2</sub> H",
+            "W) HCO<sub>2</sub>H",
             "X) HClO<sub>4</sub>",
             "Y) HNO<sub>3</sub>",
             "Z) HBr"
           ],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Which of the following is considered a weak acid:\nW) HCO₂H\nX) HClO₄\nY) HNO₃\nZ) HBr"
+          ],
+          "answers_sanitized": [
+            "W) HCO₂H"
+          ]
         },
         {
           "number": 17,
@@ -6769,7 +6780,7 @@
           "number": 9,
           "leadin": "",
           "parts": [
-            "Consider the following equilibrium reaction, PCl<sub>5(gas)</sub> ↔ PCl<sub>3(gas)</sub> + Cl<sub>2(gas)</sub>. If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
+            "Consider the following equilibrium reaction, PCl<sub>5</sub>(gas) ↔ PCl<sub>3</sub>(gas) + Cl<sub>2</sub>(gas). If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
           ],
           "answers": [
             "1.8"
@@ -6784,7 +6795,7 @@
             "(Solution: 2 – 0.2 = 1.8)"
           ],
           "parts_sanitized": [
-            "Consider the following equilibrium reaction, PCl_(5(gas)) ↔ PCl_(3(gas)) + Cl_(2(gas)). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
+            "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
           ]
         },
         {
@@ -6918,10 +6929,10 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Name all of the following 4 species that contain an odd number of electrons: O_2^(1−); O_2^(2−); SO_2; CO"
+            "Name all of the following 4 species that contain an odd number of electrons: O₂¹⁻; O₂²⁻; SO₂; CO"
           ],
           "answers_sanitized": [
-            "O_2^(1−)"
+            "O₂¹⁻"
           ]
         },
         {
@@ -8380,10 +8391,10 @@
           "number": 8,
           "leadin": "",
           "parts": [
-            "Arrange the following 3 choices in order of increasing bond energies: O<sub>2</sub> ; N<sub>2</sub> ; F<sub>2</sub>"
+            "Arrange the following 3 choices in order of increasing bond energies: O<sub>2</sub>; N<sub>2</sub>; F<sub>2</sub>"
           ],
           "answers": [
-            "F<sub>2</sub> ; O<sub>2</sub> ; N<sub>2</sub>"
+            "F<sub>2</sub>; O<sub>2</sub>; N<sub>2</sub>"
           ],
           "category": "Chemistry",
           "values": [
@@ -8391,7 +8402,13 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Arrange the following 3 choices in order of increasing bond energies: O₂; N₂; F₂"
+          ],
+          "answers_sanitized": [
+            "F₂; O₂; N₂"
+          ]
         },
         {
           "number": 9,
@@ -8658,7 +8675,7 @@
             "A sample of oxygen gas is collected over water at 14ºC. Knowing that the vapor pressure of water at 14ºC is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
           ],
           "answers": [
-            "118.4 dry t wv"
+            "118.4"
           ],
           "category": "Chemistry",
           "values": [
@@ -8667,7 +8684,10 @@
           "type": "Short Answer",
           "options": [],
           "notes": [
-            "(Solution: P = P – P = 120 kPa – 1.6 kPa = 118.4 kPa)"
+            "(Solution: P<sub>dry</sub> = P<sub>t</sub> − P<sub>wv</sub> = 120 kPa − 1.6 kPa = 118.4 kPa)"
+          ],
+          "answers_sanitized": [
+            "118.4"
           ]
         },
         {
@@ -8723,7 +8743,7 @@
             "(Solution: 7 + x<sup>2</sup> – 2 = 21; x = 4 and –4)"
           ],
           "parts_sanitized": [
-            "Solve the following equation for x: 2^7 × 2^((x^(2) − 2)) = 2^21"
+            "Solve the following equation for x: 2⁷ × 2^((x² - 2)) = 2²¹"
           ]
         }
       ],
@@ -9510,7 +9530,7 @@
           "options": [],
           "notes": [],
           "answers_sanitized": [
-            "Na_3PO_4(aqueous) + 3H_2O(liquid) (products in any order)"
+            "Na₃PO₄(aqueous) + 3H₂O(liquid) (products in any order)"
           ]
         },
         {
@@ -9546,7 +9566,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [
-            "(Solution: P<sub>2</sub> = P<sub>1</sub> V<sub>1</sub> /V<sub>2</sub> = (2 atm)(300 cm<sup>3</sup> )/500 cm<sup>3</sup> = 1.2 atm)"
+            "(Solution: P<sub>2</sub> = P<sub>1</sub> V<sub>1</sub> /V<sub>2</sub> = (2 atm)(300 cm<sup>3</sup>)/500 cm<sup>3</sup> = 1.2 atm)"
           ]
         }
       ],
@@ -10389,7 +10409,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO_4(aqueous) → ZnSO_4(aqueous) + Cu(solid)"
+          "question_sanitized": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO₄(aqueous) → ZnSO₄(aqueous) + Cu(solid)"
         },
         {
           "number": 2,
@@ -10471,7 +10491,7 @@
         },
         {
           "number": 8,
-          "question": "According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF<sub>4</sub> :<br>W) linear<br>X) trigonal bipyramidal<br>Y) square planar<br>Z) square pyramidal",
+          "question": "According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF<sub>4</sub>:<br>W) linear<br>X) trigonal bipyramidal<br>Y) square planar<br>Z) square pyramidal",
           "answer": "Y) SQUARE PLANAR",
           "category": "Chemistry",
           "type": "Multiple Choice",
@@ -10481,7 +10501,8 @@
             "Y) square planar",
             "Z) square pyramidal"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF₄:\nW) linear\nX) trigonal bipyramidal\nY) square planar\nZ) square pyramidal"
         },
         {
           "number": 9,
@@ -10844,7 +10865,7 @@
           "number": 8,
           "leadin": "",
           "parts": [
-            "According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF<sub>3</sub> :<br>W) t-shaped<br>X) see-saw<br>Y) linear<br>Z) bent"
+            "According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF<sub>3</sub>:<br>W) t-shaped<br>X) see-saw<br>Y) linear<br>Z) bent"
           ],
           "answers": [
             "W) T-SHAPED"
@@ -10860,7 +10881,10 @@
             "Y) linear",
             "Z) bent"
           ],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF₃:\nW) t-shaped\nX) see-saw\nY) linear\nZ) bent"
+          ]
         },
         {
           "number": 9,
@@ -11585,7 +11609,7 @@
             "(Solution: rate = Δ[NH<sub>3</sub>]/(2Δt) = 0.6 M/(2 × 10 min) = 0.03 mol/L-min)"
           ],
           "parts_sanitized": [
-            "Consider the reaction, N_2(gas) + 3H_2(gas) → 2NH_3(gas). If the concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the second decimal place in moles per liter minute:"
+            "Consider the reaction, N₂(gas) + 3H₂(gas) → 2NH₃(gas). If the concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the second decimal place in moles per liter minute:"
           ]
         },
         {
@@ -14667,7 +14691,7 @@
             "Z) 12"
           ],
           "notes": [],
-          "question_sanitized": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c * a^b - d [c times a to the power of b minus d]? W) 6; X) 8; Y) 9; Z) 12"
+          "question_sanitized": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c · a^(b) − d [c times a to the power of b minus d]?\nW) 6\nX) 8\nY) 9\nZ) 12"
         },
         {
           "number": 13,
@@ -15312,7 +15336,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid? W) NH3; X) H2CO3; Y) BF3; Z) HSO3^-"
+            "Which of the following can behave as a Lewis acid, but NOT as a Bronsted-Lowry acid?\nW) NH₃\nX) H₂CO₃\nY) BF₃\nZ) HSO₃⁻"
           ],
           "answers_sanitized": [
             "Y) BF₃"
@@ -17028,7 +17052,7 @@
             "Z) 128"
           ],
           "notes": [],
-          "question_sanitized": "Which of the following is equivalent to 25^(log_5 8) [25 to the power of the log base 5 of 8]? W) 8; X) 16; Y) 64; Z) 128"
+          "question_sanitized": "Which of the following is equivalent to 25^(log₅8) [25 to the power of the log base 5 of 8]?\nW) 8\nX) 16\nY) 64\nZ) 128"
         },
         {
           "number": 4,
@@ -17279,8 +17303,8 @@
             "Z) X<sup>B</sup>Y [X-big-B-Y]"
           ],
           "notes": [],
-          "question_sanitized": "If the two alleles for color sensitivity are X^b [X-little-B] = color-blind, and X^B [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual? W) X^B X^b [X-big-B-X-little-B]; X) X^B X^B [X-big-B-X-big-B]; Y) X^bY [X-little-B-Y]; Z) X^BY [X-big-B-Y].",
-          "answer_sanitized": "Y) X^bY"
+          "question_sanitized": "If the two alleles for color sensitivity are X^(b) [X-little-B] = color-blind, and X^(B) [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual?\nW) X^(B)X^(b) [X-big-B-X-little-B]\nX) X^(B)X^(B) [X-big-B-X-big-B]\nY) X^(b)Y [X-little-B-Y]\nZ) X^(B)Y [X-big-B-Y]",
+          "answer_sanitized": "Y) X^(b)Y"
         },
         {
           "number": 25,
@@ -17319,7 +17343,7 @@
           "number": 2,
           "leadin": "",
           "parts": [
-            "Giving your answers to the nearest integers, identify the pressure in atmospheres of a gas that starts at 1 atmosphere and 23° Celsius at each of the following three temperatures: 1) 52o, 2) 317o, 3) 2700o."
+            "Giving your answers to the nearest integers, identify the pressure in atmospheres of a gas that starts at 1 atmosphere and 23° Celsius at each of the following three temperatures: 1) 52°, 2) 317°, 3) 2700°."
           ],
           "answers": [
             "1) 1, 2) 2, 3) 10"
@@ -17330,7 +17354,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Giving your answers to the nearest integers, identify the pressure in atmospheres of a gas that starts at 1 atmosphere and 23° Celsius at each of the following three temperatures: 1) 52°, 2) 317°, 3) 2700°."
+          ]
         },
         {
           "number": 3,
@@ -18432,7 +18459,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Providing an exact answer, solve the following equation for x: e^x(8 - e^x) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
+            "Providing an exact answer, solve the following equation for x: e^(x)(8 − e^(x)) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
           ]
         },
         {
@@ -18560,7 +18587,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Solve the following equation for x over the real numbers: log_2(x + 5) - log_2(x - 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
+            "Solve the following equation for x over the real numbers: log₂(x + 5) − log₂(x − 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
           ]
         },
         {
@@ -18912,7 +18939,7 @@
         },
         {
           "number": 24,
-          "question": "Consider the following reaction: 2C<sub>2</sub>H<sub>6(g)</sub> + 7O<sub>2(g)</sub> → 4CO<sub>2(g)</sub> + 6H<sub>2</sub>O<sub>(l)</sub> in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
+          "question": "Consider the following reaction: 2C<sub>2</sub>H<sub>6</sub>(g) + 7O<sub>2</sub>(g) → 4CO<sub>2</sub>(g) + 6H<sub>2</sub>O(l) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
           "answer": "Z) 156 [NOTE: (g) = GAS; (l) = LIQUID]",
           "category": "Chemistry",
           "type": "Multiple Choice",
@@ -18923,7 +18950,7 @@
             "Z) 156"
           ],
           "notes": [],
-          "question_sanitized": "Consider the following reaction: 2C₂H_(6(g)) + 7O_(2(g)) → 4CO_(2(g)) + 6H₂O_((l)) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?\nW) 1560\nX) 624\nY) 312\nZ) 156"
+          "question_sanitized": "Consider the following reaction: 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?\nW) 1560\nX) 624\nY) 312\nZ) 156"
         },
         {
           "number": 25,
@@ -18953,7 +18980,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Find the largest possible real range of the function y = 1 - 2e^(x/2 - 3) [y equals 1 minus 2 times e to the power of the quantity x over 2 minus 3]."
+            "Find the largest possible real range of the function y = 1 − 2e^(x/2 - 3) [y equals 1 minus 2 times e to the power of the quantity x over 2 minus 3]."
           ]
         },
         {
@@ -19203,7 +19230,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "For a recursive sequence a_n defined as follows: a_1 = 7, a_2 = 3, and a_n = a_(n-1) - a_(n-2) for n >= 3, find a_1205 [a sub 1205]. W) -4; X) -3; Y) 3; Z) 4"
+            "For a recursive sequence a_(n) defined as follows: a₁ = 7, a₂ = 3, and a_(n) = a_(n-1) − a_(n-2) for n ≥ 3, find a₁₂₀₅ [a sub 1205].\nW) −4\nX) −3\nY) 3\nZ) 4"
           ]
         },
         {
@@ -19323,7 +19350,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Evaluate lim as x approaches 1 of (-1 + cube_root(x))/(x - 1) [the limit as x approaches 1 of the fraction with numerator negative 1 plus the cube root of x and denominator x minus 1]."
+            "Evaluate lim_(x→1)(−1 + ∛x)/(x − 1) [the limit as x approaches 1 of the fraction with numerator negative 1 plus the cube root of x and denominator x minus 1]."
           ],
           "answers_sanitized": [
             "1/3"
@@ -20074,7 +20101,7 @@
             "Transition metals can have iodine atoms as ligands; however, the iodine atom is quite large in size. Based on this information, what is the point group of titanium (IV) iodide?"
           ],
           "answers": [
-            "T d (ACCEPT: TETRAHEDRAL)"
+            "T<sub>d</sub> (ACCEPT: TETRAHEDRAL)"
           ],
           "category": "Chemistry",
           "values": [
@@ -20082,7 +20109,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "answers_sanitized": [
+            "T_(d) (ACCEPT: TETRAHEDRAL)"
+          ]
         },
         {
           "number": 16,
@@ -20270,7 +20300,7 @@
             "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain-end radical. All except which of the following are strong stabilizers of the radical?<br>W) CN<br>X) C<sub>6</sub>H<sub>5</sub><br>Y) OCH<sub>3</sub><br>Z) CO<sub>2</sub>CH<sub>3</sub>"
           ],
           "answers": [
-            "Y) OCH 3"
+            "Y) OCH<sub>3</sub>"
           ],
           "category": "Chemistry",
           "values": [
@@ -20286,6 +20316,9 @@
           "notes": [],
           "parts_sanitized": [
             "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain-end radical. All except which of the following are strong stabilizers of the radical?\nW) CN\nX) C₆H₅\nY) OCH₃\nZ) CO₂CH₃"
+          ],
+          "answers_sanitized": [
+            "Y) OCH₃"
           ]
         }
       ],
@@ -20332,7 +20365,7 @@
         {
           "number": 3,
           "question": "Which of the following species does NOT have at least two equally favorable resonance structures?<br>W) C<sub>6</sub>H<sub>6</sub><br>X) NO<sub>2</sub><sup>−</sup><br>Y) CO<sub>2</sub><br>Z) SO<sub>2</sub>",
-          "answer": "Y) CO 2",
+          "answer": "Y) CO<sub>2</sub>",
           "category": "Chemistry",
           "type": "Multiple Choice",
           "options": [
@@ -20341,7 +20374,8 @@
             "Y) CO<sub>2</sub>",
             "Z) SO<sub>2</sub>"
           ],
-          "notes": []
+          "notes": [],
+          "answer_sanitized": "Y) CO₂"
         },
         {
           "number": 4,
@@ -20413,7 +20447,7 @@
           "options": [],
           "notes": [],
           "question_sanitized": "Express the following in simplest form, with variables raised only to positive powers: (4x^5 y^(-3))^(-2) [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2].",
-          "answer_sanitized": "y^6/(16x^10)"
+          "answer_sanitized": "(y⁶)/(16x¹⁰)"
         },
         {
           "number": 10,
@@ -21283,7 +21317,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Solve the following expression when x = 4: (x^3/9)^(-1/2) [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power]."
+          "question_sanitized": "Solve the following expression when x = 4: (x³/9)^(-1/2) [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power]."
         },
         {
           "number": 15,
@@ -21453,7 +21487,7 @@
           "number": 2,
           "leadin": "",
           "parts": [
-            "Which of the following protons will appear farthest downfield in the 1H [Proton]-NMR spectrum?<br>W) Alkane<br>X) Alkene<br>Y) Alkyne<br>Z) Aromatic"
+            "Which of the following protons will appear farthest downfield in the <sup>1</sup>H [Proton]-NMR spectrum?<br>W) Alkane<br>X) Alkene<br>Y) Alkyne<br>Z) Aromatic"
           ],
           "answers": [
             "Z) AROMATIC"
@@ -21469,7 +21503,10 @@
             "Y) Alkyne",
             "Z) Aromatic"
           ],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Which of the following protons will appear farthest downfield in the ¹H [Proton]-NMR spectrum?\nW) Alkane\nX) Alkene\nY) Alkyne\nZ) Aromatic"
+          ]
         },
         {
           "number": 3,
@@ -21488,7 +21525,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "A series is defined recursively. If a_1 = -2 and a_n = 3 + (a_(n-1))^(n-1) [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a_4."
+            "A series is defined recursively. If a₁ = −2 and a_(n) = 3 + (a_(n-1))^(n-1) [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a₄."
           ]
         },
         {
@@ -21844,7 +21881,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "If the recursive sequence t_n is defined by t_1 = 3 and t_n = -5 + 3t_(n-1), what is the value of t_6?"
+            "If the recursive sequence t_(n) is defined by t₁ = 3 and t_(n) = −5 + 3t_(n-1), what is the value of t₆?"
           ]
         },
         {
@@ -22040,7 +22077,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Cocaine has a tertiary amine group with a pK_b of 5.6. What is the pK_a of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
+          "question_sanitized": "Cocaine has a tertiary amine group with a pK_(b) of 5.6. What is the pK_(a) of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
         },
         {
           "number": 8,
@@ -22819,7 +22856,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Evaluate the limit as x approaches 0 of (-5 + 5e^x)/x [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."
+          "question_sanitized": "Evaluate lim_(x→0) (−5 + 5e^(x))/(x) [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."
         },
         {
           "number": 5,
@@ -23382,7 +23419,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Match the following reactions: E2, S_N2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
+            "Match the following reactions: E2, S_(N)2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
           ]
         },
         {
@@ -23552,7 +23589,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "For the arithmetic sequence a_n with a_1 = 5 and a_3 = -3, what is a_98?"
+            "For the arithmetic sequence a_(n) with a₁ = 5 and a₃ = −3, what is a₉₈?"
           ]
         },
         {
@@ -23844,7 +23881,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Evaluate the limit as x goes to infinity of x^5/e^x [the limit as x goes to infinity of the fraction x to the fifth over e to the x]."
+          "question_sanitized": "Evaluate lim_(x → ∞) (x⁵)/(e^(x)) [the limit as x goes to infinity of the fraction x to the fifth over e to the x]."
         },
         {
           "number": 21,
@@ -24439,7 +24476,7 @@
       "tossups": [
         {
           "number": 1,
-          "question": "Which of the following protons will have the largest coupling constant in the 1H-NMR spectrum?<br>W) Cis-alkene<br>X) Trans-alkene<br>Y) Ortho-benzene<br>Z) Para-benzene",
+          "question": "Which of the following protons will have the largest coupling constant in the <sup>1</sup>H-NMR spectrum?<br>W) Cis-alkene<br>X) Trans-alkene<br>Y) Ortho-benzene<br>Z) Para-benzene",
           "answer": "X) TRANS-ALKENE",
           "category": "Chemistry",
           "type": "Multiple Choice",
@@ -24449,7 +24486,8 @@
             "Y) Ortho-benzene",
             "Z) Para-benzene"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Which of the following protons will have the largest coupling constant in the ¹H-NMR spectrum?\nW) Cis-alkene\nX) Trans-alkene\nY) Ortho-benzene\nZ) Para-benzene"
         },
         {
           "number": 2,
@@ -24996,7 +25034,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Find dy/dx at the point with coordinates (1, 2) if y is implicitly defined by the equation x^3y + xy^2 = 6."
+            "Find (dy)/(dx) at the point with coordinates (1, 2) if y is implicitly defined by the equation x³y + xy² = 6."
           ]
         },
         {
@@ -28944,7 +28982,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [
-            "(Solution: 8 × 10-6g/2g = 4 × 10-6g = 4 ppm)"
+            "(Solution: 8 × 10<sup>−6</sup>g/2g = 4 × 10<sup>−6</sup>g = 4 ppm)"
           ]
         },
         {
@@ -30177,7 +30215,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "(log 53)/(log 4) (ACCEPT: (log_10 53)/(log_10 4))"
+          "answer_sanitized": "(log 53)/(log 4) (ACCEPT: (log₁₀ 53)/(log₁₀ 4))"
         },
         {
           "number": 5,
@@ -30237,17 +30275,19 @@
         },
         {
           "number": 9,
-          "question": "According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction:<br>W) donates a pair of electrons<br>X) accepts a pair of electrons +<br>Y) produces H ions in aqueous solution –<br>Z) produces OH ions in aqueous solution +",
-          "answer": "Y) PRODUCES H IONS IN AQUEOUS SOLUTION",
+          "question": "According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction:<br>W) donates a pair of electrons<br>X) accepts a pair of electrons<br>Y) produces H<sup>+</sup> ions in aqueous solution<br>Z) produces OH<sup>−</sup> ions in aqueous solution",
+          "answer": "Y) PRODUCES H<sup>+</sup> IONS IN AQUEOUS SOLUTION",
           "category": "Chemistry",
           "type": "Multiple Choice",
           "options": [
             "W) donates a pair of electrons",
-            "X) accepts a pair of electrons +",
-            "Y) produces H ions in aqueous solution –",
-            "Z) produces OH ions in aqueous solution +"
+            "X) accepts a pair of electrons",
+            "Y) produces H<sup>+</sup> ions in aqueous solution",
+            "Z) produces OH<sup>−</sup> ions in aqueous solution"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction:\nW) donates a pair of electrons\nX) accepts a pair of electrons\nY) produces H⁺ ions in aqueous solution\nZ) produces OH⁻ ions in aqueous solution",
+          "answer_sanitized": "Y) PRODUCES H⁺ IONS IN AQUEOUS SOLUTION"
         },
         {
           "number": 10,
@@ -30651,10 +30691,10 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Express the following radical in its simplest radical form: -2 times the square root of 80a^2b^4c^3"
+            "Express the following radical in its simplest radical form: −2√(80a²b⁴c³)"
           ],
           "answers_sanitized": [
-            "-8ab^2c times the square root of (5c)"
+            "−8ab²c√(5c)"
           ]
         },
         {
@@ -31058,18 +31098,19 @@
         },
         {
           "number": 9,
-          "question": "Which of the following is NOT true of halogens:<br>W) iodine is the least reactive of the stable halogens<br>X) elemental halogens exist as diatomic molecules containing single covalent bonds<br>Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>5</sup><br>Z) halides of typical metals are ionic",
-          "answer": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS<sup>2</sup>NP<sup>5</sup>",
+          "question": "Which of the following is NOT true of halogens:<br>W) iodine is the least reactive of the stable halogens<br>X) elemental halogens exist as diatomic molecules containing single covalent bonds<br>Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>6</sup><br>Z) halides of typical metals are ionic",
+          "answer": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS<sup>2</sup>NP<sup>6</sup>",
           "category": "Chemistry",
           "type": "Multiple Choice",
           "options": [
             "W) iodine is the least reactive of the stable halogens",
             "X) elemental halogens exist as diatomic molecules containing single covalent bonds",
-            "Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>5</sup>",
+            "Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>6</sup>",
             "Z) halides of typical metals are ionic"
           ],
           "notes": [],
-          "answer_sanitized": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS^2NP^5"
+          "answer_sanitized": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS²NP⁶",
+          "question_sanitized": "Which of the following is NOT true of halogens:\nW) iodine is the least reactive of the stable halogens\nX) elemental halogens exist as diatomic molecules containing single covalent bonds\nY) their outermost electron configuration is represented by ns²np⁶\nZ) halides of typical metals are ionic"
         },
         {
           "number": 10,
@@ -32046,7 +32087,7 @@
           "notes": [
             "(Solution: 4<sup>4</sup> = 256)"
           ],
-          "question_sanitized": "Solve the following logarithmic equation for x: log_4 x = 4 (read as: log base 4 of x equals 4)"
+          "question_sanitized": "Solve the following logarithmic equation for x: log₄ x = 4 (read as: log base 4 of x equals 4)"
         },
         {
           "number": 19,
@@ -32082,12 +32123,13 @@
         },
         {
           "number": 22,
-          "question": "What is the pH of a 1 × 10–4 molar HCl solution?",
+          "question": "What is the pH of a 1 × 10<sup>−4</sup> molar HCl solution?",
           "answer": "4",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "What is the pH of a 1 × 10⁻⁴ molar HCl solution?"
         },
         {
           "number": 23,
@@ -33716,7 +33758,7 @@
             "Z) <span class=\"nsb-fraction\"><span>3</span><span>2</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>4</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>8</span></span>…"
           ],
           "notes": [],
-          "question_sanitized": "Which of the following is NOT a geometric sequence:; W) 30, 6, 6/5…; X) a^2, a^3b, a^4b^2…; Y) 6, 13, 20…; Z) 3/2, 3/4, 3/8…"
+          "question_sanitized": "Which of the following is NOT a geometric sequence:\nW) 30, 6, (6)/(5)...\nX) a², a³b, a⁴b²...\nY) 6, 13, 20...\nZ) (3)/(2), (3)/(4), (3)/(8)..."
         },
         {
           "number": 19,
@@ -34162,7 +34204,7 @@
             "Find the product of the following, giving your answer without negative exponents: (x^(−2) + y)(x^2 − y^(−2))"
           ],
           "answers_sanitized": [
-            "1 − 1/(x^2y^2) + x^2y − 1/y (Note: the terms can be given in any order)"
+            "1 − (1)/(x²y²) + x²y − (1)/(y) (Note: the terms can be given in any order)"
           ]
         },
         {
@@ -35470,7 +35512,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "The hybridization of one ‘s’ (read as: one <pause> s) orbital and 3 ‘p’ (read as: three <pause> p) orbitals and one ‘d’ (read as: one <pause> d) orbital creates how many sp^3d hybrid orbitals?"
+          "question_sanitized": "The hybridization of one 's' (read as: one <pause> s) orbital and 3 'p' (read as: three <pause> p) orbitals and one 'd' (read as: one <pause> d) orbital creates how many sp³d hybrid orbitals?"
         },
         {
           "number": 24,
@@ -39561,7 +39603,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: (x + 1)^2/16 + (y - 2)^2/9 = 1"
+          "question_sanitized": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: ((x + 1)²)/(16) + ((y − 2)²)/(9) = 1"
         },
         {
           "number": 19,
@@ -39717,10 +39759,10 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Find the following indefinite integral: integral of x times e^x dx (read as: the integral of x times e to the x power, dx)"
+            "Find the following indefinite integral: ∫ x e^(x) dx (read as: the integral of x times e to the x power, dx)"
           ],
           "answers_sanitized": [
-            "x e^x - e^x + C"
+            "x e^(x) − e^(x) + C"
           ]
         },
         {
@@ -40095,7 +40137,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "A sphere of radius 1 meter contains uniformly distributed charge of charge density rho. Assuming rho/epsilon_0 (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
+            "A sphere of radius 1 meter contains uniformly distributed charge of charge density ρ. Assuming ρ/ε₀ (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
           ]
         },
         {
@@ -40199,8 +40241,8 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What is the greatest common factor of the terms in the expression 3x^5y^2 + 6x^3y^5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
-          "answer_sanitized": "3x^3y^2"
+          "question_sanitized": "What is the greatest common factor of the terms in the expression 3x⁵y² + 6x³y⁵ (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
+          "answer_sanitized": "3x³y²"
         },
         {
           "number": 4,
@@ -41883,7 +41925,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What type of growth does y = 36 * 7^x (read as: y equals 36 times 7 to the power of x) represent?"
+          "question_sanitized": "What type of growth does y = 36 × 7^(x) (read as: y equals 36 times 7 to the power of x) represent?"
         },
         {
           "number": 7,
@@ -42746,8 +42788,8 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Simplify the following completely: (3xy^2) (4x^2y^3) (read as: 3xy squared times 4x squared y squared)",
-          "answer_sanitized": "12 x^3y^5"
+          "question_sanitized": "Simplify the following completely: (3xy²) (4x²y³) (read as: 3xy squared times 4x squared y squared)",
+          "answer_sanitized": "12 x³y⁵"
         },
         {
           "number": 9,
@@ -47053,7 +47095,7 @@
             "What is the perimeter of a sector of angle π/3 radians in a circle with circumference 2π^2? Provide your answer in simplest form in terms of π."
           ],
           "answers_sanitized": [
-            "2π + π^2/3 (ACCEPT: (6π + π^2)/3)"
+            "2π + π²/3 (ACCEPT: (6π + π²)/(3))"
           ]
         },
         {
@@ -49362,7 +49404,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "Ca(s) + ½ O_2(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O_2(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
+          "answer_sanitized": "Ca(s) + ½ O₂(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O₂(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
         },
         {
           "number": 10,
@@ -53976,7 +54018,7 @@
             "What is the amount of heat Q produced when an electric current I flows through a resistance R during a time interval t?"
           ],
           "answers_sanitized": [
-            "Q = I^2Rt"
+            "Q = I²Rt"
           ]
         },
         {
@@ -54821,7 +54863,7 @@
             "What is the molecular formula for strontium nitrite?"
           ],
           "answers": [
-            "Sr(NO<sub>2</sub> )<sub>2</sub>"
+            "Sr(NO<sub>2</sub>)<sub>2</sub>"
           ],
           "category": "Chemistry",
           "values": [
@@ -54829,7 +54871,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "answers_sanitized": [
+            "Sr(NO₂)₂"
+          ]
         },
         {
           "number": 25,
@@ -55447,10 +55492,10 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H_2, 2) B_2, 3) ClBr, 4) OF."
+            "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H₂, 2) B₂, 3) ClBr, 4) OF."
           ],
           "answers_sanitized": [
-            "H_2, B_2, ClBr (ACCEPT: 1, 2, AND 3)"
+            "H₂, B₂, ClBr (ACCEPT: 1, 2, AND 3)"
           ]
         },
         {
@@ -56680,12 +56725,13 @@
         },
         {
           "number": 21,
-          "question": "What is the IUPAC name for SnCl<sub>2</sub> ∙ 6H<sub>2</sub> O?",
+          "question": "What is the IUPAC name for SnCl<sub>2</sub> ∙ 6H<sub>2</sub>O?",
           "answer": "TIN (II) CHLORIDE HEXAHYDRATE",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "What is the IUPAC name for SnCl₂ ∙ 6H₂O?"
         },
         {
           "number": 22,
@@ -57025,7 +57071,7 @@
           "number": 17,
           "leadin": "",
           "parts": [
-            "Which of the following elements has the valence electron 2 3 configuration of 3s 3p ?<br>W) Phosphorus<br>X) Oxygen<br>Y) Bromine<br>Z) Nitrogen"
+            "Which of the following elements has the valence electron configuration of 3s<sup>2</sup>3p<sup>3</sup>?<br>W) Phosphorus<br>X) Oxygen<br>Y) Bromine<br>Z) Nitrogen"
           ],
           "answers": [
             "W) PHOSPHORUS"
@@ -57041,7 +57087,10 @@
             "Y) Bromine",
             "Z) Nitrogen"
           ],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Which of the following elements has the valence electron configuration of 3s²3p³?\nW) Phosphorus\nX) Oxygen\nY) Bromine\nZ) Nitrogen"
+          ]
         },
         {
           "number": 18,
@@ -57064,7 +57113,7 @@
           "number": 19,
           "leadin": "",
           "parts": [
-            "Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and = 2 (read l as: L equals 2)?"
+            "Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read l as: L equals 2)?"
           ],
           "answers": [
             "10"
@@ -57075,7 +57124,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read l as: L equals 2)?"
+          ]
         },
         {
           "number": 20,
@@ -57166,7 +57218,7 @@
           "number": 25,
           "leadin": "",
           "parts": [
-            "How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)<sub>2</sub> ?"
+            "How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)<sub>2</sub>?"
           ],
           "answers": [
             "10"
@@ -57177,7 +57229,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)₂?"
+          ]
         }
       ],
       "status": "parsed",
@@ -59309,7 +59364,7 @@
           "number": 12,
           "leadin": "",
           "parts": [
-            "What is the IUPAC name of the compound PbCO<sub>3</sub> ?"
+            "What is the IUPAC name of the compound PbCO<sub>3</sub>?"
           ],
           "answers": [
             "LEAD (II) CARBONATE (DO NOT ACCEPT: PLUMBOUS CARBONATE, LEAD CARBONATE)"
@@ -59320,7 +59375,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "What is the IUPAC name of the compound PbCO₃?"
+          ]
         },
         {
           "number": 13,
@@ -61425,7 +61483,7 @@
             "Z) (g<sub>M</sub>/g<sub>E</sub>)<sup>2</sup>"
           ],
           "notes": [],
-          "question_sanitized": "If g_E and g_M are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g_E/g_M<br>X) 1<br>Y) g_M/g_E^2<br>Z) (g_M/g_E)^2"
+          "question_sanitized": "If g_(E) and g_(M) are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan's oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?\nW) g_(E)/g_(M)\nX) 1\nY) g_(M)/g_(E)²\nZ) (g_(M)/g_(E))²"
         },
         {
           "number": 23,
@@ -62040,8 +62098,8 @@
             "Z) V<sub>B</sub> = 4V<sub>A</sub>"
           ],
           "notes": [],
-          "question_sanitized": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V_A and V_B of A and B at the end of the displacement?<br>W) V_B = V_A/2<br>X) V_B = sqrt(2) V_A<br>Y) V_B = 2V_A<br>Z) V_B = 4V_A",
-          "answer_sanitized": "X) V_B = sqrt(2) V_A"
+          "question_sanitized": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V_(A) and V_(B) of A and B at the end of the displacement?\nW) V_(B) = V_(A)/2\nX) V_(B) = √2 V_(A)\nY) V_(B) = 2V_(A)\nZ) V_(B) = 4V_(A)",
+          "answer_sanitized": "X) V_(B) = √2 V_(A)"
         },
         {
           "number": 10,
@@ -64038,7 +64096,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O2(g) -> 2NO2(g) and given that the rate law of this reaction is k(NO)^2."
+            "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O₂(g) → 2NO₂(g) and given that the rate law of this reaction is k(NO)²."
           ]
         },
         {
@@ -64916,7 +64974,7 @@
           "number": 22,
           "leadin": "",
           "parts": [
-            "A chemist is trying to identify a chemical by determining its molar mass. A sample weighing 0.75 grams was dissolved in 0.10 kilograms of benzene and the freezing point depression was determined to be 0.50° Celsius. Given the K for benzene of f 5° Celsius kilograms per mole, what is the molar mass of the chemical in grams per mole to the nearest whole number?"
+            "A chemist is trying to identify a chemical by determining its molar mass. A sample weighing 0.75 grams was dissolved in 0.10 kilograms of benzene and the freezing point depression was determined to be 0.50° Celsius. Given the K<sub>f</sub> for benzene of 5° Celsius kilograms per mole, what is the molar mass of the chemical in grams per mole to the nearest whole number?"
           ],
           "answers": [
             "75"
@@ -64927,7 +64985,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "A chemist is trying to identify a chemical by determining its molar mass. A sample weighing 0.75 grams was dissolved in 0.10 kilograms of benzene and the freezing point depression was determined to be 0.50° Celsius. Given the K_(f) for benzene of 5° Celsius kilograms per mole, what is the molar mass of the chemical in grams per mole to the nearest whole number?"
+          ]
         },
         {
           "number": 23,
@@ -64950,10 +65011,10 @@
           "number": 24,
           "leadin": "",
           "parts": [
-            "The molar mass of carbon dioxide is 44 grams. Providing your"
+            "The molar mass of carbon dioxide is 44 grams. Providing your answer to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of carbon dioxide gas will be formed at standard temperature and pressure?"
           ],
           "answers": [
-            "to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of carbon dioxide gas will be formed at standard temperature and pressure? 45"
+            "45"
           ],
           "category": "Chemistry",
           "values": [
@@ -64961,7 +65022,13 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "The molar mass of carbon dioxide is 44 grams. Providing your answer to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of carbon dioxide gas will be formed at standard temperature and pressure?"
+          ],
+          "answers_sanitized": [
+            "45"
+          ]
         },
         {
           "number": 25,
@@ -65218,7 +65285,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "sp^3d^2"
+          "answer_sanitized": "sp³d²"
         },
         {
           "number": 21,
@@ -66541,7 +66608,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Which of the following points is on the graph of the inverse of the function f(x) = 10^((x + 2)) [f of x equals 10 to the power of the quantity x plus 2]?\nW) (100, 0)\nX) (0, 100)\nY) (10, 0)\nZ) (0, 10)"
+            "Which of the following points is on the graph of the inverse of the function f(x) = 10^((x + 2)) [f of x equals 10 to the power of the quantity x plus 2]?\nW) (100, 0)\nX) (0, 100)\nY) (10, 0)\nZ) (0, 10)"
           ]
         },
         {
@@ -67644,7 +67711,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "For what values of x is the function f(x) = x^2/(x^2 - 4x + 4) [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
+          "question_sanitized": "For what values of x is the function f(x) = (x²)/(x² − 4x + 4) [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
         },
         {
           "number": 20,
@@ -67680,12 +67747,13 @@
         },
         {
           "number": 23,
-          "question": "At -78º Celsius, dry ice changes directly from a solid to a gas. What is this process called?",
+          "question": "At -78° Celsius, dry ice changes directly from a solid to a gas. What is this process called?",
           "answer": "SUBLIMATION",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "At -78° Celsius, dry ice changes directly from a solid to a gas. What is this process called?"
         },
         {
           "number": 24,
@@ -69889,7 +69957,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What is x equal to in the following expression: log_x 7 = 1 [log base x of 7 equals 1]?"
+          "question_sanitized": "What is x equal to in the following expression: log_(x) 7 = 1 [log base x of 7 equals 1]?"
         },
         {
           "number": 5,
@@ -69916,12 +69984,13 @@
         },
         {
           "number": 7,
-          "question": "Given that g(𝑥) ≤ f (𝑥) ≤ h(𝑥) for all x, the lim𝑥→a 𝑔(𝑥) = M [limit as x approaches a of g of x is M], and the lim𝑥→a ℎ(𝑥) = M [limit as x approaches a of h of x is M], what is the lim𝑥→a 𝑓(𝑥) [limit as x approaches a of f of x]?",
+          "question": "Given that g(x) ≤ f(x) ≤ h(x) for all x, the lim<sub>x→a</sub> g(x) = M [limit as x approaches a of g of x is M], and the lim<sub>x→a</sub> h(x) = M [limit as x approaches a of h of x is M], what is the lim<sub>x→a</sub> f(x) [limit as x approaches a of f of x]?",
           "answer": "M",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Given that g(x) ≤ f(x) ≤ h(x) for all x, the lim_(x→a) g(x) = M [limit as x approaches a of g of x is M], and the lim_(x→a) h(x) = M [limit as x approaches a of h of x is M], what is the lim_(x→a) f(x) [limit as x approaches a of f of x]?"
         },
         {
           "number": 8,
@@ -71511,13 +71580,14 @@
         },
         {
           "number": 5,
-          "question": "If g(u) = [g of u equals the integral from 0 to u of secant squared of t dt], find g’(u) [g prime of u].",
+          "question": "If g(u) = ∫₀ᵘ sec²(t) dt [g of u equals the integral from 0 to u of secant squared of t dt], find g′(u) [g prime of u].",
           "answer": "sec<sup>2</sup>u",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "sec^2 u"
+          "answer_sanitized": "sec^2 u",
+          "question_sanitized": "If g(u) = ∫₀ᵘ sec²(t) dt [g of u equals the integral from 0 to u of secant squared of t dt], find g′(u) [g prime of u]."
         },
         {
           "number": 6,
@@ -71971,7 +72041,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Which of the following functions has an oblique asymptote?\nW) f(x) = (x^5 + 1)/(x^4 + 3x^2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]\nX) f(x) = (x^2 + 1)/(x^3 - x^2 - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]\nY) f(x) = (4x^2 + x + 1)/(x^2) [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]\nZ) f(x) = x^5/(x^2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+            "Which of the following functions has an oblique asymptote?\nW) f(x) = (x⁵ + 1)/(x⁴ + 3x² + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]\nX) f(x) = (x² + 1)/(x³ - x² - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]\nY) f(x) = (4x² + x + 1)/(x²) [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]\nZ) f(x) = (x⁵)/(x² - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
           ],
           "answers_sanitized": [
             "W) f(x) = (x^5 + 1)/(x^4 + 3x^2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]"
@@ -72321,12 +72391,13 @@
         },
         {
           "number": 6,
-          "question": "In the three by three matrix, [such that row one contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, 3, and 7], which is the [x sub 2, 3] element?",
+          "question": "In the three-by-three matrix [[−2, 2, 0], [4, 1, −5], [8, 3, 7]] [such that row one contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, 3, and 7], which is the x₂,₃ [x sub 2, 3] element?",
           "answer": "-5",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "In the three-by-three matrix [[−2, 2, 0], [4, 1, −5], [8, 3, 7]] [such that row one contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, 3, and 7], which is the x₂,₃ [x sub 2, 3] element?"
         },
         {
           "number": 7,
@@ -72497,13 +72568,14 @@
         },
         {
           "number": 20,
-          "question": "In terms of a, b, c, and d, what is the slope of the line 3 x + 2by = cd?",
-          "answer": "-<span class=\"nsb-fraction\"><span>3</span><span>2b</span></span>",
+          "question": "In terms of a, b, c, and d, what is the slope of the line 3ax + 2by = cd?",
+          "answer": "−3a/(2b)",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "-3/(2b)"
+          "answer_sanitized": "−3a/(2b)",
+          "question_sanitized": "In terms of a, b, c, and d, what is the slope of the line 3ax + 2by = cd?"
         },
         {
           "number": 21,
@@ -72554,7 +72626,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = x^2 and g(x) = 2^x have?"
+          "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = x² and g(x) = 2^(x) have?"
         }
       ],
       "bonuses": [
@@ -73027,7 +73099,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Evaluate the following: the integral from 0 to 2 of (1/t) times e^(ln t) dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
+            "Evaluate the following: ∫₀² (1)/(t) · e^(ln t) dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
           ]
         }
       ],
@@ -73220,8 +73292,8 @@
             "Z) y = 200(2<sup>t</sup>) [y equals 200 times the quantity 2 to the power of t]"
           ],
           "notes": [],
-          "question_sanitized": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?\nW) y = 100 + 2^t [y equals 100 plus 2 to the power of t]\nX) y = 100(2^t) [y equals 100 times the quantity 2 to the power of t]\nY) y = 2^t [y equals 2 to the power of t]\nZ) y = 200(2^t) [y equals 200 times the quantity 2 to the power of t]",
-          "answer_sanitized": "X) y = 100(2^t)"
+          "question_sanitized": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?\nW) y = 100 + 2^(t) [y equals 100 plus 2 to the power of t]\nX) y = 100(2^(t)) [y equals 100 times the quantity 2 to the power of t]\nY) y = 2^(t) [y equals 2 to the power of t]\nZ) y = 200(2^(t)) [y equals 200 times the quantity 2 to the power of t]",
+          "answer_sanitized": "X) y = 100(2^(t))"
         },
         {
           "number": 15,
@@ -74361,7 +74433,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "If f(x) = -2x - e^x [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
+            "If f(x) = -2x - e^(x) [f of x equals negative 2x minus e to the x], what is the range of f' [the derivative of f]?"
           ]
         },
         {
@@ -74386,10 +74458,10 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?\nW) Krypton: sp^3; each fluorine: sp^3\nX) Krypton: sp^3d; each fluorine: sp^3\nY) Krypton: sp^3d^2; each fluorine: sp^2\nZ) Krypton: sp^3d; each fluorine: sp^2"
+            "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?\nW) Krypton: sp³; each fluorine: sp³\nX) Krypton: sp³d; each fluorine: sp³\nY) Krypton: sp³d²; each fluorine: sp²\nZ) Krypton: sp³d; each fluorine: sp²"
           ],
           "answers_sanitized": [
-            "X) KRYPTON: sp^3d; EACH FLUORINE: sp^3"
+            "X) KRYPTON: sp³d; EACH FLUORINE: sp³"
           ]
         },
         {
@@ -75555,7 +75627,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "If log_b(5) = c [log base b of 5 equals c], then what does b^(4c) [b to the power of 4 c] equal?"
+          "question_sanitized": "If log_(b)(5) = c [log base b of 5 equals c], then what does b^(4c) [b to the power of 4 c] equal?"
         },
         {
           "number": 6,
@@ -75757,7 +75829,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "How many points of intersection exist for the graphs of y = 2^x [y equals 2 to the power of x] and y = -x^2 + 2?"
+          "question_sanitized": "How many points of intersection exist for the graphs of y = 2^(x) [y equals 2 to the power of x] and y = −x² + 2?"
         },
         {
           "number": 22,
@@ -76366,7 +76438,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What is the limit of x^x as x approaches 0?"
+          "question_sanitized": "What is the limit of x^(x) as x approaches 0?"
         },
         {
           "number": 7,
@@ -76553,7 +76625,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "(2/3) πr^3 (ALSO ACCEPT: 2πr^3/3)"
+          "answer_sanitized": "(2/3) πr³ (ALSO ACCEPT: 2πr³/3)"
         },
         {
           "number": 21,
@@ -76750,7 +76822,7 @@
           "options": [],
           "notes": [],
           "answers_sanitized": [
-            "sp^3d^2"
+            "sp³d²"
           ]
         },
         {
@@ -77735,7 +77807,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9^(2x) = 27^(3x - 4) [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
+            "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9^(2x) = 27^(3x - 4) [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
           ],
           "answers_sanitized": [
             "12/5"
@@ -77966,7 +78038,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s Ka is 2 x 10^-5."
+            "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid's K_(a) is 2 × 10⁻⁵."
           ]
         }
       ],
@@ -78191,7 +78263,7 @@
             "Z) sin2x [sine of 2x]"
           ],
           "notes": [],
-          "question_sanitized": "If f(x) = sin^2x + cos^2x [f of x equals sine squared of x plus cosine squared of x], what is f'(x) [f prime of x]?\nW) 0\nX) 1\nY) 2sinxcosx [2 sine of x cosine of x]\nZ) sin2x [sine of 2x]"
+          "question_sanitized": "If f(x) = sin²x + cos²x [f of x equals sine squared of x plus cosine squared of x], what is f′(x) [f prime of x]?\nW) 0\nX) 1\nY) 2sinxcosx [2 sine of x cosine of x]\nZ) sin2x [sine of 2x]"
         },
         {
           "number": 16,
@@ -78266,7 +78338,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Solve the following equation for x over the real numbers: 27(3^x) = 81 [27 times 3 to the power of x equals 81]."
+          "question_sanitized": "Solve the following equation for x over the real numbers: 27(3^(x)) = 81 [27 times 3 to the power of x equals 81]."
         },
         {
           "number": 22,
@@ -78495,7 +78567,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Which of the following is equivalent to (a^-1 + b^-1)^-1 [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?\nW) ab/(a + b) [the fraction with numerator ab and denominator a plus b]\nX) a + b\nY) a^2b^2\nZ) ab"
+            "Which of the following is equivalent to (a⁻¹ + b⁻¹)⁻¹ [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?\nW) (ab)/(a + b) [the fraction with numerator ab and denominator a plus b]\nX) a + b\nY) a²b²\nZ) ab"
           ],
           "answers_sanitized": [
             "W) ab/(a + b)"
@@ -79110,12 +79182,13 @@
         },
         {
           "number": 23,
-          "question": "Find the magnitude of the vector",
+          "question": "Find the magnitude of the vector 5i − 12j.",
           "answer": "13",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Find the magnitude of the vector 5i − 12j."
         },
         {
           "number": 24,
@@ -80968,7 +81041,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Given (2^x)(3^y)(5^z) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
+            "Given (2^(x))(3^(y))(5^(z)) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
           ]
         },
         {
@@ -81748,7 +81821,7 @@
           "number": 8,
           "leadin": "",
           "parts": [
-            "A balloon is being filled with water. Its volume in gallons is given by the V(r) = r /10 r function 3 [V of r equals r cubed over 10], where is the radius of the balloon in inches. What is the average rate of change in gallons per inch of the volume of the balloon as the radius is increased from 1 to 2 inches?<br>W) 0.3<br>X) 0.7<br>Y) 0.8<br>Z) 1.2"
+            "A balloon is being filled with water. Its volume in gallons is given by the function V(r) = <span class=\"nsb-fraction\"><span>r<sup>3</sup></span><span>10</span></span> [V of r equals r cubed over 10], where r is the radius of the balloon in inches. What is the average rate of change in gallons per inch of the volume of the balloon as the radius is increased from 1 to 2 inches?<br>W) 0.3<br>X) 0.7<br>Y) 0.8<br>Z) 1.2"
           ],
           "answers": [
             "X) 0.7"
@@ -81764,7 +81837,10 @@
             "Y) 0.8",
             "Z) 1.2"
           ],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "A balloon is being filled with water. Its volume in gallons is given by the function V(r) = (r³)/(10) [V of r equals r cubed over 10], where r is the radius of the balloon in inches. What is the average rate of change in gallons per inch of the volume of the balloon as the radius is increased from 1 to 2 inches?\nW) 0.3\nX) 0.7\nY) 0.8\nZ) 1.2"
+          ]
         },
         {
           "number": 9,
@@ -81985,7 +82061,7 @@
           "number": 20,
           "leadin": "",
           "parts": [
-            "A line in parametric mode is given by the equations: x 2 = 2 t and y . What is the slope of this line?"
+            "A line in parametric mode is given by the equations: x = ½t + 2 and y = 2t. What is the slope of this line?"
           ],
           "answers": [
             "4"
@@ -81996,7 +82072,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "A line in parametric mode is given by the equations: x = ½t + 2 and y = 2t. What is the slope of this line?"
+          ]
         },
         {
           "number": 21,
@@ -82420,8 +82499,8 @@
             "Z) R/∆H<sub>vap</sub> [R over delta H of vaporization]"
           ],
           "notes": [],
-          "question_sanitized": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope? W) -ΔH_vap/R [negative delta H of vaporization over R]; X) ΔH_vap/R [delta H of vaporization over R]; Y) -R/ΔH_vap [negative R over delta H of vaporization]; Z) R/ΔH_vap [R over delta H of vaporization].",
-          "answer_sanitized": "W) -ΔH_vap/R"
+          "question_sanitized": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope?\nW) −∆H_(vap)/R [negative delta H of vaporization over R]\nX) ∆H_(vap)/R [delta H of vaporization over R]\nY) −R/∆H_(vap) [negative R over delta H of vaporization]\nZ) R/∆H_(vap) [R over delta H of vaporization]",
+          "answer_sanitized": "W) −∆H_(vap)/R"
         },
         {
           "number": 24,
@@ -86721,7 +86800,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "The series with nth term (-1)^n/n [negative 1 to the nth power, divided by n] is which of the following? W) Divergent and unbounded X) Divergent and bounded from above only Y) Divergent and bounded Z) Convergent and bounded"
+            "The series with nth term (−1)^(n)/n [negative 1 to the nth power, divided by n] is which of the following?\nW) Divergent and unbounded\nX) Divergent and bounded from above only\nY) Divergent and bounded\nZ) Convergent and bounded"
           ]
         },
         {
@@ -87015,7 +87094,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m_l? W) -1 X) 0 Y) 2 Z) 3"
+            "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m_(l)?\nW) -1\nX) 0\nY) 2\nZ) 3"
           ]
         },
         {
@@ -87404,17 +87483,19 @@
         },
         {
           "number": 19,
-          "question": "A reaction is carried out in a constant pressure calorimeter. Appropriate measurements are taken and the energy for the change is calculated. The quantity of heat exchanged under these conditions leads to the calculation of which of the following state functions? ∆q<br>W) [delta Q] ∆E<br>X) ∆H<br>Y) ∆T<br>Z) ∆H",
-          "answer": "Y) ∆T",
+          "question": "A reaction is carried out in a constant pressure calorimeter. Appropriate measurements are taken and the energy for the change is calculated. The quantity of heat exchanged under these conditions leads to the calculation of which of the following state functions?<br>W) ∆q [delta Q]<br>X) ∆E<br>Y) ∆H<br>Z) ∆T",
+          "answer": "Y) ∆H",
           "category": "Chemistry",
           "type": "Multiple Choice",
           "options": [
-            "W) [delta Q] ∆E",
-            "X) ∆H",
-            "Y) ∆T",
-            "Z) ∆H"
+            "W) ∆q [delta Q]",
+            "X) ∆E",
+            "Y) ∆H",
+            "Z) ∆T"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "A reaction is carried out in a constant pressure calorimeter. Appropriate measurements are taken and the energy for the change is calculated. The quantity of heat exchanged under these conditions leads to the calculation of which of the following state functions?\nW) ∆q [delta Q]\nX) ∆E\nY) ∆H\nZ) ∆T",
+          "answer_sanitized": "Y) ∆H"
         },
         {
           "number": 20,
@@ -87722,7 +87803,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 x 10^-12 coulombs squared over newtons meter squared as epsilon_0 [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
+            "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 × 10⁻¹² coulombs squared over newtons meter squared as ε₀ [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
           ],
           "answers_sanitized": [
             "9 x 10^-13"
@@ -87922,7 +88003,7 @@
           "number": 23,
           "leadin": "",
           "parts": [
-            "Let a be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator?"
+            "Let a = 0.845454545… be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator?"
           ],
           "answers": [
             "17"
@@ -87933,7 +88014,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Let a = 0.845454545... be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator?"
+          ]
         },
         {
           "number": 24,
@@ -88140,7 +88224,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Given g(x) = (1 - cos(x))/(x^2) [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim_(x->0) g(x) [the limit as x approaches 0 of g of x]."
+          "question_sanitized": "Given g(x) = (1 − cos(x))/(x²) [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim_(x→0) g(x) [the limit as x approaches 0 of g of x]."
         },
         {
           "number": 14,
@@ -88220,7 +88304,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Given f(x) = ln(sqrt(e^x)) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
+          "question_sanitized": "Given f(x) = ln(√(e^(x))) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
         },
         {
           "number": 20,
@@ -88296,7 +88380,7 @@
             "Z) A"
           ],
           "notes": [],
-          "question_sanitized": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I^P [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby? W) O X) AP Y) P Z) A"
+          "question_sanitized": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien's blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I^(P) [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent's blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby?\nW) O\nX) AP\nY) P\nZ) A"
         }
       ],
       "bonuses": [
@@ -88439,7 +88523,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Assuming y^2 + 3x^2y = 7x^2 - 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
+            "Assuming y² + 3x²y = 7x² − 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
           ]
         },
         {
@@ -88999,7 +89083,7 @@
             "Z) 1i + 1j"
           ],
           "notes": [],
-          "question_sanitized": "A body with a 2 kilogram mass has position vector r = 3i + 2t^2j meters. What is the velocity at t = 1 second? W) 1j X) 4j Y) 3i + 4j Z) 1i + 1j"
+          "question_sanitized": "A body with a 2 kilogram mass has position vector r = 3i + 2t²j meters. What is the velocity at t = 1 second?\nW) 1j\nX) 4j\nY) 3i + 4j\nZ) 1i + 1j"
         },
         {
           "number": 13,
@@ -89411,7 +89495,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Two objects with masses m_1 and m_2 are hanging vertically by different springs of spring constants k_1 and k_2. If m_1 = 3m_2 and k_1 = 2k_2, what is the ratio x_1/x_2 of their stretches? W) 2/3 X) 3/2 Y) 4 Z) 6"
+            "Two objects with masses m₁ and m₂ are hanging vertically by different springs of spring constants k₁ and k₂. If m₁ = 3m₂ and k₁ = 2k₂, what is the ratio x₁/x₂ of their stretches?\nW) 2/3\nX) 3/2\nY) 4\nZ) 6"
           ]
         },
         {
@@ -89924,8 +90008,8 @@
             "Z) S<sub>N</sub>2"
           ],
           "notes": [],
-          "question_sanitized": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture? W) E1 X) E2 Y) S_N1 Z) S_N2",
-          "answer_sanitized": "Y) S_N1"
+          "question_sanitized": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture?\nW) E1\nX) E2\nY) S_(N)1\nZ) S_(N)2",
+          "answer_sanitized": "Y) S_(N)1"
         },
         {
           "number": 20,
@@ -90052,7 +90136,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Given the two sequences s_1 with nth term 2/(n + 6) and s_2 with nth term n/(5 + n), which of the following statements is correct? W) s_1 and s_2 are both increasing X) s_1 is increasing and s_2 is decreasing Y) s_1 is decreasing and s_2 is increasing Z) s_1 and s_2 are both decreasing"
+            "Given the two sequences s₁ with nth term (2)/(n + 6) and s₂ with nth term (n)/(5 + n), which of the following statements is correct?\nW) s₁ and s₂ are both increasing\nX) s₁ is increasing and s₂ is decreasing\nY) s₁ is decreasing and s₂ is increasing\nZ) s₁ and s₂ are both decreasing"
           ],
           "answers_sanitized": [
             "Y) s₁ IS DECREASING AND s₂ IS INCREASING"
@@ -90175,7 +90259,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Which of the following is a solution for x of the equation 2^(x-2) = pi^x [2 to the quantity x minus 2 equals pi to the x]? W) (log(4))/(log(2) - log(pi)) [the fraction with numerator log of 4 and denominator log of 2 minus log of pi] X) (log(4))/(log(pi) - log(2)) [the fraction with numerator log of 4 and denominator log of pi minus log of 2] Y) (log(pi) - log(2))/(log(4)) [the fraction with numerator log of pi minus log of 2 and denominator log of 4] Z) (log(2) - log(pi))/(log(4)) [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
+            "Which of the following is a solution for x of the equation 2^(x-2) = π^(x) [2 to the quantity x minus 2 equals pi to the x]?\nW) (log(4))/(log(2) − log(π)) [the fraction with numerator log of 4 and denominator log of 2 minus log of pi]\nX) (log(4))/(log(π) − log(2)) [the fraction with numerator log of 4 and denominator log of pi minus log of 2]\nY) (log(π) − log(2))/(log(4)) [the fraction with numerator log of pi minus log of 2 and denominator log of 4]\nZ) (log(2) − log(π))/(log(4)) [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
           ],
           "answers_sanitized": [
             "W) (log(4))/(log(2) - log(pi))"
@@ -91090,7 +91174,7 @@
           "number": 12,
           "leadin": "",
           "parts": [
-            "Place the following four solvents in order of fastest to slowest reaction rate for S 2: 1) water, 2) DMSO, 3) methanol, 4) acetonitrile [as-i-toh-NY-tril]. N"
+            "Place the following four solvents in order of fastest to slowest reaction rate for S<sub>N</sub>2: 1) water, 2) DMSO, 3) methanol, 4) acetonitrile [as-i-toh-NY-tril]."
           ],
           "answers": [
             "4, 2, 1, 3 (ACCEPT: ACETONITRILE, DMSO, WATER, METHANOL)"
@@ -91101,7 +91185,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Place the following four solvents in order of fastest to slowest reaction rate for S_(N)2: 1) water, 2) DMSO, 3) methanol, 4) acetonitrile [as-i-toh-NY-tril]."
+          ]
         },
         {
           "number": 13,
@@ -91497,13 +91584,14 @@
         },
         {
           "number": 10,
-          "question": "Evaluate tan(sin-1(-1/2)) [tangent of the inverse sine of negative one half]. −√3",
+          "question": "Evaluate tan(sin<sup>−1</sup>(−1/2)) [tangent of the inverse sine of negative one half].",
           "answer": "−<span class=\"nsb-fraction\"><span>√3</span><span>3</span></span> (DO NOT ACCEPT: −1/√3)",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "negative square root of three over three (DO NOT ACCEPT: negative one over square root of three)"
+          "answer_sanitized": "negative square root of three over three (DO NOT ACCEPT: negative one over square root of three)",
+          "question_sanitized": "Evaluate tan(sin⁻¹(−1/2)) [tangent of the inverse sine of negative one half]."
         },
         {
           "number": 11,
@@ -94354,7 +94442,7 @@
           "number": 20,
           "leadin": "",
           "parts": [
-            "Molecule A, with oxidation number +1 [ plus one], and Molecule B, with oxidation number -2 [minus two], undergo a metathesis [muh-THAT-uh-sis] reaction. After the reaction, what are their oxidation numbers?"
+            "Molecule A, with oxidation number +1 [plus one], and Molecule B, with oxidation number -2 [minus two], undergo a metathesis [muh-THAT-uh-sis] reaction. After the reaction, what are their oxidation numbers?"
           ],
           "answers": [
             "MOLECULE A: +1; MOLECULE B: -2"
@@ -94365,7 +94453,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Molecule A, with oxidation number +1 [plus one], and Molecule B, with oxidation number -2 [minus two], undergo a metathesis [muh-THAT-uh-sis] reaction. After the reaction, what are their oxidation numbers?"
+          ]
         },
         {
           "number": 21,
@@ -94477,7 +94568,7 @@
             "Z) Gallons per mile per hour"
           ],
           "notes": [],
-          "question_sanitized": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫_a^b C(s) ds [the integral from A to B of C of S d S]?; W) Gallons; X) Gallons per hour; Y) Miles per hour per gallon; Z) Gallons per mile per hour"
+          "question_sanitized": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫_(a)^(b) C(s) ds [the integral from A to B of C of S d S]?\nW) Gallons\nX) Gallons per hour\nY) Miles per hour per gallon\nZ) Gallons per mile per hour"
         },
         {
           "number": 4,
@@ -95386,8 +95477,8 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Differentiate f(x) = e^(cos x) [f of x equals e to the power of cosine of x] with respect to x.",
-          "answer_sanitized": "-sin(x)e^(cos x)"
+          "question_sanitized": "Differentiate f(x) = e^(cos x) [f of x equals e to the power of cosine of x] with respect to x.",
+          "answer_sanitized": "−sin(x)e^(cos x)"
         },
         {
           "number": 18,
@@ -96253,7 +96344,7 @@
           "number": 2,
           "leadin": "",
           "parts": [
-            "If the principal quantum number of an electron within an atom is 4, which of the following is an allowed value of the orbital angular momentum quantum l number ?<br>W) -2<br>X) 0<br>Y) ½<br>Z) 4"
+            "If the principal quantum number of an electron within an atom is 4, which of the following is an allowed value of the orbital angular momentum quantum number l?<br>W) -2<br>X) 0<br>Y) ½<br>Z) 4"
           ],
           "answers": [
             "X) 0"
@@ -96269,7 +96360,10 @@
             "Y) ½",
             "Z) 4"
           ],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "If the principal quantum number of an electron within an atom is 4, which of the following is an allowed value of the orbital angular momentum quantum number l?\nW) -2\nX) 0\nY) ½\nZ) 4"
+          ]
         },
         {
           "number": 3,
@@ -96827,7 +96921,7 @@
         },
         {
           "number": 13,
-          "question": "Which of the following would be the most appropriate S 2 N [S- N- two] leaving group?<br>W) Hydroxyl<br>X) O-Trifluoromethanesulfonate [try-FLOOR-oh-METH-ayn-SUHL-fuh-nayt]<br>Y) O-Ethyl<br>Z) O-Acyl",
+          "question": "Which of the following would be the most appropriate S<sub>N</sub>2 [S- N- two] leaving group?<br>W) Hydroxyl<br>X) O-Trifluoromethanesulfonate [try-FLOOR-oh-METH-ayn-SUHL-fuh-nayt]<br>Y) O-Ethyl<br>Z) O-Acyl",
           "answer": "X) O-TRIFLUOROMETHANESULFONATE",
           "category": "Chemistry",
           "type": "Multiple Choice",
@@ -96837,7 +96931,8 @@
             "Y) O-Ethyl",
             "Z) O-Acyl"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Which of the following would be the most appropriate S_(N)2 [S- N- two] leaving group?\nW) Hydroxyl\nX) O-Trifluoromethanesulfonate [try-FLOOR-oh-METH-ayn-SUHL-fuh-nayt]\nY) O-Ethyl\nZ) O-Acyl"
         },
         {
           "number": 14,
@@ -97309,7 +97404,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Simplify: log_b((b^a)^b)/log_a((a^b)^a) [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
+            "Simplify: (log_(b)((b^(a))^(b)))/(log_(a)((a^(b))^(a))) [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
           ]
         },
         {
@@ -97552,7 +97647,7 @@
             "Z) -½, ½"
           ],
           "notes": [],
-          "question_sanitized": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m_l) [M-L], respectively? W) 1, infinity X) 0, 2 Y) -3, 3 Z) -½, ½"
+          "question_sanitized": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m_(l)) [M-L], respectively?\nW) 1, infinity\nX) 0, 2\nY) -3, 3\nZ) -½, ½"
         },
         {
           "number": 9,
@@ -98871,7 +98966,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "What value of x satisfies the equation 27^(6 - x) = 9^(x - 1) [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
+            "What value of x satisfies the equation 27^(6 - x) = 9^(x - 1) [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
           ]
         },
         {
@@ -101461,7 +101556,7 @@
             "Z) There is no number a such that log(−a) [log of negative a] exists."
           ],
           "notes": [],
-          "question_sanitized": "Which of the following statements is TRUE? W) -7 is not a prime number X) e^(i pi) = -e^(-i pi) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi] Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other Z) There is no number a such that log(-a) [log of negative a] exists.",
+          "question_sanitized": "Which of the following statements is TRUE?\nW) −7 is not a prime number\nX) e^(iπ) = −e^(-iπ) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]\nY) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other\nZ) There is no number a such that log(−a) [log of negative a] exists.",
           "answer_sanitized": "W) -7 IS NOT A PRIME NUMBER"
         },
         {
@@ -101892,7 +101987,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "An alpha-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10^5 kilovolts. Find the ratio (K_alpha/K_p) [k alpha over k proton] of their final kinetic energies? W) 1/4 X) 1/2 Y) 2 Z) 4"
+            "An α-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10⁵ kilovolts. Find the ratio (K_(α)/K_(p)) [k alpha over k proton] of their final kinetic energies.\nW) 1/4\nX) 1/2\nY) 2\nZ) 4"
           ]
         },
         {
@@ -102906,7 +103001,7 @@
             "Z) <span class=\"nsb-fraction\"><span>x</span><span>z</span></span> &lt; 1 [x divided by z is less than one]"
           ],
           "notes": [],
-          "question_sanitized": "For the expression 5^x = 4^z [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true? W) x^z = log(5/4) [x to the power of z equals log of five-fourths] X) z/4 = log_5(x) [z divided by four equals log base five of x] Y) z < x Z) x/z < 1 [x divided by z is less than one]",
+          "question_sanitized": "For the expression 5^(x) = 4^(z) [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true?\nW) x^(z) = log (5)/(4) [x to the power of z equals log of five-fourths]\nX) (z)/(4) = log₅(x) [z divided by four equals log base five of x]\nY) z < x\nZ) (x)/(z) < 1 [x divided by z is less than one]",
           "answer_sanitized": "Z) x/z < 1"
         },
         {
@@ -103499,7 +103594,7 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "The tangent line to the graph y = e^(2 - x) [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes? W) 2e X) e^2 - 1 [e squared minus one] Y) e^2 [e squared] Z) 4e [four e]"
+            "The tangent line to the graph y = e^(2 - x) [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes?\nW) 2e\nX) e² − 1 [e squared minus one]\nY) e² [e squared]\nZ) 4e [four e]"
           ]
         },
         {
@@ -104468,7 +104563,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S_N1; 2) S_N2; 3) E1; 4) E2",
+          "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev's rule: 1) S_(N1); 2) S_(N2); 3) E₁; 4) E₂",
           "answer_sanitized": "3 and 4 (ACCEPT: E₁ and E₂)"
         },
         {
@@ -104909,7 +105004,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "You are given that xy = 6 and x^2y + xy^2 + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: x^2 + y^2 [x squared plus y squared]."
+            "You are given that xy = 6 and x²y + xy² + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: x² + y² [x squared plus y squared]."
           ]
         },
         {
@@ -107097,7 +107192,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Let f(x) = x^2 + e^x and g(x) = 1/x^2. Determine g prime of f prime of zero."
+            "Let f(x) = x² + e^(x) and g(x) = 1/x². Determine g prime of f prime of zero."
           ]
         },
         {
@@ -107194,7 +107289,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Evaluate the following expression: -i^25."
+          "question_sanitized": "Evaluate the following expression: −i²⁵."
         },
         {
           "number": 3,
@@ -107563,7 +107658,7 @@
             "What is the VSEPR [vesper]-predicted hybridization of the xenon atom in xenon hexafluoride?"
           ],
           "answers_sanitized": [
-            "sp^3d^3"
+            "sp³d³"
           ]
         },
         {
@@ -111096,7 +111191,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Evaluate the limit, as n approaches infinity, of the sequence whose nth term is n^2/3^n."
+          "question_sanitized": "Evaluate the limit, as n approaches infinity, of the sequence whose nth term is (n²)/(3^(n))."
         }
       ],
       "bonuses": [
@@ -111570,13 +111665,14 @@
       "tossups": [
         {
           "number": 1,
-          "question": "What is the hybridization of the central iodine atom in iodine pentafluoride? 3 2",
+          "question": "What is the hybridization of the central iodine atom in iodine pentafluoride?",
           "answer": "sp<sup>3</sup>d<sup>2</sup> [s-p-3-d-2]",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "answer_sanitized": "sp^3d^2 [s-p-3-d-2]"
+          "answer_sanitized": "sp³d² [s-p-3-d-2]",
+          "question_sanitized": "What is the hybridization of the central iodine atom in iodine pentafluoride?"
         },
         {
           "number": 2,
@@ -115395,7 +115491,7 @@
         {
           "number": 19,
           "question": "If molten sodium is burned in a pure oxygen atmosphere, a salt is formed. Which of the following is the likely identity of this salt?<br>W) Na<sub>2</sub>O<br>X) Na<sub>2</sub>O<sub>2</sub><br>Y) NaO<sub>2</sub><br>Z) NaO<sub>3</sub>",
-          "answer": "X) Na<sub>2</sub> O<sub>2</sub>",
+          "answer": "X) Na<sub>2</sub>O<sub>2</sub>",
           "category": "Chemistry",
           "type": "Multiple Choice",
           "options": [
@@ -115404,7 +115500,8 @@
             "Y) NaO<sub>2</sub>",
             "Z) NaO<sub>3</sub>"
           ],
-          "notes": []
+          "notes": [],
+          "answer_sanitized": "X) Na₂O₂"
         },
         {
           "number": 20,
@@ -115829,7 +115926,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "What is the limit as x approaches 0 of the fraction with numerator 2^x − 1 and denominator e^x − 1?"
+            "What is the limit as x approaches 0 of the fraction with numerator 2^(x) − 1 and denominator e^(x) − 1?"
           ]
         },
         {
@@ -116772,7 +116869,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "For what integer value of k is 2015 cubed closest to 10^k?"
+          "question_sanitized": "For what integer value of k is 2015 cubed closest to 10^(k)?"
         },
         {
           "number": 13,
@@ -118187,7 +118284,7 @@
             "Z) n is odd"
           ],
           "notes": [],
-          "question_sanitized": "If n is an integer, and x^n is positive for all nonzero real numbers x, which of the following must be true about n? W) n is greater than zero; X) n does not equal zero; Y) n is even; Z) n is odd"
+          "question_sanitized": "If n is an integer, and x^(n) is positive for all nonzero real numbers x, which of the following must be true about n?\nW) n is greater than zero\nX) n does not equal zero\nY) n is even\nZ) n is odd"
         },
         {
           "number": 11,
@@ -124158,12 +124255,13 @@
         },
         {
           "number": 20,
-          "question": "A cylinder has an internal diameter of 3 centimeters and a piston is depressed 20 centimeters with a pressure of 2 atmospheres. Assuming that atmospheric pressure is 1 x 105 pascals, to two significant figures and in joules, how much work is done during the compression?",
+          "question": "A cylinder has an internal diameter of 3 centimeters and a piston is depressed 20 centimeters with a pressure of 2 atmospheres. Assuming that atmospheric pressure is 1 x 10<sup>5</sup> pascals, to two significant figures and in joules, how much work is done during the compression?",
           "answer": "28",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "A cylinder has an internal diameter of 3 centimeters and a piston is depressed 20 centimeters with a pressure of 2 atmospheres. Assuming that atmospheric pressure is 1 x 10⁵ pascals, to two significant figures and in joules, how much work is done during the compression?"
         },
         {
           "number": 21,
@@ -124696,12 +124794,13 @@
         },
         {
           "number": 4,
-          "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6- membered rings?",
+          "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
           "answer": "BLACK PHOSPHORUS",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
         },
         {
           "number": 5,
@@ -125301,7 +125400,7 @@
           "number": 22,
           "leadin": "",
           "parts": [
-            "An SN1 reaction is performed by reacting sodium bromide with (S)-2-chlorobutane, and generates a 1 molar mixture of 70% (S)-2-bromobutane and 30% (R)-2- bromobutane. If the optical rotation of the solution was 9.2°, what is the optical rotation of pure (S)- 2-bromobutane, to the nearest degree?"
+            "An SN1 reaction is performed by reacting sodium bromide with (S)-2-chlorobutane, and generates a 1 molar mixture of 70% (S)-2-bromobutane and 30% (R)-2-bromobutane. If the optical rotation of the solution was 9.2°, what is the optical rotation of pure (S)-2-bromobutane, to the nearest degree?"
           ],
           "answers": [
             "23"
@@ -125312,7 +125411,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "An SN1 reaction is performed by reacting sodium bromide with (S)-2-chlorobutane, and generates a 1 molar mixture of 70% (S)-2-bromobutane and 30% (R)-2-bromobutane. If the optical rotation of the solution was 9.2°, what is the optical rotation of pure (S)-2-bromobutane, to the nearest degree?"
+          ]
         },
         {
           "number": 23,
@@ -126292,12 +126394,13 @@
         },
         {
           "number": 22,
-          "question": "Consider a gaseous mixture of helium and molecular hydrogen that is allowed to equilibrate to a constant internal temperature. What is the ratio of the root-mean- square speed of hydrogen molecules to that of helium atoms?",
+          "question": "Consider a gaseous mixture of helium and molecular hydrogen that is allowed to equilibrate to a constant internal temperature. What is the ratio of the root-mean-square speed of hydrogen molecules to that of helium atoms?",
           "answer": "SQUARE ROOT OF 2 (ACCEPT: √2 TO 1)",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Consider a gaseous mixture of helium and molecular hydrogen that is allowed to equilibrate to a constant internal temperature. What is the ratio of the root-mean-square speed of hydrogen molecules to that of helium atoms?"
         },
         {
           "number": 23,
@@ -130931,7 +131034,7 @@
           "number": 16,
           "leadin": "",
           "parts": [
-            "Rank the following four atoms in order of increasing atomic radius: 1) Lithium; 2) Fluorine [FLOOR-een] ; 3) Sodium; 4) Chlorine."
+            "Rank the following four atoms in order of increasing atomic radius: 1) Lithium; 2) Fluorine [FLOOR-een]; 3) Sodium; 4) Chlorine."
           ],
           "answers": [
             "2, 4, 1, 3 (ACCEPT: FLUORINE, CHLORINE, LITHIUM, SODIUM)"
@@ -130942,7 +131045,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Rank the following four atoms in order of increasing atomic radius: 1) Lithium; 2) Fluorine [FLOOR-een]; 3) Sodium; 4) Chlorine."
+          ]
         },
         {
           "number": 17,
@@ -132683,12 +132789,13 @@
         },
         {
           "number": 11,
-          "question": "What is the shape of an isolated complex in which a metal ion is bonded to six ligands [LIH-gunz] ?",
+          "question": "What is the shape of an isolated complex in which a metal ion is bonded to six ligands [LIH-gunz]?",
           "answer": "OCTAHEDRAL",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "What is the shape of an isolated complex in which a metal ion is bonded to six ligands [LIH-gunz]?"
         },
         {
           "number": 12,
@@ -132890,7 +132997,7 @@
           "number": 4,
           "leadin": "",
           "parts": [
-            "Identify all of the following properties that are examples of state functions: 1) Volume; 2) Temperature; 3) Entropy [EN-troh-pee] ."
+            "Identify all of the following properties that are examples of state functions: 1) Volume; 2) Temperature; 3) Entropy [EN-troh-pee]."
           ],
           "answers": [
             "1, 2, 3 (ACCEPT: ALL OF THEM)"
@@ -132901,7 +133008,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Identify all of the following properties that are examples of state functions: 1) Volume; 2) Temperature; 3) Entropy [EN-troh-pee]."
+          ]
         },
         {
           "number": 5,
@@ -133830,7 +133940,7 @@
           "number": 16,
           "leadin": "",
           "parts": [
-            "How many total nodes exist within the highest energy pi molecular orbital for 1,3-butadiene [One three byoo-tah-DYE-een] ?"
+            "How many total nodes exist within the highest energy pi molecular orbital for 1,3-butadiene [One three byoo-tah-DYE-een]?"
           ],
           "answers": [
             "4"
@@ -133841,7 +133951,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "How many total nodes exist within the highest energy pi molecular orbital for 1,3-butadiene [One three byoo-tah-DYE-een]?"
+          ]
         },
         {
           "number": 17,
@@ -134469,7 +134582,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and denominator 4^n."
+            "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and denominator 4^(n)."
           ]
         },
         {
@@ -134628,7 +134741,7 @@
           "number": 21,
           "leadin": "",
           "parts": [
-            "Identify all of the following three compounds with dsp3 hybridized central atoms: 1) Silicon tetrafluoride [tetrah-FLOOR-ide] ; 2) Sulfur hexafluoride [hex-ah-FLOOR-ide] ; 3) Sulfur tetrafluoride."
+            "Identify all of the following three compounds with dsp3 hybridized central atoms: 1) Silicon tetrafluoride [tetrah-FLOOR-ide]; 2) Sulfur hexafluoride [hex-ah-FLOOR-ide]; 3) Sulfur tetrafluoride."
           ],
           "answers": [
             "3"
@@ -134639,7 +134752,10 @@
           ],
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "parts_sanitized": [
+            "Identify all of the following three compounds with dsp3 hybridized central atoms: 1) Silicon tetrafluoride [tetrah-FLOOR-ide]; 2) Sulfur hexafluoride [hex-ah-FLOOR-ide]; 3) Sulfur tetrafluoride."
+          ]
         },
         {
           "number": 22,
@@ -135270,7 +135386,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li_2; 2) Be_2; 3) B_2."
+            "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li₂; 2) Be₂; 3) B₂."
           ]
         },
         {
@@ -135993,7 +136109,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "What is the limit as x approaches 0 of the fraction with numerator e^x − 1 and denominator x^5?"
+            "What is the limit as x approaches 0 of the fraction with numerator e^(x) − 1 and denominator x⁵?"
           ]
         },
         {
@@ -136252,8 +136368,8 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What is the partial derivative with respect to y of the expression x^5y^4?",
-          "answer_sanitized": "4x^5y^3"
+          "question_sanitized": "What is the partial derivative with respect to y of the expression x⁵y⁴?",
+          "answer_sanitized": "4x⁵y³"
         },
         {
           "number": 14,
@@ -136675,10 +136791,10 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B_2; 2) C_2; 3) N_2."
+            "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B₂; 2) C₂; 3) N₂."
           ],
           "answers_sanitized": [
-            "1 (ACCEPT: B_2)"
+            "1 (ACCEPT: B₂)"
           ]
         },
         {
@@ -137311,7 +137427,7 @@
           "options": [],
           "notes": [],
           "answers_sanitized": [
-            "METHANE (ACCEPT: CH_4)"
+            "METHANE (ACCEPT: CH₄)"
           ]
         },
         {
@@ -140477,12 +140593,13 @@
         },
         {
           "number": 15,
-          "question": "Identify all of the following three species that are Lewis acids: 1) Zn 2+ ; 2) Cl - ; 3) BH<sub>3</sub> .",
+          "question": "Identify all of the following three species that are Lewis acids: 1) Zn²⁺; 2) Cl⁻; 3) BH₃.",
           "answer": "1 AND 3",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Identify all of the following three species that are Lewis acids: 1) Zn²⁺; 2) Cl⁻; 3) BH₃."
         },
         {
           "number": 16,
@@ -141124,7 +141241,7 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "Evaluate the following expression: –i^33."
+          "question_sanitized": "Evaluate the following expression: -i³³."
         },
         {
           "number": 13,
@@ -142100,7 +142217,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "What is the derivative of the function x^2 e^x at x = 1?"
+            "What is the derivative of the function x²e^(x) at x = 1?"
           ]
         },
         {
@@ -144249,7 +144366,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "How many points of intersection are there for the graphs of y = 3^x and y = x^2 – 3?"
+            "How many points of intersection are there for the graphs of y = 3^(x) and y = x² - 3?"
           ]
         },
         {
@@ -146153,7 +146270,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Evaluate 12^2 + 22^2 + 32^2."
+            "Evaluate 12² + 22² + 32²."
           ]
         },
         {
@@ -146822,7 +146939,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp^3; 2) Nitrogen tri-iodide and sp^2; 3) Sulfur tetrafluoride and d^2sp^3."
+            "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp³; 2) Nitrogen tri-iodide and sp²; 3) Sulfur tetrafluoride and d²sp³."
           ]
         },
         {
@@ -151027,10 +151144,10 @@
           ],
           "notes": [],
           "parts_sanitized": [
-            "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction? W) S_N1 at low temperatures and E1 at high temperatures; X) E1 at low temperatures and S_N1 at high temperatures; Y) S_N2 at low temperatures and E2 at high temperatures; Z) E2 at low temperatures and S_N2 at high temperatures"
+            "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction?\nW) S_(N)1 at low temperatures and E1 at high temperatures\nX) E1 at low temperatures and S_(N)1 at high temperatures\nY) S_(N)2 at low temperatures and E2 at high temperatures\nZ) E2 at low temperatures and S_(N)2 at high temperatures"
           ],
           "answers_sanitized": [
-            "Y) S_N2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
+            "Y) S_(N)2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
           ]
         },
         {
@@ -151294,8 +151411,8 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What is the partial derivative with respect to x of the expression x^3y^2?",
-          "answer_sanitized": "3x^2y^2"
+          "question_sanitized": "What is the partial derivative with respect to x of the expression x³y²?",
+          "answer_sanitized": "3x²y²"
         },
         {
           "number": 5,
@@ -152577,7 +152694,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x^2 – x^3 and y = 0."
+            "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x² - x³ and y = 0."
           ],
           "answers_sanitized": [
             "π/10 (ACCEPT: 0.1π)"
@@ -154429,7 +154546,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "A weak acid has a K_a of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
+            "A weak acid has a K_(a) of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
           ]
         },
         {
@@ -175498,7 +175615,7 @@
           "options": [],
           "notes": [],
           "parts_sanitized": [
-            "What is the approximation for e^2 that results from using the first four nonzero terms of the Taylor series for e^x centered at 0?"
+            "What is the approximation for e² that results from using the first four nonzero terms of the Taylor series for e^(x) centered at 0?"
           ]
         },
         {
@@ -184326,8 +184443,8 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What is the partial derivative with respect to y of x^3y^4?",
-          "answer_sanitized": "4x^3y^3 (DO NOT ACCEPT: x^3 4y^3)"
+          "question_sanitized": "What is the partial derivative with respect to y of x³y⁴?",
+          "answer_sanitized": "4x³y³ (DO NOT ACCEPT: x³4y³)"
         },
         {
           "number": 2,
@@ -187242,7 +187359,7 @@
             "Z) 1"
           ],
           "notes": [],
-          "question_sanitized": "Which of the following values is NOT in the range of f of x = e^x – 2?<br>W) –2<br>X) –1<br>Y) 0<br>Z) 1"
+          "question_sanitized": "Which of the following values is NOT in the range of f of x = e^(x) - 2?\nW) -2\nX) -1\nY) 0\nZ) 1"
         },
         {
           "number": 11,
@@ -188799,8 +188916,8 @@
           "type": "Short Answer",
           "options": [],
           "notes": [],
-          "question_sanitized": "What is the partial derivative with respect to y of the expression x^4y^7?",
-          "answer_sanitized": "7x^4y^6"
+          "question_sanitized": "What is the partial derivative with respect to y of the expression x⁴y⁷?",
+          "answer_sanitized": "7x⁴y⁶"
         },
         {
           "number": 2,

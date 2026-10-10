@@ -299,11 +299,24 @@
       "kind": "bonuses",
       "itemIndex": 8,
       "number": 9,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         5
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+      "evidence": "Rendered original source page 5 at /tmp/chem-006p05.png; corrected notation/spacing in the full replacement field(s) to match the printed formula and its layout.",
+      "before": {
+        "parts": [
+          "To the nearest whole number, how many grams of Na<sub>2</sub> SO<sub>4</sub> , whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "To the nearest whole number, how many grams of Na<sub>2</sub>SO<sub>4</sub>, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?"
+        ],
+        "parts_sanitized": [
+          "To the nearest whole number, how many grams of Na₂SO₄, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -401,11 +414,45 @@
       "kind": "bonuses",
       "itemIndex": 15,
       "number": 16,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+      "evidence": "Rendered original source page 8 at /tmp/chem-006p08.png; corrected notation/spacing in the full replacement field(s) to match the printed formula and its layout.",
+      "before": {
+        "parts": [
+          "Which of the following is considered a weak acid:<br>W) HCO<sub>2</sub> H<br>X) HClO<sub>4</sub><br>Y) HNO<sub>3</sub><br>Z) HBr"
+        ],
+        "answers": [
+          "W) HCO<sub>2</sub> H"
+        ],
+        "options": [
+          "W) HCO<sub>2</sub> H",
+          "X) HClO<sub>4</sub>",
+          "Y) HNO<sub>3</sub>",
+          "Z) HBr"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is considered a weak acid:<br>W) HCO<sub>2</sub>H<br>X) HClO<sub>4</sub><br>Y) HNO<sub>3</sub><br>Z) HBr"
+        ],
+        "answers": [
+          "W) HCO<sub>2</sub>H"
+        ],
+        "options": [
+          "W) HCO<sub>2</sub>H",
+          "X) HClO<sub>4</sub>",
+          "Y) HNO<sub>3</sub>",
+          "Z) HBr"
+        ],
+        "parts_sanitized": [
+          "Which of the following is considered a weak acid:\nW) HCO₂H\nX) HClO₄\nY) HNO₃\nZ) HBr"
+        ],
+        "answers_sanitized": [
+          "W) HCO₂H"
+        ]
+      }
     },
     {
       "kind": "bonuses",

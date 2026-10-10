@@ -158,7 +158,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Physical PDF page 8 shows sin²x + cos²x and f′(x), with all read-as cues and four choices; answer W) 0.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "If 2 2 [f of x equals sine squared of x plus cosine x x f ’(x) squared of x], what is [f prime of x]? 0<br>W) <br>X) 1 2sinxcosx<br>Y) [2 sine of x cosine of x] sin2x<br>Z) [sine of 2x]",
         "options": [
@@ -170,7 +170,7 @@
       },
       "changes": {
         "question": "If f(x) = sin<sup>2</sup>x + cos<sup>2</sup>x [f of x equals sine squared of x plus cosine squared of x], what is f′(x) [f prime of x]?<br>W) 0<br>X) 1<br>Y) 2sinxcosx [2 sine of x cosine of x]<br>Z) sin2x [sine of 2x]",
-        "question_sanitized": "If f(x) = sin^2x + cos^2x [f of x equals sine squared of x plus cosine squared of x], what is f'(x) [f prime of x]?\nW) 0\nX) 1\nY) 2sinxcosx [2 sine of x cosine of x]\nZ) sin2x [sine of 2x]",
+        "question_sanitized": "If f(x) = sin²x + cos²x [f of x equals sine squared of x plus cosine squared of x], what is f′(x) [f prime of x]?\nW) 0\nX) 1\nY) 2sinxcosx [2 sine of x cosine of x]\nZ) sin2x [sine of 2x]",
         "options": [
           "W) 0",
           "X) 1",
@@ -227,13 +227,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Physical PDF page 11 shows 27(3^x) = 81 and the full verbal cue; answer is 1.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Solve the following equation for x over the real numbers: [27 times 3 to the power of x equals 81]."
       },
       "changes": {
         "question": "Solve the following equation for x over the real numbers: 27(3<sup>x</sup>) = 81 [27 times 3 to the power of x equals 81].",
-        "question_sanitized": "Solve the following equation for x over the real numbers: 27(3^x) = 81 [27 times 3 to the power of x equals 81]."
+        "question_sanitized": "Solve the following equation for x over the real numbers: 27(3^(x)) = 81 [27 times 3 to the power of x equals 81]."
       }
     },
     {
@@ -361,7 +361,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Physical PDF page 5 shows (a⁻¹ + b⁻¹)⁻¹; W is ab/(a+b), followed by X) a+b, Y) a²b², Z) ab.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Which of the following is equivalent to -1 -1 -1 [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]? 𝑎𝑎<br>W) [the fraction with numerator ab and denominator a plus b] (𝑎+𝑏) a + b<br>X) a b<br>Y) 2 2 ab<br>Z) 𝑎𝑎"
@@ -381,7 +381,7 @@
           "Which of the following is equivalent to (a<sup>-1</sup> + b<sup>-1</sup>)<sup>-1</sup> [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?<br>W) <span class=\"nsb-fraction\"><span>ab</span><span>a + b</span></span> [the fraction with numerator ab and denominator a plus b]<br>X) a + b<br>Y) a<sup>2</sup>b<sup>2</sup><br>Z) ab"
         ],
         "parts_sanitized": [
-          "Which of the following is equivalent to (a^-1 + b^-1)^-1 [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?\nW) ab/(a + b) [the fraction with numerator ab and denominator a plus b]\nX) a + b\nY) a^2b^2\nZ) ab"
+          "Which of the following is equivalent to (a⁻¹ + b⁻¹)⁻¹ [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?\nW) (ab)/(a + b) [the fraction with numerator ab and denominator a plus b]\nX) a + b\nY) a²b²\nZ) ab"
         ],
         "options": [
           "W) <span class=\"nsb-fraction\"><span>ab</span><span>a + b</span></span> [the fraction with numerator ab and denominator a plus b]",

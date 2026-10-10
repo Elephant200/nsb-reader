@@ -1,0 +1,3924 @@
+{
+  "entries": [
+    {
+      "p": 0,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2009,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 0, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 1,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 1, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 1,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 1, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 4,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 4, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 4,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 4, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-004-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 4,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 4, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 5,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 5, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 6,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 6, page 6. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-007-6.png.",
+      "changes": {}
+    },
+    {
+      "p": 7,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 7, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 7,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 7, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 8,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 8, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 8,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2009,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 8, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 9,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 9, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 11,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2009,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 11, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 12,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 12, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 12,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 12, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-012-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 12,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 12, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 14,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2009,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 14, page 9. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-014-9.png.",
+      "changes": {}
+    },
+    {
+      "p": 15,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2009,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 15, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 15,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2009,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 15, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 19,
+      "k": "bonuses",
+      "i": 12,
+      "category": "Math",
+      "year": 2012,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 19, page 7. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-019-7.png.",
+      "changes": {}
+    },
+    {
+      "p": 22,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2012,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 22, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 22,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Math",
+      "year": 2012,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 22, page 12. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-022-12.png.",
+      "changes": {}
+    },
+    {
+      "p": 26,
+      "k": "bonuses",
+      "i": 2,
+      "category": "Math",
+      "year": 2012,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 26, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-026-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 29,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2012,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 29, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 30,
+      "k": "bonuses",
+      "i": 11,
+      "category": "Math",
+      "year": 2012,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 30, page 6. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-030-6.png.",
+      "changes": {}
+    },
+    {
+      "p": 30,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Math",
+      "year": 2012,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 30, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 32,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2007,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 32, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 33,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2007,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 33, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 33,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 33, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 34,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2007,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 34, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 34,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 34, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 34,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2007,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 34, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 36,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2007,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 36, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-036-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 37,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2007,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 37, page 9. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-037-9.png.",
+      "changes": {}
+    },
+    {
+      "p": 37,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2007,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 37, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 38,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 38, page 6. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-038-6.png.",
+      "changes": {}
+    },
+    {
+      "p": 39,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 39, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 39,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2007,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 39, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 42,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2007,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 42, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-042-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 43,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 43, page 6. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-043-6.png.",
+      "changes": {}
+    },
+    {
+      "p": 44,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2007,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 44, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 45,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 45, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 46,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2007,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 46, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-046-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 46,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 46, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 46,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 46, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 47,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2007,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 47, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 57,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2011,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 57, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 57,
+      "k": "tossups",
+      "i": 13,
+      "category": "Math",
+      "year": 2011,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 57, page 7. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-057-7.png.",
+      "changes": {}
+    },
+    {
+      "p": 57,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2011,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 57, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 59,
+      "k": "bonuses",
+      "i": 13,
+      "category": "Math",
+      "year": 2011,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 59, page 7. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-059-7.png.",
+      "changes": {}
+    },
+    {
+      "p": 59,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Math",
+      "year": 2011,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 59, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 60,
+      "k": "bonuses",
+      "i": 6,
+      "category": "Math",
+      "year": 2011,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 60, page 4. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-060-4.png.",
+      "changes": {}
+    },
+    {
+      "p": 60,
+      "k": "tossups",
+      "i": 6,
+      "category": "Math",
+      "year": 2011,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 60, page 4. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-060-4.png.",
+      "changes": {}
+    },
+    {
+      "p": 62,
+      "k": "tossups",
+      "i": 7,
+      "category": "Math",
+      "year": 2011,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 62, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 62,
+      "k": "tossups",
+      "i": 17,
+      "category": "Math",
+      "year": 2011,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 62, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 63,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2011,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 63, page 4. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-063-4.png.",
+      "changes": {}
+    },
+    {
+      "p": 66,
+      "k": "bonuses",
+      "i": 12,
+      "category": "Math",
+      "year": 2011,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 66, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 69,
+      "k": "bonuses",
+      "i": 6,
+      "category": "Math",
+      "year": 2011,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 69, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 69,
+      "k": "tossups",
+      "i": 6,
+      "category": "Math",
+      "year": 2011,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 69, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 70,
+      "k": "tossups",
+      "i": 4,
+      "category": "Math",
+      "year": 2011,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 70, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 72,
+      "k": "bonuses",
+      "i": 18,
+      "category": "Math",
+      "year": 2011,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 72, page 10. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-072-10.png.",
+      "changes": {}
+    },
+    {
+      "p": 73,
+      "k": "tossups",
+      "i": 5,
+      "category": "Math",
+      "year": 2011,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 73, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 76,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2011,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 76, page 1. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-076-1.png.",
+      "changes": {}
+    },
+    {
+      "p": 77,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2011,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 77, page 5. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-077-5.png.",
+      "changes": {}
+    },
+    {
+      "p": 78,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Math",
+      "year": 2011,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 78, page 3. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-078-3.png.",
+      "changes": {}
+    },
+    {
+      "p": 81,
+      "k": "tossups",
+      "i": 5,
+      "category": "Math",
+      "year": 2011,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 81, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 82,
+      "k": "tossups",
+      "i": 15,
+      "category": "Math",
+      "year": 2012,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 82, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 82,
+      "k": "tossups",
+      "i": 21,
+      "category": "Math",
+      "year": 2012,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 82, page 11. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-082-11.png.",
+      "changes": {}
+    },
+    {
+      "p": 83,
+      "k": "tossups",
+      "i": 15,
+      "category": "Math",
+      "year": 2012,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 83, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 83,
+      "k": "tossups",
+      "i": 21,
+      "category": "Math",
+      "year": 2012,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 83, page 11. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-083-11.png.",
+      "changes": {}
+    },
+    {
+      "p": 84,
+      "k": "tossups",
+      "i": 18,
+      "category": "Math",
+      "year": 2012,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 84, page 10. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-084-10.png.",
+      "changes": {}
+    },
+    {
+      "p": 86,
+      "k": "bonuses",
+      "i": 13,
+      "category": "Math",
+      "year": 2012,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 86, page 7. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-086-7.png.",
+      "changes": {}
+    },
+    {
+      "p": 87,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2012,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 87, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 88,
+      "k": "bonuses",
+      "i": 21,
+      "category": "Math",
+      "year": 2012,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 88, page 11. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-088-11.png.",
+      "changes": {}
+    },
+    {
+      "p": 91,
+      "k": "tossups",
+      "i": 0,
+      "category": "Math",
+      "year": 2012,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 91, page 1. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-091-1.png.",
+      "changes": {}
+    },
+    {
+      "p": 92,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2012,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 92, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 93,
+      "k": "bonuses",
+      "i": 21,
+      "category": "Math",
+      "year": 2012,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 93, page 11. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-093-11.png.",
+      "changes": {}
+    },
+    {
+      "p": 94,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Math",
+      "year": 2012,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 94, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 94,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2012,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 94, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 97,
+      "k": "bonuses",
+      "i": 20,
+      "category": "Math",
+      "year": 2013,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 97, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 97,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2013,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 97, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 97,
+      "k": "tossups",
+      "i": 8,
+      "category": "Math",
+      "year": 2013,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 97, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 98,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Math",
+      "year": 2013,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 98, page 3. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-098-3.png.",
+      "changes": {}
+    },
+    {
+      "p": 98,
+      "k": "bonuses",
+      "i": 15,
+      "category": "Math",
+      "year": 2013,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 98, page 8. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-099-7.png.",
+      "changes": {}
+    },
+    {
+      "p": 99,
+      "k": "bonuses",
+      "i": 12,
+      "category": "Math",
+      "year": 2013,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 99, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 100,
+      "k": "bonuses",
+      "i": 20,
+      "category": "Math",
+      "year": 2013,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 100, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 102,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Math",
+      "year": 2013,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 102, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 102,
+      "k": "bonuses",
+      "i": 14,
+      "category": "Math",
+      "year": 2013,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 102, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 105,
+      "k": "tossups",
+      "i": 8,
+      "category": "Math",
+      "year": 2013,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 105, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 105,
+      "k": "tossups",
+      "i": 20,
+      "category": "Math",
+      "year": 2013,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 105, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 107,
+      "k": "bonuses",
+      "i": 20,
+      "category": "Math",
+      "year": 2013,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 107, page 11. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-107-11.png.",
+      "changes": {}
+    },
+    {
+      "p": 107,
+      "k": "tossups",
+      "i": 8,
+      "category": "Math",
+      "year": 2013,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 107, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 108,
+      "k": "tossups",
+      "i": 4,
+      "category": "Math",
+      "year": 2013,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 108, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 108,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2013,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 108, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 109,
+      "k": "bonuses",
+      "i": 12,
+      "category": "Math",
+      "year": 2013,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 109, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 109,
+      "k": "tossups",
+      "i": 6,
+      "category": "Math",
+      "year": 2013,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 109, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 110,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2013,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 110, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-110-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 110,
+      "k": "tossups",
+      "i": 20,
+      "category": "Math",
+      "year": 2013,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 110, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 113,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2013,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 113, page 5. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-113-5.png.",
+      "changes": {}
+    },
+    {
+      "p": 114,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2014,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 114, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 114,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2014,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 114, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 116,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2014,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 116, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 117,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Math",
+      "year": 2014,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 117, page 5. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-117-5.png.",
+      "changes": {}
+    },
+    {
+      "p": 117,
+      "k": "tossups",
+      "i": 19,
+      "category": "Math",
+      "year": 2014,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 117, page 10. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-117-10.png.",
+      "changes": {}
+    },
+    {
+      "p": 118,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Math",
+      "year": 2014,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 118, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 119,
+      "k": "bonuses",
+      "i": 2,
+      "category": "Math",
+      "year": 2014,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 119, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 121,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2014,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 121, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 121,
+      "k": "tossups",
+      "i": 12,
+      "category": "Math",
+      "year": 2014,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 121, page 7. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-121-7.png.",
+      "changes": {}
+    },
+    {
+      "p": 122,
+      "k": "tossups",
+      "i": 8,
+      "category": "Math",
+      "year": 2014,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 122, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 123,
+      "k": "tossups",
+      "i": 16,
+      "category": "Math",
+      "year": 2014,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 123, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 123,
+      "k": "tossups",
+      "i": 20,
+      "category": "Math",
+      "year": 2014,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 123, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 125,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2014,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 125, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 126,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2014,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 126, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 126,
+      "k": "tossups",
+      "i": 16,
+      "category": "Math",
+      "year": 2014,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 126, page 9. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-126-9.png.",
+      "changes": {}
+    },
+    {
+      "p": 127,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Math",
+      "year": 2014,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 127, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 129,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2014,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 129, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 129,
+      "k": "bonuses",
+      "i": 21,
+      "category": "Math",
+      "year": 2014,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 129, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 130,
+      "k": "tossups",
+      "i": 4,
+      "category": "Math",
+      "year": 2014,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 130, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 130,
+      "k": "tossups",
+      "i": 16,
+      "category": "Math",
+      "year": 2014,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 130, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 131,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2015,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 131, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 131,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2015,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 131, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 133,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2015,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 133, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 133,
+      "k": "tossups",
+      "i": 19,
+      "category": "Math",
+      "year": 2015,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 133, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 134,
+      "k": "bonuses",
+      "i": 15,
+      "category": "Math",
+      "year": 2015,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 134, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 134,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Math",
+      "year": 2015,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 134, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 135,
+      "k": "tossups",
+      "i": 22,
+      "category": "Math",
+      "year": 2015,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 135, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 136,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2015,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 136, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 136,
+      "k": "tossups",
+      "i": 13,
+      "category": "Math",
+      "year": 2015,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 136, page 7. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-136-7.png.",
+      "changes": {}
+    },
+    {
+      "p": 139,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Math",
+      "year": 2015,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 139, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 140,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2015,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 140, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 142,
+      "k": "bonuses",
+      "i": 11,
+      "category": "Math",
+      "year": 2015,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 142, page 6. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-142-6.png.",
+      "changes": {}
+    },
+    {
+      "p": 142,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2015,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 142, page 9. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-142-9.png.",
+      "changes": {}
+    },
+    {
+      "p": 143,
+      "k": "tossups",
+      "i": 19,
+      "category": "Math",
+      "year": 2015,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 143, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 144,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2015,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 144, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 146,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2015,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 146, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 146,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2015,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 146, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 147,
+      "k": "bonuses",
+      "i": 6,
+      "category": "Math",
+      "year": 2015,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 147, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 147,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2015,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 147, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 147,
+      "k": "tossups",
+      "i": 11,
+      "category": "Math",
+      "year": 2015,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 147, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 150,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2016,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 150, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 150,
+      "k": "bonuses",
+      "i": 19,
+      "category": "Math",
+      "year": 2016,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 150, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 150,
+      "k": "tossups",
+      "i": 0,
+      "category": "Math",
+      "year": 2016,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 150, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 151,
+      "k": "bonuses",
+      "i": 15,
+      "category": "Math",
+      "year": 2016,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 151, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 152,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2016,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 152, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 153,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2016,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 153, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 153,
+      "k": "tossups",
+      "i": 22,
+      "category": "Math",
+      "year": 2016,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 153, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 155,
+      "k": "bonuses",
+      "i": 6,
+      "category": "Math",
+      "year": 2016,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 155, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 155,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2016,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 155, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 155,
+      "k": "tossups",
+      "i": 13,
+      "category": "Math",
+      "year": 2016,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 155, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 156,
+      "k": "tossups",
+      "i": 14,
+      "category": "Math",
+      "year": 2016,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 156, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 158,
+      "k": "tossups",
+      "i": 20,
+      "category": "Math",
+      "year": 2016,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 158, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 159,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Math",
+      "year": 2016,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 159, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 160,
+      "k": "bonuses",
+      "i": 15,
+      "category": "Math",
+      "year": 2016,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 160, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 160,
+      "k": "tossups",
+      "i": 18,
+      "category": "Math",
+      "year": 2016,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 160, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 161,
+      "k": "bonuses",
+      "i": 12,
+      "category": "Math",
+      "year": 2016,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 161, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 161,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2016,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 161, page 5. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-161-5.png.",
+      "changes": {}
+    },
+    {
+      "p": 162,
+      "k": "bonuses",
+      "i": 21,
+      "category": "Math",
+      "year": 2016,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 162, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 164,
+      "k": "bonuses",
+      "i": 13,
+      "category": "Math",
+      "year": 2016,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 164, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 164,
+      "k": "tossups",
+      "i": 5,
+      "category": "Math",
+      "year": 2016,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 164, page 3. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-164-3.png.",
+      "changes": {}
+    },
+    {
+      "p": 165,
+      "k": "tossups",
+      "i": 1,
+      "category": "Math",
+      "year": 2017,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 165, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 166,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Math",
+      "year": 2017,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 166, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 166,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2017,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 166, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 166,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2017,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 166, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 168,
+      "k": "tossups",
+      "i": 5,
+      "category": "Math",
+      "year": 2017,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 168, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 170,
+      "k": "tossups",
+      "i": 21,
+      "category": "Math",
+      "year": 2017,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 170, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 171,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2017,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 171, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 172,
+      "k": "bonuses",
+      "i": 11,
+      "category": "Math",
+      "year": 2017,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 172, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 172,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2017,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 172, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 172,
+      "k": "tossups",
+      "i": 14,
+      "category": "Math",
+      "year": 2017,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 172, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 173,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Math",
+      "year": 2017,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 173, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 175,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2017,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 175, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 176,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2017,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 176, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 176,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2017,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 176, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 177,
+      "k": "bonuses",
+      "i": 22,
+      "category": "Math",
+      "year": 2017,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 177, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 178,
+      "k": "bonuses",
+      "i": 20,
+      "category": "Math",
+      "year": 2017,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 178, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 178,
+      "k": "tossups",
+      "i": 20,
+      "category": "Math",
+      "year": 2017,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 178, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 179,
+      "k": "tossups",
+      "i": 19,
+      "category": "Math",
+      "year": 2017,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 179, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 180,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2017,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 180, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 180,
+      "k": "tossups",
+      "i": 1,
+      "category": "Math",
+      "year": 2017,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 180, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 182,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2018,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 182, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 183,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2018,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 183, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 184,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2018,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 184, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 184,
+      "k": "bonuses",
+      "i": 18,
+      "category": "Math",
+      "year": 2018,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 184, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 184,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2018,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 184, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 185,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2018,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 185, page 9. They agree. Visually checked the possibly ambiguous exponent in the rendered source image /tmp/math-recheck-185-9.png.",
+      "changes": {}
+    },
+    {
+      "p": 188,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2018,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 188, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 188,
+      "k": "tossups",
+      "i": 5,
+      "category": "Math",
+      "year": 2018,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 188, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 189,
+      "k": "tossups",
+      "i": 0,
+      "category": "Math",
+      "year": 2018,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 189, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 190,
+      "k": "tossups",
+      "i": 22,
+      "category": "Math",
+      "year": 2018,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 190, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 191,
+      "k": "tossups",
+      "i": 4,
+      "category": "Math",
+      "year": 2018,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 191, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 191,
+      "k": "tossups",
+      "i": 19,
+      "category": "Math",
+      "year": 2018,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 191, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 194,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2018,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 194, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 194,
+      "k": "bonuses",
+      "i": 21,
+      "category": "Math",
+      "year": 2018,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 194, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 194,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2018,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 194, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 195,
+      "k": "bonuses",
+      "i": 13,
+      "category": "Math",
+      "year": 2018,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 195, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 196,
+      "k": "tossups",
+      "i": 8,
+      "category": "Math",
+      "year": 2018,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 196, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 196,
+      "k": "tossups",
+      "i": 21,
+      "category": "Math",
+      "year": 2018,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 196, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 198,
+      "k": "bonuses",
+      "i": 1,
+      "category": "Math",
+      "year": 2018,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 198, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 198,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2018,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 198, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 199,
+      "k": "tossups",
+      "i": 13,
+      "category": "Math",
+      "year": 2019,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 199, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 200,
+      "k": "tossups",
+      "i": 4,
+      "category": "Math",
+      "year": 2019,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 200, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 200,
+      "k": "tossups",
+      "i": 12,
+      "category": "Math",
+      "year": 2019,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 200, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 201,
+      "k": "tossups",
+      "i": 18,
+      "category": "Math",
+      "year": 2019,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 201, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 202,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2019,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 202, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 205,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Math",
+      "year": 2019,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 205, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 206,
+      "k": "tossups",
+      "i": 13,
+      "category": "Math",
+      "year": 2019,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 206, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 207,
+      "k": "bonuses",
+      "i": 1,
+      "category": "Math",
+      "year": 2019,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 207, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 207,
+      "k": "bonuses",
+      "i": 9,
+      "category": "Math",
+      "year": 2019,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 207, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 208,
+      "k": "bonuses",
+      "i": 18,
+      "category": "Math",
+      "year": 2019,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 208, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 208,
+      "k": "tossups",
+      "i": 14,
+      "category": "Math",
+      "year": 2019,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 208, page 8. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-208-8.png.",
+      "changes": {}
+    },
+    {
+      "p": 209,
+      "k": "tossups",
+      "i": 16,
+      "category": "Math",
+      "year": 2019,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 209, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 210,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2019,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 210, page 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 210,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2019,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 210, page 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 213,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2019,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 213, page 5. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 214,
+      "k": "bonuses",
+      "i": 2,
+      "category": "Math",
+      "year": 2019,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 214, page 2. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-214-2.png.",
+      "changes": {}
+    },
+    {
+      "p": 214,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2019,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 214, page 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 214,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2019,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 214, page 9. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-214-9.png.",
+      "changes": {}
+    },
+    {
+      "p": 214,
+      "k": "tossups",
+      "i": 21,
+      "category": "Math",
+      "year": 2019,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 214, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 13,
+      "category": "Math",
+      "year": 2019,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 215, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 216,
+      "k": "bonuses",
+      "i": 4,
+      "category": "Math",
+      "year": 2020,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 216, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 216,
+      "k": "tossups",
+      "i": 4,
+      "category": "Math",
+      "year": 2020,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 216, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 217,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2020,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 217, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 219,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2020,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 219, page 6. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-219-6.png.",
+      "changes": {}
+    },
+    {
+      "p": 219,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2020,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 219, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 220,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2020,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 220, page 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 221,
+      "k": "bonuses",
+      "i": 21,
+      "category": "Math",
+      "year": 2020,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 221, page 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 221,
+      "k": "tossups",
+      "i": 0,
+      "category": "Math",
+      "year": 2020,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 221, page 1. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-221-1.png.",
+      "changes": {}
+    },
+    {
+      "p": 221,
+      "k": "tossups",
+      "i": 16,
+      "category": "Math",
+      "year": 2020,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 221, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 222,
+      "k": "tossups",
+      "i": 2,
+      "category": "Math",
+      "year": 2020,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 222, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 224,
+      "k": "tossups",
+      "i": 22,
+      "category": "Math",
+      "year": 2020,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 224, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 225,
+      "k": "bonuses",
+      "i": 18,
+      "category": "Math",
+      "year": 2020,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 225, page 10. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 225,
+      "k": "tossups",
+      "i": 15,
+      "category": "Math",
+      "year": 2020,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 225, page 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 226,
+      "k": "bonuses",
+      "i": 2,
+      "category": "Math",
+      "year": 2020,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 226, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 226,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2020,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 226, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 228,
+      "k": "bonuses",
+      "i": 3,
+      "category": "Math",
+      "year": 2020,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 228, page 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 229,
+      "k": "bonuses",
+      "i": 13,
+      "category": "Math",
+      "year": 2020,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 229, page 7. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 229,
+      "k": "tossups",
+      "i": 18,
+      "category": "Math",
+      "year": 2020,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 229, page 10. They agree. Visually checked the mathematical notation in the rendered source image /tmp/math-recheck-229-10.png.",
+      "changes": {}
+    },
+    {
+      "p": 232,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2020,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonus prompt, answer, choices, acceptance/rejection text, and available reading text against packet 232, page 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 232,
+      "k": "tossups",
+      "i": 22,
+      "category": "Math",
+      "year": 2020,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 232, page 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 233,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2021,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 233, page(s) 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 234,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2021,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 234, page(s) 17. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 235,
+      "k": "tossups",
+      "i": 11,
+      "category": "Math",
+      "year": 2021,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 235, page(s) 12. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 236,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2021,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 236, page(s) 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 236,
+      "k": "bonuses",
+      "i": 12,
+      "category": "Math",
+      "year": 2021,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 236, page(s) 13. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 236,
+      "k": "tossups",
+      "i": 0,
+      "category": "Math",
+      "year": 2021,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 236, page(s) 1. They agree. Visually checked mathematical notation against rendered source image /tmp/math-recheck-236-1.png.",
+      "changes": {}
+    },
+    {
+      "p": 237,
+      "k": "bonuses",
+      "i": 16,
+      "category": "Math",
+      "year": 2021,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 237, page(s) 17. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 238,
+      "k": "tossups",
+      "i": 3,
+      "category": "Math",
+      "year": 2021,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 238, page(s) 4. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 238,
+      "k": "tossups",
+      "i": 15,
+      "category": "Math",
+      "year": 2021,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 238, page(s) 16. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 239,
+      "k": "tossups",
+      "i": 8,
+      "category": "Math",
+      "year": 2021,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 239, page(s) 9. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 239,
+      "k": "tossups",
+      "i": 14,
+      "category": "Math",
+      "year": 2021,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 239, page(s) 15. They agree. Visually checked mathematical notation against rendered source image /tmp/math-recheck-239-15.png.",
+      "changes": {}
+    },
+    {
+      "p": 240,
+      "k": "bonuses",
+      "i": 1,
+      "category": "Math",
+      "year": 2021,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 240, page(s) 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 240,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2021,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 240, page(s) 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 240,
+      "k": "bonuses",
+      "i": 13,
+      "category": "Math",
+      "year": 2021,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 240, page(s) 14. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 240,
+      "k": "tossups",
+      "i": 7,
+      "category": "Math",
+      "year": 2021,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 240, page(s) 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 241,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2021,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 241, page(s) 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 241,
+      "k": "tossups",
+      "i": 12,
+      "category": "Math",
+      "year": 2021,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 241, page(s) 13. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 242,
+      "k": "bonuses",
+      "i": 17,
+      "category": "Math",
+      "year": 2021,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 242, page(s) 18. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 242,
+      "k": "tossups",
+      "i": 5,
+      "category": "Math",
+      "year": 2021,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 242, page(s) 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 242,
+      "k": "tossups",
+      "i": 11,
+      "category": "Math",
+      "year": 2021,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 242, page(s) 12. They agree. Visually checked mathematical notation against rendered source image /tmp/math-recheck-242-12.png.",
+      "changes": {}
+    },
+    {
+      "p": 243,
+      "k": "bonuses",
+      "i": 10,
+      "category": "Math",
+      "year": 2022,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 243, page(s) 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 244,
+      "k": "tossups",
+      "i": 12,
+      "category": "Math",
+      "year": 2022,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 244, page(s) 13. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 245,
+      "k": "bonuses",
+      "i": 2,
+      "category": "Math",
+      "year": 2022,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 245, page(s) 3. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 246,
+      "k": "tossups",
+      "i": 7,
+      "category": "Math",
+      "year": 2022,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 246, page(s) 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 248,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2022,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 248, page(s) 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 248,
+      "k": "tossups",
+      "i": 5,
+      "category": "Math",
+      "year": 2022,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 248, page(s) 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 249,
+      "k": "bonuses",
+      "i": 8,
+      "category": "Math",
+      "year": 2022,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 249, page(s) 9. They agree. Visually checked mathematical notation against rendered source image /tmp/check249-09.png.",
+      "changes": {}
+    },
+    {
+      "p": 249,
+      "k": "bonuses",
+      "i": 14,
+      "category": "Math",
+      "year": 2022,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 249, page(s) 15. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 250,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2022,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 250, page(s) 11. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 251,
+      "k": "bonuses",
+      "i": 7,
+      "category": "Math",
+      "year": 2022,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 251, page(s) 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 251,
+      "k": "bonuses",
+      "i": 13,
+      "category": "Math",
+      "year": 2022,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 251, page(s) 14. They agree. Visually checked mathematical notation against rendered source image /tmp/math-recheck-251-14.png.",
+      "changes": {}
+    },
+    {
+      "p": 251,
+      "k": "tossups",
+      "i": 1,
+      "category": "Math",
+      "year": 2022,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 251, page(s) 2. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 251,
+      "k": "tossups",
+      "i": 7,
+      "category": "Math",
+      "year": 2022,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 251, page(s) 8. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 251,
+      "k": "tossups",
+      "i": 13,
+      "category": "Math",
+      "year": 2022,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 251, page(s) 14. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 252,
+      "k": "tossups",
+      "i": 9,
+      "category": "Math",
+      "year": 2022,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 252, page(s) 10. They agree. Visually checked mathematical notation against rendered source image /tmp/math-recheck-252-10.png.",
+      "changes": {}
+    },
+    {
+      "p": 253,
+      "k": "bonuses",
+      "i": 14,
+      "category": "Math",
+      "year": 2022,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 253, page(s) 15. They agree. Visually checked mathematical notation against rendered source image /tmp/math-recheck-253-15.png.",
+      "changes": {}
+    },
+    {
+      "p": 253,
+      "k": "tossups",
+      "i": 14,
+      "category": "Math",
+      "year": 2022,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 253, page(s) 15. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 255,
+      "k": "bonuses",
+      "i": 0,
+      "category": "Math",
+      "year": 2022,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 255, page(s) 1. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 256,
+      "k": "bonuses",
+      "i": 5,
+      "category": "Math",
+      "year": 2022,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete bonuse prompt, answer, choices, acceptance/rejection text, and available reading text against packet 256, page(s) 6. They agree.",
+      "changes": {}
+    },
+    {
+      "p": 257,
+      "k": "tossups",
+      "i": 10,
+      "category": "Math",
+      "year": 2022,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete tossup prompt, answer, choices, acceptance/rejection text, and available reading text against packet 257, page(s) 11. They agree.",
+      "changes": {}
+    }
+  ]
+}

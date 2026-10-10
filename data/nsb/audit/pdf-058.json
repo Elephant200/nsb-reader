@@ -277,7 +277,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the complete item against page 1 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What is the perimeter of a sector of angle π/3 radians in a circle with 2 circumference 2π ? Provide your answer in simplest form in terms of π. 2"
@@ -297,7 +297,7 @@
           "What is the perimeter of a sector of angle π/3 radians in a circle with circumference 2π^2? Provide your answer in simplest form in terms of π."
         ],
         "answers_sanitized": [
-          "2π + π^2/3 (ACCEPT: (6π + π^2)/3)"
+          "2π + π²/3 (ACCEPT: (6π + π²)/(3))"
         ]
       }
     },

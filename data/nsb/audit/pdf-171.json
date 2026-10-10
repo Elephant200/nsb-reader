@@ -303,7 +303,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 shows bonus 12 with denominator 4ⁿ in the summand’s fraction; the printed answer is 16. The n is a superscript on 4.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and n denominator 4 ."
@@ -314,7 +314,7 @@
           "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and denominator 4<sup>n</sup>."
         ],
         "parts_sanitized": [
-          "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and denominator 4^n."
+          "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and denominator 4^(n)."
         ]
       }
     },
@@ -428,11 +428,24 @@
       "kind": "bonuses",
       "itemIndex": 20,
       "number": 21,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered PDF page 11 shows bonus 21. Printed source text and answer: 21) Chemistry – Short Answer Identify all of the following three compounds with dsp3 hybridized central atoms: 1) Silicon tetrafluoride [tetrah-FLOOR-ide]; 2) Sulfur hexafluoride [hex-ah-FLOOR-ide]; 3) Sulfur tetrafluoride. ANSWER: 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+      "evidence": "The rendered source PDF p. 11 prints both pronunciation cues directly followed by semicolons; stored text has an extra space before each semicolon. Both cues and all three compounds are retained.",
+      "before": {
+        "parts": [
+          "Identify all of the following three compounds with dsp3 hybridized central atoms: 1) Silicon tetrafluoride [tetrah-FLOOR-ide] ; 2) Sulfur hexafluoride [hex-ah-FLOOR-ide] ; 3) Sulfur tetrafluoride."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three compounds with dsp3 hybridized central atoms: 1) Silicon tetrafluoride [tetrah-FLOOR-ide]; 2) Sulfur hexafluoride [hex-ah-FLOOR-ide]; 3) Sulfur tetrafluoride."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three compounds with dsp3 hybridized central atoms: 1) Silicon tetrafluoride [tetrah-FLOOR-ide]; 2) Sulfur hexafluoride [hex-ah-FLOOR-ide]; 3) Sulfur tetrafluoride."
+        ]
+      }
     },
     {
       "kind": "bonuses",

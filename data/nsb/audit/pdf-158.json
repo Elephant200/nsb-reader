@@ -36,11 +36,18 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "p.2 confirms Chemistry – Short Answer What allotrope of phosphorous is thermodynamically stable at; ANSWER: BLACK PHOSPHORUS matches the print after reviewing the complete prompt/options."
+      "evidence": "Source PDF p. 2 prints “6-membered” without a gap after the hyphen. The stored stem has “6- membered”; the rest of the prompt matches.",
+      "before": {
+        "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6- membered rings?"
+      },
+      "changes": {
+        "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
+        "question_sanitized": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
+      }
     },
     {
       "kind": "tossups",
@@ -433,11 +440,24 @@
       "kind": "bonuses",
       "itemIndex": 21,
       "number": 22,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         11
       ],
-      "evidence": "p.11 confirms Chemistry – Short Answer An SN1 reaction is performed by reacting sodium bromide with; ANSWER: 23 matches the print after reviewing the complete prompt/options."
+      "evidence": "Source PDF p. 11 has no spaces after the line-ending hyphens in (R)-2-bromobutane or pure (S)-2-bromobutane. The stored prompt includes stray spaces at both locations; all wording is preserved.",
+      "before": {
+        "parts": [
+          "An SN1 reaction is performed by reacting sodium bromide with (S)-2-chlorobutane, and generates a 1 molar mixture of 70% (S)-2-bromobutane and 30% (R)-2- bromobutane. If the optical rotation of the solution was 9.2°, what is the optical rotation of pure (S)- 2-bromobutane, to the nearest degree?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "An SN1 reaction is performed by reacting sodium bromide with (S)-2-chlorobutane, and generates a 1 molar mixture of 70% (S)-2-bromobutane and 30% (R)-2-bromobutane. If the optical rotation of the solution was 9.2°, what is the optical rotation of pure (S)-2-bromobutane, to the nearest degree?"
+        ],
+        "parts_sanitized": [
+          "An SN1 reaction is performed by reacting sodium bromide with (S)-2-chlorobutane, and generates a 1 molar mixture of 70% (S)-2-bromobutane and 30% (R)-2-bromobutane. If the optical rotation of the solution was 9.2°, what is the optical rotation of pure (S)-2-bromobutane, to the nearest degree?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

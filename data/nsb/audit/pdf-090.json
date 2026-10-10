@@ -50,12 +50,15 @@
       "sourcePages": [
         3
       ],
-      "evidence": "The numbered matrix on source page 3 shows row 2, column 3 as −5; the source answer also includes the minus sign.",
+      "evidence": "Page 3 matrix rows (−2,2,0),(4,1,−5),(8,3,7) ask for x₂,₃; live prompt dropped the displayed matrix and index notation, leaving only the read-as cue.",
       "before": {
-        "answer": "5"
+        "answer": "5",
+        "question": "In the three by three matrix, [such that row one contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, 3, and 7], which is the [x sub 2, 3] element?"
       },
       "changes": {
-        "answer": "-5"
+        "answer": "-5",
+        "question": "In the three-by-three matrix [[−2, 2, 0], [4, 1, −5], [8, 3, 7]] [such that row one contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, 3, and 7], which is the x₂,₃ [x sub 2, 3] element?",
+        "question_sanitized": "In the three-by-three matrix [[−2, 2, 0], [4, 1, −5], [8, 3, 7]] [such that row one contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, 3, and 7], which is the x₂,₃ [x sub 2, 3] element?"
       }
     },
     {
@@ -196,13 +199,16 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Source page 10 prints the answer as −3/2b; the captured answer omitted the leading minus sign and fraction grouping.",
+      "evidence": "Page 10 slope of 3ax+2by=cd is −3a/(2b); current equation and answer both omit a.",
       "before": {
-        "answer": "3 /2b"
+        "answer": "3 /2b",
+        "question": "In terms of a, b, c, and d, what is the slope of the line 3 x + 2by = cd?"
       },
       "changes": {
-        "answer": "-<span class=\"nsb-fraction\"><span>3</span><span>2b</span></span>",
-        "answer_sanitized": "-3/(2b)"
+        "answer": "−3a/(2b)",
+        "answer_sanitized": "−3a/(2b)",
+        "question": "In terms of a, b, c, and d, what is the slope of the line 3ax + 2by = cd?",
+        "question_sanitized": "In terms of a, b, c, and d, what is the slope of the line 3ax + 2by = cd?"
       }
     },
     {
@@ -253,13 +259,13 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Source page 13 visibly prints f(x)=x² and g(x)=2ˣ; the captured prompt flattened both exponents into baseline digits.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "How many points of intersection do the graphs of the functions f(x) = x 2 and g(x) = 2 x have?"
       },
       "changes": {
         "question": "How many points of intersection do the graphs of the functions f(x) = x<sup>2</sup> and g(x) = 2<sup>x</sup> have?",
-        "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = x^2 and g(x) = 2^x have?"
+        "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = x² and g(x) = 2^(x) have?"
       }
     },
     {
@@ -519,7 +525,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "The rendered source page 13 shows an integral from 0 to 2 of (1/t)e^(ln t) dt; the captured plain-language cue did not preserve the fraction and exponent grouping.",
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Evaluate the following: [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
@@ -530,7 +536,7 @@
           "Evaluate the following: ∫<sub>0</sub><sup>2</sup> <span class=\"nsb-fraction\"><span>1</span><span>t</span></span> · e<sup>ln t</sup> dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
         ],
         "parts_sanitized": [
-          "Evaluate the following: the integral from 0 to 2 of (1/t) times e^(ln t) dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
+          "Evaluate the following: ∫₀² (1)/(t) · e^(ln t) dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
         ]
       }
     }

@@ -474,11 +474,24 @@
       "kind": "bonuses",
       "itemIndex": 15,
       "number": 16,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "p. 8: complete source prompt/options and answer ‘2, 4, 1, 3 (ACCEPT: FLUORINE, CHLORINE, LITHIUM, SODIUM) 2017 Regional High School NSB®                                                     ’ match printed bonuse 16 section (Chemistry – Short Answer Rank the following four atoms in order of increasing atomic radiu)."
+      "evidence": "Source PDF p. 8 prints the semicolon immediately after the pronunciation cue. The stored part has an extra space before that semicolon; all cue text and item wording are retained.",
+      "before": {
+        "parts": [
+          "Rank the following four atoms in order of increasing atomic radius: 1) Lithium; 2) Fluorine [FLOOR-een] ; 3) Sodium; 4) Chlorine."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Rank the following four atoms in order of increasing atomic radius: 1) Lithium; 2) Fluorine [FLOOR-een]; 3) Sodium; 4) Chlorine."
+        ],
+        "parts_sanitized": [
+          "Rank the following four atoms in order of increasing atomic radius: 1) Lithium; 2) Fluorine [FLOOR-een]; 3) Sodium; 4) Chlorine."
+        ]
+      }
     },
     {
       "kind": "bonuses",

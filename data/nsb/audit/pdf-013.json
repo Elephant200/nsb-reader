@@ -10,13 +10,13 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the original PDF page 1 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Name the elements in the following reaction that have been  oxidized and reduced, respectively: Zn + CuSO ZnSO + Cu (solid) 4(aqueous) 4(aqueous) (solid)"
       },
       "changes": {
         "question": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO<sub>4</sub>(aqueous) → ZnSO<sub>4</sub>(aqueous) + Cu(solid)",
-        "question_sanitized": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO_4(aqueous) → ZnSO_4(aqueous) + Cu(solid)"
+        "question_sanitized": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO₄(aqueous) → ZnSO₄(aqueous) + Cu(solid)"
       }
     },
     {
@@ -79,7 +79,7 @@
       "sourcePages": [
         3
       ],
-    "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
+      "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
     },
     {
       "kind": "tossups",
@@ -105,11 +105,18 @@
       "kind": "tossups",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+      "evidence": "Rendered source page 4 at /tmp/chem-013p04.png; removed a space between the formula and its colon, matching the source typography. Full replacement field is recorded in changes.",
+      "before": {
+        "question": "According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF<sub>4</sub> :<br>W) linear<br>X) trigonal bipyramidal<br>Y) square planar<br>Z) square pyramidal"
+      },
+      "changes": {
+        "question": "According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF<sub>4</sub>:<br>W) linear<br>X) trigonal bipyramidal<br>Y) square planar<br>Z) square pyramidal",
+        "question_sanitized": "According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF₄:\nW) linear\nX) trigonal bipyramidal\nY) square planar\nZ) square pyramidal"
+      }
     },
     {
       "kind": "tossups",
@@ -239,7 +246,7 @@
       "sourcePages": [
         11
       ],
-    "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
     },
     {
       "kind": "tossups",
@@ -396,11 +403,24 @@
       "kind": "bonuses",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+      "evidence": "Rendered source page 4 at /tmp/chem-013p04.png; removed a space between the formula and its colon, matching the source typography. Full replacement field is recorded in changes.",
+      "before": {
+        "parts": [
+          "According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF<sub>3</sub> :<br>W) t-shaped<br>X) see-saw<br>Y) linear<br>Z) bent"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF<sub>3</sub>:<br>W) t-shaped<br>X) see-saw<br>Y) linear<br>Z) bent"
+        ],
+        "parts_sanitized": [
+          "According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF₃:\nW) t-shaped\nX) see-saw\nY) linear\nZ) bent"
+        ]
+      }
     },
     {
       "kind": "bonuses",

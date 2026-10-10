@@ -30,13 +30,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Page 2 visibly shows the definite integral with lower bound a and upper bound b, integrating C(s) ds; the stored reading preserves the entire read-as cue but omitted this rich notation.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of [the integral from A to B of C of S d S]?<br>W) Gallons<br>X) Gallons per hour<br>Y) Miles per hour per gallon<br>Z) Gallons per mile per hour"
       },
       "changes": {
         "question": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫<sub>a</sub><sup>b</sup> C(s) ds [the integral from A to B of C of S d S]?<br>W) Gallons<br>X) Gallons per hour<br>Y) Miles per hour per gallon<br>Z) Gallons per mile per hour",
-        "question_sanitized": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫_a^b C(s) ds [the integral from A to B of C of S d S]?; W) Gallons; X) Gallons per hour; Y) Miles per hour per gallon; Z) Gallons per mile per hour"
+        "question_sanitized": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫_(a)^(b) C(s) ds [the integral from A to B of C of S d S]?\nW) Gallons\nX) Gallons per hour\nY) Miles per hour per gallon\nZ) Gallons per mile per hour"
       }
     },
     {

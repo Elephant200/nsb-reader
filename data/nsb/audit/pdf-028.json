@@ -36,13 +36,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 2; the source stem and responses match. Applied the source-confirmed notation correction.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Evaluate lim [the limit as x approaches 0 of the fraction with 𝑥𝑥→0 𝑥𝑥 numerator negative 5 plus 5 times e to the x and denominator x]."
       },
       "changes": {
         "question": "Evaluate lim<sub>x→0</sub> <span class=\"nsb-fraction\"><span>−5 + 5e<sup>x</sup></span><span>x</span></span> [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x].",
-        "question_sanitized": "Evaluate the limit as x approaches 0 of (-5 + 5e^x)/x [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."
+        "question_sanitized": "Evaluate lim_(x→0) (−5 + 5e^(x))/(x) [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."
       }
     },
     {
@@ -462,7 +462,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 8; the source stem and responses match. Applied the source-confirmed notation correction.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Match the following reactions: E2, S N 2, and E1 to the following three solvents in which they generally occur : 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
@@ -476,7 +476,7 @@
           "Match the following reactions: E2, S<sub>N</sub>2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
         ],
         "parts_sanitized": [
-          "Match the following reactions: E2, S_N2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
+          "Match the following reactions: E2, S_(N)2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
         ],
         "answers": [
           "E2 = 3 (ACCEPT: VARIETY OF SOLVENTS); S<sub>N</sub>2 = 1 (ACCEPT: POLAR APROTIC); E1 = 2 (ACCEPT: POLAR PROTIC)"
@@ -583,7 +583,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 12; the source stem and responses match. Applied the source-confirmed notation correction.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "For the arithmetic sequence a n with a 1 = 5 and a 3 = -3, what is a 98 ?"
@@ -594,7 +594,7 @@
           "For the arithmetic sequence a<sub>n</sub> with a<sub>1</sub> = 5 and a<sub>3</sub> = −3, what is a<sub>98</sub>?"
         ],
         "parts_sanitized": [
-          "For the arithmetic sequence a_n with a_1 = 5 and a_3 = -3, what is a_98?"
+          "For the arithmetic sequence a_(n) with a₁ = 5 and a₃ = −3, what is a₉₈?"
         ]
       }
     },

@@ -1,0 +1,1279 @@
+{
+  "entries": [
+    {
+      "p": 0,
+      "k": "tossups",
+      "i": 10,
+      "before": {
+        "answer_sanitized": "a^(b^(2) + b)"
+      },
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "a^(b² + b)"
+      }
+    },
+    {
+      "p": 4,
+      "k": "tossups",
+      "i": 3,
+      "before": {
+        "question_sanitized": "Simplify the following without the use of negative exponents: (−24x^3y^5)/(10y^6z^2)"
+      },
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Simplify the following without the use of negative exponents: (−24x³y⁵)/(10y⁶z²)"
+      }
+    },
+    {
+      "p": 10,
+      "k": "bonuses",
+      "i": 24,
+      "before": {
+        "parts_sanitized": [
+          "Solve the following equation for x: 2^7 × 2^((x^(2) − 2)) = 2^21"
+        ]
+      },
+      "number": 25,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Solve the following equation for x: 2⁷ × 2^((x² - 2)) = 2²¹"
+        ]
+      }
+    },
+    {
+      "p": 18,
+      "k": "tossups",
+      "i": 11,
+      "before": {
+        "question_sanitized": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c * a^b - d [c times a to the power of b minus d]? W) 6; X) 8; Y) 9; Z) 12"
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c · a^(b) − d [c times a to the power of b minus d]?\nW) 6\nX) 8\nY) 9\nZ) 12"
+      }
+    },
+    {
+      "p": 22,
+      "k": "bonuses",
+      "i": 16,
+      "before": {
+        "parts_sanitized": [
+          "Providing an exact answer, solve the following equation for x: e^x(8 - e^x) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
+        ]
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Providing an exact answer, solve the following equation for x: e^(x)(8 − e^(x)) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
+        ]
+      }
+    },
+    {
+      "p": 22,
+      "k": "bonuses",
+      "i": 22,
+      "before": {
+        "parts_sanitized": [
+          "Solve the following equation for x over the real numbers: log_2(x + 5) - log_2(x - 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
+        ]
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Solve the following equation for x over the real numbers: log₂(x + 5) − log₂(x − 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
+        ]
+      }
+    },
+    {
+      "p": 23,
+      "k": "bonuses",
+      "i": 12,
+      "before": {
+        "parts_sanitized": [
+          "For a recursive sequence a_n defined as follows: a_1 = 7, a_2 = 3, and a_n = a_(n-1) - a_(n-2) for n >= 3, find a_1205 [a sub 1205]. W) -4; X) -3; Y) 3; Z) 4"
+        ]
+      },
+      "number": 13,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "For a recursive sequence a_(n) defined as follows: a₁ = 7, a₂ = 3, and a_(n) = a_(n-1) − a_(n-2) for n ≥ 3, find a₁₂₀₅ [a sub 1205].\nW) −4\nX) −3\nY) 3\nZ) 4"
+        ]
+      }
+    },
+    {
+      "p": 23,
+      "k": "bonuses",
+      "i": 18,
+      "before": {
+        "parts_sanitized": [
+          "Evaluate lim as x approaches 1 of (-1 + cube_root(x))/(x - 1) [the limit as x approaches 1 of the fraction with numerator negative 1 plus the cube root of x and denominator x minus 1]."
+        ]
+      },
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Evaluate lim_(x→1)(−1 + ∛x)/(x − 1) [the limit as x approaches 1 of the fraction with numerator negative 1 plus the cube root of x and denominator x minus 1]."
+        ]
+      }
+    },
+    {
+      "p": 25,
+      "k": "tossups",
+      "i": 8,
+      "before": {
+        "answer_sanitized": "y^6/(16x^10)"
+      },
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "(y⁶)/(16x¹⁰)"
+      }
+    },
+    {
+      "p": 26,
+      "k": "tossups",
+      "i": 13,
+      "before": {
+        "question_sanitized": "Solve the following expression when x = 4: (x^3/9)^(-1/2) [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power]."
+      },
+      "number": 14,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Solve the following expression when x = 4: (x³/9)^(-1/2) [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power]."
+      }
+    },
+    {
+      "p": 26,
+      "k": "bonuses",
+      "i": 2,
+      "before": {
+        "parts_sanitized": [
+          "A series is defined recursively. If a_1 = -2 and a_n = 3 + (a_(n-1))^(n-1) [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a_4."
+        ]
+      },
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "A series is defined recursively. If a₁ = −2 and a_(n) = 3 + (a_(n-1))^(n-1) [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a₄."
+        ]
+      }
+    },
+    {
+      "p": 26,
+      "k": "bonuses",
+      "i": 19,
+      "before": {
+        "parts_sanitized": [
+          "If the recursive sequence t_n is defined by t_1 = 3 and t_n = -5 + 3t_(n-1), what is the value of t_6?"
+        ]
+      },
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "If the recursive sequence t_(n) is defined by t₁ = 3 and t_(n) = −5 + 3t_(n-1), what is the value of t₆?"
+        ]
+      }
+    },
+    {
+      "p": 28,
+      "k": "tossups",
+      "i": 3,
+      "before": {
+        "question_sanitized": "Evaluate the limit as x approaches 0 of (-5 + 5e^x)/x [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."
+      },
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Evaluate lim_(x→0) (−5 + 5e^(x))/(x) [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."
+      }
+    },
+    {
+      "p": 28,
+      "k": "bonuses",
+      "i": 22,
+      "before": {
+        "parts_sanitized": [
+          "For the arithmetic sequence a_n with a_1 = 5 and a_3 = -3, what is a_98?"
+        ]
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "For the arithmetic sequence a_(n) with a₁ = 5 and a₃ = −3, what is a₉₈?"
+        ]
+      }
+    },
+    {
+      "p": 29,
+      "k": "tossups",
+      "i": 19,
+      "before": {
+        "question_sanitized": "Evaluate the limit as x goes to infinity of x^5/e^x [the limit as x goes to infinity of the fraction x to the fifth over e to the x]."
+      },
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Evaluate lim_(x → ∞) (x⁵)/(e^(x)) [the limit as x goes to infinity of the fraction x to the fifth over e to the x]."
+      }
+    },
+    {
+      "p": 30,
+      "k": "bonuses",
+      "i": 11,
+      "before": {
+        "parts_sanitized": [
+          "Find dy/dx at the point with coordinates (1, 2) if y is implicitly defined by the equation x^3y + xy^2 = 6."
+        ]
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Find (dy)/(dx) at the point with coordinates (1, 2) if y is implicitly defined by the equation x³y + xy² = 6."
+        ]
+      }
+    },
+    {
+      "p": 37,
+      "k": "tossups",
+      "i": 3,
+      "before": {
+        "answer_sanitized": "(log 53)/(log 4) (ACCEPT: (log_10 53)/(log_10 4))"
+      },
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "(log 53)/(log 4) (ACCEPT: (log₁₀ 53)/(log₁₀ 4))"
+      }
+    },
+    {
+      "p": 37,
+      "k": "bonuses",
+      "i": 10,
+      "before": {
+        "parts_sanitized": [
+          "Express the following radical in its simplest radical form: -2 times the square root of 80a^2b^4c^3"
+        ],
+        "answers_sanitized": [
+          "-8ab^2c times the square root of (5c)"
+        ]
+      },
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Express the following radical in its simplest radical form: −2√(80a²b⁴c³)"
+        ],
+        "answers_sanitized": [
+          "−8ab²c√(5c)"
+        ]
+      }
+    },
+    {
+      "p": 39,
+      "k": "tossups",
+      "i": 17,
+      "before": {
+        "question_sanitized": "Solve the following logarithmic equation for x: log_4 x = 4 (read as: log base 4 of x equals 4)"
+      },
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Solve the following logarithmic equation for x: log₄ x = 4 (read as: log base 4 of x equals 4)"
+      }
+    },
+    {
+      "p": 41,
+      "k": "tossups",
+      "i": 17,
+      "before": {
+        "question_sanitized": "Which of the following is NOT a geometric sequence:; W) 30, 6, 6/5…; X) a^2, a^3b, a^4b^2…; Y) 6, 13, 20…; Z) 3/2, 3/4, 3/8…"
+      },
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Which of the following is NOT a geometric sequence:\nW) 30, 6, (6)/(5)...\nX) a², a³b, a⁴b²...\nY) 6, 13, 20...\nZ) (3)/(2), (3)/(4), (3)/(8)..."
+      }
+    },
+    {
+      "p": 41,
+      "k": "bonuses",
+      "i": 17,
+      "before": {
+        "answers_sanitized": [
+          "1 − 1/(x^2y^2) + x^2y − 1/y (Note: the terms can be given in any order)"
+        ]
+      },
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "1 − (1)/(x²y²) + x²y − (1)/(y) (Note: the terms can be given in any order)"
+        ]
+      }
+    },
+    {
+      "p": 48,
+      "k": "tossups",
+      "i": 17,
+      "before": {
+        "question_sanitized": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: (x + 1)^2/16 + (y - 2)^2/9 = 1"
+      },
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: ((x + 1)²)/(16) + ((y − 2)²)/(9) = 1"
+      }
+    },
+    {
+      "p": 48,
+      "k": "bonuses",
+      "i": 3,
+      "before": {
+        "parts_sanitized": [
+          "Find the following indefinite integral: integral of x times e^x dx (read as: the integral of x times e to the x power, dx)"
+        ],
+        "answers_sanitized": [
+          "x e^x - e^x + C"
+        ]
+      },
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Find the following indefinite integral: ∫ x e^(x) dx (read as: the integral of x times e to the x power, dx)"
+        ],
+        "answers_sanitized": [
+          "x e^(x) − e^(x) + C"
+        ]
+      }
+    },
+    {
+      "p": 50,
+      "k": "tossups",
+      "i": 2,
+      "before": {
+        "question_sanitized": "What is the greatest common factor of the terms in the expression 3x^5y^2 + 6x^3y^5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
+        "answer_sanitized": "3x^3y^2"
+      },
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What is the greatest common factor of the terms in the expression 3x⁵y² + 6x³y⁵ (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
+        "answer_sanitized": "3x³y²"
+      }
+    },
+    {
+      "p": 52,
+      "k": "tossups",
+      "i": 5,
+      "before": {
+        "question_sanitized": "What type of growth does y = 36 * 7^x (read as: y equals 36 times 7 to the power of x) represent?"
+      },
+      "number": 6,
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What type of growth does y = 36 × 7^(x) (read as: y equals 36 times 7 to the power of x) represent?"
+      }
+    },
+    {
+      "p": 53,
+      "k": "tossups",
+      "i": 7,
+      "before": {
+        "question_sanitized": "Simplify the following completely: (3xy^2) (4x^2y^3) (read as: 3xy squared times 4x squared y squared)",
+        "answer_sanitized": "12 x^3y^5"
+      },
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Simplify the following completely: (3xy²) (4x²y³) (read as: 3xy squared times 4x squared y squared)",
+        "answer_sanitized": "12 x³y⁵"
+      }
+    },
+    {
+      "p": 58,
+      "k": "bonuses",
+      "i": 0,
+      "before": {
+        "answers_sanitized": [
+          "2π + π^2/3 (ACCEPT: (6π + π^2)/3)"
+        ]
+      },
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answers_sanitized": [
+          "2π + π²/3 (ACCEPT: (6π + π²)/(3))"
+        ]
+      }
+    },
+    {
+      "p": 82,
+      "k": "bonuses",
+      "i": 21,
+      "before": {
+        "parts_sanitized": [
+          "Which of the following points is on the graph of the inverse of the function f(x) = 10^((x + 2)) [f of x equals 10 to the power of the quantity x plus 2]?\nW) (100, 0)\nX) (0, 100)\nY) (10, 0)\nZ) (0, 10)"
+        ]
+      },
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Which of the following points is on the graph of the inverse of the function f(x) = 10^((x + 2)) [f of x equals 10 to the power of the quantity x plus 2]?\nW) (100, 0)\nX) (0, 100)\nY) (10, 0)\nZ) (0, 10)"
+        ]
+      }
+    },
+    {
+      "p": 84,
+      "k": "tossups",
+      "i": 18,
+      "before": {
+        "question_sanitized": "For what values of x is the function f(x) = x^2/(x^2 - 4x + 4) [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
+      },
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "For what values of x is the function f(x) = (x²)/(x² − 4x + 4) [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
+      }
+    },
+    {
+      "p": 87,
+      "k": "tossups",
+      "i": 3,
+      "before": {
+        "question_sanitized": "What is x equal to in the following expression: log_x 7 = 1 [log base x of 7 equals 1]?"
+      },
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What is x equal to in the following expression: log_(x) 7 = 1 [log base x of 7 equals 1]?"
+      }
+    },
+    {
+      "p": 89,
+      "k": "bonuses",
+      "i": 10,
+      "before": {
+        "parts_sanitized": [
+          "Which of the following functions has an oblique asymptote?\nW) f(x) = (x^5 + 1)/(x^4 + 3x^2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]\nX) f(x) = (x^2 + 1)/(x^3 - x^2 - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]\nY) f(x) = (4x^2 + x + 1)/(x^2) [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]\nZ) f(x) = x^5/(x^2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+        ]
+      },
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Which of the following functions has an oblique asymptote?\nW) f(x) = (x⁵ + 1)/(x⁴ + 3x² + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]\nX) f(x) = (x² + 1)/(x³ - x² - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]\nY) f(x) = (4x² + x + 1)/(x²) [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]\nZ) f(x) = (x⁵)/(x² - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+        ]
+      }
+    },
+    {
+      "p": 90,
+      "k": "tossups",
+      "i": 24,
+      "before": {
+        "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = x^2 and g(x) = 2^x have?"
+      },
+      "number": 25,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = x² and g(x) = 2^(x) have?"
+      }
+    },
+    {
+      "p": 91,
+      "k": "tossups",
+      "i": 13,
+      "before": {
+        "question_sanitized": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?\nW) y = 100 + 2^t [y equals 100 plus 2 to the power of t]\nX) y = 100(2^t) [y equals 100 times the quantity 2 to the power of t]\nY) y = 2^t [y equals 2 to the power of t]\nZ) y = 200(2^t) [y equals 200 times the quantity 2 to the power of t]",
+        "answer_sanitized": "X) y = 100(2^t)"
+      },
+      "number": 14,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?\nW) y = 100 + 2^(t) [y equals 100 plus 2 to the power of t]\nX) y = 100(2^(t)) [y equals 100 times the quantity 2 to the power of t]\nY) y = 2^(t) [y equals 2 to the power of t]\nZ) y = 200(2^(t)) [y equals 200 times the quantity 2 to the power of t]",
+        "answer_sanitized": "X) y = 100(2^(t))"
+      }
+    },
+    {
+      "p": 92,
+      "k": "bonuses",
+      "i": 9,
+      "before": {
+        "parts_sanitized": [
+          "If f(x) = -2x - e^x [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
+        ]
+      },
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "If f(x) = -2x - e^(x) [f of x equals negative 2x minus e to the x], what is the range of f' [the derivative of f]?"
+        ]
+      }
+    },
+    {
+      "p": 94,
+      "k": "tossups",
+      "i": 4,
+      "before": {
+        "question_sanitized": "If log_b(5) = c [log base b of 5 equals c], then what does b^(4c) [b to the power of 4 c] equal?"
+      },
+      "number": 5,
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "If log_(b)(5) = c [log base b of 5 equals c], then what does b^(4c) [b to the power of 4 c] equal?"
+      }
+    },
+    {
+      "p": 94,
+      "k": "tossups",
+      "i": 20,
+      "before": {
+        "question_sanitized": "How many points of intersection exist for the graphs of y = 2^x [y equals 2 to the power of x] and y = -x^2 + 2?"
+      },
+      "number": 21,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "How many points of intersection exist for the graphs of y = 2^(x) [y equals 2 to the power of x] and y = −x² + 2?"
+      }
+    },
+    {
+      "p": 95,
+      "k": "tossups",
+      "i": 5,
+      "before": {
+        "question_sanitized": "What is the limit of x^x as x approaches 0?"
+      },
+      "number": 6,
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What is the limit of x^(x) as x approaches 0?"
+      }
+    },
+    {
+      "p": 95,
+      "k": "tossups",
+      "i": 19,
+      "before": {
+        "answer_sanitized": "(2/3) πr^3 (ALSO ACCEPT: 2πr^3/3)"
+      },
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "answer_sanitized": "(2/3) πr³ (ALSO ACCEPT: 2πr³/3)"
+      }
+    },
+    {
+      "p": 97,
+      "k": "tossups",
+      "i": 14,
+      "before": {
+        "question_sanitized": "If f(x) = sin^2x + cos^2x [f of x equals sine squared of x plus cosine squared of x], what is f'(x) [f prime of x]?\nW) 0\nX) 1\nY) 2sinxcosx [2 sine of x cosine of x]\nZ) sin2x [sine of 2x]"
+      },
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "If f(x) = sin²x + cos²x [f of x equals sine squared of x plus cosine squared of x], what is f′(x) [f prime of x]?\nW) 0\nX) 1\nY) 2sinxcosx [2 sine of x cosine of x]\nZ) sin2x [sine of 2x]"
+      }
+    },
+    {
+      "p": 97,
+      "k": "tossups",
+      "i": 20,
+      "before": {
+        "question_sanitized": "Solve the following equation for x over the real numbers: 27(3^x) = 81 [27 times 3 to the power of x equals 81]."
+      },
+      "number": 21,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Solve the following equation for x over the real numbers: 27(3^(x)) = 81 [27 times 3 to the power of x equals 81]."
+      }
+    },
+    {
+      "p": 97,
+      "k": "bonuses",
+      "i": 8,
+      "before": {
+        "parts_sanitized": [
+          "Which of the following is equivalent to (a^-1 + b^-1)^-1 [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?\nW) ab/(a + b) [the fraction with numerator ab and denominator a plus b]\nX) a + b\nY) a^2b^2\nZ) ab"
+        ]
+      },
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Which of the following is equivalent to (a⁻¹ + b⁻¹)⁻¹ [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?\nW) (ab)/(a + b) [the fraction with numerator ab and denominator a plus b]\nX) a + b\nY) a²b²\nZ) ab"
+        ]
+      }
+    },
+    {
+      "p": 100,
+      "k": "bonuses",
+      "i": 8,
+      "before": {
+        "parts_sanitized": [
+          "Given (2^x)(3^y)(5^z) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
+        ]
+      },
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Given (2^(x))(3^(y))(5^(z)) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
+        ]
+      }
+    },
+    {
+      "p": 107,
+      "k": "bonuses",
+      "i": 2,
+      "before": {
+        "parts_sanitized": [
+          "The series with nth term (-1)^n/n [negative 1 to the nth power, divided by n] is which of the following? W) Divergent and unbounded X) Divergent and bounded from above only Y) Divergent and bounded Z) Convergent and bounded"
+        ]
+      },
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "The series with nth term (−1)^(n)/n [negative 1 to the nth power, divided by n] is which of the following?\nW) Divergent and unbounded\nX) Divergent and bounded from above only\nY) Divergent and bounded\nZ) Convergent and bounded"
+        ]
+      }
+    },
+    {
+      "p": 109,
+      "k": "tossups",
+      "i": 12,
+      "before": {
+        "question_sanitized": "Given g(x) = (1 - cos(x))/(x^2) [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim_(x->0) g(x) [the limit as x approaches 0 of g of x]."
+      },
+      "number": 13,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Given g(x) = (1 − cos(x))/(x²) [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim_(x→0) g(x) [the limit as x approaches 0 of g of x]."
+      }
+    },
+    {
+      "p": 109,
+      "k": "tossups",
+      "i": 18,
+      "before": {
+        "question_sanitized": "Given f(x) = ln(sqrt(e^x)) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
+      },
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Given f(x) = ln(√(e^(x))) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
+      }
+    },
+    {
+      "p": 109,
+      "k": "bonuses",
+      "i": 6,
+      "before": {
+        "parts_sanitized": [
+          "Assuming y^2 + 3x^2y = 7x^2 - 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
+        ]
+      },
+      "number": 7,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Assuming y² + 3x²y = 7x² − 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
+        ]
+      }
+    },
+    {
+      "p": 111,
+      "k": "bonuses",
+      "i": 1,
+      "before": {
+        "parts_sanitized": [
+          "Given the two sequences s_1 with nth term 2/(n + 6) and s_2 with nth term n/(5 + n), which of the following statements is correct? W) s_1 and s_2 are both increasing X) s_1 is increasing and s_2 is decreasing Y) s_1 is decreasing and s_2 is increasing Z) s_1 and s_2 are both decreasing"
+        ]
+      },
+      "number": 2,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Given the two sequences s₁ with nth term (2)/(n + 6) and s₂ with nth term (n)/(5 + n), which of the following statements is correct?\nW) s₁ and s₂ are both increasing\nX) s₁ is increasing and s₂ is decreasing\nY) s₁ is decreasing and s₂ is increasing\nZ) s₁ and s₂ are both decreasing"
+        ]
+      }
+    },
+    {
+      "p": 111,
+      "k": "bonuses",
+      "i": 7,
+      "before": {
+        "parts_sanitized": [
+          "Which of the following is a solution for x of the equation 2^(x-2) = pi^x [2 to the quantity x minus 2 equals pi to the x]? W) (log(4))/(log(2) - log(pi)) [the fraction with numerator log of 4 and denominator log of 2 minus log of pi] X) (log(4))/(log(pi) - log(2)) [the fraction with numerator log of 4 and denominator log of pi minus log of 2] Y) (log(pi) - log(2))/(log(4)) [the fraction with numerator log of pi minus log of 2 and denominator log of 4] Z) (log(2) - log(pi))/(log(4)) [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
+        ]
+      },
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Which of the following is a solution for x of the equation 2^(x-2) = π^(x) [2 to the quantity x minus 2 equals pi to the x]?\nW) (log(4))/(log(2) − log(π)) [the fraction with numerator log of 4 and denominator log of 2 minus log of pi]\nX) (log(4))/(log(π) − log(2)) [the fraction with numerator log of 4 and denominator log of pi minus log of 2]\nY) (log(π) − log(2))/(log(4)) [the fraction with numerator log of pi minus log of 2 and denominator log of 4]\nZ) (log(2) − log(π))/(log(4)) [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
+        ]
+      }
+    },
+    {
+      "p": 117,
+      "k": "tossups",
+      "i": 2,
+      "before": {
+        "question_sanitized": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫_a^b C(s) ds [the integral from A to B of C of S d S]?; W) Gallons; X) Gallons per hour; Y) Miles per hour per gallon; Z) Gallons per mile per hour"
+      },
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫_(a)^(b) C(s) ds [the integral from A to B of C of S d S]?\nW) Gallons\nX) Gallons per hour\nY) Miles per hour per gallon\nZ) Gallons per mile per hour"
+      }
+    },
+    {
+      "p": 120,
+      "k": "bonuses",
+      "i": 16,
+      "before": {
+        "parts_sanitized": [
+          "Simplify: log_b((b^a)^b)/log_a((a^b)^a) [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
+        ]
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Simplify: (log_(b)((b^(a))^(b)))/(log_(a)((a^(b))^(a))) [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
+        ]
+      }
+    },
+    {
+      "p": 128,
+      "k": "tossups",
+      "i": 8,
+      "before": {
+        "question_sanitized": "For the expression 5^x = 4^z [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true? W) x^z = log(5/4) [x to the power of z equals log of five-fourths] X) z/4 = log_5(x) [z divided by four equals log base five of x] Y) z < x Z) x/z < 1 [x divided by z is less than one]"
+      },
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "For the expression 5^(x) = 4^(z) [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true?\nW) x^(z) = log (5)/(4) [x to the power of z equals log of five-fourths]\nX) (z)/(4) = log₅(x) [z divided by four equals log base five of x]\nY) z < x\nZ) (x)/(z) < 1 [x divided by z is less than one]"
+      }
+    },
+    {
+      "p": 130,
+      "k": "bonuses",
+      "i": 16,
+      "before": {
+        "parts_sanitized": [
+          "You are given that xy = 6 and x^2y + xy^2 + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: x^2 + y^2 [x squared plus y squared]."
+        ]
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "You are given that xy = 6 and x²y + xy² + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: x² + y² [x squared plus y squared]."
+        ]
+      }
+    },
+    {
+      "p": 133,
+      "k": "bonuses",
+      "i": 19,
+      "before": {
+        "parts_sanitized": [
+          "Let f(x) = x^2 + e^x and g(x) = 1/x^2. Determine g prime of f prime of zero."
+        ]
+      },
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Let f(x) = x² + e^(x) and g(x) = 1/x². Determine g prime of f prime of zero."
+        ]
+      }
+    },
+    {
+      "p": 134,
+      "k": "tossups",
+      "i": 1,
+      "before": {
+        "question_sanitized": "Evaluate the following expression: -i^25."
+      },
+      "number": 2,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Evaluate the following expression: −i²⁵."
+      }
+    },
+    {
+      "p": 139,
+      "k": "tossups",
+      "i": 22,
+      "before": {
+        "question_sanitized": "Evaluate the limit, as n approaches infinity, of the sequence whose nth term is n^2/3^n."
+      },
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Evaluate the limit, as n approaches infinity, of the sequence whose nth term is (n²)/(3^(n))."
+      }
+    },
+    {
+      "p": 145,
+      "k": "bonuses",
+      "i": 17,
+      "before": {
+        "parts_sanitized": [
+          "What is the limit as x approaches 0 of the fraction with numerator 2^x − 1 and denominator e^x − 1?"
+        ]
+      },
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "What is the limit as x approaches 0 of the fraction with numerator 2^(x) − 1 and denominator e^(x) − 1?"
+        ]
+      }
+    },
+    {
+      "p": 147,
+      "k": "tossups",
+      "i": 11,
+      "before": {
+        "question_sanitized": "For what integer value of k is 2015 cubed closest to 10^k?"
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "For what integer value of k is 2015 cubed closest to 10^(k)?"
+      }
+    },
+    {
+      "p": 149,
+      "k": "tossups",
+      "i": 9,
+      "before": {
+        "question_sanitized": "If n is an integer, and x^n is positive for all nonzero real numbers x, which of the following must be true about n? W) n is greater than zero; X) n does not equal zero; Y) n is even; Z) n is odd"
+      },
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "If n is an integer, and x^(n) is positive for all nonzero real numbers x, which of the following must be true about n?\nW) n is greater than zero\nX) n does not equal zero\nY) n is even\nZ) n is odd"
+      }
+    },
+    {
+      "p": 171,
+      "k": "bonuses",
+      "i": 11,
+      "before": {
+        "parts_sanitized": [
+          "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and denominator 4^n."
+        ]
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Evaluate the summation, from n = 0 to infinity, of the fraction with numerator 12 and denominator 4^(n)."
+        ]
+      }
+    },
+    {
+      "p": 173,
+      "k": "bonuses",
+      "i": 16,
+      "before": {
+        "parts_sanitized": [
+          "What is the limit as x approaches 0 of the fraction with numerator e^x − 1 and denominator x^5?"
+        ]
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "What is the limit as x approaches 0 of the fraction with numerator e^(x) − 1 and denominator x⁵?"
+        ]
+      }
+    },
+    {
+      "p": 174,
+      "k": "tossups",
+      "i": 12,
+      "before": {
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x^5y^4?",
+        "answer_sanitized": "4x^5y^3"
+      },
+      "number": 13,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x⁵y⁴?",
+        "answer_sanitized": "4x⁵y³"
+      }
+    },
+    {
+      "p": 181,
+      "k": "tossups",
+      "i": 11,
+      "before": {
+        "question_sanitized": "Evaluate the following expression: –i^33."
+      },
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Evaluate the following expression: -i³³."
+      }
+    },
+    {
+      "p": 182,
+      "k": "bonuses",
+      "i": 9,
+      "before": {
+        "parts_sanitized": [
+          "What is the derivative of the function x^2 e^x at x = 1?"
+        ]
+      },
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "What is the derivative of the function x²e^(x) at x = 1?"
+        ]
+      }
+    },
+    {
+      "p": 185,
+      "k": "bonuses",
+      "i": 16,
+      "before": {
+        "parts_sanitized": [
+          "How many points of intersection are there for the graphs of y = 3^x and y = x^2 – 3?"
+        ]
+      },
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "How many points of intersection are there for the graphs of y = 3^(x) and y = x² - 3?"
+        ]
+      }
+    },
+    {
+      "p": 188,
+      "k": "bonuses",
+      "i": 9,
+      "before": {
+        "parts_sanitized": [
+          "Evaluate 12^2 + 22^2 + 32^2."
+        ]
+      },
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "Evaluate 12² + 22² + 32²."
+        ]
+      }
+    },
+    {
+      "p": 196,
+      "k": "tossups",
+      "i": 3,
+      "before": {
+        "question_sanitized": "What is the partial derivative with respect to x of the expression x^3y^2?",
+        "answer_sanitized": "3x^2y^2"
+      },
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What is the partial derivative with respect to x of the expression x³y²?",
+        "answer_sanitized": "3x²y²"
+      }
+    },
+    {
+      "p": 231,
+      "k": "bonuses",
+      "i": 5,
+      "before": {
+        "parts_sanitized": [
+          "What is the approximation for e^2 that results from using the first four nonzero terms of the Taylor series for e^x centered at 0?"
+        ]
+      },
+      "number": 6,
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "parts_sanitized": [
+          "What is the approximation for e² that results from using the first four nonzero terms of the Taylor series for e^(x) centered at 0?"
+        ]
+      }
+    },
+    {
+      "p": 247,
+      "k": "tossups",
+      "i": 0,
+      "before": {
+        "question_sanitized": "What is the partial derivative with respect to y of x^3y^4?",
+        "answer_sanitized": "4x^3y^3 (DO NOT ACCEPT: x^3 4y^3)"
+      },
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What is the partial derivative with respect to y of x³y⁴?",
+        "answer_sanitized": "4x³y³ (DO NOT ACCEPT: x³4y³)"
+      }
+    },
+    {
+      "p": 252,
+      "k": "tossups",
+      "i": 9,
+      "before": {
+        "question_sanitized": "Which of the following values is NOT in the range of f of x = e^x – 2?<br>W) –2<br>X) –1<br>Y) 0<br>Z) 1"
+      },
+      "number": 10,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "Which of the following values is NOT in the range of f of x = e^(x) - 2?\nW) -2\nX) -1\nY) 0\nZ) 1"
+      }
+    },
+    {
+      "p": 255,
+      "k": "tossups",
+      "i": 0,
+      "before": {
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x^4y^7?",
+        "answer_sanitized": "7x^4y^6"
+      },
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
+      "changes": {
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x⁴y⁷?",
+        "answer_sanitized": "7x⁴y⁶"
+      }
+    }
+  ],
+  "scope": "Canonical reader notation derived from existing source-reviewed rich Math fields; counted separately from fresh PDF reviews."
+}

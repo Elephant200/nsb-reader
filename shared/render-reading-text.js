@@ -54,13 +54,46 @@ function renderToken (token, openSpans) {
     return token;
   }
 
-  return escapeHTML(token).replace(/\^\(([\p{L}\p{N}+−=./→∞-]+)\)|\^([+-]?\d+)(?![\w./])|_\(([\p{L}\p{N}+−=./→∞-]+)\)/giu, (_, groupedPower, power, subscript) => {
-    const value = groupedPower ?? power ?? subscript;
-    const type = subscript === undefined ? 'sup' : 'sub';
+  return renderExplicitMath(escapeHTML(token));
+}
+
+function renderExplicitMath (text, nesting = 0) {
+  if (nesting >= 32) return text;
+  let result = '';
+  for (let index = 0; index < text.length; index++) {
+    const marker = text[index];
+    if (!['^', '_'].includes(marker)) {
+      result += marker;
+      continue;
+    }
+    let value;
+    let end = index;
+    if (text[index + 1] === '(') {
+      let depth = 1;
+      end = index + 2;
+      while (end < text.length && depth) {
+        if (text[end] === '(') depth++;
+        if (text[end] === ')') depth--;
+        end++;
+      }
+      value = text.slice(index + 2, end - 1);
+      if (depth || !/^[\p{L}\p{N}+−=./→∞\u00a0()^_*×⋅,:-]+$/u.test(value)) value = undefined;
+    } else if (marker === '^') {
+      const match = text.slice(index).match(/^\^([+-]?\d+)(?![\w./])/);
+      value = match?.[1];
+      end = index + (match?.[0].length ?? 0);
+    }
+    if (value === undefined) {
+      result += marker;
+      continue;
+    }
+    const type = marker === '^' ? 'sup' : 'sub';
     const digits = type === 'sup' ? '⁰¹²³⁴⁵⁶⁷⁸⁹' : '₀₁₂₃₄₅₆₇₈₉';
     const signs = type === 'sup' ? { '+': '⁺', '-': '⁻', '−': '⁻', '=': '⁼' } : { '+': '₊', '-': '₋', '−': '₋', '=': '₌' };
     const letters = type === 'sub' ? { a: 'ₐ', e: 'ₑ', h: 'ₕ', i: 'ᵢ', j: 'ⱼ', k: 'ₖ', l: 'ₗ', m: 'ₘ', n: 'ₙ', o: 'ₒ', p: 'ₚ', r: 'ᵣ', s: 'ₛ', t: 'ₜ', u: 'ᵤ', v: 'ᵥ', x: 'ₓ' } : {};
     const converted = [...value].map(char => /\d/.test(char) ? digits[Number(char)] : signs[char] ?? letters[char]);
-    return converted.every(char => char !== undefined) ? converted.join('') : `<${type}>${value}</${type}>`;
-  });
+    result += converted.every(char => char !== undefined) ? converted.join('') : `<${type}>${renderExplicitMath(value, nesting + 1)}</${type}>`;
+    index = end - 1;
+  }
+  return result;
 }

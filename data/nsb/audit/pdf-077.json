@@ -124,7 +124,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 11 page 5; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V and V of A A B and B at the end of the displacement?<br>W) V = V /2 B A<br>X) V = 2V B A<br>Y) V = 2V B A<br>Z) V = 4V B A",
         "options": [
@@ -137,7 +137,7 @@
       },
       "changes": {
         "question": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V<sub>A</sub> and V<sub>B</sub> of A and B at the end of the displacement?<br>W) V<sub>B</sub> = V<sub>A</sub>/2<br>X) V<sub>B</sub> = √2 V<sub>A</sub><br>Y) V<sub>B</sub> = 2V<sub>A</sub><br>Z) V<sub>B</sub> = 4V<sub>A</sub>",
-        "question_sanitized": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V_A and V_B of A and B at the end of the displacement?<br>W) V_B = V_A/2<br>X) V_B = sqrt(2) V_A<br>Y) V_B = 2V_A<br>Z) V_B = 4V_A",
+        "question_sanitized": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V_(A) and V_(B) of A and B at the end of the displacement?\nW) V_(B) = V_(A)/2\nX) V_(B) = √2 V_(A)\nY) V_(B) = 2V_(A)\nZ) V_(B) = 4V_(A)",
         "options": [
           "W) V<sub>B</sub> = V<sub>A</sub>/2",
           "X) V<sub>B</sub> = √2 V<sub>A</sub>",
@@ -145,7 +145,7 @@
           "Z) V<sub>B</sub> = 4V<sub>A</sub>"
         ],
         "answer": "X) V<sub>B</sub> = √2 V<sub>A</sub>",
-        "answer_sanitized": "X) V_B = sqrt(2) V_A"
+        "answer_sanitized": "X) V_(B) = √2 V_(A)"
       }
     },
     {

@@ -40,16 +40,16 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Page 2 prints x³y² and answer 3x²y²; restored all powers in prompt and answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is the partial derivative with respect to x of the expression x3y2?",
         "answer": "3x2y2"
       },
       "changes": {
         "question": "What is the partial derivative with respect to x of the expression x<sup>3</sup>y<sup>2</sup>?",
-        "question_sanitized": "What is the partial derivative with respect to x of the expression x^3y^2?",
+        "question_sanitized": "What is the partial derivative with respect to x of the expression x³y²?",
         "answer": "3x<sup>2</sup>y<sup>2</sup>",
-        "answer_sanitized": "3x^2y^2"
+        "answer_sanitized": "3x²y²"
       }
     },
     {

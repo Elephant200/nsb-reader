@@ -50,13 +50,16 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered page 3 prints the derivative as sec²u; restored the exponent.",
+      "evidence": "Page 3 defines g(u)=∫₀ᵘsec²(t)dt and asks g′(u); live prompt dropped the integral formula, leaving only its read-as cue.",
       "before": {
-        "answer": "sec2u"
+        "answer": "sec2u",
+        "question": "If g(u) = [g of u equals the integral from 0 to u of secant squared of t dt], find g’(u) [g prime of u]."
       },
       "changes": {
         "answer": "sec<sup>2</sup>u",
-        "answer_sanitized": "sec^2 u"
+        "answer_sanitized": "sec^2 u",
+        "question": "If g(u) = ∫₀ᵘ sec²(t) dt [g of u equals the integral from 0 to u of secant squared of t dt], find g′(u) [g prime of u].",
+        "question_sanitized": "If g(u) = ∫₀ᵘ sec²(t) dt [g of u equals the integral from 0 to u of secant squared of t dt], find g′(u) [g prime of u]."
       }
     },
     {
@@ -376,7 +379,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered page 6 shows the four rational functions with fifth-, fourth-, third-, and second-power terms and their spoken cues; restored fraction structure and powers in part, choices, and answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Which of the following functions has an oblique asymptote?<br>W) f(x) = (x5 + 1)/(x4 + 3x2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]<br>X) f(x) = (x2 + 1)/(x3 - x2 - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]<br>Y) f(x) = (4x2 + x + 1)/x2 [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]<br>Z) f(x) = x5/(x2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
@@ -396,7 +399,7 @@
           "Which of the following functions has an oblique asymptote?<br>W) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup> + 1</span><span>x<sup>4</sup> + 3x<sup>2</sup> + 2</span></span> [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]<br>X) f(x) = <span class=\"nsb-fraction\"><span>x<sup>2</sup> + 1</span><span>x<sup>3</sup> - x<sup>2</sup> - 1</span></span> [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]<br>Y) f(x) = <span class=\"nsb-fraction\"><span>4x<sup>2</sup> + x + 1</span><span>x<sup>2</sup></span></span> [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]<br>Z) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup></span><span>x<sup>2</sup> - 1</span></span> [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
         ],
         "parts_sanitized": [
-          "Which of the following functions has an oblique asymptote?\nW) f(x) = (x^5 + 1)/(x^4 + 3x^2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]\nX) f(x) = (x^2 + 1)/(x^3 - x^2 - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]\nY) f(x) = (4x^2 + x + 1)/(x^2) [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]\nZ) f(x) = x^5/(x^2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+          "Which of the following functions has an oblique asymptote?\nW) f(x) = (x⁵ + 1)/(x⁴ + 3x² + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]\nX) f(x) = (x² + 1)/(x³ - x² - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]\nY) f(x) = (4x² + x + 1)/(x²) [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]\nZ) f(x) = (x⁵)/(x² - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
         ],
         "options": [
           "W) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup> + 1</span><span>x<sup>4</sup> + 3x<sup>2</sup> + 2</span></span> [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]",

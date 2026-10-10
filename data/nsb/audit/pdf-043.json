@@ -261,13 +261,13 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered PDF page 12 shows sp³d; the corpus split the 3 away from the hybridization notation.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "The hybridization of one ‘s’ (read as: one &lt;pause&gt; s) orbital and 3 ‘p’ (read as: three &lt;pause&gt; p) orbitals and one ‘d’ (read as: one &lt;pause&gt; d) orbital creates how 3 many sp d hybrid orbitals?"
       },
       "changes": {
         "question": "The hybridization of one ‘s’ (read as: one &lt;pause&gt; s) orbital and 3 ‘p’ (read as: three &lt;pause&gt; p) orbitals and one ‘d’ (read as: one &lt;pause&gt; d) orbital creates how many sp<sup>3</sup>d hybrid orbitals?",
-        "question_sanitized": "The hybridization of one ‘s’ (read as: one <pause> s) orbital and 3 ‘p’ (read as: three <pause> p) orbitals and one ‘d’ (read as: one <pause> d) orbital creates how many sp^3d hybrid orbitals?"
+        "question_sanitized": "The hybridization of one 's' (read as: one <pause> s) orbital and 3 'p' (read as: three <pause> p) orbitals and one 'd' (read as: one <pause> d) orbital creates how many sp³d hybrid orbitals?"
       }
     },
     {

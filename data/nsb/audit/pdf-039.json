@@ -187,7 +187,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9 shows log₄ x = 4 and 4⁴ = 256; the corpus placed the base and exponent inline.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Solve the following logarithmic equation for x: log4 x = 4 (read as: log base 4 of x equals 4)",
         "notes": [
@@ -196,7 +196,7 @@
       },
       "changes": {
         "question": "Solve the following logarithmic equation for x: log<sub>4</sub> x = 4 (read as: log base 4 of x equals 4)",
-        "question_sanitized": "Solve the following logarithmic equation for x: log_4 x = 4 (read as: log base 4 of x equals 4)",
+        "question_sanitized": "Solve the following logarithmic equation for x: log₄ x = 4 (read as: log base 4 of x equals 4)",
         "notes": [
           "(Solution: 4<sup>4</sup> = 256)"
         ]
@@ -236,11 +236,18 @@
       "kind": "tossups",
       "itemIndex": 21,
       "number": 22,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         11
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+      "evidence": "Compared the full tossup prompt, answer, choices, acceptance/rejection instructions, reading cues, and notes against original PDF text on packet 39, page(s) 11. They agree. Visually checked source notation against rendered PDF page image /tmp/chem-039p11-11.png. Source pixels show the −4 as a superscript; current question placed it on the baseline.",
+      "before": {
+        "question": "What is the pH of a 1 × 10–4 molar HCl solution?"
+      },
+      "changes": {
+        "question": "What is the pH of a 1 × 10<sup>−4</sup> molar HCl solution?",
+        "question_sanitized": "What is the pH of a 1 × 10⁻⁴ molar HCl solution?"
+      }
     },
     {
       "kind": "tossups",

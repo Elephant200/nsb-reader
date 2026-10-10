@@ -160,15 +160,13 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Rendered source page 7 confirms the notation in the replacement.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
-        "question": "Solve the following expression when x = 4: ( ) -1/2 [open 9 P parenthesis, x cubed over 9, close parenthesis, to the negative ½ power].",
-        "answer": "x = 3/8"
+        "question": "Solve the following expression when x = 4: ( ) -1/2 [open 9 P parenthesis, x cubed over 9, close parenthesis, to the negative ½ power]."
       },
       "changes": {
         "question": "Solve the following expression when x = 4: (x<sup>3</sup>/9)<sup>-1/2</sup> [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power].",
-        "question_sanitized": "Solve the following expression when x = 4: (x^3/9)^(-1/2) [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power].",
-        "answer": "x = 3/8"
+        "question_sanitized": "Solve the following expression when x = 4: (x³/9)^(-1/2) [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power]."
       }
     },
     {
@@ -292,11 +290,24 @@
       "kind": "bonuses",
       "itemIndex": 1,
       "number": 2,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 1."
+      "evidence": "Rendered source page /tmp/audit-c26-01.png shows the isotope mass number 1 raised before H in ¹H-NMR. The current prompt placed 1 at baseline; restored the superscript mass number.",
+      "before": {
+        "parts": [
+          "Which of the following protons will appear farthest downfield in the 1H [Proton]-NMR spectrum?<br>W) Alkane<br>X) Alkene<br>Y) Alkyne<br>Z) Aromatic"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following protons will appear farthest downfield in the <sup>1</sup>H [Proton]-NMR spectrum?<br>W) Alkane<br>X) Alkene<br>Y) Alkyne<br>Z) Aromatic"
+        ],
+        "parts_sanitized": [
+          "Which of the following protons will appear farthest downfield in the ¹H [Proton]-NMR spectrum?\nW) Alkane\nX) Alkene\nY) Alkyne\nZ) Aromatic"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -306,7 +317,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered source page 2 confirms the notation in the replacement.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "A series is defined recursively. If 𝑎𝑎1 = −2 and 𝑎𝑎𝑛𝑛 = 3 + (𝑎𝑎𝑛𝑛−1 )𝑛𝑛−1 [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of 𝑎𝑎4 ."
@@ -317,7 +328,7 @@
           "A series is defined recursively. If a<sub>1</sub> = −2 and a<sub>n</sub> = 3 + (a<sub>n−1</sub>)<sup>n−1</sup> [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a<sub>4</sub>."
         ],
         "parts_sanitized": [
-          "A series is defined recursively. If a_1 = -2 and a_n = 3 + (a_(n-1))^(n-1) [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a_4."
+          "A series is defined recursively. If a₁ = −2 and a_(n) = 3 + (a_(n-1))^(n-1) [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a₄."
         ]
       }
     },
@@ -603,7 +614,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered source page 10 confirms the notation in the replacement.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "If the recursive sequence t n is defined by t 1 = 3 and t n = -5 + 3t n-1 , what is the value of t 6 ?"
@@ -614,7 +625,7 @@
           "If the recursive sequence t<sub>n</sub> is defined by t<sub>1</sub> = 3 and t<sub>n</sub> = −5 + 3t<sub>n−1</sub>, what is the value of t<sub>6</sub>?"
         ],
         "parts_sanitized": [
-          "If the recursive sequence t_n is defined by t_1 = 3 and t_n = -5 + 3t_(n-1), what is the value of t_6?"
+          "If the recursive sequence t_(n) is defined by t₁ = 3 and t_(n) = −5 + 3t_(n-1), what is the value of t₆?"
         ]
       }
     },

@@ -563,7 +563,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered PDF page 12 shows 3NaOH(aqueous) + H₃PO₄(aqueous) → and answer Na₃PO₄(aqueous) + 3H₂O(liquid); corpus formula fragments and arrow were displaced.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Using proper chemical nomenclature, finish balancing the following chemical reaction. Make sure to indicate the state of each substance, such as solid, liquid,  aqueous, or gas: 3NaOH + H<sub>3</sub> PO what? (aqueous) 4(aqueous)"
@@ -580,7 +580,7 @@
           "Na<sub>3</sub>PO<sub>4</sub>(aqueous) + 3H<sub>2</sub>O(liquid) (products in any order)"
         ],
         "answers_sanitized": [
-          "Na_3PO_4(aqueous) + 3H_2O(liquid) (products in any order)"
+          "Na₃PO₄(aqueous) + 3H₂O(liquid) (products in any order)"
         ]
       }
     },
@@ -598,11 +598,21 @@
       "kind": "bonuses",
       "itemIndex": 24,
       "number": 25,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         13
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+      "evidence": "Rendered source page 13 at /tmp/chem-011p13.png; removed an extra space that separated each chemical formula from its following semicolon/parenthesis. Full replacement is in changes.",
+      "before": {
+        "notes": [
+          "(Solution: P<sub>2</sub> = P<sub>1</sub> V<sub>1</sub> /V<sub>2</sub> = (2 atm)(300 cm<sup>3</sup> )/500 cm<sup>3</sup> = 1.2 atm)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: P<sub>2</sub> = P<sub>1</sub> V<sub>1</sub> /V<sub>2</sub> = (2 atm)(300 cm<sup>3</sup>)/500 cm<sup>3</sup> = 1.2 atm)"
+        ]
+      }
     }
   ],
   "packetIssues": [

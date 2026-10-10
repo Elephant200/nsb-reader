@@ -218,7 +218,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Page 12 prints the Clausius–Clapeyron slope as W) −ΔHᵥₐₚ/R, X) ΔHᵥₐₚ/R, Y) −R/ΔHᵥₐₚ, Z) R/ΔHᵥₐₚ; each choice includes its spoken explanation, and the key is W.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "According to the integrated form of the Clausius [KLOU-zee- uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope?<br>W) –∆H /R [negative delta H of vaporization over R] vap ∆H<br>X) /R [delta H of vaporization over R] vap<br>Y) –R/∆H [negative R over delta H of vaporization] vap<br>Z) R/∆H [R over delta H of vaporization] vap",
         "answer": "W) –∆H /R vap",
@@ -231,9 +231,9 @@
       },
       "changes": {
         "question": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope?<br>W) −∆H<sub>vap</sub>/R [negative delta H of vaporization over R]<br>X) ∆H<sub>vap</sub>/R [delta H of vaporization over R]<br>Y) −R/∆H<sub>vap</sub> [negative R over delta H of vaporization]<br>Z) R/∆H<sub>vap</sub> [R over delta H of vaporization]",
-        "question_sanitized": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope? W) -ΔH_vap/R [negative delta H of vaporization over R]; X) ΔH_vap/R [delta H of vaporization over R]; Y) -R/ΔH_vap [negative R over delta H of vaporization]; Z) R/ΔH_vap [R over delta H of vaporization].",
+        "question_sanitized": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope?\nW) −∆H_(vap)/R [negative delta H of vaporization over R]\nX) ∆H_(vap)/R [delta H of vaporization over R]\nY) −R/∆H_(vap) [negative R over delta H of vaporization]\nZ) R/∆H_(vap) [R over delta H of vaporization]",
         "answer": "W) −∆H<sub>vap</sub>/R",
-        "answer_sanitized": "W) -ΔH_vap/R",
+        "answer_sanitized": "W) −∆H_(vap)/R",
         "options": [
           "W) −∆H<sub>vap</sub>/R [negative delta H of vaporization over R]",
           "X) ∆H<sub>vap</sub>/R [delta H of vaporization over R]",

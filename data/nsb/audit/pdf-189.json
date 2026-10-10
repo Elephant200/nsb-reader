@@ -323,7 +323,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered packet 189 PDF page 5 shows bonus 10, “Chemistry – Short Answer Identify all of the following three molecules that are matched correctly to”; checked full wording and complete answer “1” against the source.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp 3 ; 2) Nitrogen tri-iodide and sp 2 ; 3) Sulfur tetrafluoride and d 2 sp 3 ."
@@ -334,7 +334,7 @@
           "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp<sup>3</sup>; 2) Nitrogen tri-iodide and sp<sup>2</sup>; 3) Sulfur tetrafluoride and d<sup>2</sup>sp<sup>3</sup>."
         ],
         "parts_sanitized": [
-          "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp^3; 2) Nitrogen tri-iodide and sp^2; 3) Sulfur tetrafluoride and d^2sp^3."
+          "Identify all of the following three molecules that are matched correctly to their hybridization: 1) Xenon difluoride and dsp³; 2) Nitrogen tri-iodide and sp²; 3) Sulfur tetrafluoride and d²sp³."
         ]
       }
     },

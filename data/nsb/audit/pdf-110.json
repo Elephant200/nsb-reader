@@ -157,13 +157,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Viewed original PDF page 6 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 12 begins “A body with a 2 kilogram mass has position vector r = 3i + 2t 2j meters. What is the velocity at t =”; printed answer: X) 4j.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "A body with a 2 kilogram mass has position vector r = 3i + 2t 2j meters. What is the velocity at t = 1 second?<br>W) 1j<br>X) 4j<br>Y) 3i + 4j<br>Z) 1i + 1j"
       },
       "changes": {
         "question": "A body with a 2 kilogram mass has position vector r = 3i + 2t<sup>2</sup>j meters. What is the velocity at t = 1 second?<br>W) 1j<br>X) 4j<br>Y) 3i + 4j<br>Z) 1i + 1j",
-        "question_sanitized": "A body with a 2 kilogram mass has position vector r = 3i + 2t^2j meters. What is the velocity at t = 1 second? W) 1j X) 4j Y) 3i + 4j Z) 1i + 1j"
+        "question_sanitized": "A body with a 2 kilogram mass has position vector r = 3i + 2t²j meters. What is the velocity at t = 1 second?\nW) 1j\nX) 4j\nY) 3i + 4j\nZ) 1i + 1j"
       }
     },
     {
@@ -437,7 +437,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Viewed original PDF page 6 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 12 begins “Two objects with masses m 1 and m 2 are hanging vertically by different springs of spring constants ”; printed answer: X) 3/2.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Two objects with masses m 1 and m 2 are hanging vertically by different springs of spring constants k 1 and k 2 . If m 1 = 3m 2 and k 1 = 2k 2 , what is the ratio x 1 /x 2 of their stretches?<br>W) 2/3<br>X) 3/2<br>Y) 4<br>Z) 6"
@@ -448,7 +448,7 @@
           "Two objects with masses m<sub>1</sub> and m<sub>2</sub> are hanging vertically by different springs of spring constants k<sub>1</sub> and k<sub>2</sub>. If m<sub>1</sub> = 3m<sub>2</sub> and k<sub>1</sub> = 2k<sub>2</sub>, what is the ratio x<sub>1</sub>/x<sub>2</sub> of their stretches?<br>W) 2/3<br>X) 3/2<br>Y) 4<br>Z) 6"
         ],
         "parts_sanitized": [
-          "Two objects with masses m_1 and m_2 are hanging vertically by different springs of spring constants k_1 and k_2. If m_1 = 3m_2 and k_1 = 2k_2, what is the ratio x_1/x_2 of their stretches? W) 2/3 X) 3/2 Y) 4 Z) 6"
+          "Two objects with masses m₁ and m₂ are hanging vertically by different springs of spring constants k₁ and k₂. If m₁ = 3m₂ and k₁ = 2k₂, what is the ratio x₁/x₂ of their stretches?\nW) 2/3\nX) 3/2\nY) 4\nZ) 6"
         ]
       }
     },

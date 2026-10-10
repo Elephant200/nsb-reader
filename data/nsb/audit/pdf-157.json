@@ -206,11 +206,18 @@
       "kind": "tossups",
       "itemIndex": 19,
       "number": 20,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "p.10 confirms Chemistry – Short Answer A cylinder has an internal diameter of 3 centimeters and a piston; ANSWER: 28 matches the print after reviewing the complete prompt/options."
+      "evidence": "Source PDF p. 10 renders the final 5 in 10⁵ as a superscript. The stored stem has the digits “105” on the baseline, so the exponent is restored; all other wording matches.",
+      "before": {
+        "question": "A cylinder has an internal diameter of 3 centimeters and a piston is depressed 20 centimeters with a pressure of 2 atmospheres. Assuming that atmospheric pressure is 1 x 105 pascals, to two significant figures and in joules, how much work is done during the compression?"
+      },
+      "changes": {
+        "question": "A cylinder has an internal diameter of 3 centimeters and a piston is depressed 20 centimeters with a pressure of 2 atmospheres. Assuming that atmospheric pressure is 1 x 10<sup>5</sup> pascals, to two significant figures and in joules, how much work is done during the compression?",
+        "question_sanitized": "A cylinder has an internal diameter of 3 centimeters and a piston is depressed 20 centimeters with a pressure of 2 atmospheres. Assuming that atmospheric pressure is 1 x 10⁵ pascals, to two significant figures and in joules, how much work is done during the compression?"
+      }
     },
     {
       "kind": "tossups",

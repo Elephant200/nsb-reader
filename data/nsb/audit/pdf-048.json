@@ -186,13 +186,13 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered page 9 and compared the complete printed stem, answer, choices, and notes with corpus item 18; corrected source-visible notation and transcription.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Give the center point and the vertices of the horizontal axis and vertical ( x 1 ) 2 ( y 2 ) 2 + ! axis of the ellipse for the following equation: 1 + = 16 9"
       },
       "changes": {
         "question": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: <span class=\"nsb-fraction\"><span>(x + 1)<sup>2</sup></span><span>16</span></span> + <span class=\"nsb-fraction\"><span>(y − 2)<sup>2</sup></span><span>9</span></span> = 1",
-        "question_sanitized": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: (x + 1)^2/16 + (y - 2)^2/9 = 1"
+        "question_sanitized": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: ((x + 1)²)/(16) + ((y − 2)²)/(9) = 1"
       }
     },
     {
@@ -341,7 +341,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered page 2 and compared the complete printed stem, answer, choices, and notes with corpus item 4; corrected source-visible notation and transcription.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Find the following indefinite integral: xe x dx (read as: the integral of x ∫ times e to the x power, dx) x x"
@@ -358,10 +358,10 @@
           "x e<sup>x</sup> − e<sup>x</sup> + C"
         ],
         "parts_sanitized": [
-          "Find the following indefinite integral: integral of x times e^x dx (read as: the integral of x times e to the x power, dx)"
+          "Find the following indefinite integral: ∫ x e^(x) dx (read as: the integral of x times e to the x power, dx)"
         ],
         "answers_sanitized": [
-          "x e^x - e^x + C"
+          "x e^(x) − e^(x) + C"
         ]
       }
     },
@@ -645,7 +645,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered page 12 and compared the complete printed stem, answer, choices, and notes with corpus item 23; corrected source-visible notation and transcription.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "A sphere of radius 1 meter contains uniformly distributed charge of charge density rho. Assuming ρ/ε (rho over epsilon-naught) equals 30 volts per meter squared, 0 what is the magnitude of electric field at a radius of 0.5 meters?"
@@ -656,7 +656,7 @@
           "A sphere of radius 1 meter contains uniformly distributed charge of charge density ρ. Assuming ρ/ε<sub>0</sub> (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
         ],
         "parts_sanitized": [
-          "A sphere of radius 1 meter contains uniformly distributed charge of charge density rho. Assuming rho/epsilon_0 (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
+          "A sphere of radius 1 meter contains uniformly distributed charge of charge density ρ. Assuming ρ/ε₀ (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
         ]
       }
     },

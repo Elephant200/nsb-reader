@@ -113,13 +113,13 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered source page 4 confirms the notation in the replacement.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Cocaine has a tertiary amine group with a pK b of 5.6. What is the pK a of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
       },
       "changes": {
         "question": "Cocaine has a tertiary amine group with a pK<sub>b</sub> of 5.6. What is the pK<sub>a</sub> of cocaine's conjugate acid in an aqueous solution at 25° Celsius?",
-        "question_sanitized": "Cocaine has a tertiary amine group with a pK_b of 5.6. What is the pK_a of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
+        "question_sanitized": "Cocaine has a tertiary amine group with a pK_(b) of 5.6. What is the pK_(a) of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
       }
     },
     {

@@ -150,16 +150,16 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Page 9 prints f(x)=e raised to cos x and the answer −sin(x)e raised to cos x; the stored answer retained only “sin” and lost the sign, factor, and exponent.",
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Differentiate [f of x equals e to the power of cosine of x] with respect to x.",
         "answer": "sin"
       },
       "changes": {
         "question": "Differentiate f(x) = e<sup>cos x</sup> [f of x equals e to the power of cosine of x] with respect to x.",
-        "question_sanitized": "Differentiate f(x) = e^(cos x) [f of x equals e to the power of cosine of x] with respect to x.",
+        "question_sanitized": "Differentiate f(x) = e^(cos x) [f of x equals e to the power of cosine of x] with respect to x.",
         "answer": "−sin(x)e<sup>cos x</sup>",
-        "answer_sanitized": "-sin(x)e^(cos x)"
+        "answer_sanitized": "−sin(x)e^(cos x)"
       }
     },
     {

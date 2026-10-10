@@ -123,11 +123,18 @@
       "kind": "tossups",
       "itemIndex": 12,
       "number": 13,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         7
       ],
-      "evidence": "PDF p.7 toss-up 13 asks best S_N2 leaving group and includes SN2 and trifluoromethanesulfonate pronunciation cues; answer X) O-trifluoromethanesulfonate."
+      "evidence": "The visually inspected PDF prints the reaction notation Sₙ2 (SN2) before the read-as cue [S- N- two]. The stored question split the formula into “S 2 N” and misplaced the cue. Replaced the full question with the printed notation and preserved all choices and the pronunciation cue.",
+      "before": {
+        "question": "Which of the following would be the most appropriate S 2 N [S- N- two] leaving group?<br>W) Hydroxyl<br>X) O-Trifluoromethanesulfonate [try-FLOOR-oh-METH-ayn-SUHL-fuh-nayt]<br>Y) O-Ethyl<br>Z) O-Acyl"
+      },
+      "changes": {
+        "question": "Which of the following would be the most appropriate S<sub>N</sub>2 [S- N- two] leaving group?<br>W) Hydroxyl<br>X) O-Trifluoromethanesulfonate [try-FLOOR-oh-METH-ayn-SUHL-fuh-nayt]<br>Y) O-Ethyl<br>Z) O-Acyl",
+        "question_sanitized": "Which of the following would be the most appropriate S_(N)2 [S- N- two] leaving group?\nW) Hydroxyl\nX) O-Trifluoromethanesulfonate [try-FLOOR-oh-METH-ayn-SUHL-fuh-nayt]\nY) O-Ethyl\nZ) O-Acyl"
+      }
     },
     {
       "kind": "tossups",
@@ -377,7 +384,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "PDF p.9 visibly shows numerator log base b of (b^a)^b and denominator log base a of (a^b)^a, with read-as cue naming both bases and nested powers; answer 1. Corpus lost both grouped power expressions, so restored using explicit parentheses and exponent nesting.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           ". Simplify: . [quantity log in base b of b raised to the power of a raised to the power of b divided by quantity log in base a of a raised to the power of b, raised to the power of a]"
@@ -388,7 +395,7 @@
           "Simplify: <span class=\"nsb-fraction\"><span>log<sub>b</sub>((b<sup>a</sup>)<sup>b</sup>)</span><span>log<sub>a</sub>((a<sup>b</sup>)<sup>a</sup>)</span></span> [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
         ],
         "parts_sanitized": [
-          "Simplify: log_b((b^a)^b)/log_a((a^b)^a) [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
+          "Simplify: (log_(b)((b^(a))^(b)))/(log_(a)((a^(b))^(a))) [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
         ]
       }
     },

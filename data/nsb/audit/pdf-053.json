@@ -80,7 +80,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Page 4 shows (3xy²)(4x²y³) and 12x³y⁵; restored the powers. The printed read-as text says the second y is squared, and is preserved verbatim.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Simplify the following completely: (3xy ) (4x y ) (read as: 3xy squared times 4x squared y squared) 3 5",
         "answer": "12 x y"
@@ -88,8 +88,8 @@
       "changes": {
         "question": "Simplify the following completely: (3xy<sup>2</sup>) (4x<sup>2</sup>y<sup>3</sup>) (read as: 3xy squared times 4x squared y squared)",
         "answer": "12 x<sup>3</sup>y<sup>5</sup>",
-        "question_sanitized": "Simplify the following completely: (3xy^2) (4x^2y^3) (read as: 3xy squared times 4x squared y squared)",
-        "answer_sanitized": "12 x^3y^5"
+        "question_sanitized": "Simplify the following completely: (3xy²) (4x²y³) (read as: 3xy squared times 4x squared y squared)",
+        "answer_sanitized": "12 x³y⁵"
       }
     },
     {

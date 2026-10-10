@@ -357,7 +357,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Page 6 lists SN1/E1 and SN2/E2 temperature pairings; key Y. Restored subscripts in every option and answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction?<br>W) S N 1 at low temperatures and E1 at high temperatures<br>X) E1 at low temperatures and S N 1 at high temperatures<br>Y) S N 2 at low temperatures and E2 at high temperatures<br>Z) E2 at low temperatures and S N 2 at high temperatures"
@@ -377,7 +377,7 @@
           "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction?<br>W) S<sub>N</sub>1 at low temperatures and E1 at high temperatures<br>X) E1 at low temperatures and S<sub>N</sub>1 at high temperatures<br>Y) S<sub>N</sub>2 at low temperatures and E2 at high temperatures<br>Z) E2 at low temperatures and S<sub>N</sub>2 at high temperatures"
         ],
         "parts_sanitized": [
-          "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction? W) S_N1 at low temperatures and E1 at high temperatures; X) E1 at low temperatures and S_N1 at high temperatures; Y) S_N2 at low temperatures and E2 at high temperatures; Z) E2 at low temperatures and S_N2 at high temperatures"
+          "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction?\nW) S_(N)1 at low temperatures and E1 at high temperatures\nX) E1 at low temperatures and S_(N)1 at high temperatures\nY) S_(N)2 at low temperatures and E2 at high temperatures\nZ) E2 at low temperatures and S_(N)2 at high temperatures"
         ],
         "options": [
           "W) S<sub>N</sub>1 at low temperatures and E1 at high temperatures",
@@ -389,7 +389,7 @@
           "Y) S<sub>N</sub>2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
         ],
         "answers_sanitized": [
-          "Y) S_N2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
+          "Y) S_(N)2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
         ]
       }
     },

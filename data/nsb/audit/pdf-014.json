@@ -298,7 +298,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the original PDF page 1 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Consider the reaction, N + 3H 2NH . If the 2(gas) 2(gas) 3(gas) concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the nd average rate of reaction over this time interval. Give your answer to the 2 decimal place in moles per liter minute:"
@@ -315,7 +315,7 @@
           "Consider the reaction, N<sub>2</sub>(gas) + 3H<sub>2</sub>(gas) → 2NH<sub>3</sub>(gas). If the concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the second decimal place in moles per liter minute:"
         ],
         "parts_sanitized": [
-          "Consider the reaction, N_2(gas) + 3H_2(gas) → 2NH_3(gas). If the concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the second decimal place in moles per liter minute:"
+          "Consider the reaction, N₂(gas) + 3H₂(gas) → 2NH₃(gas). If the concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the second decimal place in moles per liter minute:"
         ],
         "answers": [
           "0.03"

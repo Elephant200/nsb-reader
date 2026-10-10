@@ -30,13 +30,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered page 2 prints x as the logarithm base in logₓ 7 = 1; restored subscript formatting and kept the printed spoken cue.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is x equal to in the following expression: log x 7 = 1 [log base x of 7 equals 1]?"
       },
       "changes": {
         "question": "What is x equal to in the following expression: log<sub>x</sub> 7 = 1 [log base x of 7 equals 1]?",
-        "question_sanitized": "What is x equal to in the following expression: log_x 7 = 1 [log base x of 7 equals 1]?"
+        "question_sanitized": "What is x equal to in the following expression: log_(x) 7 = 1 [log base x of 7 equals 1]?"
       }
     },
     {
@@ -53,11 +53,18 @@
       "kind": "tossups",
       "itemIndex": 6,
       "number": 7,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Matched toss-up 7 to Round 6 page 4 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+      "evidence": "Page 4 squeeze theorem states g(x)≤f(x)≤h(x), with both bounding limits equal to M; current notation loses readable x→a subscripts and duplicates OCR glyphs.",
+      "before": {
+        "question": "Given that g(𝑥) ≤ f (𝑥) ≤ h(𝑥) for all x, the lim𝑥→a 𝑔(𝑥) = M [limit as x approaches a of g of x is M], and the lim𝑥→a ℎ(𝑥) = M [limit as x approaches a of h of x is M], what is the lim𝑥→a 𝑓(𝑥) [limit as x approaches a of f of x]?"
+      },
+      "changes": {
+        "question": "Given that g(x) ≤ f(x) ≤ h(x) for all x, the lim<sub>x→a</sub> g(x) = M [limit as x approaches a of g of x is M], and the lim<sub>x→a</sub> h(x) = M [limit as x approaches a of h of x is M], what is the lim<sub>x→a</sub> f(x) [limit as x approaches a of f of x]?",
+        "question_sanitized": "Given that g(x) ≤ f(x) ≤ h(x) for all x, the lim_(x→a) g(x) = M [limit as x approaches a of g of x is M], and the lim_(x→a) h(x) = M [limit as x approaches a of h of x is M], what is the lim_(x→a) f(x) [limit as x approaches a of f of x]?"
+      }
     },
     {
       "kind": "tossups",

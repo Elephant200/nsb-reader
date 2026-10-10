@@ -122,11 +122,18 @@
       "kind": "tossups",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "p. 6: full printed prompt/options and answer ‘OCTAHEDRAL’ match tossup 11 (Chemistry – Short Answer What is the shape of an isolated complex in which a metal ion is bonde)."
+      "evidence": "The rendered source PDF p. 6 prints the pronunciation cue directly followed by the question mark; stored text has an extra space. The cue is retained.",
+      "before": {
+        "question": "What is the shape of an isolated complex in which a metal ion is bonded to six ligands [LIH-gunz] ?"
+      },
+      "changes": {
+        "question": "What is the shape of an isolated complex in which a metal ion is bonded to six ligands [LIH-gunz]?",
+        "question_sanitized": "What is the shape of an isolated complex in which a metal ion is bonded to six ligands [LIH-gunz]?"
+      }
     },
     {
       "kind": "tossups",
@@ -260,11 +267,24 @@
       "kind": "bonuses",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "p. 2: full printed prompt/options and answer ‘1, 2, 3 (ACCEPT: ALL OF THEM) 2017 Regional High School NSB®                                                                                ’ match bonuse 4 (Chemistry – Short Answer Identify all of the following properties that are examples of state fu)."
+      "evidence": "The rendered source PDF p. 2 prints the pronunciation cue directly followed by the period; stored text has an extra space. All prompt wording and the cue are preserved.",
+      "before": {
+        "parts": [
+          "Identify all of the following properties that are examples of state functions: 1) Volume; 2) Temperature; 3) Entropy [EN-troh-pee] ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following properties that are examples of state functions: 1) Volume; 2) Temperature; 3) Entropy [EN-troh-pee]."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following properties that are examples of state functions: 1) Volume; 2) Temperature; 3) Entropy [EN-troh-pee]."
+        ]
+      }
     },
     {
       "kind": "bonuses",

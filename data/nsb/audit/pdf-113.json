@@ -99,13 +99,16 @@
       "sourcePages": [
         5
       ],
-      "evidence": "PDF p. 5 prints tan(sin⁻¹(−1/2)); the keyed answer is the displayed fraction −√3/3, followed by the do-not-accept alternative −1/√3.",
+      "evidence": "Page 5 inverse sine of −1/2 is −π/6, whose tangent is −√3/3. The current prompt also appends a stray −√3 after the read-as cue; remove that fragment. Source render: /tmp/nsb-math-expand-113-05.png.",
       "before": {
-        "answer": "(DO NOT ACCEPT: −1/√3) 3"
+        "answer": "(DO NOT ACCEPT: −1/√3) 3",
+        "question": "Evaluate tan(sin-1(-1/2)) [tangent of the inverse sine of negative one half]. −√3"
       },
       "changes": {
         "answer": "−<span class=\"nsb-fraction\"><span>√3</span><span>3</span></span> (DO NOT ACCEPT: −1/√3)",
-        "answer_sanitized": "negative square root of three over three (DO NOT ACCEPT: negative one over square root of three)"
+        "answer_sanitized": "negative square root of three over three (DO NOT ACCEPT: negative one over square root of three)",
+        "question": "Evaluate tan(sin<sup>−1</sup>(−1/2)) [tangent of the inverse sine of negative one half].",
+        "question_sanitized": "Evaluate tan(sin⁻¹(−1/2)) [tangent of the inverse sine of negative one half]."
       }
     },
     {

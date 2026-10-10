@@ -236,11 +236,30 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+      "evidence": "Rendered original source page 12 at /tmp/chem-005p12.png; corrected notation/spacing in the full replacement field(s) to match the printed formula and its layout.",
+      "before": {
+        "question": "Which of the following is NOT true:<br>W) hydrogen gas found in nature exists as a monatomic molecule<br>X) when 2 oxygen atoms combine to form O<sub>2</sub> , energy is released<br>Y) when chlorine gains 1 electron, it becomes larger<br>Z) noble gases tend not to bond because of their stable valence configurations",
+        "options": [
+          "W) hydrogen gas found in nature exists as a monatomic molecule",
+          "X) when 2 oxygen atoms combine to form O<sub>2</sub> , energy is released",
+          "Y) when chlorine gains 1 electron, it becomes larger",
+          "Z) noble gases tend not to bond because of their stable valence configurations"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT true:<br>W) hydrogen gas found in nature exists as a monatomic molecule<br>X) when 2 oxygen atoms combine to form O<sub>2</sub>, energy is released<br>Y) when chlorine gains 1 electron, it becomes larger<br>Z) noble gases tend not to bond because of their stable valence configurations",
+        "options": [
+          "W) hydrogen gas found in nature exists as a monatomic molecule",
+          "X) when 2 oxygen atoms combine to form O<sub>2</sub>, energy is released",
+          "Y) when chlorine gains 1 electron, it becomes larger",
+          "Z) noble gases tend not to bond because of their stable valence configurations"
+        ],
+        "question_sanitized": "Which of the following is NOT true:\nW) hydrogen gas found in nature exists as a monatomic molecule\nX) when 2 oxygen atoms combine to form O₂, energy is released\nY) when chlorine gains 1 electron, it becomes larger\nZ) noble gases tend not to bond because of their stable valence configurations"
+      }
     },
     {
       "kind": "tossups",

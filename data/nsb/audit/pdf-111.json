@@ -177,7 +177,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "PDF p. 10 prints subscript N in S_N1 and S_N2, including answer Y; restored notation in prompt, choices, and answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture?<br>W) E1<br>X) E2<br>Y) S N 1<br>Z) S N 2",
         "options": [
@@ -196,9 +196,9 @@
           "Y) S<sub>N</sub>1",
           "Z) S<sub>N</sub>2"
         ],
-        "question_sanitized": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture? W) E1 X) E2 Y) S_N1 Z) S_N2",
+        "question_sanitized": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture?\nW) E1\nX) E2\nY) S_(N)1\nZ) S_(N)2",
         "answer": "Y) S<sub>N</sub>1",
-        "answer_sanitized": "Y) S_N1"
+        "answer_sanitized": "Y) S_(N)1"
       }
     },
     {
@@ -269,7 +269,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "PDF p. 1 visually confirms s₁ and s₂ throughout choices and answer Y, with terms 2/(n+6) and n/(5+n).",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Given the two sequences s 1 with nth term and s 2 with nth term 𝑛+6 𝑛 , which of the following statements is correct? 5+𝑛<br>W) s 1 and s 2 are both increasing<br>X) s 1 is increasing and s 2 is decreasing<br>Y) s 1 is decreasing and s 2 is increasing<br>Z) s 1 and s 2 are both decreasing"
@@ -295,7 +295,7 @@
           "Z) s<sub>1</sub> and s<sub>2</sub> are both decreasing"
         ],
         "parts_sanitized": [
-          "Given the two sequences s_1 with nth term 2/(n + 6) and s_2 with nth term n/(5 + n), which of the following statements is correct? W) s_1 and s_2 are both increasing X) s_1 is increasing and s_2 is decreasing Y) s_1 is decreasing and s_2 is increasing Z) s_1 and s_2 are both decreasing"
+          "Given the two sequences s₁ with nth term (2)/(n + 6) and s₂ with nth term (n)/(5 + n), which of the following statements is correct?\nW) s₁ and s₂ are both increasing\nX) s₁ is increasing and s₂ is decreasing\nY) s₁ is decreasing and s₂ is increasing\nZ) s₁ and s₂ are both decreasing"
         ],
         "answers": [
           "Y) s<sub>1</sub> IS DECREASING AND s<sub>2</sub> IS INCREASING"
@@ -363,7 +363,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "PDF p. 4 visibly shows 2^(x−2)=π^x and four stacked logarithmic fractions; W is log(4)/(log(2)−log(π)), with all bracketed fraction cues preserved.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Which of the following is a solution for x of the equation 2𝑥−2 = 𝜋 𝑥 [2 to the quantity x minus 2 equals pi to the x]? 𝑙𝑙𝑙(4)<br>W) [the fraction with numerator log of 4 and denominator log of 2 minus log of 𝑙𝑙𝑙(2)−𝑙𝑙𝑙(𝜋) pi] 𝑙𝑙𝑙(4)<br>X) [the fraction with numerator log of 4 and denominator log of pi minus log of 𝑙𝑙𝑙(𝜋)−𝑙𝑙𝑙(2) 2] 𝑙𝑙𝑙(𝜋)−𝑙𝑙𝑙(2)<br>Y) [the fraction with numerator log of pi minus log of 2 and denominator log of 𝑙𝑙𝑙(4) 4] 𝑙𝑙𝑙(2)−𝑙𝑙𝑙(𝜋)<br>Z) [the fraction with numerator log of 2 minus log of pi and denominator log of 𝑙𝑙𝑙(4) 4] 𝑙𝑙𝑙(4)"
@@ -392,7 +392,7 @@
           "W) <span class=\"nsb-fraction\"><span>log(4)</span><span>log(2) − log(π)</span></span>"
         ],
         "parts_sanitized": [
-          "Which of the following is a solution for x of the equation 2^(x-2) = pi^x [2 to the quantity x minus 2 equals pi to the x]? W) (log(4))/(log(2) - log(pi)) [the fraction with numerator log of 4 and denominator log of 2 minus log of pi] X) (log(4))/(log(pi) - log(2)) [the fraction with numerator log of 4 and denominator log of pi minus log of 2] Y) (log(pi) - log(2))/(log(4)) [the fraction with numerator log of pi minus log of 2 and denominator log of 4] Z) (log(2) - log(pi))/(log(4)) [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
+          "Which of the following is a solution for x of the equation 2^(x-2) = π^(x) [2 to the quantity x minus 2 equals pi to the x]?\nW) (log(4))/(log(2) − log(π)) [the fraction with numerator log of 4 and denominator log of 2 minus log of pi]\nX) (log(4))/(log(π) − log(2)) [the fraction with numerator log of 4 and denominator log of pi minus log of 2]\nY) (log(π) − log(2))/(log(4)) [the fraction with numerator log of pi minus log of 2 and denominator log of 4]\nZ) (log(2) − log(π))/(log(4)) [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
         ],
         "answers_sanitized": [
           "W) (log(4))/(log(2) - log(pi))"

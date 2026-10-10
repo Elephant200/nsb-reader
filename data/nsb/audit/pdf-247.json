@@ -10,16 +10,16 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Page 1 prints x³y⁴ in the derivative prompt and 4x³y³, rejecting x³4y³; the extracted powers are baseline.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is the partial derivative with respect to y of x 3 y 4 ?",
         "answer": "4x 3 y 3 (DO NOT ACCEPT: x 3 4y 3 )"
       },
       "changes": {
         "question": "What is the partial derivative with respect to y of x<sup>3</sup>y<sup>4</sup>?",
-        "question_sanitized": "What is the partial derivative with respect to y of x^3y^4?",
+        "question_sanitized": "What is the partial derivative with respect to y of x³y⁴?",
         "answer": "4x<sup>3</sup>y<sup>3</sup> (DO NOT ACCEPT: x<sup>3</sup>4y<sup>3</sup>)",
-        "answer_sanitized": "4x^3y^3 (DO NOT ACCEPT: x^3 4y^3)"
+        "answer_sanitized": "4x³y³ (DO NOT ACCEPT: x³4y³)"
       }
     },
     {

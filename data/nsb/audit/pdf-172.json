@@ -458,7 +458,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9 lists Li₂, Be₂, and B₂ as items 1, 2, and 3; answer 1 AND 3. Subscript numbers are retained in the rich parts text.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li<sub>2</sub> ; 2) Be<sub>2</sub> ; 3) B<sub>2</sub> ."
@@ -469,7 +469,7 @@
           "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li<sub>2</sub>; 2) Be<sub>2</sub>; 3) B<sub>2</sub>."
         ],
         "parts_sanitized": [
-          "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li_2; 2) Be_2; 3) B_2."
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li₂; 2) Be₂; 3) B₂."
         ]
       }
     },

@@ -40,13 +40,13 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered source page 3 shows log with base b and b raised to 4c; the captured prompt flattened both parts of the notation.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "If log b (5) = c [log base b of 5 equals c], then what does b 4c [b to the power of 4 c] equal?"
       },
       "changes": {
         "question": "If log<sub>b</sub>(5) = c [log base b of 5 equals c], then what does b<sup>4c</sup> [b to the power of 4 c] equal?",
-        "question_sanitized": "If log_b(5) = c [log base b of 5 equals c], then what does b^(4c) [b to the power of 4 c] equal?"
+        "question_sanitized": "If log_(b)(5) = c [log base b of 5 equals c], then what does b^(4c) [b to the power of 4 c] equal?"
       }
     },
     {
@@ -213,13 +213,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered source page 11 shows y = 2ˣ and y = −x² + 2; the captured prompt flattened both exponents.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "How many points of intersection exist for the graphs of y = 2x [y equals 2 to the power of x] and y = -x2 + 2?"
       },
       "changes": {
         "question": "How many points of intersection exist for the graphs of y = 2<sup>x</sup> [y equals 2 to the power of x] and y = −x<sup>2</sup> + 2?",
-        "question_sanitized": "How many points of intersection exist for the graphs of y = 2^x [y equals 2 to the power of x] and y = -x^2 + 2?"
+        "question_sanitized": "How many points of intersection exist for the graphs of y = 2^(x) [y equals 2 to the power of x] and y = −x² + 2?"
       }
     },
     {

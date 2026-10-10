@@ -203,7 +203,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered PDF page 10 shows toss-up 19; printed answer is X) Na<sub>2</sub> O<sub>2</sub>.",
+      "evidence": "Source PDF p. 10 prints the answer formula as Na₂O₂ with no gap between the first subscript and O. The stored answer has an extraneous space after Na₂; the choices and remaining wording match.",
       "before": {
         "question": "If molten sodium is burned in a pure oxygen atmosphere, a salt is formed. Which of the following is the likely identity of this salt?<br>W) Na<sub>2</sub> O<br>X) Na<sub>2</sub> O<sub>2</sub><br>Y) NaO<sub>2</sub><br>Z) NaO<sub>3</sub>",
         "options": [
@@ -211,7 +211,8 @@
           "X) Na<sub>2</sub> O<sub>2</sub>",
           "Y) NaO<sub>2</sub>",
           "Z) NaO<sub>3</sub>"
-        ]
+        ],
+        "answer": "X) Na<sub>2</sub> O<sub>2</sub>"
       },
       "changes": {
         "question": "If molten sodium is burned in a pure oxygen atmosphere, a salt is formed. Which of the following is the likely identity of this salt?<br>W) Na<sub>2</sub>O<br>X) Na<sub>2</sub>O<sub>2</sub><br>Y) NaO<sub>2</sub><br>Z) NaO<sub>3</sub>",
@@ -220,7 +221,9 @@
           "X) Na<sub>2</sub>O<sub>2</sub>",
           "Y) NaO<sub>2</sub>",
           "Z) NaO<sub>3</sub>"
-        ]
+        ],
+        "answer": "X) Na<sub>2</sub>O<sub>2</sub>",
+        "answer_sanitized": "X) Na₂O₂"
       }
     },
     {
@@ -488,7 +491,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9 shows bonus 18; printed answer is ln 2.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What is the limit as x approaches 0 of the fraction with numerator 2 – 1 x and denominator e - 1?"
@@ -499,7 +502,7 @@
           "What is the limit as x approaches 0 of the fraction with numerator 2<sup>x</sup> − 1 and denominator e<sup>x</sup> − 1?"
         ],
         "parts_sanitized": [
-          "What is the limit as x approaches 0 of the fraction with numerator 2^x − 1 and denominator e^x − 1?"
+          "What is the limit as x approaches 0 of the fraction with numerator 2^(x) − 1 and denominator e^(x) − 1?"
         ]
       }
     },

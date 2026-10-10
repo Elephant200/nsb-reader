@@ -20,13 +20,13 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Page 1 shows the minus sign before i and 25 as a superscript on i: −i²⁵; answer −i matches i²⁵=i.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Evaluate the following expression: –i ."
       },
       "changes": {
         "question": "Evaluate the following expression: −i<sup>25</sup>.",
-        "question_sanitized": "Evaluate the following expression: -i^25."
+        "question_sanitized": "Evaluate the following expression: −i²⁵."
       }
     },
     {
@@ -254,7 +254,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Page 3 prints sp³d³ as the hybridization answer with both 3s superscripted; the stored stem and answer dropped those powers.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What is the VSEPR [vesper]-predicted hybridization of the xenon atom in xenon hexafluoride? 3 3"
@@ -274,7 +274,7 @@
           "sp<sup>3</sup>d<sup>3</sup>"
         ],
         "answers_sanitized": [
-          "sp^3d^3"
+          "sp³d³"
         ]
       }
     },

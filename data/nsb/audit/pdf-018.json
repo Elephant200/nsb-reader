@@ -142,13 +142,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Compared with the rendered source page 6; the source notation differs from the corpus field and is transcribed in changes.",
-      "changes": {
-        "question": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c · a<sup>b</sup> − d [c times a to the power of b minus d]?<br>W) 6<br>X) 8<br>Y) 9<br>Z) 12",
-        "question_sanitized": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c * a^b - d [c times a to the power of b minus d]? W) 6; X) 8; Y) 9; Z) 12"
-      },
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c ∙ ab – d [c times a to the power of b minus d]?<br>W) 6<br>X) 8<br>Y) 9<br>Z) 12"
+      },
+      "changes": {
+        "question": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c · a<sup>b</sup> − d [c times a to the power of b minus d]?<br>W) 6<br>X) 8<br>Y) 9<br>Z) 12",
+        "question_sanitized": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c · a^(b) − d [c times a to the power of b minus d]?\nW) 6\nX) 8\nY) 9\nZ) 12"
       }
     },
     {
@@ -630,7 +630,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid?<br>W) NH 3<br>X) H 2 CO 3<br>Y) BF 3<br>Z) HSO 3 -"
@@ -650,7 +650,7 @@
           "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid?<br>W) NH<sub>3</sub><br>X) H<sub>2</sub>CO<sub>3</sub><br>Y) BF<sub>3</sub><br>Z) HSO<sub>3</sub><sup>-</sup>"
         ],
         "parts_sanitized": [
-          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid? W) NH3; X) H2CO3; Y) BF3; Z) HSO3^-"
+          "Which of the following can behave as a Lewis acid, but NOT as a Bronsted-Lowry acid?\nW) NH₃\nX) H₂CO₃\nY) BF₃\nZ) HSO₃⁻"
         ],
         "answers": [
           "Y) BF<sub>3</sub>"

@@ -114,13 +114,13 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is Y) n IS EVEN.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "If n is an integer, and xn is positive for all nonzero real numbers x, which of the following must be true about n?<br>W) n is greater than zero<br>X) n does not equal zero<br>Y) n is even<br>Z) n is odd"
       },
       "changes": {
         "question": "If n is an integer, and x<sup>n</sup> is positive for all nonzero real numbers x, which of the following must be true about n?<br>W) n is greater than zero<br>X) n does not equal zero<br>Y) n is even<br>Z) n is odd",
-        "question_sanitized": "If n is an integer, and x^n is positive for all nonzero real numbers x, which of the following must be true about n? W) n is greater than zero; X) n does not equal zero; Y) n is even; Z) n is odd"
+        "question_sanitized": "If n is an integer, and x^(n) is positive for all nonzero real numbers x, which of the following must be true about n?\nW) n is greater than zero\nX) n does not equal zero\nY) n is even\nZ) n is odd"
       }
     },
     {

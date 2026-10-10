@@ -60,13 +60,13 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Page 3 shows y = 36 × 7ˣ and matching read-as wording; restored multiplication and variable exponent formatting.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What type of growth does y = 36 7 (read as: y equals 36 times 7 to the power of x) represent?"
       },
       "changes": {
         "question": "What type of growth does y = 36 × 7<sup>x</sup> (read as: y equals 36 times 7 to the power of x) represent?",
-        "question_sanitized": "What type of growth does y = 36 * 7^x (read as: y equals 36 times 7 to the power of x) represent?"
+        "question_sanitized": "What type of growth does y = 36 × 7^(x) (read as: y equals 36 times 7 to the power of x) represent?"
       }
     },
     {

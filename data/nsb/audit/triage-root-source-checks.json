@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "p": 28,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [5],
+      "evidence": "PDF page 5 prints upper bound 2 and answer 6.75 (ACCEPT: 6 ¾), but its spoken cue says upper bound 1. Correct the cue to 2 to agree with the printed expression and answer, and document the source erratum.",
+      "changes": {
+        "parts": ["Evaluate: ∫<sub>−1</sub><sup>2</sup>(x³ + 1)dx [the integral from negative 1 to 2 of open parenthesis x cubed plus 1 close parenthesis dx]."],
+        "notes": ["Source erratum: the printed read-as cue gives upper bound 1, while the integral and answer use upper bound 2. The read-as cue is corrected to match the printed integral."]
+      }
+    }
+  ]
+}

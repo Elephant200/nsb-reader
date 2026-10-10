@@ -471,7 +471,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Page 10 prints f(x)=x²+eˣ and g(x)=1/x², then gives the wording ‘Determine g prime of f prime of zero.’ The stored record dropped the superscripts on x², eˣ and 1/x²; the source’s verbal derivative instruction is preserved verbatim.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Let f(x) = x + e and g(x) = 1/x . Determine g prime of f prime of zero."
@@ -482,7 +482,7 @@
           "Let f(x) = x<sup>2</sup> + e<sup>x</sup> and g(x) = 1/x<sup>2</sup>. Determine g prime of f prime of zero."
         ],
         "parts_sanitized": [
-          "Let f(x) = x^2 + e^x and g(x) = 1/x^2. Determine g prime of f prime of zero."
+          "Let f(x) = x² + e^(x) and g(x) = 1/x². Determine g prime of f prime of zero."
         ]
       }
     },

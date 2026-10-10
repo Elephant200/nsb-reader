@@ -80,7 +80,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Compared original PDF page 5 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "The standard heat of formation of calcium oxide is –635.5 kilojoules per mole. What is the complete, balanced equation for the formation of calcium oxide, including the energy value?",
         "answer": "Ca + ½ O à CaO + 635.5 kJ (read as: Ca solid plus one half O<sub>2</sub> gas yields (s) 2(g) (S) CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca + O à 2CaO + 1271 kJ (s) (2)(g) (s) (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
@@ -88,7 +88,7 @@
       "changes": {
         "question": "The standard heat of formation of calcium oxide is −635.5 kilojoules per mole. What is the complete, balanced equation for the formation of calcium oxide, including the energy value?",
         "answer": "Ca(s) + ½ O<sub>2</sub>(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O<sub>2</sub>(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)",
-        "answer_sanitized": "Ca(s) + ½ O_2(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O_2(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
+        "answer_sanitized": "Ca(s) + ½ O₂(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O₂(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
       }
     },
     {

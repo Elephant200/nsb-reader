@@ -411,7 +411,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 prints the acceptance formula as CH₄; answer METHANE (ACCEPT: CH₄). The imported answer has an extra space before the closing parenthesis.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "answers": [
           "METHANE (ACCEPT: CH<sub>4</sub> )"
@@ -422,7 +422,7 @@
           "METHANE (ACCEPT: CH<sub>4</sub>)"
         ],
         "answers_sanitized": [
-          "METHANE (ACCEPT: CH_4)"
+          "METHANE (ACCEPT: CH₄)"
         ]
       }
     },

@@ -40,7 +40,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2 shows (−24x³y⁵)/(10y⁶z²), simplifying to −12x³/(5yz²); corpus lost exponents and fraction structure.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Simplify the following without the use of negative exponents: 6 2 10 y z x",
         "answer": "– <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;2</span></span> <span class=\"nsb-fraction\">&lt;span&gt;12</span>&lt;span&gt;5</span></span> yz"
@@ -48,7 +48,7 @@
       "changes": {
         "question": "Simplify the following without the use of negative exponents: <span class=\"nsb-fraction\"><span>−24x<sup>3</sup>y<sup>5</sup></span><span>10y<sup>6</sup>z<sup>2</sup></span></span>",
         "answer": "−<span class=\"nsb-fraction\"><span>12x<sup>3</sup></span><span>5yz<sup>2</sup></span></span>",
-        "question_sanitized": "Simplify the following without the use of negative exponents: (−24x^3y^5)/(10y^6z^2)",
+        "question_sanitized": "Simplify the following without the use of negative exponents: (−24x³y⁵)/(10y⁶z²)",
         "answer_sanitized": "−(12x^3)/(5yz^2)"
       }
     },
@@ -86,11 +86,18 @@
       "kind": "tossups",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+      "evidence": "Rendered source page 4 at /tmp/chem-004p04.png; the source has commas immediately after each Ca(OH)₂/Ba(OH)₂ formula. The current stem had an extra space before both commas, so removed those two source-inconsistent spaces.",
+      "before": {
+        "question": "Ca(OH)<sub>2</sub> , NaOH, and Ba(OH)<sub>2</sub> , are all:<br>W) weak bases<br>X) completely ionized in water<br>Y) alkali halides<br>Z) standard buffers"
+      },
+      "changes": {
+        "question": "Ca(OH)<sub>2</sub>, NaOH, and Ba(OH)<sub>2</sub>, are all:<br>W) weak bases<br>X) completely ionized in water<br>Y) alkali halides<br>Z) standard buffers",
+        "question_sanitized": "Ca(OH)₂, NaOH, and Ba(OH)₂, are all:\nW) weak bases\nX) completely ionized in water\nY) alkali halides\nZ) standard buffers"
+      }
     },
     {
       "kind": "tossups",
@@ -452,7 +459,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "PDF page 8 prints the conjugate base answer NO₂⁻; corpus misplaced the charge into the prompt and dropped the formula subscripts.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What is the chemical formula for the conjugate base of HNO<sub>2</sub> ? 2–"
@@ -469,7 +476,7 @@
           "NO<sub>2</sub><sup>−</sup>"
         ],
         "answers_sanitized": [
-          "NO_2^(−)"
+          "NO₂⁻"
         ]
       }
     },

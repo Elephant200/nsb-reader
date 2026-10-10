@@ -50,13 +50,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Root visual recheck of PDF page 2 shows both digits 25 on the baseline, followed by a raised log with subscript base 5 and argument 8. The bold reading cue explicitly says 25 to the power of the log base 5 of 8. The previous review incorrectly raised the 5 in 25 and incorrectly reported a source-answer inconsistency. The answer Y) 64 agrees with the printed expression.",
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Which of the following is equivalent to 25log5 8 [25 to the power of the log base 5 of 8]?<br>W) 8<br>X) 16<br>Y) 64<br>Z) 128"
       },
       "changes": {
         "question": "Which of the following is equivalent to 25<sup>log<sub>5</sub>8</sup> [25 to the power of the log base 5 of 8]?<br>W) 8<br>X) 16<br>Y) 64<br>Z) 128",
-        "question_sanitized": "Which of the following is equivalent to 25^(log_5 8) [25 to the power of the log base 5 of 8]? W) 8; X) 16; Y) 64; Z) 128"
+        "question_sanitized": "Which of the following is equivalent to 25^(log₅8) [25 to the power of the log base 5 of 8]?\nW) 8\nX) 16\nY) 64\nZ) 128"
       }
     },
     {
@@ -254,7 +254,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered source page 12 confirms the notation or field boundary restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "If the two alleles for color sensitivity are Xb [X-little-B] = color- blind, and XB [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual?<br>W) XBXb [X-big-B-X-little-B]<br>X) XBXB [X-big-B-X-big-B]<br>Y) XbY [X-little-B-Y]<br>Z) XBY [X-big-B-Y]",
         "answer": "Y) XbY",
@@ -267,9 +267,9 @@
       },
       "changes": {
         "question": "If the two alleles for color sensitivity are X<sup>b</sup> [X-little-B] = color-blind, and X<sup>B</sup> [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual?<br>W) X<sup>B</sup>X<sup>b</sup> [X-big-B-X-little-B]<br>X) X<sup>B</sup>X<sup>B</sup> [X-big-B-X-big-B]<br>Y) X<sup>b</sup>Y [X-little-B-Y]<br>Z) X<sup>B</sup>Y [X-big-B-Y]",
-        "question_sanitized": "If the two alleles for color sensitivity are X^b [X-little-B] = color-blind, and X^B [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual? W) X^B X^b [X-big-B-X-little-B]; X) X^B X^B [X-big-B-X-big-B]; Y) X^bY [X-little-B-Y]; Z) X^BY [X-big-B-Y].",
+        "question_sanitized": "If the two alleles for color sensitivity are X^(b) [X-little-B] = color-blind, and X^(B) [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual?\nW) X^(B)X^(b) [X-big-B-X-little-B]\nX) X^(B)X^(B) [X-big-B-X-big-B]\nY) X^(b)Y [X-little-B-Y]\nZ) X^(B)Y [X-big-B-Y]",
         "answer": "Y) X<sup>b</sup>Y",
-        "answer_sanitized": "Y) X^bY",
+        "answer_sanitized": "Y) X^(b)Y",
         "options": [
           "W) X<sup>B</sup>X<sup>b</sup> [X-big-B-X-little-B]",
           "X) X<sup>B</sup>X<sup>B</sup> [X-big-B-X-big-B]",
@@ -302,11 +302,24 @@
       "kind": "bonuses",
       "itemIndex": 1,
       "number": 2,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 1."
+      "evidence": "Rendered source page /tmp/audit-b21-01.png prints superscript degree signs after 52, 317, and 2700. The payload used lowercase letter o in each place; restored the degree signs.",
+      "before": {
+        "parts": [
+          "Giving your answers to the nearest integers, identify the pressure in atmospheres of a gas that starts at 1 atmosphere and 23° Celsius at each of the following three temperatures: 1) 52o, 2) 317o, 3) 2700o."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Giving your answers to the nearest integers, identify the pressure in atmospheres of a gas that starts at 1 atmosphere and 23° Celsius at each of the following three temperatures: 1) 52°, 2) 317°, 3) 2700°."
+        ],
+        "parts_sanitized": [
+          "Giving your answers to the nearest integers, identify the pressure in atmospheres of a gas that starts at 1 atmosphere and 23° Celsius at each of the following three temperatures: 1) 52°, 2) 317°, 3) 2700°."
+        ]
+      }
     },
     {
       "kind": "bonuses",

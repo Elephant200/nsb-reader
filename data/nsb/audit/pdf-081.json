@@ -195,7 +195,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Matched toss-up 20 by number and opening text on Round 15 page 10; checked the complete item and mathematical/chemical notation against the page image.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is the hybridization of the xenon atom in xenon tetrafluoride? 3 2",
         "answer": "sp d"
@@ -203,7 +203,7 @@
       "changes": {
         "question": "What is the hybridization of the xenon atom in xenon tetrafluoride?",
         "answer": "sp<sup>3</sup>d<sup>2</sup>",
-        "answer_sanitized": "sp^3d^2"
+        "answer_sanitized": "sp³d²"
       }
     },
     {

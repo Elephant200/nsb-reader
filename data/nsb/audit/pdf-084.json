@@ -186,13 +186,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Root visual QA of PDF p. 10 confirms the full bracketed fraction read-as cue after f(x); restored it in both rich and reading text, retaining the corrected displayed fraction.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "For what values of x is the function [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
       },
       "changes": {
         "question": "For what values of x is the function f(x) = <span class=\"nsb-fraction\"><span>x<sup>2</sup></span><span>x<sup>2</sup> − 4x + 4</span></span> [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?",
-        "question_sanitized": "For what values of x is the function f(x) = x^2/(x^2 - 4x + 4) [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
+        "question_sanitized": "For what values of x is the function f(x) = (x²)/(x² − 4x + 4) [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
       }
     },
     {
@@ -219,11 +219,18 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Matched toss-up 23 by number and opening wording on Round 3 page 12; compared the complete prompt, choices, and answer to the printed page."
+      "evidence": "Rendered source page /tmp/audit-d84-12.png prints a degree sign after 78. Current prompt contains the ordinal indicator º instead of the degree symbol; corrected the glyph.",
+      "before": {
+        "question": "At -78º Celsius, dry ice changes directly from a solid to a gas. What is this process called?"
+      },
+      "changes": {
+        "question": "At -78° Celsius, dry ice changes directly from a solid to a gas. What is this process called?",
+        "question_sanitized": "At -78° Celsius, dry ice changes directly from a solid to a gas. What is this process called?"
+      }
     },
     {
       "kind": "tossups",

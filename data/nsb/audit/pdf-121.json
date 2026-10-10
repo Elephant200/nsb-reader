@@ -99,13 +99,13 @@
       "sourcePages": [
         4
       ],
-      "evidence": "PDF p.4 shows l = 3 and the magnetic quantum number m_l [M-L], asking minimum and maximum values; choices 1/infinity, 0/2, -3/3, -1/2/1/2, answer Y) -3, 3. Corpus split the subscripted symbol into spaced pieces, so restored m_l and retained cue.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m l ) [M-L], respectively?<br>W) 1, infinity<br>X) 0, 2<br>Y) -3, 3<br>Z) -½, ½"
       },
       "changes": {
         "question": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m<sub>l</sub>) [M-L], respectively?<br>W) 1, infinity<br>X) 0, 2<br>Y) -3, 3<br>Z) -½, ½",
-        "question_sanitized": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m_l) [M-L], respectively? W) 1, infinity X) 0, 2 Y) -3, 3 Z) -½, ½"
+        "question_sanitized": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m_(l)) [M-L], respectively?\nW) 1, infinity\nX) 0, 2\nY) -3, 3\nZ) -½, ½"
       }
     },
     {

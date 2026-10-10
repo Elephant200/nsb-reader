@@ -349,11 +349,21 @@
       "kind": "bonuses",
       "itemIndex": 8,
       "number": 9,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         5
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+      "evidence": "Compared the full bonuse prompt, answer, choices, all source acceptance/rejection instructions, reading cues, and notes with the original PDF text on packet 35, page(s) 5. Visually checked notation against rendered PDF page image /tmp/chem-035p5-05.png. The source prints both 10⁻⁶ exponents as superscripts; current note had baseline “10-6”.",
+      "before": {
+        "notes": [
+          "(Solution: 8 × 10-6g/2g = 4 × 10-6g = 4 ppm)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: 8 × 10<sup>−6</sup>g/2g = 4 × 10<sup>−6</sup>g = 4 ppm)"
+        ]
+      }
     },
     {
       "kind": "bonuses",

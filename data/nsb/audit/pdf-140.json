@@ -10,13 +10,16 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 confirms printed toss-up 1: 1) Chemistry – Short Answer What is the hybridization of the central iodine atom in iodine pentafluoride? ANSWER: sp3d2 [s-p-3-d-2]",
+      "evidence": "Source PDF p. 1 prints the stem ending at “iodine pentafluoride?”; the stored trailing “3 2” is displaced superscript debris. The printed answer’s sp³d² and [s-p-3-d-2] cue match the stored answer, so only the stem is replaced.",
       "before": {
-        "answer": "sp d [s-p-3-d-2]"
+        "answer": "sp d [s-p-3-d-2]",
+        "question": "What is the hybridization of the central iodine atom in iodine pentafluoride? 3 2"
       },
       "changes": {
         "answer": "sp<sup>3</sup>d<sup>2</sup> [s-p-3-d-2]",
-        "answer_sanitized": "sp^3d^2 [s-p-3-d-2]"
+        "answer_sanitized": "sp³d² [s-p-3-d-2]",
+        "question": "What is the hybridization of the central iodine atom in iodine pentafluoride?",
+        "question_sanitized": "What is the hybridization of the central iodine atom in iodine pentafluoride?"
       }
     },
     {

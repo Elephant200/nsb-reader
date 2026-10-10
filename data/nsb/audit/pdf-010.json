@@ -322,11 +322,33 @@
       "kind": "bonuses",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+      "evidence": "Rendered source page 4 at /tmp/chem-010p04.png; removed an extra space that separated each chemical formula from its following semicolon/parenthesis. Full replacement is in changes.",
+      "before": {
+        "parts": [
+          "Arrange the following 3 choices in order of increasing bond energies: O<sub>2</sub> ; N<sub>2</sub> ; F<sub>2</sub>"
+        ],
+        "answers": [
+          "F<sub>2</sub> ; O<sub>2</sub> ; N<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Arrange the following 3 choices in order of increasing bond energies: O<sub>2</sub>; N<sub>2</sub>; F<sub>2</sub>"
+        ],
+        "answers": [
+          "F<sub>2</sub>; O<sub>2</sub>; N<sub>2</sub>"
+        ],
+        "parts_sanitized": [
+          "Arrange the following 3 choices in order of increasing bond energies: O₂; N₂; F₂"
+        ],
+        "answers_sanitized": [
+          "F₂; O₂; N₂"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -505,11 +527,30 @@
       "kind": "bonuses",
       "itemIndex": 21,
       "number": 22,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         11
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+      "evidence": "Compared the full prompt, answer, and note against rendered source page 11 at /tmp/chem-010p11.png. The source answer is exactly 118.4; the corpus answer had unrelated trailing text. Restored the printed dry/total/water-vapor pressure subscripts in the note.",
+      "before": {
+        "answers": [
+          "118.4 dry t wv"
+        ],
+        "notes": [
+          "(Solution: P = P – P = 120 kPa – 1.6 kPa = 118.4 kPa)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "118.4"
+        ],
+        "notes": [
+          "(Solution: P<sub>dry</sub> = P<sub>t</sub> − P<sub>wv</sub> = 120 kPa − 1.6 kPa = 118.4 kPa)"
+        ],
+        "answers_sanitized": [
+          "118.4"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -539,7 +580,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Rendered PDF page 13 shows 2⁷ × 2^(x²−2) = 2²¹, with solutions ±4; the corpus flattened the exponential structure.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Solve the following equation for x: 2 2 2 = ±"
@@ -556,7 +597,7 @@
           "4 OR −4 (ACCEPT: x = ±4)"
         ],
         "parts_sanitized": [
-          "Solve the following equation for x: 2^7 × 2^((x^(2) − 2)) = 2^21"
+          "Solve the following equation for x: 2⁷ × 2^((x² - 2)) = 2²¹"
         ]
       }
     }

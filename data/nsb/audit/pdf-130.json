@@ -164,7 +164,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S 1; 2) S 2; 3) E1; 4) E2 N N",
         "answer": "3 and 4 (ACCEPT: E1 and E2)"
@@ -172,7 +172,7 @@
       "changes": {
         "question": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S<sub>N1</sub>; 2) S<sub>N2</sub>; 3) E<sub>1</sub>; 4) E<sub>2</sub>",
         "answer": "3 and 4 (ACCEPT: E<sub>1</sub> and E<sub>2</sub>)",
-        "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S_N1; 2) S_N2; 3) E1; 4) E2",
+        "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev's rule: 1) S_(N1); 2) S_(N2); 3) E₁; 4) E₂",
         "answer_sanitized": "3 and 4 (ACCEPT: E₁ and E₂)"
       }
     },
@@ -437,7 +437,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "PDF p.9 prints xy = 6, x²y + xy² + x + y = 63 and asks for x² + y²; corpus formula extraction displaced these expressions.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "You are given that and 2 2 [x times y equals six xy = 6 x y + xy + x + y = 63 and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: 2 2 [x squared plus y squared]. x + y"
@@ -448,7 +448,7 @@
           "You are given that <i>xy</i> = 6 and <i>x</i><sup>2</sup><i>y</i> + <i>xy</i><sup>2</sup> + <i>x</i> + <i>y</i> = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: <i>x</i><sup>2</sup> + <i>y</i><sup>2</sup> [x squared plus y squared]."
         ],
         "parts_sanitized": [
-          "You are given that xy = 6 and x^2y + xy^2 + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: x^2 + y^2 [x squared plus y squared]."
+          "You are given that xy = 6 and x²y + xy² + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: x² + y² [x squared plus y squared]."
         ]
       }
     },

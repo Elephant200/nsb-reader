@@ -6,11 +6,18 @@
       "kind": "tossups",
       "itemIndex": 0,
       "number": 1,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording and notation match."
+      "evidence": "Rendered source page /tmp/audit-c30-01.png shows the isotope mass number 1 raised before H in ¹H-NMR. The current prompt placed 1 at baseline; restored the superscript mass number.",
+      "before": {
+        "question": "Which of the following protons will have the largest coupling constant in the 1H-NMR spectrum?<br>W) Cis-alkene<br>X) Trans-alkene<br>Y) Ortho-benzene<br>Z) Para-benzene"
+      },
+      "changes": {
+        "question": "Which of the following protons will have the largest coupling constant in the <sup>1</sup>H-NMR spectrum?<br>W) Cis-alkene<br>X) Trans-alkene<br>Y) Ortho-benzene<br>Z) Para-benzene",
+        "question_sanitized": "Which of the following protons will have the largest coupling constant in the ¹H-NMR spectrum?\nW) Cis-alkene\nX) Trans-alkene\nY) Ortho-benzene\nZ) Para-benzene"
+      }
     },
     {
       "kind": "tossups",
@@ -457,7 +464,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered source page 6 shows the implicit derivative dy/dx and the equation x³y + xy² = 6; corpus flattened both powers and garbled the derivative glyphs.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Find at the point with coordinates (1, 2) if y is implicitly defined by 𝑑𝑑𝑑𝑑 the equation x3y + xy2 = 6."
@@ -468,7 +475,7 @@
           "Find <span class=\"nsb-fraction\"><span>dy</span><span>dx</span></span> at the point with coordinates (1, 2) if y is implicitly defined by the equation x<sup>3</sup>y + xy<sup>2</sup> = 6."
         ],
         "parts_sanitized": [
-          "Find dy/dx at the point with coordinates (1, 2) if y is implicitly defined by the equation x^3y + xy^2 = 6."
+          "Find (dy)/(dx) at the point with coordinates (1, 2) if y is implicitly defined by the equation x³y + xy² = 6."
         ]
       }
     },

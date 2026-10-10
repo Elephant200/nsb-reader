@@ -30,7 +30,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 2; corrected formatting visible in the source: 3x⁵y² + 6x³y⁵ and answer exponents.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is the greatest common factor of the terms in the expression 5 2 3 5 3x y + 6x y (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)? 3 2",
         "answer": "3 x y"
@@ -38,8 +38,8 @@
       "changes": {
         "question": "What is the greatest common factor of the terms in the expression 3x<sup>5</sup>y<sup>2</sup> + 6x<sup>3</sup>y<sup>5</sup> (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
         "answer": "3x<sup>3</sup>y<sup>2</sup>",
-        "question_sanitized": "What is the greatest common factor of the terms in the expression 3x^5y^2 + 6x^3y^5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
-        "answer_sanitized": "3x^3y^2"
+        "question_sanitized": "What is the greatest common factor of the terms in the expression 3x⁵y² + 6x³y⁵ (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
+        "answer_sanitized": "3x³y²"
       }
     },
     {

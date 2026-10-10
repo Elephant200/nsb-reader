@@ -539,11 +539,24 @@
       "kind": "bonuses",
       "itemIndex": 11,
       "number": 12,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "PDF p. 6 confirms question 12 beginning “Place the following four solvents in order of fastest to slowest reaction rate for S 2: 1) water, 2)” and keyed answer “4, 2, 1, 3 (ACCEPT: ACETONITRILE, DMSO, WATER, METHANOL)”."
+      "evidence": "The visually inspected source prints the reaction as Sₙ2 (SN2), with N as a subscript before 2. The stored part split the notation into “S 2” and a trailing “N”; replaced the full part to retain the correct reaction notation and all solvent names and the pronunciation cue.",
+      "before": {
+        "parts": [
+          "Place the following four solvents in order of fastest to slowest reaction rate for S 2: 1) water, 2) DMSO, 3) methanol, 4) acetonitrile [as-i-toh-NY-tril]. N"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Place the following four solvents in order of fastest to slowest reaction rate for S<sub>N</sub>2: 1) water, 2) DMSO, 3) methanol, 4) acetonitrile [as-i-toh-NY-tril]."
+        ],
+        "parts_sanitized": [
+          "Place the following four solvents in order of fastest to slowest reaction rate for S_(N)2: 1) water, 2) DMSO, 3) methanol, 4) acetonitrile [as-i-toh-NY-tril]."
+        ]
+      }
     },
     {
       "kind": "bonuses",

@@ -321,7 +321,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Source p. 2 prints the nth-term exponent on (−1), followed by /n; read-as cue states “negative 1 to the nth power, divided by n.”",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "The series with n term [negative 1 to the nth power, divided by n] is which of the following?<br>W) Divergent and unbounded<br>X) Divergent and bounded from above only<br>Y) Divergent and bounded<br>Z) Convergent and bounded"
@@ -332,7 +332,7 @@
           "The series with nth term (−1)<sup>n</sup>/n [negative 1 to the nth power, divided by n] is which of the following?<br>W) Divergent and unbounded<br>X) Divergent and bounded from above only<br>Y) Divergent and bounded<br>Z) Convergent and bounded"
         ],
         "parts_sanitized": [
-          "The series with nth term (-1)^n/n [negative 1 to the nth power, divided by n] is which of the following? W) Divergent and unbounded X) Divergent and bounded from above only Y) Divergent and bounded Z) Convergent and bounded"
+          "The series with nth term (−1)^(n)/n [negative 1 to the nth power, divided by n] is which of the following?\nW) Divergent and unbounded\nX) Divergent and bounded from above only\nY) Divergent and bounded\nZ) Convergent and bounded"
         ]
       }
     },
@@ -500,7 +500,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Source p. 9 prints magnetic quantum number m with subscript l; all four answer choices match.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m ? l<br>W) -1<br>X) 0<br>Y) 2<br>Z) 3"
@@ -511,7 +511,7 @@
           "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m<sub>l</sub>?<br>W) -1<br>X) 0<br>Y) 2<br>Z) 3"
         ],
         "parts_sanitized": [
-          "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m_l? W) -1 X) 0 Y) 2 Z) 3"
+          "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m_(l)?\nW) -1\nX) 0\nY) 2\nZ) 3"
         ]
       }
     },

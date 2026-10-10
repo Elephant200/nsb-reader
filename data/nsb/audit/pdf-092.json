@@ -409,7 +409,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered source page 5 shows e raised to x; the captured function flattened x to baseline.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "If f(x) = -2x - ex [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
@@ -420,7 +420,7 @@
           "If f(x) = -2x - e<sup>x</sup> [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
         ],
         "parts_sanitized": [
-          "If f(x) = -2x - e^x [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
+          "If f(x) = -2x - e^(x) [f of x equals negative 2x minus e to the x], what is the range of f' [the derivative of f]?"
         ]
       }
     },
@@ -432,7 +432,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered source page 6 shows superscript hybridization counts across every choice and the answer; the captured fields flattened all powers.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?<br>W) Krypton: sp3; each fluorine: sp3<br>X) Krypton: sp3d; each fluorine: sp3<br>Y) Krypton: sp3d2; each fluorine: sp2<br>Z) Krypton: sp3d; each fluorine: sp2"
@@ -452,7 +452,7 @@
           "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?<br>W) Krypton: sp<sup>3</sup>; each fluorine: sp<sup>3</sup><br>X) Krypton: sp<sup>3</sup>d; each fluorine: sp<sup>3</sup><br>Y) Krypton: sp<sup>3</sup>d<sup>2</sup>; each fluorine: sp<sup>2</sup><br>Z) Krypton: sp<sup>3</sup>d; each fluorine: sp<sup>2</sup>"
         ],
         "parts_sanitized": [
-          "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?\nW) Krypton: sp^3; each fluorine: sp^3\nX) Krypton: sp^3d; each fluorine: sp^3\nY) Krypton: sp^3d^2; each fluorine: sp^2\nZ) Krypton: sp^3d; each fluorine: sp^2"
+          "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?\nW) Krypton: sp³; each fluorine: sp³\nX) Krypton: sp³d; each fluorine: sp³\nY) Krypton: sp³d²; each fluorine: sp²\nZ) Krypton: sp³d; each fluorine: sp²"
         ],
         "options": [
           "W) Krypton: sp<sup>3</sup>; each fluorine: sp<sup>3</sup>",
@@ -464,7 +464,7 @@
           "X) KRYPTON: sp<sup>3</sup>d; EACH FLUORINE: sp<sup>3</sup>"
         ],
         "answers_sanitized": [
-          "X) KRYPTON: sp^3d; EACH FLUORINE: sp^3"
+          "X) KRYPTON: sp³d; EACH FLUORINE: sp³"
         ]
       }
     },

@@ -479,11 +479,24 @@
       "kind": "bonuses",
       "itemIndex": 14,
       "number": 15,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 8."
+      "evidence": "Rendered source page /tmp/audit-b24page8-08.png shows the point-group symbol T_d, with d as a subscript. Current answer flattened it to “T d”; restored the point-group notation.",
+      "before": {
+        "answers": [
+          "T d (ACCEPT: TETRAHEDRAL)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "T<sub>d</sub> (ACCEPT: TETRAHEDRAL)"
+        ],
+        "answers_sanitized": [
+          "T_(d) (ACCEPT: TETRAHEDRAL)"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -615,7 +628,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
+      "evidence": "Rendered source page /tmp/audit-b24page13-13.png shows the keyed answer Y) OCH₃. Current answer lost the subscript and rendered it as “OCH 3”; restored the formula.",
       "before": {
         "parts": [
           "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain end radical. All except which of the following are strong stabilizers of the radical?<br>W) CN<br>X) C 6 H 5<br>Y) OCH 3<br>Z) CO 2 CH 3"
@@ -625,6 +638,9 @@
           "X) C 6 H 5",
           "Y) OCH 3",
           "Z) CO 2 CH 3"
+        ],
+        "answers": [
+          "Y) OCH 3"
         ]
       },
       "changes": {
@@ -639,6 +655,12 @@
           "X) C<sub>6</sub>H<sub>5</sub>",
           "Y) OCH<sub>3</sub>",
           "Z) CO<sub>2</sub>CH<sub>3</sub>"
+        ],
+        "answers": [
+          "Y) OCH<sub>3</sub>"
+        ],
+        "answers_sanitized": [
+          "Y) OCH₃"
         ]
       }
     }

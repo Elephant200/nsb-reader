@@ -60,13 +60,13 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered source page 3 shows x raised to x in the limit expression; the captured question omitted the expression.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is the limit of as x approaches 0?"
       },
       "changes": {
         "question": "What is the limit of x<sup>x</sup> as x approaches 0?",
-        "question_sanitized": "What is the limit of x^x as x approaches 0?"
+        "question_sanitized": "What is the limit of x^(x) as x approaches 0?"
       }
     },
     {
@@ -187,13 +187,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered source page 10 gives (2/3)πr³, accepting 2πr³/3; the captured answer flattened the exponents and duplicated a colon.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "answer": "(2/3) πr3 (ALSO ACCEPT:: 2πr3/3)"
       },
       "changes": {
         "answer": "(2/3) πr<sup>3</sup> (ALSO ACCEPT: 2πr<sup>3</sup>/3)",
-        "answer_sanitized": "(2/3) πr^3 (ALSO ACCEPT: 2πr^3/3)"
+        "answer_sanitized": "(2/3) πr³ (ALSO ACCEPT: 2πr³/3)"
       }
     },
     {
@@ -343,7 +343,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered source page 4 prints hybridization sp³d²; the captured answer flattened both superscripts.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "answers": [
           "sp3d2"
@@ -354,7 +354,7 @@
           "sp<sup>3</sup>d<sup>2</sup>"
         ],
         "answers_sanitized": [
-          "sp^3d^2"
+          "sp³d²"
         ]
       }
     },

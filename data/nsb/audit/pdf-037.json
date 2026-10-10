@@ -40,7 +40,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2 shows log₄(53) converted to log(53)/log(4), accepting log₁₀(53)/log₁₀(4); the corpus mixed question and answer fragments.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Convert log base 4 of 53 into a base 10 expression: log 53 log<sub>10</sub> 53",
         "answer": "(ACCEPT: ) log 4 log<sub>10</sub> 4"
@@ -48,7 +48,7 @@
       "changes": {
         "question": "Convert log base 4 of 53 into a base 10 expression:",
         "answer": "<span class=\"nsb-fraction\"><span>log 53</span><span>log 4</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>log<sub>10</sub> 53</span><span>log<sub>10</sub> 4</span></span>)",
-        "answer_sanitized": "(log 53)/(log 4) (ACCEPT: (log_10 53)/(log_10 4))"
+        "answer_sanitized": "(log 53)/(log 4) (ACCEPT: (log₁₀ 53)/(log₁₀ 4))"
       }
     },
     {
@@ -95,11 +95,33 @@
       "kind": "tossups",
       "itemIndex": 8,
       "number": 9,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5; visually compared its mathematical or chemical notation, and the corpus fields match."
+      "evidence": "Compared the full tossup prompt, answer, choices, all source acceptance/rejection instructions, reading cues, and notes with the original PDF text on packet 37, page(s) 5. Visually checked notation against rendered PDF page image /tmp/chem-037p5-05.png. The source prints H⁺ and OH⁻; current payload detached the charge signs from the ions and appended them to separate choice strings.",
+      "before": {
+        "question": "According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction:<br>W) donates a pair of electrons<br>X) accepts a pair of electrons +<br>Y) produces H ions in aqueous solution –<br>Z) produces OH ions in aqueous solution +",
+        "options": [
+          "W) donates a pair of electrons",
+          "X) accepts a pair of electrons +",
+          "Y) produces H ions in aqueous solution –",
+          "Z) produces OH ions in aqueous solution +"
+        ],
+        "answer": "Y) PRODUCES H IONS IN AQUEOUS SOLUTION"
+      },
+      "changes": {
+        "question": "According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction:<br>W) donates a pair of electrons<br>X) accepts a pair of electrons<br>Y) produces H<sup>+</sup> ions in aqueous solution<br>Z) produces OH<sup>−</sup> ions in aqueous solution",
+        "options": [
+          "W) donates a pair of electrons",
+          "X) accepts a pair of electrons",
+          "Y) produces H<sup>+</sup> ions in aqueous solution",
+          "Z) produces OH<sup>−</sup> ions in aqueous solution"
+        ],
+        "answer": "Y) PRODUCES H<sup>+</sup> IONS IN AQUEOUS SOLUTION",
+        "question_sanitized": "According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction:\nW) donates a pair of electrons\nX) accepts a pair of electrons\nY) produces H⁺ ions in aqueous solution\nZ) produces OH⁻ ions in aqueous solution",
+        "answer_sanitized": "Y) PRODUCES H⁺ IONS IN AQUEOUS SOLUTION"
+      }
     },
     {
       "kind": "tossups",
@@ -417,7 +439,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 shows −2√(80a²b⁴c³) and simplifies it to −8ab²c√(5c); the corpus lost radical signs and exponent layout.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Express the following radical in its simplest radical form: 2 ( 80 a 2 b 4 c 3 ) !"
@@ -431,13 +453,13 @@
           "Express the following radical in its simplest radical form: −2√(80a<sup>2</sup>b<sup>4</sup>c<sup>3</sup>)"
         ],
         "parts_sanitized": [
-          "Express the following radical in its simplest radical form: -2 times the square root of 80a^2b^4c^3"
+          "Express the following radical in its simplest radical form: −2√(80a²b⁴c³)"
         ],
         "answers": [
           "−8ab<sup>2</sup>c√(5c)"
         ],
         "answers_sanitized": [
-          "-8ab^2c times the square root of (5c)"
+          "−8ab²c√(5c)"
         ]
       }
     },

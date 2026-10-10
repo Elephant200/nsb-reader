@@ -305,7 +305,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3; restored the visibly printed mathematical or scientific notation.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What is the approximation for e 2 that results from using the first four nonzero terms of the Taylor series for e to the x centered at 0?"
@@ -316,7 +316,7 @@
           "What is the approximation for e<sup>2</sup> that results from using the first four nonzero terms of the Taylor series for e<sup>x</sup> centered at 0?"
         ],
         "parts_sanitized": [
-          "What is the approximation for e^2 that results from using the first four nonzero terms of the Taylor series for e^x centered at 0?"
+          "What is the approximation for e² that results from using the first four nonzero terms of the Taylor series for e^(x) centered at 0?"
         ]
       }
     },

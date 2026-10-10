@@ -173,11 +173,33 @@
       "kind": "tossups",
       "itemIndex": 18,
       "number": 19,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "Source p. 10 prints “CHEMISTRY Multiple Choice A reaction is carried out in a constant pressure calorimeter.”; answer Y) ∆T agrees with the record and displayed choices."
+      "evidence": "On the visually inspected PDF page, the toss-up choices are W) Δq [read as: delta Q], X) ΔE, Y) ΔH, Z) ΔT and the printed key is Y) ΔH. The stored question had the labels and expressions shifted, and its answer incorrectly said Y) ΔT; replaced the complete question/options and answer to preserve the printed order and cue.",
+      "before": {
+        "question": "A reaction is carried out in a constant pressure calorimeter. Appropriate measurements are taken and the energy for the change is calculated. The quantity of heat exchanged under these conditions leads to the calculation of which of the following state functions? ∆q<br>W) [delta Q] ∆E<br>X) ∆H<br>Y) ∆T<br>Z) ∆H",
+        "answer": "Y) ∆T",
+        "options": [
+          "W) [delta Q] ∆E",
+          "X) ∆H",
+          "Y) ∆T",
+          "Z) ∆H"
+        ]
+      },
+      "changes": {
+        "question": "A reaction is carried out in a constant pressure calorimeter. Appropriate measurements are taken and the energy for the change is calculated. The quantity of heat exchanged under these conditions leads to the calculation of which of the following state functions?<br>W) ∆q [delta Q]<br>X) ∆E<br>Y) ∆H<br>Z) ∆T",
+        "answer": "Y) ∆H",
+        "options": [
+          "W) ∆q [delta Q]",
+          "X) ∆E",
+          "Y) ∆H",
+          "Z) ∆T"
+        ],
+        "question_sanitized": "A reaction is carried out in a constant pressure calorimeter. Appropriate measurements are taken and the energy for the change is calculated. The quantity of heat exchanged under these conditions leads to the calculation of which of the following state functions?\nW) ∆q [delta Q]\nX) ∆E\nY) ∆H\nZ) ∆T",
+        "answer_sanitized": "Y) ∆H"
+      }
     },
     {
       "kind": "tossups",
@@ -381,7 +403,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Source p. 6 gives ε₀ = 9 × 10⁻¹² and answer 9 × 10⁻¹³; the PDF includes the full question and [epsilon naught] cue.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given -12 squared over newtons meter squared as ε<sub>0</sub> 9 x 10 coulombs [epsilon naught], providing your"
@@ -398,7 +420,7 @@
           "9 × 10<sup>−13</sup>"
         ],
         "parts_sanitized": [
-          "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 x 10^-12 coulombs squared over newtons meter squared as epsilon_0 [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
+          "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 × 10⁻¹² coulombs squared over newtons meter squared as ε₀ [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
         ],
         "answers_sanitized": [
           "9 x 10^-13"
@@ -499,11 +521,24 @@
       "kind": "bonuses",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Source p. 12 prints “MATH Short Answer Let a = 0.845454545… be an infinite repeating decimal with the digits 4”; answer 17 agrees with the record and displayed choices."
+      "evidence": "Page 12 the printed decimal is a=0.845454545…; the current prompt drops this defining value, which is needed for the answer 17. Restore the number. Source render: /tmp/nsb-math-expand-108-12.png.",
+      "before": {
+        "parts": [
+          "Let a be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Let a = 0.845454545… be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator?"
+        ],
+        "parts_sanitized": [
+          "Let a = 0.845454545... be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

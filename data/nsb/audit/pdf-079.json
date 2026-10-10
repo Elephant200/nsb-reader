@@ -413,7 +413,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched bonus 15 by printed number and opening wording on Round 13 page 8; checked full prompt and answer, including displayed notation, against the page image.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: → 2 2NO + O 2NO and given that the rate law of this reaction is k(NO) . (g) 2(g) 2(g)"
@@ -424,7 +424,7 @@
           "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O<sub>2</sub>(g) → 2NO<sub>2</sub>(g) and given that the rate law of this reaction is k(NO)<sup>2</sup>."
         ],
         "parts_sanitized": [
-          "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O2(g) -> 2NO2(g) and given that the rate law of this reaction is k(NO)^2."
+          "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O₂(g) → 2NO₂(g) and given that the rate law of this reaction is k(NO)²."
         ]
       }
     },

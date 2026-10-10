@@ -388,7 +388,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered original PDF page 8 confirms the corrected notation or layout.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H<sub>2</sub> , 2) B<sub>2</sub> , 3) ClBr, 4) OF."
@@ -402,13 +402,13 @@
           "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H<sub>2</sub>, 2) B<sub>2</sub>, 3) ClBr, 4) OF."
         ],
         "parts_sanitized": [
-          "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H_2, 2) B_2, 3) ClBr, 4) OF."
+          "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H₂, 2) B₂, 3) ClBr, 4) OF."
         ],
         "answers": [
           "H<sub>2</sub>, B<sub>2</sub>, ClBr (ACCEPT: 1, 2, AND 3)"
         ],
         "answers_sanitized": [
-          "H_2, B_2, ClBr (ACCEPT: 1, 2, AND 3)"
+          "H₂, B₂, ClBr (ACCEPT: 1, 2, AND 3)"
         ]
       }
     },

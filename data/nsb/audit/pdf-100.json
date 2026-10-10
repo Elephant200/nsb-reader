@@ -314,7 +314,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 shows parenthesized factors (2ˣ)(3ʸ)(5ᶻ), the full bracketed reading cue, and answer 12.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Given (2x)(3y)(5z) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
@@ -325,7 +325,7 @@
           "Given (2<sup>x</sup>)(3<sup>y</sup>)(5<sup>z</sup>) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
         ],
         "parts_sanitized": [
-          "Given (2^x)(3^y)(5^z) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
+          "Given (2^(x))(3^(y))(5^(z)) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
         ]
       }
     },

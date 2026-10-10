@@ -96,7 +96,8 @@ test('sanitized math preserves fractional and nested powers, charges, dots, and 
       bonuses: []
     }
   });
-  assert.equal(packet.tossups[0].question_sanitized, 'a^(b² + b) (4 × 10⁴)^(1/2) OH⁻ f″ x⋅y 5th');
+  assert.equal(packet.tossups[0].question_sanitized, 'a^(b²\u00a0+\u00a0b) (4 × 10⁴)^(1/2) OH⁻ f″ x⋅y 5th');
+  assert.equal(packet.tossups[0].question_sanitized.split(' ')[0], 'a^(b²\u00a0+\u00a0b)');
   assert.equal(packet.tossups[0].answer_sanitized, 'x_(n+1)');
 });
 

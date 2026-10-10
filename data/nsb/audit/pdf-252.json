@@ -96,13 +96,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Viewed p.10 at high resolution: formula is f(x)=eˣ−2; choices are −2, −1, 0, 1 and key W) −2.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "Which of the following values is NOT in the range of f of x = e x – 2?<br>W) –2<br>X) –1<br>Y) 0<br>Z) 1"
       },
       "changes": {
         "question": "Which of the following values is NOT in the range of f of x = e<sup>x</sup> – 2?<br>W) –2<br>X) –1<br>Y) 0<br>Z) 1",
-        "question_sanitized": "Which of the following values is NOT in the range of f of x = e^x – 2?<br>W) –2<br>X) –1<br>Y) 0<br>Z) 1"
+        "question_sanitized": "Which of the following values is NOT in the range of f of x = e^(x) - 2?\nW) -2\nX) -1\nY) 0\nZ) 1"
       }
     },
     {

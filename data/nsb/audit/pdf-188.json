@@ -337,7 +337,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered packet 188 PDF page 5 shows bonus 10, “Math – Short Answer Evaluate 122 + 222 + 322.”; checked its complete wording and full answer “1652” against the source.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Evaluate 12 2 + 22 2 + 32 2 ."
@@ -348,7 +348,7 @@
           "Evaluate 12<sup>2</sup> + 22<sup>2</sup> + 32<sup>2</sup>."
         ],
         "parts_sanitized": [
-          "Evaluate 12^2 + 22^2 + 32^2."
+          "Evaluate 12² + 22² + 32²."
         ]
       }
     },

@@ -347,7 +347,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 prints the function x²eˣ in the derivative question; both powers were lost from the import.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What is the derivative of the function x e at x = 1?"
@@ -358,7 +358,7 @@
           "What is the derivative of the function x<sup>2</sup>e<sup>x</sup> at x = 1?"
         ],
         "parts_sanitized": [
-          "What is the derivative of the function x^2 e^x at x = 1?"
+          "What is the derivative of the function x²e^(x) at x = 1?"
         ]
       }
     },

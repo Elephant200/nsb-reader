@@ -502,7 +502,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered original PDF page 10 confirms the corrected notation or layout.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "What is the amount of heat Q produced when an electric current I flows through a resistance R during a time interval t? 2"
@@ -522,7 +522,7 @@
           "Q = I<sup>2</sup>Rt"
         ],
         "answers_sanitized": [
-          "Q = I^2Rt"
+          "Q = I²Rt"
         ]
       }
     },

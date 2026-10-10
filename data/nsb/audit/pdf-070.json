@@ -183,11 +183,18 @@
       "kind": "tossups",
       "itemIndex": 20,
       "number": 21,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         11
       ],
-      "evidence": "Compared prompt, embedded choices where present, and answer against packet 070 source PDF page 11; wording and content match."
+      "evidence": "Compared the complete tossup prompt, answer, all choices, acceptance/rejection instructions, reading cues, and notes against the original PDF and extracted text on packet 70, page(s) 11. Visually checked notation/spacing against /tmp/audit-070-page11.png. Source image shows the hydrate formula SnCl₂ ∙ 6H₂O without a space between the H₂ subscript and O.",
+      "before": {
+        "question": "What is the IUPAC name for SnCl<sub>2</sub> ∙ 6H<sub>2</sub> O?"
+      },
+      "changes": {
+        "question": "What is the IUPAC name for SnCl<sub>2</sub> ∙ 6H<sub>2</sub>O?",
+        "question_sanitized": "What is the IUPAC name for SnCl₂ ∙ 6H₂O?"
+      }
     },
     {
       "kind": "tossups",
@@ -432,11 +439,24 @@
       "kind": "bonuses",
       "itemIndex": 16,
       "number": 17,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "Compared prompt, embedded choices where present, and answer against packet 070 source PDF page 9; wording and content match."
+      "evidence": "Compared the complete bonus prompt, answer, all choices, acceptance/rejection instructions, reading cues, and notes against the original PDF and extracted text on packet 70, page(s) 9. Visually checked notation/spacing against /tmp/audit-070-page9.png. Source shows superscript 2 and 3 in the configuration; current text displaced them into “valence electron 2 3 configuration of 3s 3p ?”.",
+      "before": {
+        "parts": [
+          "Which of the following elements has the valence electron 2 3 configuration of 3s 3p ?<br>W) Phosphorus<br>X) Oxygen<br>Y) Bromine<br>Z) Nitrogen"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following elements has the valence electron configuration of 3s<sup>2</sup>3p<sup>3</sup>?<br>W) Phosphorus<br>X) Oxygen<br>Y) Bromine<br>Z) Nitrogen"
+        ],
+        "parts_sanitized": [
+          "Which of the following elements has the valence electron configuration of 3s²3p³?\nW) Phosphorus\nX) Oxygen\nY) Bromine\nZ) Nitrogen"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -452,11 +472,24 @@
       "kind": "bonuses",
       "itemIndex": 18,
       "number": 19,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "Compared prompt, embedded choices where present, and answer against packet 070 source PDF page 10; wording and content match."
+      "evidence": "Compared the complete bonus prompt, answer, all choices, acceptance/rejection instructions, reading cues, and notes against the original PDF and extracted text on packet 70, page(s) 10. Visually checked notation/spacing against /tmp/audit-070-page10.png. Source includes the quantum number l = 2; current prompt omitted the l.",
+      "before": {
+        "parts": [
+          "Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and = 2 (read l as: L equals 2)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read l as: L equals 2)?"
+        ],
+        "parts_sanitized": [
+          "Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read l as: L equals 2)?"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -492,11 +525,24 @@
       "kind": "bonuses",
       "itemIndex": 24,
       "number": 25,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         13
       ],
-      "evidence": "Compared prompt, embedded choices where present, and answer against packet 070 source PDF page 13; wording and content match."
+      "evidence": "Compared the complete bonus prompt, answer, all choices, acceptance/rejection instructions, reading cues, and notes against the original PDF and extracted text on packet 70, page(s) 13. Visually checked notation/spacing against /tmp/audit-070-page13.png. Removed the stray space before the question mark after Ba(OH)₂; source has no space.",
+      "before": {
+        "parts": [
+          "How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)<sub>2</sub> ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)<sub>2</sub>?"
+        ],
+        "parts_sanitized": [
+          "How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)₂?"
+        ]
+      }
     }
   ],
   "packetIssues": []

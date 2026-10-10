@@ -495,11 +495,24 @@
       "kind": "bonuses",
       "itemIndex": 23,
       "number": 24,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+      "evidence": "Compared the complete bonus prompt, answer, all choices, acceptance/rejection instructions, reading cues, and notes against the original PDF and extracted text on packet 67, page(s) 12. Visually checked chemical notation against /tmp/audit-067-page12.png. The source prints Sr(NO₂)₂ with no gap inside the nitrate group; removed the stray space from the current answer.",
+      "before": {
+        "answers": [
+          "Sr(NO<sub>2</sub> )<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "Sr(NO<sub>2</sub>)<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "Sr(NO₂)₂"
+        ]
+      }
     },
     {
       "kind": "bonuses",

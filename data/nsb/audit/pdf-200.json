@@ -327,7 +327,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Page 4 prints Kₐ with a subscript a; extraction split the subscript into the following sentence, so restored the full prompt.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "A weak acid has a K of 1.6 times ten to the negative fifth. a Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
@@ -338,7 +338,7 @@
           "A weak acid has a K<sub>a</sub> of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
         ],
         "parts_sanitized": [
-          "A weak acid has a K_a of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
+          "A weak acid has a K_(a) of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
         ]
       }
     },

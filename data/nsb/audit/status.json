@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "phase": "first-pass-complete",
   "secondPassStatus": "skipped-at-user-request",
+  "triageValidation": {
+    "date": "2026-10-10",
+    "sourceReviewedQuestions": 5677,
+    "sourceReviewCorrections": 186,
+    "mathCoverage": "1986/1986",
+    "chemistryCoverage": "2076/2076",
+    "readingConsistencyRepairs": 281,
+    "unresolvedSourceReviews": 0,
+    "unrenderedReaderNotation": 0,
+    "correctionLogEntries": 1758,
+    "appliedCorrectionLogEntries": 1758,
+    "testsPassed": 69,
+    "lint": "passed",
+    "build": "passed",
+    "localApiVerification": "passed",
+    "summaryPath": "data/nsb/audit/triage-summary.json"
+  },
   "finalValidation": {
     "date": "2026-10-09",
     "correctionLogEntries": 1680,
@@ -52,14 +69,14 @@
   "excludedQuestionCount": 808,
   "screeningIdentityValidation": "All 12023 packetIndex/kind/itemIndex/number identities checked against source arrays; no duplicates or omissions.",
   "pdfReviewedQuestionCount": 11215,
-  "correctedQuestionCount": 1708,
+  "correctedQuestionCount": 1753,
   "notes": [
     "Luna completed full-text reading after conservative automated screening. Per-shard coverage files record methods and corrected indexing errors.",
     "Every flagged identity has a completed first-pass PDF review; known incorrect proposals were withdrawn before finalization. Genuine printed source inconsistencies remain documented in packetIssues.",
     "The full independent second pass was skipped at the user's explicit request. Completion refers to the first-pass audit and final validation, not a guarantee of zero remaining source or transcription errors.",
-    "The initial code release preserved production question data. The October 9 follow-up fixes the two user-reported questions and source-confirmed related defects through targeted production updates; the complete audited corpus has not been imported into production."
+    "The October 9 corpus release imported all prior corrections and recovered questions into production while preserving existing question IDs, ordinals, and report references. The subsequent stratified review and targeted Math/Chemistry expansion are documented in triage-summary.json."
   ],
-  "proposedCorrectionCount": 1708,
+  "proposedCorrectionCount": 1753,
   "pdfUnresolvedQuestionCount": 0,
   "pdfPendingQuestionCount": 0,
   "pdfCompletedPacketIndexes": [

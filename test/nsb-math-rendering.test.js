@@ -42,6 +42,8 @@ test('explicit reading notation renders powers and subscripts without flattening
   assert.equal(renderReadingText('pK_(a) + pK_(b)'), 'pKₐ + pK<sub>b</sub>');
   assert.equal(renderReadingText('x^(2/3) + x^(n+1)'), 'x<sup>2/3</sup> + x<sup>n+1</sup>');
   assert.equal(renderReadingText('∑_(n=1)^(∞) + lim_(x→π/3)'), '∑ₙ₌₁<sup>∞</sup> + lim<sub>x→π/3</sub>');
+  assert.equal(renderReadingText('e^(cos\u00a0x)'), 'e<sup>cos\u00a0x</sup>');
+  assert.equal(renderReadingText('e^(ln(x)) + a^(b^(n+1))'), 'e<sup>ln(x)</sup> + a<sup>b<sup>n+1</sup></sup>');
   assert.equal(renderReadingText('x^2/3 + x^2.5 + x2'), 'x^2/3 + x^2.5 + x2');
   assert.equal(renderReadingText('x^(<img src=x>)'), 'x^(&lt;img src=x&gt;)');
 });

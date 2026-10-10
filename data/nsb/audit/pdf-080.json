@@ -589,11 +589,24 @@
       "kind": "bonuses",
       "itemIndex": 21,
       "number": 22,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         11
       ],
-      "evidence": "Matched bonus 22 by printed number and opening wording on Round 14 page 11; checked full text, choices, and notation against the PDF image."
+      "evidence": "Rendered original PDF page /tmp/audit-080-page11.png shows “K_f” with f as a subscript and the quantity 5° Celsius kilograms per mole. The current prompt displaced f from K and separated it as “K for benzene of f 5°”; restored K<sub>f</sub>.",
+      "before": {
+        "parts": [
+          "A chemist is trying to identify a chemical by determining its molar mass. A sample weighing 0.75 grams was dissolved in 0.10 kilograms of benzene and the freezing point depression was determined to be 0.50° Celsius. Given the K for benzene of f 5° Celsius kilograms per mole, what is the molar mass of the chemical in grams per mole to the nearest whole number?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A chemist is trying to identify a chemical by determining its molar mass. A sample weighing 0.75 grams was dissolved in 0.10 kilograms of benzene and the freezing point depression was determined to be 0.50° Celsius. Given the K<sub>f</sub> for benzene of 5° Celsius kilograms per mole, what is the molar mass of the chemical in grams per mole to the nearest whole number?"
+        ],
+        "parts_sanitized": [
+          "A chemist is trying to identify a chemical by determining its molar mass. A sample weighing 0.75 grams was dissolved in 0.10 kilograms of benzene and the freezing point depression was determined to be 0.50° Celsius. Given the K_(f) for benzene of 5° Celsius kilograms per mole, what is the molar mass of the chemical in grams per mole to the nearest whole number?"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -609,11 +622,33 @@
       "kind": "bonuses",
       "itemIndex": 23,
       "number": 24,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Matched bonus 24 by printed number and opening wording on Round 14 page 12; checked full text, choices, and notation against the PDF image."
+      "evidence": "Rendered original PDF page /tmp/audit-80-12.png shows the complete bonus prompt ending with “at standard temperature and pressure?” and the separate keyed answer “45”. The current payload truncates parts after “Providing your” and moves the rest of the prompt into answers before 45; restored the whole prompt and answer.",
+      "before": {
+        "parts": [
+          "The molar mass of carbon dioxide is 44 grams. Providing your"
+        ],
+        "answers": [
+          "to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of carbon dioxide gas will be formed at standard temperature and pressure? 45"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The molar mass of carbon dioxide is 44 grams. Providing your answer to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of carbon dioxide gas will be formed at standard temperature and pressure?"
+        ],
+        "answers": [
+          "45"
+        ],
+        "parts_sanitized": [
+          "The molar mass of carbon dioxide is 44 grams. Providing your answer to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of carbon dioxide gas will be formed at standard temperature and pressure?"
+        ],
+        "answers_sanitized": [
+          "45"
+        ]
+      }
     },
     {
       "kind": "bonuses",

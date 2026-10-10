@@ -196,11 +196,18 @@
       "kind": "tossups",
       "itemIndex": 21,
       "number": 22,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         11
       ],
-      "evidence": "p.11 confirms Chemistry – Short Answer Consider a gaseous mixture of helium and molecular hydrogen; ANSWER: SQUARE ROOT OF 2 (ACCEPT: √2 TO 1) matches the print after reviewing the complete prompt/options."
+      "evidence": "Source PDF p. 11 line-wraps “root-mean-square” after the first hyphen, with no intervening space. The stored stem contains “root-mean- square”; the compound is restored.",
+      "before": {
+        "question": "Consider a gaseous mixture of helium and molecular hydrogen that is allowed to equilibrate to a constant internal temperature. What is the ratio of the root-mean- square speed of hydrogen molecules to that of helium atoms?"
+      },
+      "changes": {
+        "question": "Consider a gaseous mixture of helium and molecular hydrogen that is allowed to equilibrate to a constant internal temperature. What is the ratio of the root-mean-square speed of hydrogen molecules to that of helium atoms?",
+        "question_sanitized": "Consider a gaseous mixture of helium and molecular hydrogen that is allowed to equilibrate to a constant internal temperature. What is the ratio of the root-mean-square speed of hydrogen molecules to that of helium atoms?"
+      }
     },
     {
       "kind": "tossups",

@@ -411,7 +411,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered source page 8 shows 9^(2x) = 27^(3x − 4); the source answer is 12/5, with its full verbal cue retained.",
+      "evidence": "Keep spaces inside source-reviewed superscript expressions nonbreaking so progressive reading reveals the complete exponent together. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
@@ -425,7 +425,7 @@
           "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9<sup>2x</sup> = 27<sup>3x − 4</sup> [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
         ],
         "parts_sanitized": [
-          "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9^(2x) = 27^(3x - 4) [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
+          "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9^(2x) = 27^(3x - 4) [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
         ],
         "answers": [
           "<span class=\"nsb-fraction\"><span>12</span><span>5</span></span>"
@@ -532,7 +532,7 @@
       "sourcePages": [
         14
       ],
-      "evidence": "Rendered source page 14 shows Kₐ = 2 × 10⁻⁵; the captured prompt separated the subscript and flattened the exponent.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s K a is 2 x 10-5."
@@ -543,7 +543,7 @@
           "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s K<sub>a</sub> is 2 × 10<sup>-5</sup>."
         ],
         "parts_sanitized": [
-          "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s Ka is 2 x 10^-5."
+          "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid's K_(a) is 2 × 10⁻⁵."
         ]
       }
     }

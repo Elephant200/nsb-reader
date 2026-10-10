@@ -18,7 +18,7 @@ function cleanSanitizedText (value, fallback) {
   const convertPower = (value, type) => {
     value = value.trim().replace(/−/g, '-').replace(/\((\d+)\)\/\((\d+)\)/g, '$1/$2');
     if (!value) return '';
-    if (!/^[\d+\-=()]+$/.test(value)) return `${type === 'sup' ? '^' : '_'}(${value})`;
+    if (!/^[\d+\-=()]+$/.test(value)) return `${type === 'sup' ? '^' : '_'}(${value.replace(/[ \t]+/g, '\u00a0')})`;
     return [...value].map(char => /\d/.test(char) ? powers[type][Number(char)] : symbols[type][char]).join('');
   };
   // Work from inner to outer powers; flattening nested or fractional exponents

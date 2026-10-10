@@ -417,11 +417,24 @@
       "kind": "bonuses",
       "itemIndex": 11,
       "number": 12,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared wording, embedded choices when present, and answer with source PDF page 6; matches source."
+      "evidence": "Compared the complete bonus prompt, answer, all choices, acceptance/rejection instructions, reading cues, and notes against the original PDF and extracted text on packet 73, page(s) 6. Visually checked notation against /tmp/audit-073-page6.png. The source has no space between PbCO₃ and the question mark; removed the stray space.",
+      "before": {
+        "parts": [
+          "What is the IUPAC name of the compound PbCO<sub>3</sub> ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the IUPAC name of the compound PbCO<sub>3</sub>?"
+        ],
+        "parts_sanitized": [
+          "What is the IUPAC name of the compound PbCO₃?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

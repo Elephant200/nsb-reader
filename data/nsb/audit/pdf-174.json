@@ -144,7 +144,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Rendered PDF page 7 shows x⁵y⁴ in the question and 4x⁵y³ in the printed answer.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "question": "What is the partial derivative with respect to y of the expression x 5 y 4 ?",
         "answer": "4x 5 y 3"
@@ -152,8 +152,8 @@
       "changes": {
         "question": "What is the partial derivative with respect to y of the expression x<sup>5</sup>y<sup>4</sup>?",
         "answer": "4x<sup>5</sup>y<sup>3</sup>",
-        "question_sanitized": "What is the partial derivative with respect to y of the expression x^5y^4?",
-        "answer_sanitized": "4x^5y^3"
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x⁵y⁴?",
+        "answer_sanitized": "4x⁵y³"
       }
     },
     {
@@ -490,7 +490,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 prints B₂, C₂, and N₂ and the answer “1 (ACCEPT: B₂)”; the subscript markup is retained without stray spaces.",
+      "evidence": "Replace legacy caret notation in reader fields with canonical notation derived from the source-reviewed rich expression. Derive the reader field from the existing rich source-reviewed expression; preserve all source reading cues and choices.",
       "before": {
         "parts": [
           "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B<sub>2</sub> ; 2) C<sub>2</sub> ; 3) N<sub>2</sub> ."
@@ -507,10 +507,10 @@
           "1 (ACCEPT: B<sub>2</sub>)"
         ],
         "parts_sanitized": [
-          "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B_2; 2) C_2; 3) N_2."
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B₂; 2) C₂; 3) N₂."
         ],
         "answers_sanitized": [
-          "1 (ACCEPT: B_2)"
+          "1 (ACCEPT: B₂)"
         ]
       }
     },

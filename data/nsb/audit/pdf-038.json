@@ -90,7 +90,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 shows ns²np⁵ in choice Y and the answer; stray “2 6” digits in choice X came from the lost superscripts.",
+      "evidence": "Compared the full tossup prompt, answer, choices, all source acceptance/rejection instructions, reading cues, and notes with the original PDF text on packet 38, page(s) 5. Visually checked notation against rendered PDF page image /tmp/chem-038p5-05.png. Source pixels show ns²np⁶ in the stem and keyed answer; current payload used np⁵.",
       "before": {
         "question": "Which of the following is NOT true of halogens:<br>W) iodine is the least reactive of the stable halogens<br>X) elemental halogens exist as diatomic molecules containing single covalent bonds 2 6<br>Y) their outermost electron configuration is represented by ns np<br>Z) halides of typical metals are ionic",
         "answer": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY 2 6 NS NP",
@@ -102,15 +102,16 @@
         ]
       },
       "changes": {
-        "question": "Which of the following is NOT true of halogens:<br>W) iodine is the least reactive of the stable halogens<br>X) elemental halogens exist as diatomic molecules containing single covalent bonds<br>Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>5</sup><br>Z) halides of typical metals are ionic",
-        "answer": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS<sup>2</sup>NP<sup>5</sup>",
-        "answer_sanitized": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS^2NP^5",
+        "question": "Which of the following is NOT true of halogens:<br>W) iodine is the least reactive of the stable halogens<br>X) elemental halogens exist as diatomic molecules containing single covalent bonds<br>Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>6</sup><br>Z) halides of typical metals are ionic",
+        "answer": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS<sup>2</sup>NP<sup>6</sup>",
+        "answer_sanitized": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS²NP⁶",
         "options": [
           "W) iodine is the least reactive of the stable halogens",
           "X) elemental halogens exist as diatomic molecules containing single covalent bonds",
-          "Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>5</sup>",
+          "Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>6</sup>",
           "Z) halides of typical metals are ionic"
-        ]
+        ],
+        "question_sanitized": "Which of the following is NOT true of halogens:\nW) iodine is the least reactive of the stable halogens\nX) elemental halogens exist as diatomic molecules containing single covalent bonds\nY) their outermost electron configuration is represented by ns²np⁶\nZ) halides of typical metals are ionic"
       }
     },
     {

@@ -1,0 +1,635 @@
+{
+  "reviewedCount": 45,
+  "sampleCount": 45,
+  "counts": {
+    "reviewed": {
+      "2012/Chemistry/tossups": 4,
+      "2012/Energy/bonuses": 1,
+      "2012/Physics/bonuses": 1,
+      "2007/General Science/tossups": 1,
+      "2007/Chemistry/tossups": 1,
+      "2007/Chemistry/bonuses": 1,
+      "2011/Chemistry/bonuses": 7,
+      "2012/Chemistry/bonuses": 3,
+      "2013/Chemistry/tossups": 3,
+      "2013/Physics/tossups": 6,
+      "2013/Physics/bonuses": 5,
+      "2013/Energy/bonuses": 2,
+      "2014/Chemistry/tossups": 2,
+      "2014/Chemistry/bonuses": 2,
+      "2014/Physics/bonuses": 1,
+      "2021/Biology/bonuses": 1,
+      "2021/Energy/tossups": 1,
+      "2022/Chemistry/tossups": 2,
+      "2022/Chemistry/bonuses": 1
+    },
+    "sample": {
+      "2012/Chemistry/tossups": 4,
+      "2012/Energy/bonuses": 1,
+      "2012/Physics/bonuses": 1,
+      "2007/General Science/tossups": 1,
+      "2007/Chemistry/tossups": 1,
+      "2007/Chemistry/bonuses": 1,
+      "2011/Chemistry/bonuses": 7,
+      "2012/Chemistry/bonuses": 3,
+      "2013/Chemistry/tossups": 3,
+      "2013/Physics/tossups": 6,
+      "2013/Physics/bonuses": 5,
+      "2013/Energy/bonuses": 2,
+      "2014/Chemistry/tossups": 2,
+      "2014/Chemistry/bonuses": 2,
+      "2014/Physics/bonuses": 1,
+      "2021/Biology/bonuses": 1,
+      "2021/Energy/tossups": 1,
+      "2022/Chemistry/tossups": 2,
+      "2022/Chemistry/bonuses": 1
+    }
+  },
+  "entries": [
+    {
+      "p": 24,
+      "k": "tossups",
+      "i": 24,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2012,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 matches the redox equation, Cu/Zn charge placement, equilibrium exponent, E⁰/∆G⁰ signs, all choices, and key. “E naught” and “delta G zero” retain the spoken labels.",
+      "changes": {}
+    },
+    {
+      "p": 28,
+      "k": "bonuses",
+      "i": 13,
+      "status": "verified",
+      "category": "Energy",
+      "year": 2012,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 prints the coal-gasification equation with the same O₂/H₂O/H₂ subscripts and arrow; the current reading spells the formula with plain digits but preserves every species and coefficient.",
+      "changes": {}
+    },
+    {
+      "p": 29,
+      "k": "tossups",
+      "i": 24,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2012,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 confirms NH₄HS decomposition into NH₃ and H₂S, quantities, temperature, gas constant, choices, and key. Plain digit rendering preserves the subscripts and stoichiometry.",
+      "changes": {}
+    },
+    {
+      "p": 31,
+      "k": "bonuses",
+      "i": 9,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2012,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 confirms the wire geometry, ε₀ value 9 × 10⁻¹², every choice exponent, and the key. The reading form preserves the negative signs and powers.",
+      "changes": {}
+    },
+    {
+      "p": 37,
+      "k": "tossups",
+      "i": 19,
+      "status": "verified",
+      "category": "General Science",
+      "year": 2007,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 says “20th century”; the stored superscripted “th” and sanitized “20th” are equivalent ordinal formatting.",
+      "changes": {}
+    },
+    {
+      "p": 39,
+      "k": "tossups",
+      "i": 7,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2007,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4 confirms the Ca(OH)₂ reaction, coefficients, all four choices, and key; formula subscripts match.",
+      "changes": {}
+    },
+    {
+      "p": 46,
+      "k": "bonuses",
+      "i": 1,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2007,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 prints Ba²⁺ + SO₄²⁻ → BaSO₄. The charge and formula subscripts in the current answer match; the reader notation retains the same signs and values.",
+      "changes": {}
+    },
+    {
+      "p": 54,
+      "k": "bonuses",
+      "i": 1,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2011,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 prints the balanced octane equation 2C₈H₁₈ + 25O₂ → 18H₂O + 16CO₂; the answer contains the same coefficients and formulas.",
+      "changes": {}
+    },
+    {
+      "p": 76,
+      "k": "bonuses",
+      "i": 6,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2011,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4 confirms the saturated calcium hydroxide titration, states of matter, balanced equation, answer, and note; formula subscripts and states match.",
+      "changes": {}
+    },
+    {
+      "p": 76,
+      "k": "bonuses",
+      "i": 10,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2011,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 prints 4PH₃ → P₄ + 6H₂, the yield cue, rate prompt, and answer 0.0012. The reading preserves all coefficients and subscripts.",
+      "changes": {}
+    },
+    {
+      "p": 79,
+      "k": "bonuses",
+      "i": 14,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2011,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 confirms the NO/O₂/NO₂ reaction and k(NO)² rate law; the spoken “O two” and exponent phrasing preserve the displayed notation.",
+      "changes": {}
+    },
+    {
+      "p": 81,
+      "k": "bonuses",
+      "i": 11,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2011,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 confirms the ethane combustion equation, all coefficients, quantities, and prompt; formula subscripts match.",
+      "changes": {}
+    },
+    {
+      "p": 81,
+      "k": "bonuses",
+      "i": 13,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2011,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 confirms the sulfuric-acid/sodium-hydroxide equation, coefficients, states, titration quantities, and answer; subscripted formulas match.",
+      "changes": {}
+    },
+    {
+      "p": 81,
+      "k": "bonuses",
+      "i": 15,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2011,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 confirms the butane combustion equation, all coefficients, prompt, and answer; formula subscripts match.",
+      "changes": {}
+    },
+    {
+      "p": 86,
+      "k": "tossups",
+      "i": 23,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2012,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 prints Ag⁺ + Cu → Ag + Cu²⁺ and identifies copper as the reducing agent; charge signs and stoichiometry match.",
+      "changes": {}
+    },
+    {
+      "p": 91,
+      "k": "bonuses",
+      "i": 24,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2012,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 confirms the calcium-carbonate decomposition equation, states, enthalpy values, all choices, and key; formula subscripts match.",
+      "changes": {}
+    },
+    {
+      "p": 95,
+      "k": "bonuses",
+      "i": 20,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2012,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 confirms the isotopes question and keyed answer. The isotope answer is unrelated to the listed notation differences; the full payload matches.",
+      "changes": {}
+    },
+    {
+      "p": 96,
+      "k": "tossups",
+      "i": 24,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2012,
+      "sourcePages": [
+        14
+      ],
+      "evidence": "PDF p. 14 shows H₂ molecular-orbital choices σ1s and σ*1s; the current prompt and key preserve the molecule and orbital labels.",
+      "changes": {}
+    },
+    {
+      "p": 96,
+      "k": "bonuses",
+      "i": 24,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2012,
+      "sourcePages": [
+        14
+      ],
+      "evidence": "PDF p. 14 confirms the same H₂ orbital notation and answer; no charge, index, or orbital label is lost.",
+      "changes": {}
+    },
+    {
+      "p": 102,
+      "k": "tossups",
+      "i": 22,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2013,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 confirms the Clausius–Clapeyron vapor-pressure slope choices, ∆Hᵥₐₚ/R, signs, and keyed W option; “vap” is a subscript label, not changed content.",
+      "changes": {}
+    },
+    {
+      "p": 104,
+      "k": "tossups",
+      "i": 20,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 prints 1.35 × 10ⁿ joules, answer choices 9/12/15/18, and key Y) 15; the exponent variable and options match.",
+      "changes": {}
+    },
+    {
+      "p": 104,
+      "k": "bonuses",
+      "i": 14,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 confirms the three force magnitudes, minimum-net-force choices, and key W) 0; no formula is altered.",
+      "changes": {}
+    },
+    {
+      "p": 105,
+      "k": "bonuses",
+      "i": 11,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 gives ε₀, μ₀ and four equivalent-formula choices with verbal reading cues; the stored options and key preserve the subscripts, radical grouping, and fractions.",
+      "changes": {}
+    },
+    {
+      "p": 105,
+      "k": "bonuses",
+      "i": 24,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 confirms the denser-medium refraction choices and unchanged-frequency answer; no omitted exponent or quantity is involved.",
+      "changes": {}
+    },
+    {
+      "p": 106,
+      "k": "tossups",
+      "i": 0,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2013,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 prints C₃² as the most reduced symmetry symbol and translational/rotational/vibrational counts; the current C₃² answer matches.",
+      "changes": {}
+    },
+    {
+      "p": 106,
+      "k": "tossups",
+      "i": 11,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2013,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 gives R = k[NO₂]²[Br₂] and the spoken concentration cue; the overall-order answer and reaction exponents match.",
+      "changes": {}
+    },
+    {
+      "p": 106,
+      "k": "tossups",
+      "i": 22,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 confirms the proton’s 1-megavolt acceleration, electronvolt units, all powers and choices, and key Y) 10⁶.",
+      "changes": {}
+    },
+    {
+      "p": 106,
+      "k": "bonuses",
+      "i": 22,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 confirms the same kinetic-energy choices and key; superscript 6 is attached to both powers of ten.",
+      "changes": {}
+    },
+    {
+      "p": 112,
+      "k": "tossups",
+      "i": 19,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 prints T₁/₂ = τ ln(2) as the keyed half-life relation; the current spoken “T one half” and “tau” preserve the notation.",
+      "changes": {}
+    },
+    {
+      "p": 113,
+      "k": "tossups",
+      "i": 0,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 confirms viscosity 1.0 × 10⁻³, density 1.0 × 10³, all Reynolds-number choices, and key; signed powers match.",
+      "changes": {}
+    },
+    {
+      "p": 113,
+      "k": "tossups",
+      "i": 18,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 confirms v ≈ 2.18 × 10⁸, Hubble constant, choices 10⁸ through 10¹¹, and key 10¹⁰; read-aloud powers preserve the source values.",
+      "changes": {}
+    },
+    {
+      "p": 113,
+      "k": "tossups",
+      "i": 24,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 shows mₛ = ±1/2 and the four factor choices; “m sub s” and “plus or minus one half” retain the subscript and signs.",
+      "changes": {}
+    },
+    {
+      "p": 113,
+      "k": "bonuses",
+      "i": 12,
+      "status": "verified",
+      "category": "Energy",
+      "year": 2013,
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 confirms the microwave frequency prompt and 3 × 10⁹ answer; scientific-notation exponent and units match.",
+      "changes": {}
+    },
+    {
+      "p": 113,
+      "k": "bonuses",
+      "i": 19,
+      "status": "verified",
+      "category": "Energy",
+      "year": 2013,
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 identifies hydrogen peroxide and accepts H₂O₂; the answer’s spelled-out “H two O two” is equivalent.",
+      "changes": {}
+    },
+    {
+      "p": 113,
+      "k": "bonuses",
+      "i": 24,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2013,
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 prints 2 × 10⁻⁹ as the Bragg-diffraction answer; the negative exponent and significant-notation cue are preserved.",
+      "changes": {}
+    },
+    {
+      "p": 114,
+      "k": "tossups",
+      "i": 22,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2014,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 shows CₙH₂ₙ₋₂ and the bracketed pronunciation; the read-aloud form explicitly says “C sub n H sub two n minus two,” preserving the formula.",
+      "changes": {}
+    },
+    {
+      "p": 114,
+      "k": "bonuses",
+      "i": 11,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2014,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 confirms the acid choices and answer; the separate 10⁻¹⁰ bonus answer matches the printed exponent.",
+      "changes": {}
+    },
+    {
+      "p": 114,
+      "k": "bonuses",
+      "i": 17,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2014,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 confirms C₅H₁₂/C₅H₁₀/C₅H₈/C₅H₅ and answer X) C₅H₁₀; the bracketed verbal formula labels preserve the subscripts.",
+      "changes": {}
+    },
+    {
+      "p": 117,
+      "k": "tossups",
+      "i": 21,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2014,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 itself prints “Lineweaver - plot” and the same Km/Vmax choices and key. The hyphenated wording is present in the source PDF, so it is not a transcription or reading-format defect.",
+      "changes": {}
+    },
+    {
+      "p": 126,
+      "k": "bonuses",
+      "i": 17,
+      "status": "verified",
+      "category": "Physics",
+      "year": 2014,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 confirms the α-particle, 10⁵-kilovolt value, Kα/Kp ratio, choices, and answer; alpha/proton subscripts and exponent match.",
+      "changes": {}
+    },
+    {
+      "p": 239,
+      "k": "bonuses",
+      "i": 10,
+      "status": "verified",
+      "category": "Biology",
+      "year": 2021,
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 prints nitrate with accepted NO₃⁻; the answer’s “NO3 minus” preserves the subscript and charge.",
+      "changes": {}
+    },
+    {
+      "p": 241,
+      "k": "tossups",
+      "i": 17,
+      "status": "verified",
+      "category": "Energy",
+      "year": 2021,
+      "sourcePages": [
+        18
+      ],
+      "evidence": "PDF p. 18 confirms sp³, all three graphene statements, and answer 1, 3; “sp three” is a faithful spoken rendering.",
+      "changes": {}
+    },
+    {
+      "p": 243,
+      "k": "tossups",
+      "i": 1,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2022,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2 prints nitrate with accepted NO₃⁻; the conjugate-base answer and charge notation match.",
+      "changes": {}
+    },
+    {
+      "p": 243,
+      "k": "tossups",
+      "i": 7,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2022,
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 prints Cl⁻, CN⁻, CO₃²⁻, OH⁻, and answer Y) CO₃²⁻; verbalized charges and subscript preserve the source species.",
+      "changes": {}
+    },
+    {
+      "p": 248,
+      "k": "bonuses",
+      "i": 8,
+      "status": "verified",
+      "category": "Chemistry",
+      "year": 2022,
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 prints the Sₙ2 leaving-group choices; the current “SN2” reading is the same chemical notation without typographic subscript styling.",
+      "changes": {}
+    }
+  ]
+}
