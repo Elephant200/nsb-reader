@@ -1,72 +1,16 @@
 const CATEGORY_BUTTONS = [
-  ['Literature', 'primary'],
-  ['History', 'success'],
-  ['Science', 'danger'],
-  ['Fine Arts', 'warning'],
-  ['Religion', 'secondary'],
-  ['Mythology', 'secondary'],
-  ['Philosophy', 'secondary'],
-  ['Social Science', 'secondary'],
-  ['Current Events', 'secondary'],
-  ['Geography', 'secondary'],
-  ['Other Academic', 'secondary'],
-  ['Pop Culture', 'secondary']
-];
-
-const SUBCATEGORY_BUTTONS = [
-  ['American Literature', 'primary'],
-  ['British Literature', 'primary'],
-  ['Classical Literature', 'primary'],
-  ['European Literature', 'primary'],
-  ['World Literature', 'primary'],
-  ['Other Literature', 'primary'],
-  ['American History', 'success'],
-  ['Ancient History', 'success'],
-  ['European History', 'success'],
-  ['World History', 'success'],
-  ['Other History', 'success'],
-  ['Biology', 'danger'],
-  ['Chemistry', 'danger'],
   ['Physics', 'danger'],
-  ['Other Science', 'danger'],
-  ['Visual Fine Arts', 'warning'],
-  ['Auditory Fine Arts', 'warning'],
-  ['Other Fine Arts', 'warning'],
-  ['Movies', 'secondary'],
-  ['Music', 'secondary'],
-  ['Sports', 'secondary'],
-  ['Television', 'secondary'],
-  ['Video Games', 'secondary'],
-  ['Other Pop Culture', 'secondary']
+  ['Chemistry', 'success'],
+  ['Biology', 'primary'],
+  ['Earth and Space', 'info'],
+  ['Math', 'warning'],
+  ['Energy', 'success'],
+  ['General Science', 'secondary']
 ];
 
-const ALTERNATE_SUBCATEGORY_BUTTONS = [
-  ['Drama', 'primary'],
-  ['Long Fiction', 'primary'],
-  ['Poetry', 'primary'],
-  ['Short Fiction', 'primary'],
-  ['Misc Literature', 'primary'],
-  ['Math', 'danger'],
-  ['Astronomy', 'danger'],
-  ['Computer Science', 'danger'],
-  ['Earth Science', 'danger'],
-  ['Engineering', 'danger'],
-  ['Misc Science', 'danger'],
-  ['Architecture', 'warning'],
-  ['Dance', 'warning'],
-  ['Film', 'warning'],
-  ['Jazz', 'warning'],
-  ['Musicals', 'warning'],
-  ['Opera', 'warning'],
-  ['Photography', 'warning'],
-  ['Misc Arts', 'warning'],
-  ['Anthropology', 'secondary'],
-  ['Economics', 'secondary'],
-  ['Linguistics', 'secondary'],
-  ['Psychology', 'secondary'],
-  ['Sociology', 'secondary'],
-  ['Other Social Science', 'secondary']
-];
+const SUBCATEGORY_BUTTONS = [];
+
+const ALTERNATE_SUBCATEGORY_BUTTONS = [];
 
 function CategoryModal ({ categoryManager, disablePercentView = false, onClose = () => {} }) {
   React.useEffect(() => {

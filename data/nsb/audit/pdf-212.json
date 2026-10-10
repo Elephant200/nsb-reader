@@ -1,0 +1,487 @@
+{
+  "packetIndex": 212,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-11A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually compared the full TU1 prompt, all options where printed, and answer with the source; source begins “1) Physics – Short Answer For a closed curve on a pressure-volume diagram, what specific thermodynamic quantity is best represented by the enclosed area inside the curve?”; answer “ANSWER: WORK (DO NOT ACCEPT: HEAT OR ENERGY)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually compared the full TU2 prompt, all options where printed, and answer with the source; source begins “2) Energy – Short Answer Scientists at Oak Ridge National Lab have developed a method to use nanoscale spikes of carbon atoms to reduce gaseous nitrogen to ammonia. In nitrogen-fixing”; answer “ANSWER: NITROGENASE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared the full TU3 prompt, all options where printed, and answer with the source; source begins “3) Biology – Short Answer Two groups of the same species of monkey develop different mating rituals and eventually become reproductively incompatible. If this occurs while they”; answer “ANSWER: SYMPATRIC”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared the full TU4 prompt, all options where printed, and answer with the source; source begins “4) Chemistry – Multiple Choice Which of the following elements has the largest first ionization energy?”; answer “ANSWER: Y) ARGON”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually compared the full TU5 prompt, all options where printed, and answer with the source; source begins “5) Math – Short Answer What is the 5/3 power of –8? ANSWER: –32”; answer “ANSWER: –32”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually compared the full TU6 prompt, all options where printed, and answer with the source; source begins “6) Earth and Space – Multiple Choice      Where on the H-R diagram can one find red dwarf stars?”; answer “ANSWER: X) BOTTOM RIGHT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually compared the full TU7 prompt, all options where printed, and answer with the source; source begins “7) Physics – Multiple Choice Which of the following best describes the shape of the graph of potential energy as a function of position for a constant force?”; answer “ANSWER: W) LINEAR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source answer is C₆H₁₂ for the cyclohexene hydrogenation product; restored 6 and 12 as formula subscripts.",
+      "before": {
+        "answer": "C 6 H 12"
+      },
+      "changes": {
+        "answer": "C<sub>6</sub>H<sub>12</sub>",
+        "answer_sanitized": "C₆H₁₂"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually compared the full TU9 prompt, all options where printed, and answer with the source; source begins “9) Energy – Multiple Choice Oak Ridge National Lab scientists are studying bacteria that have penicillin resistance. Penicillin and similar drugs inhibit what process in the bacteria?”; answer “ANSWER: Y) CELL WALL BIOSYNTHESIS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually compared the full TU10 prompt, all options where printed, and answer with the source; source begins “10) Biology – Multiple Choice      What mammalian characteristic do Echidnas [eh-KID-nahs] lack?”; answer “ANSWER: Y) NIPPLES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared the full TU11 prompt, all options where printed, and answer with the source; source begins “11) Earth and Space – Multiple Choice Increasing the silica content in rock melts results in an increase in the melt viscosity. Which of the following SI derived units would be used to describe”; answer “ANSWER: X) PASCAL SECONDS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared the full TU12 prompt, all options where printed, and answer with the source; source begins “12) Math – Multiple Choice Which of the following types of figures must have line symmetry but not necessarily turn symmetry?”; answer “ANSWER: W) ISOSCELES TRIANGLE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared the full TU13 prompt, all options where printed, and answer with the source; source begins “13) Physics – Short Answer If a given artery requires a pressure P to sustain a flow rate, then, in terms of P, how much pressure is required to maintain the flow rate if the artery shrinks to half”; answer “ANSWER: 16P”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared the full TU14 prompt, all options where printed, and answer with the source; source begins “14) Math – Short Answer If f of x equals the fifth root of open parenthesis x + 10 close parenthesis, what is f inverse of 2?”; answer “ANSWER: 22”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually compared the full TU15 prompt, all options where printed, and answer with the source; source begins “15) Chemistry – Multiple Choice Which of the following best describes the ground state electron configuration of chromium?”; answer “ANSWER: Y) A HALF-FILLED 4S ORBITAL AND FIVE HALF-FILLED 3D ORBITALS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually compared the full TU16 prompt, all options where printed, and answer with the source; source begins “16) Earth and Space – Short Answer A large number of Kuiper [KYE-pur] Belt objects possess a 3-to-2 orbital resonance with what planet?”; answer “ANSWER: NEPTUNE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually compared the full TU17 prompt, all options where printed, and answer with the source; source begins “17) Biology – Multiple Choice A population of actively dividing cells contains, on average, 30 femtograms of DNA per cell. After some period of time, you make another measurement and”; answer “ANSWER: Y) S PHASE HAS OCCURRED”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually compared the full TU18 prompt, all options where printed, and answer with the source; source begins “18) Energy – Short Answer Scientists at Brookhaven National Lab are developing software to streamline data acquisition at the NSLS-II, which is a circular light source. The light is generated”; answer “ANSWER: ELECTRONS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually compared the full TU19 prompt, all options where printed, and answer with the source; source begins “19) Math – Short Answer What are the coordinates of the image of the point (2, 2√3) when it is rotated 60 degrees counter-clockwise about the origin?”; answer “ANSWER: (–2, 2√3) (ACCEPT: x = –2 AND y = 2√3)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually compared the full TU20 prompt, all options where printed, and answer with the source; source begins “20) Physics – Multiple Choice If one takes the line integral of an electric field over a particular path, the answer can be expressed in which of the following units?”; answer “ANSWER: X) VOLTS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually compared the full TU21 prompt, all options where printed, and answer with the source; source begins “21) Earth and Space – Short Answer       The Canary current flows primarily in which cardinal direction?”; answer “ANSWER: SOUTH”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually compared the full TU22 prompt, all options where printed, and answer with the source; source begins “22) Chemistry – Short Answer     Rank the following four single bonds in increasing order of polarity: 1) Carbon-carbon; 2) Carbon-hydrogen; 3) Nitrogen-hydrogen; 4) Fluorine-hydrogen.”; answer “ANSWER: 1, 2, 3, 4”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually compared the full TU23 prompt, all options where printed, and answer with the source; source begins “23) Biology – Short Answer The bacterial cell wall is primarily composed of what polymer that consists of sugars cross-linked by short amino acid chains?”; answer “ANSWER: PEPTIDOGLYCAN (ACCEPT: MUREIN)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually compared the full B1 prompt, all options where printed, and answer with the source; source begins “1) Physics – Short Answer Identify all of the following three changes that would increase the capacitance of a parallel plate capacitor in a circuit: 1) Increasing the potential difference in the”; answer “ANSWER: 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually compared the full B2 prompt, all options where printed, and answer with the source; source begins “2) Energy – Short Answer Researchers at Fermi National Accelerator Lab were the first to observe the production of the top quark. In the decay pathway that produced the first-observed”; answer “ANSWER: STRONG (ACCEPT: STRONG NUCLEAR FORCE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared the full B3 prompt, all options where printed, and answer with the source; source begins “3) Biology – Short Answer     What zipper-like protein structure holds homologs together during synapsis?”; answer “ANSWER: SYNAPTONEMAL COMPLEX”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared the full B4 prompt, all options where printed, and answer with the source; source begins “4) Chemistry – Short Answer Identify all of the following three numbers of pi [pie] electrons that, according to Huckel's [HAH-kulz] rule, can occupy an aromatic system: 1) 4; 2) 8; 3) 10.”; answer “ANSWER: 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually compared the full B5 prompt, all options where printed, and answer with the source; source begins “5) Math – Short Answer A jar contains 9 coins: 8 fair coins and 1 double-headed coin. If a random coin is selected from the jar, is flipped, and comes up heads, what is the probability that”; answer “ANSWER: 1/5 (ACCEPT: 0.20, 20%)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually compared the full B6 prompt, all options where printed, and answer with the source; source begins “6) Earth and Space – Short Answer Identify all of the following three positions on the celestial sphere that have a declination of zero: 1) Summer solstice; 2) Autumnal equinox;”; answer “ANSWER: 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually compared the full B7 prompt, all options where printed, and answer with the source; source begins “7) Physics – Short Answer Identify all of the following three statements that are always true regarding motion in a closed path: 1) If no displacement occurs, zero work was done; 2) Going”; answer “ANSWER: NONE OF THEM”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually compared the full B8 prompt, all options where printed, and answer with the source; source begins “8) Chemistry – Short Answer Rank the following three electronic transitions in monatomic hydrogen in terms of increasing change in energy: 1) Electron jumps from 1s to 2p; 2) Electron”; answer “ANSWER: 2, 3, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually compared the full B9 prompt, all options where printed, and answer with the source; source begins “9) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying the production of lipid metabolites by fungi. These metabolites are produced by the oxidation of”; answer “ANSWER: SMOOTH ENDOPLASMIC RETICULUM (ACCEPT: ENDOPLASMIC”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually compared the full B10 prompt, all options where printed, and answer with the source; source begins “10) Biology – Multiple Choice      Spiracles on the surface of insects function as part of which of the following organ systems?”; answer “ANSWER: Z) RESPIRATORY”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared the full B11 prompt, all options where printed, and answer with the source; source begins “11) Earth and Space – Short Answer Identify all of the following three metamorphic rocks that are considered foliated: 1) Phyllite [FILL-lite]; 2) Quartzite; 3) Schist.”; answer “ANSWER: 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared the full B12 prompt, all options where printed, and answer with the source; source begins “12) Math – Short Answer Jack is asked by his teacher to subtract 4 from a number and multiply the result by 3. Instead, he subtracts 3 and then multiplies the result by 4, giving him”; answer “ANSWER: 129”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared the full B13 prompt, all options where printed, and answer with the source; source begins “13) Physics – Short Answer Identify all of the following three changes that would increase the distance between intensity maxima in a single-slit diffraction setup: 1) Increasing the wavelength”; answer “ANSWER: 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared the full B14 prompt, all options where printed, and answer with the source; source begins “14) Math – Short Answer For integers a and b, define the binary operation “star” by a “star” b is equal to 2 less than the product of a and b. What is”; answer “ANSWER: 52”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually compared the full B15 prompt, all options where printed, and answer with the source; source begins “15) Chemistry – Short Answer        To the nearest gram per mole, what is the molar mass of bauxite?”; answer “ANSWER: 138”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually compared the full B16 prompt, all options where printed, and answer with the source; source begins “16) Earth and Space – Short Answer Rank the following three planets in order of increasing length of day: 1) Jupiter; 2) Saturn; 3) Uranus.”; answer “ANSWER: 1, 2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually compared the full B17 prompt, all options where printed, and answer with the source; source begins “17) Biology – Multiple Choice You cross a female, red-eyed, short-winged fly with a male, white-eyed, long-winged fly. Out of 100 offspring, 45 have red eyes and short wings, 45 have”; answer “ANSWER: Z) BOTH LOCI ARE AUTOSOMAL AND ARE LOCATED ON THE SAME”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually compared the full B18 prompt, all options where printed, and answer with the source; source begins “18) Energy – Multiple Choice Pacific Northwest National Lab scientists are studying the virus that causes Middle East respiratory syndrome. This virus is most closely related to the virus that”; answer “ANSWER: Z) SARS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source position formula is x(t) = 2t³ − 33t² + 144t − 48; restored both superscript powers and kept the exact surrounding wording.",
+      "before": {
+        "parts": [
+          "A particle’s position x at time t is defined by the equation x of t = 2t 3 – 33t 2 + 144t – 48. At what time or times t is the particle at rest?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A particle’s position x at time t is defined by the equation x of t = 2t<sup>3</sup> − 33t<sup>2</sup> + 144t − 48. At what time or times t is the particle at rest?"
+        ],
+        "parts_sanitized": [
+          "A particle’s position x at time t is defined by the equation x of t = 2t³ − 33t² + 144t − 48. At what time or times t is the particle at rest?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually compared the full B20 prompt, all options where printed, and answer with the source; source begins “20) Physics – Short Answer A damped harmonic oscillator’s position function is x of t equals A times e to the minus t. At what time t does the oscillator reach one-half of its original”; answer “ANSWER: NATURAL LOG OF 2 (ACCEPT: LN2, LOG BASE e OF 2; DO NOT ACCEPT:”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually compared the full B21 prompt, all options where printed, and answer with the source; source begins “21) Earth and Space – Short Answer Acid rain can result from gases released to the atmosphere by natural or anthropogenic[an-throw-poh-JEN-ic] activity. Identify all of the”; answer “ANSWER: 2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually compared the full B22 prompt, all options where printed, and answer with the source; source begins “22) Chemistry – Short Answer Identify all of the following three molecules that would be expected to have a delocalized pi [pie] bond system: 1) Benzene;”; answer “ANSWER: 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually compared the full B23 prompt, all options where printed, and answer with the source; source begins “23) Biology – Short Answer For a protein secreted by a eukaryotic cell, put the following three locations in chronological order from synthesis to secretion: 1) Rough ER; 2) Cytoplasm;”; answer “ANSWER: 2, 1, 3”."
+    }
+  ],
+  "packetIssues": []
+}

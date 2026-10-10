@@ -1,0 +1,608 @@
+{
+  "packetIndex": 22,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round6.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "answer": "WATER (ACCEPT: H 2 O)"
+      },
+      "changes": {
+        "answer": "WATER (ACCEPT: H<sub>2</sub>O)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "question": "If 𝑓𝑓(𝑥𝑥) = [f of x equals the fraction with numerator x squared 𝑥𝑥−3 minus 9 and denominator x minus 3], what is the limit of f(x) as x approaches 3?"
+      },
+      "changes": {
+        "question": "If f(x) = <span class=\"nsb-fraction\"><span>x<sup>2</sup> − 9</span><span>x − 3</span></span> [f of x equals the fraction with numerator x squared minus 9 and denominator x minus 3], what is the limit of f(x) as x approaches 3?",
+        "question_sanitized": "If f(x) = (x^2 - 9)/(x - 3) [f of x equals the fraction with numerator x squared minus 9 and denominator x minus 3], what is the limit of f(x) as x approaches 3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "question": "Evaluate cos (− ). 3 1<br>W) − 2 1<br>X) 2 √3<br>Y) 2 √3<br>Z) − 2 1",
+        "answer": "W) − 2",
+        "options": [
+          "W) − 2 1",
+          "X) 2 √3",
+          "Y) 2 √3",
+          "Z) − 2 1"
+        ]
+      },
+      "changes": {
+        "question": "Evaluate cos(−<span class=\"nsb-fraction\"><span>14π</span><span>3</span></span>).<br>W) −<span class=\"nsb-fraction\"><span>1</span><span>2</span></span><br>X) <span class=\"nsb-fraction\"><span>1</span><span>2</span></span><br>Y) <span class=\"nsb-fraction\"><span>√3</span><span>2</span></span><br>Z) −<span class=\"nsb-fraction\"><span>√3</span><span>2</span></span>",
+        "question_sanitized": "Evaluate cos(-14π/3). W) -1/2; X) 1/2; Y) √3/2; Z) -√3/2",
+        "answer": "W) −<span class=\"nsb-fraction\"><span>1</span><span>2</span></span>",
+        "answer_sanitized": "W) -1/2",
+        "options": [
+          "W) −<span class=\"nsb-fraction\"><span>1</span><span>2</span></span>",
+          "X) <span class=\"nsb-fraction\"><span>1</span><span>2</span></span>",
+          "Y) <span class=\"nsb-fraction\"><span>√3</span><span>2</span></span>",
+          "Z) −<span class=\"nsb-fraction\"><span>√3</span><span>2</span></span>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "question": "If ∫0 𝑓𝑓(𝑥𝑥)𝑑𝑑𝑑𝑑 = 10 [the integral from 0 to 5 of f of x dx equals 10] 2 and ∫0 𝑓𝑓(𝑥𝑥)𝑑𝑑𝑑𝑑 = 12 [the integral from 0 to 2 of f of x dx equals 12], then what is the value of 5 ∫2 𝑓𝑓(𝑥𝑥)𝑑𝑑𝑑𝑑 [the integral from 2 to 5 of f of x dx]?"
+      },
+      "changes": {
+        "question": "If ∫<sub>0</sub><sup>5</sup> f(x) dx = 10 [the integral from 0 to 5 of f of x dx equals 10] and ∫<sub>0</sub><sup>2</sup> f(x) dx = 12 [the integral from 0 to 2 of f of x dx equals 12], then what is the value of ∫<sub>2</sub><sup>5</sup> f(x) dx [the integral from 2 to 5 of f of x dx]?",
+        "question_sanitized": "If the integral of f(x) from 0 to 5 is 10 [the integral from 0 to 5 of f of x dx equals 10] and the integral from 0 to 2 is 12 [the integral from 0 to 2 of f of x dx equals 12], then what is the value of the integral from 2 to 5 [the integral from 2 to 5 of f of x dx]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "question": "Evaluate ∫ tan 𝑥𝑥 𝑑𝑑𝑑𝑑 [the integral from negative pi over 4 to pi 4 𝜋𝜋 − 4 over 4 of tangent of x dx]."
+      },
+      "changes": {
+        "question": "Evaluate ∫<sub>−π/4</sub><sup>π/4</sup> tan x dx [the integral from negative pi over 4 to pi over 4 of tangent of x dx].",
+        "question_sanitized": "Evaluate the integral of tan(x) from -π/4 to π/4 [the integral from negative pi over 4 to pi over 4 of tangent of x dx]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 13."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "answers": [
+          "N 2 = 150; H 2 = 50; O 2 = 100"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "N<sub>2</sub> = 150; H<sub>2</sub> = 50; O<sub>2</sub> = 100"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "parts": [
+          "Vectors F and R are given by, respectively, 2 i minus 3 j and i plus 4 j. What is the cross product R X F [R cross F]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Vectors F⃗ and R⃗ are given by, respectively, 2i − 3j and i + 4j. What is the cross product R⃗ × F⃗ [R cross F]?"
+        ],
+        "parts_sanitized": [
+          "Vectors F⃗ and R⃗ are given by, respectively, 2i minus 3j and i plus 4j. What is the cross product R⃗ × F⃗ [R cross F]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "parts": [
+          "Providing an exact answer, solve the following equation for x: ex(8 – ex) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing an exact answer, solve the following equation for x: e<sup>x</sup>(8 − e<sup>x</sup>) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
+        ],
+        "parts_sanitized": [
+          "Providing an exact answer, solve the following equation for x: e^x(8 - e^x) = 16 [e to the x times the quantity 8 minus e to the x equals 16]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "parts": [
+          "A 5 kilogram object moves with a velocity v = 2t 2 + 2 meters per second where t is in seconds. What is the net force on the object in newtons after 2 seconds?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A 5 kilogram object moves with a velocity v = 2t<sup>2</sup> + 2 meters per second where t is in seconds. What is the net force on the object in newtons after 2 seconds?"
+        ],
+        "parts_sanitized": [
+          "A 5 kilogram object moves with a velocity v = 2t^2 + 2 meters per second where t is in seconds. What is the net force on the object in newtons after 2 seconds?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the equation/formula notation restored in this entry.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x over the real numbers: log 2 (x + 5) – log 2 (x – 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x over the real numbers: log<sub>2</sub>(x + 5) − log<sub>2</sub>(x − 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x over the real numbers: log_2(x + 5) - log_2(x - 1) = 2 [log base 2 of open parenthesis x plus 5 close parenthesis minus log base 2 of the quantity x minus 1 equals 2]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared wording, answer/options, and notation with Round Robin Round 6, page 13."
+    }
+  ],
+  "packetIssues": []
+}

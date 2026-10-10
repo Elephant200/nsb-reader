@@ -13,7 +13,7 @@ export default function tossupToHTML (tossup, tagPronunciationGuides = false) {
   span2.innerHTML = `ANSWER: ${tossup.answer}`;
   div.appendChild(span2);
   div.appendChild(document.createElement('br'));
-  const tag = tossup.metadata ?? `${tossup.category} / ${tossup.subcategory}${tossup.alternate_subcategory ? ' / ' + tossup.alternate_subcategory : ''}`;
+  const tag = tossup.metadata ?? `${tossup.category}`;
   div.appendChild(document.createTextNode(`<${tag}>`));
   return div;
 }

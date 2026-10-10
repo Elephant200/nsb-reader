@@ -1,0 +1,715 @@
+{
+  "packetIndex": 112,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-16.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 confirms question 1 beginning “Name the taxonomic order in which the gharial [GUHR-ee-uhl] or gavial [GAY-vee-uhl], Gavialis ganget” and keyed answer “CROCODILIA”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 confirms question 2 beginning “Assuming g = 10 meters per second squared and the density of freshwater is 1000 kilograms per cubic ” and keyed answer “X) 100”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2 prints regression equation y = -2x + 3 before the following correlation question; answer X) -1. Restored equation position.",
+      "before": {
+        "question": "The points on a scatter plot are extremely close to their least-squares = -2x + 3. regression line, which is expressed by the equation y The correlation coefficient r between x and y is closest to which of the following?<br>W) -2<br>X) -1<br>Y) 1/2<br>Z) 1"
+      },
+      "changes": {
+        "question": "The points on a scatter plot are extremely close to their least-squares regression line, which is expressed by the equation y = -2x + 3. The correlation coefficient r between x and y is closest to which of the following?<br>W) -2<br>X) -1<br>Y) 1/2<br>Z) 1"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2 confirms question 4 beginning “Why do solid oxide fuel cells not require a precious metal catalyst or fuel reformer?” and keyed answer “X) THEY HAVE A HIGH OPERATING TEMPERATURE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3 confirms question 5 beginning “The Burgess Shale, in the Canadian Rockies, is best known for which of the following fossils?” and keyed answer “X) CAMBRIAN MARINE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3 confirms question 6 beginning “Organolithium [ohr-guh-noh-LITH-ee-uhm] reagents can be reacted with salts made from which element t” and keyed answer “COPPER 1+ (ACCEPT: COPPER, 1)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4 confirms question 7 beginning “Of the 20 amino acids encoded by the universal genetic code, only one is technically an imino acid, ” and keyed answer “PROLINE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4 shows R = 1.097 × 10^7 m^-1 and answer options 1.22 × 10^-7 and 1.22 × 10^-6 with their region labels; key W.",
+      "before": {
+        "question": "Given R = 1.097 × 10<sup>7</sup> inverse meters, which of the following represents the wavelength of the longest wavelength Lyman line of the hydrogen spectrum in meters and the region of the electromagnetic spectrum in which it lies? -7<br>W) 1.22 × 10 ; ultraviolet -7<br>X) 1.22 × 10 ; visible -6<br>Y) 1.22 × 10 ; infrared -6<br>Z) 1.22 × 10 ; visible -7",
+        "options": [
+          "W) 1.22 × 10 ; ultraviolet -7",
+          "X) 1.22 × 10 ; visible -6",
+          "Y) 1.22 × 10 ; infrared -6",
+          "Z) 1.22 × 10 ; visible -7"
+        ],
+        "answer": "W) 1.22 × 10 ; ULTRAVIOLET"
+      },
+      "changes": {
+        "question": "Given R = 1.097 × 10<sup>7</sup> inverse meters, which of the following represents the wavelength of the longest wavelength Lyman line of the hydrogen spectrum in meters and the region of the electromagnetic spectrum in which it lies?<br>W) 1.22 × 10<sup>-7</sup>; ultraviolet<br>X) 1.22 × 10<sup>-7</sup>; visible<br>Y) 1.22 × 10<sup>-6</sup>; infrared<br>Z) 1.22 × 10<sup>-6</sup>; visible",
+        "question_sanitized": "Given R = 1.097 × 10⁷ inverse meters, which of the following represents the wavelength of the longest wavelength Lyman line of the hydrogen spectrum in meters and the region of the electromagnetic spectrum in which it lies? W) 1.22 × 10⁻⁷; ultraviolet X) 1.22 × 10⁻⁷; visible Y) 1.22 × 10⁻⁶; infrared Z) 1.22 × 10⁻⁶; visible",
+        "options": [
+          "W) 1.22 × 10<sup>-7</sup>; ultraviolet",
+          "X) 1.22 × 10<sup>-7</sup>; visible",
+          "Y) 1.22 × 10<sup>-6</sup>; infrared",
+          "Z) 1.22 × 10<sup>-6</sup>; visible"
+        ],
+        "answer": "W) 1.22 × 10<sup>-7</sup>; ULTRAVIOLET",
+        "answer_sanitized": "W) 1.22 × 10⁻⁷; ULTRAVIOLET"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 visually shows lim x→π of sin x over x−π, followed by options −1, 0, 1, Undefined and key W. Reading text preserves the complete formula and all original reading cues.",
+      "before": {
+        "question": "What is [the limit as x approaches pi of the fraction 𝑥→𝜋 𝑥− 𝜋 with numerator sine of x and denominator x minus pi]?<br>W) -1<br>X) 0<br>Y) 1<br>Z) Undefined"
+      },
+      "changes": {
+        "question": "What is lim<sub>x→π</sub> <span class=\"nsb-fraction\"><span>sin x</span><span>x − π</span></span> [the limit as x approaches pi of the fraction with numerator sine of x and denominator x minus pi]?<br>W) -1<br>X) 0<br>Y) 1<br>Z) Undefined",
+        "question_sanitized": "What is lim_(x→π) (sin x)/(x − π) [the limit as x approaches pi of the fraction with numerator sine of x and denominator x minus pi]?\nW) -1\nX) 0\nY) 1\nZ) Undefined"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 confirms question 10 beginning “What is the typical hub height in meters of a utility-scale wind turbine?” and keyed answer “W) 80”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 confirms question 11 beginning “Scientists currently believe that modern birds descended from what organisms?” and keyed answer “Y) THERAPODS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 confirms question 12 beginning “Which of the following spectral series has a final energy level of 4?” and keyed answer “X) BRACKETT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 confirms question 13 beginning “In segmented animals, a specific family of genes is particularly important for directing the orienta” and keyed answer “HOX”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 visually prints W) 2c√3, X) (3c√2)/2, Y) (2c√2)/3, Z) (c√2)/3; answer Y. Corpus had Y/Z reversed and incorrect W.",
+      "before": {
+        "question": "What is the speed of a particle that has a Lorentz factor of 3.0? 2𝑐√3<br>W) (3𝑐√2)/2<br>X) (2𝑐 √2)/3<br>Y) (𝑐√2 ) ⁄ 3<br>Z) (2𝑐√2)/3",
+        "options": [
+          "W) (3𝑐√2)/2",
+          "X) (2𝑐 √2)/3",
+          "Y) (𝑐√2 ) ⁄ 3",
+          "Z) (2𝑐√2)/3"
+        ],
+        "answer": "Y) (𝑐√2 ) ⁄ 3"
+      },
+      "changes": {
+        "question": "What is the speed of a particle that has a Lorentz factor of 3.0?<br>W) 2c√3<br>X) (3c√2)/2<br>Y) (2c√2)/3<br>Z) (c√2)/3",
+        "options": [
+          "W) 2c√3",
+          "X) (3c√2)/2",
+          "Y) (2c√2)/3",
+          "Z) (c√2)/3"
+        ],
+        "answer": "Y) (2c√2)/3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 visually prints ln(e^(−x²)) with the read-as cue, then answer −(1/3)x³ and the acceptance of any constant. Reading text preserves the complete formula and all original reading cues.",
+      "before": {
+        "question": "Find an antiderivative for [the natural log of the quantity e to the power of negative x squared]. -(1/3)x 3",
+        "answer": "(ACCEPT: GIVEN ANSWER PLUS ANY CONSTANT)"
+      },
+      "changes": {
+        "question": "Find an antiderivative for ln(e<sup>-x<sup>2</sup></sup>) [the natural log of the quantity e to the power of negative x squared].",
+        "question_sanitized": "Find an antiderivative for ln(e^(-x²)) [the natural log of the quantity e to the power of negative x squared].",
+        "answer": "-(1/3)x<sup>3</sup> (ACCEPT: GIVEN ANSWER PLUS ANY CONSTANT)",
+        "answer_sanitized": "-(1/3)x³ (ACCEPT: GIVEN ANSWER PLUS ANY CONSTANT)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 confirms question 16 beginning “As you turn on your flashlight, its lithium-ion battery begins to discharge. What happens to the ele” and keyed answer “W) BOTH THE ELECTRONS AND THE LITHIUM IONS MOVE TOWARDS THE CATHODE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 confirms question 17 beginning “In which of the following ways does the mineral biotite [BY-uh-tyt] differ from the mineral muscovit” and keyed answer “Y) WHILE BOTH CONTAIN ALUMINUM, ONLY BIOTITE CONTAINS MAGNESIUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 confirms question 18 beginning “Which of the following protein purification techniques coats proteins with a negative charge after t” and keyed answer “Y) SDS-PAGE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 confirms question 19 beginning “In which of the following cell processes would caspase activity most likely occur?” and keyed answer “X) APOPTOSIS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 visually shows all four half-life equations with T₁/₂ and tau/lambda positions and their read-as cues; key Z is tau ln(2). Reading text preserves the complete formula and all original reading cues.",
+      "before": {
+        "question": "Which of the following is the correct relationship of half-life T 1/2 𝜏 if λ and mean life [tau] of an unstable particle, [lambda] is the decay constant? = λ/𝜏<br>W) T [Half-life equals lambda over tau] 1/2 𝜏/λ<br>X) T = [Half-life equals tau over lambda] 1/2 𝜏<br>Y) T = log<sub>2</sub> e [Half-life equals tau log base 2 of e] 1/2 𝜏<br>Z) T = ln (2) [Half-life equals tau natural log of 2] 1/2 𝜏",
+        "options": [
+          "W) T [Half-life equals lambda over tau] 1/2 𝜏/λ",
+          "X) T = [Half-life equals tau over lambda] 1/2 𝜏",
+          "Y) T = log<sub>2</sub> e [Half-life equals tau log base 2 of e] 1/2 𝜏",
+          "Z) T = ln (2) [Half-life equals tau natural log of 2] 1/2 𝜏"
+        ],
+        "answer": "Z) T = ln (2) 1/2"
+      },
+      "changes": {
+        "question": "Which of the following is the correct relationship of half-life T<sub>1/2</sub> and mean life τ [tau] of an unstable particle, if λ [lambda] is the decay constant?<br>W) T<sub>1/2</sub> = λ/τ [Half-life equals lambda over tau]<br>X) T<sub>1/2</sub> = τ/λ [Half-life equals tau over lambda]<br>Y) T<sub>1/2</sub> = τ log<sub>2</sub> e [Half-life equals tau log base 2 of e]<br>Z) T<sub>1/2</sub> = τ ln(2) [Half-life equals tau natural log of 2]",
+        "question_sanitized": "Which of the following is the correct relationship of half-life T_(1/2) and mean life τ [tau] of an unstable particle, if λ [lambda] is the decay constant?\nW) T_(1/2) = λ/τ [Half-life equals lambda over tau]\nX) T_(1/2) = τ/λ [Half-life equals tau over lambda]\nY) T_(1/2) = τ log₂ e [Half-life equals tau log base 2 of e]\nZ) T_(1/2) = τ ln(2) [Half-life equals tau natural log of 2]",
+        "options": [
+          "W) T<sub>1/2</sub> = λ/τ [Half-life equals lambda over tau]",
+          "X) T<sub>1/2</sub> = τ/λ [Half-life equals tau over lambda]",
+          "Y) T<sub>1/2</sub> = τ log<sub>2</sub> e [Half-life equals tau log base 2 of e]",
+          "Z) T<sub>1/2</sub> = τ ln(2) [Half-life equals tau natural log of 2]"
+        ],
+        "answer": "Z) T<sub>1/2</sub> = τ ln(2)",
+        "answer_sanitized": "Z) T 1/2 = tau ln(2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 shows h(x) = ln(x² − 9), option X is the two exterior intervals with an explicit read-as cue, and answer X. Reading text preserves the complete formula and all original reading cues.",
+      "before": {
+        "question": "What is the largest possible real domain of the function 2 9) [h of x equals the natural log of the quantity x squared minus 9]? (−∞, ∞)<br>W) (−∞, −3) ∪ (3, ∞)<br>X) [the open interval from negative infinity to negative 3 union the open interval from 3 to positive infinity] (−3, 3)<br>Y) (3, ∞)<br>Z) (−∞, −3) ∪ (3, ∞)",
+        "options": [
+          "W) (−∞, −3) ∪ (3, ∞)",
+          "X) [the open interval from negative infinity to negative 3 union the open interval from 3 to positive infinity] (−3, 3)",
+          "Y) (3, ∞)",
+          "Z) (−∞, −3) ∪ (3, ∞)"
+        ],
+        "answer": "X) [the open interval from negative infinity to negative 3 union the open interval from 3 to positive infinity] (−3, 3)"
+      },
+      "changes": {
+        "question": "What is the largest possible real domain of the function h(x) = ln(x<sup>2</sup> − 9) [h of x equals the natural log of the quantity x squared minus 9]?<br>W) (−∞, ∞)<br>X) (−∞, −3) ∪ (3, ∞) [the open interval from negative infinity to negative 3 union the open interval from 3 to positive infinity]<br>Y) (−3, 3)<br>Z) (3, ∞)",
+        "question_sanitized": "What is the largest possible real domain of the function h(x) = ln(x² − 9) [h of x equals the natural log of the quantity x squared minus 9]?\nW) (−∞, ∞)\nX) (−∞, −3) ∪ (3, ∞) [the open interval from negative infinity to negative 3 union the open interval from 3 to positive infinity]\nY) (−3, 3)\nZ) (3, ∞)",
+        "options": [
+          "W) (−∞, ∞)",
+          "X) (−∞, −3) ∪ (3, ∞) [the open interval from negative infinity to negative 3 union the open interval from 3 to positive infinity]",
+          "Y) (−3, 3)",
+          "Z) (3, ∞)"
+        ],
+        "answer": "X) (−∞, −3) ∪ (3, ∞)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 confirms question 22 beginning “The interstellar medium is primarily composed of two components, a warm ionized phase and a cool neu” and keyed answer “Y) 100”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 confirms question 23 beginning “A variety of manufacturing processes may be employed in nanotechnology. Which of the following proce” and keyed answer “Y) VAPOR DEPOSITION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 confirms question 24 beginning “Lysosomes [LY-suh-sohms] are membrane-enclosed organelles in a cell containing an array of enzymes. ” and keyed answer “W) 5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 confirms question 25 beginning “In a nuclear plant, 1 kilogram of mass is converted to energy. Given c = 3 x 10 8  meters per second” and keyed answer “Z) 90 PETAJOULES”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 confirms question 1 beginning “Identify all of the following four cranial nerves that have a purely somatic motor function: 1) Trig” and keyed answer “2 AND 3 (ACCEPT: TROCHLEAR, HYPOGLOSSAL)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 prints options W 10^-7, X 10^-5, Y 3 × 10^-7, Z 9 × 10^-5 and answer W 10^-7.",
+      "before": {
+        "parts": [
+          "Which of the following best estimates the momentum carried by an electromagnetic wave with energy of 30 joules? -7<br>W) 10 -5<br>X) 10 -7<br>Y) 3 x 10 -5<br>Z) 9 x 10 -7"
+        ],
+        "options": [
+          "W) 10 -5",
+          "X) 10 -7",
+          "Y) 3 x 10 -5",
+          "Z) 9 x 10 -7"
+        ],
+        "answers": [
+          "W) 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following best estimates the momentum carried by an electromagnetic wave with energy of 30 joules?<br>W) 10<sup>-7</sup><br>X) 10<sup>-5</sup><br>Y) 3 × 10<sup>-7</sup><br>Z) 9 × 10<sup>-5</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following best estimates the momentum carried by an electromagnetic wave with energy of 30 joules? W) 10⁻⁷ X) 10⁻⁵ Y) 3 × 10⁻⁷ Z) 9 × 10⁻⁵"
+        ],
+        "options": [
+          "W) 10<sup>-7</sup>",
+          "X) 10<sup>-5</sup>",
+          "Y) 3 × 10<sup>-7</sup>",
+          "Z) 9 × 10<sup>-5</sup>"
+        ],
+        "answers": [
+          "W) 10<sup>-7</sup>"
+        ],
+        "answers_sanitized": [
+          "W) 10⁻⁷"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2 prints implicit function xy² + x³y = 2 and asks for tangent slope at (1, 1); answer −4/3.",
+      "before": {
+        "parts": [
+          "For the implicit function xy x y what is the slope of its tangent line at the point (1, 1)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For the implicit function xy<sup>2</sup> + x<sup>3</sup>y = 2, what is the slope of its tangent line at the point (1, 1)?"
+        ],
+        "parts_sanitized": [
+          "For the implicit function x times y squared plus x cubed times y equals 2, what is the slope of its tangent line at the point (1, 1)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3 confirms question 5 beginning “To the nearest 10, how many times has the Sun orbited the galaxy since the Sun formed?” and keyed answer “20”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3 confirms question 6 beginning “Catalytic cracking is the most commonly used process in the manufacture of olefins. Different produc” and keyed answer “NAPHTHENE(S) (ACCEPT: CYCLOALKANE(S))”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4 confirms question 7 beginning “What is the predicted size in billions of base pairs of the woolly- mammoth genome?” and keyed answer “X) 4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4 confirms question 8 beginning “Assuming a metabolic rate of 500 watts, how much energy in joules is transformed by a 70 kilogram pe” and keyed answer “X) 1.8 MILLION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 visually prints line points (0, 2b), (2a, 0) and (0, b), (a, b); choices W a, X 2a, Y a+b, Z b/a; key W.",
+      "before": {
+        "parts": [
+          "The line determined by points and intersects the line (0, b) (a, b). determined by points and What represents the x-value of the point where the two lines intersect? a<br>W) 2a<br>X) a + b<br>Y) b/a<br>Z) a"
+        ],
+        "options": [
+          "W) 2a",
+          "X) a + b",
+          "Y) b/a",
+          "Z) a"
+        ],
+        "answers": [
+          "W) 2a"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The line determined by points (0, 2b) and (2a, 0) intersects the line determined by points (0, b) and (a, b). What represents the x-value of the point where the two lines intersect?<br>W) a<br>X) 2a<br>Y) a + b<br>Z) b/a"
+        ],
+        "options": [
+          "W) a",
+          "X) 2a",
+          "Y) a + b",
+          "Z) b/a"
+        ],
+        "answers": [
+          "W) a"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 confirms question 10 beginning “By number, rank the thermal resistance of the following four insulation materials from greatest to l” and keyed answer “2, 3, 4, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 confirms question 11 beginning “When the Milky Way and Andromeda galaxies merge, which of the following is closest to the number of ” and keyed answer “W) 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 confirms question 12 beginning “Place the following four solvents in order of fastest to slowest reaction rate for S 2: 1) water, 2)” and keyed answer “4, 2, 1, 3 (ACCEPT: ACETONITRILE, DMSO, WATER, METHANOL)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 confirms question 13 beginning “Which of the following is true about reverse phase chromatography?” and keyed answer “Z) THE STATIONARY PHASE IS HYDROPHOBIC”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 confirms question 14 beginning “A sports car driver slams the brakes and the car slows from 90 miles per hour to a complete stop in ” and keyed answer “X) -g”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 prints x = cos t [x equals cosine of t], y = tan t [y equals tangent of t], asks dy/dx at t = π/6; answer −8/3. Reading text preserves the complete formula and all original reading cues.",
+      "before": {
+        "parts": [
+          "A curve is defined parametrically by x [x equals cosine of t] and = tant [y equals tangent of t]. dy/dx t = π/6? y What is when"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A curve is defined parametrically by x = cos t [x equals cosine of t] and y = tan t [y equals tangent of t]. What is dy/dx when t = π/6?"
+        ],
+        "parts_sanitized": [
+          "A curve is defined parametrically by x = cos t [x equals cosine of t] and y = tan t [y equals tangent of t]. What is dy/dx when t = π/6?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 confirms question 16 beginning “If a city had a yearly load of 438,000 megawatt hours and built a power plant with a capacity factor” and keyed answer “100”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 confirms question 17 beginning “Arrange the following four Big Bang events in chronological order: 1) nucleosynthesis, 2) reionizati” and keyed answer “4, 1, 3, 2 (ACCEPT: INFLATION, NUCLEOSYNTHESIS, RECOMBINATION, REIONIZATION)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 confirms question 18 beginning “You are studying a material that has started to undergo thermal fatigue. Which of the following woul” and keyed answer “W) ELIMINATE LOADING BY DESIGN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 confirms question 19 beginning “By number, identify all of the following four phrases that would NOT be indicative of a healthy stre” and keyed answer “2, 4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 confirms question 20 beginning “What is the image position in centimeters of a narrow object placed 100 centimeters from a 50 centim” and keyed answer “Z) 100”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 prints 2 sin² x − sin x − 1 = 0 with read-as cue, interval 0 ≤ x < 2π, and answers π/2, 7π/6, 11π/6.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x over the interval x 2sin − sinx – 1 = 0 2 [2 sine squared of x minus sine of x minus 1 equals 0]. x π/2 , 7π/6, 11π/6"
+        ],
+        "answers": [
+          "AND"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x over the interval 0 ≤ x < 2π: 2sin<sup>2</sup>x − sin x − 1 = 0 [2 sine squared of x minus sine of x minus 1 equals 0]."
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x over the interval 0 ≤ x < 2 pi: 2 sine squared of x minus sine of x minus 1 equals 0 [2 sine squared of x minus sine of x minus 1 equals 0]."
+        ],
+        "answers": [
+          "π/2, 7π/6, AND 11π/6"
+        ],
+        "answers_sanitized": [
+          "pi over 2, 7 pi over 6, AND 11 pi over 6"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 confirms question 22 beginning “Which of the following geometries is inconsistent with a flat universe?” and keyed answer “Y) HORN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 confirms question 23 beginning “Arrange the following three methods of solvent degassing in order from least effective to most effec” and keyed answer “2, 1, 3 (ACCEPT: PURGING, ATMOSPHERE EXCHANGE UNDER SONICATION, FREEZE-PUMP-THAW)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 confirms question 24 beginning “With regard to the maturation of an erythrocyte [ih-RITH-ruh-syt], arrange the following four choice” and keyed answer “1, 4, 3, 2 (ACCEPT: BASOPHILIC ERYTHROBLAST, POLYCHROMATOPHILIC ERYTHROBLAST, ORTHOCHROMATIC NORMOBLAST, RETICULOCYTE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 confirms question 25 beginning “Bats find their prey in the dark via echolocation [ek-oh-loh-KAY- shuhn]. Given that the speed of so” and keyed answer “Y) 5”."
+    }
+  ],
+  "packetIssues": []
+}

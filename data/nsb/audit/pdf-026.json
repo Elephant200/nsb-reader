@@ -1,0 +1,660 @@
+{
+  "packetIndex": 26,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation in the replacement.",
+      "before": {
+        "question": "Factor the following polynomial completely over the real numbers: 2x5 - 32x.",
+        "answer": "2x(x2 + 4)(x + 2)(x - 2)"
+      },
+      "changes": {
+        "question": "Factor the following polynomial completely over the real numbers: 2x<sup>5</sup> − 32x.",
+        "question_sanitized": "Factor the following polynomial completely over the real numbers: 2x^5 - 32x.",
+        "answer": "2x(x<sup>2</sup> + 4)(x + 2)(x − 2)",
+        "answer_sanitized": "2x(x^2 + 4)(x + 2)(x - 2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 confirms the notation in the replacement.",
+      "before": {
+        "question": "Solve the following equation for x on the interval 0 ≤ 𝑥𝑥 &lt; 2𝜋𝜋: 4cos 2 𝑥𝑥 − 1 = 0",
+        "answer": "π/3, 2π/3, 4π/3, 5π/3"
+      },
+      "changes": {
+        "question": "Solve the following equation for x on the interval 0 ≤ x < 2π: 4cos<sup>2</sup>x − 1 = 0",
+        "question_sanitized": "Solve the following equation for x on the interval 0 ≤ x < 2π: 4cos^2(x) - 1 = 0",
+        "answer": "π/3, 2π/3, 4π/3, 5π/3",
+        "answer_sanitized": "π/3, 2π/3, 4π/3, 5π/3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 confirms the notation in the replacement.",
+      "before": {
+        "question": "Solve the following expression when x = 4: ( ) -1/2 [open 9 P parenthesis, x cubed over 9, close parenthesis, to the negative ½ power].",
+        "answer": "x = 3/8"
+      },
+      "changes": {
+        "question": "Solve the following expression when x = 4: (x<sup>3</sup>/9)<sup>-1/2</sup> [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power].",
+        "question_sanitized": "Solve the following expression when x = 4: (x^3/9)^(-1/2) [open parenthesis, x cubed over 9, close parenthesis, to the negative ½ power].",
+        "answer": "x = 3/8"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 confirms the notation in the replacement.",
+      "before": {
+        "question": "A particular molecule of XeF 4 displays 3 IR bands and 3 Raman bands at completely different energies. Based on this information, which of the following is its VSEPR structure?<br>W) Tetrahedral<br>X) Octahedral<br>Y) Square planar<br>Z) See-saw"
+      },
+      "changes": {
+        "question": "A particular molecule of XeF<sub>4</sub> displays 3 IR bands and 3 Raman bands at completely different energies. Based on this information, which of the following is its VSEPR structure?<br>W) Tetrahedral<br>X) Octahedral<br>Y) Square planar<br>Z) See-saw",
+        "question_sanitized": "A particular molecule of XeF4 displays 3 IR bands and 3 Raman bands at completely different energies. Based on this information, which of the following is its VSEPR structure? W) Tetrahedral; X) Octahedral; Y) Square planar; Z) See-saw"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "A series is defined recursively. If 𝑎𝑎1 = −2 and 𝑎𝑎𝑛𝑛 = 3 + (𝑎𝑎𝑛𝑛−1 )𝑛𝑛−1 [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of 𝑎𝑎4 ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A series is defined recursively. If a<sub>1</sub> = −2 and a<sub>n</sub> = 3 + (a<sub>n−1</sub>)<sup>n−1</sup> [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a<sub>4</sub>."
+        ],
+        "parts_sanitized": [
+          "A series is defined recursively. If a_1 = -2 and a_n = 3 + (a_(n-1))^(n-1) [a sub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthesis to the power of the quantity n minus 1], determine the value of a_4."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "parts": [
+          "There are crossed electric and magnetic fields given, respectively, by 5.0 X 106 newtons per coulomb in the x direction and 0.5 tesla in the y direction. A proton traveling in the positive z direction experiences zero resultant force due to these fields. Which of the following is the speed of the proton in meters per second?<br>W) 107<br>X) 2.5 x 106<br>Y) 106<br>Z) 10-7"
+        ],
+        "answers": [
+          "W) 107"
+        ],
+        "options": [
+          "W) 107",
+          "X) 2.5 x 106",
+          "Y) 106",
+          "Z) 10-7"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "There are crossed electric and magnetic fields given, respectively, by 5.0 × 10<sup>6</sup> newtons per coulomb in the x direction and 0.5 tesla in the y direction. A proton traveling in the positive z direction experiences zero resultant force due to these fields. Which of the following is the speed of the proton in meters per second?<br>W) 10<sup>7</sup><br>X) 2.5 × 10<sup>6</sup><br>Y) 10<sup>6</sup><br>Z) 10<sup>-7</sup>"
+        ],
+        "parts_sanitized": [
+          "There are crossed electric and magnetic fields given, respectively, by 5.0 × 10^6 newtons per coulomb in the x direction and 0.5 tesla in the y direction. A proton traveling in the positive z direction experiences zero resultant force due to these fields. Which of the following is the speed of the proton in meters per second? W) 10^7; X) 2.5 × 10^6; Y) 10^6; Z) 10^(-7)"
+        ],
+        "answers": [
+          "W) 10<sup>7</sup>"
+        ],
+        "answers_sanitized": [
+          "W) 10^7"
+        ],
+        "options": [
+          "W) 10<sup>7</sup>",
+          "X) 2.5 × 10<sup>6</sup>",
+          "Y) 10<sup>6</sup>",
+          "Z) 10<sup>-7</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "If 8x+y = 16 [8 to the power of the quantity x plus y equals 16], determine the slope-intercept form of the equation satisfied by points with coordinates (x, y)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If 8<sup>x+y</sup> = 16 [8 to the power of the quantity x plus y equals 16], determine the slope-intercept form of the equation satisfied by points with coordinates (x, y)."
+        ],
+        "parts_sanitized": [
+          "If 8^(x+y) = 16 [8 to the power of the quantity x plus y equals 16], determine the slope-intercept form of the equation satisfied by points with coordinates (x, y)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "Providing your answer in scientific notation, calculate the rate of decomposition in molar per second, using appropriate significant figures, if the concentration difference is 0.10 molar over a 20.0 second interval."
+        ],
+        "answers": [
+          "5.0 x 10-3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer in scientific notation, calculate the rate of decomposition in molar per second, using appropriate significant figures, if the concentration difference is 0.10 molar over a 20.0 second interval."
+        ],
+        "answers": [
+          "5.0 × 10<sup>-3</sup>"
+        ],
+        "answers_sanitized": [
+          "5.0 × 10^-3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "Express the following complex number in simplest a + bi form: 5i13 + 6i12 – 7i10 + 3i."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Express the following complex number in simplest a + bi form: 5i<sup>13</sup> + 6i<sup>12</sup> − 7i<sup>10</sup> + 3i."
+        ],
+        "parts_sanitized": [
+          "Express the following complex number in simplest a + bi form: 5i^13 + 6i^12 - 7i^10 + 3i."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "Given h = 6.62 x10-34 joule seconds and providing your answer in scientific notation, calculate the number of photons in 6.62 joules of radiation energy of frequency 1012 hertz."
+        ],
+        "answers": [
+          "1 X 1022"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given h = 6.62 × 10<sup>-34</sup> joule seconds and providing your answer in scientific notation, calculate the number of photons in 6.62 joules of radiation energy of frequency 10<sup>12</sup> hertz."
+        ],
+        "parts_sanitized": [
+          "Given h = 6.62 × 10^(-34) joule seconds and providing your answer in scientific notation, calculate the number of photons in 6.62 joules of radiation energy of frequency 10^12 hertz."
+        ],
+        "answers": [
+          "1 × 10<sup>22</sup>"
+        ],
+        "answers_sanitized": [
+          "1 × 10^22"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "If the recursive sequence t n is defined by t 1 = 3 and t n = -5 + 3t n-1 , what is the value of t 6 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the recursive sequence t<sub>n</sub> is defined by t<sub>1</sub> = 3 and t<sub>n</sub> = −5 + 3t<sub>n−1</sub>, what is the value of t<sub>6</sub>?"
+        ],
+        "parts_sanitized": [
+          "If the recursive sequence t_n is defined by t_1 = 3 and t_n = -5 + 3t_(n-1), what is the value of t_6?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 13."
+    }
+  ],
+  "packetIssues": []
+}

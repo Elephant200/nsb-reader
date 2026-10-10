@@ -1,0 +1,502 @@
+{
+  "packetIndex": 211,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-10A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked complete TU1 prompt, all printed options if any, and answer; source begins “1) Chemistry – Multiple Choice The mass spectrum of a certain diatomic element has an isotope abundance pattern of one to two to one. What would the isotope abundance pattern look”; answer line “ANSWER: Z) ONE TO THREE TO THREE TO ONE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked complete TU2 prompt, all printed options if any, and answer; source begins “2) Biology – Short Answer         What is the term for the enlarged end of a stolon that is used for storing food?”; answer line “ANSWER: TUBER”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete TU3 prompt, all printed options if any, and answer; source begins “3) Physics – Short Answer    When beryllium-8 emits an alpha particle, what isotope is formed? ANSWER: HELIUM-4”; answer line “ANSWER: HELIUM-4”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete TU4 prompt, all printed options if any, and answer; source begins “4) Energy – Multiple Choice Researchers at SLAC National Accelerator Lab have developed a new electron-gun that produces near-continuous high-energy electron beams. The electron gun”; answer line “ANSWER: Z) SUPERCONDUCTIVITY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source polynomial is 6x³ − 24x + 25 = 0; restored the cubic superscript in the prompt.",
+      "before": {
+        "question": "Consider the polynomial equation 6x3 – 24x + 25 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) –3<br>X) 1/3<br>Y) 5/6<br>Z) 5/3",
+        "options": [
+          "W) –3",
+          "X) 1/3",
+          "Y) 5/6",
+          "Z) 5/3"
+        ]
+      },
+      "changes": {
+        "question": "Consider the polynomial equation 6x<sup>3</sup> − 24x + 25 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) −3<br>X) 1/3<br>Y) 5/6<br>Z) 5/3",
+        "question_sanitized": "Consider the polynomial equation 6x³ − 24x + 25 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) −3<br>X) 1/3<br>Y) 5/6<br>Z) 5/3",
+        "options": [
+          "W) −3",
+          "X) 1/3",
+          "Y) 5/6",
+          "Z) 5/3"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked complete TU6 prompt, all printed options if any, and answer; source begins “6) Earth and Space – Multiple Choice Which of the following is closest to the pre-industrial concentration of carbon dioxide in the atmosphere?”; answer line “ANSWER: Y) 275 PARTS PER MILLION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked complete TU7 prompt, all printed options if any, and answer; source begins “7) Physics – Short Answer What is the term for frictional forces between adjacent layers within a fluid that prevent them from flowing freely?”; answer line “ANSWER: VISCOSITY (ACCEPT: VISCOUS FORCES)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked complete TU8 prompt, all printed options if any, and answer; source begins “8) Math – Short Answer If f is a continuous function such that the definite integral from 3 to 8 of f of x dx equals 16, what is the average value of f on the closed interval from 3 to 8?”; answer line “ANSWER: 16/5 (ACCEPT: 3 1/5, 3.2)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked complete TU10 prompt, all printed options if any, and answer; source begins “10) Energy – Multiple Choice Scientists at Pacific Northwest National Lab have constructed the Shallow Underground Laboratory at a depth of 12 meters to reduce background from which”; answer line “ANSWER: X) COSMIC RAYS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked complete TU11 prompt, all printed options if any, and answer; source begins “11) Earth and Space – Multiple Choice The habitable zone in our solar system ranges from approximately the orbit of Venus to the orbit of Mars. Which of the following best explains why”; answer line “ANSWER: Y) ITS INTERIOR IS HEATED BY TIDAL FRICTION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked complete TU12 prompt, all printed options if any, and answer; source begins “12) Chemistry – Short Answer A chemist notes that when graphing one over the concentration of a reactant in a reaction versus time, she gets a linear fit. This implies that the reaction is what order?”; answer line “ANSWER: SECOND (ACCEPT: TWO)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked complete TU13 prompt, all printed options if any, and answer; source begins “13) Math – Short Answer Consider a triangle with two sides of lengths 5 and 9. How many different integers could be the length of the third side?”; answer line “ANSWER: 9”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked complete TU14 prompt, all printed options if any, and answer; source begins “14) Earth and Space – Multiple Choice Welded tuff is composed primarily of what material? W) Marine carbonates”; answer line “ANSWER: X) VOLCANIC ASH”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete TU15 prompt, all printed options if any, and answer; source begins “15) Physics – Multiple Choice The energy potential of a system scales quadratically with respect to distance away from a point. Which of the following could represent this system?”; answer line “ANSWER: Y) HOOKEAN SPRING”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete TU16 prompt, all printed options if any, and answer; source begins “16) Energy – Multiple Choice Idaho National Lab researchers are studying rocks that form near rhyolitic [rye-oh-LIT-ik] eruptions with x-ray fluorescence. Which of the following”; answer line “ANSWER: X) IT IS COOLER IN TEMPERATURE THAN BASALTIC MAGMA”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete TU17 prompt, all printed options if any, and answer; source begins “17) Chemistry – Multiple Choice Which of the following is NOT a Lewis acid? W) Boron tribromide”; answer line “ANSWER: Y) CARBON TETRACHLORIDE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete TU18 prompt, all printed options if any, and answer; source begins “18) Biology – Multiple Choice What is the name of the largest family of human cell surface receptors that is characterized by a 7-transmembrane domain motif?”; answer line “ANSWER: W) G-PROTEIN COUPLED RECEPTOR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked complete TU19 prompt, all printed options if any, and answer; source begins “19) Chemistry – Multiple Choice Which of the following would cause the electron distribution in a molecule to change the least?”; answer line “ANSWER: X) A FAR-AWAY DIPOLE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked complete TU20 prompt, all printed options if any, and answer; source begins “20) Math – Short Answer What is the slope of a line perpendicular to the line with equation 7x – 6y = 21?”; answer line “ANSWER: –6/7”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete TU21 prompt, all printed options if any, and answer; source begins “21) Earth and Space – Short Answer       What letter denotes the spectral type of the Sun? ANSWER: G (ACCEPT G2, G2V)”; answer line “ANSWER: G (ACCEPT G2, G2V)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete TU22 prompt, all printed options if any, and answer; source begins “22) Biology – Short Answer A pea plant with yellow, round seeds that is heterozygous [hetero-ZYE-gus] for both traits is allowed to self-pollinate. What percentage of the offspring”; answer line “ANSWER: 6.25 (ACCEPT: 6¼, 25/4)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually checked complete TU23 prompt, all printed options if any, and answer; source begins “23) Physics – Short Answer In kilometers per second, what is the speed of a ray of light traveling in a medium where the index of refraction is 1.5?”; answer line “ANSWER: 200,000”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked complete B1 prompt, all printed options if any, and answer; source begins “1) Chemistry – Multiple Choice Which of the following compounds is the product of the ozonolysis [oh-zohn-AW-lih-sis] of ethylene followed by a reductive workup?”; answer line “ANSWER: Y) FORMALDEHYDE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked complete B2 prompt, all printed options if any, and answer; source begins “2) Biology – Short Answer         How many different types of opsins are found in the normal human eye?”; answer line “ANSWER: 4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete B3 prompt, all printed options if any, and answer; source begins “3) Physics – Short Answer A toaster is composed of 4 compartments connected in parallel to a standard 120-volt RMS wall socket. If each compartment is modeled by a 4-kilo-ohm resistor,”; answer line “ANSWER: 28.8”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete B4 prompt, all printed options if any, and answer; source begins “4) Energy – Short Answer A team of scientists from Oak Ridge National Laboratory have been studying the enzyme RuBisCO [roo-BIS-koh] using neutron scattering and X-ray”; answer line “ANSWER: HYDROGEN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked complete B5 prompt, all printed options if any, and answer; source begins “5) Math – Short Answer If two sides of a right triangle have lengths 15 and 7, then, rounded to the nearest whole numbers, what are the possible lengths of the third side?”; answer line “ANSWER: 13 and 17”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked complete B6 prompt, all printed options if any, and answer; source begins “6) Earth and Space – Short Answer A subsurface magma chamber cools until fifty percent of its mass has crystallized. Identify all of the following three statements that are true of the”; answer line “ANSWER: 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked complete B7 prompt, all printed options if any, and answer; source begins “7) Physics – Short Answer What is the maximum possible efficiency for a heat engine whose cold reservoir is at 0 degrees Celsius and whose hot reservoir is at 546 degrees Celsius?”; answer line “ANSWER: 2/3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked complete B8 prompt, all printed options if any, and answer; source begins “8) Math – Short Answer Consider a pair of “loaded” six-sided dice. In this case, each die is weighted so that each odd number is twice as likely as each even number. What is the probability”; answer line “ANSWER: 5/27”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked complete B9 prompt, all printed options if any, and answer; source begins “9) Biology – Short Answer Identify all of the following three organisms that are known to possess G-protein coupled receptors: 1) E. coli; 2) S. cerevisiae [sarah-VIH-see-ay]; 3) C. lupus.”; answer line “ANSWER: 2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked complete B10 prompt, all printed options if any, and answer; source begins “10) Energy – Short Answer Researchers at Ames Lab are studying bound electron-hole pairs in photovoltaic [photo-vawl-TAY-ik] materials. What is the term for these quasiparticles?”; answer line “ANSWER: EXCITONS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked complete B11 prompt, all printed options if any, and answer; source begins “11) Earth and Space – Multiple Choice Which of the following best describes how the Sun’s solar luminosity has changed since the formation of Earth?”; answer line “ANSWER: W) IT HAS INCREASED”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked complete B12 prompt, all printed options if any, and answer; source begins “12) Chemistry – Multiple Choice Which of the following ions has a noble gas electron configuration?”; answer line “ANSWER: W) YTTRIUM THREE PLUS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked complete B13 prompt, all printed options if any, and answer; source begins “13) Math – Short Answer A custom mixture of nuts is composed of cashews worth $8 a pound and almonds worth $6 a pound. Mae purchases 11 pounds of the mixture for $75. How many of”; answer line “ANSWER: 4.5 (ACCEPT: 4½, 9/2)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked complete B14 prompt, all printed options if any, and answer; source begins “14) Earth and Space – Multiple Choice Which of the following locations in a spiral galaxy possesses the highest rate of star formation?”; answer line “ANSWER: Y) SPIRAL ARM”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete B15 prompt, all printed options if any, and answer; source begins “15) Physics – Short Answer In an experiment of the photoelectric effect, a metal is found to emit electrons when exposed to strong blue light, but not to weak yellow light. Identify all of the”; answer line “ANSWER: 3, 4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete B16 prompt, all printed options if any, and answer; source begins “16) Energy – Short Answer Scientists at SLAC National Accelerator Lab are developing improvements to scanning tunneling electron microscopy. In this technique, an electron beam”; answer line “ANSWER: VALENCE SHELL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete B17 prompt, all printed options if any, and answer; source begins “17) Chemistry – Short Answer Rank the following three indicators in terms of increasing pKa: 1) Phenolphthalein [fee-nawlf-THAY-leen]; 2) Methyl red;”; answer line “ANSWER: 2, 3, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete B18 prompt, all printed options if any, and answer; source begins “18) Biology – Multiple Choice   Which of the following is NOT a seedless, vascular plant? W) Ferns”; answer line “ANSWER: X) LIVERWORTS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: PDF prints SN₂, with only the numeral 2 subscripted; corrected the previous rich markup that incorrectly subscripted N as well.",
+      "before": {
+        "answers": [
+          "SN 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "SN<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "SN₂"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked complete B20 prompt, all printed options if any, and answer; source begins “20) Math – Short Answer     How many positive integer factors does 1584 have? ANSWER: 30”; answer line “ANSWER: 30”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete B21 prompt, all printed options if any, and answer; source begins “21) Earth and Space – Short Answer Identify all of the following three seismic waves that are surface waves: 1) P-wave; 2) Rayleigh [RAY-lee] wave; 3) S-wave.”; answer line “ANSWER: 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete B22 prompt, all printed options if any, and answer; source begins “22) Biology – Short Answer       In animals, what is the most important substrate of hexokinase in terms of cellular respiration?”; answer line “ANSWER: GLUCOSE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source prints current density 3 × 10⁵ and conductivity 6 × 10⁷; restored both superscript exponents and retained the wording and units.",
+      "before": {
+        "parts": [
+          "A thin copper wire carries a current density of 3 times 105 amps per square meter. If the conductivity of copper is 6 times 107 siemens per meter, what is the electric field, in millivolts per meter, inside the wire?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A thin copper wire carries a current density of 3 times 10<sup>5</sup> amps per square meter. If the conductivity of copper is 6 times 10<sup>7</sup> siemens per meter, what is the electric field, in millivolts per meter, inside the wire?"
+        ],
+        "parts_sanitized": [
+          "A thin copper wire carries a current density of 3 times 10⁵ amps per square meter. If the conductivity of copper is 6 times 10⁷ siemens per meter, what is the electric field, in millivolts per meter, inside the wire?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

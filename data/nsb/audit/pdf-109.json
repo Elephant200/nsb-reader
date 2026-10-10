@@ -1,0 +1,613 @@
+{
+  "packetIndex": 109,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-13.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 shows y = e^(x²) and derivative answer 2xe^(x²); both exponents are raised, with the source read-as cue “e to the power of x squared.”",
+      "before": {
+        "question": "Let 𝑦 = 𝑒 𝑥 [e to the power of x squared]. Find dy/dx. 2",
+        "answer": "2𝑥𝑒 𝑥"
+      },
+      "changes": {
+        "question": "Let y = e<sup>x<sup>2</sup></sup> [e to the power of x squared]. Find dy/dx.",
+        "answer": "2x e<sup>x<sup>2</sup></sup>",
+        "question_sanitized": "Let y = e^(x^2) [e to the power of x squared]. Find dy/dx.",
+        "answer_sanitized": "2x e^(x^2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “CHEMISTRY Multiple Choice What is the local VSEPR geometry of a fully substituted”; answer Y) TRIGONAL PLANAR agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “PHYSICS Short Answer A ball is dropped from rest at a height of 60 meters above the”; answer 36 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “EARTH AND SPACE Multiple Choice During an El Niño event, the thermocline [THUR-muh-”; answer W) THICKER agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “BIOLOGY Short Answer What wasteful process occurs when rubisco acts as an oxygenase”; answer PHOTORESPIRATION agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “MATH Short Answer Solve for x: ln(x + 1) - 1 = 0 [the natural log of open parenthesis x”; answer e - 1 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “CHEMISTRY Multiple Choice What are the products of the complete combustion of”; answer X) CARBON DIOXIDE AND WATER agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “PHYSICS Short Answer What is the efficiency of a Carnot heat engine in which 500 joules of”; answer 40% agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 prints “ENERGY Multiple Choice Which of the following explanations is used by scientists to justify”; answer Y) DARK ENERGY agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 displays (1 − cos(x))/x² and lim as x approaches 0; both the fraction layout and full spoken cues are preserved.",
+      "before": {
+        "question": "Given 𝑔(𝑥) = [g of x equals the fraction with numerator 1 𝑥2 minus cosine of x and denominator x squared], find lim𝑥→0 𝑔(𝑥) [the limit as x approaches 0 of g of x]."
+      },
+      "changes": {
+        "question": "Given g(x) = <span class=\"nsb-fraction\"><span>1 − cos(x)</span><span>x<sup>2</sup></span></span> [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim<sub>x→0</sub> g(x) [the limit as x approaches 0 of g of x].",
+        "question_sanitized": "Given g(x) = (1 - cos(x))/(x^2) [g of x equals the fraction with numerator 1 minus cosine of x and denominator x squared], find lim_(x->0) g(x) [the limit as x approaches 0 of g of x]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “CHEMISTRY Multiple Choice Which of the following is considered a diatomic element?”; answer Y) IODINE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints “PHYSICS Multiple Choice A small rubber duck is held underwater at a depth of 10 meters,”; answer X) IT IS UNCHANGED agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints “EARTH AND SPACE Multiple Choice For the mass-radius relation of white dwarfs, M is”; answer W) -1/3 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “BIOLOGY Multiple Choice Which of the following marine fish groups reproduces”; answer W) COELOCANTH agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “CHEMISTRY Multiple Choice Dr. Ecniecs, the evil genius, has released multiple dangerous”; answer X) RELEASING THE BALLOONS INTO SPACE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints ln of the square root of e^x; its radical bar covers e^x, and the source includes the complete read-as cue.",
+      "before": {
+        "question": "Given 𝑓(𝑥) = 𝑙𝑙√𝑒 𝑥 [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
+      },
+      "changes": {
+        "question": "Given f(x) = ln(√(e<sup>x</sup>)) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x.",
+        "question_sanitized": "Given f(x) = ln(sqrt(e^x)) [f of x equals the natural log of the square root of the quantity e to the x], find its first derivative with respect to x."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints “ENERGY Multiple Choice How much energy is required to run a device with compressed air”; answer Y) FOUR TIMES AS MUCH agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “PHYSICS Short Answer What law describes the relationship between the direction of”; answer SNELL’S LAW agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “EARTH AND SPACE Multiple Choice According to the United Nations, what is the global”; answer X) 21 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “BIOLOGY Multiple Choice In one form of the disease called macular degeneration, eyesight”; answer W) siRNA agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 formula is SnS₂, with the 2 visibly subscripted; printed answer is +4.",
+      "before": {
+        "question": "What is the oxidation number of tin in SnS 2 ?"
+      },
+      "changes": {
+        "question": "What is the oxidation number of tin in SnS<sub>2</sub>?",
+        "question_sanitized": "What is the oxidation number of tin in SnS2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Source p. 13 prints allele I with superscript P and the cue “[eye superscript P]”; all four phenotypes and answer X) AP match.",
+      "before": {
+        "question": "You suspect that Cylon, an alien, may be the parent of a human- alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by IP [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby?<br>W) O<br>X) AP<br>Y) P<br>Z) A"
+      },
+      "changes": {
+        "question": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I<sup>P</sup> [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby?<br>W) O<br>X) AP<br>Y) P<br>Z) A",
+        "question_sanitized": "You suspect that Cylon, an alien, may be the parent of a human-alien hybrid baby. The alien’s blood type happens to be homozygous [hoh-muh-ZY-guhs] for blood type P for purple, the allele of which is symbolized by I^P [eye superscript P]. As with other blood types, the P protein is co-dominant. If the human parent’s blood type is A with a homozygous genotype, what blood phenotype would the baby have to be in order to be a confirmed human-alien hybrid baby? W) O X) AP Y) P Z) A"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “MATH Short Answer How many distinct permutations can be made from the letters in the”; answer 3360 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “CHEMISTRY Multiple Choice Which of the following analytical tools can provide information”; answer W) X-RAY DIFFRACTION agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “PHYSICS Short Answer What is the minimum current in amperes a circuit breaker fuse must”; answer 14 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “EARTH AND SPACE Multiple Choice Which of the following scenarios made navigation”; answer Y) SAILING THROUGH THE MIDDLE OF A SUBTROPICAL HIGH agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “BIOLOGY Multiple Choice In contrast to the lysogenic [ly-suh-JEN-ik] cycle of a”; answer X) INVOLVES THE DISSOLUTION OF HOST CELLS TO RELEASE NEW PHAGES agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “ENERGY Multiple Choice Compounds of bismuth telluride are used in which of the following”; answer Z) THERMOELECTRIC DEVICES agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 equation reads y² + 3x²y = 7x² − 5, evaluated for dy/dx at (3, 2); source answer is 6/31.",
+      "before": {
+        "parts": [
+          "Assuming y2 + 3x2y = 7x2 – 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming y<sup>2</sup> + 3x<sup>2</sup>y = 7x<sup>2</sup> − 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
+        ],
+        "parts_sanitized": [
+          "Assuming y^2 + 3x^2y = 7x^2 - 5 implicitly defines y as a function of x, find dy/dx at the point (3, 2)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “CHEMISTRY Multiple Choice Which of the following ionization techniques will produce the”; answer Z) ELECTRON IMPACT agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “PHYSICS Short Answer A typical incandescent light bulb wastes 90% of its power as heat.”; answer 60 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “EARTH AND SPACE Multiple Choice How does the Sound Fixing and Ranging (SOFAR)”; answer Z) SPEED OF SOUND IS TEMPERATURE-DEPENDENT IN THE SOFAR CHANNEL agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 prints “BIOLOGY Multiple Choice Which of the following reactions is incorrectly matched to its”; answer W) KINASE: CATALYZES THE REMOVAL OF A PHOSPHATE GROUP FROM A MOLECULE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 prints “ENERGY Multiple Choice Power is being transmitted at 100,000 volts and the current flow is”; answer Z) 24,000 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “MATH Short Answer A store has been buying a certain type of calculator at $25 and selling”; answer $41 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 symmetry label is D₃h; all four molecule choices and answer Y) boric acid match.",
+      "before": {
+        "parts": [
+          "Which of the following molecules does NOT have D 3h symmetry?<br>W) Phosphorus pentachloride<br>X) Cyclopropane<br>Y) Boric acid<br>Z) Bicyclo[2.2.2]octane"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following molecules does NOT have D<sub>3h</sub> symmetry?<br>W) Phosphorus pentachloride<br>X) Cyclopropane<br>Y) Boric acid<br>Z) Bicyclo[2.2.2]octane"
+        ],
+        "parts_sanitized": [
+          "Which of the following molecules does NOT have D_3h symmetry? W) Phosphorus pentachloride X) Cyclopropane Y) Boric acid Z) Bicyclo[2.2.2]octane"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints T = 2πm/(qB), field 10⁻⁴ T, proton mass 1.6 × 10⁻²⁷ kg, charge 1.6 × 10⁻¹⁹ C, and answer 6 × 10⁻⁴.",
+      "before": {
+        "parts": [
+          "Charged particles in a uniform magnetic field will undergo circular motion with a period of T = 2πm/(qB). The magnetic field of the Earth is roughly 10-4 tesla, assuming it is uniform. Given the mass of a proton to be 1.6 x 10-27 kilograms and its electric charge to be 1.6 x 10-19 coulombs, providing your answer in scientific notation to one significant figure, what period in seconds would you measure for a proton?"
+        ],
+        "answers": [
+          "6 x 10-4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Charged particles in a uniform magnetic field will undergo circular motion with a period of T = <span class=\"nsb-fraction\"><span>2πm</span><span>qB</span></span>. The magnetic field of the Earth is roughly 10<sup>−4</sup> tesla, assuming it is uniform. Given the mass of a proton to be 1.6 × 10<sup>−27</sup> kilograms and its electric charge to be 1.6 × 10<sup>−19</sup> coulombs, providing your answer in scientific notation to one significant figure, what period in seconds would you measure for a proton?"
+        ],
+        "answers": [
+          "6 × 10<sup>−4</sup>"
+        ],
+        "parts_sanitized": [
+          "Charged particles in a uniform magnetic field will undergo circular motion with a period of T = (2πm)/(qB). The magnetic field of the Earth is roughly 10^-4 tesla, assuming it is uniform. Given the mass of a proton to be 1.6 x 10^-27 kilograms and its electric charge to be 1.6 x 10^-19 coulombs, providing your answer in scientific notation to one significant figure, what period in seconds would you measure for a proton?"
+        ],
+        "answers_sanitized": [
+          "6 x 10^-4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “BIOLOGY Short Answer What is the process in which a protein inhibits the function of a”; answer ALLOSTERIC REGULATION (ACCEPT: ALLOSTERIC INHIBITION) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 shows subscripts, ionic charges and states in the chlorine/thiosulfate reaction; Y) Cl₂ is the answer, while bracketed phase definitions sit separately below the answer.",
+      "before": {
+        "parts": [
+          "Consider the following reaction: 5H 2 O (l) + S 2 O 3 2- + 4Cl 2 (aq) → [yields] 8Cl- (aq) + 2SO 4 2- (aq) + 10H+. What is the oxidizing agent in this reaction?<br>W) Cl-<br>X) S 2 O 3 2-<br>Y) Cl 2<br>Z) H 2 O"
+        ],
+        "options": [
+          "W) Cl-",
+          "X) S 2 O 3 2-",
+          "Y) Cl 2",
+          "Z) H 2 O"
+        ],
+        "answers": [
+          "Y) Cl 2 [(L) = LIQUID; (AQ) = AQUEOUS]"
+        ],
+        "notes": []
+      },
+      "changes": {
+        "parts": [
+          "Consider the following reaction: 5H<sub>2</sub>O (l) + S<sub>2</sub>O<sub>3</sub><sup>2−</sup> + 4Cl<sub>2</sub> (aq) → [yields] 8Cl<sup>−</sup> (aq) + 2SO<sub>4</sub><sup>2−</sup> (aq) + 10H<sup>+</sup>. What is the oxidizing agent in this reaction?<br>W) Cl<sup>−</sup><br>X) S<sub>2</sub>O<sub>3</sub><sup>2−</sup><br>Y) Cl<sub>2</sub><br>Z) H<sub>2</sub>O"
+        ],
+        "options": [
+          "W) Cl<sup>−</sup>",
+          "X) S<sub>2</sub>O<sub>3</sub><sup>2−</sup>",
+          "Y) Cl<sub>2</sub>",
+          "Z) H<sub>2</sub>O"
+        ],
+        "answers": [
+          "Y) Cl<sub>2</sub>"
+        ],
+        "notes": [
+          "[(L) = LIQUID; (AQ) = AQUEOUS]"
+        ],
+        "parts_sanitized": [
+          "Consider the following reaction: 5H2O (l) + S2O3^2- + 4Cl2 (aq) -> [yields] 8Cl- (aq) + 2SO4^2- (aq) + 10H+. What is the oxidizing agent in this reaction? W) Cl- X) S2O3^2- Y) Cl2 Z) H2O"
+        ],
+        "answers_sanitized": [
+          "Y) Cl2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 has y = e^(2x)/x² and read-as cue naming that numerator and denominator; answer y = e², accept y = 0x + e².",
+      "before": {
+        "parts": [
+          "Providing your answer in slope intercept form, what is the equation of 𝑒 2𝑥 the line tangent to the graph of 𝑦 = 2 [y equals the fraction with numerator e to the power 𝑥 of 2x and denominator x squared] where x = 1?"
+        ],
+        "answers": [
+          "y = e2 (ACCEPT: y = 0x + e2)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer in slope intercept form, what is the equation of the line tangent to the graph of y = <span class=\"nsb-fraction\"><span>e<sup>2x</sup></span><span>x<sup>2</sup></span></span> [y equals the fraction with numerator e to the power of 2x and denominator x squared] where x = 1?"
+        ],
+        "answers": [
+          "y = e<sup>2</sup> (ACCEPT: y = 0x + e<sup>2</sup>)"
+        ],
+        "parts_sanitized": [
+          "Providing your answer in slope intercept form, what is the equation of the line tangent to the graph of y = (e^(2x))/(x^2) [y equals the fraction with numerator e to the power of 2x and denominator x squared] where x = 1?"
+        ],
+        "answers_sanitized": [
+          "y = e^2 (ACCEPT: y = 0x + e^2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints “ENERGY Multiple Choice Traditional solar cells have a maximum conversion efficiency of”; answer X) CAPTURING THE BLUE WAVELENGTH agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “PHYSICS Short Answer A container contains 3 moles of helium. The volume remains”; answer 6/5 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “EARTH AND SPACE Multiple Choice Which of the following pairs correctly matches the”; answer Y) GULF OF MEXICO – DIURNAL agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “BIOLOGY Multiple Choice Enzyme A has a high K m value and low V max value relative to”; answer Z) LOWER SUBSTRATE AFFINITY AND LOWER REACTION RATE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “CHEMISTRY Short Answer What term describes the general process by which a racemate”; answer RESOLUTION (ACCEPT: CHEMICAL RESOLUTION) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Source p. 13 prints “BIOLOGY Multiple Choice How do bacteria protect their own genomic DNA from being cut”; answer X) BACTERIA APPLY PROTECTIVE METHYL GROUPS TO DNA AT SITES RECOGNIZED BY THEIR RESTRICTION ENDONUCLE agrees with the record and displayed choices."
+    }
+  ],
+  "packetIssues": []
+}

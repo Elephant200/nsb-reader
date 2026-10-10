@@ -1,0 +1,580 @@
+{
+  "packetIndex": 69,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round3.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared against packet 069 source PDF page 1; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "question": "What is the circumference of the circle with equation 2 2 (x + 3) + (y 5) = 25 ? −"
+      },
+      "changes": {
+        "question": "What is the circumference of the circle with equation (x + 3)<sup>2</sup> + (y - 5)<sup>2</sup> = 25?",
+        "question_sanitized": "What is the circumference of the circle with equation (x + 3)^(2) + (y - 5)^(2) = 25?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 1; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source page 2 prints M33 and NGC 598 as galaxy catalogue designations; these digits remain inline, and the answer Triangulum Galaxy matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 2; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 3; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 3; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 4; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 4; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 5; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared against packet 069 source PDF page 6; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "question": "In 15 seconds, 2 10 protons pass a particular point. Given that × 10 -19 the charge on the proton is 1.6 coulombs, and providing your answer as a decimal to the nearest tenth, what is the current in microamperes?"
+      },
+      "changes": {
+        "question": "In 15 seconds, 2 × 10<sup>13</sup> protons pass a particular point. Given that the charge on the proton is 1.6 × 10<sup>-19</sup> coulombs, and providing your answer as a decimal to the nearest tenth, what is the current in microamperes?",
+        "question_sanitized": "In 15 seconds, 2 × 10^13 protons pass a particular point. Given that the charge on the proton is 1.6 × 10^-19 coulombs, and providing your answer as a decimal to the nearest tenth, what is the current in microamperes?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 6; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared against packet 069 source PDF page 8; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "question": "The line with equation y = – 5 contains points in each quadrant −3x EXCEPT which of the following?<br>W) I<br>X) II<br>Y) III<br>Z) IV"
+      },
+      "changes": {
+        "question": "The line with equation y = -3x - 5 contains points in each quadrant EXCEPT which of the following?<br>W) I<br>X) II<br>Y) III<br>Z) IV"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 8; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 9; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 9; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 10; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 11; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 11; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 12; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 12; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 13; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared against packet 069 source PDF page 1; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "Which of the following is the sum of the first three nonzero terms of the Taylor series of sin(x) around 0? 3 5<br>W) x + x /3! + x /5! (read as: x plus x cubed over 3 factorial plus x to the fifth over 5 factorial) 3 5<br>X) x x /3! + x /5! − 2 4<br>Y) 1 x /2! + x /4! − 2 4<br>Z) 1 + x /2! + x /4! 3 5"
+        ],
+        "options": [
+          "W) x + x /3! + x /5! (read as: x plus x cubed over 3 factorial plus x to the fifth over 5 factorial) 3 5",
+          "X) x x /3! + x /5! − 2 4",
+          "Y) 1 x /2! + x /4! − 2 4",
+          "Z) 1 + x /2! + x /4! 3 5"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the sum of the first three nonzero terms of the Taylor series of sin(x) around 0?<br>W) x + x<sup>3</sup>/3! + x<sup>5</sup>/5! (read as: x plus x cubed over 3 factorial plus x to the fifth over 5 factorial)<br>X) x - x<sup>3</sup>/3! + x<sup>5</sup>/5!<br>Y) 1 - x<sup>2</sup>/2! + x<sup>4</sup>/4!<br>Z) 1 + x<sup>2</sup>/2! + x<sup>4</sup>/4!"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the sum of the first three nonzero terms of the Taylor series of sin(x) around 0? W) x + x^3/3! + x^5/5! (read as: x plus x cubed over 3 factorial plus x to the fifth over 5 factorial); X) x - x^3/3! + x^5/5!; Y) 1 - x^2/2! + x^4/4!; Z) 1 + x^2/2! + x^4/4!"
+        ],
+        "options": [
+          "W) x + x<sup>3</sup>/3! + x<sup>5</sup>/5! (read as: x plus x cubed over 3 factorial plus x to the fifth over 5 factorial)",
+          "X) x - x<sup>3</sup>/3! + x<sup>5</sup>/5!",
+          "Y) 1 - x<sup>2</sup>/2! + x<sup>4</sup>/4!",
+          "Z) 1 + x<sup>2</sup>/2! + x<sup>4</sup>/4!"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 1; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 2; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 2; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 3; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 3; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared against packet 069 source PDF page 4; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "Considering the function f(x) = x , use a left Riemann sum with 4 equal subintervals to estimate the integral from 2 to 10 to the nearest integer."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Considering the function f(x) = x<sup>2</sup>, use a left Riemann sum with 4 equal subintervals to estimate the integral from 2 to 10 to the nearest integer."
+        ],
+        "parts_sanitized": [
+          "Considering the function f(x) = x^2, use a left Riemann sum with 4 equal subintervals to estimate the integral from 2 to 10 to the nearest integer."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared against packet 069 source PDF page 4; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "answers": [
+          "5π"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "5π<sup>2</sup>"
+        ],
+        "answers_sanitized": [
+          "5π^2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 5; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 5; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 6; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 6; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 8; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 8; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 9; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 9; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 10; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared against packet 069 source PDF page 11; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "answers": [
+          "21"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "√21"
+        ],
+        "answers_sanitized": [
+          "√21"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 11; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 12; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared against packet 069 source PDF page 12; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "A position-time graph for position x and time t is defined by the 2 equation x = -t + 4t for t ≥ 0. If positive represents forward motion and negative represents backward motion, during which time intervals in seconds would motion be forward and backward, respectively?"
+        ],
+        "answers": [
+          "FORWARD FOR t &lt; 2 (ACCEPT: 0 ≤ t &lt; 2) AND BACKWARD FOR t &gt; 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A position-time graph for position x and time t is defined by the equation x = -t<sup>2</sup> + 4t for t ≥ 0. If positive represents forward motion and negative represents backward motion, during which time intervals in seconds would motion be forward and backward, respectively?"
+        ],
+        "parts_sanitized": [
+          "A position-time graph for position x and time t is defined by the equation x = -t^2 + 4t for t ≥ 0. If positive represents forward motion and negative represents backward motion, during which time intervals in seconds would motion be forward and backward, respectively?"
+        ],
+        "answers": [
+          "FORWARD FOR t < 2 (ACCEPT: 0 ≤ t < 2) AND BACKWARD FOR t > 2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 13; wording and content match."
+    }
+  ],
+  "packetIssues": []
+}

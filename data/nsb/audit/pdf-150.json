@@ -1,0 +1,474 @@
+{
+  "packetIndex": 150,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/3A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1; printed answer is 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2; printed answer is Y) IRAN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 3; printed answer is Y) THE HYDROXIDE ION CONCENTRATION DECREASES."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4; printed answer is Y) 900."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 5; printed answer is 23."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6; printed answer is THERMOHALINE CIRCULATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9; printed answer is THERMAL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is X) CAPACITOR."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 11; printed answer is -24.",
+      "before": {
+        "question": "What is the discriminant of the quadratic function y = x2 – 4x + 10?"
+      },
+      "changes": {
+        "question": "What is the discriminant of the quadratic function y = x<sup>2</sup> − 4x + 10?",
+        "question_sanitized": "What is the discriminant of the quadratic function y = x^2 − 4x + 10?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is 25."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13; printed answer is 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 14; printed answer is W) MOST SALTS DISSOLVE ENDOTHERMICALLY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16; printed answer is METHANOL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17; printed answer is X) DNA REPLICATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18; printed answer is 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20 asking for 60! divided by (59! × 3!); the printed answer is 10, matching the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21; printed answer is Z) DHEA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 22; printed answer is 76."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23; printed answer is Z) SILVER CHLORIDE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1; printed answer is X) (1, –14/3)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3; printed answer is X) ONE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; printed answer is DIFFRACTION (ACCEPT: X-RAY DIFFRACTION, XRD, X-RAY CRYSTALLOGRAPHY)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5; printed answer is W) STRUCTURAL ISOMERS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6; printed answer is 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7; printed answer is Y) INCREASED DIAMETER OF ARTERIOLES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8; printed answer is Y) ITS ORBIT WAS GEOSYNCHRONOUS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9; printed answer is URANIUM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10; printed answer is MECHANICAL (ACCEPT: KINETIC, ROTATIONAL, ROTATIONAL KINETIC; DO NOT ACCEPT: POTENTIAL)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11; printed answer is 15.",
+      "before": {
+        "parts": [
+          "What is the derivative evaluated at x = 7 of the fraction with numerator x3 – 1 and denominator x – 1?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the derivative evaluated at x = 7 of the fraction with numerator x<sup>3</sup> − 1 and denominator x − 1?"
+        ],
+        "parts_sanitized": [
+          "What is the derivative evaluated at x = 7 of the fraction with numerator x^3 − 1 and denominator x − 1?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12; printed answer is NONE OF THEM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13; printed answer is W) JOULE SECONDS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14; printed answer is X) MALDI-TOF MASS SPECTROMETRY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15; printed answer is 1 ONLY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16; printed answer is X) BATTERIES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is BLASTULA."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18; printed answer is -240.",
+      "before": {
+        "parts": [
+          "What is the slope of the tangent line to the function F(x) = 1000 – 200x – 5x2 at x = 4?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope of the tangent line to the function F(x) = 1000 − 200x − 5x<sup>2</sup> at x = 4?"
+        ],
+        "parts_sanitized": [
+          "What is the slope of the tangent line to the function F(x) = 1000 − 200x − 5x^2 at x = 4?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 19; printed answer is Z) OPPOSITION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 21; printed answer is X) LAND PLANTS AND GREEN ALGAE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 22; printed answer is Y) SHOCKLEY-QUEISSER LIMIT."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Root viewed PDF page 12: the source itself joins 'elementsWhat' without punctuation or a space. Insert a comma and space and lowercase the following what to restore the sentence boundary; retain every substantive source word and the printed FLUORINE answer. This is an explicit mechanical source-typography repair, not an extraction discrepancy.",
+      "before": {
+        "parts": [
+          "Other than hydrogen and the noble elementsWhat non-noble element has the lowest energy valence orbitals?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Other than hydrogen and the noble elements, what non-noble element has the lowest energy valence orbitals?"
+        ],
+        "parts_sanitized": [
+          "Other than hydrogen and the noble elements, what non-noble element has the lowest energy valence orbitals?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF page 12 prints the stem as “Other than hydrogen and the noble elementsWhat non-noble element has the lowest energy valence orbitals?” with no separator between the two clauses.",
+      "proposedRepair": "Insert a comma and space at the clause boundary (“elements, what”) to restore the sentence while preserving all substantive source words. Recorded explicitly in the bonus 23 correction."
+    }
+  ]
+}

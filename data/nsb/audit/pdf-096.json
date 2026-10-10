@@ -1,0 +1,552 @@
+{
+  "packetIndex": 96,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND15.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 shows y = x⁶ ln(x) and derivative 6x⁵ ln(x) + x⁵; the captured fields flattened the exponents.",
+      "before": {
+        "question": "Expressing your answer in simplest form, if y = (x6) ln(x) [y equals x to the sixth power times the natural log of x], what is the derivative of y with respect to x?",
+        "answer": "6x5 ln(x) + x5"
+      },
+      "changes": {
+        "question": "Expressing your answer in simplest form, if y = x<sup>6</sup> ln(x) [y equals x to the sixth power times the natural log of x], what is the derivative of y with respect to x?",
+        "question_sanitized": "Expressing your answer in simplest form, if y = x^6 ln(x) [y equals x to the sixth power times the natural log of x], what is the derivative of y with respect to x?",
+        "answer": "6x<sup>5</sup> ln(x) + x<sup>5</sup>",
+        "answer_sanitized": "6x^5 ln(x) + x^5"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 2 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered toss-up 3 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered toss-up 5 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 uses degree symbols in all four polar-coordinate choices; normalized the captured letter-o degree marks.",
+      "before": {
+        "question": "Which of the following best represents the conversion of the rectangular coordinates (3, 4) into polar coordinates?<br>W) (5, 37o)<br>X) (37o, 5)<br>Y) (5, 53o)<br>Z) (53o, 5)",
+        "options": [
+          "W) (5, 37o)",
+          "X) (37o, 5)",
+          "Y) (5, 53o)",
+          "Z) (53o, 5)"
+        ],
+        "answer": "Y) (5, 53o)"
+      },
+      "changes": {
+        "question": "Which of the following best represents the conversion of the rectangular coordinates (3, 4) into polar coordinates?<br>W) (5, 37°)<br>X) (37°, 5)<br>Y) (5, 53°)<br>Z) (53°, 5)",
+        "options": [
+          "W) (5, 37°)",
+          "X) (37°, 5)",
+          "Y) (5, 53°)",
+          "Z) (53°, 5)"
+        ],
+        "answer": "Y) (5, 53°)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 7 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 9 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 11 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 12 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 shows x² + 6x + y² − 8y − 11 = 0; the captured prompt omitted the powers and both minus signs.",
+      "before": {
+        "question": "What is the radius of the circle with equation x2 + 6x + y2 8y 11= 0?"
+      },
+      "changes": {
+        "question": "What is the radius of the circle with equation x<sup>2</sup> + 6x + y<sup>2</sup> − 8y − 11 = 0?",
+        "question_sanitized": "What is the radius of the circle with equation x^2 + 6x + y^2 - 8y - 11 = 0?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 15 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 16 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 17 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 18 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 19 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 20 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 22 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered toss-up 23 section on source page 13, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered toss-up 24 section on source page 13, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Rendered source page 14 shows H₂; restored its subscript in the prompt and synchronized the embedded options, options array, and answer.",
+      "before": {
+        "question": "For the molecular orbital diagram of H 2 , in which of the following locations are the electrons located?<br>W) One electron in each hydrogen's 1s atomic orbital<br>X) Both electrons in the sigma 1s orbital<br>Y) Both electrons in the sigma* [sigma-star] 1s orbital<br>Z) Both electrons in the pi 1s orbital",
+        "options": [
+          "W) One electron in each hydrogen's 1s atomic orbital",
+          "X) Both electrons in the sigma 1s orbital",
+          "Y) Both electrons in the sigma* [sigma-star] 1s orbital",
+          "Z) Both electrons in the pi 1s orbital"
+        ],
+        "answer": "X) BOTH ELECTRONS IN THE SIGMA 1S ORBITAL"
+      },
+      "changes": {
+        "question": "For the molecular orbital diagram of H<sub>2</sub>, in which of the following locations are the electrons located?<br>W) One electron in each hydrogen’s 1s atomic orbital<br>X) Both electrons in the sigma 1s orbital<br>Y) Both electrons in the sigma* [sigma-star] 1s orbital<br>Z) Both electrons in the pi 1s orbital",
+        "question_sanitized": "For the molecular orbital diagram of H2, in which of the following locations are the electrons located?\nW) One electron in each hydrogen’s 1s atomic orbital\nX) Both electrons in the sigma 1s orbital\nY) Both electrons in the sigma* [sigma-star] 1s orbital\nZ) Both electrons in the pi 1s orbital",
+        "options": [
+          "W) One electron in each hydrogen’s 1s atomic orbital",
+          "X) Both electrons in the sigma 1s orbital",
+          "Y) Both electrons in the sigma* [sigma-star] 1s orbital",
+          "Z) Both electrons in the pi 1s orbital"
+        ],
+        "answer": "X) BOTH ELECTRONS IN THE SIGMA 1s ORBITAL"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered bonus 1 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered bonus 2 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 3 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered bonus 5 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 shows limits √2 to 3√2 and integrand 3x² + 6; it gives 64√2 as the answer. The captured answer was empty.",
+      "before": {
+        "parts": [
+          "Evaluate [the integral from the square root of 2 to the 3 times the square root of 2 of the quantity 3 x squared plus 6 dx] in simplest radical form."
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate ∫<sub>√2</sub><sup>3√2</sup> (3x<sup>2</sup> + 6) dx [the integral from the square root of 2 to the 3 times the square root of 2 of the quantity 3 x squared plus 6 dx] in simplest radical form."
+        ],
+        "parts_sanitized": [
+          "Evaluate the integral from √2 to 3√2 of (3x^2 + 6) dx [the integral from the square root of 2 to the 3 times the square root of 2 of the quantity 3 x squared plus 6 dx] in simplest radical form."
+        ],
+        "answers": [
+          "64√2"
+        ],
+        "answers_sanitized": [
+          "64√2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 7 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered bonus 9 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 11 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 12 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 13 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 shows 9^(2x) = 27^(3x − 4); the source answer is 12/5, with its full verbal cue retained.",
+      "before": {
+        "parts": [
+          "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
+        ],
+        "answers": [
+          "12/5"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9<sup>2x</sup> = 27<sup>3x − 4</sup> [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
+        ],
+        "parts_sanitized": [
+          "Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers: 9^(2x) = 27^(3x - 4) [9 to the power of 2x equals 27 to the power of the quantity 3x minus 4]."
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>12</span><span>5</span></span>"
+        ],
+        "answers_sanitized": [
+          "12/5"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 16 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 17 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 18 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered bonus 19 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 shows the curve y = √x and answer 16/3; the captured prompt omitted the curve.",
+      "before": {
+        "parts": [
+          "Providing your answer as an improper fraction in lowest terms, what is the area under the curve bounded by the x-axis, x = 4 and y = ?"
+        ],
+        "answers": [
+          "16/3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer as an improper fraction in lowest terms, what is the area under the curve bounded by the x-axis, x = 4 and y = √x?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>16</span><span>3</span></span>"
+        ],
+        "answers_sanitized": [
+          "16/3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 22 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered bonus 23 section on source page 13, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Rendered source page 14 shows Kₐ = 2 × 10⁻⁵; the captured prompt separated the subscript and flattened the exponent.",
+      "before": {
+        "parts": [
+          "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s K a is 2 x 10-5."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s K<sub>a</sub> is 2 × 10<sup>-5</sup>."
+        ],
+        "parts_sanitized": [
+          "Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s Ka is 2 x 10^-5."
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

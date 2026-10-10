@@ -1,0 +1,499 @@
+{
+  "packetIndex": 221,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd6.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source question is 115²; restored superscript 2 in the prompt.",
+      "before": {
+        "question": "What is 115 2 ?"
+      },
+      "changes": {
+        "question": "What is 115<sup>2</sup>?",
+        "question_sanitized": "What is 115²?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source answer is “GAY-LUSSAC'S LAW”; repaired the double-escaped apostrophe.",
+      "before": {
+        "answer": "GAY-LUSSAC&amp;apos;S LAW"
+      },
+      "changes": {
+        "answer": "GAY-LUSSAC'S LAW"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Short Answer Princeton Plasma Physics Lab scientists are studying ”; source answer “RADIATION (ACCEPT: RADIATIVE)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Physics – Short Answer A circuit is connected to an eight-volt battery whic”; source answer “2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Earth & Space – Multiple Choice Which of the following stellar spectral typ”; source answer “W) K”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Biology – Short Answer What structure in plants causes them to be turgid, r”; source answer “CELL WALL (ACCEPT: SECONDARY CELL WALL)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Physics – Short Answer In two minutes, you complete one lap around a circul”; source answer “0”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Multiple Choice Which of the following is an example of a f”; source answer “Z) PHYLLITE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Short Answer The Department of Energy is supporting research on id”; source answer “STREPTOCOCCUS (DO NOT ACCEPT: STREPTOCOCCI)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Chemistry – Short Answer What unit was traditionally defined as the amount ”; source answer “CALORIE (ACCEPT: SMALL CALORIE, GRAM CALORIE)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Biology – Short Answer    What specialized plant microbodies convert fats i”; source answer “GLYOXYSOMES [glye-OX-ih-sowms]”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Math – Short Answer What is the determinant of the 2-by-2 matrix with first”; source answer “–48”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Physics – Short Answer Hans Oersted [OR-sted] demonstrated that an electric”; source answer “MAGNETIC (ACCEPT: B FIELD)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Chemistry – Multiple Choice Which of the following molecules has a carboxyl”; source answer “W) BUTYRATE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Math – Short Answer An arithmetic sequence has fourth term 15 and eighth te”; source answer “6”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Energy – Short Answer Scientists at SLAC [slack] National Accelerator Lab a”; source answer “VARICELLA ZOSTER VIRUS (ACCEPT: HUMAN ALPHAHERPESVIRUS 3, VZV,”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Short Answer The boundary between the Pacific plate and the”; source answer “DIVERGENT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Multiple Choice Which of the following factors, if increased, wou”; source answer “Y) LENGTH OF THE PENDULUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Short Answer    In degrees, what is the bond angle between the ”; source answer “180”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Math – Short Answer If a universal set contains 42 elements, how many eleme”; source answer “23”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Biology – Short Answer   During what phase of meiosis [my-OH-sis] do sister”; source answer “ANAPHASE II (DO NOT ACCEPT: ANAPHASE, ANAPHASE I)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Math – Short Answer On a calculus pop quiz, 15% of the students scored 6 po”; source answer “7.4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source formula is C₅H₁₀; restored subscripts and formula grouping in the prompt.",
+      "before": {
+        "parts": [
+          "A certain hydrocarbon has the chemical formula C H . Identify all of 5 10 the following three classes of molecules that it could be: 1) Alkene; 2) Cyclo-alkane; 3) Cyclo-alkene."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A certain hydrocarbon has the chemical formula C<sub>5</sub>H<sub>10</sub>. Identify all of the following three classes of molecules that it could be: 1) Alkene; 2) Cyclo-alkane; 3) Cyclo-alkene."
+        ],
+        "parts_sanitized": [
+          "A certain hydrocarbon has the chemical formula C₅H₁₀. Identify all of the following three classes of molecules that it could be: 1) Alkene; 2) Cyclo-alkane; 3) Cyclo-alkene."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Short Answer Researchers from Georgia State University used a supe”; source answer “TATA BOX (ACCEPT: GOLDBERG-HOGNESS BOX)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Physics – Short Answer A car tire with a diameter of 0.2 meters is rotating”; source answer “9”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Earth & Space – Multiple Choice Although the Bayer designation alpha usuall”; source answer “W) ORION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Biology – Multiple Choice Which of the following ecosystems typically has t”; source answer “Z) TUNDRA”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Physics – Short Answer A section of a circuit consists of a three micro-far”; source answer “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Short Answer Foehn [fern] winds, such as the Chinook in the”; source answer “MOUNTAINS (ACCEPT: MOUNTAIN RANGES)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Multiple Choice Researchers using Los Alamos National Lab faciliti”; source answer “X) ARSENIC”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Chemistry – Multiple Choice Which of the following sulfate salts is the mos”; source answer “X) ZINC SULFATE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Biology – Short Answer What type of cellular junction typically involves in”; source answer “DESMOSOME”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Math – Short Answer The terminal side of an angle in standard position pass”; source answer “SINE = –12/13, TANGENT = 12/5 (ACCEPT 2 2/5, 2.4)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Earth & Space – Short Answer What is the term for a region of interstellar ”; source answer “H-TWO REGION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Biology – Short Answer Identify all of the following three structures that ”; source answer “ALL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Physics – Multiple Choice Which of the following uniform solids will accele”; source answer “Z) SOLID SPHERE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Chemistry – Short Answer What is the systematic IUPAC name for toluene?”; source answer “METHYLBENZENE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source circle equation has x² and y², followed by answer radius √31 and center (4, −9); restored both superscripts in the prompt.",
+      "before": {
+        "parts": [
+          "What are the radius and the coordinates of the center, respectively, of the circle with equation x 2 – 8x + y 2 + 18y + 66 = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the radius and the coordinates of the center, respectively, of the circle with equation x<sup>2</sup> – 8x + y<sup>2</sup> + 18y + 66 = 0?"
+        ],
+        "parts_sanitized": [
+          "What are the radius and the coordinates of the center, respectively, of the circle with equation x² – 8x + y² + 18y + 66 = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Energy – Multiple Choice Researchers at SLAC [slack] National Accelerator L”; source answer “Z) A DIRECT CURRENT WOULD BE INDUCED IN THE WIRE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Short Answer Identify all of the following three ocean basi”; source answer “ALL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source force is F(t) = 3t²; restored superscript 2 in the expression.",
+      "before": {
+        "parts": [
+          "A particle undergoes a net force F of t = 3t 2 , where t represents time. In SI base units, what is the change in momentum this particle undergoes from t = 0 to t = 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A particle undergoes a net force F of t = 3t<sup>2</sup>, where t represents time. In SI base units, what is the change in momentum this particle undergoes from t = 0 to t = 2?"
+        ],
+        "parts_sanitized": [
+          "A particle undergoes a net force F of t = 3t², where t represents time. In SI base units, what is the change in momentum this particle undergoes from t = 0 to t = 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Short Answer Identify all of the following three compounds that”; source answer “2 ONLY”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Math – Short Answer What is the smallest positive integer that is congruent”; source answer “34”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Biology – Short Answer In prokaryotic [PRO-care-ee-AW-tic] DNA replication,”; source answer “SINGLE-STRAND BINDING PROTEINS (ACCEPT: SINGLE-STRAND DNA-BINDING”."
+    }
+  ],
+  "packetIssues": []
+}

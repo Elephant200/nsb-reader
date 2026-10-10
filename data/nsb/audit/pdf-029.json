@@ -1,0 +1,427 @@
+{
+  "packetIndex": 29,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [1],
+      "evidence": "Compared the complete tossup 1 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 1; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [1],
+      "evidence": "Compared the complete tossup 2 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 1; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [2],
+      "evidence": "Compared the complete tossup 3 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 2; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"question":"Solve for x: (x – 3)(x + 5) = x2 + x."},
+      "changes": {"question":"Solve for x: (x – 3)(x + 5) = x<sup>2</sup> + x.","question_sanitized":"Solve for x: (x - 3)(x + 5) = x^2 + x."}
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [2],
+      "evidence": "Compared the complete tossup 4 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 2; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [3],
+      "evidence": "Compared the complete tossup 5 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 3; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [3],
+      "evidence": "Compared the complete tossup 6 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 3; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [4],
+      "evidence": "Compared the complete tossup 7 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 4; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [4],
+      "evidence": "Compared the complete tossup 8 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 4; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [5],
+      "evidence": "Compared the complete tossup 9 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 5; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"question":"What are the coordinates of the center of the circle with equation: x2 + y2 – 4x + 6y = 0?"},
+      "changes": {"question":"What are the coordinates of the center of the circle with equation: x<sup>2</sup> + y<sup>2</sup> – 4x + 6y = 0?","question_sanitized":"What are the coordinates of the center of the circle with equation: x^2 + y^2 - 4x + 6y = 0?"}
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [5],
+      "evidence": "Compared the complete tossup 10 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 5; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [6],
+      "evidence": "Compared the complete tossup 11 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 6; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [6],
+      "evidence": "Compared the complete tossup 12 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 6; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [7],
+      "evidence": "Compared the complete tossup 13 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 7; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [7],
+      "evidence": "Compared the complete tossup 14 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 7; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"question":"What are the equations of each vertical asymptote for the graph of x −1 the function f ( x) = [f of x equals the fraction with numerator x minus 1 and x3 − x denominator x cubed minus x]."},
+      "changes": {"question":"What are the equations of each vertical asymptote for the graph of the function f(x) = <span class=\"nsb-fraction\"><span>x − 1</span><span>x<sup>3</sup> − x</span></span> [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x].","question_sanitized":"What are the equations of each vertical asymptote for the graph of the function f(x) = (x - 1)/(x^3 - x) [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x]."}
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [8],
+      "evidence": "Compared the complete tossup 15 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 8; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [8],
+      "evidence": "Compared the complete tossup 16 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 8; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [9],
+      "evidence": "Compared the complete tossup 17 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 9; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [9],
+      "evidence": "Compared the complete tossup 18 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 9; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [10],
+      "evidence": "Compared the complete tossup 19 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 10; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [10],
+      "evidence": "Compared the complete tossup 20 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 10; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"question":"Evaluate lim [the limit as x goes to infinity of the fraction x to 𝑥𝑥 → ∞ 𝑒𝑒 𝑥𝑥 the fifth over e to the x]."},
+      "changes": {"question":"Evaluate lim<sub>x → ∞</sub> <span class=\"nsb-fraction\"><span>x<sup>5</sup></span><span>e<sup>x</sup></span></span> [the limit as x goes to infinity of the fraction x to the fifth over e to the x].","question_sanitized":"Evaluate the limit as x goes to infinity of x^5/e^x [the limit as x goes to infinity of the fraction x to the fifth over e to the x]."}
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [11],
+      "evidence": "Compared the complete tossup 21 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 11; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [11],
+      "evidence": "Compared the complete tossup 22 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 11; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [12],
+      "evidence": "Compared the complete tossup 24 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 12; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [13],
+      "evidence": "Compared the complete tossup 25 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 13; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"question":"Consider the following chemical reaction: NH 4 HS (s) → NH3 (g) + H2S(g). When 0.020 moles of NH4HS are placed in a 2.0 liter container and heated to 127o Celsius, all of the solid decomposes. Given that R = 0.0821 liter atmospheres per mole Kelvin, which of the following is the pressure in atmospheres inside the container?<br>W) 0.02<br>X) 0.16<br>Y) 0.66<br>Z) 1.0"},
+      "changes": {"question":"Consider the following chemical reaction: NH<sub>4</sub>HS (s) → NH<sub>3</sub> (g) + H<sub>2</sub>S (g). When 0.020 moles of NH<sub>4</sub>HS are placed in a 2.0 liter container and heated to 127° Celsius, all of the solid decomposes. Given that R = 0.0821 liter atmospheres per mole Kelvin, which of the following is the pressure in atmospheres inside the container?<br>W) 0.02<br>X) 0.16<br>Y) 0.66<br>Z) 1.0","question_sanitized":"Consider the following chemical reaction: NH4HS (s) -> NH3 (g) + H2S (g). When 0.020 moles of NH4HS are placed in a 2.0 liter container and heated to 127 degrees Celsius, all of the solid decomposes. Given that R = 0.0821 liter atmospheres per mole Kelvin, which of the following is the pressure in atmospheres inside the container? W) 0.02; X) 0.16; Y) 0.66; Z) 1.0"}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [1],
+      "evidence": "Compared the complete bonus 1 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 1; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [1],
+      "evidence": "Compared the complete bonus 2 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 1; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"parts":["What is the common name for the amino acid having the side chain of methyl, CH 3 ?"]},
+      "changes": {"parts":["What is the common name for the amino acid having the side chain of methyl, CH<sub>3</sub>?"],"parts_sanitized":["What is the common name for the amino acid having the side chain of methyl, CH3?"]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [2],
+      "evidence": "Compared the complete bonus 3 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 2; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"parts":["Find the coordinates of the point on the graph of 𝑓𝑓(𝑥𝑥) = 2 + 4√𝑥𝑥 where the tangent line is parallel to the line 4x – 6y = 3."]},
+      "changes": {"parts":["Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x – 6y = 3."],"parts_sanitized":["Find the coordinates of the point on the graph of f(x) = 2 + 4 square root of x where the tangent line is parallel to the line 4x - 6y = 3."]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [2],
+      "evidence": "Compared the complete bonus 4 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 2; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"parts":["Which of the following is the frequency, in hertz, of a 50 megavolt photon, given 6.6 × 10−34 joule seconds as Planck's constant and 1.6 × 10−19 coulombs as the elementary charge?<br>W) 1.2 × 1024<br>X) 8.3 × 1023<br>Y) 1.2 × 1022<br>Z) 8.3 × 1021"],"answers":["Y) 1.2 × 1022"],"options":["W) 1.2 × 1024","X) 8.3 × 1023","Y) 1.2 × 1022","Z) 8.3 × 1021"]},
+      "changes": {"parts":["Which of the following is the frequency, in hertz, of a 50 megavolt photon, given 6.6 × 10<sup>−34</sup> joule seconds as Planck's constant and 1.6 × 10<sup>−19</sup> coulombs as the elementary charge?<br>W) 1.2 × 10<sup>24</sup><br>X) 8.3 × 10<sup>23</sup><br>Y) 1.2 × 10<sup>22</sup><br>Z) 8.3 × 10<sup>21</sup>"],"parts_sanitized":["Which of the following is the frequency, in hertz, of a 50 megavolt photon, given 6.6 × 10^(-34) joule seconds as Planck's constant and 1.6 × 10^(-19) coulombs as the elementary charge? W) 1.2 × 10^24; X) 8.3 × 10^23; Y) 1.2 × 10^22; Z) 8.3 × 10^21"],"answers":["Y) 1.2 × 10<sup>22</sup>"],"answers_sanitized":["Y) 1.2 × 10^22"],"options":["W) 1.2 × 10<sup>24</sup>","X) 8.3 × 10<sup>23</sup>","Y) 1.2 × 10<sup>22</sup>","Z) 8.3 × 10<sup>21</sup>"]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [3],
+      "evidence": "Compared the complete bonus 5 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 3; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [3],
+      "evidence": "Compared the complete bonus 6 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 3; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [4],
+      "evidence": "Compared the complete bonus 7 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 4; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [4],
+      "evidence": "Compared the complete bonus 8 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 4; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"answers":["2 x 10-6"]},
+      "changes": {"answers":["2 × 10<sup>-6</sup>"],"answers_sanitized":["2 × 10^(-6)"]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [5],
+      "evidence": "Compared the complete bonus 9 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 5; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"parts":["Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x2 – 5x at the point (1, -2)?"]},
+      "changes": {"parts":["Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x<sup>2</sup> – 5x at the point (1, -2)?"],"parts_sanitized":["Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x^2 - 5x at the point (1, -2)?"]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [5],
+      "evidence": "Compared the complete bonus 10 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 5; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [6],
+      "evidence": "Compared the complete bonus 11 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 6; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"answers":["103 (ACCEPT: 104)"]},
+      "changes": {"answers":["10<sup>3</sup> (ACCEPT: 10<sup>4</sup>)"],"answers_sanitized":["10^3 (ACCEPT: 10^4)"]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [6],
+      "evidence": "Compared the complete bonus 12 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 6; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [7],
+      "evidence": "Compared the complete bonus 13 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 7; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [7],
+      "evidence": "Compared the complete bonus 14 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 7; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"parts":["What is the value of the differential approximation error dy - ∆y [dy minus delta y] for y = x2 + 2 as x changes from 1 to 1.1?"]},
+      "changes": {"parts":["What is the value of the differential approximation error dy - ∆y [dy minus delta y] for y = x<sup>2</sup> + 2 as x changes from 1 to 1.1?"],"parts_sanitized":["What is the value of the differential approximation error dy - delta y [dy minus delta y] for y = x^2 + 2 as x changes from 1 to 1.1?"]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [8],
+      "evidence": "Compared the complete bonus 15 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 8; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [8],
+      "evidence": "Compared the complete bonus 16 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 8; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [9],
+      "evidence": "Compared the complete bonus 17 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 9; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [9],
+      "evidence": "Compared the complete bonus 18 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 9; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [10],
+      "evidence": "Compared the complete bonus 19 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 10; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [10],
+      "evidence": "Compared the complete bonus 20 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 10; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"parts":["In interval notation, give the open interval on which the function f(x) = x3 + 12x2 – 3 is concave down."]},
+      "changes": {"parts":["In interval notation, give the open interval on which the function f(x) = x<sup>3</sup> + 12x<sup>2</sup> – 3 is concave down."],"parts_sanitized":["In interval notation, give the open interval on which the function f(x) = x^3 + 12x^2 - 3 is concave down."]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [11],
+      "evidence": "Compared the complete bonus 21 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 11; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "before": {"parts":["Kirk’s hearing has minimum audible intensity of 1.0 x 10-12 watts per square meter. If Kirk listens to a sound of intensity 1.0 x 10-11 watts per square meter, what is its sound level in decibels?"]},
+      "changes": {"parts":["Kirk’s hearing has minimum audible intensity of 1.0 × 10<sup>-12</sup> watts per square meter. If Kirk listens to a sound of intensity 1.0 × 10<sup>-11</sup> watts per square meter, what is its sound level in decibels?"],"parts_sanitized":["Kirk’s hearing has minimum audible intensity of 1.0 × 10^(-12) watts per square meter. If Kirk listens to a sound of intensity 1.0 × 10^(-11) watts per square meter, what is its sound level in decibels?"]}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [11],
+      "evidence": "Compared the complete bonus 22 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 11; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [12],
+      "evidence": "Compared the complete bonus 23 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 12; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [12],
+      "evidence": "Compared the complete bonus 24 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 12; number, kind, and stem match the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [13],
+      "evidence": "Compared the complete bonus 25 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 13; number, kind, and stem match the PDF."
+    }
+  ],
+  "packetIssues": []
+}

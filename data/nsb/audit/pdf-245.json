@@ -1,0 +1,426 @@
+{
+  "packetIndex": 245,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-3.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 keys CARBONIC ACID and accepts H₂CO₃; the corpus has the subscripts displaced.",
+      "before": {
+        "answer": "CARBONIC ACID (ACCEPT: H CO ) 2 3"
+      },
+      "changes": {
+        "answer": "CARBONIC ACID (ACCEPT: H<sub>2</sub>CO<sub>3</sub>)",
+        "answer_sanitized": "CARBONIC ACID (ACCEPT: H₂CO₃)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists Gravity, Electromagnetic, Weak, and Strong and keys Z) STRONG."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints y = 1.9x + 5.3 and keys 1.9, accepting 1 9/10 and 19/10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists Planck’s law, Maxwell-Boltzmann equation, Wien’s law, and Clausius-Clapeyron relation; key X."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “highly-” at the line end before “productive” and keys W) EUTROPHIC.",
+      "before": {
+        "question": "Which of the following best describes the trophic [TROH-fik] status of a green and highly- productive lake?<br>W) Eutrophic<br>X) Oligotrophic [AW-lig-oh-troh-fik]<br>Y) Mesotrophic<br>Z) Dystrophic"
+      },
+      "changes": {
+        "question": "Which of the following best describes the trophic [TROH-fik] status of a green and highly-productive lake?<br>W) Eutrophic<br>X) Oligotrophic [AW-lig-oh-troh-fik]<br>Y) Mesotrophic<br>Z) Dystrophic"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks for fixed volume and shape and keys SOLID; the bonus separately spells out n equals one to n equals infinity."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks for the largest-earthquake plate boundary and gives CONVERGENT, accepting both listed alternatives."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 gives all four special-relativity statements and keys Y) EVENTS CAN OCCUR IN DIFFERENT ORDERS FOR DIFFERENT OBSERVERS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints y = x² − 6x + 7 and answer 8; the extracted exponent is baseline.",
+      "before": {
+        "question": "What is the discriminant of the quadratic function y = x 2 – 6x + 7?"
+      },
+      "changes": {
+        "question": "What is the discriminant of the quadratic function y = x<sup>2</sup> – 6x + 7?",
+        "question_sanitized": "What is the discriminant of the quadratic function y = x^2 – 6x + 7?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists momentum, impulse, and force as the three vectors and keys ALL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 keys DIASTOLE and accepts DIASTOLIC for the relaxing-ventricle phase."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists fractional distillation, chromatography, NMR spectroscopy, and mass spectrometry; key W."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints the Galilean pronunciation cue across a line break as gal-ih-LAY-en, shows all four moon choices and pronunciation cues, and keys Z) IO.",
+      "before": {
+        "question": "What Galilean [gal-ih- LAY-en] moon is the closest to Jupiter, and subjected to intense tidal heating that drives prolific volcanism?<br>W) Callisto [kah-LIS-toh]<br>X) Ganymede [GAN-ih-meed]<br>Y) Titan<br>Z) Io [EYE-oh]"
+      },
+      "changes": {
+        "question": "What Galilean [gal-ih-LAY-en] moon is the closest to Jupiter, and subjected to intense tidal heating that drives prolific volcanism?<br>W) Callisto [kah-LIS-toh]<br>X) Ganymede [GAN-ih-meed]<br>Y) Titan<br>Z) Io [EYE-oh]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 gives nitrogen, neon, xenon [ZEE-non], argon and keys Z) ARGON."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 prints 5x² − 11x + 3 and answer −3; the extracted exponent is baseline.",
+      "before": {
+        "question": "If f of x is equal to 5x 2 – 11x + 3, what is f of 1?"
+      },
+      "changes": {
+        "question": "If f of x is equal to 5x<sup>2</sup> – 11x + 3, what is f of 1?",
+        "question_sanitized": "If f of x is equal to 5x^2 – 11x + 3, what is f of 1?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 gives the four parallel-resistor statements and keys Y) EACH RESISTOR HAS THE SAME VOLTAGE ACROSS IT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists magnesium, iron, calcium, and zinc and keys X) IRON."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 lists gasoline, air, smoke, and vinegar, and keys Y) SMOKE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists Gabbro, Basalt, and Rhyolite [RYE-oh-lite] as the numbered rocks and keys 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 includes toroidal [tore-OY-dul], Tokamak [TOH-kah-mak], and all four device choices; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 gives fourth term 7 and eighth term 31 and keys positive difference 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 states 6 amperes for one minute and keys 360 coulombs."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists all four mitochondrial metabolic-reaction choices and the Glycolysis cue; key X."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints the n equals one to n equals infinity transition wording and keys IONIZATION ENERGY, accepting IONIZATION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 includes ultramafic [ultra-MAY-fik], both mineral pronunciation cues, all four choices, and key W) OLIVINE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists four descriptions of linearly polarized light and keys X) MAGNETIC FIELD ALIGNED IN A SINGLE DIRECTION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists four inverse-trigonometric choices for the 12-foot ladder and keys Y) INVERSE SINE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 keys KEPLER’S SECOND LAW, accepts KEPLER’S SECOND, and preserves the explicit rejection of KEPLER’S."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 keys carbon, hydrogen, and oxygen in any order."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 includes the ionizability and polarizability pronunciation cues, all four choices, and keys X) POLARIZABILITY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 asks about a fivefold telescope diameter and keys factor 25."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 visibly prints hafnia formula HfO₂ with [HALF-nee-um] and keys +4, accepting 4.",
+      "before": {
+        "parts": [
+          "Researchers at Argonne National Lab are modeling the properties of hafnia, which has chemical formula HfO . In this compound, what is the oxidation state of hafnium 2 [HALF-nee-um]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Researchers at Argonne National Lab are modeling the properties of hafnia, which has chemical formula HfO<sub>2</sub>. In this compound, what is the oxidation state of hafnium [HALF-nee-um]?"
+        ],
+        "parts_sanitized": [
+          "Researchers at Argonne National Lab are modeling the properties of hafnia, which has chemical formula HfO₂. In this compound, what is the oxidation state of hafnium [HALF-nee-um]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 prints x² + 2 inside the spoken parenthesis wording and keys 27; the extracted 2 is baseline.",
+      "before": {
+        "parts": [
+          "What is the integral from 1 to 4 of open parenthesis x 2 + 2 close parenthesis dx?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the integral from 1 to 4 of open parenthesis x<sup>2</sup> + 2 close parenthesis dx?"
+        ],
+        "parts_sanitized": [
+          "What is the integral from 1 to 4 of open parenthesis x^2 + 2 close parenthesis dx?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists Planck, Boltzmann, Newton, and fine-structure constants and keys X) BOLTZMANN CONSTANT."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 includes denitrification and methanogenesis pronunciation cues, all four choices, and keys Z) RESPIRATION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 gives all four silver-nitrate/sodium-chloride statements and keys X) SILVER ION IS A SPECTATOR ION."
+    }
+  ],
+  "packetIssues": []
+}

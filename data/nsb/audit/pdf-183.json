@@ -1,0 +1,506 @@
+{
+  "packetIndex": 183,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 183 PDF page 1 shows toss-up 1 beginning “A student is holding two balloons, one containing one mole of hydrogen g”; checked its complete printed text, all four choices (W) 1/2; X) 1; Y) 2; Z) 4), and answer against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 183 PDF page 1 shows toss-up 2 beginning “The radioactive decay of magnesium-23 to sodium-23 is mediated by which ”; checked its complete printed text and answer “WEAK FORCE (ACCEPT: WEAK NUCLEAR FORCE)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 183 PDF page 2 shows toss-up 3 beginning “Researchers at Lawrence Berkeley National Lab are studying a tunable, hy”; checked its complete printed text and answer “HYDROGEN” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 183 PDF page 2 shows toss-up 4 beginning “Glucagon [GLUE-kah-gon] is primarily manufactured in the alpha cells of ”; checked its complete printed text and answer “PANCREAS” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 183 PDF page 3 shows toss-up 5 beginning “In the expansion of the cube of a + 2b, what is the coefficient of the a”; checked its complete printed text and answer “12” against the source.",
+      "before": {
+        "question": "In the expansion of the cube of a + 2b, what is the coefficient of the ab 2 term?"
+      },
+      "changes": {
+        "question": "In the expansion of the cube of a + 2b, what is the coefficient of the ab<sup>2</sup> term?",
+        "question_sanitized": "In the expansion of the cube of a + 2b, what is the coefficient of the a b squared term?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 183 PDF page 4 shows toss-up 7 beginning “How many ligands [LIH-gundz] does a molecule with octahedral geometry po”; checked its complete printed text and answer “SIX” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 183 PDF page 4 shows toss-up 8 beginning “A car is uniformly accelerating in a straight line, traveling 120 meters”; checked its complete printed text and answer “7” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 183 PDF page 5 shows toss-up 9 beginning “The Deep Underground Neutrino [new-TREE-no] Experiment is an effort at F”; checked its complete printed text and answer “OSCILLATION” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 183 PDF page 5 shows toss-up 10 beginning “What is the arc length of a sector of a circle with radius 2 and central”; checked its complete printed text and answer “2π/3 (ACCEPT:” against the source.",
+      "before": {
+        "question": "What is the arc length of a sector of a circle with radius 2 and central angle pi over three? (2/3)π)",
+        "answer": "2π/3 (ACCEPT:"
+      },
+      "changes": {
+        "question": "What is the arc length of a sector of a circle with radius 2 and central angle pi over three?",
+        "question_sanitized": "What is the arc length of a sector of a circle with radius 2 and central angle pi over three?",
+        "answer": "2π/3 (ACCEPT: (2/3)π)",
+        "answer_sanitized": "2π/3 (ACCEPT: (2/3)π)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 183 PDF page 6 shows toss-up 11 beginning “What is the term for the point of origin within the Earth of seismic wav”; checked its complete printed text and answer “FOCUS (ACCEPT: HYPOCENTER)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 183 PDF page 6 shows toss-up 12 beginning “Beadle and Tatum’s one gene-one enzyme hypothesis was formed from the re”; checked its complete printed text, all four choices (W) Operon inhibition; X) Amino acid biosynth; Y) DNA replication; Z) Limited proteolysis), and answer against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 183 PDF page 7 shows toss-up 13 beginning “If f of x is equal to 5x 2 – 6x + 2, what is f of 3?”; checked its complete printed text and answer “29” against the source.",
+      "before": {
+        "question": "If f of x is equal to 5x 2 – 6x + 2, what is f of 3?"
+      },
+      "changes": {
+        "question": "If f of x is equal to 5x<sup>2</sup> – 6x + 2, what is f of 3?",
+        "question_sanitized": "If f of x is equal to 5x squared – 6x + 2, what is f of 3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 183 PDF page 7 shows toss-up 14 beginning “What physical quantity is defined as the rate of change of a particle’s ”; checked its complete printed text and answer “POWER” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 183 PDF page 8 shows toss-up 15 beginning “The first useful nuclear-generated electricity was produced in Idaho in ”; checked its complete printed text and answer “ARGONNE NATIONAL LAB (ACCEPT: ARGONNE)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 183 PDF page 8 shows toss-up 16 beginning “Which of the following minerals would be found in least abundance in a t”; checked its complete printed text, all four choices (W) Muscovite; X) Plagioclase [PLAY-j; Y) Augite [AW-jite]; Z) Hornblende), and answer against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 183 PDF page 9 shows toss-up 17 beginning “What is the hybridization [HIGH-brih-dye-ZAY-shun] of the carbon atoms i”; checked its complete printed text and answer “sp3” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 183 PDF page 9 shows toss-up 18 beginning “Sand dollars belong to what phylum [FYE-lum]?”; checked its complete printed text and answer “ECHINODERMATA” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 183 PDF page 10 shows toss-up 19 beginning “What is the slope of the line that passes through the points (6, 2) and ”; checked its complete printed text and answer “1/4 (ACCEPT: 0.25)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 183 PDF page 10 shows toss-up 20 beginning “Which of the following length scales best describes the spatial distorti”; checked its complete printed text, all four choices (W) Length of the inter; X) Wavelength of the h; Y) Radius of a silver ; Z) Thousandth of a pro), and answer against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 183 PDF page 11 shows toss-up 21 beginning “What is the brightest star in the constellation Orion?”; checked its complete printed text and answer “RIGEL” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 183 PDF page 11 shows toss-up 22 beginning “In order for tropomyosin [troh-poh-MY-oh-sin] to be removed from the myo”; checked its complete printed text and answer “CALCIUM (ACCEPT: CALCIUM TWO PLUS)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 183 PDF page 12 shows toss-up 23 beginning “According to VSEPR theory, what is the electron-pair geometry of the cen”; checked its complete printed text and answer “TRIGONAL BIPYRAMIDAL” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 183 PDF page 1 shows bonus 1 beginning “Rank the following three elements in increasing order of atomic radius: ”; checked its complete printed text and answer “2, 3, 1” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 183 PDF page 1 shows bonus 2 beginning “A block rests on an inclined plane angled at 30 degrees from the horizon”; checked its complete printed text and answer “(ACCEPT: TO 1)” against the source.",
+      "before": {
+        "parts": [
+          "A block rests on an inclined plane angled at 30 degrees from the horizontal. What is the ratio of the normal force to the force down the surface of the plane? √3 √3"
+        ],
+        "answers": [
+          "(ACCEPT: TO 1)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A block rests on an inclined plane angled at 30 degrees from the horizontal. What is the ratio of the normal force to the force down the surface of the plane?"
+        ],
+        "answers": [
+          "√3 (ACCEPT: √3 TO 1)"
+        ],
+        "parts_sanitized": [
+          "A block rests on an inclined plane angled at 30 degrees from the horizontal. What is the ratio of the normal force to the force down the surface of the plane?"
+        ],
+        "answers_sanitized": [
+          "√3 (ACCEPT: √3 TO 1)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 183 PDF page 2 shows bonus 3 beginning “Identify all of the following three fuels that could be used in a fuel c”; checked its complete printed text and answer “ALL” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 183 PDF page 2 shows bonus 4 beginning “A molecular biologist wishes to move a section of DNA from one plasmid t”; checked its complete printed text and answer “LIGASE (ACCEPT: DNA LIGASE, RECOMBINASE)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 183 PDF page 3 shows bonus 5 beginning “Solve the following system of 2 equations: 2x + y = 5 and x – y = 1.”; checked its complete printed text and answer “(2, 1) (ACCEPT: x = 2 AND y = 1)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 183 PDF page 4 shows bonus 7 beginning “Rank the following three elements in increasing order of first ionizatio”; checked its complete printed text and answer “1, 2, 3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 183 PDF page 4 shows bonus 8 beginning “What is the equivalent resistance, in ohms, of a circuit composed of a 2”; checked its complete printed text and answer “8/5 (ACCEPT 1 3/5 or 1.6)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 183 PDF page 5 shows bonus 9 beginning “Which of the following is the most important difference between fast nuc”; checked its complete printed text, all four choices (W) They use different ; X) Unlike thermal reac; Y) Thermal reactors ha; Z) Thermal reactors ru), and answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 183 PDF page 5 shows bonus 10 beginning “A student has a paper cup in the shape of a right circular cone, with a ”; checked its complete printed text and answer “6” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 183 PDF page 6 shows bonus 11 beginning “What name is given to the boundary between the Earth’s crust and mantle ”; checked its complete printed text and answer “MOHO (ACCEPT: MOHOROVICIC DISCONTINUITY)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 183 PDF page 6 shows bonus 12 beginning “Identify all of the following three plant nutrients that are required fo”; checked its complete printed text and answer “1” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 183 PDF page 7 shows bonus 13 beginning “What is the limit as x approaches 0 of the fraction with numerator x + s”; checked its complete printed text and answer “2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 183 PDF page 7 shows bonus 14 beginning “A linear spring is hung from the ceiling. When a 1-kilogram block is hun”; checked its complete printed text and answer “0.25 (ACCEPT: ¼)” against the source.",
+      "before": {
+        "parts": [
+          "A linear spring is hung from the ceiling. When a 1-kilogram block is hung from the spring, the spring&amp;apos;s length increases by 2 meters. If another 1-kilogram block is hung from 8 similar springs connected in parallel, then, in meters, what will be the change in length of each of the springs?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A linear spring is hung from the ceiling. When a 1-kilogram block is hung from the spring, the spring's length increases by 2 meters. If another 1-kilogram block is hung from 8 similar springs connected in parallel, then, in meters, what will be the change in length of each of the springs?"
+        ],
+        "parts_sanitized": [
+          "A linear spring is hung from the ceiling. When a 1-kilogram block is hung from the spring, the spring's length increases by 2 meters. If another 1-kilogram block is hung from 8 similar springs connected in parallel, then, in meters, what will be the change in length of each of the springs?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 183 PDF page 8 shows bonus 15 beginning “The electrodes in hydrogen fuel cells are generally composed of what cat”; checked its complete printed text and answer “PLATINUM” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 183 PDF page 8 shows bonus 16 beginning “Identify all of the following three features that are associated with ka”; checked its complete printed text and answer “ALL” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 183 PDF page 9 shows bonus 17 beginning “Rank the following three elements in increasing order of boiling point: ”; checked its complete printed text and answer “2, 3, 1” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 183 PDF page 9 shows bonus 18 beginning “Identify all of the following three statements that are true regarding p”; checked its complete printed text and answer “1” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 183 PDF page 10 shows bonus 19 beginning “What is the units digit of 3 raised to the 33 rd power?”; checked its complete printed text and answer “3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 183 PDF page 10 shows bonus 20 beginning “The spin quantum number is so named because spin can be expressed in whi”; checked its complete printed text, all four choices (W) Kilogram-meters-squ; X) Pascal [Pass-KAL]-m; Y) Coulomb [KOO-lawm]-; Z) Watt-second), and answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 183 PDF page 11 shows bonus 21 beginning “What is the term for objects that revolve around the Sun between the orb”; checked its complete printed text and answer “CENTAURS (DO NOT ACCEPT: NEPTUNE TROJANS)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 183 PDF page 11 shows bonus 22 beginning “Cerebrospinal [seh-REE-broh-SPY-nul] fluid is produced by ependymal cell”; checked its complete printed text and answer “VENTRICLES (ACCEPT: LATERAL VENTRICLE, FOURTH VENTRICLE)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 183 PDF page 12 shows bonus 23 beginning “Identify all of the following three properties of a liquid that decrease”; checked its complete printed text and answer “2 AND 3” against the source."
+    }
+  ],
+  "packetIssues": []
+}

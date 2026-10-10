@@ -1,0 +1,644 @@
+{
+  "packetIndex": 24,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round8.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation restored in the replacement.",
+      "before": {
+        "question": "If y = -x2, what is the slope of the tangent line to the graph at x = 4?"
+      },
+      "changes": {
+        "question": "If y = −x<sup>2</sup>, what is the slope of the tangent line to the graph at x = 4?",
+        "question_sanitized": "If y = -x^2, what is the slope of the tangent line to the graph at x = 4?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation restored in the replacement.",
+      "before": {
+        "question": "Given the speed of light in a vacuum to be 3 x 108 meters per second, what is the index of refraction for a medium where the speed of light is found to be 2.5 x 108 meters per second?"
+      },
+      "changes": {
+        "question": "Given the speed of light in a vacuum to be 3 × 10<sup>8</sup> meters per second, what is the index of refraction for a medium where the speed of light is found to be 2.5 × 10<sup>8</sup> meters per second?",
+        "question_sanitized": "Given the speed of light in a vacuum to be 3 × 10^8 meters per second, what is the index of refraction for a medium where the speed is 2.5 × 10^8 meters per second?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "A nimble minded Science Bowl contestant makes a concentrated solution of sodium hydroxide which she adds to a solution of potassium permanganate. The permanganate ion reacts to form which of the following?<br>W) MnO 4 2-<br>X) MnO 4 -<br>Y) Mn 2 O 3<br>Z) Mn2+",
+        "options": [
+          "W) MnO 4 2-",
+          "X) MnO 4 -",
+          "Y) Mn 2 O 3",
+          "Z) Mn2+"
+        ]
+      },
+      "changes": {
+        "question": "A nimble minded Science Bowl contestant makes a concentrated solution of sodium hydroxide which she adds to a solution of potassium permanganate. The permanganate ion reacts to form which of the following?<br>W) MnO<sub>4</sub><sup>2−</sup><br>X) MnO<sub>4</sub><sup>−</sup><br>Y) Mn<sub>2</sub>O<sub>3</sub><br>Z) Mn<sup>2+</sup>",
+        "options": [
+          "W) MnO<sub>4</sub><sup>2−</sup>",
+          "X) MnO<sub>4</sub><sup>−</sup>",
+          "Y) Mn<sub>2</sub>O<sub>3</sub>",
+          "Z) Mn<sup>2+</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 confirms the notation restored in the replacement.",
+      "before": {
+        "question": "Consider the following reaction: Cl 2 (g) + 2NaOH (aq) → NaOCl (aq) +H 2 O (l) + NaCl (aq) . Which of the following is true?<br>W) This is a disproportionation reaction<br>X) The oxidation number of the oxygen changes<br>Y) The oxidation number of the sodium changes<br>Z) The oxidation number of the chlorine remains constant",
+        "answer": "W) THIS IS A DISPROPORTIONATION REACTION [(G) = GAS; (AQ) = AQUEOUS; (L) = LIQUID]"
+      },
+      "changes": {
+        "question": "Consider the following reaction: Cl<sub>2</sub>(g) + 2NaOH(aq) → NaOCl(aq) + H<sub>2</sub>O(l) + NaCl(aq). Which of the following is true?<br>W) This is a disproportionation reaction<br>X) The oxidation number of the oxygen changes<br>Y) The oxidation number of the sodium changes<br>Z) The oxidation number of the chlorine remains constant",
+        "answer": "W) THIS IS A DISPROPORTIONATION REACTION [(G) = GAS; (AQ) = AQUEOUS; (L) = LIQUID]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "A DoE researcher runs a redox reaction for a Daniell cell: Cu 2+ (aq) + Zn (s) → Zn2+ (aq) + Cu (s) . Given that the equilibrium constant for this reaction is 1.65 x 1037 at 25 degrees Celsius, the E0 [ E naught] and the ∆G0 [delta G zero] for this reaction are which of the following?<br>W) Both positive<br>X) Both negative<br>Y) Both zero<br>Z) E0 is positive and ∆G0 is negative",
+        "answer": "Z) E0 IS POSITIVE AND ∆G0 IS NEGATIVE [(AQ) = AQUEOUS; (S) = SOLID]",
+        "options": [
+          "W) Both positive",
+          "X) Both negative",
+          "Y) Both zero",
+          "Z) E0 is positive and ∆G0 is negative"
+        ]
+      },
+      "changes": {
+        "question": "A DoE researcher runs a redox reaction for a Daniell cell: Cu<sup>2+</sup>(aq) + Zn(s) → Zn<sup>2+</sup>(aq) + Cu(s). Given that the equilibrium constant for this reaction is 1.65 × 10<sup>37</sup> at 25 degrees Celsius, the E⁰ [E naught] and the ∆G⁰ [delta G zero] for this reaction are which of the following?<br>W) Both positive<br>X) Both negative<br>Y) Both zero<br>Z) E⁰ is positive and ∆G⁰ is negative",
+        "answer": "Z) E⁰ IS POSITIVE AND ∆G⁰ IS NEGATIVE [(AQ) = AQUEOUS; (S) = SOLID]",
+        "question_sanitized": "A DoE researcher runs a redox reaction for a Daniell cell: Cu^2+(aq) + Zn(s) -> Zn^2+(aq) + Cu(s). Given that the equilibrium constant for this reaction is 1.65 × 10^37 at 25 degrees Celsius, the E naught [E naught] and the delta G zero [delta G zero] for this reaction are which of the following? W) Both positive; X) Both negative; Y) Both zero; Z) E naught is positive and delta G zero is negative",
+        "options": [
+          "W) Both positive",
+          "X) Both negative",
+          "Y) Both zero",
+          "Z) E⁰ is positive and ∆G⁰ is negative"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation restored in the replacement.",
+      "before": {
+        "parts": [
+          "Evaluate ∑30 𝑘𝑘=1(3𝑘𝑘 + 2) [the summation from k equals 1 to 30 of the quantity 3 k plus 2]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate ∑<sub>k=1</sub><sup>30</sup>(3k + 2) [the summation from k equals 1 to 30 of the quantity 3k plus 2]."
+        ],
+        "parts_sanitized": [
+          "Evaluate the summation from k = 1 to 30 of (3k + 2) [the summation from k equals 1 to 30 of the quantity 3 k plus 2]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the answer 2√3 with Round Robin Round 8, page 2; it matches the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 confirms the notation restored in the replacement.",
+      "before": {
+        "parts": [
+          "Find the x-coordinates of every point on the graph of f(x) = x3 + 3x2 – 9x + 3 where the tangent line is horizontal."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the x-coordinates of every point on the graph of f(x) = x<sup>3</sup> + 3x<sup>2</sup> − 9x + 3 where the tangent line is horizontal."
+        ],
+        "parts_sanitized": [
+          "Find the x-coordinates of every point on the graph of f(x) = x^3 + 3x^2 - 9x + 3 where the tangent line is horizontal."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 confirms the notation restored in the replacement.",
+      "before": {
+        "parts": [
+          "At 25° Celsius, the standard reduction potential of Fe3+ to Fe2+ is +0.77 volts. Providing your answer to two significant figures, what is the potential, in volts, of a platinum electrode dipped in a solution of 0.0005 molar Fe3+ and 0.05 molar Fe2+?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "At 25° Celsius, the standard reduction potential of Fe<sup>3+</sup> to Fe<sup>2+</sup> is +0.77 volts. Providing your answer to two significant figures, what is the potential, in volts, of a platinum electrode dipped in a solution of 0.0005 molar Fe<sup>3+</sup> and 0.05 molar Fe<sup>2+</sup>?"
+        ],
+        "parts_sanitized": [
+          "At 25° Celsius, the standard reduction potential of Fe^3+ to Fe^2+ is +0.77 volts. Providing your answer to two significant figures, what is the potential, in volts, of a platinum electrode dipped in a solution of 0.0005 molar Fe^3+ and 0.05 molar Fe^2+?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 confirms the notation restored in the replacement.",
+      "before": {
+        "parts": [
+          "What is the electron count for Pd(PPh 3 ) 2 Br 2 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the electron count for Pd(PPh<sub>3</sub>)<sub>2</sub>Br<sub>2</sub>?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 confirms the notation restored in the replacement.",
+      "before": {
+        "parts": [
+          "If sin θ + cos θ = [sine of theta plus cosine of theta equals one 3 third], find sin 2θ. 8"
+        ],
+        "answers": [
+          "− 9"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If sin θ + cos θ = <span class=\"nsb-fraction\"><span>1</span><span>3</span></span> [sine of theta plus cosine of theta equals one third], find sin 2θ."
+        ],
+        "parts_sanitized": [
+          "If sin θ + cos θ = 1/3 [sine of theta plus cosine of theta equals one third], find sin 2θ."
+        ],
+        "answers": [
+          "−<span class=\"nsb-fraction\"><span>8</span><span>9</span></span>"
+        ],
+        "answers_sanitized": [
+          "-8/9"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "parts": [
+          "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain end radical. All except which of the following are strong stabilizers of the radical?<br>W) CN<br>X) C 6 H 5<br>Y) OCH 3<br>Z) CO 2 CH 3"
+        ],
+        "options": [
+          "W) CN",
+          "X) C 6 H 5",
+          "Y) OCH 3",
+          "Z) CO 2 CH 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain-end radical. All except which of the following are strong stabilizers of the radical?<br>W) CN<br>X) C<sub>6</sub>H<sub>5</sub><br>Y) OCH<sub>3</sub><br>Z) CO<sub>2</sub>CH<sub>3</sub>"
+        ],
+        "parts_sanitized": [
+          "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain-end radical. All except which of the following are strong stabilizers of the radical? W) CN; X) C6H5; Y) OCH3; Z) CO2CH3"
+        ],
+        "options": [
+          "W) CN",
+          "X) C<sub>6</sub>H<sub>5</sub>",
+          "Y) OCH<sub>3</sub>",
+          "Z) CO<sub>2</sub>CH<sub>3</sub>"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

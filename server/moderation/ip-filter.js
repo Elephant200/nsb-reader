@@ -1,22 +1,14 @@
-import { accountInfo } from '../../database/databases.js';
-const ipBans = accountInfo.collection('ip-bans');
-
-async function getBannedIps () {
-  try {
-    return await ipBans.find().toArray().then(results => results.map(result => result.ipv4));
-  } catch (error) {
-    return [];
-  }
-}
-
-const ips = await getBannedIps();
+const configuredBans = (process.env.BANNED_IPS ?? '')
+  .split(',')
+  .map(ip => ip.trim())
+  .filter(Boolean);
 
 export const clientIp = (req, _res) => {
   return req.headers['x-forwarded-for'] ? (req.headers['x-forwarded-for']).split(',')[0] : req.ip;
 };
 
 export function isBannedIp (ip) {
-  return ips.includes(ip);
+  return configuredBans.includes(ip);
 }
 
 export const ipFilterMiddleware = (req, res, next) => {

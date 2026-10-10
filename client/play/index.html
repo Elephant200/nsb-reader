@@ -1,24 +1,15 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-    <title>QBReader - Play</title>
+    <title>NSB Reader - Play</title>
     <!--#include virtual="/ssi/head.html" -->
-    <meta name="description" content="A text-based quizbowl packet reader to read questions to yourself.">
+    <meta name="description" content="Choose solo, multiplayer, or in-person National Science Bowl practice.">
 </head>
-
 <body>
     <!--#include virtual="/ssi/nav.html" -->
-
-    <div class="container-xl mt-3 mb-5 pb-5">
-        <p class="lead">Play quizbowl questions by yourself.</p>
-        <p>
-            <a type="button" class="btn btn-primary" href="./tossups/">Tossups</a>
-            <a type="button" class="btn btn-primary" href="./bonuses/">Bonuses</a>
-        </p>
-        <p class="text-muted">Note: AI mode is under the <a href="./tossups/">tossups</a> page.</p>
-        <p>Or, check out a <a href="./mp/">multiplayer room</a>.</p>
-    </div>
+    <main class="container-xl mt-3 mb-5 pb-5">
+        <h1 class="lead">Play National Science Bowl</h1>
+        <!--#include virtual="/ssi/play-modes.html" -->
+    </main>
 </body>
-
 </html>

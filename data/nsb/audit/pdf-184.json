@@ -1,0 +1,537 @@
+{
+  "packetIndex": 184,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-3.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 184 PDF page 1 shows toss-up 1 beginning “Two years after carbon dioxide was sequestered by the Pacific Northwes”; checked its full printed wording, all choices, and answer “X) LIMESTONE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 184 PDF page 1 shows toss-up 2 beginning “What star has the lowest apparent magnitude as observed from Earth?”; checked its full printed wording and answer “THE SUN (ACCEPT: SOL)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 184 PDF page 2 shows toss-up 3 beginning “Before amino acids can be used in translation, the free amino acid mus”; checked its full printed wording and answer “tRNA” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 184 PDF page 2 shows toss-up 4 beginning “Which of the following terms best describes the relationship between 1”; checked its full printed wording, all choices, and answer “X) SAME COMPOUND” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 184 PDF page 3 shows toss-up 5 beginning “A 1,000-kilogram block of density 800 kilograms per cubic meter is pla”; checked its full printed wording and answer “20” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 184 PDF page 3 shows toss-up 6 beginning “What value of x minimizes the function f of x equals x 2 – 6x + 2?”; checked its full printed wording and answer “3” against the source.",
+      "before": {
+        "question": "What value of x minimizes the function f of x equals x 2 – 6x + 2?"
+      },
+      "changes": {
+        "question": "What value of x minimizes the function f of x equals x<sup>2</sup> – 6x + 2?",
+        "question_sanitized": "What value of x minimizes the function f of x equals x squared – 6x + 2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 184 PDF page 4 shows toss-up 7 beginning “Under limited nutrient conditions Bacillus [bah-SIL-us] subtilis [SUB-”; checked its full printed wording and answer “ENDOSPORE (ACCEPT: SPORE)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 184 PDF page 4 shows toss-up 8 beginning “Which of the following acids is triprotic [try-PRO-tic]?<br>W) Sulfuri”; checked its full printed wording, all choices, and answer “Z) ARSENIC ACID” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 184 PDF page 5 shows toss-up 9 beginning “The grand unified theory joins together all of the fundamental forces ”; checked its full printed wording and answer “GRAVITY” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 184 PDF page 6 shows toss-up 11 beginning “What is 27 raised to the 4/3 power?”; checked its full printed wording and answer “81” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 184 PDF page 6 shows toss-up 12 beginning “SLAC [slack] researchers recently published a report on the developmen”; checked its full printed wording and answer “WATER (ACCEPT: H<sub>2</sub> O)” against the source.",
+      "before": {
+        "answer": "WATER (ACCEPT: H<sub>2</sub> O)"
+      },
+      "changes": {
+        "answer": "WATER (ACCEPT: H<sub>2</sub>O)",
+        "answer_sanitized": "WATER (ACCEPT: H2O)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 184 PDF page 7 shows toss-up 13 beginning “When performing bomb calorimetry [cal-or-IH-metree] , which of the fol”; checked its full printed wording, all choices, and answer “X) VOLUME” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 184 PDF page 7 shows toss-up 14 beginning “Which of the following is true about the function f of x = cosine of x”; checked its full printed wording, all choices, and answer “Y) IT HAS PERIOD 2 PI” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 184 PDF page 8 shows toss-up 15 beginning “SLAC [slack] scientists recently developed a new technique for probing”; checked its full printed wording and answer “ELECTRON” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 184 PDF page 8 shows toss-up 16 beginning “What form of magnetism is demonstrated when a material&amp;apos;s magn”; checked its full printed wording and answer “DIAMAGNETISM” against the source.",
+      "before": {
+        "question": "What form of magnetism is demonstrated when a material&amp;apos;s magnetic moment opposes the direction of an externally-applied magnetic field?"
+      },
+      "changes": {
+        "question": "What form of magnetism is demonstrated when a material's magnetic moment opposes the direction of an externally-applied magnetic field?",
+        "question_sanitized": "What form of magnetism is demonstrated when a material's magnetic moment opposes the direction of an externally-applied magnetic field?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 184 PDF page 9 shows toss-up 17 beginning “Which of the following is the term for the set of planets that will ex”; checked its full printed wording, all choices, and answer “Y) INFERIOR” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 184 PDF page 9 shows toss-up 18 beginning “Identify all of the following three Linnaean [lin-AY-in] classificatio”; checked its full printed wording and answer “1 AND 2” against the source.",
+      "before": {
+        "question": "Identify all of the following three Linnaean [lin-AY-in] classifications that apply to the leopard: 1) Carnivora [car-NIV-or-ah]; 2) Chordata [kor-DAH-tah]; 3) Canidae [KAN-ih- dee]."
+      },
+      "changes": {
+        "question": "Identify all of the following three Linnaean [lin-AY-in] classifications that apply to the leopard: 1) Carnivora [car-NIV-or-ah]; 2) Chordata [kor-DAH-tah]; 3) Canidae [KAN-ih-dee].",
+        "question_sanitized": "Identify all of the following three Linnaean [lin-AY-in] classifications that apply to the leopard: 1) Carnivora [car-NIV-or-ah]; 2) Chordata [kor-DAH-tah]; 3) Canidae [KAN-ih-dee]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 184 PDF page 10 shows toss-up 19 beginning “A pair of ten-sided dice, each with the numbers one through 10 printed”; checked its full printed wording and answer “11” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 184 PDF page 10 shows toss-up 20 beginning “In the citric acid cycle, how many molecules of NADH are generated fro”; checked its full printed wording and answer “ZERO” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 184 PDF page 11 shows toss-up 21 beginning “The function describing an object’s position is transformed into a fun”; checked its full printed wording and answer “DERIVATIVE (ACCEPT: DIFFERENTIATION, DERIVATIVE OPERATION)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 184 PDF page 11 shows toss-up 22 beginning “Identify all of the following three chemicals whose addition will incr”; checked its full printed wording and answer “1” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 184 PDF page 12 shows toss-up 23 beginning “What type of well has water coming out of the ground freely because th”; checked its full printed wording and answer “FLOWING ARTESIAN (DO NOT ACCEPT: ARTESIAN)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 184 PDF page 1 shows bonus 1 beginning “Identify all of the following three statements that are true regarding”; checked its full printed wording and answer “ALL” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 184 PDF page 1 shows bonus 2 beginning “What type of star must be present prior to a Type One-A supernova?”; checked its full printed wording and answer “WHITE DWARF” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 184 PDF page 2 shows bonus 3 beginning “Certain plants have leaves in which bundle-sheath cells are tightly pa”; checked its full printed wording and answer “C4 (ACCEPT: HATCH-SLACK PATHWAY, HATCH-SLACK CYCLE)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 184 PDF page 2 shows bonus 4 beginning “Identify all of the following three statements that are true of xenon ”; checked its full printed wording and answer “2” against the source.",
+      "before": {
+        "parts": [
+          "Identify all of the following three statements that are true of xenon [ZEE- non] tetrafluoride: 1) It is tetrahedral [tetrah-HEE-drul]; 2) It has no net dipole [DYE-pole] moment; 3) It contains two unpaired electrons."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three statements that are true of xenon [ZEE-non] tetrafluoride: 1) It is tetrahedral [tetrah-HEE-drul]; 2) It has no net dipole [DYE-pole] moment; 3) It contains two unpaired electrons."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three statements that are true of xenon [ZEE-non] tetrafluoride: 1) It is tetrahedral [tetrah-HEE-drul]; 2) It has no net dipole [DYE-pole] moment; 3) It contains two unpaired electrons."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 184 PDF page 3 shows bonus 5 beginning “A lightning bolt strikes a power station, transmitting a current of 30”; checked its full printed wording, all choices, and answer “W) LESS THAN 1” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 184 PDF page 3 shows bonus 6 beginning “If f(x) = the square root of open parenthesis x + 4 close parenthesis ”; checked its full printed wording, all choices, and answer “W) All real numbers greater than 4” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 184 PDF page 4 shows bonus 7 beginning “What is the term for phages [FAY-jiz] that can reproduce using both th”; checked its full printed wording and answer “TEMPERATE” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 184 PDF page 4 shows bonus 8 beginning “Rank the following three liquids in increasing order of solubility in ”; checked its full printed wording and answer “1, 3, 2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 184 PDF page 5 shows bonus 9 beginning “Bill pulls a sled with 10 newtons of force using a rope that is angled”; checked its full printed wording and answer “15” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 184 PDF page 5 shows bonus 10 beginning “In a cooling magma chamber, which of the following minerals will cryst”; checked its full printed wording, all choices, and answer “Z) OLIVINE” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 184 PDF page 6 shows bonus 11 beginning “One endpoint of a diameter of a sphere centered at (3, 4, –7) is (5, –”; checked its full printed wording and answer “(1, 14, –16) (ACCEPT: x = 1, y = 14, AND z = –16)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 184 PDF page 6 shows bonus 12 beginning “Identify all of the following three types of waves that can be modeled”; checked its full printed wording and answer “2 AND 3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 184 PDF page 7 shows bonus 13 beginning “Rank the following three molecules in terms of increasing dipole [DYE-”; checked its full printed wording and answer “3, 2, 1” against the source.",
+      "before": {
+        "parts": [
+          "Rank the following three molecules in terms of increasing dipole [DYE- pole] moment: 1) O-dihydroxybenzene [dye-high-droxee-BEN-zeen]; 2) M-dihydroxybeneze; 3) P-dihydroxybenzene."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Rank the following three molecules in terms of increasing dipole [DYE-pole] moment: 1) O-dihydroxybenzene [dye-high-droxee-BEN-zeen]; 2) M-dihydroxybenzene; 3) P-dihydroxybenzene."
+        ],
+        "parts_sanitized": [
+          "Rank the following three molecules in terms of increasing dipole [DYE-pole] moment: 1) O-dihydroxybenzene [dye-high-droxee-BEN-zeen]; 2) M-dihydroxybenzene; 3) P-dihydroxybenzene."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 184 PDF page 7 shows bonus 14 beginning “Simplify the following expression involving the complex number i: 4i +”; checked its full printed wording and answer “–2 + 2i (DO NOT ACCEPT: 2i – 2)” against the source.",
+      "before": {
+        "parts": [
+          "Simplify the following expression involving the complex number i: 4i + 3i 2 + 2i 3 + i 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify the following expression involving the complex number i: 4i + 3i<sup>2</sup> + 2i<sup>3</sup> + i<sup>4</sup>"
+        ],
+        "parts_sanitized": [
+          "Simplify the following expression involving the complex number i: 4i + 3i squared + 2i cubed + i to the fourth power"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 184 PDF page 8 shows bonus 15 beginning “Chemists at Lawrence Berkeley National Lab developed ReACT [REE-act] p”; checked its full printed wording and answer “CYSTEINE” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 184 PDF page 8 shows bonus 16 beginning “If a radioactive element’s half-life is 60 days, then, to the nearest ”; checked its full printed wording and answer “31” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 184 PDF page 9 shows bonus 17 beginning “Main-sequence stars larger than our sun can fuse hydrogen into helium ”; checked its full printed wording and answer “CNO CYCLE (ACCEPT: CARBON-NITROGEN-OXYGEN CYCLE)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 184 PDF page 9 shows bonus 18 beginning “Identify all of the following three organisms that are part of the phy”; checked its full printed wording and answer “1 AND 3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 184 PDF page 10 shows bonus 19 beginning “What is 8 to the power of log base 2 of 5?”; checked its full printed wording and answer “125” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 184 PDF page 10 shows bonus 20 beginning “What plant hormone, which can be synthesized by almost all known plant”; checked its full printed wording and answer “ABSCISIC ACID (ACCEPT: ABA)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 184 PDF page 11 shows bonus 21 beginning “Two 6-kilogram masses are connected by a spring with a force constant ”; checked its full printed wording and answer “2.5” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 184 PDF page 11 shows bonus 22 beginning “Identify all of the following three reactions that would favor reactan”; checked its full printed wording and answer “2 AND 3” against the source.",
+      "before": {
+        "parts": [
+          "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K of 3; 2) A reaction with positive delta G; 3) An endothermic reaction eq with negative delta S."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K<sub>eq</sub> of 3; 2) A reaction with positive delta G; 3) An endothermic reaction with negative delta S."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K_eq of 3; 2) A reaction with positive delta G; 3) An endothermic reaction with negative delta S."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 184 PDF page 12 shows bonus 23 beginning “What type of unconformity occurs when layers of rock are deposited on ”; checked its full printed wording and answer “DISCONFORMITY” against the source."
+    }
+  ],
+  "packetIssues": []
+}

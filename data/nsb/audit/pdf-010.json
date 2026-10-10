@@ -1,0 +1,565 @@
+{
+  "packetIndex": 10,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows y = −√(25 − x²); the corpus lost the radical, minus sign, and grouping.",
+      "before": {
+        "question": "The graph of the relation y = ( 25 x ) is a:<br>W) circle<br>X) semi-circle<br>Y) parabola<br>Z) straight line"
+      },
+      "changes": {
+        "question": "The graph of the relation y = −√(25 − x<sup>2</sup>) is a:<br>W) circle<br>X) semi-circle<br>Y) parabola<br>Z) straight line"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows x² + y² + 10y + 16 = 0 and solution x² + (y + 5)² = 9; corpus equation and note match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF page 1 prints Al(HCO₃)₃ with no spaces inside the chemical formula; corpus separated the subscript from the closing parenthesis.",
+      "before": {
+        "answers": [
+          "Al(HCO<sub>3</sub> )<sub>3</sub>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "Al(HCO<sub>3</sub>)<sub>3</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows −3√2/(√3−√5) and the rationalized result (3√6+3√10)/2; corpus lost the radicals and fraction structure.",
+      "before": {
+        "parts": [
+          "Giving your answer in simplest radical form, rationalize the denominator − 3 2 of the following expression: − ( 3 5 ) + 3 6 3 10 +"
+        ],
+        "answers": [
+          "( ACCEPT: <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;2</span></span> ( 6 10 ) ) 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Giving your answer in simplest radical form, rationalize the denominator of the following expression: −<span class=\"nsb-fraction\"><span>3√2</span><span>√3 − √5</span></span>"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>3√6 + 3√10</span><span>2</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>3</span><span>2</span></span>(√6 + √10))"
+        ],
+        "parts_sanitized": [
+          "Giving your answer in simplest radical form, rationalize the denominator of the following expression: −(3√2)/(√3 − √5)"
+        ],
+        "answers_sanitized": [
+          "(3√6 + 3√10)/(2) (ACCEPT: (3)/(2)(√6 + √10))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows Ca²⁺ cations and Cl⁻ anions throughout the solution; corpus misplaced these charges in the answer and note.",
+      "before": {
+        "parts": [
+          "A 4.0 gram sample of calcium chloride contains 6.0 × 10<sup>22</sup> cations. Giving your answer in scientific notation to the nearest whole number, determine the number of anions in 2 grams of CaCl<sub>2</sub> . Assume the atomic mass of calcium is 40 and chloride is 35."
+        ],
+        "answers": [
+          "6 × 10<sup>22</sup> 2+ – 2+ –"
+        ],
+        "notes": [
+          "(Solution: (2g CaCl<sub>2</sub> )(6.0 × 10<sup>22</sup> Ca /4g CaCl<sub>2</sub> )(2 Cl /1 Ca ) = 6.0 × 10<sup>22</sup> Cl )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A 4.0 gram sample of calcium chloride contains 6.0 × 10<sup>22</sup> cations. Giving your answer in scientific notation to the nearest whole number, determine the number of anions in 2 grams of CaCl<sub>2</sub>. Assume the atomic mass of calcium is 40 and chloride is 35."
+        ],
+        "answers": [
+          "6 × 10<sup>22</sup>"
+        ],
+        "notes": [
+          "(Solution: (2 g CaCl<sub>2</sub>)(6.0 × 10<sup>22</sup> Ca<sup>2+</sup>/4 g CaCl<sub>2</sub>)(2 Cl<sup>−</sup>/1 Ca<sup>2+</sup>) = 6.0 × 10<sup>22</sup> Cl<sup>−</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 prints answer 48√3 and solution using √3 in perimeter and area; corpus lost each radical.",
+      "before": {
+        "answers": [
+          "48 3"
+        ],
+        "notes": [
+          "(Solution: apothem = 4; perimeter = (8 3 )(3); A = ½(4)(24 3 ) = 48 3 cm<sup>2</sup> )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "48√3"
+        ],
+        "notes": [
+          "(Solution: apothem = 4; perimeter = (8√3)(3); A = ½(4)(24√3) = 48√3 cm<sup>2</sup>)"
+        ],
+        "answers_sanitized": [
+          "48√3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13 shows 2⁷ × 2^(x²−2) = 2²¹, with solutions ±4; the corpus flattened the exponential structure.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x: 2 2 2 = ±"
+        ],
+        "answers": [
+          "4 OR –4 (ACCEPT: x 4 )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x: 2<sup>7</sup> × 2<sup>(x<sup>2</sup> − 2)</sup> = 2<sup>21</sup>"
+        ],
+        "answers": [
+          "4 OR −4 (ACCEPT: x = ±4)"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x: 2^7 × 2^((x^(2) − 2)) = 2^21"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

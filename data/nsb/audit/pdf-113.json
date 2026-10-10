@@ -1,0 +1,612 @@
+{
+  "packetIndex": 113,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-17.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 prints viscosity 1.0 × 10⁻³ and density 1.0 × 10³; all four Reynolds-number choices and W) answer match.",
+      "before": {
+        "question": "Water flows at 2.0 meters per second through a tube of radius 1 centimeter. The dynamic viscosity of the water is 1.0 × 10-3 pascal seconds. Which of the following best represents the Reynolds number and the nature of the flow, given that the density of water is 1.0 × 103 kilograms per cubic meter?<br>W) 40,000; turbulent<br>X) 40,000; laminar<br>Y) 20,000; turbulent<br>Z) 20,000; laminar"
+      },
+      "changes": {
+        "question": "Water flows at 2.0 meters per second through a tube of radius 1 centimeter. The dynamic viscosity of the water is 1.0 × 10<sup>−3</sup> pascal seconds. Which of the following best represents the Reynolds number and the nature of the flow, given that the density of water is 1.0 × 10<sup>3</sup> kilograms per cubic meter?<br>W) 40,000; turbulent<br>X) 40,000; laminar<br>Y) 20,000; turbulent<br>Z) 20,000; laminar",
+        "question_sanitized": "Water flows at 2.0 meters per second through a tube of radius 1 centimeter. The dynamic viscosity of the water is 1.0 × 10 to the negative third pascal seconds. Which of the following best represents the Reynolds number and the nature of the flow, given that the density of water is 1.0 × 10 to the third kilograms per cubic meter? W) 40,000; turbulent X) 40,000; laminar Y) 20,000; turbulent Z) 20,000; laminar"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2: checked “Which approximation is used in quantum mechanics to separate the electronic and vibrational wave fun”; key prints “BORN-OPPENHEIMER” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2: checked “What tree is deciduous [di-SIJ-oo-uhs], dioecious [dy-EE-shus], and has leaves that do not possess a”; key prints “GINKGO BILOBA (ACCEPT: GINKGO, MAIDENHAIR)” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3 shows x² and y² in all four equations; Z) x² − y² = 0 is keyed.",
+      "before": {
+        "question": "Which of the following equations represents two intersecting lines?<br>W) x2 + y2 = 9<br>X) x2 – y2 = 9<br>Y) x2 + 4y2 = 1<br>Z) x2 – y2 = 0",
+        "answer": "Z) x2 – y2 = 0",
+        "options": [
+          "W) x2 + y2 = 9",
+          "X) x2 – y2 = 9",
+          "Y) x2 + 4y2 = 1",
+          "Z) x2 – y2 = 0"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following equations represents two intersecting lines?<br>W) x<sup>2</sup> + y<sup>2</sup> = 9<br>X) x<sup>2</sup> − y<sup>2</sup> = 9<br>Y) x<sup>2</sup> + 4y<sup>2</sup> = 1<br>Z) x<sup>2</sup> − y<sup>2</sup> = 0",
+        "question_sanitized": "Which of the following equations represents two intersecting lines? W) x squared + y squared = 9 X) x squared − y squared = 9 Y) x squared + 4 y squared = 1 Z) x squared − y squared = 0",
+        "answer": "Z) x<sup>2</sup> − y<sup>2</sup> = 0",
+        "answer_sanitized": "Z) x squared − y squared = 0",
+        "options": [
+          "W) x<sup>2</sup> + y<sup>2</sup> = 9",
+          "X) x<sup>2</sup> − y<sup>2</sup> = 9",
+          "Y) x<sup>2</sup> + 4y<sup>2</sup> = 1",
+          "Z) x<sup>2</sup> − y<sup>2</sup> = 0"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “Which of the following experiments provided evidence in favor of the wave theory of light? W) Young'”; key prints “W) YOUNG'S DOUBLE SLIT EXPERIMENT” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “In a recent experiment, you identified an amino acid at the active site of an enzyme. Given your kno”; key prints “W) HISTIDINE” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 prints tan(sin⁻¹(−1/2)); the keyed answer is the displayed fraction −√3/3, followed by the do-not-accept alternative −1/√3.",
+      "before": {
+        "answer": "(DO NOT ACCEPT: −1/√3) 3"
+      },
+      "changes": {
+        "answer": "−<span class=\"nsb-fraction\"><span>√3</span><span>3</span></span> (DO NOT ACCEPT: −1/√3)",
+        "answer_sanitized": "negative square root of three over three (DO NOT ACCEPT: negative one over square root of three)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6: checked “What chemical, produced by planktonic algae, is the major source of cloud-condensation nuclei over t”; key prints “X) DIMETHYL SULPHIDE” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6: checked “Which of the following ways will allow you to increase the capacitance of a parallel-plate capacitor”; key prints “W) DECREASING THE PLATE SEPARATION” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7: checked “Iron minerals can be subdivided into different categories based on their gangue [GANG] content. Into”; key prints “X) ACID GANGUE” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8: checked “Hemosiderin [hee-moh-SID-er-in] is a protein used to store what chemical that can be toxic when free”; key prints “IRON (ACCEPT: IRON-2, FERRITIN)” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 prints y′, y″ and y² distinctly; Z) y′ − 2y² − 2 = 0 is keyed. Choice X uses y″ − 2y² − 2 = 0.",
+      "before": {
+        "question": "Which of the following is a first order non-linear ordinary differential equation?<br>W) y' + y = 0 [y prime plus y equals zero]<br>X) y'’ - 2y - 2 = 0 [y double prime minus 2y squared minus 2 equals zero] 2<br>Y) y' - xy = 0 [y prime minus xy equals zero]<br>Z) y' - 2y2 - 2 = 0 [y prime minus 2y squared minus two equals zero]",
+        "answer": "Z) y' - 2y2 - 2 = 0",
+        "options": [
+          "W) y' + y = 0 [y prime plus y equals zero]",
+          "X) y'’ - 2y - 2 = 0 [y double prime minus 2y squared minus 2 equals zero] 2",
+          "Y) y' - xy = 0 [y prime minus xy equals zero]",
+          "Z) y' - 2y2 - 2 = 0 [y prime minus 2y squared minus two equals zero]"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is a first order non-linear ordinary differential equation?<br>W) y′ + y = 0 [y prime plus y equals zero]<br>X) y″ − 2y<sup>2</sup> − 2 = 0 [y double prime minus 2y squared minus 2 equals zero]<br>Y) y′ − xy = 0 [y prime minus xy equals zero]<br>Z) y′ − 2y<sup>2</sup> − 2 = 0 [y prime minus 2y squared minus two equals zero]",
+        "question_sanitized": "Which of the following is a first order non-linear ordinary differential equation? W) y prime + y = 0 [y prime plus y equals zero] X) y double prime − 2y squared − 2 = 0 [y double prime minus 2y squared minus 2 equals zero] Y) y prime − xy = 0 [y prime minus xy equals zero] Z) y prime − 2y squared − 2 = 0 [y prime minus 2y squared minus two equals zero]",
+        "answer": "Z) y′ − 2y<sup>2</sup> − 2 = 0",
+        "answer_sanitized": "Z) y prime − 2y squared − 2 = 0",
+        "options": [
+          "W) y′ + y = 0 [y prime plus y equals zero]",
+          "X) y″ − 2y<sup>2</sup> − 2 = 0 [y double prime minus 2y squared minus 2 equals zero]",
+          "Y) y′ − xy = 0 [y prime minus xy equals zero]",
+          "Z) y′ − 2y<sup>2</sup> − 2 = 0 [y prime minus 2y squared minus two equals zero]"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 shows v ≈ 2.18 × 10⁸ and choices 10⁸, 10⁹, 10¹⁰, 10¹¹; answer Y) 10¹⁰.",
+      "before": {
+        "question": "The wavelength shift of light from a quasar gives the recessional speed v ≈ 2.18 × 108 meters per second. If the Hubble constant is 21.8 millimeters per second per light year, what is the approximate distance of the quasar in light years?<br>W) 108<br>X) 109<br>Y) 1010<br>Z) 1011",
+        "answer": "Y) 1010",
+        "options": [
+          "W) 108",
+          "X) 109",
+          "Y) 1010",
+          "Z) 1011"
+        ]
+      },
+      "changes": {
+        "question": "The wavelength shift of light from a quasar gives the recessional speed v ≈ 2.18 × 10<sup>8</sup> meters per second. If the Hubble constant is 21.8 millimeters per second per light year, what is the approximate distance of the quasar in light years?<br>W) 10<sup>8</sup><br>X) 10<sup>9</sup><br>Y) 10<sup>10</sup><br>Z) 10<sup>11</sup>",
+        "question_sanitized": "The wavelength shift of light from a quasar gives the recessional speed v approximately 2.18 × 10 to the eighth meters per second. If the Hubble constant is 21.8 millimeters per second per light year, what is the approximate distance of the quasar in light years? W) 10 to the eighth X) 10 to the ninth Y) 10 to the tenth Z) 10 to the eleventh",
+        "answer": "Y) 10<sup>10</sup>",
+        "answer_sanitized": "Y) 10 to the tenth",
+        "options": [
+          "W) 10<sup>8</sup>",
+          "X) 10<sup>9</sup>",
+          "Y) 10<sup>10</sup>",
+          "Z) 10<sup>11</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10: checked “The first solid-state quantum process was created at Yale University in 2009. The two qubits, artifi”; key prints “X) ALUMINUM” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “You want to process a fiber polymer whose solvent cannot be melted or evaporated. Which of the follo”; key prints “W) WET SPINNING” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “Which of the following is NOT in the order Artiodactyla [art-ee- oh-DAK-tuh-luh]? W) Chevrotain X) W”; key prints “Z) HYRAX” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12: checked “There is a well-shuffled deck of 52 cards containing 13 cards each of spades, clubs, diamonds, and h”; key prints “1/17” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12: checked “Which of the following is the double-degenerate model for Type Ia supernovae [soo-per-NOH-vee]? W) T”; key prints “Y) TWO WHITE DWARFS COLLIDE TO CREATE A NEW OBJECT, WHICH EXCEEDS THE CHAND” and matches the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 displays electron spin states mₛ = ±½ in the question and answer W) 4.",
+      "before": {
+        "question": "If the magnitude of a magnetic field is multiplied by 4, by what factor is the magnitude of the energy difference ∆E [delta E] between electron states 1 m s = ± multiplied? 2 2T<br>W) 4<br>X) 2<br>Y) 1/2<br>Z) 1/4"
+      },
+      "changes": {
+        "question": "If the magnitude of a magnetic field is multiplied by 4, by what factor is the magnitude of the energy difference ΔE [delta E] between electron states m<sub>s</sub> = ±1/2 multiplied?<br>W) 4<br>X) 2<br>Y) 1/2<br>Z) 1/4",
+        "question_sanitized": "If the magnitude of a magnetic field is multiplied by 4, by what factor is the magnitude of the energy difference delta E [delta E] between electron states m sub s equals plus or minus one half multiplied? W) 4 X) 2 Y) 1/2 Z) 1/4"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1: checked “A 1000-watt oven is connected to a 240-volt AC power source. Which of the following is nearest the p”; answer prints “Y) 340” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1: checked “What functional unit in coal-based power production efficiently removes particulate matter?”; answer prints “ELECTROSTATIC PRECIPITATOR” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2: checked “In which of the following scattering angles is Rayleigh [RAY- lee] scattering from unpolarized light”; answer prints “Y) 90°” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2: checked “In the Meselson-Stahl experiment, the mechanism for DNA replication was investigated using Escherich”; answer prints “Y) HALF OF THE DNA WOULD BE LIGHT, AND HALF WOULD BE HEAVY” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3 prints derivative 5x²(x + 5)(x − 3), with the bracketed read-as cue stating x squared.",
+      "before": {
+        "parts": [
+          "Find the open intervals over which a function whose derivative is 5x2(x + 5)(x − 3) [5 x squared times open parenthesis x plus 5 close parenthesis times the quantity x minus 3] is increasing."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the open intervals over which a function whose derivative is 5x<sup>2</sup>(x + 5)(x − 3) [5 x squared times open parenthesis x plus 5 close parenthesis times the quantity x minus 3] is increasing."
+        ],
+        "parts_sanitized": [
+          "Find the open intervals over which a function whose derivative is 5x squared (x + 5)(x − 3) [5 x squared times open parenthesis x plus 5 close parenthesis times the quantity x minus 3] is increasing."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3: checked “The spectral lines of stars have a finite width. What are the two phenomena responsible for this obs”; answer prints “DOPPLER EFFECT (ACCEPT: DOPPLER SHIFT OR DOPPLER BROADENING) AND HEISENBERG” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “If bombarding a beryllium target by alpha particles produces a neutron, which of the following must ”; answer prints “Y) CARBON” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “In two-photon fluorescence spectroscopy, it is common to use a molecule that has a very strong two-p”; answer prints “CRYSTAL VIOLET AND GREEN FLUORESCENT PROTEIN” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5: checked “Which of the following types of DNA damage or distortion would be most likely to lead to an insertio”; answer prints “Z) INTERCALATION” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered physical page 5 shows the integral sign and limits before the x²/(x³+3)² fraction, with dx after the fraction; the answer is 1/12. Restored the complete read-as cue and valid fraction markup.",
+      "before": {
+        "parts": [
+          "Evaluate ∫1 𝑑𝑑 [the integral from 1 to infinity of the fraction (𝑥 3 +3)2 with numerator x squared and denominator open parenthesis x cubed plus 3 close parenthesis squared dx]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate ∫<sub>1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>x<sup>2</sup></span><span>(x<sup>3</sup> + 3)<sup>2</sup></span></span> dx [the integral from 1 to infinity of the fraction with numerator x squared and denominator open parenthesis x cubed plus 3 close parenthesis squared dx]."
+        ],
+        "parts_sanitized": [
+          "Evaluate the integral from 1 to infinity of (x^2)/((x^3 + 3)^2) dx [the integral from 1 to infinity of the fraction with numerator x squared and denominator open parenthesis x cubed plus 3 close parenthesis squared dx]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6: checked “The rostral bone evolved to allow for the powerful beak-like bite characteristic of what dinosaur gr”; answer prints “X) CERATOPSIANS” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6: checked “An electron and positron collide and annihilate [uh-NY-uh-layt] one another. Which of the following ”; answer prints “X) 1” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 gives the one-significant-figure answer 3 × 10⁹ hertz.",
+      "before": {
+        "answers": [
+          "3 x 109"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "3 × 10<sup>9</sup>"
+        ],
+        "answers_sanitized": [
+          "3 times 10 to the ninth"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7: checked “Which principle of quantum mechanics determines the transition probability for a molecule, based on ”; answer prints “FRANK-CONDON” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8: checked “Consider only the compartments of the chloroplast directly impacted by the proton movement in photos”; answer prints “THYLAKOID SPACE (ACCEPT: THYLAKOID LUMEN)” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8: checked “What is the area, in square meters, of a triangle whose sides are of length 10, 12, and 14 meters?”; answer prints “24√6” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9: checked “The secondary rainbow in a double rainbow requires which of the following optical processes? W) One ”; answer prints “Y) TWO INTERNAL REFLECTIONS AND TWO REFRACTIONS” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9: checked “The toxin from the death cap mushroom is alpha-amanitin. This toxin primarily binds and inhibits RNA”; answer prints “X) mRNA” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10: checked “A lady in a spacecraft travelling away from the Earth at 4/5 the speed of light gives birth to a chi”; answer prints “W) 2:00 p.m.” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 prints the accepted chemical formula as H₂O₂ without spaces.",
+      "before": {
+        "answers": [
+          "HYDROGEN PEROXIDE (ACCEPT: H 2 O 2 )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "HYDROGEN PEROXIDE (ACCEPT: H<sub>2</sub>O<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "HYDROGEN PEROXIDE (ACCEPT: H two O two)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “Deuterochloroform [DOO-ter-uh-KLAWR-uh-fawrm] is often used as the internal standard in carbon-13 nu”; answer prints “77.0 (ACCEPT: 77)” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “Which of the following is NOT true of the platypus? W) They are one of the few venomous mammals X) T”; answer prints “Y) THEIR EGGS ARE HOLOBLASTIC” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 shows x + 1/x = 3 and x⁴ + 1/x⁴; both bracketed read-as cues say fourth power.",
+      "before": {
+        "parts": [
+          "Given the equation: x + 1/x = 3 [x plus 1 over x equals 3], what is the value of x4 + 1/x4 [x to the fourth plus 1 over x to the fourth]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given the equation: x + <span class=\"nsb-fraction\"><span>1</span><span>x</span></span> = 3 [x plus 1 over x equals 3], what is the value of x<sup>4</sup> + <span class=\"nsb-fraction\"><span>1</span><span>x<sup>4</sup></span></span> [x to the fourth plus 1 over x to the fourth]?"
+        ],
+        "parts_sanitized": [
+          "Given the equation: x plus 1 over x equals 3 [x plus 1 over x equals 3], what is the value of x to the fourth plus 1 over x to the fourth [x to the fourth plus 1 over x to the fourth]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12: checked “How is the ratio of oxygen-18 to oxygen-16 useful in serving as a proxy for paleoclimatic [pay-lee-o”; answer prints “W) OXYGEN-16 IS PREFERENTIALLY STORED IN ICE AND ONLY RELEASED DURING WARME” and matches the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 prints the second Bragg maximum and the keyed answer 2 × 10⁻⁹ meters.",
+      "before": {
+        "answers": [
+          "2 x 10-9"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "2 × 10<sup>−9</sup>"
+        ],
+        "answers_sanitized": [
+          "2 times 10 to the negative ninth"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

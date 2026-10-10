@@ -1,0 +1,506 @@
+{
+  "packetIndex": 244,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 shows the line through (11, 3) and (8, 4), with answer –1/3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 states one-third submerged and keys the buoyant-force to gravity ratio as 1 (1 to 1 accepted)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 includes both life stages, the [FYE-lum] cue, and keys CNIDARIA with CNIDARIANS accepted."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints the Arrhenius cue continuously across the line break as ah-REE-nee-us and sets the hydroxide minus sign as a superscript.",
+      "before": {
+        "question": "According to Arrhenius [ah-REE- nee-us] theory, a base produces what ion in solution?",
+        "answer": "OH – (ACCEPT: HYDROXIDE)"
+      },
+      "changes": {
+        "question": "According to Arrhenius [ah-REE-nee-us] theory, a base produces what ion in solution?",
+        "answer": "OH<sup>−</sup> (ACCEPT: HYDROXIDE)",
+        "answer_sanitized": "OH⁻ (ACCEPT: HYDROXIDE)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists oceans, cryosphere, surface waters, and atmosphere and keys Z) THE ATMOSPHERE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives the Arctic cloud temperature range as −3 to −8 Celsius and keys W) SUPERCOOLED."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 states 8 red and 12 white socks and keys 10 socks to guarantee a white pair."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 presents all four Bernoulli pressure/speed choices and keys X) pressure decreases as speed increases."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks for the primary photosynthesis organ in most plants and keys LEAVES."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists sulfuric, phosphoric, hydrochloric, and ethanoic acid and keys X) PHOSPHORIC ACID."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 describes exoplanet-induced stellar frequency changes and keys DOPPLER EFFECT, accepting DOPPLER SHIFT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 shows the protein-catalyst question with four choices and keys W) ENZYME."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 visibly prints 5x² + 7x − 3 in the second-derivative prompt; the extracted 2 is baseline.",
+      "before": {
+        "question": "What is the second derivative with respect to x of 5x 2 + 7x – 3 evaluated at x = 4?"
+      },
+      "changes": {
+        "question": "What is the second derivative with respect to x of 5x<sup>2</sup> + 7x – 3 evaluated at x = 4?",
+        "question_sanitized": "What is the second derivative with respect to x of 5x^2 + 7x – 3 evaluated at x = 4?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 asks about halving the Sun’s radius and shows choices 1/4, 1/2, 1, and 2; key Y) 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 asks for the Golgi organelle and includes the accepted Golgi body, apparatus, and complex alternatives."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists oxidation states −2, 0, +2, and +5 for nitrogen in nitric acid and keys Z) +5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 describes the Sun and Moon at right angles and keys NEAP TIDE, accepting NEAP."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 lists vitamins A, B2, E, and K for flavoproteins and keys X) B2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives the isosceles triangle exterior angle as 133 degrees and keys 86 degrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 shows the 1500-kilogram, 4000-newton, 30-meters-per-second power problem and answer 120,000."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 shows all four human-reproduction choices with their pronunciation cues and keys W) VIVIPAROUS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 visibly prints W) H₂O, X) H₂O₂, Y) H₃O⁺, Z) HO₃ and keys X) H₂O₂; the extracted choice markup is malformed.",
+      "before": {
+        "parts": [
+          "Sherry is performing elemental analysis on a compound she knows is composed of only hydrogen and oxygen. She finds that the compound is 5.9% hydrogen by mass. Which of the following might be the identity of the compound?<br>W) H O 2<br>X) H O 2<br>Y) H <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span> O +<br>Z) HO 3"
+        ],
+        "options": [
+          "W) H O 2",
+          "X) H O 2",
+          "Y) H <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span> O +",
+          "Z) HO 3"
+        ],
+        "answers": [
+          "X) H O 2 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Sherry is performing elemental analysis on a compound she knows is composed of only hydrogen and oxygen. She finds that the compound is 5.9% hydrogen by mass. Which of the following might be the identity of the compound?<br>W) H<sub>2</sub>O<br>X) H<sub>2</sub>O<sub>2</sub><br>Y) H<sub>3</sub>O<sup>+</sup><br>Z) HO<sub>3</sub>"
+        ],
+        "parts_sanitized": [
+          "Sherry is performing elemental analysis on a compound she knows is composed of only hydrogen and oxygen. She finds that the compound is 5.9% hydrogen by mass. Which of the following might be the identity of the compound?\nW) H₂O\nX) H₂O₂\nY) H₃O⁺\nZ) HO₃"
+        ],
+        "options": [
+          "W) H<sub>2</sub>O",
+          "X) H<sub>2</sub>O<sub>2</sub>",
+          "Y) H<sub>3</sub>O<sup>+</sup>",
+          "Z) HO<sub>3</sub>"
+        ],
+        "answers": [
+          "X) H<sub>2</sub>O<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "X) H₂O₂"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 names Pyroxene, Olivine, and Mica with both printed pronunciation cues, and keys 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints choice X as 20 nanometers and keys X) 20 NANOMETERS; the extracted fraction markup incorrectly splits the value.",
+      "before": {
+        "parts": [
+          "Scientists at Brookhaven National Laboratory are studying the spin dynamics of electrons in thin films of iron. Which of the following is closest to the thickness of an iron film composed of ten monolayers?<br>W) 2 angstroms<br>X) nanometers <span class=\"nsb-fraction\">&lt;span&gt;20</span>&lt;span&gt;2</span></span><br>Y) microns<br>Z) 0.2 millimeters"
+        ],
+        "options": [
+          "W) 2 angstroms",
+          "X) nanometers <span class=\"nsb-fraction\">&lt;span&gt;20</span>&lt;span&gt;2</span></span>",
+          "Y) microns",
+          "Z) 0.2 millimeters"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Scientists at Brookhaven National Laboratory are studying the spin dynamics of electrons in thin films of iron. Which of the following is closest to the thickness of an iron film composed of ten monolayers?<br>W) 2 angstroms<br>X) 20 nanometers<br>Y) 2 microns<br>Z) 0.2 millimeters"
+        ],
+        "options": [
+          "W) 2 angstroms",
+          "X) 20 nanometers",
+          "Y) 2 microns",
+          "Z) 0.2 millimeters"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives the line slope 7 through (2, 5) and keys −9, accepting (0, −9)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 states 250 milliliters of water, 200 grams of ice, and 2 kilocalories added; answer is 0 Celsius."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 includes Griffith’s transforming-component prompt and all pronunciation cues; answer DNA accepts deoxyribonucleic acid and plasmid."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints both hyphenated pronunciation cues across line breaks without spaces and gives the answer SP².",
+      "before": {
+        "parts": [
+          "What is the hybridization [HIGH- brih-dye-ZAY-shun] of the carbon atom in formaldehyde [for-MAL- deh-hide]?"
+        ],
+        "answers": [
+          "SP 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the hybridization [HIGH-brih-dye-ZAY-shun] of the carbon atom in formaldehyde [for-MAL-deh-hide]?"
+        ],
+        "answers": [
+          "SP<sup>2</sup>"
+        ],
+        "answers_sanitized": [
+          "SP^2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists the four helium-4 source choices, including all wording and the supernova pronunciation cue, and keys Y) FUSION DURING THE BIG BANG."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 gives the actinium-225 cue, all four alpha-radiation explanations, and the full keyed X choice."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 shows exponents on x² and m² in the function and answer; the extracted powers are flattened.",
+      "before": {
+        "parts": [
+          "Expressing your answer in terms of m, evaluate the function f of x = 3x 2 – 12x – 7 when x is m – 2."
+        ],
+        "answers": [
+          "3m 2 – 24m + 29"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Expressing your answer in terms of m, evaluate the function f of x = 3x<sup>2</sup> – 12x – 7 when x is m – 2."
+        ],
+        "parts_sanitized": [
+          "Expressing your answer in terms of m, evaluate the function f of x = 3x^2 – 12x – 7 when x is m – 2."
+        ],
+        "answers": [
+          "3m<sup>2</sup> – 24m + 29"
+        ],
+        "answers_sanitized": [
+          "3m^2 – 24m + 29"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 asks for the blackbody temperature power and keys FOURTH POWER, accepting 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 prints the accepted phosphate formula with subscript 4 and superscript 3−; the extracted answer flattens both.",
+      "before": {
+        "answers": [
+          "PHOSPHATE (ACCEPT: PO 43– )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "PHOSPHATE (ACCEPT: PO<sub>4</sub><sup>3−</sup>)"
+        ],
+        "answers_sanitized": [
+          "PHOSPHATE (ACCEPT: PO₄³⁻)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists ammonia, water, methane, and phosphane and keys Z) PHOSPHANE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 asks for the wind belt between 0 and 30 degrees North, lists all choices, and keys Y) NORTHEAST TRADE WINDS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 prints H₂ as an accepted form of hydrogen gas; the extracted answer has the 2 at baseline.",
+      "before": {
+        "answers": [
+          "HYDROGEN GAS (ACCEPT: HYDROGEN, DIHYDROGEN, H ) 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "HYDROGEN GAS (ACCEPT: HYDROGEN, DIHYDROGEN, H<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "HYDROGEN GAS (ACCEPT: HYDROGEN, DIHYDROGEN, H₂)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

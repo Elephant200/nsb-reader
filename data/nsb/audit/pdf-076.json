@@ -1,0 +1,623 @@
+{
+  "packetIndex": 76,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by printed number and opening wording on Round 10 page 1; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "question": "What is the minimum possible value of 2 + 2 (read as: 2 to the power of x plus 2 to the power of y) if x + y = 2?"
+      },
+      "changes": {
+        "question": "What is the minimum possible value of 2<sup>x</sup> + 2<sup>y</sup> (read as: 2 to the power of x plus 2 to the power of y) if x + y = 2?",
+        "question_sanitized": "What is the minimum possible value of 2^x + 2^y (read as: 2 to the power of x plus 2 to the power of y) if x + y = 2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rechecked toss-up 2 on Round 10 page 1; its prose-only biology item matches the PDF and has no notation change."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by printed number and opening wording on Round 10 page 2; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by printed number and opening wording on Round 10 page 2; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by printed number and opening wording on Round 10 page 3; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by printed number and opening wording on Round 10 page 4; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by printed number and opening wording on Round 10 page 4; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 10 page 5; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by printed number and opening wording on Round 10 page 5; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered Round 10 page 6 shows O₂ + C₆H₁₄ → CO₂ + H₂O without spaces inside formulas; preserved the printed yields cue and corrected spacing in the rich question.",
+      "before": {
+        "question": "When the equation O<sub>2</sub> + C<sub>6</sub> H<sub>14</sub> → (read as: yields) CO<sub>2</sub> + H<sub>2</sub> O is balanced with the lowest whole-number coefficients, what is the coefficient of O<sub>2</sub> ?"
+      },
+      "changes": {
+        "question": "When the equation O<sub>2</sub> + C<sub>6</sub>H<sub>14</sub> → (read as: yields) CO<sub>2</sub> + H<sub>2</sub>O is balanced with the lowest whole-number coefficients, what is the coefficient of O<sub>2</sub>?",
+        "question_sanitized": "When the equation O₂ + C₆H₁₄ → (read as: yields) CO₂ + H₂O is balanced with the lowest whole-number coefficients, what is the coefficient of O₂?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by printed number and opening wording on Round 10 page 6; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "question": "Evaluate lim (read as: the limit as x approaches pi over x→π/3 π<sup>2</sup> x 3 three of open parenthesis sine of x [pause] minus the square root of 3 over 2 close parenthesis over open parenthesis x minus pi over 3 close parenthesis)."
+      },
+      "changes": {
+        "question": "Evaluate <span class=\"nsb-fraction\"><span>sin x − √3/2</span><span>x − π/3</span></span> as x → π/3 (read as: the limit as x approaches pi over three of open parenthesis sine of x [pause] minus the square root of 3 over 2 close parenthesis over open parenthesis x minus pi over 3 close parenthesis).",
+        "question_sanitized": "Evaluate (sin x - sqrt(3)/2)/(x - pi/3) as x -> pi/3 (read as: the limit as x approaches pi over three of open parenthesis sine of x [pause] minus the square root of 3 over 2 close parenthesis over open parenthesis x minus pi over 3 close parenthesis)."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by printed number and opening wording on Round 10 page 7; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 10 page 8; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 10 page 8; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by printed number and opening wording on Round 10 page 9; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by printed number and opening wording on Round 10 page 9; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by printed number and opening wording on Round 10 page 10; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by printed number and opening wording on Round 10 page 10; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 10 page 11; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by printed number and opening wording on Round 10 page 11; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "question": "If g and g are the accelerations due to gravity on the surfaces E M of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g /g E M<br>X) 1<br>Y) g /g M E 2<br>Z) (g /g ) M E",
+        "options": [
+          "W) g /g E M",
+          "X) 1",
+          "Y) g /g M E 2",
+          "Z) (g /g ) M E"
+        ]
+      },
+      "changes": {
+        "question": "If g<sub>E</sub> and g<sub>M</sub> are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g<sub>E</sub>/g<sub>M</sub><br>X) 1<br>Y) g<sub>M</sub>/g<sub>E</sub><sup>2</sup><br>Z) (g<sub>M</sub>/g<sub>E</sub>)<sup>2</sup>",
+        "question_sanitized": "If g_E and g_M are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following?<br>W) g_E/g_M<br>X) 1<br>Y) g_M/g_E^2<br>Z) (g_M/g_E)^2",
+        "options": [
+          "W) g<sub>E</sub>/g<sub>M</sub>",
+          "X) 1",
+          "Y) g<sub>M</sub>/g<sub>E</sub><sup>2</sup>",
+          "Z) (g<sub>M</sub>/g<sub>E</sub>)<sup>2</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by printed number and opening wording on Round 10 page 12; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by printed number and opening wording on Round 10 page 12; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by printed number and opening wording on Round 10 page 13; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by printed number and opening wording on Round 10 page 1; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "parts": [
+          "What is the value of the infinite sum: - + - +… (read as: 1 over 2 2! 3! 4! 5! factorial minus 1 over 3 factorial plus 1 over 4 factorial minus 1 over 5 factorial and so on)? 1"
+        ],
+        "answers": [
+          "e"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the value of the infinite sum: <span class=\"nsb-fraction\"><span>1</span><span>2!</span></span> − <span class=\"nsb-fraction\"><span>1</span><span>3!</span></span> + <span class=\"nsb-fraction\"><span>1</span><span>4!</span></span> − <span class=\"nsb-fraction\"><span>1</span><span>5!</span></span> +… (read as: 1 over 2 factorial minus 1 over 3 factorial plus 1 over 4 factorial minus 1 over 5 factorial and so on)?"
+        ],
+        "parts_sanitized": [
+          "What is the value of the infinite sum: 1/(2!) - 1/(3!) + 1/(4!) - 1/(5!) +… (read as: 1 over 2 factorial minus 1 over 3 factorial plus 1 over 4 factorial minus 1 over 5 factorial and so on)?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>1</span><span>e</span></span>"
+        ],
+        "answers_sanitized": [
+          "1/e"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by printed number and opening wording on Round 10 page 1; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by printed number and opening wording on Round 10 page 2; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by printed number and opening wording on Round 10 page 2; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by printed number and opening wording on Round 10 page 3; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by printed number and opening wording on Round 10 page 3; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by printed number and opening wording on Round 10 page 4; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "answers": [
+          "Ca(OH) + 2HCl → CaCl + 2H<sub>2</sub> O 2(aq) (aq) 2(aq) (l) [NOTE: AQ = AQUEOUS; = LIQUID] L"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "Ca(OH)<sub>2</sub>(aq) + 2HCl(aq) → CaCl<sub>2</sub>(aq) + 2H<sub>2</sub>O(l) [NOTE: AQ = AQUEOUS; L = LIQUID]"
+        ],
+        "answers_sanitized": [
+          "Ca(OH)2(aq) + 2HCl(aq) -> CaCl2(aq) + 2H2O(l) [NOTE: AQ = AQUEOUS; L = LIQUID]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by printed number and opening wording on Round 10 page 4; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by printed number and opening wording on Round 10 page 5; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by printed number and opening wording on Round 10 page 6; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "parts": [
+          "Given the reaction: 4PH → (read as: yields) P + 6H , if 3(aq) 4(g) 2(g) 0.0048 moles of PH<sub>3</sub> are consumed each second of the experiment, providing your answer to the nearest ten thousandth, what is the rate of production in moles per second of P<sub>4</sub> ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given the reaction: 4PH<sub>3</sub>(aq) → (read as: yields) P<sub>4</sub>(g) + 6H<sub>2</sub>(g), if 0.0048 moles of PH<sub>3</sub> are consumed each second of the experiment, providing your answer to the nearest ten thousandth, what is the rate of production in moles per second of P<sub>4</sub>?"
+        ],
+        "parts_sanitized": [
+          "Given the reaction: 4PH3(aq) -> (read as: yields) P4(g) + 6H2(g), if 0.0048 moles of PH3 are consumed each second of the experiment, providing your answer to the nearest ten thousandth, what is the rate of production in moles per second of P4?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by printed number and opening wording on Round 10 page 6; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "parts": [
+          "If the volume of oil leaked into the ocean from a damaged drilling V 0 .0 r 2 platform is given by the equation 5π , where r is the radius of the spill, use differentials = to estimate the error in cubic meters of the volume if there is a possible error of 0.5 meters in the radius measurement of a spill of radius 100/π meters."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the volume of oil leaked into the ocean from a damaged drilling platform is given by the equation V = 0.05πr<sup>2</sup>, where r is the radius of the spill, use differentials to estimate the error in cubic meters of the volume if there is a possible error of 0.5 meters in the radius measurement of a spill of radius 100/π meters."
+        ],
+        "parts_sanitized": [
+          "If the volume of oil leaked into the ocean from a damaged drilling platform is given by the equation V = 0.05*pi*r^2, where r is the radius of the spill, use differentials to estimate the error in cubic meters of the volume if there is a possible error of 0.5 meters in the radius measurement of a spill of radius 100/pi meters."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by printed number and opening wording on Round 10 page 7; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by printed number and opening wording on Round 10 page 7; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by printed number and opening wording on Round 10 page 8; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by printed number and opening wording on Round 10 page 8; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by printed number and opening wording on Round 10 page 9; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by printed number and opening wording on Round 10 page 9; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "parts": [
+          "Nitrogen molecules of mass 4.65 x 10 kilograms are contained −<sup>26</sup> 23 in a cube with sides that have an area of 6 x 10 square meters. If 5.0 x 10 molecules collide −<sup>4</sup> head on elastically each second with one wall at a speed of 300 meters per second, what is the pressure exerted on the wall to the nearest kilopascal?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Nitrogen molecules of mass 4.65 × 10<sup>−26</sup> kilograms are contained in a cube with sides that have an area of 6 × 10<sup>−4</sup> square meters. If 5.0 × 10<sup>23</sup> molecules collide head on elastically each second with one wall at a speed of 300 meters per second, what is the pressure exerted on the wall to the nearest kilopascal?"
+        ],
+        "parts_sanitized": [
+          "Nitrogen molecules of mass 4.65 × 10^-26 kilograms are contained in a cube with sides that have an area of 6 × 10^-4 square meters. If 5.0 × 10^23 molecules collide head on elastically each second with one wall at a speed of 300 meters per second, what is the pressure exerted on the wall to the nearest kilopascal?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by printed number and opening wording on Round 10 page 10; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by printed number and opening wording on Round 10 page 10; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "answers": [
+          "<span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;3</span></span>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>√3</span><span>3</span></span>"
+        ],
+        "answers_sanitized": [
+          "sqrt(3)/3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by printed number and opening wording on Round 10 page 11; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by printed number and opening wording on Round 10 page 11; compared the complete prompt, choices where present, and answer against the source PDF.",
+      "before": {
+        "parts": [
+          "Providing your answer in scientific notation with two significant digits, how much energy in joules is required to heat a clay pizza baking stone with mass of 4.8 kilograms and a specific heat of 860 joules per kilogram Kelvin from 25° Celsius to 235° Celsius? × 5"
+        ],
+        "answers": [
+          "8.7 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer in scientific notation with two significant digits, how much energy in joules is required to heat a clay pizza baking stone with mass of 4.8 kilograms and a specific heat of 860 joules per kilogram Kelvin from 25° Celsius to 235° Celsius?"
+        ],
+        "answers": [
+          "8.7 × 10<sup>5</sup>"
+        ],
+        "answers_sanitized": [
+          "8.7 × 10^5"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by printed number and opening wording on Round 10 page 12; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by printed number and opening wording on Round 10 page 12; compared the complete prompt, choices where present, and answer against the source PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by printed number and opening wording on Round 10 page 13; compared the complete prompt, choices where present, and answer against the source PDF."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,457 @@
+{
+  "packetIndex": 151,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/4A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 toss-up 1 asks longest geologic eon; options Hadean, Archean [ar-KEE-en], Proterozoic [proh-tair-oh-ZOH-ik], Phanerozoic [fah-NAIR-oh-zoh-ik]; answer Y) Proterozoic."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints molecular formulas O₂ and O₃ in the prompt; the four options and answer W) allotropes match. Corpus omitted subscript formatting, so restored the exact formulas.",
+      "before": {
+        "question": "O2 and O3 are considered what type of molecules?<br>W) Allotropes<br>X) Structural isomers<br>Y) Isotopes<br>Z) Geometrical isomers"
+      },
+      "changes": {
+        "question": "O<sub>2</sub> and O<sub>3</sub> are considered what type of molecules?<br>W) Allotropes<br>X) Structural isomers<br>Y) Isotopes<br>Z) Geometrical isomers",
+        "question_sanitized": "O₂ and O₃ are considered what type of molecules? W) Allotropes X) Structural isomers Y) Isotopes Z) Geometrical isomers"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 toss-up 4 asks least-to-most efficient ordering of LED, incandescent, compact fluorescent; answer 2, 3, 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 toss-up 5 describes a rock on broken string with gravity neglected; options tangent, inward, outward, zero acceleration; answer Z) acceleration is now zero."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 toss-up 6 asks midpoint of endpoints (1,6) and (5,-2); answer (3,2)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 toss-up 7 gives light angles 60° in vacuum and 30° in material; four refractive-index choices are spelled-out roots/values; answer X) square root of 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 asks hybridization state of graphene carbon atoms and prints answer SP²; corpus answer flattened the superscript to SP2, so restored the rendered exponent in rich and sanitized answers.",
+      "before": {
+        "answer": "SP2"
+      },
+      "changes": {
+        "answer": "SP<sup>2</sup>",
+        "answer_sanitized": "SP²"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 toss-up 9 asks open/closed interval of angles with terminal sides in second quadrant; answer open interval from 90 to 180."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 11 asks body structure known as internal gyroscope; choices inner ears, eyes, outer ears, nose; answer W) inner ears."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 12 gives four complete statements about ages of Earth, Sun, Universe; answer Y) Universe about three times as old as Sun and Earth, which are same age."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 toss-up 13 asks what typically makes fungal cell wall; options cellulose, peptidoglycan, pectin, chitin; answer Z) chitin."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 toss-up 14 specifies 5-ohm resistor in series with two 4-ohm parallel resistors; choices 10/7,40/13,7,13 ohms; answer Y) 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints the limit question in prose as “the function with numerator x−3 and denominator x²−9”; restore only the denominator superscript and retain that full wording. The printed answer is 1/6.",
+      "before": {
+        "question": "What is the limit as x approaches 3 of the function with numerator x – 3 and denominator x2 – 9?"
+      },
+      "changes": {
+        "question": "What is the limit as x approaches 3 of the function with numerator x − 3 and denominator x<sup>2</sup> − 9?",
+        "question_sanitized": "What is the limit as x approaches 3 of the function with numerator x − 3 and denominator x² − 9?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints ammonia formula NH₃; answer X) 110 and all options match. Corpus omitted the subscript in the prompt, so restored NH₃.",
+      "before": {
+        "question": "The bond angle in NH3 is closest to which of the following degree values?<br>W) 90<br>X) 110<br>Y) 120<br>Z) 180"
+      },
+      "changes": {
+        "question": "The bond angle in NH<sub>3</sub> is closest to which of the following degree values?<br>W) 90<br>X) 110<br>Y) 120<br>Z) 180",
+        "question_sanitized": "The bond angle in NH₃ is closest to which of the following degree values? W) 90 X) 110 Y) 120 Z) 180"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 toss-up 19 gives f(x)=3x−5 and g(x)=4x, asks f(g(x)); answer 12x−5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints sp³ [S-P-3] hybridized and all four geometry options; answer Z) trigonal bipyramidal. Corpus flattened the superscript, so restored the rendered power and retained cue.",
+      "before": {
+        "question": "An atom is sp3 [S-P-3] hybridized. Which of the following is NOT a possible molecular geometry about this atom?<br>W) Bent<br>X) Trigonal pyramidal<br>Y) Tetrahedral<br>Z) Trigonal bipyramidal"
+      },
+      "changes": {
+        "question": "An atom is sp<sup>3</sup> [S-P-3] hybridized. Which of the following is NOT a possible molecular geometry about this atom?<br>W) Bent<br>X) Trigonal pyramidal<br>Y) Tetrahedral<br>Z) Trigonal bipyramidal",
+        "question_sanitized": "An atom is sp³ [S-P-3] hybridized. Which of the following is NOT a possible molecular geometry about this atom? W) Bent X) Trigonal pyramidal Y) Tetrahedral Z) Trigonal bipyramidal"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 toss-up 21 asks antibody-dependent cell-mediated cytotoxicity; four mechanisms listed; answer Y) mediated by Fc receptors on NK cells and myeloid leukocytes."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints an arc length of 6.28 meters and angular rotation π/4; options 2,4,8,16 meters; answer Y) 8. Corpus spells pi/4 as letters, so normalized the formula symbol.",
+      "before": {
+        "question": "A student at the edge of a merry-go-round travels along an arc of length 6.28 meters as the ride completes a pi/4 angular rotation. To the nearest meter, what is the radius of the ride?<br>W) 2<br>X) 4<br>Y) 8<br>Z) 16"
+      },
+      "changes": {
+        "question": "A student at the edge of a merry-go-round travels along an arc of length 6.28 meters as the ride completes a π/4 angular rotation. To the nearest meter, what is the radius of the ride?<br>W) 2<br>X) 4<br>Y) 8<br>Z) 16",
+        "question_sanitized": "A student at the edge of a merry-go-round travels along an arc of length 6.28 meters as the ride completes a π/4 angular rotation. To the nearest meter, what is the radius of the ride? W) 2 X) 4 Y) 8 Z) 16"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 toss-up 23 asks hurricane-driven buildup of ocean water pushed landward; choices tsunami, surge tide, storm surge, rogue wave; answer Y) storm surge."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 1 lists three threats to California water supplies: slow reservoir recharge, agricultural consumption, strike-slip faults crossing aqueducts; answer all of them."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 2 asks floral parts with sepals/petals in a monoecious flower; choices stamens/carpels, filaments, carpels, pistils; answer Z) pistils."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 bonus 3 assumes CO bond order 3 and lists four carbon/oxygen formal-charge pairs; answer Y) −1 carbon and +1 oxygen."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 bonus 5 asks most malleable element at STP; answer gold."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly shows system x² + y² = 2 and x + y = 2; answer (1,1), accepting x=1 and y=1. Corpus flattened both superscripts to baseline digits, so restored exponent grouping.",
+      "before": {
+        "parts": [
+          "Solve the following system of two equations in two unknowns: x2 + y2 = 2 and x + y = 2."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following system of two equations in two unknowns: x<sup>2</sup> + y<sup>2</sup> = 2 and x + y = 2."
+        ],
+        "parts_sanitized": [
+          "Solve the following system of two equations in two unknowns: x² + y² = 2 and x + y = 2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 bonus 7 asks lumens from 1-candela isotropic source into upper half plane; answer 2π."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 spells the temperature unit Celsius in the gas-effusion question; corpus misspells it Celcius. Corrected the source-backed spelling; order and answer 2,3,1 match.",
+      "before": {
+        "parts": [
+          "Order the following three gases from slowest to fastest in terms of their rate of effusion at 25 degrees Celcius: 1) Helium; 2) Argon; 3) Neon."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Order the following three gases from slowest to fastest in terms of their rate of effusion at 25 degrees Celsius: 1) Helium; 2) Argon; 3) Neon."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 bonus 9 lists four base-2 sums with full digit read-as cues; largest is W) 1 + 1111, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 bonus 10 asks undesirable nuclear-fuel-rod coating quality; options corrosion resistance, high neutron absorption, hardness, low water reactivity; answer X) high neutron absorption."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 bonus 12 describes Northern Hemisphere zonal flow with low pressure to north and asks direction to face with back to oncoming wind; answer east."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 bonus 14 gives 10-kg rock dropped 180m under g=10m/s²; asks impact speed; answer 60m/s."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 bonus 16 gives 600-liter tank and 35-liter containers; asks minimum count; answer 18 and rejects 17 1/7 and 120/7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 bonus 17 asks strongest of sigma, pi, delta d-d bonds; answer W) sigma."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 bonus 18 asks two primary gases in syngas from coal gasification; answer carbon monoxide and hydrogen."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 19 asks LCM of first four composite numbers; answer 72."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 20 asks EM-spectrum region for helium 1s-to-2p excitation; answer ultraviolet (accept UV)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 bonus 21 asks which listed compound is not a biogenic amine; includes Dynorphin [dye-NOR-fin] and norepinephrine [NOR-eh-pih-NEH-frin] cues; answer W) dynorphin."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 bonus 22 gives thin lens object distance 10 cm and focal length 2 cm and sign convention for inverted image; answer −1/4 (accept −.25)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 bonus 23 asks second most abundant element in crust not commonly elemental; answer silicon."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [8],
+      "evidence": "The toss-up about the nearest galaxy cluster is located in sequence at packet question 15 (corpus itemIndex 14), but the source PDF prints its number as 5 rather than 15; recorded under the content-matched identity without shifting indexes."
+    }
+  ]
+}

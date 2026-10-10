@@ -1,0 +1,510 @@
+{
+  "packetIndex": 180,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_16A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints “Kirchhoff’s loop rule”; the import double-escaped the apostrophe. The answer is CONSERVATION OF ENERGY (ACCEPT: ENERGY).",
+      "before": {
+        "question": "Kirchhoff&amp;apos;s loop rule is a consequence of what conservation principle?"
+      },
+      "changes": {
+        "question": "Kirchhoff&apos;s loop rule is a consequence of what conservation principle?",
+        "question_sanitized": "Kirchhoff’s loop rule is a consequence of what conservation principle?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “What is the distance from the point (1, 3, 5) to the origin?” and answer “√35”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Which of the following organisms possesses cnidocytes [NYE-doh-sites] ? W) Tapeworm X) Jellyfish Y) Starf” and answer “X) JELLYFISH”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Which of the following sources of electricity had the largest increase in capacity in the US between 1990” and answer “Y) NATURAL GAS”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Which of the following is not true about early transition metals in comparison to late transition metals?” and answer “W) EASIER TO OXIDIZE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “What is the term for cancers that arise in epithelial [eh-pih-THEEL-ee-ul] tissues?” and answer “CARCINOMA”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “What is the minimum number of photons created in an electron-positron annihilation in free space?” and answer “2”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “Consider a single-reactant reaction that has a rate constant equal to 24 seconds to the negative 1, molar” and answer “3 (ACCEPT: THIRD ORDER, TRIMOLECULAR)”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “In a triple-elimination tournament, each game is played by two teams, there are no ties, and teams are el” and answer “248”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “In 1918, the German mathematician Emmy Noether [Noh-tur] published a theorem that shows that every conser” and answer “ANGULAR MOMENTUM”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints “the Sun’s disk”; the import double-escaped this apostrophe.",
+      "before": {
+        "question": "What is the term for the flame-like jets of gas that can be seen at the edge of the Sun&amp;apos;s disk extending into the chromosphere, dissipating after 5 to 15 minutes?"
+      },
+      "changes": {
+        "question": "What is the term for the flame-like jets of gas that can be seen at the edge of the Sun&apos;s disk extending into the chromosphere, dissipating after 5 to 15 minutes?",
+        "question_sanitized": "What is the term for the flame-like jets of gas that can be seen at the edge of the Sun’s disk extending into the chromosphere, dissipating after 5 to 15 minutes?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “In an RLC circuit, the resonance frequency is defined to be at the point at which what quantity is minimi” and answer “IMPEDENCE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “Eventually, some stars will begin to fuse helium into carbon. What is the name of this process?” and answer “TRIPLE ALPHA PROCESS”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Identify all of the following three species that are Lewis acids: 1) Zn 2+ ; 2) Cl - ; 3) BH 3 .” and answer “1 AND 3”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “The line with equation y = –2x + 5 is reflected across the y-axis. What is the slope-intercept equation o” and answer “y = 2x + 5”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Scientists at Argonne National Lab are using computational chemistry to probe the catalytic properties of” and answer “DENSITY FUNCTIONAL THEORY (ACCEPT: DFT)”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “What term is given to the layer of an ocean or lake that extends from the surface to the depth at which 9” and answer “PHOTIC ZONE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “Charged-coupled devices and complementary metal oxide sensors are devices typically used to detect what?” and answer “LIGHT (ACCEPT: ELECTROMAGNETIC RADIATION)”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “Using the point names A, B, C, D, and E, how many different names are there for pentagon ABCDE?” and answer “10”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “What is the bond-order of an oxygen-oxygen bond in ozone?” and answer “1.5”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “What technique would scientists use if they wanted to amplify a small region of DNA?” and answer “PCR (ACCEPT: POLYMERASE CHAIN REACTION)”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “A spacecraft approaches Jupiter head-on for a gravitational slingshot maneuver. Jupiter has an orbital ve” and answer “46”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “Consider an infinite geometric series with sum equal to 8/3 and first term 7/5. What is the value of the ” and answer “19/40”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Rank the following four proteins in order of increasing oxygen-binding affinity: 1) Adult hemoglobin at p” and answer “3, 1, 2, 4”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Most lignite is used for what purpose in the US? W) Municipal heating X) Electricity Y) Automobile fuel Z” and answer “X) ELECTRICITY”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “The flattening of a protostellar disk in new stars is primarily due to the conservation of what physical ” and answer “ANGULAR MOMENTUM”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Rank the following three hydrogen atoms in terms of increasing pKa: 1) Hydrogen atom in a water molecule;” and answer “1, 3, 2”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Identify all of the following three statements that are true regarding tendrils in plants: 1) They can on” and answer “2 AND 3”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Because of observed neutrino oscillation, what property of the neutrino must be non-zero?” and answer “MASS”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “The Heck coupling is a cross-coupling reaction that treats an aryl halide with what functional group?” and answer “ALKENE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints x⁶ + 3x⁴ − 2x³ + 7x − 3 divided by x + 2; the import flattened each exponent.",
+      "before": {
+        "parts": [
+          "What is the remainder when x 6 + 3x 4 – 2x 3 + 7x – 3 is divided by x + 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the remainder when x<sup>6</sup> + 3x<sup>4</sup> − 2x<sup>3</sup> + 7x − 3 is divided by x + 2?"
+        ],
+        "parts_sanitized": [
+          "What is the remainder when x^6 + 3x^4 − 2x^3 + 7x − 3 is divided by x + 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “Solid oxide fuel cells can operate at temperatures as high as 1000 degrees Celsius. This high temperature” and answer “CATALYST (ACCEPT: PLATINUM)”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “The reciprocal of the age of the universe, when converted to kilometers per second per Megaparsec, approx” and answer “HUBBLE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “A 50-centimeter-long wire with mass 10 grams is suspended horizontally from a ceiling, parallel to the x-” and answer “0.2”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “What is the term for the minimum distance a satellite must orbit from a planetary body without being torn” and answer “X) ROCHE LIMIT”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Which of the following statements about a valid wave function is true? W) A wave function must be single-” and answer “W) A WAVE FUNCTION MUST BE SINGLE-VALUED”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Triangle ABC has all angles with integral degree measures and the measure of angle A equals 5 times the m” and answer “29”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 prints “the graphene’s electronic properties”; the import double-escaped the apostrophe. The answer is SODIUM.",
+      "before": {
+        "parts": [
+          "Scientists at Brookhaven National Lab discovered that layering graphene on top of soda- lime glass resulted in a large change in the graphene&amp;apos;s electronic properties. What specific element in the glass was found to be responsible for these changes?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Scientists at Brookhaven National Lab discovered that layering graphene on top of soda-lime glass resulted in a large change in the graphene&apos;s electronic properties. What specific element in the glass was found to be responsible for these changes?"
+        ],
+        "parts_sanitized": [
+          "Scientists at Brookhaven National Lab discovered that layering graphene on top of soda-lime glass resulted in a large change in the graphene’s electronic properties. What specific element in the glass was found to be responsible for these changes?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “What storage polysaccharide that is found in animals contains highly branched chains of sugars containing” and answer “GLYCOGEN”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “What is the name for a cloud that looks like a pouch and often forms hanging down from the underside of t” and answer “MAMMATUS”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “The resulting kinetic energy of an ejected photo-electron is NOT determined by which of the following? W)” and answer “Z) LIGHT INTENSITY”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “What is the greatest common divisor of 234 and 2826?” and answer “18”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “Identify all of the following three statements that are true regarding atomic nuclei: 1) The maximum numb” and answer “2 AND 3”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “MPF, or mitosis [my-TOW-sis] promoting factor, is a complex between a CDK and a protein of what class?” and answer “CYCLIN”; compared the full prompt, choices if present, and answer."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "tossups",
+      "number": 5,
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 contains tossup 5, but its source type label is printed as “Multiple Choic” (missing the final e). The complete source question is “Saturn’s rings are mostly composed of which of the following materials?” Choices are W) Ice, X) Silicates, Y) Carbonates, Z) Iron; the printed answer is W) ICE. The malformed type caused import omission.",
+      "proposedRecovery": {
+        "kind": "tossups",
+        "number": 5,
+        "category": "Earth and Space",
+        "type": "Multiple Choice",
+        "question": "Saturn’s rings are mostly composed of which of the following materials?<br>W) Ice<br>X) Silicates<br>Y) Carbonates<br>Z) Iron",
+        "options": [
+          "W) Ice",
+          "X) Silicates",
+          "Y) Carbonates",
+          "Z) Iron"
+        ],
+        "answer": "W) ICE"
+      }
+    }
+  ]
+}

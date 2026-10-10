@@ -1,0 +1,589 @@
+{
+  "packetIndex": 94,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND13.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 1 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 2 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered toss-up 3 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 shows log with base b and b raised to 4c; the captured prompt flattened both parts of the notation.",
+      "before": {
+        "question": "If log b (5) = c [log base b of 5 equals c], then what does b 4c [b to the power of 4 c] equal?"
+      },
+      "changes": {
+        "question": "If log<sub>b</sub>(5) = c [log base b of 5 equals c], then what does b<sup>4c</sup> [b to the power of 4 c] equal?",
+        "question_sanitized": "If log_b(5) = c [log base b of 5 equals c], then what does b^(4c) [b to the power of 4 c] equal?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered toss-up 6 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 9 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 10 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root viewed PDF p. 6: the displayed limit and |x|/x fraction precede the complete bracketed verbal cue. Restored both instead of replacing words inside the cue with a fraction.",
+      "before": {
+        "question": "Which of the following is [the limit as x approaches 0 of the absolute value of x over x]?<br>W) -1<br>X) 0<br>Y) 1<br>Z) The limit does not exist"
+      },
+      "changes": {
+        "question": "Which of the following is lim<sub>x→0</sub> <span class=\"nsb-fraction\"><span>|x|</span><span>x</span></span> [the limit as x approaches 0 of the absolute value of x over x]?<br>W) -1<br>X) 0<br>Y) 1<br>Z) The limit does not exist",
+        "question_sanitized": "Which of the following is lim as x→0 (|x|)/x [the limit as x approaches 0 of the absolute value of x over x]?\nW) -1\nX) 0\nY) 1\nZ) The limit does not exist"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 12 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 13 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 14 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 15 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 shows options x, x/(2W), 2W/x, and 2W/x²; the captured final exponent was flattened.",
+      "before": {
+        "question": "Work W is done to extend a spring beyond its natural length by a small distance x. Assuming a spring constant of 1, which of the following is the magnitude of the maximum force done by the person stretching the spring?<br>W) x<br>X) x/2W<br>Y) 2W/x<br>Z) 2W/x2",
+        "options": [
+          "W) x",
+          "X) x/2W",
+          "Y) 2W/x",
+          "Z) 2W/x2"
+        ]
+      },
+      "changes": {
+        "question": "Work W is done to extend a spring beyond its natural length by a small distance x. Assuming a spring constant of 1, which of the following is the magnitude of the maximum force done by the person stretching the spring?<br>W) x<br>X) <span class=\"nsb-fraction\"><span>x</span><span>2W</span></span><br>Y) <span class=\"nsb-fraction\"><span>2W</span><span>x</span></span><br>Z) 2W/x<sup>2</sup>",
+        "question_sanitized": "Work W is done to extend a spring beyond its natural length by a small distance x. Assuming a spring constant of 1, which of the following is the magnitude of the maximum force done by the person stretching the spring?\nW) x\nX) x/(2W)\nY) 2W/x\nZ) 2W/x^2",
+        "options": [
+          "W) x",
+          "X) <span class=\"nsb-fraction\"><span>x</span><span>2W</span></span>",
+          "Y) <span class=\"nsb-fraction\"><span>2W</span><span>x</span></span>",
+          "Z) 2W/x<sup>2</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 17 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 18 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 19 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 shows y = 2ˣ and y = −x² + 2; the captured prompt flattened both exponents.",
+      "before": {
+        "question": "How many points of intersection exist for the graphs of y = 2x [y equals 2 to the power of x] and y = -x2 + 2?"
+      },
+      "changes": {
+        "question": "How many points of intersection exist for the graphs of y = 2<sup>x</sup> [y equals 2 to the power of x] and y = −x<sup>2</sup> + 2?",
+        "question_sanitized": "How many points of intersection exist for the graphs of y = 2^x [y equals 2 to the power of x] and y = -x^2 + 2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 22 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 23 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 24 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered toss-up 25 section on source page 13, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered bonus 1 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered bonus 2 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 3 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 4 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 gives the cosine as 25/32; represented the answer with explicit fraction structure.",
+      "before": {
+        "answers": [
+          "25/32"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>25</span><span>32</span></span>"
+        ],
+        "answers_sanitized": [
+          "25/32"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered bonus 6 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 7 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 9 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 10 section on source page 5; the analemma prompt and answer match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered bonus 11 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered bonus 12 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 13 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 14 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 15 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 16 section on source page 8; the 4/5 length ratio and answer 3c/5 match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 shows the subscript b in Kb and 2.53 °C per molal; the captured prompt separated the subscript.",
+      "before": {
+        "parts": [
+          "Given that the K b of a particular solvent is 2.53 oC per molal and providing your answer to two decimal places, by how many degrees Celsius would the boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of solvent?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that the K<sub>b</sub> of a particular solvent is 2.53 °C per molal and providing your answer to two decimal places, by how many degrees Celsius would the boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of solvent?"
+        ],
+        "parts_sanitized": [
+          "Given that the Kb of a particular solvent is 2.53 °C per molal and providing your answer to two decimal places, by how many degrees Celsius would the boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of solvent?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 18 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 shows −7 + |3 − 2x| = 15 and answers −19/2 and 25/2; the source cue is retained.",
+      "before": {
+        "parts": [
+          "Providing your answers as improper fractions in lowest terms, solve [negative 7 plus the absolute value of the quantity 3 minus 2x equals 15] for x."
+        ],
+        "answers": [
+          "-19/2 AND 25/2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answers as improper fractions in lowest terms, solve −7 + |3 − 2x| = 15 [negative 7 plus the absolute value of the quantity 3 minus 2x equals 15] for x."
+        ],
+        "parts_sanitized": [
+          "Providing your answers as improper fractions in lowest terms, solve -7 + |3 - 2x| = 15 [negative 7 plus the absolute value of the quantity 3 minus 2x equals 15] for x."
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>-19</span><span>2</span></span> AND <span class=\"nsb-fraction\"><span>25</span><span>2</span></span>"
+        ],
+        "answers_sanitized": [
+          "-19/2 AND 25/2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 20 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered bonus 21 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 shows choices √3, √3/2, 3^(3/2), and 3^(2/3); the last two exponents and fraction were flattened in the captured fields.",
+      "before": {
+        "parts": [
+          "Planets A and B are in circular orbits about the same star. Planet A's orbital radius is three times as large as Planet B's. Which of the following is the ratio of Planet A's orbital period to Planet B's?<br>W) <br>X) /2<br>Y) 33/2 [three to the power of the quantity three over two]<br>Z) 32/3 [three to the power of the quantity two over three]"
+        ],
+        "options": [
+          "W) ",
+          "X) /2",
+          "Y) 33/2 [three to the power of the quantity three over two]",
+          "Z) 32/3 [three to the power of the quantity two over three]"
+        ],
+        "answers": [
+          "Y) 33/2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Planets A and B are in circular orbits about the same star. Planet A's orbital radius is three times as large as Planet B's. Which of the following is the ratio of Planet A's orbital period to Planet B's?<br>W) √3<br>X) <span class=\"nsb-fraction\"><span>√3</span><span>2</span></span><br>Y) 3<sup>3/2</sup> [three to the power of the quantity three over two]<br>Z) 3<sup>2/3</sup> [three to the power of the quantity two over three]"
+        ],
+        "parts_sanitized": [
+          "Planets A and B are in circular orbits about the same star. Planet A's orbital radius is three times as large as Planet B's. Which of the following is the ratio of Planet A's orbital period to Planet B's?\nW) sqrt(3)\nX) sqrt(3)/2\nY) 3^(3/2) [three to the power of the quantity three over two]\nZ) 3^(2/3) [three to the power of the quantity two over three]"
+        ],
+        "options": [
+          "W) √3",
+          "X) <span class=\"nsb-fraction\"><span>√3</span><span>2</span></span>",
+          "Y) 3<sup>3/2</sup> [three to the power of the quantity three over two]",
+          "Z) 3<sup>2/3</sup> [three to the power of the quantity two over three]"
+        ],
+        "answers": [
+          "Y) 3<sup>3/2</sup>"
+        ],
+        "answers_sanitized": [
+          "Y) 3^(3/2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 23 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered bonus 25 section on source page 13, including prompt, choices where present, and answer."
+    }
+  ],
+  "packetIssues": []
+}

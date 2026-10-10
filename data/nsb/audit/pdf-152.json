@@ -1,0 +1,472 @@
+{
+  "packetIndex": 152,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/5A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 visually confirms arc-length prompt, radius 80 miles, choices 16/40/80/400, and answer W) 16."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 visibly prints BrO₄⁻ with four as a subscript and the minus charge as a superscript; both bracketed pronunciation cues and +7 wording are retained.",
+      "before": {
+        "question": "What is the name of the oxyanion [ox-ee-AN-eye-on] of bromine in which bromine has a +7 oxidation state and formula BrO4- [B-R-oh-4-negative]?"
+      },
+      "changes": {
+        "question": "What is the name of the oxyanion [ox-ee-AN-eye-on] of bromine in which bromine has a +7 oxidation state and formula BrO<sub>4</sub><sup>−</sup> [B-R-oh-4-negative]?",
+        "question_sanitized": "What is the name of the oxyanion [ox-ee-AN-eye-on] of bromine in which bromine has a +7 oxidation state and formula BrO₄⁻ [B-R-oh-4-negative]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms maple-tapping prompt, all Xylem/Phloem/Cambium/Bark choices and their pronunciation cues, and W) XYLEM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms 2:3:4 angle ratio, full three-angle question wording, and answer 40, 60, 80."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Fischer esterification prompt and answer METHANOL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms the circuit impedance wording (source spelling “impedence”), lithium-ion battery context, and SHORT CIRCUIT answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms the four numbered forces, inertial-frame wording, and answer 2, 3 with CENTRIPETAL/LORENTZ accepted."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms options B12/B6/B2/C and answer W) B12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 visually confirms the 2 and 3 are superscript powers in the stem and Y/Z choices; all four choices and W) –6x answer match the print.",
+      "before": {
+        "question": "With respect to x, which of the following has –3x2 as an antiderivative?<br>W) –6x<br>X) 6x<br>Y) –x3<br>Z) x3",
+        "options": [
+          "W) –6x",
+          "X) 6x",
+          "Y) –x3",
+          "Z) x3"
+        ]
+      },
+      "changes": {
+        "question": "With respect to x, which of the following has –3x<sup>2</sup> as an antiderivative?<br>W) –6x<br>X) 6x<br>Y) –x<sup>3</sup><br>Z) x<sup>3</sup>",
+        "question_sanitized": "With respect to x, which of the following has –3x² as an antiderivative? W) –6x X) 6x Y) –x³ Z) x³",
+        "options": [
+          "W) –6x",
+          "X) 6x",
+          "Y) –x<sup>3</sup>",
+          "Z) x<sup>3</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms the nitrogen monoxide question, four choices, and answer Z) A FREE RADICAL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms 42-gallon barrel prompt, 10/20/30/40 choices, and answer X) 20."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms the printed prime-factor question, the full answer 3, 5, and 7, and no additional notes."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms symport definition, same-direction transport, favorable/unfavorable coupling, and SYMPORT answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms all three parallel-resistor statements and answer 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms body-centered-cubic wording, choices 2/4/6/8, and answer Z) 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms hollow metallic sphere radius, charge distance/value, volts-per-meter request, and answer 0."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms exterior-angle question wording and answer 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms wave-cycle period question and answer PERIOD."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms all four minerals and their numbered order, plus full accepted mineral sequence."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms both material thicknesses, R-values per inch, total-R prompt, and answer 6.8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms peptide-bond atom question, all four choices, and answer Z) PHOSPHORUS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms stomatal-pore question, all four cell choices including source pronunciation cue, and answer W) GUARD CELLS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Descartes’ rule prompt and answer DESCARTES’ RULE OF SIGNS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms all three sulfuric-acid concentration types, lowest-to-highest pH wording, and order 3, 2, 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms all four transmission-line options and answer X, including the square-of-voltage wording."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms alpha-particle velocity, helium-4 target and elastic-collision wording, and answer 600."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms complete galaxy-motion choices and W answer wording."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms genome-duplication prompt, four full options, and Y answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 visibly prints each of (x−2), (y−7), and (z+1) raised to the second power; the printed answer is center (2, 7, −1), radius 6.",
+      "before": {
+        "parts": [
+          "Identify the center and radius of the sphere with equation 36 = open parenthesis x – 2 close parenthesis squared + open parenthesis y – 7 close parenthesis squared + open parenthesis z + 1 close parenthesis squared."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify the center and radius of the sphere with equation 36 = (x − 2)<sup>2</sup> + (y − 7)<sup>2</sup> + (z + 1)<sup>2</sup>."
+        ],
+        "parts_sanitized": [
+          "Identify the center and radius of the sphere with equation 36 = (x − 2)² + (y − 7)² + (z + 1)²."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 visually confirms M is 2+ and the configuration is [Ar] 3d⁸ 4s⁰; all four choices and their cues and answer X) NICKEL match the source.",
+      "before": {
+        "parts": [
+          "M2+ is a metal ion with a ground state electron configuration of [Ar]3d84s0 [argon-3-d-8-4-s-0]. What is the identity of M?<br>W) Molybdenum [muh-LIB-den-um]<br>X) Nickel<br>Y) Niobium<br>Z) Magnesium"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "M<sup>2+</sup> is a metal ion with a ground state electron configuration of [Ar]3d<sup>8</sup>4s<sup>0</sup> [argon-3-d-8-4-s-0]. What is the identity of M?<br>W) Molybdenum [muh-LIB-den-um]<br>X) Nickel<br>Y) Niobium<br>Z) Magnesium"
+        ],
+        "parts_sanitized": [
+          "M²⁺ is a metal ion with a ground state electron configuration of [Ar]3d⁸4s⁰ [argon-3-d-8-4-s-0]. What is the identity of M? W) Molybdenum [muh-LIB-den-um] X) Nickel Y) Niobium Z) Magnesium"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms the uranium capture question, all four element-family choices and pronunciation cues, and answer Z) ACTINIDES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms both square-root function definitions, quotient domain wording, all four inequalities, and answer W) x > 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms all three listed constellations/asterisms, North Pole/December wording, and accepted answer 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms full Mycobacterium disease question, all choices and pronunciations, and answer Z."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms horizontal velocity 20 m/s, height 125 m, air-resistance condition, nearest-whole-number wording and answer 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms orbital s/p/d/f question and AZIMUTHAL answer with angular-momentum/L accepted."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms intrinsic-factor prompt and B12 answer with COBALAMIN accepted."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms marbles/railcars, initial KE 100 J, 50% mass reduction, doubled speed, and answer 200."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 shows the exponent 2 on n in 2n²; the source answer is 60.",
+      "before": {
+        "parts": [
+          "What is the sum from n = 1 to 4 of 2n2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the sum from n = 1 to 4 of 2n<sup>2</sup>?"
+        ],
+        "parts_sanitized": [
+          "What is the sum from n = 1 to 4 of 2n²?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms gaining-stream wording and WATER TABLE answer."
+    }
+  ],
+  "packetIssues": []
+}

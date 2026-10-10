@@ -1,0 +1,518 @@
+{
+  "packetIndex": 103,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-7.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “Schrödinger's equation is a fundamental part of what scientific theory?”; I compared its full wording, every printed choice, significant numbers, and answer key (QUANTUM MECHANICS (ACCEPT: QUANTUM MECHANICAL THEORY, QUANTUM THEORY, QUANTUM PHYSICS; DO NOT ACCEPT: WAVE MECHANICS)) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “Dr. Ecniecs, who loves riddles, gave the following riddle about the periodic table: Element A is lef”; I compared its full wording, every printed choice, significant numbers, and answer key (NEON AND FLUORINE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “Which of the following is typically derived from ectoderm [EK-tuh- durm]? W) Areolar connective tiss”; I compared its full wording, every printed choice, significant numbers, and answer key (X) NERVOUS TISSUE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks for f(1/t) given t ≠ 0 and f(t) = 1/t; the printed answer is t.",
+      "before": {
+        "question": "Given that t ≠ 0, find 𝑓( ) if f (t ) = . 𝑡 𝑡"
+      },
+      "changes": {
+        "question": "Given that t ≠ 0, find f(1/t) if f(t) = 1/t.",
+        "question_sanitized": "Given that t ≠ 0, find f(1/t) if f(t) = 1/t."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered page 4 shows k = 9 × 10⁹, choices 9 × 10⁻⁶, 1 × 10⁻³, 9 × 10⁻³, 9 × 10⁹, and key Y) 9 × 10⁻³; the source superscripts were flattened in the corpus.",
+      "before": {
+        "question": "Two spheres, each with a charge of 3 microcoulombs, are separated by 9 meters. Given that k = 9 x 109 meters per farad, how much electric potential energy in joules is stored in this combination of charges?<br>W) 9 x 10-6<br>X) 1 x 10-3<br>Y) 9 x 10-3<br>Z) 9 x 109",
+        "options": [
+          "W) 9 x 10-6",
+          "X) 1 x 10-3",
+          "Y) 9 x 10-3",
+          "Z) 9 x 109"
+        ],
+        "answer": "Y) 9 x 10-3"
+      },
+      "changes": {
+        "question": "Two spheres, each with a charge of 3 microcoulombs, are separated by 9 meters. Given that k = 9 × 10<sup>9</sup> meters per farad, how much electric potential energy in joules is stored in this combination of charges?<br>W) 9 × 10<sup>−6</sup><br>X) 1 × 10<sup>−3</sup><br>Y) 9 × 10<sup>−3</sup><br>Z) 9 × 10<sup>9</sup>",
+        "question_sanitized": "Two spheres, each with a charge of 3 microcoulombs, are separated by 9 meters. Given that k = 9 x 10^9 meters per farad, how much electric potential energy in joules is stored in this combination of charges? W) 9 x 10^-6 X) 1 x 10^-3 Y) 9 x 10^-3 Z) 9 x 10^9",
+        "options": [
+          "W) 9 × 10<sup>−6</sup>",
+          "X) 1 × 10<sup>−3</sup>",
+          "Y) 9 × 10<sup>−3</sup>",
+          "Z) 9 × 10<sup>9</sup>"
+        ],
+        "answer": "Y) 9 × 10<sup>−3</sup>",
+        "answer_sanitized": "Y) 9 x 10^-3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints “Which of the following is NOT true in the titration of a weak monoprotic acid with a strong base? W)”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) METHYL RED WOULD BE A GOOD INDICATOR TO USE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “After a volcanic eruption wipes out the organisms on an island, which of the following would be the ”; I compared its full wording, every printed choice, significant numbers, and answer key (X) WIND-DISPERSED GRASS) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 visibly shows the definite integral from 0 to 4 of 4 dx and includes that full read-as cue; the answer is 16.",
+      "before": {
+        "question": "Evaluate: ∫0 4 𝑑𝑑 [the integral from 0 to 4 of 4 dx]."
+      },
+      "changes": {
+        "question": "Evaluate: ∫<sub>0</sub><sup>4</sup> 4 dx [the integral from 0 to 4 of 4 dx].",
+        "question_sanitized": "Evaluate the integral from 0 to 4 of 4 dx [the integral from 0 to 4 of 4 dx]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 prints choices 1 × 10⁻⁴, 1 × 10⁻⁴, 2 × 10⁻⁴, 2 × 10⁻⁴ teslas and key W) 1 × 10⁻⁴, West; every exponent is superscripted in the source.",
+      "before": {
+        "question": "A wire carries a current of 2 amperes vertically upward. What is the magnitude and direction of the magnetic field in teslas produced by the wire 4 millimeters to the North of the wire?<br>W) 1 x 10-4, West<br>X) 1 x 10-4, East<br>Y) 2 x 10-4, West<br>Z) 2 x 10-4, East",
+        "options": [
+          "W) 1 x 10-4, West",
+          "X) 1 x 10-4, East",
+          "Y) 2 x 10-4, West",
+          "Z) 2 x 10-4, East"
+        ],
+        "answer": "W) 1 X 10-4, WEST"
+      },
+      "changes": {
+        "question": "A wire carries a current of 2 amperes vertically upward. What is the magnitude and direction of the magnetic field in teslas produced by the wire 4 millimeters to the North of the wire?<br>W) 1 × 10<sup>−4</sup>, West<br>X) 1 × 10<sup>−4</sup>, East<br>Y) 2 × 10<sup>−4</sup>, West<br>Z) 2 × 10<sup>−4</sup>, East",
+        "question_sanitized": "A wire carries a current of 2 amperes vertically upward. What is the magnitude and direction of the magnetic field in teslas produced by the wire 4 millimeters to the North of the wire? W) 1 x 10^-4, West X) 1 x 10^-4, East Y) 2 x 10^-4, West Z) 2 x 10^-4, East",
+        "options": [
+          "W) 1 × 10<sup>−4</sup>, West",
+          "X) 1 × 10<sup>−4</sup>, East",
+          "Y) 2 × 10<sup>−4</sup>, West",
+          "Z) 2 × 10<sup>−4</sup>, East"
+        ],
+        "answer": "W) 1 × 10<sup>−4</sup>, West",
+        "answer_sanitized": "W) 1 x 10^-4, West"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “Which of the following is NOT a proposed step in the Suzuki reaction catalytic cycle? W) Oxidative a”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) BETA-HYDRIDE ELIMINATION) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “Which of the following is NOT a tool to develop homeothermy [hoh-mee-uh-THERM-ee] in baby birds? W) ”; I compared its full wording, every printed choice, significant numbers, and answer key (X) LARGE TOES) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “A drawer contains 30 socks: 10 brown, 9 black, 6 blue, and 5 red. What is the fewest number of socks”; I compared its full wording, every printed choice, significant numbers, and answer key (5) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “What discovery in the second half of the 20th century led to the acceptance of the Big Bang theory a”; I compared its full wording, every printed choice, significant numbers, and answer key (COSMIC MICROWAVE BACKGROUND) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “A 500 kilogram roller coaster car rounds the top of a hill with a radius of 25 meters at a speed of ”; I compared its full wording, every printed choice, significant numbers, and answer key (W) 500) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “Which of the following industries has the largest water withdrawal? W) Agriculture X) Public drinkin”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) THERMOELECTRIC POWER) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “Which of the following pairs would most likely undergo a Heck reaction? W) Styrene and iodobenzene X”; I compared its full wording, every printed choice, significant numbers, and answer key (W) STYRENE AND IODOBENZENE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “Restriction endonucleases [en-duh-noo-klee-AY-sis] are found in bacteria and are thought to provide ”; I compared its full wording, every printed choice, significant numbers, and answer key (X) CLONE SPECIFIC GENES INTO PLASMIDS FOR EXPRESSION BY BACTERIA) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 displays f(x) = 2x/(x − 1), the fraction and inverse-function read-as cues, and f⁻¹(x) = 5; the keyed answer is 5/2 (also 2.5 or 2 1/2).",
+      "before": {
+        "question": "Given that 𝑓(𝑥) = [f of x equals the fraction with numerator 2x 𝑥−1 and denominator x minus 1] is a one-to-one function, find x so that f -1(x) = 5 [f inverse of x equals 5]."
+      },
+      "changes": {
+        "question": "Given f(x) = <span class=\"nsb-fraction\"><span>2x</span><span>x - 1</span></span> [f of x equals the fraction with numerator 2x and denominator x minus 1] is a one-to-one function, find x so that f<sup>-1</sup>(x) = 5 [f inverse of x equals 5].",
+        "question_sanitized": "Given f(x) = 2x/(x - 1) [f of x equals the fraction with numerator 2x and denominator x minus 1] is a one-to-one function, find x so that f⁻¹(x) = 5 [f inverse of x equals 5]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “A 3 kilogram mass, a 4 kilogram mass, and a 5 kilogram mass are placed in a line at positions of 3 m”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) 4.17) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “A rocket sled can accelerate to 40 meters per second in 0.05 seconds. What force, in newtons, would ”; I compared its full wording, every printed choice, significant numbers, and answer key (80,000) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “Rare earth magnets are often used in the production of electrical energy. What percentage of world p”; I compared its full wording, every printed choice, significant numbers, and answer key (W) 0%) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “Amides are formed through a reversible reaction that causes loss of water. This reaction occurs betw”; I compared its full wording, every printed choice, significant numbers, and answer key (CARBOXYLIC ACID) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “In the human body, copper plays a role in which of the following processes? W) Muscle contraction X)”; I compared its full wording, every printed choice, significant numbers, and answer key (Z) HEMOGLOBIN SYNTHESIS) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Root visually checked PDF page 3: the first graph equation is y = 2x² − x with a raised 2. The second line and both coordinate-pair answer alternatives match.",
+      "before": {
+        "parts": [
+          "What are the coordinates of the points of intersection of the graphs of y = 2x2 – x and y = 2x + 35?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the coordinates of the points of intersection of the graphs of y = 2x<sup>2</sup> – x and y = 2x + 35?"
+        ],
+        "parts_sanitized": [
+          "What are the coordinates of the points of intersection of the graphs of y = 2x² – x and y = 2x + 35?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “Assuming that you start with 100% U-238 and the U- 238 decays to Pb-206, how many half-lives are nee”; I compared its full wording, every printed choice, significant numbers, and answer key (X) 5) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints “In 1955, a soldier's parachute failed to deploy, causing him to fall 1200 feet from the plane to the”; I compared its full wording, every printed choice, significant numbers, and answer key (1.0) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints “Since internal alkynes [AL-kyns] have an additional pi bond, they do not form the same products as a”; I compared its full wording, every printed choice, significant numbers, and answer key (CARBOXYLIC ACID) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “How many fused rings does the carbon skeleton of steroids have? W) 2 X) 4 Y) 6 Z) 8”; I compared its full wording, every printed choice, significant numbers, and answer key (X) 4) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “A farmer has three hens of varying weights. When the hens are weighed in pairs, they weigh 11.3, 11.”; I compared its full wording, every printed choice, significant numbers, and answer key (5.5) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “A solid sphere of uniform density rolls down an incline without slipping. At the bottom of the incli”; I compared its full wording, every printed choice, significant numbers, and answer key (W) 2/7) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “At 100 volts, which of the following is closest to the amperage through a circuit that consists of t”; I compared its full wording, every printed choice, significant numbers, and answer key (X) 2.0) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “Which of the following best describes the incident and exit beams in attenuated total reflectance sp”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) INCIDENT AND EXIT BEAMS ARE PHOTONS) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “Which of the following statements about the Calvin cycle is NOT true? W) It is an important step dur”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) THE COMPOUND THAT BEGINS THE CALVIN CYCLE IS GLYCERALDEHYDE- 3-PHOSPHATE) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “The probability that a doctor is correct when making a diagnosis is 0.8. If the doctor makes an inco”; I compared its full wording, every printed choice, significant numbers, and answer key (0.06 (ACCEPT: 3/50 or 6%)) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “Which of the following classes of objects is distributed around the Sun with spherical symmetry? W) ”; I compared its full wording, every printed choice, significant numbers, and answer key (Z) LONG-PERIOD COMETS) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “Which of the following is NOT a result of parasympathetic nervous system stimulation? W) Stimulation”; I compared its full wording, every printed choice, significant numbers, and answer key (W) STIMULATION OF GLUCOSE RELEASE BY THE LIVER) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “The coefficient of kinetic friction between a car’s tires and a flat road is 0.8. The car is travell”; I compared its full wording, every printed choice, significant numbers, and answer key (100) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “Your mother has a fluorescent light in her office, and you notice a hum coming from it. Which proper”; I compared its full wording, every printed choice, significant numbers, and answer key (MAGNETOSTRICTION) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “In semicrystalline polymers, the ordered regions will break up and become disordered at the melting ”; I compared its full wording, every printed choice, significant numbers, and answer key (GLASS TRANSITION) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “What component of the nephron establishes and maintains a salt gradient used to concentrate urine? W”; I compared its full wording, every printed choice, significant numbers, and answer key (Z) LOOP OF HENLE) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Root visually checked PDF page 12: f(x) = x³ + 2x² + 5x − 2 has raised 3 and 2. The normal-line answer y = (-1/5)x − 2 and the rest of the prompt match.",
+      "before": {
+        "parts": [
+          "Providing your answer in slope intercept form, what is the equation of the normal line to the function f(x) = x3 + 2x2 + 5x – 2 at the point where x = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer in slope intercept form, what is the equation of the normal line to the function f(x) = x<sup>3</sup> + 2x<sup>2</sup> + 5x – 2 at the point where x = 0?"
+        ],
+        "parts_sanitized": [
+          "Providing your answer in slope intercept form, what is the equation of the normal line to the function f(x) = x³ + 2x² + 5x – 2 at the point where x = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “A 10 ohm resistor, a 20 ohm resistor, and a 30 ohm resistor are connected in series to a 12 volt bat”; I compared its full wording, every printed choice, significant numbers, and answer key (72) against the corpus."
+    }
+  ],
+  "packetIssues": []
+}

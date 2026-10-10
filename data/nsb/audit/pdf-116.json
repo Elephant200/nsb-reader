@@ -1,0 +1,429 @@
+{
+  "packetIndex": 116,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-3-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF text for question 1 reads “If it takes you 50 minutes to walk uphill 2 miles to school but only 30 minutes to walk back, which ”; choices are W) 3 | X) 3.5 | Y) 4 | Z) 4.5; answer reads “W) 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF text for question 2 reads “Which of the following groups of organisms would contain the most biomass productivity in a trophic ”; choices are W) Primary Producers | X) Primary Consumers | Y) Detritivores [de-TRY-tuh-vohrs] | Z) Tertiary Consumers; answer reads “W) PRIMARY PRODUCERS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF text for question 3 reads “Which of the following scientists is credited with discovering electrons and calculating their mass ”; choices are W) J.J. Thomson | X) Robert Millikan | Y) Ernest Rutherford | Z) Neils Bohr; answer reads “W) J.J. THOMSON”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF text for question 4 reads “What physical constant is the magnitude of electric charge per mole of electrons?”; answer reads “FARADAY CONSTANT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF text for question 5 reads “Joints are often formed in igneous [IG-nee-uhs] rocks, such as basalt, during what stage of the rock”; answer reads “COOLING”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF text for question 7 reads “At what point in time is a CFL’s [C-F- elz] energy consumption greatest, compared to its light outpu”; choices are W) Right after being turned on | X) After being on for 15 minutes | Y) Right after being turned off | Z) After being turned off for 15 minutes; answer reads “W) RIGHT AFTER BEING TURNED ON”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF text for question 8 reads “Name the two common crystalline forms of carbon.”; answer reads “GRAPHITE AND DIAMOND (ACCEPT: AND CARBON (IV))”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF text for question 9 reads “Unpolarized light is passed through a single polarizing filter. What fraction of the intensity of th”; answer reads “1/2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF text for question 10 reads “Huntington disease is caused by the sequence CAG [C-A-G] repeated between 37-100 times, rather than ”; answer reads “INSERTION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF text for question 11 reads “Which of the following rocks can be biogenic? W) Schist [SHIST] X) Basalt Y) Limestone Z) Gabbro”; choices are W) Schist [SHIST] | X) Basalt | Y) Limestone | Z) Gabbro; answer reads “Y) LIMESTONE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF text for question 12 reads “Lipstick is known to be a suspension of high molecular weight hydrocarbons, waxes, and other ingredi”; choices are W) Castor oil may be a dispersing agent | X) Beeswax is sometimes used as a stiffening agent | Y) Metal ions such as Nickel(II) [nickel two] are the basis for lipstick dyes | Z) Carbon soot is typically used as a coloring agent; answer reads “Z) CARBON SOOT IS TYPICALLY USED AS A COLORING AGENT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF text for question 13 reads “Which of the following statements is true for the radius r, height h, and volume V of a right circul”; choices are W) If both r and h are doubled, V is doubled | X) If r is increased by 2, V is increased by 4 | Y) If r is doubled and h is halved, V is quadrupled | Z) If r is doubled and h is divided by 4, V remains the same; answer reads “Z) IF r IS DOUBLED AND h IS DIVIDED BY 4, V REMAINS THE SAME”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 visibly prints Al₂S₃ in the answer with 2 and 3 as subscripts, followed by the full do-not-accept phrase.",
+      "before": {
+        "answer": "Al<sub>2</sub> S<sub>3</sub> (DO NOT ACCEPT: ALUMINUM SULFIDE)"
+      },
+      "changes": {
+        "answer": "Al<sub>2</sub>S<sub>3</sub> (DO NOT ACCEPT: ALUMINUM SULFIDE)",
+        "answer_sanitized": "Al₂S₃ (DO NOT ACCEPT: ALUMINUM SULFIDE)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF text for question 17 reads “In statistical testing, what term describes the default position, that there is no relationship betw”; answer reads “NULL HYPOTHESIS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF text for question 18 reads “To the nearest whole decibel, a doubling of sound intensity is equal to an increase of how many deci”; answer reads “3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 visibly prints the hydrated gypsum formula as CaSO₄ · 2 H₂O; the centered multiplication dot separates the two waters from calcium sulfate.",
+      "before": {
+        "question": "Gypsum wallboard, commonly known as drywall, is a laminar, composite material composed of front and back paper with a hydrated gypsum core. What is the chemical formula for the hydrated gypsum? ",
+        "answer": "CaSO<sub>4</sub> 2 H<sub>2</sub> O (DO NOT ACCEPT: CALCIUM SULFATE AND 2 MOLECULES OF WATER)"
+      },
+      "changes": {
+        "question": "Gypsum wallboard, commonly known as drywall, is a laminar, composite material composed of front and back paper with a hydrated gypsum core. What is the chemical formula for the hydrated gypsum?",
+        "answer": "CaSO<sub>4</sub> · 2 H<sub>2</sub>O (DO NOT ACCEPT: CALCIUM SULFATE AND 2 MOLECULES OF WATER)",
+        "answer_sanitized": "CaSO₄ · 2 H₂O (DO NOT ACCEPT: CALCIUM SULFATE AND 2 MOLECULES OF WATER)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF text for question 21 reads “In prokaryotic [proh-Kr-ee-OT-ik] DNA replication, what enzyme is responsible for unwinding the DNA ”; answer reads “HELICASE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF text for question 22 reads “Which of the following regions of the United States has the greatest amount of installed wind power ”; choices are W) West coast | X) Midwest | Y) New England | Z) Southeast; answer reads “X) MIDWEST”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: PDF text for question 23 reads “Which of the following lava characteristics does NOT affect the lava’s viscosity? W) Gas amount X) T”; choices are W) Gas amount | X) Temperature | Y) Gas composition | Z) Silica content; answer reads “Y) GAS COMPOSITION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints the recurrence aₙ = 5 + 2aₙ₋₁ with read-as cue ‘a sub n equals five plus two a sub quantity n minus 1’; the stored rich field detached n and n−1 onto separate words.",
+      "before": {
+        "parts": [
+          "If a<sub>1</sub> = 3 [a sub one equals three] and a = 5 + 2a [a sub n equals five n n-1 plus two a sub quantity n minus 1] for all integers n greater than 1, what is the value of a<sub>3</sub> [a sub three]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If a<sub>1</sub> = 3 [a sub one equals three] and a<sub>n</sub> = 5 + 2a<sub>n-1</sub> [a sub n equals five plus two a sub quantity n minus 1] for all integers n greater than 1, what is the value of a<sub>3</sub> [a sub three]?"
+        ],
+        "parts_sanitized": [
+          "If a₁ = 3 [a sub one equals three] and aₙ = 5 + 2aₙ₋₁ [a sub n equals five plus two a sub quantity n minus 1] for all integers n greater than 1, what is the value of a₃ [a sub three]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF text for question 3 reads “What gas law was used by its formulator to approximate the absolute zero temperature through extrapo”; answer reads “CHARLES’S LAW”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF text for question 4 reads “How many baryons [BAR-ee-ons] and leptons, respectively, are found in a single alpha particle?”; answer reads “FOUR AND ZERO”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF text for question 6 reads “Which of the following was NOT a component of the Miller-Urey [MILL-er YOO-ree] experiment test cond”; choices are W) Carbon dioxide | X) Hydrogen | Y) Ammonia | Z) Water; answer reads “W) CARBON DIOXIDE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF text for question 7 reads “Since 2007 all cars and trucks in the US have been produced to be able to use what specific ethanol ”; answer reads “E15 (ACCEPT: 15% ETHANOL)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF text for question 8 reads “Which of the following neutral ground state atoms has the lowest first ionization energy? W) Nitroge”; choices are W) Nitrogen | X) Oxygen | Y) Fluorine | Z) Neon; answer reads “X) OXYGEN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF text for question 9 reads “If 15 joules of work are required to move 3.0 coulombs of charge between two points, what is the pot”; choices are W) 3 | X) 5 | Y) 15 | Z) 45; answer reads “X) 5”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF text for question 10 reads “Which of the following statements about cystic fibrosis is NOT true? W) It is an autosomal recessive”; choices are W) It is an autosomal recessive disease | X) It affects the lungs, sweat glands and digestive system | Y) It is one of the most common fatal genetic disorders in the United States | Z) Most infants born with this disorder are unlikely to live beyond their first year; answer reads “Z) MOST INFANTS BORN WITH THIS DISORDER ARE UNLIKELY TO LIVE BEYOND THEIR FIRST YEAR”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF text for question 11 reads “What is the name of the geologic event recorded in sedimentary rocks showing the landward migration ”; answer reads “TRANSGRESSION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF text for question 12 reads “Identify all of the following three chemical species that likely have a negative enthalpy of formati”; answer reads “1 AND 3 (ACCEPT: CARBON MONOXIDE AND SODIUM BROMIDE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 shows the cues separated from the notation: f(x) [f of x] is, f′(x) [f prime of x] is less than 0, and f″(x) [f double prime of x] is less than 0; values f(4)=12 and f(5)=9 lead into the four printed choices.",
+      "before": {
+        "parts": [
+          "If f(x) [f of x]is a twice differentiable function where for all real numbers f’(x) [f prime of x]is less than 0 and f’’(x) [f double prime of x] is less than 0, with f(4) = 12 [f of four equals twelve] and f(5) = 9 [f of five equals nine], which of the following is a possible value for f(6) [f of six]?<br>W) 3<br>X) 6<br>Y) 9<br>Z) 12"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) [f of x] is a twice differentiable function where for all real numbers f′(x) [f prime of x] is less than 0 and f″(x) [f double prime of x] is less than 0, with f(4) = 12 [f of four equals twelve] and f(5) = 9 [f of five equals nine], which of the following is a possible value for f(6) [f of six]?<br>W) 3<br>X) 6<br>Y) 9<br>Z) 12"
+        ],
+        "parts_sanitized": [
+          "If f(x) [f of x] is a twice differentiable function where for all real numbers f′(x) [f prime of x] is less than 0 and f″(x) [f double prime of x] is less than 0, with f(4) = 12 [f of four equals twelve] and f(5) = 9 [f of five equals nine], which of the following is a possible value for f(6) [f of six]? W) 3; X) 6; Y) 9; Z) 12"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF text for question 14 reads “Aside from any impurities, what is the co-product resulting from biodiesel production that is produc”; answer reads “GLYCERIN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF text for question 16 reads “If a random element is picked from period 5 on the periodic table, what is the probability that the ”; answer reads “8 / 9 (ACCEPT: 88 8/9%)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF text for question 17 reads “Consider a criminal trial in which the defendant is innocent until proven guilty. If the jury reject”; choices are W) The jury made the right decision | X) The jury committed a type I error | Y) The jury committed a type II error | Z) The jury committed a type III error; answer reads “X) THE JURY COMMITTED A TYPE I ERROR”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF text for question 18 reads “Indicate, by number, all of the following quantities that would change if the radius of the Earth de”; answer reads “1 AND 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF text for question 19 reads “What are the two main factors that cause sound to travel such great distances in the SOFAR [SOH-fahr”; choices are W) Temperature and salinity | X) Pressure and salinity | Y) Pressure and temperature | Z) Temperature and latitude; answer reads “Y) PRESSURE AND TEMPERATURE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF text for question 20 reads “Molecule A, with oxidation number +1 [ plus one], and Molecule B, with oxidation number -2 [minus tw”; answer reads “MOLECULE A: +1; MOLECULE B: -2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF text for question 21 reads “A man is born with webbed fingers and toes. His wife and their daughter do not have webbed fingers a”; answer reads “½”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF text for question 22 reads “Most renewable electricity generation worldwide is generated by what form of renewable energy?”; answer reads “HYDROELECTRICITY (ACCEPT: HYDROPOWER )”."
+    }
+  ],
+  "packetIssues": []
+}

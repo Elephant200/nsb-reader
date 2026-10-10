@@ -1,0 +1,612 @@
+{
+  "packetIndex": 209,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-8A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually compared full TU1 wording, all options if printed, and answer; source excerpt: “1) Math – Multiple Choice Which of the following best describes the relationship between the lines with equations 5x + 4y = 20 and 16x + 20y = 80?”; answer excerpt: “ANSWER: Y) INTERSECTING BUT NOT PERPENDICULAR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: the source prints the compound formula N₂O₄ in the question; repaired extracted separated digits as 2 and 4 subscripts.",
+      "before": {
+        "question": "What is the systematic name of the compound N O ? 2 4"
+      },
+      "changes": {
+        "question": "What is the systematic name of the compound N<sub>2</sub>O<sub>4</sub>?",
+        "question_sanitized": "What is the systematic name of the compound N₂O₄?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared full TU3 wording, all options if printed, and answer; source excerpt: “3) Energy – Short Answer Scientists at Los Alamos National Lab are studying a group of bacterial pumps known as RND efflux pumps, which improve bacteria’s resistance to what?”; answer excerpt: “ANSWER: ANTIBIOTICS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared full TU4 wording, all options if printed, and answer; source excerpt: “4) Physics – Short Answer Andrew applies an average acceleration of 5 meters per second squared to increase his vehicular velocity from 15 meters per second to 30 meters per second.”; answer excerpt: “ANSWER: 10”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source uses possessives “Earth’s core” in prompt and “Earth’s magnetic field” in option Y and answer; replaced encoded double-escaped apostrophes.",
+      "before": {
+        "question": "Which of the following statements regarding Earth&amp;apos;s core is NOT true?<br>W) It contains a liquid outer core and a solid inner core<br>X) The inner core has a higher temperature than the outer core<br>Y) The inner core is responsible for Earth&amp;apos;s magnetic field<br>Z) The inner core has a greater density than the outer core",
+        "options": [
+          "W) It contains a liquid outer core and a solid inner core",
+          "X) The inner core has a higher temperature than the outer core",
+          "Y) The inner core is responsible for Earth&amp;apos;s magnetic field",
+          "Z) The inner core has a greater density than the outer core"
+        ],
+        "answer": "Y) THE INNER CORE IS RESPONSIBLE FOR EARTH&amp;apos;S MAGNETIC FIELD"
+      },
+      "changes": {
+        "question": "Which of the following statements regarding Earth’s core is NOT true?<br>W) It contains a liquid outer core and a solid inner core<br>X) The inner core has a higher temperature than the outer core<br>Y) The inner core is responsible for Earth’s magnetic field<br>Z) The inner core has a greater density than the outer core",
+        "options": [
+          "W) It contains a liquid outer core and a solid inner core",
+          "X) The inner core has a higher temperature than the outer core",
+          "Y) The inner core is responsible for Earth’s magnetic field",
+          "Z) The inner core has a greater density than the outer core"
+        ],
+        "answer": "Y) THE INNER CORE IS RESPONSIBLE FOR EARTH’S MAGNETIC FIELD"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually compared full TU6 wording, all options if printed, and answer; source excerpt: “6) Biology – Short Answer     What human organ contains the semicircular canals as well as the cochlea [KOH-klee-ah]?”; answer excerpt: “ANSWER: EAR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually compared full TU7 wording, all options if printed, and answer; source excerpt: “7) Physics – Short Answer What semiconductor device was instrumental in replacing vacuum tubes as the basic logical component in digital electronics?”; answer excerpt: “ANSWER: TRANSISTOR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source reads “Saturn’s rings”; replaced the double-escaped apostrophe in the prompt with the literal possessive.",
+      "before": {
+        "question": "Saturn&amp;apos;s rings are primarily composed of what material?<br>W) Siliceous [sil-IH-shus] dust<br>X) Ice<br>Y) Metallic iron<br>Z) Hydrogen gas"
+      },
+      "changes": {
+        "question": "Saturn’s rings are primarily composed of what material?<br>W) Siliceous [sil-IH-shus] dust<br>X) Ice<br>Y) Metallic iron<br>Z) Hydrogen gas"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually compared full TU9 wording, all options if printed, and answer; source excerpt: “9) Energy – Multiple Choice Scientists at SLAC National Lab have developed a way to use diamond anvils to drive chemical reactions using which of the following?”; answer excerpt: “ANSWER: Y) PRESSURE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually compared full TU10 wording, all options if printed, and answer; source excerpt: “10) Chemistry – Short Answer    What is the term for isomers that are non-superimposable mirror images of each other?”; answer excerpt: “ANSWER: ENANTIOMERS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared full TU11 wording, all options if printed, and answer; source excerpt: “11) Biology – Short Answer How many different human codons code for methionine [meth-IOH-neen]?”; answer excerpt: “ANSWER: ONE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared full TU12 wording, all options if printed, and answer; source excerpt: “12) Math – Short Answer If angle ABC is inscribed in a circle and measures 65 degrees, what is the degree measure of arc ABC?”; answer excerpt: “ANSWER: 230”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared full TU13 wording, all options if printed, and answer; source excerpt: “13) Earth and Space – Short Answer      Into what units of geologic time are periods divided? ANSWER: EPOCHS”; answer excerpt: “ANSWER: EPOCHS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared full TU14 wording, all options if printed, and answer; source excerpt: “14) Biology – Short Answer A plant that is heterozygous [hetero-ZYE-gus] for flower color is self-pollinated. What percentage of the offspring will be true-breeding?”; answer excerpt: “ANSWER: 50”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually compared full TU15 wording, all options if printed, and answer; source excerpt: “15) Physics – Short Answer A backpack weighs 20 newtons on Earth but only 4 newtons on a certain asteroid. In meters per second squared, what is the acceleration due to gravity on this”; answer excerpt: “ANSWER: 1.96 (ACCEPT: 49/25, 1 24/25)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source chemical formula is C₆H₆; restored subscripts 6 in the extracted prompt.",
+      "before": {
+        "question": "What organic compound, which is planar and stabilized by extensive conjugation, has two resonance structures and chemical formula C H ? 6 6"
+      },
+      "changes": {
+        "question": "What organic compound, which is planar and stabilized by extensive conjugation, has two resonance structures and chemical formula C<sub>6</sub>H<sub>6</sub>?",
+        "question_sanitized": "What organic compound, which is planar and stabilized by extensive conjugation, has two resonance structures and chemical formula C₆H₆?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually compared full TU17 wording, all options if printed, and answer; source excerpt: “17) Math – Short Answer      Find the value of a for which the following vectors are parallel: 8i – 2j and ai + 12j.”; answer excerpt: “ANSWER: –48”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually compared full TU18 wording, all options if printed, and answer; source excerpt: “18) Energy – Short Answer Researchers at Lawrence Berkeley National Lab have discovered a way to increase the sensitivity of NMR and MRI systems using defects in diamond crystals.”; answer excerpt: “ANSWER: NITROGEN”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually compared full TU19 wording, all options if printed, and answer; source excerpt: “19) Earth and Space – Short Answer What quantity did Einstein add to his general theory of relativity to \"hold back\" universal expansion?”; answer excerpt: “ANSWER: COSMOLOGICAL CONSTANT (ACCEPT: LAMBDA, VACUUM ENERGY)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually compared full TU20 wording, all options if printed, and answer; source excerpt: “20) Physics – Short Answer A water storage tank is 20 meters above a garden faucet. In kilopascals, what is the pressure at the faucet?”; answer excerpt: “ANSWER: 196”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually compared full TU21 wording, all options if printed, and answer; source excerpt: “21) Chemistry – Short Answer A balloon is inflated with 10 grams of helium. Under the same conditions, a second balloon is inflated to the same volume with nitrogen. To the nearest gram,”; answer excerpt: “ANSWER: 70”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source prints the quadratic factor expression x² − 34x − 72; restored the extracted split exponent.",
+      "before": {
+        "question": "Name one of the linear factors of x 2 – 34x – 72."
+      },
+      "changes": {
+        "question": "Name one of the linear factors of x<sup>2</sup> − 34x − 72.",
+        "question_sanitized": "Name one of the linear factors of x² − 34x − 72."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually compared full TU23 wording, all options if printed, and answer; source excerpt: “23) Biology – Short Answer    What is the term for the \"bead\" in the \"beads on a string\" model of eukaryotic DNA?”; answer excerpt: “ANSWER: NUCLEOSOME”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually compared full B1 wording, all options if printed, and answer; source excerpt: “1) Math – Short Answer A right circular cylinder has height 11 and diameter 18. What is its surface area?”; answer excerpt: “ANSWER: 360π”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually compared full B2 wording, all options if printed, and answer; source excerpt: “2) Chemistry – Multiple Choice Which of the following alkali metals has the most negative standard reduction potential?”; answer excerpt: “ANSWER: X) CESIUM”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared full B3 wording, all options if printed, and answer; source excerpt: “3) Energy – Short Answer Researchers at Los Alamos National Lab have applied machine learning to seismic monitoring to identify when an earthquake will occur. What is the term for”; answer excerpt: “ANSWER: EPICENTER”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually compared full B4 wording, all options if printed, and answer; source excerpt: “4) Physics – Short Answer Given that the reference sound intensity is defined as ten to the negative twelfth watts per meter squared, what is the decibel value for a sound with an intensity”; answer excerpt: “ANSWER: 120”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually compared full B5 wording, all options if printed, and answer; source excerpt: “5) Earth and Space – Short Answer Rank the following three types of mass wasting in order of increasing rate of movement: 1) Creep; 2) Slump; 3) Rock fall.”; answer excerpt: “ANSWER: 1, 2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually compared full B6 wording, all options if printed, and answer; source excerpt: “6) Biology – Short Answer What is the main anion [AN-eye-on] that the pancreas secretes into the small intestine to neutralize stomach acid?”; answer excerpt: “ANSWER: BICARBONATE (ACCEPT: HYDROGENCARBONATE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source prints “Kevin’s change” and “Kevin’s apparent weight”; replaced the two double-escaped apostrophes with literal possessives.",
+      "before": {
+        "parts": [
+          "Kevin is standing on a scale in an elevator. As the elevator starts moving, he notices his apparent weight on the scale decrease. Identify all of the following three statements that are true of this system: 1) The elevator is traveling upwards; 2) Kevin&amp;apos;s change in apparent weight is dependent on the acceleration of the elevator; 3) Kevin&amp;apos;s apparent weight will increase as the elevator stops moving."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Kevin is standing on a scale in an elevator. As the elevator starts moving, he notices his apparent weight on the scale decrease. Identify all of the following three statements that are true of this system: 1) The elevator is traveling upwards; 2) Kevin’s change in apparent weight is dependent on the acceleration of the elevator; 3) Kevin’s apparent weight will increase as the elevator stops moving."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually compared full B8 wording, all options if printed, and answer; source excerpt: “8) Earth and Space – Short Answer A telescope’s objective lens has a focal length of 90 centimeters, and its eyepiece has a focal length of one-third of a centimeter. What is the”; answer excerpt: “ANSWER: 270 (ACCEPT: 270 TIMES, 270X)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source prints atmospheric carbon dioxide as CO₂; restored the subscript in the extracted text and retained the pronunciation cue and rest of wording.",
+      "before": {
+        "parts": [
+          "High atmospheric CO concentrations contribute to death of plants 2 by carbon starvation because the resulting high temperatures cause the plants to close their stomata [stow-MAH-tah]. This mechanism is an adaptation to regulate what biological process?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "High atmospheric CO<sub>2</sub> concentrations contribute to death of plants by carbon starvation because the resulting high temperatures cause the plants to close their stomata [stow-MAH-tah]. This mechanism is an adaptation to regulate what biological process?"
+        ],
+        "parts_sanitized": [
+          "High atmospheric CO₂ concentrations contribute to death of plants by carbon starvation because the resulting high temperatures cause the plants to close their stomata [stow-MAH-tah]. This mechanism is an adaptation to regulate what biological process?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually compared full B10 wording, all options if printed, and answer; source excerpt: “10) Chemistry – Short Answer    What type of solid does carbon dioxide form? ANSWER: MOLECULAR SOLID”; answer excerpt: “ANSWER: MOLECULAR SOLID”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared full B11 wording, all options if printed, and answer; source excerpt: “11) Biology – Multiple Choice Operant and classical conditioning are both examples of which of the following forms of learning?”; answer excerpt: “ANSWER: Y) ASSOCIATIVE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually compared full B12 wording, all options if printed, and answer; source excerpt: “12) Math – Short Answer What is the sum of the distinct prime factors of 924? ANSWER: 23”; answer excerpt: “ANSWER: 23”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared full B13 wording, all options if printed, and answer; source excerpt: “13) Earth and Space – Multiple Choice Which of the following is an example of a porphyroblast [poor-feh-ROH-blast]?”; answer excerpt: “ANSWER: Z) A LARGE GARNET IN A FINE-GRAINED METAMORPHIC SCHIST”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually compared full B14 wording, all options if printed, and answer; source excerpt: “14) Biology – Short Answer Identify all of the following three statements that are true of mitosis: 1) The mitotic spindle begins to form during prophase; 2) Anaphase is the shortest phase”; answer excerpt: “ANSWER: ALL OF THEM”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually compared full B15 wording, all options if printed, and answer; source excerpt: “15) Physics – Short Answer Saturn has mass approximately 90 times that of Earth, and a diameter that is 10 times the diameter of Earth. If the escape velocity on Earth is 11.2 kilometers”; answer excerpt: “ANSWER: 33.6”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source formulas are chlorine Cl₂, phosphorus trichloride PCl₃, and phosphorus pentachloride PCl₅; restored subscripts without changing reaction wording.",
+      "before": {
+        "parts": [
+          "Suppose that at a certain temperature, one mole of chlorine gas and one mole of PCl gas are placed in a 1-liter container, and then equilibrate to form 0.2 3 moles of PCl gas. What is the K-sub-C value for the gas-phase reaction PCl + Cl yields PCl 5 3 2 5 at this temperature?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Suppose that at a certain temperature, one mole of chlorine gas and one mole of PCl<sub>3</sub> gas are placed in a 1-liter container, and then equilibrate to form 0.2 moles of PCl<sub>5</sub> gas. What is the K-sub-C value for the gas-phase reaction PCl<sub>3</sub> + Cl<sub>2</sub> yields PCl<sub>5</sub> at this temperature?"
+        ],
+        "parts_sanitized": [
+          "Suppose that at a certain temperature, one mole of chlorine gas and one mole of PCl₃ gas are placed in a 1-liter container, and then equilibrate to form 0.2 moles of PCl₅ gas. What is the K-sub-C value for the gas-phase reaction PCl₃ + Cl₂ yields PCl₅ at this temperature?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source circle equation is x² − 8x + y² + 22y + 87 = 0; restored both square exponents and retained the coordinate answer.",
+      "before": {
+        "parts": [
+          "What are the radius and the coordinates of the center of the circle with equation x 2 – 8x + y 2 + 22y + 87 = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the radius and the coordinates of the center of the circle with equation x<sup>2</sup> − 8x + y<sup>2</sup> + 22y + 87 = 0?"
+        ],
+        "parts_sanitized": [
+          "What are the radius and the coordinates of the center of the circle with equation x² − 8x + y² + 22y + 87 = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually compared full B18 wording, all options if printed, and answer; source excerpt: “18) Energy – Short Answer Researchers at Argonne National Lab have developed new understanding of the chemical processes that reduce battery capacity. Identify all of the following”; answer excerpt: “ANSWER: 1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually compared full B19 wording, all options if printed, and answer; source excerpt: “19) Earth and Space – Short Answer A certain asteroid is orbiting the Sun and has a semi- major axis of 2.5 astronomical units. To the nearest Earth-year, what is the orbital period of this”; answer excerpt: “ANSWER: 4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source reads “The Sun’s gravitational force”; replaced the double-escaped apostrophe in the prompt with the literal possessive.",
+      "before": {
+        "parts": [
+          "The Sun is approximately 400 times further away from the Moon than the Earth is. The Sun is also approximately 300,000 times more massive than the Earth. Given these values, and expressing your answer as a decimal to two significant figures, what is the ratio of the Sun&amp;apos;s gravitational force on the Moon to Earth&amp;apos;s gravitational force on the Moon?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The Sun is approximately 400 times further away from the Moon than the Earth is. The Sun is also approximately 300,000 times more massive than the Earth. Given these values, and expressing your answer as a decimal to two significant figures, what is the ratio of the Sun’s gravitational force on the Moon to Earth’s gravitational force on the Moon?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source answer prints sp³ for the central oxygen; restored 3 as superscript in the hybridization answer.",
+      "before": {
+        "answers": [
+          "SP 3"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "SP<sup>3</sup>"
+        ],
+        "answers_sanitized": [
+          "SP³"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source tangent graph is y = x³ + x + 4; restored the cubic exponent.",
+      "before": {
+        "parts": [
+          "What is the slope-intercept equation of the line tangent to the graph of y = x 3 + x + 4 at the point (1, 6)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope-intercept equation of the line tangent to the graph of y = x<sup>3</sup> + x + 4 at the point (1, 6)?"
+        ],
+        "parts_sanitized": [
+          "What is the slope-intercept equation of the line tangent to the graph of y = x³ + x + 4 at the point (1, 6)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source accepted formula is H₂O; restored subscript 2 while retaining the water answer.",
+      "before": {
+        "answers": [
+          "WATER (ACCEPT: H O) 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "WATER (ACCEPT: H<sub>2</sub>O)"
+        ],
+        "answers_sanitized": [
+          "WATER (ACCEPT: H₂O)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

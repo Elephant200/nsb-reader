@@ -1,0 +1,284 @@
+import { ANSWER_TIME_LIMIT, BONUS_PROGRESS_ENUM, DEFAULT_READING_SPEED, MODE_ENUM } from '../constants.js';
+import { readingWordDelay } from '../reading-word-delay.js';
+import { withBonusReadingHeader } from '../question-reading-header.js';
+import QuestionRoom from './QuestionRoom.js';
+import { CLIENT_MESSAGE_TYPE } from '../protocol/room.js';
+import { QUESTION_ROOM_MESSAGE_TYPE } from '../protocol/question-room.js';
+import { BONUS_CLIENT_MESSAGE_TYPE, BONUS_ROOM_MESSAGE_TYPE } from '../protocol/bonus-room.js';
+
+/**
+ * @template {typeof QuestionRoom} TBase
+ * @param {TBase} QuestionRoomClass
+ */
+export const BonusRoomMixin = (QuestionRoomClass) => class extends QuestionRoomClass {
+  constructor (name, categoryManager, supportedQuestionTypes = ['bonuses']) {
+    super(name, categoryManager, supportedQuestionTypes);
+
+    this.timeoutId = null;
+
+    this.bonus = {};
+    this.bonusProgress = BONUS_PROGRESS_ENUM.NOT_STARTED;
+    /**
+     * 0-indexed variable that tracks current part of the bonus being read
+     */
+    this.currentPartNumber = -1;
+    /**
+     * tracks how well the team is doing on the bonus
+     * @type {number[]}
+     */
+    this.pointsPerPart = [];
+
+    this.bonusQuestionSplit = [];
+    this.bonusWordIndex = 0;
+    this.bonusAnswerer = null;
+
+    this.query = {
+      threePartBonuses: false,
+      ...this.query
+    };
+
+    this.settings = {
+      ...this.settings,
+      readBonusLikeATossup: true,
+      readingSpeed: DEFAULT_READING_SPEED
+    };
+  }
+
+  /**
+   * @param {{userId: string, username: string}} player
+   */
+  async message ({ userId, username }, message) {
+    switch (message.type) {
+      case QUESTION_ROOM_MESSAGE_TYPE.GIVE_ANSWER: return this.giveBonusAnswer({ userId, username }, message);
+      case QUESTION_ROOM_MESSAGE_TYPE.NEXT: return this.next({ userId, username }, message);
+      case BONUS_ROOM_MESSAGE_TYPE.START_BONUS_ANSWER: return this.startBonusAnswer({ userId, username }, message);
+      case BONUS_ROOM_MESSAGE_TYPE.TOGGLE_BONUS_PART: return this.toggleBonusPart({ userId, username }, message);
+      case BONUS_ROOM_MESSAGE_TYPE.TOGGLE_READ_BONUSES_LIKE_TOSSUPS: return this.toggleReadBonusesLikeTossups({ userId, username }, message);
+      case BONUS_ROOM_MESSAGE_TYPE.TOGGLE_THREE_PART_BONUSES: return this.toggleThreePartBonuses({ userId, username }, message);
+      default: return super.message({ userId, username }, message);
+    }
+  }
+
+  clearStats ({ userId, username }) {
+    const teamId = this.players[userId].teamId;
+    this.teams[teamId].clearStats();
+    super.clearStats({ userId, username });
+  }
+
+  endCurrentBonus ({ userId }) {
+    if (this.queryingQuestion) { return false; }
+    if (this.bonusAnswerer !== null) return false;
+    if (this.bonusProgress === BONUS_PROGRESS_ENUM.READING && !this.settings.skip) { return false; }
+
+    clearInterval(this.timer.interval);
+    clearTimeout(this.timeoutId);
+    this.emitMessage({ type: CLIENT_MESSAGE_TYPE.TIMER_UPDATE, timeRemaining: 0 });
+
+    const lastPartRevealed = this.bonusProgress === BONUS_PROGRESS_ENUM.LAST_PART_REVEALED;
+    const pointsPerPart = this.pointsPerPart;
+    const teamId = this.bonusEligibleTeamId ?? this.players[userId].teamId;
+    if (lastPartRevealed) {
+      this.teams[teamId].updateStats(this.pointsPerPart.reduce((a, b) => a + b, 0));
+    }
+
+    const stats = this.teams[teamId].bonusStats;
+    const starred = this.mode === MODE_ENUM.STARRED ? true : (this.mode === MODE_ENUM.LOCAL ? false : null);
+    this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.END_CURRENT_BONUS, bonus: this.bonus, lastPartRevealed, pointsPerPart, starred, stats, teamId });
+    return true;
+  }
+
+  getPartValue () {
+    return this.bonus?.values?.[this.currentPartNumber] ?? 10;
+  }
+
+  giveBonusAnswer ({ userId, username }, { givenAnswer }) {
+    if (typeof givenAnswer !== 'string' || this.bonusProgress !== BONUS_PROGRESS_ENUM.READING || this.currentPartNumber < 0 || this.bonusAnswerer !== userId) { return false; }
+
+    this.liveAnswer = '';
+    clearInterval(this.timer.interval);
+    clearTimeout(this.timeoutId);
+    this.emitMessage({ type: CLIENT_MESSAGE_TYPE.TIMER_UPDATE, timeRemaining: ANSWER_TIME_LIMIT * 10 });
+
+    const { directive, directedPrompt } = this.checkAnswer(this.bonus.answers[this.currentPartNumber], givenAnswer, this.settings.strictness, this.bonus.parts[this.currentPartNumber]);
+    this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.GIVE_BONUS_ANSWER, currentPartNumber: this.currentPartNumber, directive, directedPrompt, givenAnswer, userId });
+
+    if (directive === 'prompt') {
+      this.startServerTimer(
+        ANSWER_TIME_LIMIT * 10,
+        (time) => this.emitMessage({ type: CLIENT_MESSAGE_TYPE.TIMER_UPDATE, timeRemaining: time }),
+        () => this.giveBonusAnswer({ userId, username }, { givenAnswer: this.liveAnswer })
+      );
+    } else {
+      this.pointsPerPart.push(directive === 'accept' ? this.getPartValue() : 0);
+      this.bonusAnswerer = null;
+      this.revealNextAnswer();
+      this.revealNextPart();
+    }
+  }
+
+  async next ({ userId, username }) {
+    if (this.bonusProgress === BONUS_PROGRESS_ENUM.NOT_STARTED) {
+      return await this.startNextBonus({ userId, username });
+    }
+    const allowed = this.endCurrentBonus({ userId, username });
+    if (allowed) { await this.startNextBonus({ userId, username }); }
+  }
+
+  revealLeadin () {
+    if (this.settings.readBonusLikeATossup) {
+      this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.REVEAL_LEADIN, leadin: '' });
+      const leadinSanitized = this.bonus.leadin_sanitized ?? '';
+      this.startReadingBonusText(leadinSanitized, () => {
+        this.revealNextPart();
+      });
+    } else {
+      this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.REVEAL_LEADIN, leadin: this.bonus.leadin });
+    }
+  }
+
+  revealNextAnswer () {
+    const lastPartRevealed = this.currentPartNumber === this.bonus.parts.length - 1;
+    if (lastPartRevealed) {
+      this.bonusProgress = BONUS_PROGRESS_ENUM.LAST_PART_REVEALED;
+    }
+    this.emitMessage({
+      type: BONUS_CLIENT_MESSAGE_TYPE.REVEAL_NEXT_ANSWER,
+      answer: this.bonus.answers[this.currentPartNumber],
+      question: this.bonus.parts[this.currentPartNumber],
+      correct: this.pointsPerPart[this.currentPartNumber] > 0,
+      currentPartNumber: this.currentPartNumber,
+      lastPartRevealed
+    });
+  }
+
+  revealNextPart () {
+    if (this.bonusProgress === BONUS_PROGRESS_ENUM.LAST_PART_REVEALED) { return; }
+
+    this.currentPartNumber++;
+
+    if (this.settings.readBonusLikeATossup) {
+      this.emitMessage({
+        type: BONUS_CLIENT_MESSAGE_TYPE.REVEAL_NEXT_PART,
+        bonusEligibleTeamId: this.bonusEligibleTeamId,
+        currentPartNumber: this.currentPartNumber,
+        part: '',
+        value: this.getPartValue()
+      });
+      const partSanitized = this.bonus.parts_sanitized?.[this.currentPartNumber] ?? '';
+      this.startReadingBonusText(partSanitized, () => {});
+    } else {
+      this.emitMessage({
+        type: BONUS_CLIENT_MESSAGE_TYPE.REVEAL_NEXT_PART,
+        bonusEligibleTeamId: this.bonusEligibleTeamId,
+        currentPartNumber: this.currentPartNumber,
+        part: this.bonus.parts[this.currentPartNumber],
+        value: this.getPartValue()
+      });
+    }
+  }
+
+  startBonusAnswer ({ userId, username }) {
+    if (this.bonusProgress !== BONUS_PROGRESS_ENUM.READING || this.currentPartNumber < 0 || this.bonusAnswerer !== null) return false;
+    this.bonusAnswerer = userId;
+    clearTimeout(this.timeoutId);
+    this.emitMessage({ type: BONUS_ROOM_MESSAGE_TYPE.START_BONUS_ANSWER, userId });
+    this.startServerTimer(
+      ANSWER_TIME_LIMIT * 10,
+      (time) => this.emitMessage({ type: CLIENT_MESSAGE_TYPE.TIMER_UPDATE, timeRemaining: time }),
+      () => this.giveBonusAnswer({ userId, username }, { givenAnswer: this.liveAnswer })
+    );
+  }
+
+  async startNextBonus ({ userId, username }) {
+    this.bonus = await this.getNextQuestion('bonuses');
+    this.queryingQuestion = false;
+    if (!this.bonus) { return; }
+    this.bonus = withBonusReadingHeader(this.bonus);
+    clearTimeout(this.timeoutId);
+    this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.START_NEXT_BONUS, packetLength: this.packet.bonuses.length, bonus: this.bonus, userId, username });
+    this.currentPartNumber = -1;
+    this.pointsPerPart = [];
+    this.bonusAnswerer = null;
+    this.bonusProgress = BONUS_PROGRESS_ENUM.READING;
+    this.revealLeadin();
+    if (!this.settings.readBonusLikeATossup) {
+      this.revealNextPart();
+    }
+  }
+
+  toggleBonusPart ({ userId, username }, { partNumber, correct }) {
+    if (typeof partNumber !== 'number') { return false; }
+    if (partNumber < 0 || partNumber >= this.bonus.parts.length) { return false; }
+    if (partNumber >= this.pointsPerPart.length || typeof correct !== 'boolean') return false;
+    this.pointsPerPart[partNumber] = correct ? this.getPartValue(partNumber) : 0;
+    this.emitMessage({ type: BONUS_ROOM_MESSAGE_TYPE.TOGGLE_BONUS_PART, partNumber, correct });
+  }
+
+  toggleThreePartBonuses ({ username }, { threePartBonuses }) {
+    this.query.threePartBonuses = threePartBonuses;
+    this.adjustQuery(['threePartBonuses'], [threePartBonuses]);
+    this.emitMessage({ type: BONUS_ROOM_MESSAGE_TYPE.TOGGLE_THREE_PART_BONUSES, threePartBonuses, username });
+  }
+
+  /**
+   * Automatically starts the bonus answer after word-by-word reading is complete.
+   * Finds the appropriate user to answer and calls startBonusAnswer.
+   */
+  autoStartBonusAnswer () {
+    let userId, username;
+    if (this.bonusEligibleTeamId) {
+      const player = Object.values(this.players).find(p => p.teamId === this.bonusEligibleTeamId);
+      userId = player?.userId;
+      username = player?.username ?? '';
+    }
+    if (!userId) {
+      userId = Object.keys(this.players)[0];
+      username = userId ? (this.players[userId].username ?? '') : '';
+    }
+    if (!userId) { return; }
+    this.startBonusAnswer({ userId, username });
+  }
+
+  /**
+   * Splits sanitizedText into words and begins reading them word by word.
+   * Calls onComplete when all words have been emitted.
+   * @param {string} sanitizedText
+   * @param {() => void} onComplete
+   */
+  startReadingBonusText (sanitizedText, onComplete) {
+    this.bonusQuestionSplit = sanitizedText.split(' ').filter(word => word !== '');
+    this.bonusWordIndex = 0;
+    this.readBonusWord(Date.now(), onComplete);
+  }
+
+  /**
+   * Reads the next word from bonusQuestionSplit, emitting it to all clients.
+   * Schedules itself recursively until all words are read.
+   * @param {number} expectedReadTime
+   * @param {() => void} onComplete
+   */
+  readBonusWord (expectedReadTime, onComplete) {
+    if (this.bonusWordIndex >= this.bonusQuestionSplit.length) {
+      onComplete();
+      return;
+    }
+
+    const word = this.bonusQuestionSplit[this.bonusWordIndex++];
+    this.emitMessage({ type: BONUS_CLIENT_MESSAGE_TYPE.UPDATE_BONUS_QUESTION, word, currentPartNumber: this.currentPartNumber });
+
+    const time = readingWordDelay(this.bonusQuestionSplit, this.bonusWordIndex - 1, this.settings.readingSpeed);
+    const delay = time - Date.now() + expectedReadTime;
+
+    this.timeoutId = setTimeout(() => {
+      this.readBonusWord(time + expectedReadTime, onComplete);
+    }, delay);
+  }
+
+  toggleReadBonusesLikeTossups ({ username }, { readBonusLikeATossup }) {
+    this.settings.readBonusLikeATossup = !!readBonusLikeATossup;
+    this.emitMessage({ type: BONUS_ROOM_MESSAGE_TYPE.TOGGLE_READ_BONUSES_LIKE_TOSSUPS, readBonusLikeATossup: this.settings.readBonusLikeATossup, username });
+  }
+};
+
+const BonusRoom = BonusRoomMixin(QuestionRoom);
+export default BonusRoom;

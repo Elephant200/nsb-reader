@@ -7,10 +7,7 @@ import {
   SUBCATEGORIES,
   SUBCATEGORY_TO_CATEGORY,
   CATEGORY_TO_ALTERNATE_SUBCATEGORIES
-} from '../../quizbowl/categories.js';
-
-// eslint-disable-next-line no-unused-vars
-import express from 'express';
+} from '../../shared/categories.js';
 
 function validateCategories (object) {
   return validateArray(object, 'categories', { allowedValues: CATEGORIES, defaultValues: [] });
@@ -75,7 +72,7 @@ function addMissingAlternateSubcategories (object) {
 /**
  * Validates that the categories, subcategories, and alternate subcategories in the request are valid,
  * and ensures that they are logically consistent with each other.
- * @param {express.Request} object
+ * @param {object} object
  */
 export default function validateCategoryBundle (object) {
   object = validateCategories(object);

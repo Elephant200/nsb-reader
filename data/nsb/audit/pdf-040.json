@@ -1,0 +1,656 @@
+{
+  "packetIndex": 40,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-9C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared the chemical or math notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows the acceleration unit m/sec²; the corpus flattened the exponent.",
+      "before": {
+        "notes": [
+          "(Solution: A = F/M; A = 500/10; A = 50 m/sec2)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: A = F/M; A = 500/10; A = 50 m/sec<sup>2</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows CHCl₃ and CO₂ with contiguous subscripts in the choices and key.",
+      "before": {
+        "question": "Which of the following is a nonpolar molecule:<br>W) HCN<br>X) HBr<br>Y) CHCl3<br>Z) CO2",
+        "answer": "Z) CO2",
+        "options": [
+          "W) HCN",
+          "X) HBr",
+          "Y) CHCl3",
+          "Z) CO2"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is a nonpolar molecule:<br>W) HCN<br>X) HBr<br>Y) CHCl<sub>3</sub><br>Z) CO<sub>2</sub>",
+        "question_sanitized": "Which of the following is a nonpolar molecule:<br>W) HCN<br>X) HBr<br>Y) CHCl3<br>Z) CO2",
+        "answer": "Z) CO<sub>2</sub>",
+        "answer_sanitized": "Z) CO2",
+        "options": [
+          "W) HCN",
+          "X) HBr",
+          "Y) CHCl<sub>3</sub>",
+          "Z) CO<sub>2</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints NADP⁺ twice with a raised charge; the corpus leaves both charges on the baseline.",
+      "before": {
+        "question": "In photosystem one, when NADP+ forms NADPH with the catalytic help of NADP+ reductase, from what specific place in the chloroplast are the hydrogen ions derived?"
+      },
+      "changes": {
+        "question": "In photosystem one, when NADP<sup>+</sup> forms NADPH with the catalytic help of NADP<sup>+</sup> reductase, from what specific place in the chloroplast are the hydrogen ions derived?",
+        "question_sanitized": "In photosystem one, when NADP+ forms NADPH with the catalytic help of NADP+ reductase, from what specific place in the chloroplast are the hydrogen ions derived?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root visually checked PDF page 6: the monomial is −6x²y⁴z³ with all three digits raised. The answer is 9. Earlier verification missed these powers.",
+      "before": {
+        "question": "What is the degree of the following monomial: –6x2y4z3"
+      },
+      "changes": {
+        "question": "What is the degree of the following monomial: −6x<sup>2</sup>y<sup>4</sup>z<sup>3</sup>",
+        "question_sanitized": "What is the degree of the following monomial: −6x²y⁴z³"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared the chemical or math notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared the chemical or math notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared the chemical or math notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows powers 10⁸ and 10⁷ in the choices, key, and solution; the corpus flattened all exponents.",
+      "before": {
+        "parts": [
+          "What is the speed of light in meters per second for monochromatic light of 780 nanometers in glass with a refractive index of 1.55:<br>W) 1.5 × 108<br>X) 1.9 × 108<br>Y) 4.65 × 107<br>Z) 4.65 × 108"
+        ],
+        "options": [
+          "W) 1.5 × 108",
+          "X) 1.9 × 108",
+          "Y) 4.65 × 107",
+          "Z) 4.65 × 108"
+        ],
+        "answers": [
+          "X) 1.9 × 108"
+        ],
+        "notes": [
+          "(Solution: 3.00 × 108/1.55 = 1.9 × 108)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the speed of light in meters per second for monochromatic light of 780 nanometers in glass with a refractive index of 1.55:<br>W) 1.5 × 10<sup>8</sup><br>X) 1.9 × 10<sup>8</sup><br>Y) 4.65 × 10<sup>7</sup><br>Z) 4.65 × 10<sup>8</sup>"
+        ],
+        "parts_sanitized": [
+          "What is the speed of light in meters per second for monochromatic light of 780 nanometers in glass with a refractive index of 1.55:<br>W) 1.5 × 10^8<br>X) 1.9 × 10^8<br>Y) 4.65 × 10^7<br>Z) 4.65 × 10^8"
+        ],
+        "options": [
+          "W) 1.5 × 10<sup>8</sup>",
+          "X) 1.9 × 10<sup>8</sup>",
+          "Y) 4.65 × 10<sup>7</sup>",
+          "Z) 4.65 × 10<sup>8</sup>"
+        ],
+        "answers": [
+          "X) 1.9 × 10<sup>8</sup>"
+        ],
+        "answers_sanitized": [
+          "X) 1.9 × 10^8"
+        ],
+        "notes": [
+          "(Solution: 3.00 × 10<sup>8</sup>/1.55 = 1.9 × 10<sup>8</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows CₙH₂ₙ, CₙH₂ₙ₊₂, CₙH₂ₙ₋₂, and CₙH₂ₙ₊₁; the corpus flattened the indexed formulas.",
+      "before": {
+        "parts": [
+          "Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms:<br>W) CnH2n<br>X) CnH2n+2<br>Y) CnH2n–2<br>Z) CnH2n+1"
+        ],
+        "options": [
+          "W) CnH2n",
+          "X) CnH2n+2",
+          "Y) CnH2n–2",
+          "Z) CnH2n+1"
+        ],
+        "answers": [
+          "W) CnH2n"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms:<br>W) C<sub>n</sub>H<sub>2n</sub><br>X) C<sub>n</sub>H<sub>2n+2</sub><br>Y) C<sub>n</sub>H<sub>2n−2</sub><br>Z) C<sub>n</sub>H<sub>2n+1</sub>"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms:<br>W) C_nH_2n<br>X) C_nH_(2n+2)<br>Y) C_nH_(2n-2)<br>Z) C_nH_(2n+1)"
+        ],
+        "options": [
+          "W) C<sub>n</sub>H<sub>2n</sub>",
+          "X) C<sub>n</sub>H<sub>2n+2</sub>",
+          "Y) C<sub>n</sub>H<sub>2n−2</sub>",
+          "Z) C<sub>n</sub>H<sub>2n+1</sub>"
+        ],
+        "answers": [
+          "W) C<sub>n</sub>H<sub>2n</sub>"
+        ],
+        "answers_sanitized": [
+          "W) C_nH_2n"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually compared the chemical or math notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 prints x² − 10x + 34 = 0; corpus flattened the exponent in the quadratic.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x over the set of complex numbers, giving your answer in simplest form: x2 – 10x + 34 = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x over the set of complex numbers, giving your answer in simplest form: x<sup>2</sup> − 10x + 34 = 0"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x over the set of complex numbers, giving your answer in simplest form: x^2 − 10x + 34 = 0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 prints the response as 6 × 10¹⁴; corpus flattened the answer exponent.",
+      "before": {
+        "answers": [
+          "6 × 1014"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "6 × 10<sup>14</sup>"
+        ],
+        "answers_sanitized": [
+          "6 × 10^14"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows RbClO₄; the corpus flattened its subscript.",
+      "before": {
+        "parts": [
+          "What is the systematic IUPAC name for the compound RbClO4?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the systematic IUPAC name for the compound RbClO<sub>4</sub>?"
+        ],
+        "parts_sanitized": [
+          "What is the systematic IUPAC name for the compound RbClO4?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared the chemical or math notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    }
+  ],
+  "packetIssues": []
+}

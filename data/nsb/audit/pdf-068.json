@@ -1,0 +1,576 @@
+{
+  "packetIndex": 68,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Root compared PDF text on page 1: system's uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "question": "Turbulent flow is more likely to occur under conditions where Reynolds numbers are high. Under these conditions, what forces are dominant in the system&amp;apos;s fluid?"
+      },
+      "changes": {
+        "question": "Turbulent flow is more likely to occur under conditions where Reynolds numbers are high. Under these conditions, what forces are dominant in the system's fluid?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered original PDF page 9 confirms the corrected notation or layout.",
+      "before": {
+        "question": "What is the frequency, in megahertz, of a wave of period 2 × 10 −<sup>8</sup> seconds?"
+      },
+      "changes": {
+        "question": "What is the frequency, in megahertz, of a wave of period 2 × 10<sup>−8</sup> seconds?",
+        "question_sanitized": "What is the frequency, in megahertz, of a wave of period 2 × 10^(−8) seconds?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered original PDF page 13 confirms the corrected notation or layout.",
+      "before": {
+        "question": "If a = cos(x), what is cos(2x) in terms of a? 2",
+        "answer": "2a – 1"
+      },
+      "changes": {
+        "question": "If a = cos(x), what is cos(2x) in terms of a?",
+        "question_sanitized": "If a = cos(x), what is cos(2x) in terms of a?",
+        "answer": "2a<sup>2</sup> − 1",
+        "answer_sanitized": "2a^2 − 1"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered original PDF page 3 confirms the corrected notation or layout.",
+      "before": {
+        "parts": [
+          "Factor the following polynomial completely over the real numbers: 3 2 x + 3x – 5x – 15."
+        ],
+        "answers": [
+          "(x + 3)(x + 5)(x - 5) (IN ANY ORDER)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Factor the following polynomial completely over the real numbers: x<sup>3</sup> + 3x<sup>2</sup> − 5x − 15."
+        ],
+        "parts_sanitized": [
+          "Factor the following polynomial completely over the real numbers: x^3 + 3x^2 − 5x − 15."
+        ],
+        "answers": [
+          "(x + 3)(x + √5)(x − √5) (IN ANY ORDER)"
+        ],
+        "answers_sanitized": [
+          "(x + 3)(x + √5)(x − √5) (IN ANY ORDER)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered original PDF page 6 confirms the corrected notation or layout.",
+      "before": {
+        "parts": [
+          "For which real values of x does the following the series converge: n x ∞ (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n n=0 n! factorial)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For which real values of x does the following series converge: ∑<sub>n=0</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>x<sup>n</sup></span><span>n!</span></span>? (read as: the summation from n equals 0 to infinity of [pause] x to the power of n over n n=0 n! factorial)"
+        ],
+        "parts_sanitized": [
+          "For which real values of x does the following series converge: ∑_n=0^(∞) (x^(n))/(n!)? (read as: the summation from n equals 0 to infinity of [pause] x to the power of n over n n=0 n! factorial)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered original PDF page 8 confirms the corrected notation or layout.",
+      "before": {
+        "parts": [
+          "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H<sub>2</sub> , 2) B<sub>2</sub> , 3) ClBr, 4) OF."
+        ],
+        "answers": [
+          "H<sub>2</sub> , B<sub>2</sub> , ClBr (ACCEPT: 1, 2, AND 3)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H<sub>2</sub>, 2) B<sub>2</sub>, 3) ClBr, 4) OF."
+        ],
+        "parts_sanitized": [
+          "By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H_2, 2) B_2, 3) ClBr, 4) OF."
+        ],
+        "answers": [
+          "H<sub>2</sub>, B<sub>2</sub>, ClBr (ACCEPT: 1, 2, AND 3)"
+        ],
+        "answers_sanitized": [
+          "H_2, B_2, ClBr (ACCEPT: 1, 2, AND 3)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered original PDF page 9 confirms the corrected notation or layout.",
+      "before": {
+        "parts": [
+          "Providing your answer as an improper fraction in simplest form in 3 terms of π, what is the volume of the solid generated when the area bounded by y = x , x = 2, and the x axis is revolved around the x-axis?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x<sup>3</sup>, x = 2, and the x axis is revolved around the x-axis?"
+        ],
+        "parts_sanitized": [
+          "Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x^3, x = 2, and the x axis is revolved around the x-axis?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered original PDF page 12 confirms the corrected notation or layout.",
+      "before": {
+        "parts": [
+          "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees? −1<br>W) (read as: row 1: 0, -1; row 2: 1, 0) <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span> 1 1 <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span><br>X) (read as: row 1: 1, 1; row 2: -1, 0) −1 0 −1<br>Y) (read as: row 1: 0, -1; row 2: -1, 0) −1 0 0 1<br>Z) (read as: row 1: 0, 1; row 2: 1, 0) 1 0 0 1"
+        ],
+        "options": [
+          "W) (read as: row 1: 0, -1; row 2: 1, 0) <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span> 1 1 <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span>",
+          "X) (read as: row 1: 1, 1; row 2: -1, 0) −1 0 −1",
+          "Y) (read as: row 1: 0, -1; row 2: -1, 0) −1 0 0 1",
+          "Z) (read as: row 1: 0, 1; row 2: 1, 0) 1 0 0 1"
+        ],
+        "answers": [
+          "X) −1 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees?<br>W) [[0, −1], [1, 0]] (read as: row 1: 0, -1; row 2: 1, 0)<br>X) [[0, 1], [−1, 0]] (read as: row 1: 1, 1; row 2: -1, 0)<br>Y) [[0, −1], [−1, 0]] (read as: row 1: 0, -1; row 2: -1, 0)<br>Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
+        ],
+        "parts_sanitized": [
+          "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees? W) [[0, -1], [1, 0]] (read as: row 1: 0, -1; row 2: 1, 0); X) [[0, 1], [-1, 0]] (read as: row 1: 1, 1; row 2: -1, 0); Y) [[0, -1], [-1, 0]] (read as: row 1: 0, -1; row 2: -1, 0); Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
+        ],
+        "options": [
+          "W) [[0, −1], [1, 0]] (read as: row 1: 0, -1; row 2: 1, 0)",
+          "X) [[0, 1], [−1, 0]] (read as: row 1: 1, 1; row 2: -1, 0)",
+          "Y) [[0, −1], [−1, 0]] (read as: row 1: 0, -1; row 2: -1, 0)",
+          "Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
+        ],
+        "answers": [
+          "X) [[0, 1], [−1, 0]]"
+        ],
+        "answers_sanitized": [
+          "X) [[0, 1], [−1, 0]]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered original PDF page 13 confirms the corrected notation or layout.",
+      "before": {
+        "parts": [
+          "A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x. x 3 3"
+        ],
+        "answers": [
+          "V= 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x."
+        ],
+        "parts_sanitized": [
+          "A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x."
+        ],
+        "answers": [
+          "V = (√3 x<sup>3</sup>)/4"
+        ],
+        "answers_sanitized": [
+          "V = (√3 x^3)/4"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

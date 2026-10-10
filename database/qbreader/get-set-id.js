@@ -1,15 +1,12 @@
-import { sets } from './collections.js';
-
-// eslint-disable-next-line no-unused-vars
-import { ObjectId } from 'mongodb';
+import { query } from '../postgres.js';
 
 /**
  * @param {string} name - the name of the set
- * @returns {Promise<ObjectId | null>}
+ * @returns {Promise<string | null>}
  */
 async function getSetId (name) {
-  const set = await sets.findOne({ name });
-  return set ? set._id : null;
+  const { rows } = await query('select id from sets where name = $1', [name]);
+  return rows[0]?.id ?? null;
 }
 
 export default getSetId;

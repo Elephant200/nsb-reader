@@ -1,12 +1,13 @@
 import { MAX_ONLINE_PLAYERS, MAX_CONNECTIONS_PER_IP, PERMANENT_ROOMS, VERIFIED_ROOMS, ROOM_NAME_MAX_LENGTH } from './constants.js';
 import ServerTossupBonusRoom from './ServerTossupBonusRoom.js';
 import { configurePermanentRoomSettings } from './configure-permanent-room.js';
-import { checkToken } from '../authentication.js';
-import CategoryManager from '../../quizbowl/category-manager.js';
-import getRandomName from '../../quizbowl/get-random-name.js';
+import CategoryManager from '../../shared/category-manager.js';
+import getRandomName from '../../shared/get-random-name.js';
 import hasValidCharacters from '../moderation/has-valid-characters.js';
 import { clientIp, isBannedIp } from '../moderation/ip-filter.js';
 import isAppropriateString from '../moderation/is-appropriate-string.js';
+import { MULTIPLAYER_CLIENT_MESSAGE_TYPE } from '../../shared/protocol/multiplayer-room.js';
+import handleReaderConnection from './handle-reader-connection.js';
 
 import createDOMPurify from 'dompurify';
 // below is used for type annotation
@@ -51,8 +52,10 @@ function createAndReturnRoom (roomName, userId, isPrivate = false, isControlled 
   if (!Object.prototype.hasOwnProperty.call(tossupBonusRooms, roomName)) {
     const room = new ServerTossupBonusRoom(roomName, userId, false, new CategoryManager());
     // A room cannot be both public and controlled
-    room.settings.public = !isPrivate && !isControlled;
-    room.settings.controlled = isControlled;
+    room.settings.public = false;
+    room.settings.controlled = true;
+    // Remove the room once it empties out so it doesn't leak (see closeConnection).
+    room.onEmpty = () => { delete tossupBonusRooms[roomName]; };
     tossupBonusRooms[roomName] = room;
   }
 
@@ -66,6 +69,7 @@ function createAndReturnRoom (roomName, userId, isPrivate = false, isControlled 
  */
 export default function handleWssConnection (ws, req) {
   const parsedUrl = new url.URL(req.url, process.env.BASE_URL ?? 'http://localhost');
+  if (parsedUrl.pathname === '/reader-room') return handleReaderConnection(ws, req);
   const isPrivate = parsedUrl.searchParams.get('private') === 'true';
   const isControlled = parsedUrl.searchParams.get('controlled') === 'true';
   const roomName = parsedUrl.searchParams.get('roomName');
@@ -76,7 +80,7 @@ export default function handleWssConnection (ws, req) {
 
   if (!hasValidCharacters(roomName)) {
     ws.send(JSON.stringify({
-      type: 'error',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR,
       message: 'The room name contains an invalid character. Only A-Z, a-z, 0-9, - and _ are allowed.'
     }));
     return false;
@@ -84,7 +88,7 @@ export default function handleWssConnection (ws, req) {
 
   if (!isAppropriateString(roomName)) {
     ws.send(JSON.stringify({
-      type: 'error',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR,
       message: 'The room name contains an inappropriate word.'
     }));
     return false;
@@ -95,36 +99,17 @@ export default function handleWssConnection (ws, req) {
 
   if (room.settings.lock === true) {
     ws.send(JSON.stringify({
-      type: 'error',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR,
       message: 'The room is locked.',
       roomOwner
     }));
     return false;
   }
 
-  if (room.settings.loginRequired === true) {
-    let valid = true;
-    try {
-      const cookieString = (req?.headers?.cookie ?? 'session=;').split(';').find(token => token.trim().startsWith('session='));
-      const cookieBuffer = Buffer.from(cookieString.split('=')[1], 'base64');
-      const cookies = JSON.parse(cookieBuffer.toString('utf-8'));
-      valid = checkToken(cookies.username, cookies.token, true);
-    } catch (e) { valid = false; }
-
-    if (!valid) {
-      ws.send(JSON.stringify({
-        type: 'error',
-        message: 'You must be logged in with a verified email to join this room.',
-        roomOwner
-      }));
-      return false;
-    }
-  }
-
   if (!isAppropriateString(username)) {
     username = getRandomName();
     ws.send(JSON.stringify({
-      type: 'force-username',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.FORCE_USERNAME,
       username,
       message: 'Your username contains an inappropriate word, so it has been reset.'
     }));
@@ -132,7 +117,7 @@ export default function handleWssConnection (ws, req) {
 
   if (MAX_ONLINE_PLAYERS <= Object.values(room.players).filter(p => p.online).length) {
     ws.send(JSON.stringify({
-      type: 'error',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR,
       message: `The room has hit the maximum online players of ${MAX_ONLINE_PLAYERS}.`,
       roomOwner
     }));
@@ -145,7 +130,7 @@ export default function handleWssConnection (ws, req) {
   const ipConnections = connectionsByIp.get(ip) ?? 0;
   if (ipConnections >= MAX_CONNECTIONS_PER_IP) {
     ws.send(JSON.stringify({
-      type: 'error',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR,
       message: `Too many connections from your IP address. The limit is ${MAX_CONNECTIONS_PER_IP}.`
     }));
     return false;

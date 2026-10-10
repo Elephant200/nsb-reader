@@ -1,0 +1,528 @@
+{
+  "packetIndex": 168,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_4A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete source question/options and printed answer ‘Y) TERTIARY’ match the tossup 1 section (Biology – Multiple Choice The three-dimensional or folded shape of a protein is what hiera)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete source question/options and printed answer ‘Z) WIND TURBINE’ match the tossup 2 section (Energy – Multiple Choice Which of the following does not perform a chemical reaction durin)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source question/options and printed answer ‘Y) HEAT’ match the tossup 3 section (Physics – Multiple Choice Which of the following thermodynamic properties is not a state f)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete source question/options and printed answer ‘W) BERYLLIUM’ match the tossup 5 section (Chemistry – Multiple Choice Which of the following elements is the most electronegative?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete source question/options and printed answer ‘66’ match the tossup 6 section (Math – Short Answer In a room of 12 people, two meet for a handshake. How many different s)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source question/options and printed answer ‘Z) PETROLEUM’ match the tossup 7 section (Energy – Multiple Choice What nonrenewable energy source represents the greatest percentag)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source expression is a² + b² within the spoken ‘square root of open parenthesis ... close parenthesis’ wording; answer 6.",
+      "before": {
+        "question": "If a equals 6 cosine theta and b equals 6 sine theta, what is the square root of open parenthesis a 2 + b 2 close parenthesis?"
+      },
+      "changes": {
+        "question": "If a equals 6 cosine theta and b equals 6 sine theta, what is the square root of open parenthesis a<sup>2</sup> + b<sup>2</sup> close parenthesis?",
+        "question_sanitized": "If a equals 6 cosine theta and b equals 6 sine theta, what is the square root of open parenthesis a² + b² close parenthesis?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source question/options and printed answer ‘7’ match the tossup 9 section (Chemistry – Short Answer      How many d electrons are present in a cobalt ion in the +2 s)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source question/options and printed answer ‘Y) THE ENDODERMIS OF THE ROOT’ match the tossup 10 section (Biology – Multiple Choice In what part of a plant is the casparian strip located?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source question/options and printed answer ‘VELOCITY (ACCEPT: CHANGE IN VELOCITY)’ match the tossup 11 section (Physics – Short Answer Given a graph with acceleration on the y-axis and time on the x-axi)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source question/options and printed answer ‘7’ match the tossup 13 section (Math – Short Answer How many faces does a hexagonal pyramid have?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source question/options and printed answer ‘Y) THREE-CENTER TWO-ELECTRON BONDS’ match the tossup 14 section (Energy – Multiple Choice DOE researchers are studying unique chemical bonds formed by inte)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: printed tossup 17 choices are 1, 1.3, 1.5, and 2 meters per second; answer is X) 1.3.",
+      "before": {
+        "question": "A 10,000-kilogram truck is rolling at 2 meters per second when 5000 kilograms of cargo is dropped into it. Which of the following, in meters per second, is closest to the truck&amp;apos;s speed afterwards?<br>W) 1<br>X) <span class=\"nsb-fraction\">&lt;span&gt;1.3</span>&lt;span&gt;1.5</span></span><br>Y) <br>Z) 2",
+        "options": [
+          "W) 1",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;1.3</span>&lt;span&gt;1.5</span></span>",
+          "Y) ",
+          "Z) 2"
+        ]
+      },
+      "changes": {
+        "question": "A 10,000-kilogram truck is rolling at 2 meters per second when 5000 kilograms of cargo is dropped into it. Which of the following, in meters per second, is closest to the truck's speed afterwards?<br>W) 1<br>X) 1.3<br>Y) 1.5<br>Z) 2",
+        "options": [
+          "W) 1",
+          "X) 1.3",
+          "Y) 1.5",
+          "Z) 2"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: choice Z is printed ‘Dipole [DYE-pole]-dipole’; all other choices and answer X) HYDROPHOBIC match.",
+      "before": {
+        "question": "What is the most likely type of interaction between the side chains of the amino acids leucine [LOO-seen] and phenylalanine [Fennel-AL-ah-neen] ?<br>W) Ionic<br>X) Hydrophobic<br>Y) Hydrogen bonding<br>Z) Dipole [DYE-pole] -dipole",
+        "options": [
+          "W) Ionic",
+          "X) Hydrophobic",
+          "Y) Hydrogen bonding",
+          "Z) Dipole [DYE-pole] -dipole"
+        ]
+      },
+      "changes": {
+        "question": "What is the most likely type of interaction between the side chains of the amino acids leucine [LOO-seen] and phenylalanine [Fennel-AL-ah-neen]?<br>W) Ionic<br>X) Hydrophobic<br>Y) Hydrogen bonding<br>Z) Dipole [DYE-pole]-dipole",
+        "options": [
+          "W) Ionic",
+          "X) Hydrophobic",
+          "Y) Hydrogen bonding",
+          "Z) Dipole [DYE-pole]-dipole"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source question/options and printed answer ‘MARS’ match the tossup 19 section (Earth and Space – Short Answer Which of the four terrestrial planets is most unlike the ot)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source question/options and printed answer ‘3’ match the tossup 20 section (Chemistry – Short Answer Identify all of the following three statements concerning enthalp)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source question/options and printed answer ‘LAMINAR (ACCEPT: STREAMLINE)’ match the tossup 21 section (Physics – Short Answer      In a viscous fluid, what is the type of flow characterized by )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source question/options and printed answer ‘36’ match the tossup 22 section (Math – Short Answer What is 4 times 3 squared?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete source question/options and printed answer ‘CHONDROCYTES’ match the tossup 23 section (Biology – Short Answer What type of cells are found in the lacunae [lah-KOO-nay] of cartil)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete source question/options and printed answer ‘Y) RATE OF RNA REPLICATON’ match the bonuse 1 section (Biology – Multiple Choice Which of the following is NOT a basis for assays to measure cell)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete source question/options and printed answer ‘X) IT TAKES UP MUCH LESS SPACE AS A LIQUID 2017 Regional High School NSB®                                                                   ’ match the bonuse 2 section (Energy – Multiple Choice Which of the following best explains why propane is stored in liq)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source answer is PASCAL'S LAW (ACCEPT: PASCAL’S OR PASCAL’S PRINCIPLE). The prompt and answer boundaries match.",
+      "before": {
+        "answers": [
+          "PASCAL&amp;apos;S LAW (ACCEPT: PASCAL’S OR PASCAL’S PRINCIPLE)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "PASCAL'S LAW (ACCEPT: PASCAL’S OR PASCAL’S PRINCIPLE)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source question/options and printed answer ‘100 2017 Regional High School NSB®                                                                                PAGE 2’ match the bonuse 4 section (Earth and Space – Short Answer The volume of Lake Michigan is 5 times 10 to the 12 cubic m)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: choice Y is printed ‘Molecules only interact through dipole [DYE-pole]-dipole forces’; the other choices and answer W match.",
+      "before": {
+        "parts": [
+          "Which of the following is an assumption of the ideal gas law?<br>W) The volume of individual molecules is negligible compared to the volume of the container<br>X) All molecules travel at the same velocity<br>Y) Molecules only interact through dipole [DYE-pole] -dipole forces<br>Z) Molecules do not collide with each other"
+        ],
+        "options": [
+          "W) The volume of individual molecules is negligible compared to the volume of the container",
+          "X) All molecules travel at the same velocity",
+          "Y) Molecules only interact through dipole [DYE-pole] -dipole forces",
+          "Z) Molecules do not collide with each other"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is an assumption of the ideal gas law?<br>W) The volume of individual molecules is negligible compared to the volume of the container<br>X) All molecules travel at the same velocity<br>Y) Molecules only interact through dipole [DYE-pole]-dipole forces<br>Z) Molecules do not collide with each other"
+        ],
+        "options": [
+          "W) The volume of individual molecules is negligible compared to the volume of the container",
+          "X) All molecules travel at the same velocity",
+          "Y) Molecules only interact through dipole [DYE-pole]-dipole forces",
+          "Z) Molecules do not collide with each other"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source says x is inversely proportional to y²; given values and answer 4/3 match.",
+      "before": {
+        "parts": [
+          "If x is inversely proportional to y 2 and if x = 3 when y = 4, what is the value of x when y = 6?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If x is inversely proportional to y<sup>2</sup> and if x = 3 when y = 4, what is the value of x when y = 6?"
+        ],
+        "parts_sanitized": [
+          "If x is inversely proportional to y² and if x = 3 when y = 4, what is the value of x when y = 6?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source question/options and printed answer ‘Z) INDUSTRIAL’ match the bonuse 7 section (Energy – Multiple Choice According to the U.S. Energy Information Administration, which of)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source question/options and printed answer ‘2018 2017 Regional High School NSB®                                                                            PAGE 4’ match the bonuse 8 section (Math – Short Answer What is the median of the set of the first 2017 even positive integers)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source question/options and printed answer ‘2, 3, 1, 4 (ACCEPT: SODIUM, LITHIUM, BORON, TUNGSTEN)’ match the bonuse 9 section (Chemistry – Short Answer Rank the following four elements in terms of increasing melting p)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source question/options and printed answer ‘BILATERAL 2017 Regional High School NSB®                                                                       PAGE 5’ match the bonuse 10 section (Biology – Short Answer What type of symmetry do platyhelminths [plat-ih-HELL-minths] posse)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source question/options and printed answer ‘Y) LINEAR’ match the bonuse 11 section (Physics – Multiple Choice If one left-circularly polarized laser beam and one right-circul)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source question/options and printed answer ‘400 2017 Regional High School NSB®                                                                              PAGE 6’ match the bonuse 12 section (Earth and Space – Short Answer A star has five times the radius of the Sun, and the temper)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source question/options and printed answer ‘5/18’ match the bonuse 13 section (Math – Short Answer Two dice are rolled. What is the probability that the results are the )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete ethanol-fuel statements 1–3 and answer 2 AND 3 match the printed BONUS 14."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source question/options and printed answer ‘W) THEY ARE SUPPORTED BY ELECTRON DEGENERACY PRESSURE’ match the bonuse 15 section (Earth and Space – Multiple Choice Which of the following statements is NOT true regarding )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source question/options and printed answer ‘Y) SULFUR 2017 Regional High School NSB®                                                                             PAGE 8’ match the bonuse 16 section (Biology – Multiple Choice Metallothionein [meh-talloh-THIGH-uh-nin] is a protein that has )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: complete source question/options and printed answer ‘ALL (ACCEPT: 1, 2, 3)’ match the bonuse 17 section (Physics – Short Answer Identify all of the following three statements that are true of lig)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source denotes the reaction as SN₂; the full prompt and azide pronunciation cue remain unchanged.",
+      "before": {
+        "parts": [
+          "Consider the SN2 reaction of 1-chloropentane with the azide [AY-zide] ion. What is the LUMO [LOO-mo] of the electrophile in this reaction?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider the SN<sub>2</sub> reaction of 1-chloropentane with the azide [AY-zide] ion. What is the LUMO [LOO-mo] of the electrophile in this reaction?"
+        ],
+        "parts_sanitized": [
+          "Consider the SN₂ reaction of 1-chloropentane with the azide [AY-zide] ion. What is the LUMO [LOO-mo] of the electrophile in this reaction?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source question/options and printed answer ‘Y) DARK ENERGY’ match the bonuse 19 section (Earth and Space – Multiple Choice What phenomenon is believed to be the main driver in the)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source question/options and printed answer ‘3 2017 Regional High School NSB®                                                                            PAGE 10’ match the bonuse 20 section (Chemistry – Short Answer Identify all of the following three compounds that have a standar)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source question/options and printed answer ‘2’ match the bonuse 21 section (Physics – Short Answer An ideal pendulum has a period of 1 second. If its mass is multipli)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete Johnny arithmetic prompt and printed answer 215 match the printed BONUS 22."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete source question/options and printed answer ‘1 AND 2 2017 Regional High School NSB®                                                                            PAGE 12’ match the bonuse 23 section (Biology – Short Answer Identify all of the following three cell types that are leukocytes )."
+    }
+  ],
+  "packetIssues": []
+}

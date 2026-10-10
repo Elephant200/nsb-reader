@@ -15,44 +15,6 @@ export default function TossupCard ({ tossup, highlightedTossup, hideAnswerline,
     document.getElementById('report-question-id').value = _id;
   }
 
-  function showTossupStats () {
-    fetch('/api/question-stats/tossup?' + new URLSearchParams({ _id }))
-      .then(response => response.json())
-      .then(response => {
-        document.getElementById('tossup-stats-question-id').value = _id;
-        const { stats } = response;
-        if (!stats) {
-          document.getElementById('tossup-stats-body').textContent = 'No stats found for this question.';
-          return;
-        }
-
-        const averageCelerity = stats.numCorrect > 0 ? (stats.totalCorrectCelerity / stats.numCorrect) : 0;
-        const statsList = [['TUH', stats.count]];
-
-        for (const [pointValue, count] of Object.entries(stats.resultCounts).sort((a, b) => b[0] - a[0])) {
-          statsList.push([`${pointValue}s`, count]);
-        }
-
-        statsList.push(['Average Celerity', averageCelerity.toFixed(3)]);
-        statsList.push(['Total Points', stats.totalPoints]);
-        statsList.push(['PPTU', stats.pptu.toFixed(2)]);
-
-        const ul = document.createElement('ul');
-        ul.className = 'list-group';
-        for (const [label, value] of statsList) {
-          const li = document.createElement('li');
-          li.className = 'list-group-item d-flex justify-content-between align-items-center';
-          li.innerHTML = `${label} <span>${value}</span>`;
-          ul.appendChild(li);
-        }
-        document.getElementById('tossup-stats-body').textContent = '';
-        document.getElementById('tossup-stats-body').appendChild(ul);
-      })
-      .catch(error => {
-        console.error('Error:', error);
-      });
-  }
-
   return (
     <QuestionCard
       onClickHeader={clickToCopy}
@@ -68,7 +30,7 @@ export default function TossupCard ({ tossup, highlightedTossup, hideAnswerline,
         </div>
       </div>
       <div className={`card-footer d-flex justify-content-between ${hideCardFooter && 'd-none'}`}>
-        <div className='clickable flex-grow-1' onClick={showTossupStats} data-bs-toggle='modal' data-bs-target='#tossup-stats-modal'>
+        <div className='flex-grow-1'>
           <small className='text-muted'>
             {tossup.packet.name ? 'Packet ' + tossup.packet.name : <span>&nbsp;</span>}
           </small>

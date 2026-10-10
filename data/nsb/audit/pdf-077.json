@@ -1,0 +1,647 @@
+{
+  "packetIndex": 77,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by printed number and opening wording on Round 11 page 1; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "The following gaseous phase reaction is in equilibrium: CO + 2H<sub>2</sub> ⇔ (read as: is in equilibrium with) CH<sub>3</sub> OH. If you decrease the volume of the container holding the gas, what happens to the equilibrium?"
+      },
+      "changes": {
+        "question": "The following gaseous phase reaction is in equilibrium: CO + 2H<sub>2</sub> ⇔ (read as: is in equilibrium with) CH<sub>3</sub>OH. If you decrease the volume of the container holding the gas, what happens to the equilibrium?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by printed number and opening wording on Round 11 page 1; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "At what value of x is the tangent to the curve f(x) = 3x – 2x + 1 a horizontal line?"
+      },
+      "changes": {
+        "question": "At what value of x is the tangent to the curve f(x) = 3x<sup>2</sup> − 2x + 1 a horizontal line?",
+        "question_sanitized": "At what value of x is the tangent to the curve f(x) = 3x^2 - 2x + 1 a horizontal line?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by printed number and opening wording on Round 11 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by printed number and opening wording on Round 11 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by printed number and opening wording on Round 11 page 3; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "Which of the following pairs does NOT correctly match the element and its oxidation number?<br>W) Oxygen in H<sub>2</sub> O<sub>2</sub> and -2<br>X) Bromine in Br<sub>2</sub> and 0<br>Y) Sodium in NaCl and +1<br>Z) Sulfur in SO<sub>3</sub> and +4 −<sup>2</sup>",
+        "options": [
+          "W) Oxygen in H<sub>2</sub> O<sub>2</sub> and -2",
+          "X) Bromine in Br<sub>2</sub> and 0",
+          "Y) Sodium in NaCl and +1",
+          "Z) Sulfur in SO<sub>3</sub> and +4 −<sup>2</sup>"
+        ],
+        "answer": "W) OXYGEN IN H<sub>2</sub> O<sub>2</sub> AND -2"
+      },
+      "changes": {
+        "question": "Which of the following pairs does NOT correctly match the element and its oxidation number?<br>W) Oxygen in H<sub>2</sub>O<sub>2</sub> and −2<br>X) Bromine in Br<sub>2</sub> and 0<br>Y) Sodium in NaCl and +1<br>Z) Sulfur in SO<sub>3</sub><sup>2−</sup> and +4",
+        "question_sanitized": "Which of the following pairs does NOT correctly match the element and its oxidation number?<br>W) Oxygen in H2O2 and -2<br>X) Bromine in Br2 and 0<br>Y) Sodium in NaCl and +1<br>Z) Sulfur in SO3^2- and +4",
+        "options": [
+          "W) Oxygen in H<sub>2</sub>O<sub>2</sub> and −2",
+          "X) Bromine in Br<sub>2</sub> and 0",
+          "Y) Sodium in NaCl and +1",
+          "Z) Sulfur in SO<sub>3</sub><sup>2−</sup> and +4"
+        ],
+        "answer": "W) OXYGEN IN H<sub>2</sub>O<sub>2</sub> AND −2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by printed number and opening wording on Round 11 page 3; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by printed number and opening wording on Round 11 page 4; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by printed number and opening wording on Round 11 page 4; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 11 page 5; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V and V of A A B and B at the end of the displacement?<br>W) V = V /2 B A<br>X) V = 2V B A<br>Y) V = 2V B A<br>Z) V = 4V B A",
+        "options": [
+          "W) V = V /2 B A",
+          "X) V = 2V B A",
+          "Y) V = 2V B A",
+          "Z) V = 4V B A"
+        ],
+        "answer": "X) V = 2V B A"
+      },
+      "changes": {
+        "question": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V<sub>A</sub> and V<sub>B</sub> of A and B at the end of the displacement?<br>W) V<sub>B</sub> = V<sub>A</sub>/2<br>X) V<sub>B</sub> = √2 V<sub>A</sub><br>Y) V<sub>B</sub> = 2V<sub>A</sub><br>Z) V<sub>B</sub> = 4V<sub>A</sub>",
+        "question_sanitized": "Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities V_A and V_B of A and B at the end of the displacement?<br>W) V_B = V_A/2<br>X) V_B = sqrt(2) V_A<br>Y) V_B = 2V_A<br>Z) V_B = 4V_A",
+        "options": [
+          "W) V<sub>B</sub> = V<sub>A</sub>/2",
+          "X) V<sub>B</sub> = √2 V<sub>A</sub>",
+          "Y) V<sub>B</sub> = 2V<sub>A</sub>",
+          "Z) V<sub>B</sub> = 4V<sub>A</sub>"
+        ],
+        "answer": "X) V<sub>B</sub> = √2 V<sub>A</sub>",
+        "answer_sanitized": "X) V_B = sqrt(2) V_A"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by printed number and opening wording on Round 11 page 5; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "Providing your answer as an improper fraction in simplest form, what 3 is the slope of the line tangent to the graph of x 2 (read as: the cube root of x squared) at the point with coordinates of (-1/8, 1/4)?"
+      },
+      "changes": {
+        "question": "Providing your answer as an improper fraction in simplest form, what is the slope of the line tangent to the graph of ∛(x<sup>2</sup>) (read as: the cube root of x squared) at the point with coordinates of (−1/8, 1/4)?",
+        "question_sanitized": "Providing your answer as an improper fraction in simplest form, what is the slope of the line tangent to the graph of cube root of (x^2) (read as: the cube root of x squared) at the point with coordinates of (-1/8, 1/4)?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by printed number and opening wording on Round 11 page 6; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by printed number and opening wording on Round 11 page 6; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by printed number and opening wording on Round 11 page 7; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 by printed number and opening wording on Round 11 page 7; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 11 page 8; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 11 page 8; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "If f x, y = xy + 3xy 2 (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?"
+      },
+      "changes": {
+        "question": "If f(x, y) = xy + 3xy<sup>2</sup> (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?",
+        "question_sanitized": "If f(x, y) = xy + 3xy^2 (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by printed number and opening wording on Round 11 page 9; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by printed number and opening wording on Round 11 page 9; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by printed number and opening wording on Round 11 page 10; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by printed number and opening wording on Round 11 page 10; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 11 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "What is the limit of (3x + 6x)/(5 + 3x + x ) (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?"
+      },
+      "changes": {
+        "question": "What is the limit of <span class=\"nsb-fraction\"><span>3x<sup>2</sup> + 6x</span><span>5 + 3x + x<sup>2</sup></span></span> (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?",
+        "question_sanitized": "What is the limit of (3x^2 + 6x)/(5 + 3x + x^2) (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by printed number and opening wording on Round 11 page 11; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by printed number and opening wording on Round 11 page 12; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by printed number and opening wording on Round 11 page 12; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by printed number and opening wording on Round 11 page 13; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by printed number and opening wording on Round 11 page 1; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by printed number and opening wording on Round 11 page 1; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "If f(x) = x (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cosx over the domain of closed interval [-π, π], then what is the domain of f composed with g?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) = √x (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cos(x) over the domain of closed interval [−π, π], then what is the domain of f composed with g?"
+        ],
+        "parts_sanitized": [
+          "If f(x) = sqrt(x) (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cos(x) over the domain of closed interval [-pi, pi], then what is the domain of f composed with g?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by printed number and opening wording on Round 11 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by printed number and opening wording on Round 11 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by printed number and opening wording on Round 11 page 3; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by printed number and opening wording on Round 11 page 3; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by printed number and opening wording on Round 11 page 4; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by printed number and opening wording on Round 11 page 4; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "Using 9.8 meters per second squared for g and expressing your"
+        ],
+        "answers": [
+          "in scientific notation to one significant digit, what is the water pressure, in newtons per square meter, at a depth of 2 meters in a swimming pool? × 4 2 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Using 9.8 meters per second squared for g and expressing your answer in scientific notation to one significant digit, what is the water pressure, in newtons per square meter, at a depth of 2 meters in a swimming pool?"
+        ],
+        "answers": [
+          "2 × 10<sup>4</sup>"
+        ],
+        "answers_sanitized": [
+          "2 × 10^4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by printed number and opening wording on Round 11 page 5; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by printed number and opening wording on Round 11 page 5; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "Evaluate the integral: 36 x 2 dx (read as: the integral from -6 to 0 of the square root of open parenthesis 36 minus<sup>6</sup> x squared close parenthesis d x)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the integral from −6 to 0: ∫ √(36 − x<sup>2</sup>) dx (read as: the integral from -6 to 0 of the square root of open parenthesis 36 minus x squared close parenthesis d x)."
+        ],
+        "parts_sanitized": [
+          "Evaluate the integral from -6 to 0: integral of sqrt(36 - x^2) dx (read as: the integral from -6 to 0 of the square root of open parenthesis 36 minus x squared close parenthesis d x)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root visually checked PDF page 6: the accepted chemical formula is N with a subscript 2, followed by a comma and MOLECULAR NITROGEN within the parentheses. Extraction displaced the subscript and comma after the closing parenthesis.",
+      "before": {
+        "answers": [
+          "NITROGEN (ACCEPT: N MOLECULAR NITROGEN) 2,"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "NITROGEN (ACCEPT: N<sub>2</sub>, MOLECULAR NITROGEN)"
+        ],
+        "answers_sanitized": [
+          "NITROGEN (ACCEPT: N₂, MOLECULAR NITROGEN)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by printed number and opening wording on Round 11 page 6; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by printed number and opening wording on Round 11 page 7; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by printed number and opening wording on Round 11 page 8; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "Approximate the area under f(x) = x + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Approximate the area under f(x) = x<sup>2</sup> + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals."
+        ],
+        "parts_sanitized": [
+          "Approximate the area under f(x) = x^2 + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by printed number and opening wording on Round 11 page 9; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by printed number and opening wording on Round 11 page 9; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "You’re designing a battery pack filled with many cell phone lithium- ion batteries capable of storing 500 megawatt hours of energy. If the battery operates at a constant voltage of 3.6 volts, providing your answer in scientific notation with two significant figures, what capacity in ampere hours would you need to store 500 megawatt hours of energy? × 8"
+        ],
+        "answers": [
+          "1.4 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "You’re designing a battery pack filled with many cell phone lithium-ion batteries capable of storing 500 megawatt hours of energy. If the battery operates at a constant voltage of 3.6 volts, providing your answer in scientific notation with two significant figures, what capacity in ampere hours would you need to store 500 megawatt hours of energy?"
+        ],
+        "answers": [
+          "1.4 × 10<sup>8</sup>"
+        ],
+        "answers_sanitized": [
+          "1.4 × 10^8"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by printed number and opening wording on Round 11 page 10; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by printed number and opening wording on Round 11 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "Given f(x) = tanx/secx, find f ’ (2π/3) (read as: Given f of x equals tangent of x over secant of x, find f prime of 2 pi over 3)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given f(x) = tan(x)/sec(x), find f′(2π/3) (read as: Given f of x equals tangent of x over secant of x, find f prime of 2 pi over 3)."
+        ],
+        "parts_sanitized": [
+          "Given f(x) = tan(x)/sec(x), find f prime at (2pi/3) (read as: Given f of x equals tangent of x over secant of x, find f prime of 2 pi over 3)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by printed number and opening wording on Round 11 page 11; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by printed number and opening wording on Round 11 page 12; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by printed number and opening wording on Round 11 page 12; compared the full prompt, choices where present, and answer against the PDF."
+    }
+  ],
+  "packetIssues": []
+}

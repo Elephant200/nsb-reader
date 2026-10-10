@@ -1,0 +1,438 @@
+{
+  "packetIndex": 235,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-3-HS-2021.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 shows all four thermodynamics statements and keys X) Real thermodynamic processes are not reversible; the corpus choices and key match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks for the population-genetics measure of gene propagation and keys FITNESS; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks for the minimum reaction energy and keys ACTIVATION ENERGY; the short-answer record matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 describes cooling igneous rock columnar joints and keys SIX sides; wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 describes neighboring moments pointing in opposite directions, shows all four magnetism types, and keys Y) Anti-ferro-magnetism; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives inscribed angle ABC as 35° and asks for arc ABC; key 290 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks for the volume of one mole of ideal gas at zero kelvins and keys 0 liters; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks from which neon subshell an electron is removed to n = infinity and keys 2P; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 describes an aligned eclipse where the Moon’s angular size cannot cover the Sun; key ANNULAR (ACCEPT: ANNULAR ECLIPSE) matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 connects bacterial DNA modification to genomic imprinting and Barr-body formation; key METHYLATION matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks for 6! divided by 4! and keys 30; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 gives an 8 kg and 20 kg mass on a 7 m lever, with choices 3.5, 4, 4.5, 5 and key Z) 5; replaced the extracted fraction/blank choices.",
+      "before": {
+        "question": "An 8-kilogram and a 20-kilogram mass are on opposite sides of a 7-meter-long lever. In meters, how far should the fulcrum be placed from the 8-kilogram mass so that the two masses are balanced?<br>W) 3.5<br>X) <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;4.5</span></span><br>Y) <br>Z) 5",
+        "options": [
+          "W) 3.5",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;4.5</span></span>",
+          "Y) ",
+          "Z) 5"
+        ]
+      },
+      "changes": {
+        "question": "An 8-kilogram and a 20-kilogram mass are on opposite sides of a 7-meter-long lever. In meters, how far should the fulcrum be placed from the 8-kilogram mass so that the two masses are balanced?<br>W) 3.5<br>X) 4<br>Y) 4.5<br>Z) 5",
+        "options": [
+          "W) 3.5",
+          "X) 4",
+          "Y) 4.5",
+          "Z) 5"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 lists food, water, and nesting-site limits, followed by four population impacts; key W) decreased carrying capacity matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 prints Cu(II), MnO₂, NaBH₄, and iodine, and keys MnO₂; restored chemical subscripts in both choices and key.",
+      "before": {
+        "question": "Which of the following compounds or ions is the best oxidizing agent?<br>W) Copper(II) ions<br>X) MnO 2<br>Y) NaBH 4<br>Z) Iodine solid",
+        "answer": "X) MnO 2",
+        "options": [
+          "W) Copper(II) ions",
+          "X) MnO 2",
+          "Y) NaBH 4",
+          "Z) Iodine solid"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following compounds or ions is the best oxidizing agent?<br>W) Copper(II) ions<br>X) MnO<sub>2</sub><br>Y) NaBH<sub>4</sub><br>Z) Iodine solid",
+        "question_sanitized": "Which of the following compounds or ions is the best oxidizing agent?<br>W) Copper(II) ions<br>X) MnO2<br>Y) NaBH4<br>Z) Iodine solid",
+        "answer": "X) MnO<sub>2</sub>",
+        "answer_sanitized": "X) MnO2",
+        "options": [
+          "W) Copper(II) ions",
+          "X) MnO<sub>2</sub>",
+          "Y) NaBH<sub>4</sub>",
+          "Z) Iodine solid"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists focal lengths, refractive index, and aperture [AP-ur-chur]; key Z) Aperture and the pronunciation cue match the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 asks for the heavy-chain/light-chain protein class and gives ANTIBODY, accepting immunoglobulin and gammaglobulin; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 gives domain [2,6], range [4,8], decreasing f, and choices 2, 4, 6, 8 with key Z) 8; replaced corrupted choices.",
+      "before": {
+        "question": "A differentiable function f of x has domain the closed interval from 2 to 6 and range the closed interval from 4 to 8. If f prime of x is less than 0 for all x in the domain, what is f of 2?<br>W) 2<br>X) <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;6</span></span><br>Y) <br>Z) 8",
+        "options": [
+          "W) 2",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;6</span></span>",
+          "Y) ",
+          "Z) 8"
+        ]
+      },
+      "changes": {
+        "question": "A differentiable function f of x has domain the closed interval from 2 to 6 and range the closed interval from 4 to 8. If f prime of x is less than 0 for all x in the domain, what is f of 2?<br>W) 2<br>X) 4<br>Y) 6<br>Z) 8",
+        "options": [
+          "W) 2",
+          "X) 4",
+          "Y) 6",
+          "Z) 8"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives orbital altitudes of one and two Earth radii above the surface and keys 9/4 with the same three alternatives; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists A, B, O, and AB offspring blood types for AB parents; key Z) AB matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists hydrogen sulfide, fluoro-methane, and carbon tetra-bromide; key 1, 2 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 retains [mah-RAYN] after lateral moraine and keys end moraine as item 2; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks for hydrogens in hexadecane [hexa-DEH-cane] and keys 34; cue and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints x³ + 7x² − 9x − 63 = 0 and keys −3 and −7, both required; restored the two superscripts.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x over the negative integers: x 3 + 7x 2 – 9x – 63 = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x over the negative integers: x<sup>3</sup> + 7x<sup>2</sup> – 9x – 63 = 0"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x over the negative integers: x^3 + 7x^2 – 9x – 63 = 0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists positron/electron behavior in electric and gravitational fields and upon collision; the key selects statement 2; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 shows four water-balance statements with [an-jee-oh-ten-SIN-oh-jen], [an-jee-oh-TEN-sin], and [al-DOSS-ter-own] cues; key W matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists four polymer-measurement techniques and keys W) Gel permeation chromatography; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists Saturn, Uranus, and Neptune for liquid metallic hydrogen; key 1 matches. Corrected the extracted colon after Uranus to the source semicolon.",
+      "before": {
+        "parts": [
+          "Identify all of the following three gas giants that are hypothesized to have a layer of liquid metallic hydrogen: 1) Saturn; 2) Uranus: 3) Neptune."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three gas giants that are hypothesized to have a layer of liquid metallic hydrogen: 1) Saturn; 2) Uranus; 3) Neptune."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks for a particle made entirely of gluons and keys GLUEBALL with GLUONIUM and GLUONBALL accepted; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints numerator 23 + 11i over denominator 1 + 5i, asks for a + bi form, and keys 3 − 4i; the notation and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 shows all four expressions—position × momentum, velocity² × mass, angular momentum/time, momentum²/mass—and keys W; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 lists petal counts 6, 8, 12 for a monocot and keys 1, 3 with 6 and 12 accepted; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 asks for increasing reducing-agent strength among copper, zinc, and lead; key 1, 3, 2 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 retains the [SFEER-ools] cue for Martian spherules and keys HEMATITE; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 describes negligible nuclear motion versus electron motion and keys the Born–Oppenheimer approximation (accept BO); the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 asks for the rounded slant height of a cone with radius 7 and height 14; key 16 matches."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,546 @@
+{
+  "packetIndex": 105,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 1 (tossups) beginning “What is the spectral type of the Sun?”; its printed answer “G (ACCEPT: G2, G2V)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 2 (tossups) beginning “Which of the following marine microbe groups has a cell membrane mainly comprised of ”; its printed answer “Y) CILIATES” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 3 (tossups) beginning “If f(x) = 3x[f of x equals 3 to the power of x], find the value of f(log 3 7) [f of l”; its printed answer “7” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "question": "If f(x) = 3x[f of x equals 3 to the power of x], find the value of f(log 3 7) [f of log base 3 of 7]."
+      },
+      "changes": {
+        "question": "If f(x) = 3<sup>x</sup> [f of x equals 3 to the power of x], find the value of f(log<sub>3</sub> 7) [f of log base 3 of 7].",
+        "question_sanitized": "If f(x) = 3 to the power of x [f of x equals 3 to the power of x], find the value of f(log base 3 of 7) [f of log base 3 of 7]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 4 (tossups) beginning “What percentage of the world’s production of rare earth metals is produced by China? ”; its printed answer “Z) 95%” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 5 (tossups) beginning “In atomic orbital overlap, which of the following is true of destructive interference”; its printed answer “Y) IT GIVES AN ANTIBONDING ORBITAL AND A NODE PERPENDICULAR TO THE INTERNUCLEAR AXIS” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 6 (tossups) beginning “How many types of quarks are there in nature? W) 3 X) 5 Y) 6 Z) 10”; its printed answer “Y) 6” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 7 (tossups) beginning “On July 4, under modern conditions, the planet is at which of the following in relati”; its printed answer “X) APHELION” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 8 (tossups) beginning “During meiosis [my-OH-sis], when a cell has lost both members of a homologous [huh-MO”; its printed answer “X) NULLISOMY” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 9 (tossups) beginning “In how many ways can a committee of 7 be seated along one side of a table if the chai”; its printed answer “Y) 720” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 10 (tossups) beginning “From 2001 to 2011, the installed wind power in the U.S. in megawatts has increased by”; its printed answer “Y) 10” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 11 (tossups) beginning “Which of the following statements is true of the compression of a system? W) Work is ”; its printed answer “X) WORK IS DONE ON THE SYSTEM, dV IS LESS THAN 0, AND dw IS GREATER THAN 0” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 12 (tossups) beginning “You are traveling down a level highway in your car with mass 1000 kilograms at 30 met”; its printed answer “6” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 13 (tossups) beginning “Which of the following rocks is most effective at neutralizing acid rain? W) Limeston”; its printed answer “W) LIMESTONE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 14 (tossups) beginning “If you have a white horse mate with a white horse that has many spots called leopard ”; its printed answer “Y) INCOMPLETELY DOMINANT” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 15 (tossups) beginning “The power input in a perfectly efficient step-up transformer is which of the followin”; its printed answer “X) EQUAL TO THE POWER OUTPUT” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 16 (tossups) beginning “What is the coefficient of the xy2 term in the expansion of (x + 2y)3 [open parenthes”; its printed answer “Y) 12” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "question": "What is the coefficient of the xy2 term in the expansion of (x + 2y)3 [open parenthesis x plus 2y close parenthesis to the power of 3]?<br>W) 3<br>X) 8<br>Y) 12<br>Z) 18"
+      },
+      "changes": {
+        "question": "What is the coefficient of the xy<sup>2</sup> term in the expansion of (x + 2y)<sup>3</sup> [open parenthesis x plus 2y close parenthesis to the power of 3]?<br>W) 3<br>X) 8<br>Y) 12<br>Z) 18",
+        "question_sanitized": "What is the coefficient of the x y squared term in the expansion of (x + 2y) cubed [open parenthesis x plus 2y close parenthesis to the power of 3]? W) 3 X) 8 Y) 12 Z) 18"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 17 (tossups) beginning “Which of the following is an example of an A+1 isotope? W) Nitrogen X) Oxygen Y) Sulf”; its printed answer “W) NITROGEN” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 18 (tossups) beginning “The Fahrenheit and Kelvin scales give the same reading at approximately which of the ”; its printed answer “Z) 575” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 19 (tossups) beginning “The absence of which of the following transcript components would decrease eukaryotic”; its printed answer “W) POLY(A) TAIL” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 21 (tossups) beginning “Find the radius of a circle in which a 30° arc is 2𝜋 units long. W) 12 X) 15 Y) 15 \ud835”; its printed answer “W) 12” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 22 (tossups) beginning “If my current annual heating bill of natural gas is $800 with a furnace that is 70% e”; its printed answer “X) $600” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 23 (tossups) beginning “A child who excretes black urine is born to two normal parents. The child has a reces”; its printed answer “X) CONSANGUINITY” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 24 (tossups) beginning “According to valence bond theory, we assume that in methane, each pair of electrons i”; its printed answer “LOCALIZED (ACCEPT: LOCALIZED BOND AND LOCALIZED BONDING)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13 visibly prints question 25 (tossups) beginning “Which of the following is true when light enters a denser medium and is refracted? W)”; its printed answer “Z) FREQUENCY REMAINS UNCHANGED” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 2 (bonuses) beginning “Which of the following habitat and life history combinations would select for the pro”; its printed answer “W) ARCTIC, PRECOCIAL YOUNG” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 3 (bonuses) beginning “Find the product of complex numbers (1 - i) × (2 - i) [open parenthesis 1 minus i clo”; its printed answer “1 - 3i” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 5 (bonuses) beginning “In order to enhance the activity of the catalyst, a textural or chemical promoter may”; its printed answer “X) POTASSIUM OXIDE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 6 (bonuses) beginning “Which of the following is the approximate distance in kilometers covered by a photon ”; its printed answer “Z) 9 TRILLION” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 7 (bonuses) beginning “During La Niña events, which of the following is most likely? W) Drought in northeast”; its printed answer “Y) DROUGHT IN THE SOUTHWESTERN U.S.” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 8 (bonuses) beginning “By number, place the following steps necessary for cloning a gene into bacteria from ”; its printed answer “4, 1, 3, 2” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 9 (bonuses) beginning “How many three-digit numbers can be made using digits 0 through 4, provided the first”; its printed answer “100” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 11 (bonuses) beginning “Polycatenane [pol-ee-KAT-n-ayn] and polyrotaxane [pol-ee- ro-TUH-ksayn] are examples ”; its printed answer “W) SUPRAMOLECULAR” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 12 (bonuses) beginning “Epsilon naught, ε o, and mu naught, µ o, are permittivity and permeability constants ”; its printed answer “W) 1/�𝜀0 𝜇0” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "parts": [
+          "Epsilon naught, ε o, and mu naught, µ o, are permittivity and permeability constants of free space, respectively. The speed of light is found in terms of these constants as which of the following?<br>W) 1/�𝜀0 𝜇0 [1 over the square root of the quantity epsilon naught mu naught]<br>X) �𝜀0 𝜇0 [the square root of the quantity epsilon naught mu naught] 𝜇0<br>Y) [the fraction with numerator mu naught and denominator 4 pi epsilon naught] 4𝜋𝜋0<br>Z) 𝜀0 /𝜇0 [epsilon naught over mu naught]"
+        ],
+        "answers": [
+          "W) 1/�𝜀0 𝜇0"
+        ],
+        "options": [
+          "W) 1/�𝜀0 𝜇0 [1 over the square root of the quantity epsilon naught mu naught]",
+          "X) �𝜀0 𝜇0 [the square root of the quantity epsilon naught mu naught] 𝜇0",
+          "Y) [the fraction with numerator mu naught and denominator 4 pi epsilon naught] 4𝜋𝜋0",
+          "Z) 𝜀0 /𝜇0 [epsilon naught over mu naught]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Epsilon naught, ε₀, and mu naught, μ₀, are permittivity and permeability constants of free space, respectively. The speed of light is found in terms of these constants as which of the following?<br>W) 1/√(ε₀ μ₀) [1 over the square root of the quantity epsilon naught mu naught]<br>X) √(ε₀ μ₀) [the square root of the quantity epsilon naught mu naught]<br>Y) μ₀/(4π ε₀) [the fraction with numerator mu naught and denominator 4 pi epsilon naught]<br>Z) ε₀/μ₀ [epsilon naught over mu naught]"
+        ],
+        "parts_sanitized": [
+          "Epsilon naught, epsilon naught zero, and mu naught, mu naught zero, are permittivity and permeability constants of free space, respectively. The speed of light is found in terms of these constants as which of the following? W) 1 over the square root of the quantity epsilon naught mu naught [1 over the square root of the quantity epsilon naught mu naught] X) the square root of the quantity epsilon naught mu naught [the square root of the quantity epsilon naught mu naught] Y) the fraction with numerator mu naught and denominator 4 pi epsilon naught [the fraction with numerator mu naught and denominator 4 pi epsilon naught] Z) epsilon naught over mu naught [epsilon naught over mu naught]"
+        ],
+        "answers": [
+          "W) 1/√(ε₀ μ₀)"
+        ],
+        "answers_sanitized": [
+          "W) 1 over the square root of the quantity epsilon naught mu naught"
+        ],
+        "options": [
+          "W) 1/√(ε₀ μ₀) [1 over the square root of the quantity epsilon naught mu naught]",
+          "X) √(ε₀ μ₀) [the square root of the quantity epsilon naught mu naught]",
+          "Y) μ₀/(4π ε₀) [the fraction with numerator mu naught and denominator 4 pi epsilon naught]",
+          "Z) ε₀/μ₀ [epsilon naught over mu naught]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 14 (bonuses) beginning “DNA replication requires that the DNA that has been pulled apart stays single-strande”; its printed answer “SINGLE STRAND BINDING PROTEIN (ACCEPT: SSB OR SINGLE STRANDED BINDING PROTEIN)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 15 (bonuses) beginning “A high energy photon near a nucleus can produce an electron- positron pair. What is t”; its printed answer “Y) TWO TIMES THE PROPER ENERGY OF THE ELECTRON” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 16 (bonuses) beginning “What is the area of a square inscribed in a circle of radius k?”; its printed answer “2k2” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "answers": [
+          "2k2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "2k<sup>2</sup>"
+        ],
+        "answers_sanitized": [
+          "2k squared"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 17 (bonuses) beginning “Which of the following techniques in the field of nanotechnology is considered to be ”; its printed answer “Y) OVONICS UNIFIED MEMORY” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 18 (bonuses) beginning “In neutron decay, a neutron decays into a proton, an electron, and what else?”; its printed answer “AN ELECTRON ANTI-NEUTRINO (DO NOT ACCEPT: NEUTRINO, ELECTRON NEUTRINO, OR ANTI-NEUTRINO)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 19 (bonuses) beginning “Leghemoglobin [leg-HEE-muh-gloh-bin] functions as an oxygen binding protein in which ”; its printed answer “W) PLANT ROOTS” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 20 (bonuses) beginning “The Columbia River Gorge primarily cuts through what type of rock? W) Granite X) Basa”; its printed answer “X) BASALT” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 21 (bonuses) beginning “What is the exact value of tan(120o) + cot(30o) [tangent of 120 degrees plus cotangen”; its printed answer “X) 0” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "parts": [
+          "What is the exact value of tan(120o) + cot(30o) [tangent of 120 degrees plus cotangent of 30 degrees]?<br>W) −2√3<br>X) 0 √3<br>Y) 2 [2 times the square root of 3 over 3] 3<br>Z) 2√3"
+        ],
+        "options": [
+          "W) −2√3",
+          "X) 0 √3",
+          "Y) 2 [2 times the square root of 3 over 3] 3",
+          "Z) 2√3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the exact value of tan(120°) + cot(30°) [tangent of 120 degrees plus cotangent of 30 degrees]?<br>W) −2√3<br>X) 0<br>Y) (2√3)/3 [2 times the square root of 3 over 3]<br>Z) 2√3"
+        ],
+        "parts_sanitized": [
+          "What is the exact value of tan(120 degrees) + cot(30 degrees) [tangent of 120 degrees plus cotangent of 30 degrees]? W) negative 2 times the square root of 3 X) 0 Y) 2 times the square root of 3 over 3 [2 times the square root of 3 over 3] Z) 2 times the square root of 3"
+        ],
+        "options": [
+          "W) −2√3",
+          "X) 0",
+          "Y) (2√3)/3 [2 times the square root of 3 over 3]",
+          "Z) 2√3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 22 (bonuses) beginning “What is the term for the point at which solar photovoltaic technology produces power ”; its printed answer “GRID PARITY” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 24 (bonuses) beginning “Steam cracking is one process used in the manufacture of lighter olefins. Which of th”; its printed answer “Y) THE REACTION IS FAVORED BY HIGH PRESSURE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13 visibly prints question 25 with the notation V(x) = 4x² − x; the source superscript/prime is restored while the accompanying wording and printed answer “-8x + 1 (DO NOT ACCEPT: 8x - 1)” are retained.",
+      "before": {
+        "parts": [
+          "A one-dimensional electrical potential has the form V(x) = 4x2 - x. What is the electrical field associated with this potential in terms of x?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A one-dimensional electrical potential has the form V(x) = 4x<sup>2</sup> − x. What is the electrical field associated with this potential in terms of x?"
+        ],
+        "parts_sanitized": [
+          "A one-dimensional electrical potential has the form V(x) = 4x squared minus x. What is the electrical field associated with this potential in terms of x?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

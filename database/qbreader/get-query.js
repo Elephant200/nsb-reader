@@ -1,36 +1,22 @@
-import { bonuses, tossups } from './collections.js';
+import { query } from '../postgres.js';
 
-import { OKCYAN, ENDC, OKGREEN } from '../../server/bcolors.js';
 import unformatString from '../../shared/unformat-string.js';
-import { DEFAULT_QUERY_RETURN_LENGTH, MAX_QUERY_RETURN_LENGTH } from '../../quizbowl/constants.js';
-// eslint-disable-next-line no-unused-vars
-import * as types from '../../types.js';
+import { DEFAULT_QUERY_RETURN_LENGTH, MAX_QUERY_RETURN_LENGTH } from '../../shared/constants.js';
+import {
+  buildQuestionFilters,
+  mapBonusRow,
+  mapTossupRow,
+  packetJoinSql,
+  questionOrderSql,
+  questionSelectSql
+} from './sql.js';
 
-/**
- * Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions#escaping
- */
 function escapeRegExp (string) {
-  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
-}
-
-function getQuerySummary (options) {
-  const { queryString, difficulties, maxReturnLength, questionType, randomize, regex, searchType, setName } = options;
-
-  return `\
-    [DATABASE] QUERY: string: ${OKCYAN}${queryString}${ENDC}; \
-    difficulties: ${OKGREEN}${difficulties}${ENDC}; \
-    max length: ${OKGREEN}${maxReturnLength}${ENDC}; \
-    question type: ${OKGREEN}${questionType}${ENDC}; \
-    randomize: ${OKGREEN}${randomize}${ENDC}; \
-    regex: ${OKGREEN}${regex}${ENDC}; \
-    search type: ${OKGREEN}${searchType}${ENDC}; \
-    set name: ${OKGREEN}${setName}${ENDC}; \
-    `;
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 function validateOptions ({
   queryString,
-  difficulties,
   setName,
   searchType = 'all',
   questionType = 'all',
@@ -43,7 +29,6 @@ function validateOptions ({
   ignoreWordOrder = false,
   exactPhrase = false,
   caseSensitive = false,
-  powermarkOnly = false,
   tossupPagination = 1,
   bonusPagination = 1,
   minYear,
@@ -80,12 +65,11 @@ function validateOptions ({
   if (ignoreWordOrder) {
     words = queryString.split(' ').filter(word => word !== '');
   } else {
-    words = [queryString];
+    words = [queryString].filter(word => word !== '');
   }
 
   if (exactPhrase && !regex) {
-    queryString = `\\b${queryString}\\b`;
-    words = words.map(word => `\\b${word}\\b`);
+    words = words.map(word => `\\m${word}\\M`);
   }
 
   if (!searchType) {
@@ -98,212 +82,118 @@ function validateOptions ({
     alternateSubcategories = alternateSubcategories.concat([null]);
   }
 
-  return { queryString, difficulties, setName, searchType, questionType, categories, subcategories, alternateSubcategories, maxReturnLength, randomize, regex, exactPhrase, caseSensitive, powermarkOnly, tossupPagination, bonusPagination, minYear, maxYear, verbose, words };
+  return { queryString, setName, searchType, questionType, categories, subcategories, alternateSubcategories, maxReturnLength, randomize, regex, exactPhrase, caseSensitive, tossupPagination, bonusPagination, minYear, maxYear, verbose, words };
 }
 
-/**
- * Retrieves questions from the database based on a search query.
- * Also validates option _values_ and sets _default values_, but does not validate option _types_.
- * @param {object} options - The options for the question retrieval.
- * @param {string} options.queryString - The search query string.
- * @param {number[]} options.difficulties - An array of difficulties to filter by.
- * @param {string} options.setName - The name of the set to search in.
- * @param {'question' | 'answer' | 'all'} [options.searchType='all'] - The type of search to perform.
- * @param {'tossup' | 'bonus' | 'all'} [options.questionType='all'] - The type of question to search for.
- * @param {string[]} [options.categories] - An array of categories to filter by.
- * @param {string[]} [options.subcategories] - An array of subcategories to filter by.
- * @param {string[]} [options.alternateSubcategories] - An array of alternate subcategories to filter by.
- * @param {number} [options.maxReturnLength] - The maximum number of questions to return.
- * @param {boolean} [options.randomize=false] - Whether to randomize the order of the returned questions.
- * @param {boolean} [options.regex=false] - Whether to treat the search query as a regular expression.
- * @param {boolean} [options.ignoreWordOrder=false] - Whether to ignore the word order in the search query. This allows the words to appear anywhere in the text, not necessarily next to each other.
- * @param {boolean} [options.exactPhrase=false] - Whether to search for an exact phrase match.
- * @param {boolean} [options.powermarkOnly=false] - Whether to only search for powermarked questions.
- * @param {number} [options.tossupPagination=1] - The page number of the tossup pagination.
- * @returns {Promise<{tossups: {count: Number, questionArray: types.Tossup[]}, bonuses: {count: Number, questionArray: types.Bonus[]}}>} The retrieved questions.
- */
-async function getQuery (options = {}) {
-  if (options.verbose) {
-    console.time('getQuery');
+function addSearchClauses ({ fields, values, words, searchType, caseSensitive, exactAnswer }, startIndex) {
+  const clauses = [];
+  let index = startIndex;
+  const operator = caseSensitive ? '~' : '~*';
+
+  for (const word of words) {
+    const orClauses = [];
+    const pattern = exactAnswer ? `^\\s*${word}\\s*(\\[.*|\\(.*)?$` : word;
+
+    for (const field of fields) {
+      if (field.kind === 'question' && !['question', 'all'].includes(searchType)) { continue; }
+      if (field.kind === 'answer' && !['answer', 'exactAnswer', 'all'].includes(searchType)) { continue; }
+      orClauses.push(`${field.sql} ${operator} $${index++}`);
+      values.push(pattern);
+    }
+
+    if (orClauses.length) {
+      clauses.push(`(${orClauses.join(' or ')})`);
+    }
   }
 
-  // throws error if invalid options
+  return { clauses, nextIndex: index };
+}
+
+async function getQuestionQuery ({ table, mapper, fields, pagination, options }) {
+  const baseFilters = buildQuestionFilters(options);
+  const values = baseFilters.values.slice();
+  const clauses = [];
+
+  if (baseFilters.whereSql) {
+    clauses.push(baseFilters.whereSql.replace(/^where /, ''));
+  }
+
+  const search = addSearchClauses({
+    caseSensitive: options.caseSensitive,
+    exactAnswer: options.searchType === 'exactAnswer',
+    fields,
+    searchType: options.searchType,
+    values,
+    words: options.words
+  }, baseFilters.nextIndex);
+
+  clauses.push(...search.clauses);
+
+  const whereSql = clauses.length ? `where ${clauses.join(' and ')}` : '';
+  const countValues = values.slice();
+  const limitIndex = search.nextIndex;
+  const offsetIndex = search.nextIndex + 1;
+  const offset = (pagination - 1) * options.maxReturnLength;
+  const orderSql = options.randomize ? 'order by random()' : questionOrderSql;
+
+  const [questionResult, countResult] = await Promise.all([
+    query(`
+      select ${questionSelectSql()}
+      ${packetJoinSql(table)}
+      ${whereSql}
+      ${orderSql}
+      limit $${limitIndex} offset $${offsetIndex}
+    `, values.concat([options.maxReturnLength, offset])),
+    query(`
+      select count(*)::int as count
+      ${packetJoinSql(table)}
+      ${whereSql}
+    `, countValues)
+  ]);
+
+  return {
+    count: countResult.rows[0]?.count ?? 0,
+    questionArray: questionResult.rows.map(mapper)
+  };
+}
+
+async function getQuery (options = {}) {
   options = validateOptions(options);
 
-  let tossupQuery = null;
-  if (['tossup', 'all'].includes(options.questionType)) {
-    tossupQuery = getTossupQuery(options);
-  }
+  const tossupQuery = ['tossup', 'all'].includes(options.questionType)
+    ? getQuestionQuery({
+      fields: [
+        { kind: 'question', sql: 'q.question_sanitized' },
+        { kind: 'answer', sql: 'q.answer_sanitized' }
+      ],
+      mapper: mapTossupRow,
+      options,
+      pagination: options.tossupPagination,
+      table: 'tossups'
+    })
+    : null;
 
-  let bonusQuery = null;
-  if (['bonus', 'all'].includes(options.questionType)) {
-    bonusQuery = getBonusQuery(options);
-  }
+  const bonusQuery = ['bonus', 'all'].includes(options.questionType)
+    ? getQuestionQuery({
+      fields: [
+        { kind: 'question', sql: 'q.leadin_sanitized' },
+        { kind: 'question', sql: "array_to_string(q.parts_sanitized, ' ')" },
+        { kind: 'answer', sql: "array_to_string(q.answers_sanitized, ' ')" }
+      ],
+      mapper: mapBonusRow,
+      options,
+      pagination: options.bonusPagination,
+      table: 'bonuses'
+    })
+    : null;
 
-  // fetching both tossup and bonus queries in parallel is twice as fast as fetching them sequentially
   const values = await Promise.all([tossupQuery, bonusQuery]);
 
-  const returnValue = {
+  return {
     tossups: values[0] ?? { count: 0, questionArray: [] },
     bonuses: values[1] ?? { count: 0, questionArray: [] },
     queryString: options.queryString
   };
-
-  if (options.verbose) {
-    console.log(getQuerySummary(options));
-    console.timeEnd('getQuery');
-  }
-
-  return returnValue;
-}
-
-async function getTossupQuery (options) {
-  const { caseSensitive, maxReturnLength, searchType, tossupPagination, words } = options;
-
-  const andQuery = [];
-  for (const word of words) {
-    const orQuery = [];
-
-    if (['question', 'all'].includes(searchType)) {
-      orQuery.push({ question_sanitized: { $regex: word, $options: caseSensitive ? '' : 'i' } });
-    }
-
-    if (['answer', 'all'].includes(searchType)) {
-      orQuery.push({ answer_sanitized: { $regex: word, $options: caseSensitive ? '' : 'i' } });
-    }
-
-    if (searchType === 'exactAnswer') {
-      orQuery.push({ answer_sanitized: { $regex: `^\\s*${word}\\s*(\\[.*|\\(.*)?$`, $options: caseSensitive ? '' : 'i' } });
-    }
-
-    andQuery.push({ $or: orQuery });
-  }
-
-  if (options.queryString === '') {
-    options.query = {};
-  } else {
-    options.query = {
-      $and: andQuery
-    };
-  }
-
-  const { aggregation, query } = buildQueryAggregation(options);
-
-  try {
-    const [questionArray, count] = await Promise.all([
-      tossups.aggregate(aggregation).skip((tossupPagination - 1) * maxReturnLength).limit(maxReturnLength).toArray(),
-      tossups.countDocuments(query)
-    ]);
-    return { count, questionArray };
-  } catch (MongoServerError) {
-    console.log(MongoServerError);
-    return { count: 0, questionArray: [] };
-  }
-}
-
-async function getBonusQuery (options) {
-  const { bonusPagination, caseSensitive, maxReturnLength, searchType, words } = options;
-
-  const andQuery = [];
-  for (const word of words) {
-    const orQuery = [];
-
-    if (['question', 'all'].includes(searchType)) {
-      orQuery.push({ leadin_sanitized: { $regex: word, $options: caseSensitive ? '' : 'i' } });
-      orQuery.push({ parts_sanitized: { $regex: word, $options: caseSensitive ? '' : 'i' } });
-    }
-
-    if (['answer', 'all'].includes(searchType)) {
-      orQuery.push({ answers_sanitized: { $regex: word, $options: caseSensitive ? '' : 'i' } });
-    }
-
-    if (searchType === 'exactAnswer') {
-      orQuery.push({ answers_sanitized: { $regex: `^\\s*${word}\\s*(\\[.*|\\(.*)?$`, $options: caseSensitive ? '' : 'i' } });
-    }
-
-    andQuery.push({ $or: orQuery });
-  }
-
-  if (options.queryString === '') {
-    options.query = {};
-  } else {
-    options.query = {
-      $and: andQuery
-    };
-  }
-
-  const { aggregation, query } = buildQueryAggregation(options);
-
-  try {
-    const [questionArray, count] = await Promise.all([
-      bonuses.aggregate(aggregation).skip((bonusPagination - 1) * maxReturnLength).limit(maxReturnLength).toArray(),
-      bonuses.countDocuments(query)
-    ]);
-    return { count, questionArray };
-  } catch (MongoServerError) {
-    console.log(MongoServerError);
-    return { count: 0, questionArray: [] };
-  }
-}
-
-function buildQueryAggregation ({ query, difficulties, categories, subcategories, alternateSubcategories, setName, maxReturnLength, randomize, minYear, maxYear, isEmpty, powermarkOnly, regex = false }) {
-  if (isEmpty) {
-    delete query.$or;
-  }
-
-  if (difficulties) {
-    query.difficulty = { $in: difficulties };
-  }
-
-  if (categories) {
-    query.category = { $in: categories };
-  }
-
-  if (subcategories) {
-    query.subcategory = { $in: subcategories };
-  }
-
-  if (alternateSubcategories) {
-    query.alternate_subcategory = { $in: alternateSubcategories };
-  }
-
-  if (setName) {
-    // setName is now an array after being split by commas
-    if (Array.isArray(setName)) {
-      query['set.name'] = { $in: setName.map(name => new RegExp(regex ? name : escapeRegExp(name), 'i')) };
-    } else {
-      // Backward compatibility: if setName is a string (shouldn't happen after API route change)
-      query['set.name'] = { $regex: regex ? setName : escapeRegExp(setName), $options: 'i' };
-    }
-  }
-
-  if (minYear && maxYear) {
-    query['set.year'] = { $gte: minYear, $lte: maxYear };
-  } else if (minYear) { query['set.year'] = { $gte: minYear }; } else if (maxYear) {
-    query['set.year'] = { $lte: maxYear };
-  }
-
-  if (powermarkOnly) {
-    query.question_sanitized = { $regex: '\\(\\*\\)' };
-  }
-
-  const aggregation = [
-    { $match: query },
-    {
-      $sort: {
-        'set.name': -1,
-        'packet.number': 1,
-        number: 1
-      }
-    },
-    { $project: { reports: 0 } }
-  ];
-
-  if (randomize) {
-    aggregation[1] = { $sample: { size: maxReturnLength } };
-  }
-
-  return { aggregation, query };
 }
 
 export default getQuery;

@@ -1,0 +1,443 @@
+{
+  "packetIndex": 170,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_6A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: read the complete printed question/options and answer ‘W) TOWARD THE CENTER OF ROTATION’ for tossup 1 (Physics – Multiple Choice     Uniform circular motion is achieved by applying force in what dir)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: read the complete printed question/options and answer ‘X) NITRIC ACID’ for tossup 2 (Chemistry – Multiple Choice Which of the following is considered a strong acid?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: read the complete printed question/options and answer ‘W) IT IS TRUE REGARDLESS OF THE TRUTH VALUE OF A’ for tossup 3 (Math – Multiple Choice A and B are statements, and B is false. Which of the following is true r)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: read the complete printed question/options and answer ‘Y) STRIKE-SLIP’ for tossup 4 (Earth and Space – Multiple Choice What type of fault created the Loma Prieta earthquake in 1989)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: read the complete printed question/options and answer ‘W) RENEWABLE’ for tossup 5 (Energy – Multiple Choice Wind, moving water, sunlight, and heat from Earth’s interior are sourc)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: read the complete printed question/options and answer ‘Z) LEFT VENTRICLE’ for tossup 6 (Biology – Multiple Choice Which chamber in the heart has the highest systolic pressure?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source prompt reads “At the DOE's Advanced Photon Source”; all four choices and Z) HETEROGENEOUS INORGANIC match.",
+      "before": {
+        "question": "At the DOE&amp;apos;s Advanced Photon Source, researchers are studying industrial catalysts used in petrochemical processing. Which of the following correctly describes most of these catalysts?<br>W) Organic molecules<br>X) Enzymes<br>Y) Homogeneous inorganic<br>Z) Heterogeneous inorganic"
+      },
+      "changes": {
+        "question": "At the DOE's Advanced Photon Source, researchers are studying industrial catalysts used in petrochemical processing. Which of the following correctly describes most of these catalysts?<br>W) Organic molecules<br>X) Enzymes<br>Y) Homogeneous inorganic<br>Z) Heterogeneous inorganic"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: read the complete printed question/options and answer ‘FOURTH (ACCEPT: 4)’ for tossup 9 (Math – Short Answer A one-to-one function has its graph in the second quadrant. In which quadra)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: printed acceptance is N₂H₄ without spaces between element symbols and subscripts; removed extraction spaces while keeping the acceptance text.",
+      "before": {
+        "answer": "HYDRAZINE (ACCEPT: N<sub>2</sub> H<sub>4</sub> )"
+      },
+      "changes": {
+        "answer": "HYDRAZINE (ACCEPT: N<sub>2</sub>H<sub>4</sub>)",
+        "answer_sanitized": "HYDRAZINE (ACCEPT: N₂H₄)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: read the complete printed question/options and answer ‘Y) MONOCOT FIBROUS’ for tossup 11 (Biology – Multiple Choice Grasses provide an example of a root system that is best described as)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: read the complete printed question/options and answer ‘ANTI-NODE (DO NOT ACCEPT: PEAK)’ for tossup 12 (Physics – Short Answer    On a standing wave, what term refers to the points at which the ampli)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: read the complete printed question/options and answer ‘X) E-CELL GREATER THAN ZERO AND DELTA-G GREATER THAN ZERO’ for tossup 16 (Chemistry – Multiple Choice For a given redox [REE-dox] reaction, which of the following pairs )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: read the complete printed question/options and answer ‘Y) BRAYTON’ for tossup 17 (Physics – Multiple Choice What thermodynamic cycle describes a jet turbine?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: read the complete printed question/options and answer ‘5/6’ for tossup 18 (Math – Short Answer What is 4/9 divided by 8/15?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: read the complete printed question/options and answer ‘2 AND 3’ for tossup 19 (Chemistry – Short Answer Identify all of the following three compounds that can crystallize as )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: read the complete printed question/options and answer ‘HOLES (ACCEPT: ELECTRON HOLES)’ for tossup 20 (Physics – Short Answer What is the term for the quasiparticles present in p-type semiconductors)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: read the complete printed question/options and answer ‘INTERFEROMETRY’ for tossup 21 (Earth and Space – Short Answer What is the general term for the data-gathering technique by whi)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source factorization prompt is x² + 14x – 72; restored the raised 2.",
+      "before": {
+        "question": "Name one of the linear factors of x 2 + 14x – 72."
+      },
+      "changes": {
+        "question": "Name one of the linear factors of x<sup>2</sup> + 14x – 72.",
+        "question_sanitized": "Name one of the linear factors of x² + 14x – 72."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: read the complete printed question/options and answer ‘ACTIN’ for tossup 23 (Biology – Short Answer       In the sarcomere, what protein is found as filaments twisted into )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: read the complete printed question/options and answer ‘CARBON-14 (ACCEPT: 14)’ for bonuse 1 (Physics – Short Answer What radioactive isotope of carbon is prominently used in radiometric da)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: read the complete printed question/options and answer ‘W) ASCORBIC ACID 2017 Regional High School NSB®                                                                              PAGE 1’ for bonuse 2 (Chemistry – Multiple Choice Which of the following polyprotic [polly-PRO-tic] acids has only tw)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: read the complete printed question/options and answer ‘SLOPE = 1/5, y-INTERCEPT = –4/5 (ACCEPT: 0.2 and –0.8, respectively)’ for bonuse 3 (Math – Short Answer The line with equation y = 5x + 4 is reflected across the line y = x. What )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: read the complete printed question/options and answer ‘Z) RUSSIA’ for bonuse 5 (Energy – Multiple Choice Which of the following was not one of the top three carbon-dioxide-emi)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: read the complete printed question/options and answer ‘2, 1, 3 (ACCEPT: ENDOPLASMIC RETICULUM, GOLGI APPARATUS, PLASMA MEMBRANE) 2017 Regional High School NSB®                                    ’ for bonuse 6 (Biology – Short Answer List the correct order of a secretory protein pathway from synthesis to )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: read the complete printed question/options and answer ‘32’ for bonuse 7 (Earth and Space – Short Answer According to the Richter scale, to the nearest whole number, how)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: read the complete printed question/options and answer ‘X) p53 2017 Regional High School NSB®                                                                           PAGE 4’ for bonuse 8 (Energy – Multiple Choice Lawrence Berkeley National Lab scientists have been studying XPG, a pr)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: read the complete printed question/options and answer ‘–16/11 (ACCEPT: –1 5/11)’ for bonuse 9 (Math – Short Answer If the line tangent to the graph of the differentiable function f of x at t)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: read the complete printed question/options and answer ‘INVERSE SECONDS (ACCEPT: SECONDS TO THE NEGATIVE ONE, 1 OVER SECONDS) 2017 Regional High School NSB®                                        ’ for bonuse 10 (Chemistry – Short Answer The isomerization reaction of a particular cis-alkene to its trans-iso)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: read the complete printed question/options and answer ‘RED (ACCEPT: PINK)’ for bonuse 11 (Biology – Short Answer If a Gram stain were performed on E. coli [ee COLE-eye] with saffranin [)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: read the complete printed question/options and answer ‘1.4 (DO NOT ACCEPT: √2) 2017 Regional High School NSB®                                                                            PAGE 6’ for bonuse 12 (Physics – Short Answer Suppose the Earth’s radius were decreased by half but its mass remained )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: printed acceptance is D₂O without a space after the subscript; removed extraction space and kept the full acceptance wording.",
+      "before": {
+        "answers": [
+          "HEAVY WATER AND HEAVY WATER (ACCEPT: DEUTERIUM OXIDE OR D<sub>2</sub> O FOR HEAVY WATER)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "HEAVY WATER AND HEAVY WATER (ACCEPT: DEUTERIUM OXIDE OR D<sub>2</sub>O FOR HEAVY WATER)"
+        ],
+        "answers_sanitized": [
+          "HEAVY WATER AND HEAVY WATER (ACCEPT: DEUTERIUM OXIDE OR D₂O FOR HEAVY WATER)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: read the complete printed question/options and answer ‘X) ENSURING PROPER PROTEIN FOLDING 2017 Regional High School NSB®                                                                           ’ for bonuse 14 (Biology – Multiple Choice Chaperonins [shap-ur-OH-ninz] are involved in which of the following )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: read the complete printed question/options and answer ‘4 2017 Regional High School NSB®                                                                            PAGE 8’ for bonuse 16 (Chemistry – Short Answer How many total nodes exist within the highest energy pi molecular orbi)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: read the complete printed question/options and answer ‘1’ for bonuse 17 (Physics – Short Answer Identify all of the following three statements that are true of the phys)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: circle equation prints x² – 14x + y² + 8y + 41 = 0; restored superscripts and preserved the complete wording.",
+      "before": {
+        "parts": [
+          "What are the radius and the coordinates of the center of the circle with equation x 2 – 14x + y 2 + 8y + 41 = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the radius and the coordinates of the center of the circle with equation x<sup>2</sup> – 14x + y<sup>2</sup> + 8y + 41 = 0?"
+        ],
+        "parts_sanitized": [
+          "What are the radius and the coordinates of the center of the circle with equation x² – 14x + y² + 8y + 41 = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: read the complete printed question/options and answer ‘3, 2, 1’ for bonuse 19 (Chemistry – Short Answer Rank the following three reactions in terms of increasing delta H, fro)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: read the complete printed question/options and answer ‘1/2 2017 Regional High School NSB®                                                                              PAGE 10’ for bonuse 20 (Physics – Short Answer What is the wavelength, as a fraction of the length of the box, of the t)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: read the complete printed question/options and answer ‘34 2017 Regional High School NSB®                                                                            PAGE 11’ for bonuse 22 (Math – Short Answer What is the sum of the distinct prime factors of 348?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: read the complete printed question/options and answer ‘3 2017 Regional High School NSB®                                                                                PAGE 12’ for bonuse 23 (Biology – Short Answer Identify all of the following three types of muscle that can contract st)."
+    }
+  ],
+  "packetIssues": []
+}

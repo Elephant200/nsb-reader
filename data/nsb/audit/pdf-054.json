@@ -1,0 +1,531 @@
+{
+  "packetIndex": 54,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints N₂O₄ with both numeral subscripts attached to their elements; removed spaces around the subscripts.",
+      "before": {
+        "question": "Name the following compound: N<sub>2</sub> O 4."
+      },
+      "changes": {
+        "question": "Name the following compound: N<sub>2</sub>O<sub>4</sub>.",
+        "question_sanitized": "Name the following compound: N2O4."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints the question, standard temperature in Kelvin, and answer 273 KELVIN; source agrees with corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints the phrase “electron's spin state”; replaced the double-escaped apostrophe in the matching choice.",
+      "before": {
+        "question": "What is the process by which nuclear fission produces energy?<br>W) Combining lighter nuclei into heavier nuclei<br>X) Increasing the number of protons a nucleus contains<br>Y) Changing an electron&amp;apos;s spin state following excitation<br>Z) Splitting heavier nuclei into lighter nuclei",
+        "options": [
+          "W) Combining lighter nuclei into heavier nuclei",
+          "X) Increasing the number of protons a nucleus contains",
+          "Y) Changing an electron&amp;apos;s spin state following excitation",
+          "Z) Splitting heavier nuclei into lighter nuclei"
+        ]
+      },
+      "changes": {
+        "question": "What is the process by which nuclear fission produces energy?<br>W) Combining lighter nuclei into heavier nuclei<br>X) Increasing the number of protons a nucleus contains<br>Y) Changing an electron's spin state following excitation<br>Z) Splitting heavier nuclei into lighter nuclei",
+        "options": [
+          "W) Combining lighter nuclei into heavier nuclei",
+          "X) Increasing the number of protons a nucleus contains",
+          "Y) Changing an electron's spin state following excitation",
+          "Z) Splitting heavier nuclei into lighter nuclei"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 3/4 + (−5/6) and answer −1/12 as stacked fractions; restored both fractions.",
+      "before": {
+        "question": "What is + (- ) as a fraction in simplest form?",
+        "answer": ""
+      },
+      "changes": {
+        "question": "What is <span class=\"nsb-fraction\"><span>3</span><span>4</span></span> + (−<span class=\"nsb-fraction\"><span>5</span><span>6</span></span>) as a fraction in simplest form?",
+        "answer": "<span class=\"nsb-fraction\"><span>−1</span><span>12</span></span>",
+        "question_sanitized": "What is 3/4 + (-5/6) as a fraction in simplest form?",
+        "answer_sanitized": "-1/12"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints the balanced combustion equation with subscripts and a reaction arrow; restored the missing arrow and spacing.",
+      "before": {
+        "answers": [
+          "2C<sub>8</sub> H<sub>18</sub> + 25O<sub>2</sub> 18H<sub>2</sub> O + 16CO<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "2C<sub>8</sub>H<sub>18</sub> + 25O<sub>2</sub> → 18H<sub>2</sub>O + 16CO<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "2C8H18 + 25O2 -> 18H2O + 16CO2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints the displacement bonus answer as 5; source agrees with corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints U₃O₈ with attached subscripts and no gap before the comma; restored chemical formatting.",
+      "before": {
+        "answers": [
+          "YELLOWCAKE (ACCEPT: U<sub>3</sub> O<sub>8</sub> , TRIURANIUM OCTOXIDE)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "YELLOWCAKE (ACCEPT: U<sub>3</sub>O<sub>8</sub>, TRIURANIUM OCTOXIDE)"
+        ],
+        "answers_sanitized": [
+          "YELLOWCAKE (ACCEPT: U3O8, TRIURANIUM OCTOXIDE)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints the polynomial 5x² + 13x + 10; restored the squared exponent.",
+      "before": {
+        "parts": [
+          "Consider the polynomial 5x + 13x + 10. How many and what kind of roots does it have?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider the polynomial 5x<sup>2</sup> + 13x + 10. How many and what kind of roots does it have?"
+        ],
+        "parts_sanitized": [
+          "Consider the polynomial 5x^2 + 13x + 10. How many and what kind of roots does it have?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    }
+  ],
+  "packetIssues": []
+}

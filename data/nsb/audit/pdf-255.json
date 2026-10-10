@@ -1,0 +1,482 @@
+{
+  "packetIndex": 255,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-13.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints x⁴y⁷ in the prompt and 7x⁴y⁶ as the answer.",
+      "before": {
+        "question": "What is the partial derivative with respect to y of the expression x 4 y 7 ?",
+        "answer": "7x 4 y 6"
+      },
+      "changes": {
+        "question": "What is the partial derivative with respect to y of the expression x<sup>4</sup>y<sup>7</sup>?",
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x^4y^7?",
+        "answer": "7x<sup>4</sup>y<sup>6</sup>",
+        "answer_sanitized": "7x^4y^6"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 states the carts' masses and kinetic energy, and prints 100 joules as the final system energy."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks for the thick, lignified ground tissue and prints SCLERENCHYMA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 shows the four acid/base choices, including the methylamine pronunciation cue, and key W, hydrochloric acid."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists Basin, Fold, Dome, and Mountain range; key X is Fold."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 retains the qubits pronunciation cue and all four choices; key W is entangled states."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists the square-diagonal choices including √3 times the side; key Y says it may be rational or irrational."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 gives the three numbered pendulum changes and answer 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks the term for upward stem growth against gravity; answer includes the two accepted geotropism variants."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 clearly prints CaO, BaCO₃, Sr₂SO₄, and Al₂O₃; answer is Z) Al₂O₃.",
+      "before": {
+        "question": "Which of the following oxygen- containing compounds has the highest mass percentage of oxygen?<br>W) CaO<br>X) BaCO<br>Y) Sr SO <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;4</span></span><br>Z) Al <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> O 3",
+        "options": [
+          "W) CaO",
+          "X) BaCO",
+          "Y) Sr SO <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;4</span></span>",
+          "Z) Al <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> O 3"
+        ],
+        "answer": "Z) Al O 2 3"
+      },
+      "changes": {
+        "question": "Which of the following oxygen-containing compounds has the highest mass percentage of oxygen?<br>W) CaO<br>X) BaCO<sub>3</sub><br>Y) Sr<sub>2</sub>SO<sub>4</sub><br>Z) Al<sub>2</sub>O<sub>3</sub>",
+        "question_sanitized": "Which of the following oxygen-containing compounds has the highest mass percentage of oxygen?<br>W) CaO<br>X) BaCO3<br>Y) Sr2SO4<br>Z) Al2O3",
+        "options": [
+          "W) CaO",
+          "X) BaCO<sub>3</sub>",
+          "Y) Sr<sub>2</sub>SO<sub>4</sub>",
+          "Z) Al<sub>2</sub>O<sub>3</sub>"
+        ],
+        "answer": "Z) Al<sub>2</sub>O<sub>3</sub>",
+        "answer_sanitized": "Z) Al2O3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 describes the quantized sound-wave quasiparticle and prints PHONON."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 spells out the squared parenthesized function in prose and gives vertex (−3, 2), including the coordinate-form accept."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 lists the strong/weak, strong/electromagnetic, weak/electromagnetic, and strong/gravity pairs; key X is strong and electromagnetic."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 retains the adipose pronunciation cue and the answer BROWN FAT with ACCEPT: BROWN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 prints W) ZnSO₃, X) Zn₂SO₃, Y) Zn(SO₃)₂, Z) Zn₃(SO₃)₂ with both printed read-as cues; answer W) ZnSO₃.",
+      "before": {
+        "question": "What is the formula of the ionic compound composed of the zinc cation [CAT-eye-on] and sulfite anion [AN-eye-on]?<br>W) ZnSO<br>X) Zn SO <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;3</span></span> 2<br>Y) Zn(SO ) [Z-n-S-oh-3-2] 3 2<br>Z) Zn (SO ) [Z-n-3-S-oh-3-2] 3 3 2",
+        "options": [
+          "W) ZnSO",
+          "X) Zn SO <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;3</span></span> 2",
+          "Y) Zn(SO ) [Z-n-S-oh-3-2] 3 2",
+          "Z) Zn (SO ) [Z-n-3-S-oh-3-2] 3 3 2"
+        ],
+        "answer": "W) ZnSO 3"
+      },
+      "changes": {
+        "question": "What is the formula of the ionic compound composed of the zinc cation [CAT-eye-on] and sulfite anion [AN-eye-on]?<br>W) ZnSO<sub>3</sub><br>X) Zn<sub>2</sub>SO<sub>3</sub><br>Y) Zn(SO<sub>3</sub>)<sub>2</sub> [Z-n-S-oh-3-2]<br>Z) Zn<sub>3</sub>(SO<sub>3</sub>)<sub>2</sub> [Z-n-3-S-oh-3-2]",
+        "question_sanitized": "What is the formula of the ionic compound composed of the zinc cation [CAT-eye-on] and sulfite anion [AN-eye-on]?<br>W) ZnSO3<br>X) Zn2SO3<br>Y) Zn(SO3)2 [Z-n-S-oh-3-2]<br>Z) Zn3(SO3)2 [Z-n-3-S-oh-3-2]",
+        "options": [
+          "W) ZnSO<sub>3</sub>",
+          "X) Zn<sub>2</sub>SO<sub>3</sub>",
+          "Y) Zn(SO<sub>3</sub>)<sub>2</sub> [Z-n-S-oh-3-2]",
+          "Z) Zn<sub>3</sub>(SO<sub>3</sub>)<sub>2</sub> [Z-n-3-S-oh-3-2]"
+        ],
+        "answer": "W) ZnSO<sub>3</sub>",
+        "answer_sanitized": "W) ZnSO3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 retains the psychrometer pronunciation cue, all four atmospheric-property options, and key Y, humidity."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 lists gallium arsenide with its pronunciation cue, brass, calcium carbide, and dinitrogen monoxide; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks repeated natural logarithms starting from 2048 and prints 4 as the answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 includes the tangential-speed pronunciation cue and prints 4 kilograms."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 retains both systole and atrioventricular pronunciation cues; options W–Z and key Y match the print."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 presents the three numbered equilibrium statements and prints ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 visibly lists W) 60, X) 100, Y) 600, Z) 1,000; key Y) 600.",
+      "before": {
+        "parts": [
+          "Which of the following is closest to the top speed, in miles per hour, of a tsunami?<br>W) 60<br>X) <span class=\"nsb-fraction\">&lt;span&gt;100</span>&lt;span&gt;600</span></span><br>Y) <br>Z) 1,000"
+        ],
+        "options": [
+          "W) 60",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;100</span>&lt;span&gt;600</span></span>",
+          "Y) ",
+          "Z) 1,000"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is closest to the top speed, in miles per hour, of a tsunami?<br>W) 60<br>X) 100<br>Y) 600<br>Z) 1,000"
+        ],
+        "options": [
+          "W) 60",
+          "X) 100",
+          "Y) 600",
+          "Z) 1,000"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 includes the chiton pronunciation cue, all four element choices, and key Z, iron."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives numerator 17 + 9i over denominator 1 + 2i and answer 7 − 5i."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 states a 0.6-kg mass and 1.5-cm stretch and prints spring constant 390."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 retains the enterokinase pronunciation cue and prints TRYPSIN."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 shows all carbon-capture claims, preserves the entropically pronunciation cue, and keys Z, spontaneous at low temperatures."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists the four asterisms and keys Z, Great Square of Pegasus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12's semimetal choices include a slight valence/conduction-band overlap; key Y matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 visibly prints 4x³ + 8x² − 5x − 7 in the prompt and 4x² + 8x + 7 as the answer.",
+      "before": {
+        "parts": [
+          "What is the quadratic polynomial with integer coefficients and smallest possible positive leading coefficient that has the same sum and product of all its complex zeroes as 4x 3 + 8x 2 – 5x – 7?"
+        ],
+        "answers": [
+          "4x 2 + 8x + 7"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the quadratic polynomial with integer coefficients and smallest possible positive leading coefficient that has the same sum and product of all its complex zeroes as 4x<sup>3</sup> + 8x<sup>2</sup> − 5x − 7?"
+        ],
+        "parts_sanitized": [
+          "What is the quadratic polynomial with integer coefficients and smallest possible positive leading coefficient that has the same sum and product of all its complex zeroes as 4x^3 + 8x^2 − 5x − 7?"
+        ],
+        "answers": [
+          "4x<sup>2</sup> + 8x + 7"
+        ],
+        "answers_sanitized": [
+          "4x^2 + 8x + 7"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 prints the speed in scientific notation as 2.0 × 10⁸ m/s with two significant figures.",
+      "before": {
+        "answers": [
+          "2.0 x 10 8"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "2.0 × 10<sup>8</sup>"
+        ],
+        "answers_sanitized": [
+          "2.0 × 10^8"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 prints RHODOPSIN with the accepted alternative OPSIN."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 matches all four kinetic-molecular-theory statements and keys Z, the (source-printed) larger-molar-mass speed claim."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 gives all four causes for ocean crust sinking and keys X, cooling of the crust."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 keys Z, mass of W and Z bosons; the green scorekeeper/closing remarks printed after the answer are source footer text, not part of the answer.",
+      "before": {
+        "answers": [
+          "Z) MASS OF W AND Z BOSONS Before we leave, let’s confirm the team’s score. What score does the Official Scorekeeper have? And what is the final score in the Chat Box? Does anyone disagree? I’d like to remind the Scorekeeper to submit the official scoresheet. Best of luck to the team and thanks for competing in today’s event."
+        ],
+        "notes": []
+      },
+      "changes": {
+        "answers": [
+          "Z) MASS OF W AND Z BOSONS"
+        ],
+        "notes": [
+          "Before we leave, let’s confirm the team’s score. What score does the Official Scorekeeper have? And what is the final score in the Chat Box? Does anyone disagree? I’d like to remind the Scorekeeper to submit the official scoresheet. Best of luck to the team and thanks for competing in today’s event."
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

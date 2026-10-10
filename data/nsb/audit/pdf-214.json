@@ -1,0 +1,549 @@
+{
+  "packetIndex": 214,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-13A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source answer’s accepted formula is CH₄; restored formula subscript 4.",
+      "before": {
+        "answer": "METHANE (ACCEPT: NATURAL GAS, CH ) 4"
+      },
+      "changes": {
+        "answer": "METHANE (ACCEPT: NATURAL GAS, CH<sub>4</sub>)",
+        "answer_sanitized": "METHANE (ACCEPT: NATURAL GAS, CH₄)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked full TU2 prompt, options if printed, and answer against source; source excerpt “2) Physics – Short Answer What phenomenon occurs when fluids flow up or down thin channels due to the difference between cohesive and adhesive forces between a liquid and”; answer “ANSWER: CAPILLARY ACTION (ACCEPT: CAPILLARY EFFECT, CAPILLARY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked full TU3 prompt, options if printed, and answer against source; source excerpt “3) Math – Short Answer To the nearest whole number, what is the slant height of a right circular cone with radius 7 and height 6?”; answer “ANSWER: 9”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked full TU4 prompt, options if printed, and answer against source; source excerpt “4) Biology – Short Answer Diastole [dye-ASS-tuh-lee] and systole [SIS-tuh-lee] correspond to the phases of what organ?”; answer “ANSWER: HEART”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked full TU5 prompt, options if printed, and answer against source; source excerpt “5) Chemistry – Short Answer Rank the following three aqueous solutions in terms of increasing electrolyte strength: 1) One-molar sucrose; 2) One-molar hydrochloric acid; 3) One-”; answer “ANSWER: 1, 3, 2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked full TU6 prompt, options if printed, and answer against source; source excerpt “6) Earth and Space – Multiple Choice Arkose contains quartz and at least 25 percent of what other mineral group?”; answer “ANSWER: X) FELDSPAR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked full TU7 prompt, options if printed, and answer against source; source excerpt “7) Energy – Multiple Choice Scientists at Thomas Jefferson National Accelerator Facility collide electrons with nuclei, generating particle showers that are measured by detectors. Which”; answer “ANSWER: Z) PROTON”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked full TU8 prompt, options if printed, and answer against source; source excerpt “8) Math – Short Answer If the definite integral from 2 to 6 of f of x dx = 26, then what is the definite integral from 2 to 6 of f of x minus 4 dx?”; answer “ANSWER: 10”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source reads “the Sun’s photosphere”; replaced double-escaped possessive apostrophe with literal apostrophe.",
+      "before": {
+        "question": "Which of the following values, in kelvins, is closest to the temperature of the Sun&amp;apos;s photosphere?<br>W) 5,800<br>X) 8,000<br>Y) 2,000,000<br>Z) 15,000,000"
+      },
+      "changes": {
+        "question": "Which of the following values, in kelvins, is closest to the temperature of the Sun’s photosphere?<br>W) 5,800<br>X) 8,000<br>Y) 2,000,000<br>Z) 15,000,000"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked full TU10 prompt, options if printed, and answer against source; source excerpt “10) Biology – Short Answer      Of what class are sharks and rays members? ANSWER: CHONDRICHTHYES [KON-drik-theez]”; answer “ANSWER: CHONDRICHTHYES [KON-drik-theez]”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked full TU11 prompt, options if printed, and answer against source; source excerpt “11) Physics – Short Answer In an ideal gas, the average translational kinetic energy is linearly proportional with what power of the temperature of the gas?”; answer “ANSWER: ONE (ACCEPT: FIRST)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked full TU12 prompt, options if printed, and answer against source; source excerpt “12) Chemistry – Short Answer Identify all of the following three changes that increase the entropy of the system involved: 1) Dry ice sublimates into gas; 2) Nitrogen is pressurized from”; answer “ANSWER: 1, 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked full TU13 prompt, options if printed, and answer against source; source excerpt “13) Biology – Short Answer      In rod cells, what protein is photobleached when exposed to light?”; answer “ANSWER: RHODOPSIN”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked full TU14 prompt, options if printed, and answer against source; source excerpt “14) Energy – Short Answer Scientists at Fermi National Accelerator Lab are attempting to detect WIMPs as a part of the SuperCDMS experiment. WIMPs are particles that are thought to”; answer “ANSWER: GRAVITY AND WEAK (ACCEPT: GRAVITY AND WEAK NUCLEAR,”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked full TU15 prompt, options if printed, and answer against source; source excerpt “15) Earth and Space – Multiple Choice A stream’s competence is a measure of which of the following?”; answer “ANSWER: Y) MAXIMUM TRANSPORTABLE PARTICLE SIZE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked full TU16 prompt, options if printed, and answer against source; source excerpt “16) Physics – Multiple Choice Which of the following capacitor configurations for four identical capacitors would yield the largest stored charge for a given voltage?”; answer “ANSWER: Z) ALL FOUR CAPACITORS CONNECTED IN PARALLEL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source reads “N₂ two minus”; kept the printed words “two minus” and restored the 2 subscript in N₂.",
+      "before": {
+        "question": "What is the bond order of the diatomic species N two minus? 2"
+      },
+      "changes": {
+        "question": "What is the bond order of the diatomic species N<sub>2</sub> two minus?",
+        "question_sanitized": "What is the bond order of the diatomic species N₂ two minus?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked full TU18 prompt, options if printed, and answer against source; source excerpt “18) Math – Short Answer The science and chess clubs at a school have a total of 60 students in them. If 37 are in the science club and 28 are in the chess club, how many are in both?”; answer “ANSWER: 5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked full TU19 prompt, options if printed, and answer against source; source excerpt “19) Biology – Short Answer In the lac operon in E. coli, CAP acts as an activator protein. What second messenger must bind to CAP to activate transcription of the DNA?”; answer “ANSWER: CYCLIC AMP (ACCEPT: cAMP)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked full TU20 prompt, options if printed, and answer against source; source excerpt “20) Chemistry – Short Answer What named pericyclic reaction is classically the reaction of a di-ene [DYE-een] with a dienophile [dye-EENOH-file] in a single, concerted step?”; answer “ANSWER: DIELS-ALDER REACTION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked full TU21 prompt, options if printed, and answer against source; source excerpt “21) Earth and Space – Short Answer Astronomers sometimes notice that spectral lines can be broadened due to the presence of strong magnetic fields. What is the name for this effect?”; answer “ANSWER: ZEEMAN EFFECT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked full TU22 prompt, options if printed, and answer against source; source excerpt “22) Math – Short Answer The line with equation y = 2x – 7 is reflected across the y-axis. What is the slope-intercept equation of its image?”; answer “ANSWER: y = –2x – 7”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually checked full TU23 prompt, options if printed, and answer against source; source excerpt “23) Physics – Short Answer What principle posits the requirement that the laws of physics must be equivalent in all inertial [in-UR-shul] reference frames?”; answer “ANSWER: RELATIVITY (ACCEPT: SPECIAL RELATIVITY; DO NOT ACCEPT:”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked full B1 prompt, options if printed, and answer against source; source excerpt “1) Energy – Multiple Choice Argonne National Lab researchers are using X-rays from the Advanced Photon Source to study the self-healing properties of nanoparticles. Which of the”; answer “ANSWER: X) COHERENT DIFFRACTION IMAGING”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source prints orbital distance 2.5 × 10⁷ m, period 4 years and asks for two-significant-figure distance; answer is 1.0 × 10⁸. Restored superscripts in rich and sanitized fields.",
+      "before": {
+        "parts": [
+          "Planet X orbits a star at a distance of 2.5 times 10 7 meters with an orbital period of 4 years. If planet Y orbits the same star with an orbital period of 32 years, in meters and in scientific notation with 2 significant figures, how far is planet Y from the star?"
+        ],
+        "answers": [
+          "1.0 TIMES 10 8"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Planet X orbits a star at a distance of 2.5 times 10<sup>7</sup> meters with an orbital period of 4 years. If planet Y orbits the same star with an orbital period of 32 years, in meters and in scientific notation with 2 significant figures, how far is planet Y from the star?"
+        ],
+        "parts_sanitized": [
+          "Planet X orbits a star at a distance of 2.5 times 10⁷ meters with an orbital period of 4 years. If planet Y orbits the same star with an orbital period of 32 years, in meters and in scientific notation with 2 significant figures, how far is planet Y from the star?"
+        ],
+        "answers": [
+          "1.0 TIMES 10<sup>8</sup>"
+        ],
+        "answers_sanitized": [
+          "1.0 TIMES 10⁸"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source function is f(x) = −2x³ − 3x² + 36x + 9; restored exponents 3 and 2.",
+      "before": {
+        "parts": [
+          "At what x-value does the maximum value of the function f of x = –2x 3 – 3x 2 + 36x + 9 occur on the closed interval from –8 to 8?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "At what x-value does the maximum value of the function f of x = −2x<sup>3</sup> − 3x<sup>2</sup> + 36x + 9 occur on the closed interval from −8 to 8?"
+        ],
+        "parts_sanitized": [
+          "At what x-value does the maximum value of the function f of x = −2x³ − 3x² + 36x + 9 occur on the closed interval from −8 to 8?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked full B4 prompt, options if printed, and answer against source; source excerpt “4) Biology – Short Answer Identify all of the following three statements that are true of starches: 1) In branched glycogen, the branch begins with an alpha-1,4-glycosidic linkage;”; answer “ANSWER: 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked full B5 prompt, options if printed, and answer against source; source excerpt “5) Chemistry – Short Answer Identify all of the following three reagents that can be used to oxidize an alcohol: 1) Potassium permanganate [pur-MAYNG-en-ate]; 2) Chromium trioxide”; answer “ANSWER: 1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked full B6 prompt, options if printed, and answer against source; source excerpt “6) Earth and Space – Multiple Choice Which of the following statements is NOT true about Lagrange [lah-GRAHNJ] points associated with two large bodies in orbit?”; answer “ANSWER: X) THERE CAN BE AS MANY AS 6 LAGRANGE POINTS TO DESCRIBE A”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked full B7 prompt, options if printed, and answer against source; source excerpt “7) Energy – Multiple Choice Scientists at Ames Lab have developed solvent-free techniques to synthesize alkali metal hydrides. Which of the following techniques do they use to”; answer “ANSWER: Z) SOLID-STATE NMR SPECTROSCOPY”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked full B8 prompt, options if printed, and answer against source; source excerpt “8) Math – Short Answer      Rounded to the nearest integer, what is the geometric mean of 6 and 85?”; answer “ANSWER: 23”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked full B9 prompt, options if printed, and answer against source; source excerpt “9) Earth and Space – Multiple Choice Which of the following is the term for a pair of stars that are not physically close to each other but appear as a single star when viewed from Earth?”; answer “ANSWER: W) OPTICAL DOUBLE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked full B10 prompt, options if printed, and answer against source; source excerpt “10) Biology – Short Answer Identify all of the following three statements that are true of the circadian clock: 1) It is autonomous; 2) It can be modulated by behavioral cues; 3) It evolved to”; answer “ANSWER: ALL OF THEM”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked full B11 prompt, options if printed, and answer against source; source excerpt “11) Physics – Short Answer To the nearest whole hertz, what is the frequency of the second mode of a fixed string of length 0.08 meters, mass 0.125 kilograms, and tension 200 newtons?”; answer “ANSWER: 141”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source accepted formula is C₂F₄; restored both formula subscripts.",
+      "before": {
+        "answers": [
+          "TETRA-FLUORO-ETHYLENE (ACCEPT: C F ) 2 4"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "TETRA-FLUORO-ETHYLENE (ACCEPT: C<sub>2</sub>F<sub>4</sub>)"
+        ],
+        "answers_sanitized": [
+          "TETRA-FLUORO-ETHYLENE (ACCEPT: C₂F₄)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked full B13 prompt, options if printed, and answer against source; source excerpt “13) Biology – Short Answer Several important evolutionary features only evolved once in history. Identify all of the following three features that are known to have evolved a single time:”; answer “ANSWER: 2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: fresh packet-specific render confirms BONUS 14 is the rhizosphere question; its wording, pronunciation cue, and answer ROOTS match baseline bonuses[13]. The earlier image was stale and belonged to packet 213.",
+      "changes": {}
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked full B15 prompt, options if printed, and answer against source; source excerpt “15) Earth and Space – Short Answer        A phreatic [free-AT-ik] eruption can occur when magma interacts with what?”; answer “ANSWER: WATER (ACCEPT: GROUNDWATER)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked full B16 prompt, options if printed, and answer against source; source excerpt “16) Physics – Short Answer Andrew finds a length of ideal rope with finite mass on the ground. He picks up one end by applying a constant force upward. Identify all of the following”; answer “ANSWER: 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked full B17 prompt, options if printed, and answer against source; source excerpt “17) Chemistry – Short Answer Rank the following three nuclides in terms of increasing binding energy per nucleon: 1) Deuterium [doo-TEER-ee-um]; 2) Helium-4; 3) Lithium-6.”; answer “ANSWER: 1, 3, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source numerator is 2x² − 5 over denominator x + 3; restored exponent while retaining full verbal fraction wording.",
+      "before": {
+        "parts": [
+          "What is the slope-intercept equation of the oblique asymptote of the function f of x equals the fraction with numerator 2x 2 – 5 and denominator x + 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope-intercept equation of the oblique asymptote of the function f of x equals the fraction with numerator 2x<sup>2</sup> − 5 and denominator x + 3?"
+        ],
+        "parts_sanitized": [
+          "What is the slope-intercept equation of the oblique asymptote of the function f of x equals the fraction with numerator 2x² − 5 and denominator x + 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked full B19 prompt, options if printed, and answer against source; source excerpt “19) Biology – Multiple Choice John Gurdon studied totipotency [toh-TIH-pah-ten-see] by implanting a nucleus from a fully-differentiated frog cell into enucleated egg cells. Which of the”; answer “ANSWER: W) IT CONTINUED TO DIVIDE, BUT STOPPED DEVELOPMENT PRIOR TO”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked full B20 prompt, options if printed, and answer against source; source excerpt “20) Chemistry – Short Answer Identify all of the following three changes to an organic reaction that would increase its rate constant: 1) Decreasing the energy of the nucleophile”; answer “ANSWER: 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked full B21 prompt, options if printed, and answer against source; source excerpt “21) Earth and Space – Short Answer Arrange the following three atmospheric boundaries in order of increasing pressure: 1) Mesopause; 2) Tropopause; 3) Stratopause.”; answer “ANSWER: 1, 3, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked full B22 prompt, options if printed, and answer against source; source excerpt “22) Math – Short Answer     How many two-digit positive integers have the tens digit strictly less than the ones digit?”; answer “ANSWER: 36”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually checked full B23 prompt, options if printed, and answer against source; source excerpt “23) Physics – Short Answer Consider a relativistic spaceship moving at 0.6 times the speed of light c relative to Earth. If this spaceship fires a particle that moves at 0.6c relative to the”; answer “ANSWER: 15/17”."
+    }
+  ],
+  "packetIssues": []
+}

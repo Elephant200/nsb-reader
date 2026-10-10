@@ -1,0 +1,621 @@
+{
+  "packetIndex": 104,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-8.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 1 (tossups) beginning “A positive three digit integer n is chosen at random, with each three digit number ha”; its printed answer “X) 1/300” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "question": "A positive three digit integer n is chosen at random, with each three digit number having an equal chance of being chosen. What is the probability that log 2 n [log base 2 of n] is an integer?<br>W) 3/899<br>X) 1/300<br>Y) 1/222<br>Z) 1/150"
+      },
+      "changes": {
+        "question": "A positive three digit integer n is chosen at random, with each three digit number having an equal chance of being chosen. What is the probability that log<sub>2</sub> n [log base 2 of n] is an integer?<br>W) 3/899<br>X) 1/300<br>Y) 1/222<br>Z) 1/150",
+        "question_sanitized": "A positive three digit integer n is chosen at random, with each three digit number having an equal chance of being chosen. What is the probability that log base 2 n [log base 2 of n] is an integer? W) 3/899 X) 1/300 Y) 1/222 Z) 1/150"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 2 (tossups) beginning ““Synthons” are key precursors associated with retrosynthetic analysis, a logical fram”; its printed answer “Y) E. J. COREY” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 3 (tossups) beginning “A 20 kilogram mass is suspended from the end of a spring with a spring constant of 5 ”; its printed answer “W) 0.05” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 4 (tossups) beginning “Which two spectral classes of main sequence stars have the smallest vertical velocity”; its printed answer “O AND B” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 7 with the notation f(f′(x)); the source superscript/prime is restored while the accompanying wording and printed answer “3” are retained.",
+      "before": {
+        "question": "If f(x) = 2 – x [f of x equals 2 minus x], find f(f ‘(x)) [f of f prime of x]."
+      },
+      "changes": {
+        "question": "If f(x) = 2 − x [f of x equals 2 minus x], find f(f′(x)) [f of f prime of x].",
+        "question_sanitized": "If f(x) equals 2 minus x [f of x equals 2 minus x], find f of f prime of x [f of f prime of x]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 8 (tossups) beginning “An enzyme begins oxidation of a fourteen-carbon fatty acid. This metabolic step produ”; its printed answer “ACETIC ACID (ACCEPT: ETHANOIC ACID)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 9 (tossups) beginning “Which of the following light movement directions is NOT able to produce total reflect”; its printed answer “X) FROM AIR TO WATER” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 10 (tossups) beginning “Hurricanes are rated on the Saffir-Simpson Scale. Tornadoes are rated on the Enhanced”; its printed answer “X) SAFFIR-SIMPSON IS BASED ON WIND SPEED AND ENHANCED FUJITA IS BASED ON DAMAGE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 11 (tossups) beginning “What is the unit in which the lengths of gene-coding DNA sequences are measured?”; its printed answer “BASE PAIR (ACCEPT: BP)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 13 (tossups) beginning “Given 𝑓(𝑥) = √7𝑥 2 − 3 [f of x equals the square root of the quantity 7 x squared ”; its printed answer “W) u(x) = 7x2 − 3 AND 𝑔(𝑢) = √𝑢 2T3T” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "question": "Given 𝑓(𝑥) = √7𝑥 2 − 3 [f of x equals the square root of the quantity 7 x squared minus 3], which of the following are u(x) and g(u) such that f(x) = g(u(x)) [f of x equals g of u of x]?<br>W) u(x) = 7x2 − 3 and 𝑔(𝑢) = √𝑢 2T3T<br>X) u(x) = √𝑥 and g(u) = 7u2 − 3 2T3T<br>Y) u(x) = √7𝑥 2 − 3 [u of x equals the square root of the quantity 7 x squared minus 3] and 𝑔(𝑢) = √𝑢<br>Z) u(x) = √7𝑥 − 3 and g(u) = 𝑢2",
+        "options": [
+          "W) u(x) = 7x2 − 3 and 𝑔(𝑢) = √𝑢 2T3T",
+          "X) u(x) = √𝑥 and g(u) = 7u2 − 3 2T3T",
+          "Y) u(x) = √7𝑥 2 − 3 [u of x equals the square root of the quantity 7 x squared minus 3] and 𝑔(𝑢) = √𝑢",
+          "Z) u(x) = √7𝑥 − 3 and g(u) = 𝑢2"
+        ],
+        "answer": "W) u(x) = 7x2 − 3 AND 𝑔(𝑢) = √𝑢 2T3T"
+      },
+      "changes": {
+        "question": "Given f(x) = √(7x<sup>2</sup> − 3) [f of x equals the square root of the quantity 7 x squared minus 3], which of the following are u(x) and g(u) such that f(x) = g(u(x)) [f of x equals g of u of x]?<br>W) u(x) = 7x<sup>2</sup> − 3 and g(u) = √u<br>X) u(x) = √x and g(u) = 7u<sup>2</sup> − 3<br>Y) u(x) = √(7x<sup>2</sup> − 3) [u of x equals the square root of the quantity 7 x squared minus 3] and g(u) = √u<br>Z) u(x) = √(7x − 3) and g(u) = u<sup>2</sup>",
+        "question_sanitized": "Given f(x) = square root of the quantity 7 x squared minus 3 [f of x equals the square root of the quantity 7 x squared minus 3], which of the following are u(x) and g(u) such that f(x) = g(u(x)) [f of x equals g of u of x]? W) u(x) = 7x squared − 3 and g(u) = square root of u X) u(x) = square root of x and g(u) = 7u squared − 3 Y) u(x) = square root of the quantity 7 x squared minus 3 [u of x equals the square root of the quantity 7 x squared minus 3] and g(u) = square root of u Z) u(x) = square root of the quantity 7x minus 3 and g(u) = u squared",
+        "options": [
+          "W) u(x) = 7x<sup>2</sup> − 3 and g(u) = √u",
+          "X) u(x) = √x and g(u) = 7u<sup>2</sup> − 3",
+          "Y) u(x) = √(7x<sup>2</sup> − 3) [u of x equals the square root of the quantity 7 x squared minus 3] and g(u) = √u",
+          "Z) u(x) = √(7x − 3) and g(u) = u<sup>2</sup>"
+        ],
+        "answer": "W) u(x) = 7x<sup>2</sup> − 3 AND g(u) = √u",
+        "answer_sanitized": "W) u(x) = 7x squared − 3 AND g(u) = square root of u"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 14 (tossups) beginning “The PH 3 molecule has what type of molecular geometry? W) Trigonal pyramidal X) Trigo”; its printed answer “W) TRIGONAL PYRAMIDAL” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "question": "The PH 3 molecule has what type of molecular geometry?<br>W) Trigonal pyramidal<br>X) Trigonal planar<br>Y) Angular<br>Z) Tetrahedral"
+      },
+      "changes": {
+        "question": "The PH<sub>3</sub> molecule has what type of molecular geometry?<br>W) Trigonal pyramidal<br>X) Trigonal planar<br>Y) Angular<br>Z) Tetrahedral",
+        "question_sanitized": "The PH3 molecule has what type of molecular geometry? W) Trigonal pyramidal X) Trigonal planar Y) Angular Z) Tetrahedral"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 15 (tossups) beginning “Three unequal forces act on an object. If the forces have magnitudes of 30 newtons, 5”; its printed answer “W) 0” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 16 (tossups) beginning “If a climate report shows the difference in surface air pressure between the Azores a”; its printed answer “Y) NORTH ATLANTIC OSCILLATION” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 17 (tossups) beginning “Barbara McClintock studied variation in maize kernel coloration. She found that diffe”; its printed answer “MOBILE GENETIC ELEMENTS (ACCEPT: TRANSPOSONS, JUMPING GENES OR MOBILE CONTROLLING ELEMENTS” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 18 (tossups) beginning “A 2 kilogram piece of clay is moving with a velocity of 4 meters per second to the no”; its printed answer “Y) 53°” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 19 (tossups) beginning “If X and Y are bounded sets, then which of the following is true? W) Both the union a”; its printed answer “W) BOTH THE UNION AND THE INTERSECTION OF SETS X AND Y ARE BOUNDED” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 20 (tossups) beginning “The Michaelis-Menten assumptions are integral to understanding the kinetics of enzyme”; its printed answer “W) SUBSTRATE IS PRESENT IN SLIGHTLY GREATER QUANTITIES THAN THE ENZYME” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 21 (tossups) beginning “If the proper energy of 15 grams of matter is 1.35 x 10n joules, what is the value of”; its printed answer “Y) 15” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "question": "If the proper energy of 15 grams of matter is 1.35 x 10n joules, what is the value of n?<br>W) 9<br>X) 12<br>Y) 15<br>Z) 18"
+      },
+      "changes": {
+        "question": "If the proper energy of 15 grams of matter is 1.35 × 10<sup>n</sup> joules, what is the value of n?<br>W) 9<br>X) 12<br>Y) 15<br>Z) 18",
+        "question_sanitized": "If the proper energy of 15 grams of matter is 1.35 × 10 to the n joules, what is the value of n? W) 9 X) 12 Y) 15 Z) 18"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 22 (tossups) beginning “What is the shape of the orbit of a long period comet that has exactly as much kineti”; its printed answer “X) PARABOLA” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 24 (tossups) beginning “What is the name of the energy storage method where water is pumped from a lower elev”; its printed answer “PUMPED-STORAGE HYDROELECTRICITY (ACCEPT: HYDRO-STORAGE, PUMPED HYDRO)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 mistakenly repeats label Y for the first and third choices. Normalized the first label to W for the required W/X/Y/Z choice sequence; option text and correct answer X remain source-exact.",
+      "before": {
+        "question": "Which of the following sea turtle species is phylogenetically distinct from the others and can maintain body temperature elevated above ambient levels?<br>Y) Kemp’s Ridley<br>X) Leatherback<br>Y) Green<br>Z) Loggerhead",
+        "options": [
+          "Y) Kemp’s Ridley",
+          "X) Leatherback",
+          "Y) Green",
+          "Z) Loggerhead"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following sea turtle species is phylogenetically distinct from the others and can maintain body temperature elevated above ambient levels?<br>W) Kemp’s Ridley<br>X) Leatherback<br>Y) Green<br>Z) Loggerhead",
+        "options": [
+          "W) Kemp’s Ridley",
+          "X) Leatherback",
+          "Y) Green",
+          "Z) Loggerhead"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 1 (bonuses) beginning “A point moves on the curve 6x2 – 3y2 = 18 so that its y-coordinate increases at a con”; its printed answer “4√3” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "parts": [
+          "A point moves on the curve 6x2 – 3y2 = 18 so that its y-coordinate increases at a constant rate of 12 meters per second. At what rate, in meters per second, is the x-coordinate changing when the point is at (3, 2√3 )?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A point moves on the curve 6x<sup>2</sup> − 3y<sup>2</sup> = 18 so that its y-coordinate increases at a constant rate of 12 meters per second. At what rate, in meters per second, is the x-coordinate changing when the point is at (3, 2√3 )?"
+        ],
+        "parts_sanitized": [
+          "A point moves on the curve 6x squared minus 3y squared equals 18 so that its y-coordinate increases at a constant rate of 12 meters per second. At what rate, in meters per second, is the x-coordinate changing when the point is at (3, 2 times the square root of 3)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 2 (bonuses) beginning “A buffer solution contains a 10 to 1 ratio of conjugate base to weak acid. The pKa of”; its printed answer “4” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 3 (bonuses) beginning “A distant planet has a 3:2 spin-orbit resonance due to tidal influences from its near”; its printed answer “YEAR=75, SOLAR DAY=150” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 4 (bonuses) beginning “Which of the following two organisms that still exist today first appeared in the rec”; its printed answer “X) SEA URCHINS AND SEA STARS” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 5 (bonuses) beginning “Name all of the following five organisms that lack vessel elements as conducting cell”; its printed answer “1, 3, 4 (ACCEPT: NORWAY SPRUCE, EASTERN WHITE PINE, WHITE FIR)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 6 (bonuses) beginning “Which of the following terms does NOT uniquely apply to the description of magnet pro”; its printed answer “X) ANISOTROPY” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 7 (bonuses) beginning “Express the following in terms of a single trigonometric function, given that all fra”; its printed answer “cscx (ACCEPT: 1/sinx)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 8 (bonuses) beginning “What ring size would be obtained at the end of the following three-step reaction sequ”; its printed answer “SIX” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 9 (bonuses) beginning “A 100 watt current of heat flows via conduction between two stable temperature reserv”; its printed answer “X) 10” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 10 (bonuses) beginning “What are the two most abundant components of Venus's atmosphere?”; its printed answer “CARBON DIOXIDE AND MOLECULAR NITROGEN (ACCEPT: NITROGEN GAS, NITROGEN)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 11 (bonuses) beginning “While on holiday in Mexico, you note a local vendor selling arrow plant seed pods tha”; its printed answer “W) LEPIDOPTERA” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 12 (bonuses) beginning “Enhanced Geothermal Systems, developed by the DOE, increased the availability of geot”; its printed answer “Z) 40” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 13 (bonuses) beginning “Mother Goose divided her estate among her four favorite friends according to the foll”; its printed answer “$36,000” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 14 (bonuses) beginning “What term describes a reaction that forms two stereoisomers [ster-ee-oh-EYE-suh-mers]”; its printed answer “STEREOSELECTIVE” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 15 (bonuses) beginning “If we could capture one second of the total energy output of the Sun, store it, and u”; its printed answer “160,000” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "parts": [
+          "If we could capture one second of the total energy output of the Sun, store it, and use it with just 20% efficiency, how long, in years and to two significant digits, would this energy last based upon current global energy consumption? Assume the current global energy consumed per year is about 500,000,000 terajoules and the current luminosity of the Sun is 4 x 1026 watts."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If we could capture one second of the total energy output of the Sun, store it, and use it with just 20% efficiency, how long, in years and to two significant digits, would this energy last based upon current global energy consumption? Assume the current global energy consumed per year is about 500,000,000 terajoules and the current luminosity of the Sun is 4 × 10<sup>26</sup> watts."
+        ],
+        "parts_sanitized": [
+          "If we could capture one second of the total energy output of the Sun, store it, and use it with just 20% efficiency, how long, in years and to two significant digits, would this energy last based upon current global energy consumption? Assume the current global energy consumed per year is about 500,000,000 terajoules and the current luminosity of the Sun is 4 × 10 to the 26 watts."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 17 (bonuses) beginning “Which of the following processes is NOT correctly matched with the role it plays in t”; its printed answer “Y) LEGUME ROOT NODULES WITH NITRATE PRODUCED FROM AMMONIA” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 prints h = 6.6 × 10⁻³⁴ joule seconds and answer 2 × 10⁻¹⁸ joules; both powers are superscripted in the source.",
+      "before": {
+        "parts": [
+          "Given h = 6.6 x 10-34 joule seconds and providing your answer in scientific notation to one significant figure, what is the energy of a photon in joules with a wavelength of 0.1 micrometers?"
+        ],
+        "answers": [
+          "2 x 10-18"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given h = 6.6 × 10<sup>−34</sup> joule seconds and providing your answer in scientific notation to one significant figure, what is the energy of a photon in joules with a wavelength of 0.1 micrometers?"
+        ],
+        "parts_sanitized": [
+          "Given h = 6.6 x 10^-34 joule seconds and providing your answer in scientific notation to one significant figure, what is the energy of a photon in joules with a wavelength of 0.1 micrometers?"
+        ],
+        "answers": [
+          "2 × 10<sup>−18</sup>"
+        ],
+        "answers_sanitized": [
+          "2 x 10^-18"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 19 (bonuses) beginning “If each interior angle of a polygon is 14 times the size of each exterior angle, what”; its printed answer “5040°” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 20 (bonuses) beginning “Hydrazine, N 2 H 4 , is manufactured at extremely high pressures and temperatures usi”; its printed answer “11.2” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "parts": [
+          "Hydrazine, N 2 H 4 , is manufactured at extremely high pressures and temperatures using ammonia gas and producing hydrogen gas. If 22.4 liters of ammonia gas are used to make hydrazine, how many liters of hydrazine gas are produced?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Hydrazine, N<sub>2</sub>H<sub>4</sub>, is manufactured at extremely high pressures and temperatures using ammonia gas and producing hydrogen gas. If 22.4 liters of ammonia gas are used to make hydrazine, how many liters of hydrazine gas are produced?"
+        ],
+        "parts_sanitized": [
+          "Hydrazine, N2H4, is manufactured at extremely high pressures and temperatures using ammonia gas and producing hydrogen gas. If 22.4 liters of ammonia gas are used to make hydrazine, how many liters of hydrazine gas are produced?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered page 11 prints elementary charge 1.6 × 10⁻¹⁹ coulombs and answer 2 × 10¹⁹; the answer exponent had been flattened as 1019.",
+      "before": {
+        "parts": [
+          "Given that the elementary charge is 1.6 x 10-19 coulombs and providing your answer in scientific notation to one significant digit, how many excess electrons would be present in an object with a net negative charge of 2.5 coulombs?"
+        ],
+        "answers": [
+          "2 x 1019"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that the elementary charge is 1.6 × 10<sup>−19</sup> coulombs and providing your answer in scientific notation to one significant digit, how many excess electrons would be present in an object with a net negative charge of 2.5 coulombs?"
+        ],
+        "parts_sanitized": [
+          "Given that the elementary charge is 1.6 x 10^-19 coulombs and providing your answer in scientific notation to one significant digit, how many excess electrons would be present in an object with a net negative charge of 2.5 coulombs?"
+        ],
+        "answers": [
+          "2 × 10<sup>19</sup>"
+        ],
+        "answers_sanitized": [
+          "2 x 10^19"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 22 (bonuses) beginning “Order the following four index minerals according to increasing grade of metamorphism”; its printed answer “3, 2, 4, 1 (ACCEPT: CHLORITE, BIOTITE, GARNET, SILLIMANITE)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 23 (bonuses) beginning “Which of the following is NOT true regarding juvenile hormone (JH) in the silkworm mo”; its printed answer “W) JH IS PRODUCED BY THE PROTHORACIC GLAND” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 24 (bonuses) beginning “Rank the following four sources of U.S. primary energy production in 2011 from greate”; its printed answer “3, 1, 4, 2 (ACCEPT: NATURAL GAS, COAL, CRUDE OIL, SOLAR)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13 visibly prints question 25 (bonuses) beginning “Which of the following scenarios most closely resembles Hardy- Weinberg equilibrium [”; its printed answer “X) LIZARDS ON A LARGE, ISOLATED ISLAND WITH PLENTIFUL FOOD RESOURCES” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF page 8, bonus 15, prints the instruction “to two significant digits” and the keyed answer “160,000”; the source leaves the precision of the six-place integer notation ambiguous. The printed response is preserved."
+    },
+    {
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF page 13, toss-up 25, labels both Kemp’s Ridley and Green as Y). The first label was normalized to W to restore the W/X/Y/Z sequence; all option text and keyed answer X remain unchanged."
+    }
+  ]
+}

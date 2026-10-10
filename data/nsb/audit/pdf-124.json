@@ -1,0 +1,525 @@
+{
+  "packetIndex": 124,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-11-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “If a person has consumed too much alcohol and is showing signs of ataxia [uh-TAK-see-uh], what ” with choices W–Z; each option and key Z) CEREBELLUM match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “Which of the following molecules exhibits intermolecular attractions commonly referred to as hy” with choices W–Z; each option and key Z) HCOOH match.",
+      "before": {
+        "question": "Which of the following molecules exhibits intermolecular attractions commonly referred to as hydrogen bonding?<br>W) H2<br>X) HBr [H-B-R]<br>Y) HCN [H-C-N]<br>Z) HCOOH [H-C-O-O-H]",
+        "options": [
+          "W) H2",
+          "X) HBr [H-B-R]",
+          "Y) HCN [H-C-N]",
+          "Z) HCOOH [H-C-O-O-H]"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following molecules exhibits intermolecular attractions commonly referred to as hydrogen bonding?<br>W) H<sub>2</sub><br>X) HBr [H-B-R]<br>Y) HCN [H-C-N]<br>Z) HCOOH [H-C-O-O-H]",
+        "options": [
+          "W) H<sub>2</sub>",
+          "X) HBr [H-B-R]",
+          "Y) HCN [H-C-N]",
+          "Z) HCOOH [H-C-O-O-H]"
+        ],
+        "question_sanitized": "Which of the following molecules exhibits intermolecular attractions commonly referred to as hydrogen bonding? W) H2 X) HBr [H-B-R] Y) HCN [H-C-N] Z) HCOOH [H-C-O-O-H]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Root viewed PDF p. 2: all four rational-function choices have reading cues; the ANSWER line contains only Z) 1/(x²−1), without a cue. Restored formula and preserved cues only where printed.",
+      "before": {
+        "question": "Which of the following functions has the greatest number of discontinuities?<br>W) [quantity three x plus five, divided by quantity x minus 4]<br>X) [ open parenthesis one, divided by quantity x minus 1, close parenthesis, plus x]<br>Y) [one divided by x squared]<br>Z) [one, divided by quantity x squared minus one]",
+        "options": [
+          "W) [quantity three x plus five, divided by quantity x minus 4]",
+          "X) [ open parenthesis one, divided by quantity x minus 1, close parenthesis, plus x]",
+          "Y) [one divided by x squared]",
+          "Z) [one, divided by quantity x squared minus one]"
+        ],
+        "answer": "Z) [one, divided by quantity x squared minus one]"
+      },
+      "changes": {
+        "question": "Which of the following functions has the greatest number of discontinuities?<br>W) <span class=\"nsb-fraction\"><span>3x + 5</span><span>x − 4</span></span> [quantity three x plus five, divided by quantity x minus 4]<br>X) (<span class=\"nsb-fraction\"><span>1</span><span>x − 1</span></span>) + x [ open parenthesis one, divided by quantity x minus 1, close parenthesis, plus x]<br>Y) <span class=\"nsb-fraction\"><span>1</span><span>x<sup>2</sup></span></span> [one divided by x squared]<br>Z) <span class=\"nsb-fraction\"><span>1</span><span>x<sup>2</sup> − 1</span></span> [one, divided by quantity x squared minus one]",
+        "options": [
+          "W) <span class=\"nsb-fraction\"><span>3x + 5</span><span>x − 4</span></span> [quantity three x plus five, divided by quantity x minus 4]",
+          "X) (<span class=\"nsb-fraction\"><span>1</span><span>x − 1</span></span>) + x [ open parenthesis one, divided by quantity x minus 1, close parenthesis, plus x]",
+          "Y) <span class=\"nsb-fraction\"><span>1</span><span>x<sup>2</sup></span></span> [one divided by x squared]",
+          "Z) <span class=\"nsb-fraction\"><span>1</span><span>x<sup>2</sup> − 1</span></span> [one, divided by quantity x squared minus one]"
+        ],
+        "question_sanitized": "Which of the following functions has the greatest number of discontinuities? W) (3x + 5)/(x - 4) [quantity three x plus five, divided by quantity x minus 4] X) (1/(x - 1)) + x [ open parenthesis one, divided by quantity x minus 1, close parenthesis, plus x] Y) 1/(x^2) [one divided by x squared] Z) 1/(x^2 - 1) [one, divided by quantity x squared minus one]",
+        "answer": "Z) <span class=\"nsb-fraction\"><span>1</span><span>x<sup>2</sup> − 1</span></span>",
+        "answer_sanitized": "Z) 1/(x² − 1)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “The electric field of a given charge is measured to be 1 newton per coulomb at a distance 10 ce” with choices W–Z; each option and key X) 2 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “Which of the following volcanic features would be most closely associated with a high rating on” with choices W–Z; each option and key Z) WIDESPREAD ASH FALLOUT match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “Identify all of the following three compounds that are capable of hydrogen bonding with themsel”; printed key 3 (ACCEPT: BUTANOL) matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “What are the most important sensory receptors for the monitoring and regulation of blood pressu” with choices W–Z; each option and key X) BARORECEPTORS match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “How much energy in tons of coal equivalent can be released by using deuterium in 50 cups of sea” with choices W–Z; each option and key W) 2 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints y = x with no exponent and the key θ = 45° or θ = π/4; the corpus omitted the equation and truncated the key.",
+      "before": {
+        "question": "What is the polar form of the equation: ?",
+        "answer": "45° or"
+      },
+      "changes": {
+        "question": "What is the polar form of the equation: y = x?",
+        "answer": "θ = 45° or θ = <span class=\"nsb-fraction\"><span>π</span><span>4</span></span>",
+        "question_sanitized": "What is the polar form of the equation: y = x?",
+        "answer_sanitized": "theta = 45 degrees or theta = pi/4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “What complex in oxidative phosphorylation [FOS-for-uh-lay- shuhn] moves protons into rather tha” with choices W–Z; each option and key  match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “If a molecule is known to have a trigonal bipyramidal shape such that “M” is the central atom a” with choices W–Z; each option and key Y) IT HAS AN INVERSION CENTER match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “What is the name for the resistive force that is related to Reynolds number and acts on objects”; printed key DRAG FORCE matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Within the human forebrain, which of the following structures does not belong to the telencepha” with choices W–Z; each option and key Y) HYPOTHALAMUS match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “If it takes you 20 seconds to solve a math problem and your friend 30 seconds to solve a math p”; printed key 30 matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints “According to the U.S. Energy Information Administration, energy consumption per capita in the U” with choices W–Z; each option and key X) -0.5 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints “London dispersion forces increase as which of the following molecular properties also increases” with choices W–Z; each option and key X) POLARIZABILITY match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Which of the following is NOT a direct requirement for dinoflagellates [din-uh-FLAJ-uh-layts] t” with choices W–Z; each option and key Z) CARBON DIOXIDE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Which of the following is a consequence of the exclusion principle? W) Electrons bound in an at” with choices W–Z; each option and key Y) NO TWO ELECTRONS IN A SINGLE ATOM CAN HAVE AN IDENTICAL SET OF QUANTUM NUMBERS match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “What is the two-digit square number with the largest sum of its own digits?”; printed key 49 matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints “A particular reaction involves only one reactant, which decomposes into products. This reactant”; printed key FIRST (ACCEPT: ONE) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “Which of the following drugs is mismatched to its action on neurotransmission? W) Benzodiazepin” with choices W–Z; each option and key  match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “The Heisenberg Uncertainty Principle implies that it is impossible to simultaneously obtain exa” with choices W–Z; each option and key Z) POSITION & MOMENTUM match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “Compute the probability of getting a “blackjack” (two cards totaling 21 points) from a standard”; printed key 32/663 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “A uniform magnetic field is applied perpendicularly to the velocity vector of a moving charged ”; printed key CIRCLE (DO NOT ACCEPT: HELICAL) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “What is the currently most accepted hypothesis for the observed acceleration of the expansion o”; printed key DARK ENERGY matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “For a particular reaction, ∆H = +10 [delta H equals positive ten] kilojoules per mole and ∆S = ”; printed key 250 Kelvin matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “Early in the evolution of modern day fish, the superclass Osteichthyes [os-tee-IK-thee-eez] spl”; printed key SARCOPTERYGII (ACCEPT: LOBE FINNED FISH) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “Fluorescence can be understood as the emission of a photon as a molecule transitions from a sin”; printed key PHOSPHORESCENCE matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “What is the sum of the numbers of faces of each of the unique Platonic solids?”; printed key 50 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “Which of the following eye adaptations allows birds of prey like raptors to maintain high visua” with choices W–Z; each option and key X) RETINA WITH TWO FOVEAS match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “What is the theoretical yield, in moles, of ammonia when 4 moles of nitrogen are reacted with 9”; printed key 6 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “The period of oscillation of a given simple pendulum on a grandfather’s clock here on earth is ” with choices W–Z; each option and key Y) 2 match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Which of the following pairs of echinoderms [ih-KY-nuh-durms] have respiratory structures that ” with choices W–Z; each option and key Z) SEA CUCUMBER AND BRITTLE STAR match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Two integers between 1 and 10, inclusive, are selected at random with replacement. What is the ”; printed key 9/100 (ACCEPT: 0.09 or 9%) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints “What crystalline solid consists of a methane molecule surrounded by a cage of interlocking wate”; printed key METHANE HYDRATE (ACCEPT: METHANE CLATHRATE) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visually prints ±4.0×10⁻²⁰ C and answer 6.0×10⁻³⁰; corpus omitted multiplication/exponent formatting.",
+      "before": {
+        "parts": [
+          "Suppose the atoms of a polar diatomic molecule have partial charges of ±0.25 e [plus or minus zero point two five e], equivalent to ±4.0x10-20 [plus or minus four point zero times ten to the negative twentieth] coulombs. If the bond length is 1.5 angstroms, to two significant figures, what is the dipole moment of the molecule in coulomb- meters?"
+        ],
+        "answers": [
+          "6.0x10-30"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Suppose the atoms of a polar diatomic molecule have partial charges of ±0.25 e [plus or minus zero point two five e], equivalent to ±4.0 × 10<sup>−20</sup> [plus or minus four point zero times ten to the negative twentieth] coulombs. If the bond length is 1.5 angstroms, to two significant figures, what is the dipole moment of the molecule in coulomb-meters?"
+        ],
+        "answers": [
+          "6.0 × 10<sup>−30</sup>"
+        ],
+        "parts_sanitized": [
+          "Suppose the atoms of a polar diatomic molecule have partial charges of ±0.25 e [plus or minus zero point two five e], equivalent to ±4.0 x 10^(-20) [plus or minus four point zero times ten to the negative twentieth] coulombs. If the bond length is 1.5 angstroms, to two significant figures, what is the dipole moment of the molecule in coulomb-meters?"
+        ],
+        "answers_sanitized": [
+          "6.0 x 10^(-30)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “All of the following distinguish actin filaments from microtubules and intermediate filaments e” with choices W–Z; each option and key  match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints 2R with Earth as a subscript, followed by the read-as cue; choices and key W match.",
+      "before": {
+        "parts": [
+          "Which of the following is closest to the value of free-fall acceleration, in meters per second squared, at an altitude distance of 2REarth [two times the radius of earth] above the surface of the Earth?<br>W) 1<br>X) 2.5<br>Y) 4.9<br>Z) 9.8"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is closest to the value of free-fall acceleration, in meters per second squared, at an altitude distance of 2R<sub>Earth</sub> [two times the radius of earth] above the surface of the Earth?<br>W) 1<br>X) 2.5<br>Y) 4.9<br>Z) 9.8"
+        ],
+        "parts_sanitized": [
+          "Which of the following is closest to the value of free-fall acceleration, in meters per second squared, at an altitude distance of 2R_Earth [two times the radius of earth] above the surface of the Earth? W) 1 X) 2.5 Y) 4.9 Z) 9.8"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints all four catalysis statements; the keyed Y statement matches the corpus text exactly."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 shows the limit as x approaches −π of cos(x/2)/(π+x) and answer 1/2; both were absent from the corpus.",
+      "before": {
+        "parts": [
+          "Determine lim [the limit as x approaches minus pi of the → fraction with numerator cosine of the quantity x divided by two and denominator pi plus x]."
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Determine lim<sub>x→−π</sub> <span class=\"nsb-fraction\"><span>cos(x/2)</span><span>π + x</span></span> [the limit as x approaches minus pi of the fraction with numerator cosine of the quantity x divided by two and denominator pi plus x]."
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>1</span><span>2</span></span>"
+        ],
+        "parts_sanitized": [
+          "Determine the limit as x approaches -pi of cos(x/2)/(pi + x) [the limit as x approaches minus pi of the fraction with numerator cosine of the quantity x divided by two and denominator pi plus x]."
+        ],
+        "answers_sanitized": [
+          "1/2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints all four bond-length/electronegativity combinations and keyed X) long bond length, large difference in electronegativity; corpus matches."
+    }
+  ],
+  "packetIssues": []
+}

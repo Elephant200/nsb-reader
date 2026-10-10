@@ -1,0 +1,603 @@
+{
+  "packetIndex": 51,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints the answer as a stacked 1/4; the corpus answer is empty.",
+      "before": {
+        "answer": ""
+      },
+      "changes": {
+        "answer": "<span class=\"nsb-fraction\"><span>1</span><span>4</span></span>",
+        "answer_sanitized": "1/4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 shows the printed ion charges: Na²⁺, Al³⁺, B²⁺, Kr²⁺; answer is X) Al³⁺.",
+      "before": {
+        "question": "Which of the following is a common ion? 2+<br>W) Na 3+<br>X) Al 2+<br>Y) B 2+<br>Z) Kr 3+",
+        "answer": "X) Al",
+        "options": [
+          "W) Na 3+",
+          "X) Al 2+",
+          "Y) B 2+",
+          "Z) Kr 3+"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is a common ion?<br>W) Na<sup>2+</sup><br>X) Al<sup>3+</sup><br>Y) B<sup>2+</sup><br>Z) Kr<sup>2+</sup>",
+        "answer": "X) Al<sup>3+</sup>",
+        "options": [
+          "W) Na<sup>2+</sup>",
+          "X) Al<sup>3+</sup>",
+          "Y) B<sup>2+</sup>",
+          "Z) Kr<sup>2+</sup>"
+        ],
+        "question_sanitized": "Which of the following is a common ion? W) Na²⁺; X) Al³⁺; Y) B²⁺; Z) Kr²⁺",
+        "answer_sanitized": "X) Al(3+)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints Earth's in the stem and both affected options/answer; restored apostrophes.",
+      "before": {
+        "question": "Which of the following is NOT considered a component of the modern theory of ice ages?<br>W) The Earth wobbles on its axis<br>X) The tilt of the Earth varies<br>Y) Plate tectonics causes Earth&amp;apos;s equator to change location<br>Z) The Earth&amp;apos;s orbit around the Sun varies",
+        "answer": "Y) PLATE TECTONICS CAUSE EARTH&amp;apos;S EQUATOR TO CHANGE LOCATION",
+        "options": [
+          "W) The Earth wobbles on its axis",
+          "X) The tilt of the Earth varies",
+          "Y) Plate tectonics causes Earth&amp;apos;s equator to change location",
+          "Z) The Earth&amp;apos;s orbit around the Sun varies"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT considered a component of the modern theory of ice ages?<br>W) The Earth wobbles on its axis<br>X) The tilt of the Earth varies<br>Y) Plate tectonics causes Earth's equator to change location<br>Z) The Earth's orbit around the Sun varies",
+        "answer": "Y) PLATE TECTONICS CAUSE EARTH'S EQUATOR TO CHANGE LOCATION",
+        "options": [
+          "W) The Earth wobbles on its axis",
+          "X) The tilt of the Earth varies",
+          "Y) Plate tectonics causes Earth's equator to change location",
+          "Z) The Earth's orbit around the Sun varies"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 shows 8x³ and the answer y = 2x³ + 4x; restored both exponents.",
+      "before": {
+        "question": "If 8x – 4y = -16x, express y as a function of x in simplest form. 3",
+        "answer": "y = 2x + 4x"
+      },
+      "changes": {
+        "question": "If 8x<sup>3</sup> – 4y = -16x, express y as a function of x in simplest form.",
+        "answer": "y = 2x<sup>3</sup> + 4x",
+        "question_sanitized": "If 8x^3 - 4y = -16x, express y as a function of x in simplest form.",
+        "answer_sanitized": "y = 2x^3 + 4x"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints Earth's crust; removed the double-escaped apostrophe.",
+      "before": {
+        "parts": [
+          "Which of the following is the most abundant mineral group found in the Earth&amp;apos;s crust?<br>W) Carbonates<br>X) Oxides<br>Y) Sulfides<br>Z) Silicates"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the most abundant mineral group found in the Earth's crust?<br>W) Carbonates<br>X) Oxides<br>Y) Sulfides<br>Z) Silicates"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints THE EARTH'S MAGNETIC FIELD; removed the double-escaped apostrophe.",
+      "before": {
+        "answers": [
+          "THE EARTH&amp;apos;S MAGNETIC FIELD"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "THE EARTH'S MAGNETIC FIELD"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints the electron configuration 1s² 2s² 2p⁶ 3s² 3p⁶; restored all superscript exponents.",
+      "before": {
+        "parts": [
+          "Which of the following has an electron configuration of 1s 2s 6 2 6 2p 3s 3p (read as: 1 s 2, 2 s 2, 2 p 6, 3 s 2, 3 p 6)?<br>W) Sodium ion<br>X) Chlorine<br>Y) Neon<br>Z) Calcium ion"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following has an electron configuration of 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> (read as: 1 s 2, 2 s 2, 2 p 6, 3 s 2, 3 p 6)?<br>W) Sodium ion<br>X) Chlorine<br>Y) Neon<br>Z) Calcium ion"
+        ],
+        "parts_sanitized": [
+          "Which of the following has an electron configuration of 1s^2 2s^2 2p^6 3s^2 3p^6 (read as: 1 s 2, 2 s 2, 2 p 6, 3 s 2, 3 p 6)? W) Sodium ion; X) Chlorine; Y) Neon; Z) Calcium ion"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 3x² + 2x − 8 = 0, all four roots as listed, and answer Y; restored superscripts, signs, equal signs, and fraction formatting.",
+      "before": {
+        "parts": [
+          "Solve the quadratic equation 3 x 2 x 8 0 . + − =<br>W) x 2 or 4 = −<br>X) x 8 or 12 = −<br>Y) x 2 or 4/3 = −<br>Z) x 8 or 4/3 = −"
+        ],
+        "options": [
+          "W) x 2 or 4 = −",
+          "X) x 8 or 12 = −",
+          "Y) x 2 or 4/3 = −",
+          "Z) x 8 or 4/3 = −"
+        ],
+        "answers": [
+          "Y) x = -2 OR 4/3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the quadratic equation 3x<sup>2</sup> + 2x − 8 = 0.<br>W) x = 2 or −4<br>X) x = 8 or −12<br>Y) x = −2 or <span class=\"nsb-fraction\"><span>4</span><span>3</span></span><br>Z) x = 8 or −<span class=\"nsb-fraction\"><span>4</span><span>3</span></span>"
+        ],
+        "options": [
+          "W) x = 2 or −4",
+          "X) x = 8 or −12",
+          "Y) x = −2 or <span class=\"nsb-fraction\"><span>4</span><span>3</span></span>",
+          "Z) x = 8 or −<span class=\"nsb-fraction\"><span>4</span><span>3</span></span>"
+        ],
+        "answers": [
+          "Y) x = −2 OR <span class=\"nsb-fraction\"><span>4</span><span>3</span></span>"
+        ],
+        "parts_sanitized": [
+          "Solve the quadratic equation 3x^2 + 2x - 8 = 0. W) x = 2 or -4; X) x = 8 or -12; Y) x = -2 or 4/3; Z) x = 8 or -4/3"
+        ],
+        "answers_sanitized": [
+          "Y) x = -2 OR 4/3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    }
+  ],
+  "packetIssues": []
+}

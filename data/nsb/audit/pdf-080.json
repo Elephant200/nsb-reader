@@ -1,0 +1,624 @@
+{
+  "packetIndex": 80,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by printed number and opening wording on Round 14 page 1; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by printed number and opening wording on Round 14 page 1; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by printed number and opening wording on Round 14 page 2; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by printed number and opening wording on Round 14 page 2; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by printed number and opening wording on Round 14 page 3; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by printed number and opening wording on Round 14 page 3; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by printed number and opening wording on Round 14 page 4; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 14 page 5; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "question": "Approximately how much energy does the Sun generate in joules per hour if it converts about 4 billion kilograms of mass into pure energy every second? 9<br>W) 10 18<br>X) 10 30<br>Y) 10 33<br>Z) 10 30",
+        "options": [
+          "W) 10 18",
+          "X) 10 30",
+          "Y) 10 33",
+          "Z) 10 30"
+        ],
+        "answer": "Y) 10"
+      },
+      "changes": {
+        "question": "Approximately how much energy does the Sun generate in joules per hour if it converts about 4 billion kilograms of mass into pure energy every second?<br>W) 10<sup>9</sup><br>X) 10<sup>18</sup><br>Y) 10<sup>30</sup><br>Z) 10<sup>33</sup>",
+        "question_sanitized": "Approximately how much energy does the Sun generate in joules per hour if it converts about 4 billion kilograms of mass into pure energy every second?<br>W) 10^9<br>X) 10^18<br>Y) 10^30<br>Z) 10^33",
+        "options": [
+          "W) 10<sup>9</sup>",
+          "X) 10<sup>18</sup>",
+          "Y) 10<sup>30</sup>",
+          "Z) 10<sup>33</sup>"
+        ],
+        "answer": "Y) 10<sup>30</sup>",
+        "answer_sanitized": "Y) 10^30"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by printed number and opening wording on Round 14 page 5; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by printed number and opening wording on Round 14 page 6; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "question": "Which of the following compounds is NOT a common cement in sedimentary rocks?<br>W) SiO<sub>2</sub><br>X) Fe<sub>2</sub> O<sub>3</sub><br>Y) Mg<sub>2</sub> SiO<sub>3</sub><br>Z) CaCO<sub>3</sub>",
+        "options": [
+          "W) SiO<sub>2</sub>",
+          "X) Fe<sub>2</sub> O<sub>3</sub>",
+          "Y) Mg<sub>2</sub> SiO<sub>3</sub>",
+          "Z) CaCO<sub>3</sub>"
+        ],
+        "answer": "Y) Mg<sub>2</sub> SiO<sub>3</sub>"
+      },
+      "changes": {
+        "question": "Which of the following compounds is NOT a common cement in sedimentary rocks?<br>W) SiO<sub>2</sub><br>X) Fe<sub>2</sub>O<sub>3</sub><br>Y) Mg<sub>2</sub>SiO<sub>3</sub><br>Z) CaCO<sub>3</sub>",
+        "options": [
+          "W) SiO<sub>2</sub>",
+          "X) Fe<sub>2</sub>O<sub>3</sub>",
+          "Y) Mg<sub>2</sub>SiO<sub>3</sub>",
+          "Z) CaCO<sub>3</sub>"
+        ],
+        "answer": "Y) Mg<sub>2</sub>SiO<sub>3</sub>"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by printed number and opening wording on Round 14 page 6; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "question": "If the coulomb constant is 9 10 newton meters squared per coulomb squared, what force, in newtons, will two particles with charges of +2 and -2 coulombs kept 2 meters apart exert on each other? × 9<br>W) 4.5 10 away from each other × 9<br>X) 4.5 10 toward each other × 10 9<br>Y) 9.0 toward each other × 10 10<br>Z) 1.8 toward each other × 10 9",
+        "options": [
+          "W) 4.5 10 away from each other × 9",
+          "X) 4.5 10 toward each other × 10 9",
+          "Y) 9.0 toward each other × 10 10",
+          "Z) 1.8 toward each other × 10 9"
+        ],
+        "answer": "Y) 9.0 TOWARD EACH OTHER"
+      },
+      "changes": {
+        "question": "If the Coulomb constant is 9 × 10<sup>9</sup> newton meters squared per coulomb squared, what force, in newtons, will two particles with charges of +2 and −2 coulombs kept 2 meters apart exert on each other?<br>W) 4.5 × 10<sup>9</sup> away from each other<br>X) 4.5 × 10<sup>9</sup> toward each other<br>Y) 9.0 × 10<sup>9</sup> toward each other<br>Z) 1.8 × 10<sup>10</sup> toward each other",
+        "question_sanitized": "If the Coulomb constant is 9 × 10^9 newton meters squared per coulomb squared, what force, in newtons, will two particles with charges of +2 and -2 coulombs kept 2 meters apart exert on each other?<br>W) 4.5 × 10^9 away from each other<br>X) 4.5 × 10^9 toward each other<br>Y) 9.0 × 10^9 toward each other<br>Z) 1.8 × 10^10 toward each other",
+        "options": [
+          "W) 4.5 × 10<sup>9</sup> away from each other",
+          "X) 4.5 × 10<sup>9</sup> toward each other",
+          "Y) 9.0 × 10<sup>9</sup> toward each other",
+          "Z) 1.8 × 10<sup>10</sup> toward each other"
+        ],
+        "answer": "Y) 9.0 × 10<sup>9</sup> TOWARD EACH OTHER",
+        "answer_sanitized": "Y) 9.0 × 10^9 TOWARD EACH OTHER"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by printed number and opening wording on Round 14 page 7; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 14 page 8; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "question": "If x + y = 5 , find in terms of x and y in simplest form. dx -x",
+        "answer": "y"
+      },
+      "changes": {
+        "question": "If x<sup>2</sup> + y<sup>2</sup> = 5<sup>2</sup>, find dy/dx in terms of x and y in simplest form.",
+        "question_sanitized": "If x^2 + y^2 = 5^2, find dy/dx in terms of x and y in simplest form.",
+        "answer": "<span class=\"nsb-fraction\"><span>−x</span><span>y</span></span>",
+        "answer_sanitized": "-x/y"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by printed number and opening wording on Round 14 page 9; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by printed number and opening wording on Round 14 page 9; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by printed number and opening wording on Round 14 page 10; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by printed number and opening wording on Round 14 page 10; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 14 page 11; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "question": "Which of the following series converges? 1 ∞<br>W) n=1 n 0.5 1 ∞<br>X) n=1 n+1 n ∞<br>Y) n=1 e n n e ∞<br>Z) n=1 n n ∞",
+        "options": [
+          "W) n=1 n 0.5 1 ∞",
+          "X) n=1 n+1 n ∞",
+          "Y) n=1 e n n e ∞",
+          "Z) n=1 n n ∞"
+        ],
+        "answer": "Y) n=1 e n"
+      },
+      "changes": {
+        "question": "Which of the following series converges?<br>W) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n<sup>0.5</sup></span></span><br>X) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n + 1</span></span><br>Y) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>n</span><span>e<sup>n</sup></span></span><br>Z) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>e<sup>n</sup></span><span>n</span></span>",
+        "question_sanitized": "Which of the following series converges?<br>W) sum(n=1 to infinity) 1/(n^0.5)<br>X) sum(n=1 to infinity) 1/(n + 1)<br>Y) sum(n=1 to infinity) n/e^n<br>Z) sum(n=1 to infinity) e^n/n",
+        "options": [
+          "W) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n<sup>0.5</sup></span></span>",
+          "X) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n + 1</span></span>",
+          "Y) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>n</span><span>e<sup>n</sup></span></span>",
+          "Z) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>e<sup>n</sup></span><span>n</span></span>"
+        ],
+        "answer": "Y) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>n</span><span>e<sup>n</sup></span></span>",
+        "answer_sanitized": "Y) sum(n=1 to infinity) n/e^n"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by printed number and opening wording on Round 14 page 11; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by printed number and opening wording on Round 14 page 12; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by printed number and opening wording on Round 14 page 12; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by printed number and opening wording on Round 14 page 13; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by printed number and opening wording on Round 14 page 1; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by printed number and opening wording on Round 14 page 1; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "parts": [
+          "Find all points of inflection and extrema, including type, of the function x x e + e f(x) = . 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find all points of inflection and extrema, including type, of the function f(x) = <span class=\"nsb-fraction\"><span>e<sup>x</sup> + e<sup>−x</sup></span><span>2</span></span>."
+        ],
+        "parts_sanitized": [
+          "Find all points of inflection and extrema, including type, of the function f(x) = (e^x + e^-x)/2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by printed number and opening wording on Round 14 page 2; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by printed number and opening wording on Round 14 page 2; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by printed number and opening wording on Round 14 page 3; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by printed number and opening wording on Round 14 page 3; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by printed number and opening wording on Round 14 page 4; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by printed number and opening wording on Round 14 page 4; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "answers": [
+          "2 x 10 WEST −<sup>5</sup>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "2 × 10<sup>−5</sup> WEST"
+        ],
+        "answers_sanitized": [
+          "2 × 10^-5 WEST"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by printed number and opening wording on Round 14 page 5; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by printed number and opening wording on Round 14 page 5; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "parts": [
+          "Find the second derivative of the function f(x) = (3 + 2x)e . − 3x 3x"
+        ],
+        "answers": [
+          "3(6x + 5)e [ACCEPT: (18x + 15)e ] − −"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the second derivative of the function f(x) = (3 + 2x)e<sup>3x</sup>."
+        ],
+        "parts_sanitized": [
+          "Find the second derivative of the function f(x) = (3 + 2x)e^(3x)."
+        ],
+        "answers": [
+          "3(6x + 5)e<sup>3x</sup> [ACCEPT: (18x + 15)e<sup>3x</sup>]"
+        ],
+        "answers_sanitized": [
+          "3(6x + 5)e^(3x) [ACCEPT: (18x + 15)e^(3x)]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by printed number and opening wording on Round 14 page 6; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by printed number and opening wording on Round 14 page 7; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by printed number and opening wording on Round 14 page 7; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by printed number and opening wording on Round 14 page 8; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by printed number and opening wording on Round 14 page 8; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by printed number and opening wording on Round 14 page 9; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by printed number and opening wording on Round 14 page 9; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by printed number and opening wording on Round 14 page 10; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by printed number and opening wording on Round 14 page 10; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by printed number and opening wording on Round 14 page 11; checked full text, choices, and notation against the PDF image.",
+      "before": {
+        "parts": [
+          "What is the limit of x x as x approaches 0 from the positive side?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the limit of x<sup>x</sup> as x approaches 0 from the positive side?"
+        ],
+        "parts_sanitized": [
+          "What is the limit of x^x as x approaches 0 from the positive side?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by printed number and opening wording on Round 14 page 11; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by printed number and opening wording on Round 14 page 12; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by printed number and opening wording on Round 14 page 12; checked full text, choices, and notation against the PDF image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by printed number and opening wording on Round 14 page 13; checked full text, choices, and notation against the PDF image."
+    }
+  ],
+  "packetIssues": []
+}

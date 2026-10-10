@@ -1,4 +1,5 @@
-import { escapeHTML } from '../scripts/utilities/strings.js';
+import { escapeHTML } from '../../shared/string-utils.js';
+import { MULTIPLAYER_ROOM_MESSAGE_TYPE } from '../../shared/protocol/multiplayer-room.js';
 
 /**
  * Upserts a player item to the DOM element with the id `player-list-group`.
@@ -32,8 +33,8 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
   player.userId = escapeHTML(player.userId);
   player.username = escapeHTML(player.username);
 
-  const { userId, username, superpowers = 0, powers = 0, tens = 0, negs = 0, tuh = 0, points = 0, online } = player;
-  const celerity = player?.celerity?.correct?.average ?? player?.celerity ?? 0;
+  const { userId, username, tens = 0, negs = 0, tuh = 0, points = 0, online } = player;
+  const celerity = player?.celerity?.correct?.average ?? NaN;
 
   const { bonusStats = { 0: 0, 10: 0, 20: 0, 30: 0 } } = team;
   const bonusPoints = Object.entries(bonusStats).map(([pointValue, count]) => pointValue * count).reduce((a, b) => a + b, 0);
@@ -50,12 +51,14 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
   playerItem.className = `list-group-item clickable ${userId === callerId ? 'user-score' : ''} ${online === false && 'offline'}`;
   playerItem.id = `list-group-${userId}`;
   const displayUsername = distractionFreeMode ? 'Player' : username;
-  const crown = (playerIsOwner && !isPublic) ? '👑' : '';
+  const crown = (playerIsOwner && !isPublic)
+    ? '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="crown-icon me-1" viewBox="0 0 24 24" role="img" aria-label="Room owner"><path fill="#F5C518" stroke="#B8860B" stroke-width="1" stroke-linejoin="round" d="M2 8l4.5 3L12 4l5.5 7L22 8l-2 11H4L2 8z"/></svg>'
+    : '';
 
   playerItem.innerHTML = `
   <div class="d-flex justify-content-between align-items-center">
       <div class="d-flex align-items-center">
-          ${crown} <span id="username-${userId}" class="me-1 player-item-display-username" data-username="${username.replace(/"/g, '&quot;')}">${displayUsername}</span>
+          ${crown}<span id="username-${userId}" class="me-1 player-item-display-username" data-username="${username.replace(/"/g, '&quot;')}">${displayUsername}</span>
           <!-- Dropdown  -->
       </div>
       <span><span id="points-${userId}" class="badge rounded-pill ${online ? 'bg-success' : 'bg-secondary'}">${points + bonusPoints}</span></span>
@@ -75,11 +78,9 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
   playerItem.setAttribute('data-bs-title', username);
   playerItem.setAttribute('data-bs-content', `
     <ul class="list-group list-group-flush">
-        <li class="list-group-item"><span>Superpowers</span><span id="superpowers-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${superpowers}</span></li>
-        <li class="list-group-item"><span>Powers</span><span id="powers-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${powers}</span></li>
-        <li class="list-group-item"><span>Tens</span><span id="tens-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tens}</span></li>
-        <li class="list-group-item"><span>Negs</span><span id="negs-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${negs}</span></li>
-        <li class="list-group-item"><span>TUH</span><span id="tuh-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tuh}</span></li>
+        <li class="list-group-item"><span>Correct</span><span id="tens-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tens}</span></li>
+        <li class="list-group-item"><span>Interrupts</span><span id="negs-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${negs}</span></li>
+        <li class="list-group-item"><span>Tossups seen</span><span id="tuh-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${tuh}</span></li>
         <li class="list-group-item"><span>Bonus Points</span><span id="bonus-points-${userId}" class="float-end badge rounded-pill bg-secondary stats-${userId}">${bonusPoints}</span></li>
         <li class="list-group-item"><span>PPB</span><span id="ppb-${userId}" class="float-end stats stats-${userId}">${isNaN(ppb) ? '0.000' : ppb.toFixed(3)}</span></li>
         <li class="list-group-item"><span>Celerity</span><span id="celerity-${userId}" class="float-end stats stats-${userId}">${celerity.toFixed(3)}</span></li>
@@ -105,6 +106,16 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
     dropdownMenu.className = 'dropdown-menu';
     dropdownMenu.setAttribute('aria-labelledby', 'playerActionsDropdown');
 
+    if (banTrigger && online) {
+      const item = document.createElement('li');
+      const button = document.createElement('button');
+      button.className = 'dropdown-item';
+      button.textContent = 'Make room owner';
+      button.addEventListener('click', () => socket.send(JSON.stringify({ type: 'transfer-owner', targetId: userId })));
+      item.appendChild(button);
+      dropdownMenu.appendChild(item);
+    }
+
     if (muteTrigger) {
       const muteItem = document.createElement('li');
       const muteButton = document.createElement('button');
@@ -115,7 +126,7 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
       dropdownMenu.appendChild(muteItem);
 
       muteButton.addEventListener('click', () => {
-        socket.send(JSON.stringify({ type: 'toggle-mute', targetId: userId, targetUsername: player.username, muteStatus: muteButton.textContent }));
+        socket.send(JSON.stringify({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_MUTE, targetId: userId, targetUsername: player.username, muteStatus: muteButton.textContent }));
         muteButton.textContent = muteButton.textContent === 'Unmute' ? 'Mute' : 'Unmute';
       });
     }
@@ -130,8 +141,8 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
       dropdownMenu.appendChild(kickItem);
 
       vkButton.addEventListener('click', () => {
-        socket.send(JSON.stringify({ type: 'votekick-vote', targetId: userId }));
-        socket.send(JSON.stringify({ type: 'votekick-init', targetId: userId }));
+        socket.send(JSON.stringify({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.VOTEKICK_VOTE, targetId: userId }));
+        socket.send(JSON.stringify({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.VOTEKICK_INIT, targetId: userId }));
         vkButton.disabled = true;
         vkButton.textContent = 'Cooldown';
         setTimeout(() => {
@@ -151,7 +162,7 @@ export default function upsertPlayerItem (player, multiplayerOptions = {}) {
       dropdownMenu.appendChild(banItem);
 
       banButton.addEventListener('click', () => {
-        socket.send(JSON.stringify({ type: 'ban', targetId: userId, targetUsername: username }));
+        socket.send(JSON.stringify({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.BAN, targetId: userId, targetUsername: username }));
       });
     }
 

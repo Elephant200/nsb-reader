@@ -1,0 +1,532 @@
+{
+  "packetIndex": 181,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_17A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “The majority of speciation [spee-see-AY-shun] occurs under which of the following circumstances? W) ” and answer “X) WHEN POPULATIONS BECOME GEOGRAPHICALLY SEPARATED”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “Which of the following molecular geometries can exhibit meridional isomerism? W) Linear X) Square pl” and answer “Z) OCTAHEDRAL”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Comet McNaught visited in 2007 but is now on a path to leave the solar system forever. Which of the ” and answer “Z) HYPERBOLIC”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Consider a triangle with two sides with lengths of 4 and 9. How many different integers could be the” and answer “7”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “The energy price spikes in the 1970s and in 2008 suggested which of the following about U.S. energy ” and answer “Y) USAGE DROPS IN RESPONSE TO RISING PRICES”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “What is the name of the low-temperature state characterized by zero resistance transport of electron” and answer “SUPERCONDUCTIVITY”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Methylation [meth-il-AY-shun] of cytosine [sigh-toh-seen] was once thought to play an important role” and answer “THYMINE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 prints C₁₃H₂₇COOH, C₁₇H₃₅COOH, and C₁₆H₂₉COOH without gaps between the subscript groups and the remaining formula. Remove extraction spaces while preserving the three complete formulas.",
+      "before": {
+        "question": "Identify all of the following three fatty acids that are unsaturated: 1) C<sub>13</sub> H<sub>27</sub> COOH; 2) C<sub>17</sub> H<sub>35</sub> COOH; 3) C<sub>16</sub> H<sub>29</sub> COOH."
+      },
+      "changes": {
+        "question": "Identify all of the following three fatty acids that are unsaturated: 1) C<sub>13</sub>H<sub>27</sub>COOH; 2) C<sub>17</sub>H<sub>35</sub>COOH; 3) C<sub>16</sub>H<sub>29</sub>COOH.",
+        "question_sanitized": "Identify all of the following three fatty acids that are unsaturated: 1) C13H27COOH; 2) C17H35COOH; 3) C16H29COOH."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “In a junction transistor used as a switch, which terminal controls the current through the other two” and answer “BASE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “How much work, in joules [jools] , is done on a particle of charge 2 coulombs as it accelerates over” and answer “18”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints the expression −i³³. The import flattened the exponent and left an extraction space before the period; the answer is −i.",
+      "before": {
+        "question": "Evaluate the following expression: –i 33 ."
+      },
+      "changes": {
+        "question": "Evaluate the following expression: –i<sup>33</sup>.",
+        "question_sanitized": "Evaluate the following expression: –i^33."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “The further advancement of rechargeable batteries is currently hindered by unavoidable growth of wha” and answer “W) LITHIUM DENDRITES”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 prints “Mercury’s orbit”; repair the double-escaped apostrophe.",
+      "before": {
+        "question": "The precession of Mercury&amp;apos;s orbit about the sun presented an anomaly for the scientists that observed it. What theory correctly predicted the magnitude of precession each year?"
+      },
+      "changes": {
+        "question": "The precession of Mercury&apos;s orbit about the sun presented an anomaly for the scientists that observed it. What theory correctly predicted the magnitude of precession each year?",
+        "question_sanitized": "The precession of Mercury’s orbit about the sun presented an anomaly for the scientists that observed it. What theory correctly predicted the magnitude of precession each year?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “In 1967, Jocelyn Bell detected a regularly pulsing radio signal, which she called LGM. What type of ” and answer “PULSAR (DO NOT ACCEPT: NEUTRON STAR)”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Identify all of the following four compounds that are polar: 1) XeF 4 ; 2) SF 4 ; 3) BrF 5 ; 4) PF 5” and answer “2 AND 3”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “In E. coli, a certain gene undergoes a mutation such that the resulting protein is much larger in si” and answer “INSERTION”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “A set of test scores is normally distributed with mean 72 and standard deviation 6. What score corre” and answer “63”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “Within a valence bond interpretation, what is the hybridization of the carbon atoms’ valence electro” and answer “SP2”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “What quark was most recently discovered?” and answer “TOP QUARK”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “What base-10 numeral does the following Roman numeral represent: CMXLVI?” and answer “946”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “What is the term for mobile elements of DNA that can cut and paste themselves into new locations?” and answer “TRANSPOSONS”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “A bacterial colony is raised in heavy nitrogen media for several generations, then transferred to a ” and answer “NONE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “What is the fewest number of carbonyl [carbon-EEL] stretching bands that can be seen in the infrared” and answer “1”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “21-centimeter radiation is observed throughout much of space because it is generated from the neutra” and answer “HYDROGEN”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “What is the limit as x approaches 0 of the fraction with numerator x – 1 + e to the power 3x and den” and answer “4”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 181 PDF page 3 shows bonus 5 asking what country is the source of the largest percentage of petroleum imported to the US, with answer CANADA; baseline question and answer match exactly."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Most ships are more stable in a capsized rather than upright state. Order the following points from ” and answer “2, 1, 3”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Identify all of the following three disorders that are usually inherited dominantly: 1) Huntington’s” and answer “1 AND 3”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “What reaction in organic chemistry forms alkenes via a reaction of a carbonyl [carbon-EEL] group wit” and answer “WITTIG REACTION”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints W) 1 day, X) 1 year, Y) 1 thousand years, and Y) 1 million years, with answer W) 1 DAY. The duplicated Y label and missing leading 1 in X are present in the source transcription, while the PDF itself prints the final label Y. Repair X’s extraction and normalize the final label to Z for playability.",
+      "before": {
+        "parts": [
+          "Which of the following is the best approximation of how much time a supergiant star can survive by way of silicon fusion?<br>W) 1 day<br>X) year <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;1</span></span><br>Y) thousand years<br>Y) 1 million years"
+        ],
+        "options": [
+          "W) 1 day",
+          "X) year <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;1</span></span>",
+          "Y) thousand years",
+          "Y) 1 million years"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the best approximation of how much time a supergiant star can survive by way of silicon fusion?<br>W) 1 day<br>X) 1 year<br>Y) 1 thousand years<br>Z) 1 million years"
+        ],
+        "options": [
+          "W) 1 day",
+          "X) 1 year",
+          "Y) 1 thousand years",
+          "Z) 1 million years"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the best approximation of how much time a supergiant star can survive by way of silicon fusion? W) 1 day X) 1 year Y) 1 thousand years Z) 1 million years"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “Oil shale is a type of organic-rich sedimentary rock that can be used to produce shale oil, also kno” and answer “X) TORBANITE”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints “Noether’s theorem”; repair the double-escaped apostrophe and preserve all four choices.",
+      "before": {
+        "parts": [
+          "Which of the following conservation laws is related by Noether&amp;apos;s theorem to translational spatial symmetry?<br>W) Conservation of mass<br>X) Conservation of linear momentum<br>Y) Conservation of angular momentum<br>Z) Conservation of electric charge"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following conservation laws is related by Noether&apos;s theorem to translational spatial symmetry?<br>W) Conservation of mass<br>X) Conservation of linear momentum<br>Y) Conservation of angular momentum<br>Z) Conservation of electric charge"
+        ],
+        "parts_sanitized": [
+          "Which of the following conservation laws is related by Noether’s theorem to translational spatial symmetry? W) Conservation of mass X) Conservation of linear momentum Y) Conservation of angular momentum Z) Conservation of electric charge"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “A triangular right prism has each edge of length 4. What is its surface area?” and answer “48 + 8√3 (ACCEPT: 8√3 + 48)”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 prints “Laboratory’s National Ignition Facility”; repair the double-escaped apostrophe and preserve all choices.",
+      "before": {
+        "parts": [
+          "Lawrence Livermore National Laboratory&amp;apos;s National Ignition Facility is using what technology to further nuclear fusion energy research?<br>W) Magnetic plasma confinement<br>X) Toroidal plasma confinement<br>Y) Laser inertial confinement<br>Z) Electromagnetic implosion"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Lawrence Livermore National Laboratory&apos;s National Ignition Facility is using what technology to further nuclear fusion energy research?<br>W) Magnetic plasma confinement<br>X) Toroidal plasma confinement<br>Y) Laser inertial confinement<br>Z) Electromagnetic implosion"
+        ],
+        "parts_sanitized": [
+          "Lawrence Livermore National Laboratory’s National Ignition Facility is using what technology to further nuclear fusion energy research? W) Magnetic plasma confinement X) Toroidal plasma confinement Y) Laser inertial confinement Z) Electromagnetic implosion"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “A charged conducting sphere is connected by a long, thin conducting wire to an uncharged conducting ” and answer “2/3”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Which of the following is NOT one of the seven crystal lattice systems? W) Orthorhombic X) Monoclini” and answer “Y) OCTAGONAL”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “A scientist crosses a pea plant that is true breeding for the dominant traits of round and yellow se” and answer “0”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “A 5-digit palindrome has 3 different digits and is divisible by 18. What is its largest possible val” and answer “89,298”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints “Earth’s oceans”; repair the double-escaped apostrophe.",
+      "before": {
+        "parts": [
+          "The addition of what metal to the Earth&amp;apos;s oceans has been proposed as a potential way to decrease atmospheric carbon dioxide through the stimulation of photosynthetic bacteria?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The addition of what metal to the Earth&apos;s oceans has been proposed as a potential way to decrease atmospheric carbon dioxide through the stimulation of photosynthetic bacteria?"
+        ],
+        "parts_sanitized": [
+          "The addition of what metal to the Earth’s oceans has been proposed as a potential way to decrease atmospheric carbon dioxide through the stimulation of photosynthetic bacteria?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “Which of the following elements has an electron configuration that follows the simple order of orbit” and answer “W) TECHNETIUM”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “If an electron is moving in the positive-x direction with increasing speed, identify all of the foll” and answer “2”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “What is the following cross product of vectors: 5i – 3j + k cross 4j?” and answer “–4i + 20k”; compared the full prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “Identify all of the following three statements that are true regarding plant hormones: 1) Auxin play” and answer “1 AND 2”; compared the full prompt, choices if present, and answer."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 labels the choices W) 1 day, X) 1 year, Y) 1 thousand years, Y) 1 million years. The last label is a source duplicate; the ledger proposes only a mechanical Y-to-Z label repair, with choice text unchanged. The answer is W) 1 DAY."
+    }
+  ]
+}

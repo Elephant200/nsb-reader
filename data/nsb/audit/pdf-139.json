@@ -1,0 +1,520 @@
+{
+  "packetIndex": 139,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_9A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 1: 1) Physics – Short Answer A difference of 10 decibels corresponds to what ratio of sound intensities? ANSWER: 10 (ACCEPT: 10:1)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 2: 2) Math – Short Answer In a triple-elimination tournament with 512 contestants, what is the maximum numbers of games played if there are no ties? ANSWER: 1535"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 3: 3) Energy – Multiple Choice A force is conservative when the work done by the force: W) On a closed path is zero X) On an open path is zero Y) Is dependent on the path Z) Conserves energy ANSWER: W) ON A CLOSED PATH IS ZERO"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 4: 4) Earth and Space – Short Answer On a weather map, what type of front is represented by a line with red semicircles extending from one side? ANSWER: WARM FRONT"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 5: 5) Biology – Short Answer What chemical element, that occurs in various forms, is used as a mordant in Gram testing, is used as a method of detecting sugar in Lugol’s solution, and is required for proper thyroid function? ANSWER: IODINE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 6: 6) Chemistry – Short Answer What is the chemical formula of baking soda? ANSWER: NaHCO 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 7: 7) Physics – Short Answer If a particle’s position is defined by the functions x = cos (t) and y = sin (t), what conic section describes the overall shape of the particle’s path? ANSWER: CIRCLE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 8: 8) Energy – Multiple Choice Which of the following is the primary form through which energy is stored in the liver? W) Triglycerides X) Glucose Y) Amylose Z) Glycogen ANSWER: Z) GLYCOGEN"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 10: 10) Physics – Short Answer For a Ferris wheel that rotates clockwise, what are the directions of the centripetal acceleration and the linear velocity of a cart at the top of the Ferris wheel? ANSWER: DOWN AND RIGHT"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 11: 11) Math – Multiple Choice How many values of x satisfy the equation x – 2 equals the fraction with numerator 2x2 – 8x and denominator x2 – 4x? W) Zero X) One Y) Two Z) Three ANSWER: W) ZERO",
+      "before": {
+        "question": "How many values of x satisfy the equation x – 2 equals the fraction 2 2 with numerator 2x – 8x and denominator x – 4x?<br>W) Zero<br>X) One<br>Y) Two<br>Z) Three"
+      },
+      "changes": {
+        "question": "How many values of x satisfy the equation x − 2 equals the fraction with numerator 2x<sup>2</sup> − 8x and denominator x<sup>2</sup> − 4x?<br>W) Zero<br>X) One<br>Y) Two<br>Z) Three",
+        "question_sanitized": "How many values of x satisfy the equation x − 2 equals the fraction with numerator 2x^2 − 8x and denominator x^2 − 4x? W) Zero X) One Y) Two Z) Three"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 12: 12) Chemistry – Multiple Choice Which of the following statements regarding reaction intermediates is true? W) There is precisely one reaction intermediate in a one step reaction X) Reaction intermediates are local minima on the reaction coordinate scheme Y) Reaction intermediates are synonymous with activated complexes Z) The concentrations of rea…"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 13: 13) Earth and Space – Multiple Choice Which of the following types of lava flows results when a volcano erupts underwater? W) Pahoehoe lava X) A’a lava Y) Pillow lava Z) Block lava ANSWER: Y) PILLOW LAVA"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 14: 14) Biology – Short Answer Identify all of the following three compounds that one would find in an animal cell: 1) D-glucose; 2) L-alanine; 3) L-trehalose. ANSWER: 1 AND 2"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 15: 15) Chemistry – Multiple Choice An aqueous solution of dissolved silver nitrate is added to an aqueous solution of dissolved potassium iodide. Which of the following species will not be in the net ionic equation? W) Aqueous silver plus one ions X) Aqueous nitrate ions Y) Solid silver iodide Z) Aqueous iodide ANSWER: X) AQUEOUS NITRATE IONS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 16: 16) Math – Multiple Choice Which of the following functions will have its nth derivative equal to 0 over its entire domain for sufficiently large values of n? W) f(x) = x100 + sin x X) f(x) = x – x–1 Y) f(x) = x1001 + x1000 + … + x2 + x Z) f(x) = ln x – x2 ANSWER: Y) f(x) = x1001 + x1000 + … + x2 + x",
+      "before": {
+        "question": "Which of the following functions will have its n derivative equal to 0 over its entire domain for sufficiently large values of n? 100<br>W) f(x) = x + sin x –1<br>X) f(x) = x – x 1001 1000 2<br>Y) f(x) = x + x + … + x + x 2<br>Z) f(x) = ln x – x 1001 1000 2",
+        "options": [
+          "W) f(x) = x + sin x –1",
+          "X) f(x) = x – x 1001 1000 2",
+          "Y) f(x) = x + x + … + x + x 2",
+          "Z) f(x) = ln x – x 1001 1000 2"
+        ],
+        "answer": "Y) f(x) = x + x + … + x + x"
+      },
+      "changes": {
+        "question": "Which of the following functions will have its nth derivative equal to 0 over its entire domain for sufficiently large values of n?<br>W) f(x) = x<sup>100</sup> + sin x<br>X) f(x) = x − x<sup>−1</sup><br>Y) f(x) = x<sup>1001</sup> + x<sup>1000</sup> + … + x<sup>2</sup> + x<br>Z) f(x) = ln x − x<sup>2</sup>",
+        "question_sanitized": "Which of the following functions will have its nth derivative equal to 0 over its entire domain for sufficiently large values of n? W) f(x) = x^100 + sin x X) f(x) = x − x^-1 Y) f(x) = x^1001 + x^1000 + … + x^2 + x Z) f(x) = ln x − x^2",
+        "options": [
+          "W) f(x) = x<sup>100</sup> + sin x",
+          "X) f(x) = x − x<sup>−1</sup>",
+          "Y) f(x) = x<sup>1001</sup> + x<sup>1000</sup> + … + x<sup>2</sup> + x",
+          "Z) f(x) = ln x − x<sup>2</sup>"
+        ],
+        "answer": "Y) f(x) = x<sup>1001</sup> + x<sup>1000</sup> + … + x<sup>2</sup> + x",
+        "answer_sanitized": "Y) f(x) = x^1001 + x^1000 + … + x^2 + x"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 17: 17) Earth and Space – Short Answer Using carbon-14 decay to determine the date of a material is an example of what technique? ANSWER: RADIOCARBON DATING (ACCEPT: RADIOMETRIC DATING, RADIOACTIVE DATING, CARBON DATING)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 18: 18) Energy – Multiple Choice A gas expands isothermally against a vacuum, where external pressure equals zero. Which of the following statements is not true regarding this process? W) Delta E equals zero X) Delta H equals zero Y) Delta S equals zero Z) No work is done by the gas ANSWER: Y) DELTA S EQUALS ZERO"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 19: 19) Biology – Multiple Choice Which of the following types of animal viruses is responsible for hepatitis C? W) Papovirus X) Adenovirus [add-en-o-virus] Y) Retrovirus Z) Flavivirus [flay-vee-virus] ANSWER: Z) FLAVIVIRUS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 20: 20) Physics – Multiple Choice A positively-charged tabletop may be approximated as an infinite plane producing a uniform electric field. A positively-charged metal sphere levitates motionlessly above the surface of the table. While keeping the rest of the system unchanged, which of the following parameters may be varied without changing the cancela…"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 21: 21) Chemistry – Short Answer A student is working up a reaction and discovers, via thin layer chromatography on a silica plate, that there are many side products in her reaction mixture. The student decides to use column chromatography on her reaction mixture, using the same mobile phase as she did for her TLC plate. What stationary phase should sh…"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 22: 22) Earth and Space – Short Answer What term is used to describe snow that has been left over from the previous year’s snowfall and can be considered as an intermediate stage between snow and glacial ice? ANSWER: FIRN"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed toss-up 23: 23) Math – Short Answer Evaluate the limit, as n approaches infinity, of the sequence whose nth term is n2/3n. ANSWER: 0",
+      "before": {
+        "question": "Evaluate the limit, as n approaches infinity, of the sequence whose n term is 2 n n /3 ."
+      },
+      "changes": {
+        "question": "Evaluate the limit, as n approaches infinity, of the sequence whose nth term is <span class=\"nsb-fraction\"><span>n<sup>2</sup></span><span>3<sup>n</sup></span></span>.",
+        "question_sanitized": "Evaluate the limit, as n approaches infinity, of the sequence whose nth term is n^2/3^n."
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 1: 1) Physics – Short Answer A battery produces an electrical current of 100 milliamps when connected to a circuit with a resistance of 60 Ohms. The battery is then connected to a 250 millifarad capacitor. How many joules of energy are stored by the capacitor? ANSWER: 4.5"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 2: 2) Math – Multiple Choice A square ABCD has a side length of 10. Point E lies on BC and the area of the triangle ABE is 40. What is the length of BE? W) 5 X) 6 Y) 7 Z) 8 ANSWER: Z) 8"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 3: 3) Energy – Short Answer Consider 0.5 moles of an ideal gas undergoing isobaric expansion from 253 to 353 Kelvin. Assuming that the ideal gas constant is 8.314 joules per mole Kelvin, how much work, in joules rounded to the nearest tenth, is done by the gas? ANSWER: 415.7"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 4: 4) Earth and Space – Short Answer What are the two most abundant elements in the Earth’s crust? ANSWER: OXYGEN AND SILICON"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 5: 5) Biology – Short Answer What specific cell type in the stomach is responsible for production of hydrochloric acid in response to stimulation by gastrin? ANSWER: PARIETAL CELLS"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 6: 6) Chemistry – Multiple Choice Which of the following elements can stably bond with three atoms, leaving it with an empty p orbital? W) Sulfur X) Oxygen Y) Boron Z) Helium ANSWER: Y) BORON"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 7: 7) Physics – Short Answer A 6 kilogram box slides from rest down a frictionless ramp with an incline of 30 degrees. If the box descends a vertical height 1.20 meters to reach the bottom, to the nearest meter per second, what is the speed of the box at the bottom of the ramp? ANSWER: 5"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 8: 8) Energy – Short Answer Betz’s Law is used to determine the theoretical power captured by a turbine for what natural resource? ANSWER: WIND"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 10: 10) Physics – Short Answer What is the name of the experiment conducted in the early 1900’s, in which electrons were directed at a crystal and then scattered by it, leading to the determination of the wavelength, which agreed with the de Broglie formula? ANSWER: DAVISSON GERMER EXPERIMENT"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 11: 11) Math – Short Answer If July had five Mondays, August must have had five of what day? ANSWER: THURSDAY"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 12: 12) Chemistry – Multiple Choice Which of the following compounds is produced by the Haber process? W) Sulfuric acid X) Ammonia Y) Sulfur dioxide Z) Nitric acid ANSWER: X) AMMONIA"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 13: 13) Earth and Space – Multiple Choice In which city would you be able to see cirrus clouds at an altitude of 3,000 meters above the surface? W) Ft. Lauderdale, Florida X) Honolulu, Hawaii Y) Barrow, Alaska Z) New York, New York ANSWER: Y) BARROW, ALASKA"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 14: 14) Biology – Multiple Choice Which of the following is not true regarding the development of multicellular organisms? W) Homeotic genes control pattern formation in the late embryo X) Proto-oncogenes are often involved in regulation of the cell cycle Y) Mutations in proto-oncogenes prevent cancer Z) Mutations in tumor suppressor genes often result…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 15: 15) Chemistry – Multiple Choice At which of the following pH values is zinc hydroxide likely to be most soluble? W) 2 X) 4 Y) 6 Z) 8 ANSWER: W) 2"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 16: 16) Math – Multiple Choice The values of y that will satisfy the system of equations 2x2 + 6x + 5y + 1 = 0 and 2x + y + 3 = 0 can be found by solving which of the following equations? W) y2 + 14y – 7 = 0 X) y2 + 10y – 7 = 0 Y) y2 + 8y + 1 = 0 Z) y2 + y – 12 = 0 ANSWER: X) y2 + 10y – 7 = 0",
+      "before": {
+        "parts": [
+          "The values of y that will satisfy the system of equations 2x + 6x + 5y + 1 = 0 and 2x + y + 3 = 0 can be found by solving which of the following equations? 2<br>W) y + 14y – 7 = 0 2<br>X) y + 10y – 7 = 0 2<br>Y) y + 8y + 1 = 0 2<br>Z) y + y – 12 = <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;2</span></span>"
+        ],
+        "options": [
+          "W) y + 14y – 7 = 0 2",
+          "X) y + 10y – 7 = 0 2",
+          "Y) y + 8y + 1 = 0 2",
+          "Z) y + y – 12 = <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;2</span></span>"
+        ],
+        "answers": [
+          "X) y + 10y – 7 = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The values of y that will satisfy the system of equations 2x<sup>2</sup> + 6x + 5y + 1 = 0 and 2x + y + 3 = 0 can be found by solving which of the following equations?<br>W) y<sup>2</sup> + 14y − 7 = 0<br>X) y<sup>2</sup> + 10y − 7 = 0<br>Y) y<sup>2</sup> + 8y + 1 = 0<br>Z) y<sup>2</sup> + y − 12 = 0"
+        ],
+        "parts_sanitized": [
+          "The values of y that will satisfy the system of equations 2x^2 + 6x + 5y + 1 = 0 and 2x + y + 3 = 0 can be found by solving which of the following equations? W) y^2 + 14y − 7 = 0 X) y^2 + 10y − 7 = 0 Y) y^2 + 8y + 1 = 0 Z) y^2 + y − 12 = 0"
+        ],
+        "options": [
+          "W) y<sup>2</sup> + 14y − 7 = 0",
+          "X) y<sup>2</sup> + 10y − 7 = 0",
+          "Y) y<sup>2</sup> + 8y + 1 = 0",
+          "Z) y<sup>2</sup> + y − 12 = 0"
+        ],
+        "answers": [
+          "X) y<sup>2</sup> + 10y − 7 = 0"
+        ],
+        "answers_sanitized": [
+          "X) y^2 + 10y − 7 = 0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 prints the latitude as 40° North; the corpus omitted the degree mark before North.",
+      "before": {
+        "parts": [
+          "If you are located at 40 North latitude, when will the Sun appear directly overhead?<br>W) Never<br>X) Once a year<br>Y) Twice a year<br>Z) Four times a year"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If you are located at 40° North latitude, when will the Sun appear directly overhead?<br>W) Never<br>X) Once a year<br>Y) Twice a year<br>Z) Four times a year"
+        ],
+        "parts_sanitized": [
+          "If you are located at 40° North latitude, when will the Sun appear directly overhead? W) Never X) Once a year Y) Twice a year Z) Four times a year"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 18: 18) Energy – Short Answer By what factor will the net power radiated by a spherical blackbody be multiplied when the temperature is tripled? ANSWER: 81"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 20: 20) Physics – Short Answer A loop conductor lies partially in a magnetic field. Identify all of the following three changes to this system with a conductor and a magnetic field that would produce a change in the magnetic flux of the system: 1) Increase the strength of the magnetic field; 2) Rotate the conductor, changing the angle between it and th…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 21: 21) Chemistry – Multiple Choice Which of the following is the molecular orbital theory prediction for the bond order of ozone? W) 1 X) 1.5 Y) 2 Z) 2.5 ANSWER: X) 1.5"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 22: 22) Earth and Space – Short Answer For every 10 degree increase on the Celsius temperature scale, how many degrees does the temperature increase on the Fahrenheit scale? ANSWER: 18"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed bonus 23: 23) Math – Short Answer What is the sum of the digits of the square of 111,111,111? ANSWER: 81"
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,530 @@
+{
+  "packetIndex": 229,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: compared the complete printed prompt, options, and answer where present. Source begins “1) Chemistry – Short Answer What is the term used to describe a liquid’s resistance to flow?”; printed answer is “VISCOSITY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: compared the complete printed prompt, options, and answer where present. Source begins “2) Math – Short Answer A pair of 12-sided dice, each with the numbers one through 12 printed on the ”; printed answer is “1/12”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “3) Biology – Short Answer In the alternation of generations in plants, what is the term for the dipl”; printed answer is “SPOROPHYTE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “4) Earth & Space – Short Answer Feldspar has two planes of cleavage. What is the characteristic degr”; printed answer is “90”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: compared the complete printed prompt, options, and answer where present. Source begins “5) Physics – Short Answer Industrial applications of AC power often use three-phase power. In degree”; printed answer is “120”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints the accepted formula H₂O with 2 lowered; corpus separates “2” from the O.",
+      "before": {
+        "answer": "WATER (ACCEPT: H O) 2"
+      },
+      "changes": {
+        "answer": "WATER (ACCEPT: H<sub>2</sub>O)",
+        "answer_sanitized": "WATER (ACCEPT: H₂O)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 6x³ − 14x + 15 = 0, with 3 raised; corpus flattens the exponent.",
+      "before": {
+        "question": "Consider the polynomial equation 6x 3 – 14x + 15 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) –3<br>X) 1/3<br>Y) 3/5<br>Z) 3/2"
+      },
+      "changes": {
+        "question": "Consider the polynomial equation 6x<sup>3</sup> – 14x + 15 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) –3<br>X) 1/3<br>Y) 3/5<br>Z) 3/2",
+        "question_sanitized": "Consider the polynomial equation 6x³ – 14x + 15 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) –3<br>X) 1/3<br>Y) 3/5<br>Z) 3/2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: compared the complete printed prompt, options, and answer where present. Source begins “8) Physics – Multiple Choice A positively-charged particle is traveling in the positive-x direction ”; printed answer is “Z) POSITIVE-z”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: compared the complete printed prompt, options, and answer where present. Source begins “9) Earth & Space – Short Answer What Galilean [gal-ih-LAY-en] moon is notable for its triple bands a”; printed answer is “EUROPA”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: compared the complete printed prompt, options, and answer where present. Source begins “10) Chemistry – Short Answer What is the term for isomers that result from different orientations of”; printed answer is “GEOMETRIC ISOMERS (ACCEPT: CIS/TRANS ISOMERS)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “11) Energy – Short Answer Scientists at Jefferson Lab are part of a collaboration studying matter co”; printed answer is “CHARM (ACCEPT: C)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “12) Biology – Short Answer Most trees can continue growing larger year after year without limit. Wha”; printed answer is “MERISTEMS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “13) Earth & Space – Short Answer On ocean shores, what is the term for currents that move in the opp”; printed answer is “RIP CURRENT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “14) Math – Short Answer What is the area of a triangle with vertices at the three points with coordi”; printed answer is “21”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “15) Physics – Multiple Choice Which of the following best describes how the electric field strength ”; printed answer is “Z) IT IS CONSTANT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “16) Energy – Short Answer Scientists at Pacific Northwest National Lab have recently reported the st”; printed answer is “NEURON (ACCEPT: NERVE CELL)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “17) Biology – Short Answer The myth that eating turkey makes a person sleepy originated from the fac”; printed answer is “SEROTONIN (ACCEPT: 5-HT, 5-HYDROXYTRYPTAMINE)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “18) Chemistry – Short Answer What is the adjective for substances that can act as both acids and bas”; printed answer is “AMPHOTERIC”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints x⁵y⁸ and the answer 5x⁴y⁸, with each exponent raised; corpus flattens the powers.",
+      "before": {
+        "question": "What is the partial derivative with respect to x of the expression x 5 y 8 ?",
+        "answer": "5x 4 y 8"
+      },
+      "changes": {
+        "question": "What is the partial derivative with respect to x of the expression x<sup>5</sup>y<sup>8</sup>?",
+        "question_sanitized": "What is the partial derivative with respect to x of the expression x⁵y⁸?",
+        "answer": "5x<sup>4</sup>y<sup>8</sup>",
+        "answer_sanitized": "5x⁴y⁸"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: compared the complete printed prompt, options, and answer where present. Source begins “20) Biology – Multiple Choice Which of the following hormones promotes bud formation? W) Cytokinins ”; printed answer is “W) CYTOKININS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: compared the complete printed prompt, options, and answer where present. Source begins “21) Physics – Multiple Choice A p-n junction, by itself, is best suited to be which of the following”; printed answer is “Z) DIODE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: compared the complete printed prompt, options, and answer where present. Source begins “22) Earth & Space – Short Answer In the triple alpha process, what element is the final product of t”; printed answer is “CARBON”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: compared the complete printed prompt, options, and answer where present. Source begins “23) Chemistry – Short Answer What is the IUPAC name of the salt formed when benzoic acid is mixed wi”; printed answer is “SODIUM BENZOATE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: compared the complete printed prompt, options, and answer where present. Source begins “1) Chemistry – Short Answer Identify all of the following three statements that are assumptions made”; printed answer is “1, 3 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints the term ab² with 2 raised; corpus places the 2 on the baseline.",
+      "before": {
+        "parts": [
+          "In the expansion of the cube of the binomial 2a – 3b, what is the coefficient of the ab 2 term?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In the expansion of the cube of the binomial 2a – 3b, what is the coefficient of the ab<sup>2</sup> term?"
+        ],
+        "parts_sanitized": [
+          "In the expansion of the cube of the binomial 2a – 3b, what is the coefficient of the ab² term?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “3) Biology – Short Answer Identify all of the following three statements that are true of cytoskelet”; printed answer is “ALL ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “4) Earth & Space – Short Answer Rank the following three types of geologic mass movement in order of”; printed answer is “1, 3, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: compared the complete printed prompt, options, and answer where present. Source begins “5) Physics – Short Answer A uniform solid cylinder is rolling about its principal axis without slipp”; printed answer is “20 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: compared the complete printed prompt, options, and answer where present. Source begins “6) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab are accelerating electrons ”; printed answer is “Y) KILOGRAM-METER SQUARED PER SECOND SQUARED”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: compared the complete printed prompt, options, and answer where present. Source begins “7) Math – Short Answer The perimeters of two squares differ by 12 inches and their areas differ by 4”; printed answer is “34 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: compared the complete printed prompt, options, and answer where present. Source begins “8) Physics – Short Answer A 5-kilogram mass is undergoing simple harmonic motion at an angular frequ”; printed answer is “4500 (ACCEPT: 4500 KILOGRAMS PER SECOND SQUARED)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints the rejected unit as SEC⁻¹, with −1 raised; corpus has baseline “SEC –1”.",
+      "before": {
+        "answers": [
+          "INVERSE SECONDS (ACCEPT: ONE OVER SECONDS, RECIPROCAL SECONDS; DO NOT ACCEPT: SEC –1 )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "INVERSE SECONDS (ACCEPT: ONE OVER SECONDS, RECIPROCAL SECONDS; DO NOT ACCEPT: SEC<sup>−1</sup>)"
+        ],
+        "answers_sanitized": [
+          "INVERSE SECONDS (ACCEPT: ONE OVER SECONDS, RECIPROCAL SECONDS; DO NOT ACCEPT: SEC⁻¹)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: compared the complete printed prompt, options, and answer where present. Source begins “10) Chemistry – Multiple Choice Suppose you can know the exact position over time of a sample of ran”; printed answer is “Z) MEAN SQUARED DISPLACEMENT VERSUS TIME”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “11) Energy – Short Answer Lawrence Berkeley National Lab scientists are using machine learning techn”; printed answer is “ALL ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “12) Biology – Short Answer Identify all of the following three responses that would occur in the hum”; printed answer is “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “13) Earth & Space – Short Answer Identify all of the following three statements about sediments and ”; printed answer is “ALL ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “14) Math – Short Answer Four 12-sided dice, each with the numbers one through 12 printed on the face”; printed answer is “41/96”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “15) Physics – Short Answer Identify all of the following three values that are possible values for t”; printed answer is “2 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “16) Energy – Short Answer Scientists at Ames Lab are studying the properties of twisted bilayer grap”; printed answer is “SP2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “17) Biology – Short Answer Identify all of the following three aspects of development that are chara”; printed answer is “2 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “18) Chemistry – Multiple Choice If you wanted to synthesize iso-butyl-benzene through a Friedel-Craf”; printed answer is “W) ISO-BUTYL-CHLORIDE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints x² + 18x + 106 as the polynomial, with 2 raised; corpus flattens the exponent.",
+      "before": {
+        "answers": [
+          "x 2 + 18x + 106"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "x<sup>2</sup> + 18x + 106"
+        ],
+        "answers_sanitized": [
+          "x² + 18x + 106"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: compared the complete printed prompt, options, and answer where present. Source begins “20) Biology – Short Answer What is the ecological term for the rate at which a population of a given”; printed answer is “BIOTIC POTENTIAL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: compared the complete printed prompt, options, and answer where present. Source begins “21) Physics – Short Answer At STP, rank the following three materials in order of increasing dielect”; printed answer is “2, 3, 1 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: compared the complete printed prompt, options, and answer where present. Source begins “22) Earth & Space – Short Answer Place the following three dwarf planets in order of increasing mass”; printed answer is “1, 3, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: compared the complete printed prompt, options, and answer where present. Source begins “23) Chemistry – Short Answer Rank the following three substances in order of increasing standard hea”; printed answer is “2, 3, 1”."
+    }
+  ],
+  "packetIssues": []
+}

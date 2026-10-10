@@ -1,0 +1,612 @@
+{
+  "packetIndex": 19,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round3.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 1; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 2; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 2; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 3; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 3; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 4; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 4; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 5; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 5; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 confirms the notation/boundary shown in the replacement fields.",
+      "before": {
+        "question": "Which of the following solid compounds would NOT be soluble to a large extent in water, but would be soluble in hydrochloric acid?<br>W) Ba(NO 3 ) 2<br>X) CuSO 4<br>Y) MgCO 3<br>Z) KClO 4",
+        "answer": "Y) MgCO 3",
+        "options": [
+          "W) Ba(NO 3 ) 2",
+          "X) CuSO 4",
+          "Y) MgCO 3",
+          "Z) KClO 4"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following solid compounds would NOT be soluble to a large extent in water, but would be soluble in hydrochloric acid?<br>W) Ba(NO<sub>3</sub>)<sub>2</sub><br>X) CuSO<sub>4</sub><br>Y) MgCO<sub>3</sub><br>Z) KClO<sub>4</sub>",
+        "answer": "Y) MgCO<sub>3</sub>",
+        "options": [
+          "W) Ba(NO<sub>3</sub>)<sub>2</sub>",
+          "X) CuSO<sub>4</sub>",
+          "Y) MgCO<sub>3</sub>",
+          "Z) KClO<sub>4</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 6; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 7; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 7; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 8; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 8; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 9; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 confirms the notation/boundary shown in the replacement fields.",
+      "before": {
+        "question": "The specific heat of an unknown metal is 0.230 joules per gram degree Celsius. A 45.0 gram sample of the metal is heated from 25.0o Celsius to 35.0o Celsius. How much heat in joules is required to heat the metal?<br>W) 10.4<br>X) 104<br>Y) 342<br>Z) 600"
+      },
+      "changes": {
+        "question": "The specific heat of an unknown metal is 0.230 joules per gram degree Celsius. A 45.0 gram sample of the metal is heated from 25.0° Celsius to 35.0° Celsius. How much heat in joules is required to heat the metal?<br>W) 10.4<br>X) 104<br>Y) 342<br>Z) 600"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 confirms the notation/boundary shown in the replacement fields.",
+      "before": {
+        "question": "If = [the fraction with numerator x minus y and 𝑥𝑥+𝑦𝑦 13 denominator x plus y equals 9 over 13], providing your answer as a fraction in simplest form, 𝑥𝑥 compute the value of . 𝑦𝑦 11",
+        "answer": "2"
+      },
+      "changes": {
+        "question": "If <span class=\"nsb-fraction\"><span>x − y</span><span>x + y</span></span> = <span class=\"nsb-fraction\"><span>9</span><span>13</span></span> [the fraction with numerator x minus y and denominator x plus y equals 9 over 13], providing your answer as a fraction in simplest form, compute the value of <span class=\"nsb-fraction\"><span>x</span><span>y</span></span> [x over y].",
+        "question_sanitized": "If (x-y)/(x+y) = 9/13 [the fraction with numerator x minus y and denominator x plus y equals 9 over 13], providing your answer as a fraction in simplest form, compute the value of x/y [x over y].",
+        "answer": "<span class=\"nsb-fraction\"><span>11</span><span>2</span></span>",
+        "answer_sanitized": "11/2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 10; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 11; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 11; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 12; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 12; the source and corpus agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 13; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 1; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 1; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 2; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 2; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 3; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 3; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered source page 4 confirms the notation/boundary shown in the replacement fields.",
+      "before": {
+        "parts": [
+          "Find the coordinates of the center and the radius of the circle: x2 + y2 - 8x + 6y -11 = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the coordinates of the center and the radius of the circle: x<sup>2</sup> + y<sup>2</sup> − 8x + 6y − 11 = 0"
+        ],
+        "parts_sanitized": [
+          "Find the coordinates of the center and the radius of the circle: x^2 + y^2 - 8x + 6y - 11 = 0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 4; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 5; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 confirms the notation/boundary shown in the replacement fields.",
+      "before": {
+        "parts": [
+          "An electron is accelerated through a potential difference of 5.0 kilovolts. Which of the following is the kinetic energy in joules gained in the process?<br>W) 8.0 x 1022<br>X) 8.0 x 10-16<br>Y) 1.6 x 10-16<br>Z) 1.6 x 10-22"
+        ],
+        "answers": [
+          "X) 8.0 x 10-16"
+        ],
+        "options": [
+          "W) 8.0 x 1022",
+          "X) 8.0 x 10-16",
+          "Y) 1.6 x 10-16",
+          "Z) 1.6 x 10-22"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "An electron is accelerated through a potential difference of 5.0 kilovolts. Which of the following is the kinetic energy in joules gained in the process?<br>W) 8.0 × 10<sup>22</sup><br>X) 8.0 × 10<sup>-16</sup><br>Y) 1.6 × 10<sup>-16</sup><br>Z) 1.6 × 10<sup>-22</sup>"
+        ],
+        "parts_sanitized": [
+          "An electron is accelerated through a potential difference of 5.0 kilovolts. Which of the following is the kinetic energy in joules gained in the process? W) 8.0 × 10^22; X) 8.0 × 10^(-16); Y) 1.6 × 10^(-16); Z) 1.6 × 10^(-22)"
+        ],
+        "answers": [
+          "X) 8.0 × 10<sup>-16</sup>"
+        ],
+        "answers_sanitized": [
+          "X) 8.0 × 10^(-16)"
+        ],
+        "options": [
+          "W) 8.0 × 10<sup>22</sup>",
+          "X) 8.0 × 10<sup>-16</sup>",
+          "Y) 1.6 × 10<sup>-16</sup>",
+          "Z) 1.6 × 10<sup>-22</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 6; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 shows the strand notation and ends the instruction with “including strand polarity in your answer”; corpus omitted the final word “answer.”",
+      "before": {
+        "parts": [
+          "During DNA replication, what would be the complement of the template strand: 5’ [5 prime]-TAT CAG CCC-3’ [3 prime], including strand polarity in your"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "During DNA replication, what would be the complement of the template strand: 5’ [5 prime]-TAT CAG CCC-3’ [3 prime], including strand polarity in your answer."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 confirms the notation/boundary shown in the replacement fields.",
+      "before": {
+        "parts": [
+          "Express the following quotient of complex numbers in simplest a + bi 4+3𝑖𝑖 form: [the numerator is 4 plus 3i and the denominator is 5 minus 2i]. 5−2𝑖𝑖 14 23 14+23𝑖𝑖"
+        ],
+        "answers": [
+          "+ 𝑖𝑖 (DO NOT ACCEPT: ) 29 29 29"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Express the following quotient of complex numbers in simplest a + bi form: <span class=\"nsb-fraction\"><span>4 + 3i</span><span>5 − 2i</span></span> [the numerator is 4 plus 3i and the denominator is 5 minus 2i]."
+        ],
+        "parts_sanitized": [
+          "Express the following quotient of complex numbers in simplest a + bi form: (4 + 3i)/(5 - 2i) [the numerator is 4 plus 3i and the denominator is 5 minus 2i]."
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>14</span><span>29</span></span> + <span class=\"nsb-fraction\"><span>23</span><span>29</span></span>i (DO NOT ACCEPT: <span class=\"nsb-fraction\"><span>14 + 23i</span><span>29</span></span>)"
+        ],
+        "answers_sanitized": [
+          "14/29 + 23/29 i (DO NOT ACCEPT: (14+23i)/29)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 7; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 8; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 8; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 9; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 9; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 10; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 10; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 11; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 11; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 12; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 12; the source and corpus agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 13; the source and corpus agree."
+    }
+  ],
+  "packetIssues": []
+}

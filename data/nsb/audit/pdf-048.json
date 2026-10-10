@@ -1,0 +1,685 @@
+{
+  "packetIndex": 48,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-17C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 2; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 2; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 and compared the complete printed stem, answer, choices, and notes with corpus item 11; corrected source-visible notation and transcription.",
+      "before": {
+        "question": "Differentiate and simplify the following with respect to x: y = e x e x",
+        "answer": "2 x"
+      },
+      "changes": {
+        "question": "Differentiate and simplify the following with respect to x: y = e<sup>√x</sup>",
+        "answer": "<span class=\"nsb-fraction\"><span>e<sup>√x</sup></span><span>2√x</span></span>",
+        "question_sanitized": "Differentiate and simplify the following with respect to x: y = e^(sqrt(x))",
+        "answer_sanitized": "(e^(sqrt(x)))/(2sqrt(x))"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 6; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered page 8 and compared the complete printed stem, answer, choices, and notes with corpus item 15; corrected source-visible notation and transcription.",
+      "before": {
+        "question": "Consider the following reaction, N + 3H ↔ 2NH , 2(gas) 2(gas) 3(gas) whose heat of reaction, or delta H, is –91.8 kilojoules. If the temperature for the reaction is increased, which of the following will occur:<br>W) the concentration of N<sub>2</sub> increases<br>X) the concentration of H<sub>2</sub> decreases<br>Y) the concentration of NH<sub>3</sub> increases<br>Z) the concentration of N<sub>2</sub> decreases"
+      },
+      "changes": {
+        "question": "Consider the following reaction, N<sub>2</sub>(gas) + 3H<sub>2</sub>(gas) ↔ 2NH<sub>3</sub>(gas), whose heat of reaction, or delta H, is −91.8 kilojoules. If the temperature for the reaction is increased, which of the following will occur:<br>W) the concentration of N<sub>2</sub> increases<br>X) the concentration of H<sub>2</sub> decreases<br>Y) the concentration of NH<sub>3</sub> increases<br>Z) the concentration of N<sub>2</sub> decreases"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 8; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 9; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 and compared the complete printed stem, answer, choices, and notes with corpus item 18; corrected source-visible notation and transcription.",
+      "before": {
+        "question": "Give the center point and the vertices of the horizontal axis and vertical ( x 1 ) 2 ( y 2 ) 2 + ! axis of the ellipse for the following equation: 1 + = 16 9"
+      },
+      "changes": {
+        "question": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: <span class=\"nsb-fraction\"><span>(x + 1)<sup>2</sup></span><span>16</span></span> + <span class=\"nsb-fraction\"><span>(y − 2)<sup>2</sup></span><span>9</span></span> = 1",
+        "question_sanitized": "Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation: (x + 1)^2/16 + (y - 2)^2/9 = 1"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered page 10 and compared the complete printed stem, answer, choices, and notes with corpus item 20; corrected source-visible notation and transcription. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Which of the following is the equivalent of a googolplex: 100<br>W) 10<br>X) <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span> <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;100</span></span> <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span><br>Y) 1000<br>Z) 10 10 100",
+        "answer": "Y) 10",
+        "options": [
+          "W) 10",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span> <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;100</span></span> <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span>",
+          "Y) 1000",
+          "Z) 10 10 100"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is the equivalent of a googolplex:<br>W) 10<sup>100</sup><br>X) 10<sup>10<sup>10</sup></sup><br>Y) 10<sup>10<sup>100</sup></sup><br>Z) 10<sup>1000</sup>",
+        "answer": "Y) 10<sup>10<sup>100</sup></sup>",
+        "question_sanitized": "Which of the following is the equivalent of a googolplex: W) 10^100; X) 10^(10^10); Y) 10^(10^100); Z) 10^1000",
+        "answer_sanitized": "Y) 10^(10^100)",
+        "options": [
+          "W) 10<sup>100</sup>",
+          "X) 10<sup>10<sup>10</sup></sup>",
+          "Y) 10<sup>10<sup>100</sup></sup>",
+          "Z) 10<sup>1000</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 and compared the complete printed stem, answer, choices, and notes with corpus item 23; corrected source-visible notation and transcription.",
+      "before": {
+        "answer": "YELLOW needed red and green to add to blue to make white they chose a yellow phosphor)",
+        "notes": [
+          "(Solution: red and green make yellow and red green and blue make white, therefore since they"
+        ]
+      },
+      "changes": {
+        "answer": "YELLOW",
+        "notes": [
+          "(Solution: red and green make yellow and red green and blue make white, therefore since they needed red and green to add to blue to make white they chose a yellow phosphor)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 12; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 13; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered page 1 and compared the complete printed stem, answer, choices, and notes with corpus item 1; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "2.5 (ACCEPT: 2.4) (Soln: P = (nRT/V) = [(0.10mol)(0.0821L-atm/K-mol)(250K)]/1L = 2.05 atm; P = 0.40 + 2.05 = CO2 T 2.45atm = 2.5 atm)"
+        ],
+        "notes": []
+      },
+      "changes": {
+        "answers": [
+          "2.5 (ACCEPT: 2.4)"
+        ],
+        "notes": [
+          "(Soln: P<sub>CO2</sub> = (nRT/V) = [(0.10 mol)(0.0821 L·atm/K·mol)(250 K)]/1 L = 2.05 atm; P<sub>T</sub> = 0.40 + 2.05 = 2.45 atm = 2.5 atm)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 2; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 and compared the complete printed stem, answer, choices, and notes with corpus item 4; corrected source-visible notation and transcription.",
+      "before": {
+        "parts": [
+          "Find the following indefinite integral: xe x dx (read as: the integral of x ∫ times e to the x power, dx) x x"
+        ],
+        "answers": [
+          "xe – e + C"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the following indefinite integral: ∫ x e<sup>x</sup> dx (read as: the integral of x times e to the x power, dx)"
+        ],
+        "answers": [
+          "x e<sup>x</sup> − e<sup>x</sup> + C"
+        ],
+        "parts_sanitized": [
+          "Find the following indefinite integral: integral of x times e^x dx (read as: the integral of x times e to the x power, dx)"
+        ],
+        "answers_sanitized": [
+          "x e^x - e^x + C"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered page 3 and compared the complete printed stem, answer, choices, and notes with corpus item 6; corrected source-visible notation and transcription.",
+      "before": {
+        "parts": [
+          "If the magic sum for a magic square is 15 and the top row of the magic square consists of the numbers 2, 9 and 4 and the top two numbers of the left column from the top down are 2 and 7, what are the 3 rows, from top to bottom? <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;7</span></span> <span class=\"nsb-fraction\">&lt;span&gt;9</span>&lt;span&gt;5</span></span> <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;3</span></span>"
+        ],
+        "answers": [
+          "(must be exact and read as 2, 9, 4 7, 5, 3 6, 1, 8) 6 1 8"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the magic sum for a magic square is 15 and the top row of the magic square consists of the numbers 2, 9 and 4 and the top two numbers of the left column from the top down are 2 and 7, what are the 3 rows, from top to bottom?<br>2&nbsp;&nbsp;9&nbsp;&nbsp;4"
+        ],
+        "answers": [
+          "7&nbsp;&nbsp;5&nbsp;&nbsp;3 (must be exact and read as 2, 9, 4 7, 5, 3 6, 1, 8)<br>6&nbsp;&nbsp;1&nbsp;&nbsp;8"
+        ],
+        "parts_sanitized": [
+          "If the magic sum for a magic square is 15 and the top row of the magic square consists of the numbers 2, 9 and 4 and the top two numbers of the left column from the top down are 2 and 7, what are the 3 rows, from top to bottom? 2 9 4"
+        ],
+        "answers_sanitized": [
+          "7 5 3 (must be exact and read as 2, 9, 4 7, 5, 3 6, 1, 8); 6 1 8"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered page 5 and compared the complete printed stem, answer, choices, and notes with corpus item 9; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "3.1 (ACCEPT: 3.2) 2 KE 2 g g m 2 ( 225 J ) = 3.13 m/s) 450 N / 9 . 8 m / s 2"
+        ],
+        "notes": [
+          "(Solution: PE = Fd = (450N)(0.6 – 1.1m) = -225J. KE = -PE = ½mv à v = ="
+        ]
+      },
+      "changes": {
+        "answers": [
+          "3.1 (ACCEPT: 3.2)"
+        ],
+        "notes": [
+          "(Solution: PE<sub>g</sub> = Fd = (450 N)(0.6 − 1.1 m) = −225 J. KE = −PE<sub>g</sub> = ½mv<sup>2</sup> → v = √(<span class=\"nsb-fraction\"><span>2(225 J)</span><span>450 N / 9.8 m/s<sup>2</sup></span></span>) = 3.13 m/s)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 6; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 6; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered page 8 and compared the complete printed stem, answer, choices, and notes with corpus item 15; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "50 P<sub>1</sub> V<sub>1</sub> P<sub>2</sub> V<sub>2</sub> ( 150 kPa )( 400 ml ) ( P<sub>2</sub> )( 600 ml ) T<sub>1</sub> T<sub>2</sub> 400 K 200 K"
+        ],
+        "notes": [
+          "(Solution: = ; = ; = 50 kPa)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "50"
+        ],
+        "notes": [
+          "(Solution: <span class=\"nsb-fraction\"><span>P<sub>1</sub>V<sub>1</sub></span><span>T<sub>1</sub></span></span> = <span class=\"nsb-fraction\"><span>P<sub>2</sub>V<sub>2</sub></span><span>T<sub>2</sub></span></span>; <span class=\"nsb-fraction\"><span>(150kPa)(400ml)</span><span>400K</span></span> = <span class=\"nsb-fraction\"><span>(P<sub>2</sub>)(600ml)</span><span>200K</span></span>; = 50 kPa)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 8; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 9; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 and compared the complete printed stem, answer, choices, and notes with corpus item 18; corrected source-visible notation and transcription.",
+      "before": {
+        "parts": [
+          "Differentiate and simplify the following with respect to x: y = x (read as: natural log of x divided by x) 1 ln x ! 2"
+        ],
+        "answers": [
+          "(ALSO ACCEPT [-(lnx) +1]/x x 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Differentiate and simplify the following with respect to x: y = <span class=\"nsb-fraction\"><span>ln x</span><span>x</span></span> (read as: natural log of x divided by x)"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>1 − ln x</span><span>x<sup>2</sup></span></span> (ALSO ACCEPT [−(ln x) + 1]/x<sup>2</sup>)"
+        ],
+        "parts_sanitized": [
+          "Differentiate and simplify the following with respect to x: y = (ln x)/x (read as: natural log of x divided by x)"
+        ],
+        "answers_sanitized": [
+          "(1 - ln x)/(x^2) (also accept [-(ln x) + 1]/x^2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered page 11 and compared the complete printed stem, answer, choices, and notes with corpus item 21; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "580 -3 6 -3 -9 × × ×"
+        ],
+        "notes": [
+          "(Solution: Wien’s Law T = 2.9 10 m.k/λ à 0.005×10 = 2.9 10 m / 580 10 m = 580nm)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "580"
+        ],
+        "notes": [
+          "(Solution: Wien’s Law T = 2.9 × 10<sup>−3</sup> m·K/λ → 0.005 × 10<sup>6</sup> = 2.9 × 10<sup>−3</sup> m / 580 × 10<sup>−9</sup> m = 580 nm)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 and compared the complete printed stem, answer, choices, and notes with corpus item 23; corrected source-visible notation and transcription.",
+      "before": {
+        "parts": [
+          "A sphere of radius 1 meter contains uniformly distributed charge of charge density rho. Assuming ρ/ε (rho over epsilon-naught) equals 30 volts per meter squared, 0 what is the magnitude of electric field at a radius of 0.5 meters?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A sphere of radius 1 meter contains uniformly distributed charge of charge density ρ. Assuming ρ/ε<sub>0</sub> (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
+        ],
+        "parts_sanitized": [
+          "A sphere of radius 1 meter contains uniformly distributed charge of charge density rho. Assuming rho/epsilon_0 (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 12; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 13; the corpus record agrees."
+    }
+  ],
+  "packetIssues": []
+}

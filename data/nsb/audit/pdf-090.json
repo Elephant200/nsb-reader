@@ -1,0 +1,526 @@
+{
+  "packetIndex": 90,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 1 section on source page 1, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered toss-up 3 section on source page 2, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered toss-up 4 section on source page 2, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered toss-up 5 section on source page 3, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "The numbered matrix on source page 3 shows row 2, column 3 as −5; the source answer also includes the minus sign.",
+      "before": {
+        "answer": "5"
+      },
+      "changes": {
+        "answer": "-5"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 7 section on source page 4, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 8 section on source page 4, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 9 section on source page 5, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 10 section on source page 5, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 11 section on source page 6, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 12 section on source page 6, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 13 section on source page 7, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 14 section on source page 7, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 15 section on source page 8, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 16 section on source page 8, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 17 section on source page 9, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 18 section on source page 9, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 19 section on source page 10, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source page 10 prints the answer as −3/2b; the captured answer omitted the leading minus sign and fraction grouping.",
+      "before": {
+        "answer": "3 /2b"
+      },
+      "changes": {
+        "answer": "-<span class=\"nsb-fraction\"><span>3</span><span>2b</span></span>",
+        "answer_sanitized": "-3/(2b)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 21 section on source page 11, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 22 section on source page 11, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 23 section on source page 12, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 24 section on source page 12, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Source page 13 visibly prints f(x)=x² and g(x)=2ˣ; the captured prompt flattened both exponents into baseline digits.",
+      "before": {
+        "question": "How many points of intersection do the graphs of the functions f(x) = x 2 and g(x) = 2 x have?"
+      },
+      "changes": {
+        "question": "How many points of intersection do the graphs of the functions f(x) = x<sup>2</sup> and g(x) = 2<sup>x</sup> have?",
+        "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = x^2 and g(x) = 2^x have?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Root visually checked PDF page 1: the electron configuration answer is [Ar]3d with a superscript 5, not a baseline 5. The full iron(III) sulfate prompt matches.",
+      "before": {
+        "answers": [
+          "[Ar]3d5"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "[Ar]3d<sup>5</sup>"
+        ],
+        "answers_sanitized": [
+          "[Ar]3d⁵"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 3 section on source page 2, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 4 section on source page 2, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered bonus 5 section on source page 3, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered bonus 6 section on source page 3, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 7 section on source page 4, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 8 section on source page 4, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 9 section on source page 5, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 10 section on source page 5, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source page 6 prints p(x) = x⁴ + x³ − 9x² + 11x − 4; the captured polynomial dropped both minus signs and flattened the powers.",
+      "before": {
+        "parts": [
+          "What is the multiplicity of the zero 1 in the polynomial p(x) = x4 + x3 9x2 + 11x 4?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the multiplicity of the zero 1 in the polynomial p(x) = x<sup>4</sup> + x<sup>3</sup> − 9x<sup>2</sup> + 11x − 4?"
+        ],
+        "parts_sanitized": [
+          "What is the multiplicity of the zero 1 in the polynomial p(x) = x^4 + x^3 - 9x^2 + 11x - 4?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 14 section on source page 7, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 15 section on source page 8, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 16 section on source page 8, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 17 section on source page 9, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 18 section on source page 9, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 19 section on source page 10, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 20 section on source page 10, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered bonus 21 section on source page 11, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered bonus 22 section on source page 11, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 23 section on source page 12, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 24 section on source page 12, including its prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "The rendered source page 13 shows an integral from 0 to 2 of (1/t)e^(ln t) dt; the captured plain-language cue did not preserve the fraction and exponent grouping.",
+      "before": {
+        "parts": [
+          "Evaluate the following: [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the following: ∫<sub>0</sub><sup>2</sup> <span class=\"nsb-fraction\"><span>1</span><span>t</span></span> · e<sup>ln t</sup> dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
+        ],
+        "parts_sanitized": [
+          "Evaluate the following: the integral from 0 to 2 of (1/t) times e^(ln t) dt [the integral from 0 to 2 of 1 over t times e to the power of the natural log of t dt]."
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

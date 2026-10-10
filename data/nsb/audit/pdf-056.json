@@ -1,0 +1,569 @@
+{
+  "packetIndex": 56,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round7.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 1 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 2 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 3 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question and answer with page 3 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "before": {
+        "question": "The mass of a raindrop is 4 milligrams. Which of the following represents the correct mass in grams of the raindrop? -3<br>W) 4 × 10 -1<br>X) 4 × 10 3<br>Y) 4 × 10 6<br>Z) 4 × 10 -3",
+        "options": [
+          "W) 4 × 10 -1",
+          "X) 4 × 10 3",
+          "Y) 4 × 10 6",
+          "Z) 4 × 10 -3"
+        ],
+        "answer": "W) 4 × 10"
+      },
+      "changes": {
+        "question": "The mass of a raindrop is 4 milligrams. Which of the following represents the correct mass in grams of the raindrop?<br>W) 4 × 10<sup>−3</sup><br>X) 4 × 10<sup>−1</sup><br>Y) 4 × 10<sup>3</sup><br>Z) 4 × 10<sup>6</sup>",
+        "options": [
+          "W) 4 × 10<sup>−3</sup>",
+          "X) 4 × 10<sup>−1</sup>",
+          "Y) 4 × 10<sup>3</sup>",
+          "Z) 4 × 10<sup>6</sup>"
+        ],
+        "answer": "W) 4 × 10<sup>−3</sup>",
+        "question_sanitized": "The mass of a raindrop is 4 milligrams. Which of the following represents the correct mass in grams of the raindrop? W) 4 x 10^-3; X) 4 x 10^-1; Y) 4 x 10^3; Z) 4 x 10^6",
+        "answer_sanitized": "W) 4 x 10^-3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 4 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 4 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question and answer with page 5 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "before": {
+        "question": "Determine the solubility product constant (or K ) of silver sp -7 bromide, given that its molar solubility is 5.71 10 moles per liter. -13<br>W) 3.26 10 -7<br>X) 5.71 10 -6<br>Y) 1.14 10 -4<br>Z) 2.14 10 -13",
+        "options": [
+          "W) 3.26 10 -7",
+          "X) 5.71 10 -6",
+          "Y) 1.14 10 -4",
+          "Z) 2.14 10 -13"
+        ],
+        "answer": "W) 3.26 10"
+      },
+      "changes": {
+        "question": "Determine the solubility product constant (or K<sub>sp</sub>) of silver bromide, given that its molar solubility is 5.71 × 10<sup>−7</sup> moles per liter.<br>W) 3.26 × 10<sup>−13</sup><br>X) 5.71 × 10<sup>−7</sup><br>Y) 1.14 × 10<sup>−6</sup><br>Z) 2.14 × 10<sup>−4</sup>",
+        "options": [
+          "W) 3.26 × 10<sup>−13</sup>",
+          "X) 5.71 × 10<sup>−7</sup>",
+          "Y) 1.14 × 10<sup>−6</sup>",
+          "Z) 2.14 × 10<sup>−4</sup>"
+        ],
+        "answer": "W) 3.26 × 10<sup>−13</sup>",
+        "question_sanitized": "Determine the solubility product constant (or K_sp) of silver bromide, given that its molar solubility is 5.71 x 10^-7 moles per liter. W) 3.26 x 10^-13; X) 5.71 x 10^-7; Y) 1.14 x 10^-6; Z) 2.14 x 10^-4",
+        "answer_sanitized": "W) 3.26 x 10^-13"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 5 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source page 6 prints tank widths as W1 and W2 and common height H in the question; the labels appear inline and the answer says both bottom pressures are the same."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete question and answer with page 7 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "before": {
+        "question": "Given the function , what is the largest possible value for y?"
+      },
+      "changes": {
+        "question": "Given the function y = 4x − x<sup>2</sup>, what is the largest possible value for y?",
+        "question_sanitized": "Given the function y = 4x - x^2, what is the largest possible value for y?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 7 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question and answer with page 8 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "before": {
+        "question": "What is the mass of an electron relative to a proton? -31<br>W) 9.1 x 10 -14<br>X) 8.2 x 10<br>Y) 1/1836<br>Z) 0.51",
+        "options": [
+          "W) 9.1 x 10 -14",
+          "X) 8.2 x 10",
+          "Y) 1/1836",
+          "Z) 0.51"
+        ],
+        "answer": "Y) 1/1836"
+      },
+      "changes": {
+        "question": "What is the mass of an electron relative to a proton?<br>W) 9.1 × 10<sup>−31</sup><br>X) 8.2 × 10<sup>−14</sup><br>Y) 1/1836<br>Z) 0.51",
+        "options": [
+          "W) 9.1 × 10<sup>−31</sup>",
+          "X) 8.2 × 10<sup>−14</sup>",
+          "Y) 1/1836",
+          "Z) 0.51"
+        ],
+        "answer": "Y) 1/1836",
+        "question_sanitized": "What is the mass of an electron relative to a proton? W) 9.1 x 10^-31; X) 8.2 x 10^-14; Y) 1/1836; Z) 0.51"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 8 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 9 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 9 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 10 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 10 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 11 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question and answer with page 11 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "before": {
+        "answer": "PYRUVATE (read as: py-RUH-vayt) [ACCEPT: PYRUVIC (read as: py-RUH-vik) ACID, CH<sub>3</sub> COCO<sub>2</sub> H]"
+      },
+      "changes": {
+        "answer": "PYRUVATE (read as: py-RUH-vayt) [ACCEPT: PYRUVIC (read as: py-RUH-vik) ACID, CH<sub>3</sub>COCO<sub>2</sub>H]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 12 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 12 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Root compared PDF text on page 13: Jupiter's uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "question": "Which of the following describes Jupiter&amp;apos;s great red spot?<br>W) A storm<br>X) An aurora<br>Y) A magnetotail<br>Z) A volcano"
+      },
+      "changes": {
+        "question": "Which of the following describes Jupiter's great red spot?<br>W) A storm<br>X) An aurora<br>Y) A magnetotail<br>Z) A volcano"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 1 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 1 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 2 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 2 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question and answer with page 3 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "before": {
+        "parts": [
+          "For the complete combustion of butane, butane plus oxygen produces carbon dioxide and water vapor. What is the balanced equation for the combustion of butane?"
+        ],
+        "answers": [
+          "2C<sub>4</sub> H<sub>10</sub> + 13O<sub>2</sub> à (read as: yields) 8CO<sub>2</sub> + 10H<sub>2</sub> O"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For the complete combustion of butane, butane plus oxygen produces carbon dioxide and water vapor. What is the balanced equation for the combustion of butane?"
+        ],
+        "answers": [
+          "2C<sub>4</sub>H<sub>10</sub> + 13O<sub>2</sub> → (read as: yields) 8CO<sub>2</sub> + 10H<sub>2</sub>O"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 3 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 4 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 4 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 5 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 6 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 6 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete question and answer with page 7 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "before": {
+        "parts": [
+          "Express the following in standard polynomial form: (read as: the quantity 3x plus 2 cubed)"
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Express the following in standard polynomial form: (3x + 2)<sup>3</sup> (read as: the quantity 3x plus 2 cubed)"
+        ],
+        "answers": [
+          "27x<sup>3</sup> + 54x<sup>2</sup> + 36x + 8"
+        ],
+        "parts_sanitized": [
+          "Express the following in standard polynomial form: (3x + 2)^3 (read as: the quantity 3x plus 2 cubed)"
+        ],
+        "answers_sanitized": [
+          "27x^3 + 54x^2 + 36x + 8"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 7 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 8 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 8 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 9 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 9 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 10 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 10 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 11 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 12 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 12 of packet 056; the source agrees with the corpus."
+    }
+  ],
+  "packetIssues": []
+}

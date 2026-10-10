@@ -1,0 +1,484 @@
+{
+  "packetIndex": 223,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd8.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Chemistry – Short Answer      What state of matter has a definite volume bu”; source answer “LIQUID”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Physics – Short Answer What is the ratio of the kinetic energy of a 5-kilog”; source answer “10 (ACCEPT: 10 TO 1)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Multiple Choice Researchers at Brookhaven National Lab are studyin”; source answer “X) ITS CONDUCTANCE INCREASES RAPIDLY BELOW 40 KELVINS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Biology – Multiple Choice     In humans, the cerebellum is primarily respon”; source answer “X) BALANCE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Math – Short Answer What is the greatest common factor of 60 and 285?”; source answer “15”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Earth & Space – Short Answer What type of cataclysmic [katah-KLIZ-mik] even”; source answer “SUPERNOVA (ACCEPT: TYPE TWO SUPERNOVA)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Chemistry – Short Answer Consider a 12-gram sample of carbon-12. What is th”; source answer “AVOGADRO’S NUMBER (ACCEPT: AVOGADRO CONSTANT)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Physics – Short Answer What physical quantity describes the rate of change ”; source answer “TORQUE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Multiple Choice Scientists at Argonne National Lab are studying ho”; source answer “X) BUTTERFLIES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source expression is 7x² − 3x + 15; restored superscript 2 in the prompt.",
+      "before": {
+        "question": "What is the second derivative with respect to x of 7x 2 – 3x + 15 evaluated at x = 4?"
+      },
+      "changes": {
+        "question": "What is the second derivative with respect to x of 7x<sup>2</sup> – 3x + 15 evaluated at x = 4?",
+        "question_sanitized": "What is the second derivative with respect to x of 7x² – 3x + 15 evaluated at x = 4?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Earth & Space – Short Answer Following the breakup of Pangea [pan-JEE-ah], ”; source answer “GONDWANA (ACCEPT: GONDWANALAND)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Math – Short Answer What is the y-intercept of the line with slope 6 that c”; source answer “–7”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Physics – Short Answer A child spins a ball on the end of a string in such ”; source answer “PI/2 (ACCEPT: 1/2 PI, 0.5 PI)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Energy – Short Answer Savannah River National Lab scientists are tracking t”; source answer “RESISTANCE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Earth & Space – Short Answer In the northern hemisphere, the sidereal [sigh”; source answer “VERNAL EQUINOX (ACCEPT: SPRING EQUINOX, MARCH EQUINOX,”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Chemistry – Multiple Choice Which of the following functional groups has th”; source answer “W) ALCOHOL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Biology – Short Answer Polyps and medusae [meh-DOO-see] represent the alter”; source answer “CNIDARIA [nye-DARE-ee-ah] (ACCEPT: CNIDARIANS)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source product contains 12x² in the first numerator; restored superscript 2 in the prompt.",
+      "before": {
+        "question": "Simplify the product of 12x 2 divided by 5y and 10y divided by 4x."
+      },
+      "changes": {
+        "question": "Simplify the product of 12x<sup>2</sup> divided by 5y and 10y divided by 4x.",
+        "question_sanitized": "Simplify the product of 12x² divided by 5y and 10y divided by 4x."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Short Answer      The derivative of momentum with respect to time”; source answer “FORCE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Earth & Space – Multiple Choice Which of the following rock types has the h”; source answer “Y) PERIDOTITE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Biology – Multiple Choice Monocytes in the blood are precursors to which of”; source answer “Y) MACROPHAGES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Chemistry – Short Answer What type of bond typically forms between two atom”; source answer “COVALENT (DO NOT ACCEPT: NONPOLAR, NONPOLAR COVALENT)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Chemistry – Short Answer      What is the minimum number of carbon atoms a ”; source answer “THREE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Physics – Short Answer Nick is sitting in a car that has a tennis ball hang”; source answer “4.9 (ACCEPT: 49/10, 4 9/10)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Short Answer Ames Lab researchers are making measurements of super”; source answer “5500”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Biology – Short Answer Order the following three types of mature, mammalian”; source answer “2, 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Math – Short Answer Each day, Bella eats 20% of the jellybeans left in a ja”; source answer “175”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Earth & Space – Short Answer Two stars in a circular binary system have mas”; source answer “8/3 (ACCEPT: 2 2/3)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Chemistry – Multiple Choice Which of the following would be the best indica”; source answer “Y) METHYL RED”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Physics – Short Answer Consider a bullet with mass one gram and speed one k”; source answer “10,000”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Short Answer Engineers at Pacific Northwest National Lab have deve”; source answer “DUCTILITY”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Math – Short Answer What number must be ADDED to both the numerator and den”; source answer “–26/3 (ACCEPT: –8 2/3)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Earth & Space – Short Answer   In soil, what is the term for the upper surf”; source answer “WATER TABLE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Biology – Short Answer In glycolysis [glye-KAWL-eh-sis], what enzyme cataly”; source answer “PFK (ACCEPT: PHOSPHOFRUCTOKINASE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source function is x³ times e to the power 2x; rendered both powers and kept the full verbal expression in the reading.",
+      "before": {
+        "parts": [
+          "What is the derivative at x = ½ of the function x 3 times e to the power 2x?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the derivative at x = ½ of the function x<sup>3</sup> times e<sup>2x</sup> (x cubed times e to the power 2x)?"
+        ],
+        "parts_sanitized": [
+          "What is the derivative at x = ½ of the function x³ times e²ˣ (x cubed times e to the power 2x)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Physics – Short Answer There are two long, parallel wires each carrying the”; source answer “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Energy – Short Answer Sandia National Lab researchers are engineering Metal”; source answer “KIDNEY”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Earth & Space – Multiple Choice The precise value of the Hubble constant co”; source answer “W) 50 TO 100”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Chemistry – Short Answer      If it is 31 degrees Celsius outside, then, in”; source answer “87.8 (DO NOT ACCEPT: 88)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Biology – Short Answer Identify all of the following three actions that are”; source answer “2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Math – Short Answer Two complex numbers have absolute values of 5√2 and 3√3”; source answer “ABSOLUTE VALUE = 15√6; ANGLE = 33 (DO NOT ACCEPT: 393)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Short Answer You measure the root-mean-square voltage of a sinuso”; source answer “280”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Earth & Space – Short Answer      The Moho separates what two compositional”; source answer “CRUST AND MANTLE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Biology – Short Answer Identify all of the following three processes that v”; source answer “1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Chemistry – Short Answer Identify all of the following three metals that ha”; source answer “3”."
+    }
+  ],
+  "packetIssues": []
+}

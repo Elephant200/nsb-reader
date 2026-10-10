@@ -1,0 +1,523 @@
+{
+  "packetIndex": 182,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “What is a tornado called when it moves or develops over water?” and answer “WATERSPOUT”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “In which of the following organelles does transcription NOT occur? W) Nucleus X) Peroxisome [purr-OX” and answer “X) PEROXISOME”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Solve the following equation for x: 4 divided by open parenthesis x – 6 close parenthesis equals 5 d” and answer “26”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Which of the following elements is most electronegative according to the Pauling scale? W) Carbon X)” and answer “W) CARBON”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Scientists at Lawrence Berkeley National Lab recently used molybdenum [muh-LIB-den-um] disulfide to ” and answer “TUNNELING (ACCEPT: QUANTUM TUNNELING)”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Given a graph with velocity as the y axis and time as the x axis, what physical quantity does the sl” and answer “ACCELERATION”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Which of the following human proteins, when fully assembled, contains exactly four subunits? W) Acti” and answer “Z) HEMOGLOBIN”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Which of the Milankovitch [mil-AYN-koh-vitch] cycles account for climate changes over a 41,000 year ” and answer “X) OBLIQUITY”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “William Robert Grove proposed the idea that if water can be broken down to hydrogen and oxygen with ” and answer “FUEL CELL (ACCEPT: HYDROGEN FUEL CELL)”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints the denominator as (x² − 6x + 5); restore the missing exponent while preserving the source’s verbalized equation.",
+      "before": {
+        "question": "Find the zeroes of the function f of x equals 6 over open parenthesis x 2 – 6x + 5 close parenthesis."
+      },
+      "changes": {
+        "question": "Find the zeroes of the function f of x equals 6 over open parenthesis x<sup>2</sup> – 6x + 5 close parenthesis.",
+        "question_sanitized": "Find the zeroes of the function f of x equals 6 over open parenthesis x^2 – 6x + 5 close parenthesis."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “What quantum number is responsible for the energy of the orbital and corresponds to the shell of the” and answer “PRINCIPAL (ACCEPT: N)”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “A 2-kilogram ball is thrown directly down from the top of a tall building. If a 6-kilogram ball is t” and answer “3 (ACCEPT: 3 TO 1)”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “What non-foliated metamorphic rock forms from metamorphism of limestone?” and answer “MARBLE”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “As x approaches one, the limit of f of x is 6, the limit of g of x is 8, and the limit of h of x is ” and answer “86”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “What particle collider, located at Brookhaven National Lab, was the first to demonstrate the creatio” and answer “RHIC (ACCEPT: RELATIVISTIC HEAVY ION COLLIDER)”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Identify all of the following three molecules that catalyze the chemical digestion of food: 1) Amyla” and answer “1”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “What is the equivalent capacitance, in microfarads [micro-FAIR-ads], of a series combination of a 3-” and answer “2”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Rank the following three gases in terms of increasing rate of effusion: 1) Chlorine; 2) Helium; 3) N” and answer “1, 3, 2”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “Triton is a moon of what gas giant?” and answer “NEPTUNE”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints answer x²; the imported answer flattened the exponent.",
+      "before": {
+        "answer": "x 2"
+      },
+      "changes": {
+        "answer": "x<sup>2</sup>",
+        "answer_sanitized": "x^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “In animal cells, what type of cellular junction is formed by connexons [kah-NEX-uns] and enables mol” and answer “GAP JUNCTIONS”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “What is the ratio of the intensity of a 30-decibel sound to that of a 20-decibel sound?” and answer “10 (ACCEPT: 10 TO 1)”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “A student places a small amount of n-octane into a constant-volume reaction vessel and combusts the ” and answer “INTERNAL ENERGY”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “As the Atlantic Ocean began to open around 200 million years ago, which of the following regions was” and answer “Y) THE NORTHWEST MARGIN OF AFRICA”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “A commonly-used method of classifying animals is to find a shared ancestral characteristic and use i” and answer “2 AND 3”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Identify all of the following four expressions that are odd functions: 1) Cube root of x; 2) Cosine ” and answer “1 AND 3”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Which of the following best explains why a beam of light is scattered when it shines through milk bu” and answer “W) MILK IS A COLLOID, WHILE WATER IS NOT”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 prints an “sp²-hybridized material”; the imported question flattened the superscript.",
+      "before": {
+        "parts": [
+          "A team of Berkeley Lab researchers recently published a study using a thin monolayer of an sp 2 -hybridized material to image electric fields. What is the common name of the material they used?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A team of Berkeley Lab researchers recently published a study using a thin monolayer of an sp<sup>2</sup>-hybridized material to image electric fields. What is the common name of the material they used?"
+        ],
+        "parts_sanitized": [
+          "A team of Berkeley Lab researchers recently published a study using a thin monolayer of an sp^2-hybridized material to image electric fields. What is the common name of the material they used?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “By what factor is the frequency of a spring-mass oscillator multiplied if the mass of the block doub” and answer “SQUARE ROOT 2 OVER 2”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Identify all of the following three molecules that should be able to pass through a nuclear pore in ” and answer “ALL”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “The Planck and BICEP2 [BY-sep two] experiments, partially supported by the Department of Energy, wer” and answer “COSMIC INFLATION (ACCEPT: INFLATION, INFLATIONARY EPOCH; DO NOT ACCEPT”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints the function x²eˣ in the derivative question; both powers were lost from the import.",
+      "before": {
+        "parts": [
+          "What is the derivative of the function x e at x = 1?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the derivative of the function x<sup>2</sup>e<sup>x</sup> at x = 1?"
+        ],
+        "parts_sanitized": [
+          "What is the derivative of the function x^2 e^x at x = 1?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “Identify all of the following three statements that are true of concentration cells: 1) They have st” and answer “1 AND 3”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “The nucleus of what element is produced in a deuterium [doo-TEER-ee- um]-tritium [TRIH-tee-um] fusio” and answer “HELIUM”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “In which of the following locations in the Atlantic Ocean would you find a deep water formation site” and answer “W) OFF THE SOUTHERN COAST OF GREENLAND”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 prints x² + 7x in the numerator of the verbalized fraction; restore the missing exponent and preserve the full wording.",
+      "before": {
+        "parts": [
+          "What is the slope-intercept form of the equation of the oblique asymptote of the function f of x equals the fraction with numerator x 2 + 7x and denominator x + 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope-intercept form of the equation of the oblique asymptote of the function f of x equals the fraction with numerator x<sup>2</sup> + 7x and denominator x + 2?"
+        ],
+        "parts_sanitized": [
+          "What is the slope-intercept form of the equation of the oblique asymptote of the function f of x equals the fraction with numerator x^2 + 7x and denominator x + 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 prints the accepted formula PbSO₄ with no space before the closing parenthesis. Remove the imported stray space and preserve all accepted answer text.",
+      "before": {
+        "answers": [
+          "LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO<sub>4</sub> )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO<sub>4</sub>)"
+        ],
+        "answers_sanitized": [
+          "LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Identify all of the following three organisms that are deuterostomes [DOO-tur-ah-stomes]: 1) Jellyfi” and answer “2 AND 3”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Kate usually drives from San Francisco to Lake Tahoe at a speed of 100 kilometers per hour, and the ” and answer “50”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Rank the following three elements in increasing order of effective nuclear charge felt by their vale” and answer “3, 2, 1”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “The approximate surface temperature of our Sun is 5800 kelvins, while the approximate surface temper” and answer “16”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “What is the least common multiple of the first 5 positive composite numbers?” and answer “360”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “A pea farmer starts with two parent plants, one dominant plant being true- breeding for yellow and r” and answer “9/16”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “A 4.5-centimeter tall object is placed 15 centimeters from a double convex lens with a 9-centimeter ” and answer “22.5”; compared the complete source prompt, choices if present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “Identify all of the following three molecules that have an empirical formula consisting of only one ” and answer “2”; compared the complete source prompt, choices if present, and answer."
+    }
+  ],
+  "packetIssues": []
+}

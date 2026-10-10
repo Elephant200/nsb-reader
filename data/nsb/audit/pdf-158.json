@@ -1,0 +1,454 @@
+{
+  "packetIndex": 158,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/11A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Math – Multiple Choice Let f(x) be a continuous and differentiable function on the closed; ANSWER: Y) 5 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Biology – Short Answer The selective loss of dopaminergic [dope-ah-min-UR-jik] neurons in; ANSWER: PARKINSON’S DISEASE (ACCEPT: PARKINSONISM) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Energy – Short Answer If a solar power farm doesn't operate for 28% of the time in a month,; ANSWER: 72% (ACCEPT: 0.72) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Chemistry – Short Answer What allotrope of phosphorous is thermodynamically stable at; ANSWER: BLACK PHOSPHORUS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Physics – Multiple Choice Which of the following statements correctly summarizes the zeroth; ANSWER: W) IF EACH OF TWO SYSTEMS ARE IN THERMAL EQUILIBRIUM WITH A matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Earth and Space – Multiple Choice Which of the following low pressure systems typically has; ANSWER: Z) TROPICAL WAVE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 shows y = 3ˣ and y = −x² + 5; exponents  x and 2 are raised, and answer is 2.",
+      "before": {
+        "question": "How many points of intersection are there for the graphs of y = 3x and y = –x2 + 5?"
+      },
+      "changes": {
+        "question": "How many points of intersection are there for the graphs of y = 3<sup>x</sup> and y = −x<sup>2</sup> + 5?",
+        "question_sanitized": "How many points of intersection are there for the graphs of y = 3ˣ and y = −x² + 5?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Short Answer What general type of bond is formed when two lobes of an orbital; ANSWER: PI BOND matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Energy – Multiple Choice Which of the following percentages is closest to the percent of; ANSWER: W) 10 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Biology – Short Answer Identify all of the following three macromolecules that are digested; ANSWER: 3 (ACCEPT: PROTEINS) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Physics – Short Answer An ionization chamber smoke detector uses the radiation from a; ANSWER: ALPHA (ACCEPT: ALPHA PARTICLES OR ALPHA DECAY) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Earth and Space – Short Answer From what common halide mineral is hydrofluoric acid; ANSWER: FLUORITE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Biology – Short Answer During DNA replication, what protein is responsible for negatively; ANSWER: TOPOISOMERASE (ACCEPT: DNA TOPOISOMERASE) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Math – Short Answer Identify all of the four quadrants in which cosecant is positive.; ANSWER: 1 and 2 (ACCEPT: FIRST and SECOND) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Physics – Short Answer A 100-kilogram box filled with coffee is sitting on your concrete; ANSWER: 245 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Chemistry – Multiple Choice Which of the following values, in volts, is closest to the; ANSWER: Y) 1.1 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Energy – Multiple Choice Which of the following is the International Energy Agency's; ANSWER: W) THEY SHOULD BE PHASED OUT matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Biology – Short Answer Tandem mass spectrometry is a technique that can be used to; ANSWER: ISOLEUCINE AND LEUCINE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 prints “regular n-gon” as a single hyphenated word (line wraps between n- and gon); answer n.",
+      "before": {
+        "question": "If n is an odd integer, how many lines of symmetry does a regular n- gon have?"
+      },
+      "changes": {
+        "question": "If n is an odd integer, how many lines of symmetry does a regular n-gon have?",
+        "question_sanitized": "If n is an odd integer, how many lines of symmetry does a regular n-gon have?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Chemistry – Short Answer By what process can a molecule in the singlet excited state relax; ANSWER: FLUORESCENCE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 prints e raised to −2 in the voltage-decay factor; answer is 400.",
+      "before": {
+        "question": "An RC circuit contains a 10-ohm resistor and a 20-millifarad capacitor. How long, in milliseconds, would it take for the voltage to fall by a factor of e–2?"
+      },
+      "changes": {
+        "question": "An RC circuit contains a 10-ohm resistor and a 20-millifarad capacitor. How long, in milliseconds, would it take for the voltage to fall by a factor of e<sup>−2</sup>?",
+        "question_sanitized": "An RC circuit contains a 10-ohm resistor and a 20-millifarad capacitor. How long, in milliseconds, would it take for the voltage to fall by a factor of e⁻²?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Math – Short Answer One dimension of a cube is increased by 1, another is decreased by 1,; ANSWER: 125 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Energy – Multiple Choice Lithium-ion batteries can deliver more than twice the overall; ANSWER: X) ENERGY DENSITY matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 prints Ti²⁺ and Ti³⁺; the charge numbers and plus signs are superscript, and answer is 16/9.",
+      "before": {
+        "parts": [
+          "Titanium forms a non-stoichiometric oxide where there are 1.18 oxygen atoms per titanium atom. If the oxide contains Ti2+ and Ti3+ cations, what is the ratio of the 2+ ion abundance to the 3+ ion abundance?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Titanium forms a non-stoichiometric oxide where there are 1.18 oxygen atoms per titanium atom. If the oxide contains Ti<sup>2+</sup> and Ti<sup>3+</sup> cations, what is the ratio of the 2+ ion abundance to the 3+ ion abundance?"
+        ],
+        "parts_sanitized": [
+          "Titanium forms a non-stoichiometric oxide where there are 1.18 oxygen atoms per titanium atom. If the oxide contains Ti²⁺ and Ti³⁺ cations, what is the ratio of the 2+ ion abundance to the 3+ ion abundance?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 answer accepts 1/1000 and explicitly rejects 1×10⁻³; the −3 is a superscript in the printed excluded form.",
+      "before": {
+        "answers": [
+          "0.001 (ACCEPT: 1/1000; DO NOT ACCEPT: 1x10-3)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "0.001 (ACCEPT: 1/1000; DO NOT ACCEPT: 1 × 10<sup>−3</sup>)"
+        ],
+        "answers_sanitized": [
+          "0.001 (ACCEPT: 1/1000; DO NOT ACCEPT: 1 × 10⁻³)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Earth and Space – Short Answer What is the period in years of two stars, each with a mass of; ANSWER: 32000 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Math – Multiple Choice Which of the following is nearest to 1,000,000?; ANSWER: Y) 2 TO THE 20TH POWER matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Short Answer A solution of weak acid that is 0.1 molar is 1% ionized at room; ANSWER: 5 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Energy – Short Answer Before the electricity from a transmission line reaches an end user like; ANSWER: 2 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Physics – Short Answer Matt throws a baseball horizontally from a height of 4 meters. It; ANSWER: 28 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Earth and Space – Short Answer What formation of porous sand and gravel, covering; ANSWER: OGALLALA FORMATION (ACCEPT: OGALLALA AQUIFER) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Math – Short Answer What is the image of the point (0, 0) when it is reflected across the; ANSWER: (1, –1) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Physics – Multiple Choice An oscillating system has a characteristic frequency of 10 radians; ANSWER: X) 2 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Chemistry – Multiple Choice Which of the following functional groups undergoes a reaction; ANSWER: W) ALKENE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Energy – Multiple Choice Which of the following has the greatest energy content in BTUs?; ANSWER: X) ONE CORD OF WOOD matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Earth and Space – Short Answer Identify all of the following four objects around which; ANSWER: ALL OF THEM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Biology – Short Answer A glutamate to valine mutation is well-known to be responsible for; ANSWER: SICKLE CELL ANEMIA matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Math – Short Answer Solve the following equation for x over the real numbers: 8 to the; ANSWER: –1 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Chemistry – Short Answer An SN1 reaction is performed by reacting sodium bromide with; ANSWER: 23 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Physics – Short Answer To one significant figure, how fast, in meters per second, would you; ANSWER: 30 MILLION matches the print after reviewing the complete prompt/options."
+    }
+  ],
+  "packetIssues": []
+}

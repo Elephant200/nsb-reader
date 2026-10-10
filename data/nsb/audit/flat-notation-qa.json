@@ -1,0 +1,965 @@
+{
+  "scope": "flat-notation targets with packetIndex < 75",
+  "reviewed": 87,
+  "corrected": 24,
+  "verified": 63,
+  "entries": [
+    {
+      "packetIndex": 8,
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "packetIndex": 11,
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "decision": "verified",
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "packetIndex": 12,
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "decision": "verified",
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "packetIndex": 12,
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "packetIndex": 13,
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "sourcePages": [
+        3
+      ],
+      "decision": "verified",
+      "evidence": "Source page 3 prints the uppercase hexadecimal values 3E8, BB8, and 1F4; the solution converts them to 1000, 3000, and 500, matching the corpus order and answer."
+    },
+    {
+      "packetIndex": 13,
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Source page 11 prints the protein name as P53 in the answer; the digits are part of the protein name derived from its molecular weight, not an exponent."
+    },
+    {
+      "packetIndex": 15,
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "sourcePages": [
+        12
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 12 prints the gravitational constant and answer as 6.67 × 10⁻¹¹; the corpus dropped the superscript from the constant, split the exponent in the answer, and appended it to the question. The printed solution also uses 10⁻¹¹."
+    },
+    {
+      "packetIndex": 16,
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 2 prints the inverse in two rows: 2/41, 5/41; 7/41, −3/41. The corpus had the numerator row embedded in the prompt and only detached denominators/signs in answers."
+    },
+    {
+      "packetIndex": 17,
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "PDF p.2: source prompt and answer compared; source starts “4. PHYSICS Multiple Choice The escape velocity for a”; printed answer starts “X) 11,000”."
+    },
+    {
+      "packetIndex": 17,
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 2 prints the charge as 1.6 × 10⁻¹⁹ C, the speed as 2 × 10⁵ m/s, and the answer as 6.4 × 10⁻¹⁴ N; corpus exponents were flattened into baseline text."
+    },
+    {
+      "packetIndex": 17,
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 4 prints the complex as [Co(NH₃)₄Cl₂]⁺ and retains the pronunciation aid [C-O-N-H-3-4-C-L-2-plus]; corpus left formula digits and charge on the baseline."
+    },
+    {
+      "packetIndex": 17,
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "PDF p.11: source prompt and answer compared; source starts “21. PHYSICS Multiple Choice An airplane is scheduled”; printed answer starts “X) 60 DEGREES NORTH OF EAST”."
+    },
+    {
+      "packetIndex": 18,
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "sourcePages": [
+        3
+      ],
+      "decision": "verified",
+      "evidence": "Source page 3 uses the conventional inline name carbon-12 for the isotope; the digits are part of the isotope label, and the source wording and answer match."
+    },
+    {
+      "packetIndex": 18,
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 8; wording, answer, and choices match the source."
+    },
+    {
+      "packetIndex": 19,
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 8; the source and corpus agree."
+    },
+    {
+      "packetIndex": 19,
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared the question, choices, answer, and notation with Round Robin Round 3, page 11; the source and corpus agree."
+    },
+    {
+      "packetIndex": 19,
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 6 shows the strand notation and ends the instruction with “including strand polarity in your answer”; corpus omitted the final word “answer.”"
+    },
+    {
+      "packetIndex": 21,
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 8."
+    },
+    {
+      "packetIndex": 21,
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 10 prints the ion charges as Fe²⁺, Sn⁴⁺, and P³⁻. The corpus preserved the formulas but flattened all three charge superscripts."
+    },
+    {
+      "packetIndex": 21,
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 11."
+    },
+    {
+      "packetIndex": 23,
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, options, answer, and notation with Round Robin Round 7, page 2."
+    },
+    {
+      "packetIndex": 23,
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, options, answer, and notation with Round Robin Round 7, page 8."
+    },
+    {
+      "packetIndex": 23,
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, options, answer, and notation with Round Robin Round 7, page 8."
+    },
+    {
+      "packetIndex": 24,
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 9."
+    },
+    {
+      "packetIndex": 24,
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "decision": "verified",
+      "evidence": "Compared the source question and response/options with Round Robin Round 8, page 12."
+    },
+    {
+      "packetIndex": 25,
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "sourcePages": [
+        3
+      ],
+      "decision": "verified",
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 3."
+    },
+    {
+      "packetIndex": 25,
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "sourcePages": [
+        4
+      ],
+      "decision": "verified",
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 4."
+    },
+    {
+      "packetIndex": 25,
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 10 prints the Coulomb constant as 9 × 10⁹ N·m²/C²; corpus flattened the exponent in “9 x 109”."
+    },
+    {
+      "packetIndex": 27,
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "sourcePages": [
+        1
+      ],
+      "decision": "verified",
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 1."
+    },
+    {
+      "packetIndex": 28,
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 2 prints the answer x² − 6x + 13 = 0; the corpus flattened the square exponent."
+    },
+    {
+      "packetIndex": 30,
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording and notation match."
+    },
+    {
+      "packetIndex": 30,
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "sourcePages": [
+        12
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 12 prints the rate constant as 1.7 × 10⁻³ s⁻¹; corpus flattened the exponent in “1.7 x 10-3”."
+    },
+    {
+      "packetIndex": 30,
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 6 prints 6.6 × 10⁻³⁴ J·s, 1.6 × 10⁻¹⁹ C, and answer 2.5 × 10⁻¹⁴ m; the corpus flattened these exponents."
+    },
+    {
+      "packetIndex": 30,
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "sourcePages": [
+        6
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 6 shows the implicit derivative dy/dx and the equation x³y + xy² = 6; corpus flattened both powers and garbled the derivative glyphs."
+    },
+    {
+      "packetIndex": 30,
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 8 prints powers 10⁷, 10⁻³¹, 10⁻³⁴ and options 5 × 10⁻¹¹, 5 × 10⁻¹², 2 × 10¹¹, 2 × 10¹²; corpus flattened every exponent."
+    },
+    {
+      "packetIndex": 30,
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 9 prints s₁ = 2t − t², s₂ = 2t² − 3t, and the two answers 5/6 and 1/2; corpus flattened the powers and split both fractions across the prompt and answer."
+    },
+    {
+      "packetIndex": 31,
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 1 prints option Z with base 2 as a subscript in log₂3; corpus flattened the base in both the embedded choice and options array."
+    },
+    {
+      "packetIndex": 31,
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 1 prints y = x² in the rotation prompt; corpus flattened the exponent in “y = x2”."
+    },
+    {
+      "packetIndex": 31,
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "sourcePages": [
+        5
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 5 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "packetIndex": 31,
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 5 prints ε₀ = 9 × 10⁻¹² and choices/answer with exponents −7, −9, −11, and −13; corpus flattened all powers."
+    },
+    {
+      "packetIndex": 36,
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 9; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "packetIndex": 36,
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "sourcePages": [
+        12
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "packetIndex": 37,
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "packetIndex": 39,
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 2 shows the division as (x³ − 8)/(x − 2) and the answer as x² + 2x + 4; corpus text extraction lost the fraction layout and flattened both powers."
+    },
+    {
+      "packetIndex": 39,
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 6 prints x² + 5x + 4 ≥ 0; corpus had the same expression but flattened the exponent."
+    },
+    {
+      "packetIndex": 39,
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "sourcePages": [
+        13
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 13; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "packetIndex": 40,
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 9 prints x² − 10x + 34 = 0; corpus flattened the exponent in the quadratic."
+    },
+    {
+      "packetIndex": 40,
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 11 prints the response as 6 × 10¹⁴; corpus flattened the answer exponent."
+    },
+    {
+      "packetIndex": 41,
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 9 shows W as 30, 6, 6/5…, X as a², a³b, a⁴b²…, Y as 6, 13, 20…, and Z as 3/2, 3/4, 3/8…. The corpus interleaved stacked fractions and flattened powers."
+    },
+    {
+      "packetIndex": 41,
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 5 prints the answer and solution result as 4.8 × 10⁻⁴ J and the intermediate charge as 60 × 10⁻⁶ C; corpus flattened powers in its answer and solution note."
+    },
+    {
+      "packetIndex": 41,
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 9 prints (x⁻² + y)(x² − y⁻²) and answer 1 − 1/(x²y²) + x²y − 1/y; the corpus flattened powers and the stacked fractions."
+    },
+    {
+      "packetIndex": 42,
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "sourcePages": [
+        5
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 5; visually checked notation and compared the complete record."
+    },
+    {
+      "packetIndex": 42,
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "corrected",
+      "evidence": "Rendered source page 11 prints iron(III) nitrite as Fe(NO₂)₃; the corpus retained the formula digits on the baseline."
+    },
+    {
+      "packetIndex": 42,
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 9; visually checked notation and compared the complete record."
+    },
+    {
+      "packetIndex": 43,
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "packetIndex": 43,
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "packetIndex": 43,
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "sourcePages": [
+        12
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 12; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "packetIndex": 44,
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 10; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "packetIndex": 44,
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "sourcePages": [
+        12
+      ],
+      "decision": "verified",
+      "evidence": "Rendered PDF page 12; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "packetIndex": 45,
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 2; the corpus record agrees."
+    },
+    {
+      "packetIndex": 47,
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "sourcePages": [
+        10
+      ],
+      "decision": "verified",
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "packetIndex": 47,
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "packetIndex": 56,
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "decision": "verified",
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 6 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "packetIndex": 56,
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "sourcePages": [
+        8
+      ],
+      "decision": "verified",
+      "evidence": "Compared this complete question and its answer, options, notes, and printed notation against page 8 of packet 056; the source agrees with the corpus."
+    },
+    {
+      "packetIndex": 59,
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 11 of packet 059; source agrees with the corpus."
+    },
+    {
+      "packetIndex": 61,
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "sourcePages": [
+        3
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 63,
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "sourcePages": [
+        1
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged item with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 63,
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged item with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 64,
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 64,
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 64,
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 64,
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 65,
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "sourcePages": [
+        10
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 66,
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Source page 2 prints TEX86 as the paleothermometer name in baseline text, and the answer CRENARCHAEOTA with its pronunciation aid matches the source."
+    },
+    {
+      "packetIndex": 66,
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Source page 2 prints TEX86 in baseline type in the paleothermometer name and shows tetraethers as the answer; both match the corpus."
+    },
+    {
+      "packetIndex": 67,
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 67,
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "packetIndex": 67,
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Source page 9 prints E85 inline as the fuel blend name in the question and W choice; it is not a mathematical power, and the text matches the corpus."
+    },
+    {
+      "packetIndex": 69,
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Source page 2 prints M33 and NGC 598 as galaxy catalogue designations; these digits remain inline, and the answer Triangulum Galaxy matches."
+    },
+    {
+      "packetIndex": 69,
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 4; wording and content match."
+    },
+    {
+      "packetIndex": 69,
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "sourcePages": [
+        3
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 069 source PDF page 3; wording and content match."
+    },
+    {
+      "packetIndex": 71,
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 2; wording and content match."
+    },
+    {
+      "packetIndex": 71,
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 9; wording and content match."
+    },
+    {
+      "packetIndex": 71,
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "sourcePages": [
+        11
+      ],
+      "decision": "verified",
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 11; wording and content match."
+    },
+    {
+      "packetIndex": 73,
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, embedded choices when present, and answer with source PDF page 9; matches source."
+    },
+    {
+      "packetIndex": 74,
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "sourcePages": [
+        7
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, embedded choices when present, and answer with source PDF page 7; matches source."
+    },
+    {
+      "packetIndex": 74,
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "sourcePages": [
+        12
+      ],
+      "decision": "verified",
+      "evidence": "Compared wording, embedded choices when present, and answer with source PDF page 12; matches source."
+    }
+  ]
+}

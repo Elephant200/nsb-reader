@@ -1,0 +1,452 @@
+{
+  "packetIndex": 249,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-7.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed 2022-HS-7 p.1: the toss-up asks for the basin formed by collapse of a magma chamber and prints CALDERA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: the protist question includes Apicomplexa, Amoebozoa, Porifera, and Ciliata; printed key is X) AMOEBOZOA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: the two side lengths are 8 and 17; printed key for largest possible triangle area is 68."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: the quantities are energy, momentum, and impulse in kg·m/s; printed answer is 2, 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: the sex-chromosome aneuploidy choices include Turner syndrome; printed key is Z) TURNER SYNDROME."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: arene question prints the pronunciation cue for arene and Cyclohexane and 1,3-butadiene choices; key is Z) BENZENE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: marine-water light-color choices are Red, Yellow, Blue, Violet; printed key is W) RED."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: baryon choices are W) 1, X) 2, Y) 3, Z) 4; printed key is Y) 3. The source options are ordinary integers, not fractions.",
+      "before": {
+        "question": "Scientists at SLAC National Accelerator Laboratory are studying tetraquark particles, which have four constituent quarks. How many constituent quarks does a baryon have?<br>W) 1<br>X) <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span><br>Y) <br>Z) 4",
+        "options": [
+          "W) 1",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span>",
+          "Y) ",
+          "Z) 4"
+        ]
+      },
+      "changes": {
+        "question": "Scientists at SLAC National Accelerator Laboratory are studying tetraquark particles, which have four constituent quarks. How many constituent quarks does a baryon have?<br>W) 1<br>X) 2<br>Y) 3<br>Z) 4",
+        "options": [
+          "W) 1",
+          "X) 2",
+          "Y) 3",
+          "Z) 4"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: the cubic-polynomial choices print W) −1, X) 0, Y) 1, Z) 2; key is Y) 1. The source has integer choices, not fractions.",
+      "before": {
+        "question": "Consider a cubic polynomial whose coefficients sum to zero. Which of the following must be a zero of this polynomial?<br>W) –1<br>X) <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;1</span></span><br>Y) <br>Z) 2",
+        "options": [
+          "W) –1",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;1</span></span>",
+          "Y) ",
+          "Z) 2"
+        ]
+      },
+      "changes": {
+        "question": "Consider a cubic polynomial whose coefficients sum to zero. Which of the following must be a zero of this polynomial?<br>W) –1<br>X) 0<br>Y) 1<br>Z) 2",
+        "options": [
+          "W) –1",
+          "X) 0",
+          "Y) 1",
+          "Z) 2"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: refraction asks which wave property changes at a new medium; all four choices and the [polar-eye-ZAY-shun] cue are present, key W) SPEED."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: the body-plane choices are Sagittal, Transverse, Frontal, and Coronal; the printed key is W) SAGITTAL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: the covalent-bond question asks for the adjective when both electrons come from one atom; key is DATIVE with COORDINATE accepted."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: the thymine/adenine question prints the cue across a line break as [AD- / eh-neen]; joined cue is [AD-eh-neen], with key 2 hydrogen bonds.",
+      "before": {
+        "question": "Researchers at Brookhaven National Lab are using DNA origami. In DNA origami, how many hydrogen bonds are formed between thymine [THIGH-meen] and adenine [AD- eh-neen]?"
+      },
+      "changes": {
+        "question": "Researchers at Brookhaven National Lab are using DNA origami. In DNA origami, how many hydrogen bonds are formed between thymine [THIGH-meen] and adenine [AD-eh-neen]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: Platonic-solid choices print W) 4, X) 8, Y) 12, Z) 16; key Z) 16. The source choices are integers, not fractions.",
+      "before": {
+        "question": "Which of the following cannot be the number of vertices of a Platonic solid?<br>W) 4<br>X) <span class=\"nsb-fraction\">&lt;span&gt;8</span>&lt;span&gt;12</span></span><br>Y) <br>Z) 16",
+        "options": [
+          "W) 4",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;8</span>&lt;span&gt;12</span></span>",
+          "Y) ",
+          "Z) 16"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following cannot be the number of vertices of a Platonic solid?<br>W) 4<br>X) 8<br>Y) 12<br>Z) 16",
+        "options": [
+          "W) 4",
+          "X) 8",
+          "Y) 12",
+          "Z) 16"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: the sound-intensity question asks for the power of distance and prints NEGATIVE TWO."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: thermoset choice Z describes a single, highly cross-linked molecule; the printed key repeats that full choice."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: the compositional layer with the steepest geothermal gradient is keyed CRUST; the source explicitly says not to accept LITHOSPHERE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: the detector mass is 592 kilograms of heavy water, with a three-significant-figure prompt; printed answer is 29,600 moles."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: the cube dimensions change by +4, −4, and 0 and volume falls by 96; printed original volume is 216."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: the exoplanet has four times Earth’s diameter at equal surface gravity; printed mass ratio is 16 (accept 16 to 1)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: genetic-equilibrium statements are drift decreases with larger population, random mating, and changing allele frequencies; key is 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: nucleophile list is hydroxide, cyanide, ammonia; printed answer is ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: passive-margin options include convergent, divergent, transform, and plate interior; key is Z) AT THE PLATE INTERIOR."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: the pressure question prints the scale choices 1 hundred, 1 thousand, 1 million, and 1 billion; the printed key is Y) 1 MILLION.",
+      "before": {
+        "parts": [
+          "Oak Ridge National Lab scientists are using the Spallation Neutrons and Pressure Diffractometer to collect diffraction data under pressure conditions as high as 120 gigapascals. Which of the following is closest to the number of atmospheres that these pressures are equivalent to?<br>W) 1 hundred<br>X) thousand <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;1</span></span><br>Y) million<br>Z) 1 billion"
+        ],
+        "options": [
+          "W) 1 hundred",
+          "X) thousand <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;1</span></span>",
+          "Y) million",
+          "Z) 1 billion"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Oak Ridge National Lab scientists are using the Spallation Neutrons and Pressure Diffractometer to collect diffraction data under pressure conditions as high as 120 gigapascals. Which of the following is closest to the number of atmospheres that these pressures are equivalent to?<br>W) 1 hundred<br>X) 1 thousand<br>Y) 1 million<br>Z) 1 billion"
+        ],
+        "options": [
+          "W) 1 hundred",
+          "X) 1 thousand",
+          "Y) 1 million",
+          "Z) 1 billion"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: the vertex prompt prints y = −3x² − 24x − 23 and the key (−4, 25), accepting x = −4 and y = 25.",
+      "before": {
+        "parts": [
+          "What are the coordinates of the vertex of the graph of y = –3x 2 – 24x – 23?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the coordinates of the vertex of the graph of y = –3x<sup>2</sup> – 24x – 23?"
+        ],
+        "parts_sanitized": [
+          "What are the coordinates of the vertex of the graph of y = –3x^2 – 24x – 23?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: spring-mass and small-angle pendulum are the listed ideal simple-harmonic systems; freefall is the third item; key is 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: all four aquatic ecosystem choices and pronunciation cues [bath-ih-pah-LAJ-ik] and [AW-lig-oh-troh-fik] appear; printed key is Z) AN OLIGOTROPHIC LAKE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: the lyotropic liquid-crystal prompt includes the [lye-ah-tropic] cue and describes hydrophobic tails inward, hydrophilic heads outward; key is MICELLES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13: first-quarter-moon choices are Midnight, Sunrise, Noon, Sunset; printed key is Y) NOON."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: magnetic-polarization cue breaks after the printed hyphen at a line wrap, [polar-eye-ZAY- / shun]; the joined cue is [polar-eye-ZAY-shun]. Printed key is DYNAMO THEORY with GEODYNAMIC MAGNETISM and DYNAMO EFFECT accepted.",
+      "before": {
+        "parts": [
+          "Scientists at Lawrence Berkeley National Lab are studying magnetic polarization [polar-eye-ZAY- shun] in protoplanets. They hypothesize that the polarization occurred due to an external magnetic field produced by a rotating protoplanetary core. What theory describes this mechanism of magnetic field generation?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Scientists at Lawrence Berkeley National Lab are studying magnetic polarization [polar-eye-ZAY-shun] in protoplanets. They hypothesize that the polarization occurred due to an external magnetic field produced by a rotating protoplanetary core. What theory describes this mechanism of magnetic field generation?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: the triangle side lengths are 5, 7, and 8; printed cosine answer for the smallest angle is 11/14."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: the interfaces are Teflon–teflon, ice–ice, and steel–steel; printed increasing-friction order is 1, 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: the purple, nectarless, irregular flower question has Butterfly, Bee, Bat, and Flesh fly choices; printed key is Z) FLESH FLY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: the elements ranked are Cesium, Barium, and Sodium; printed increasing atomic-radius order is 3, 2, 1."
+    }
+  ],
+  "packetIssues": []
+}

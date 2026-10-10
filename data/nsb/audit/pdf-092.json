@@ -1,0 +1,652 @@
+{
+  "packetIndex": 92,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 1 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 2 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 shows exponents −8, 8, and 16 in the question and options; the captured text flattened them.",
+      "before": {
+        "question": "The electron transitions responsible for the generation of light have durations on the order of 10-8 seconds. Which of the following best represents the natural linewidth in hertz of the resulting visible light?<br>W) 10-8<br>X) 3<br>Y) 108<br>Z) 1016",
+        "options": [
+          "W) 10-8",
+          "X) 3",
+          "Y) 108",
+          "Z) 1016"
+        ],
+        "answer": "Y) 108"
+      },
+      "changes": {
+        "question": "The electron transitions responsible for the generation of light have durations on the order of 10<sup>-8</sup> seconds. Which of the following best represents the natural linewidth in hertz of the resulting visible light?<br>W) 10<sup>-8</sup><br>X) 3<br>Y) 10<sup>8</sup><br>Z) 10<sup>16</sup>",
+        "question_sanitized": "The electron transitions responsible for the generation of light have durations on the order of 10^-8 seconds. Which of the following best represents the natural linewidth in hertz of the resulting visible light?\nW) 10^-8\nX) 3\nY) 10^8\nZ) 10^16",
+        "options": [
+          "W) 10<sup>-8</sup>",
+          "X) 3",
+          "Y) 10<sup>8</sup>",
+          "Z) 10<sup>16</sup>"
+        ],
+        "answer": "Y) 10<sup>8</sup>",
+        "answer_sanitized": "Y) 10^8"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the expression sin 24º cos 17º + cos 24º sin 17º and its verbal read-as cue; added spacing makes the four factors legible.",
+      "before": {
+        "question": "Which of the following is equivalent to sin24ºcos17º + cos24ºsin17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7º<br>X) Cosine of 41º<br>Y) Sine of 41º<br>Z) Tangent of 41º"
+      },
+      "changes": {
+        "question": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7º<br>X) Cosine of 41º<br>Y) Sine of 41º<br>Z) Tangent of 41º",
+        "question_sanitized": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?\nW) Sine of 7º\nX) Cosine of 41º\nY) Sine of 41º\nZ) Tangent of 41º"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 shows A(g) + B(s) → C(s) and identifies the glyph as yields; replaced the corrupted arrow glyph while retaining the source read-as and answer note.",
+      "before": {
+        "question": "Which of the following is false regarding the reaction A (g) + B (s)  C (s) ? (READ IS: A gaseous plus B solid yields C solid)<br>W) As pressure decreases, reaction rate decreases<br>X) As temperature increases, reaction rate increases<br>Y) As surface area increases, reaction rate decreases<br>Z) When a catalyst is added, reaction rate increases",
+        "answer": "Y) AS SURFACE AREA INCREASES, REACTION RATE DECREASES [NOTE:  = YIELDS; (G) = GASEOUS; (S) = SOLID]"
+      },
+      "changes": {
+        "question": "Which of the following is false regarding the reaction A (g) + B (s) → C (s)? (READ IS: A gaseous plus B solid yields C solid)<br>W) As pressure decreases, reaction rate decreases<br>X) As temperature increases, reaction rate increases<br>Y) As surface area increases, reaction rate decreases<br>Z) When a catalyst is added, reaction rate increases",
+        "answer": "Y) AS SURFACE AREA INCREASES, REACTION RATE DECREASES [NOTE: → = YIELDS; (G) = GASEOUS; (S) = SOLID]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered toss-up 6 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered source page 4 prints NAD⁺ with the plus raised; the data had the plus on the baseline.",
+      "before": {
+        "question": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD+."
+      },
+      "changes": {
+        "question": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD<sup>+</sup>.",
+        "question_sanitized": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD+."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 9 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 10 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 11 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 13 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 14 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 15 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 16 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 17 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 18 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 19 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 21 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 shows AC = 3√3 and choices 6√3, 9√3, and 12√3; these values were missing or truncated in the captured question.",
+      "before": {
+        "question": "Given triangle ABC with right angle A, angle B with a measure of 30o, and AC equal to , which of the following is the length of side AB?<br>W) 9<br>X) 6<br>Y) 9<br>Z) 12",
+        "options": [
+          "W) 9",
+          "X) 6",
+          "Y) 9",
+          "Z) 12"
+        ]
+      },
+      "changes": {
+        "question": "Given triangle ABC with right angle A, angle B with a measure of 30°, and AC equal to 3√3, which of the following is the length of side AB?<br>W) 9<br>X) 6√3<br>Y) 9√3<br>Z) 12√3",
+        "question_sanitized": "Given triangle ABC with right angle A, angle B with a measure of 30°, and AC equal to 3√3, which of the following is the length of side AB?\nW) 9\nX) 6√3\nY) 9√3\nZ) 12√3",
+        "options": [
+          "W) 9",
+          "X) 6√3",
+          "Y) 9√3",
+          "Z) 12√3"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 23 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered toss-up 25 section on source page 13, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered bonus 1 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered bonus 2 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 3 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 shows 5 + √(x + 14) = x + 7; the captured equation omitted the radical expression.",
+      "before": {
+        "parts": [
+          "Solve for x: 5 + = x + 7 [5 plus the square root of the quantity x plus 14 equals x plus 7]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve for x: 5 + √(x + 14) = x + 7 [5 plus the square root of the quantity x plus 14 equals x plus 7]."
+        ],
+        "parts_sanitized": [
+          "Solve for x: 5 + sqrt(x + 14) = x + 7 [5 plus the square root of the quantity x plus 14 equals x plus 7]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 gives the change in energy as +3/4 Rydberg; represented the answer with explicit fraction structure.",
+      "before": {
+        "answers": [
+          "+3/4"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "+<span class=\"nsb-fraction\"><span>3</span><span>4</span></span>"
+        ],
+        "answers_sanitized": [
+          "+3/4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered bonus 6 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 7 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 9 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 shows e raised to x; the captured function flattened x to baseline.",
+      "before": {
+        "parts": [
+          "If f(x) = -2x - ex [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) = -2x - e<sup>x</sup> [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
+        ],
+        "parts_sanitized": [
+          "If f(x) = -2x - e^x [f of x equals negative 2x minus e to the x], what is the range of f’ [the derivative of f]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 shows superscript hybridization counts across every choice and the answer; the captured fields flattened all powers.",
+      "before": {
+        "parts": [
+          "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?<br>W) Krypton: sp3; each fluorine: sp3<br>X) Krypton: sp3d; each fluorine: sp3<br>Y) Krypton: sp3d2; each fluorine: sp2<br>Z) Krypton: sp3d; each fluorine: sp2"
+        ],
+        "options": [
+          "W) Krypton: sp3; each fluorine: sp3",
+          "X) Krypton: sp3d; each fluorine: sp3",
+          "Y) Krypton: sp3d2; each fluorine: sp2",
+          "Z) Krypton: sp3d; each fluorine: sp2"
+        ],
+        "answers": [
+          "X) KRYPTON: sp3d; EACH FLUORINE: sp3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?<br>W) Krypton: sp<sup>3</sup>; each fluorine: sp<sup>3</sup><br>X) Krypton: sp<sup>3</sup>d; each fluorine: sp<sup>3</sup><br>Y) Krypton: sp<sup>3</sup>d<sup>2</sup>; each fluorine: sp<sup>2</sup><br>Z) Krypton: sp<sup>3</sup>d; each fluorine: sp<sup>2</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following accurately depicts the hybridization [HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?\nW) Krypton: sp^3; each fluorine: sp^3\nX) Krypton: sp^3d; each fluorine: sp^3\nY) Krypton: sp^3d^2; each fluorine: sp^2\nZ) Krypton: sp^3d; each fluorine: sp^2"
+        ],
+        "options": [
+          "W) Krypton: sp<sup>3</sup>; each fluorine: sp<sup>3</sup>",
+          "X) Krypton: sp<sup>3</sup>d; each fluorine: sp<sup>3</sup>",
+          "Y) Krypton: sp<sup>3</sup>d<sup>2</sup>; each fluorine: sp<sup>2</sup>",
+          "Z) Krypton: sp<sup>3</sup>d; each fluorine: sp<sup>2</sup>"
+        ],
+        "answers": [
+          "X) KRYPTON: sp<sup>3</sup>d; EACH FLUORINE: sp<sup>3</sup>"
+        ],
+        "answers_sanitized": [
+          "X) KRYPTON: sp^3d; EACH FLUORINE: sp^3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered bonus 12 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 13 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 15 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 16 section on source page 8; the source answer 4000π/3 matches the captured answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 shows Kₐ, pKₐ, and 6.4 × 10⁻⁵; the captured text separated both subscripts and flattened the exponent.",
+      "before": {
+        "parts": [
+          "Given that the K a of benzoic acid is 6.4 x 10-5 and its pK a is 4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar benzoic acid and 0.10 molar sodium benzoate?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that the K<sub>a</sub> of benzoic acid is 6.4 × 10<sup>-5</sup> and its pK<sub>a</sub> is 4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar benzoic acid and 0.10 molar sodium benzoate?"
+        ],
+        "parts_sanitized": [
+          "Given that the Ka of benzoic acid is 6.4 x 10^-5 and its pKa is 4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar benzoic acid and 0.10 molar sodium benzoate?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 18 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 19 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 20 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered bonus 21 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 shows x² and y² in the circle equation; the captured prompt flattened both powers.",
+      "before": {
+        "parts": [
+          "What are the radius and the coordinates of the center of the circle with equation x2 + 6x + y2 + 8y = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the radius and the coordinates of the center of the circle with equation x<sup>2</sup> + 6x + y<sup>2</sup> + 8y = 0?"
+        ],
+        "parts_sanitized": [
+          "What are the radius and the coordinates of the center of the circle with equation x^2 + 6x + y^2 + 8y = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 prints Sₙ1 with N as a subscript; normalized the malformed spaced notation.",
+      "before": {
+        "parts": [
+          "Which of the following would be most likely to undergo an S N 1, reaction?<br>W) Methyl bromide<br>X) 2-propyl bromide<br>Y) Isopropyl chloride<br>Z) Tert-butyl chloride"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following would be most likely to undergo an S<sub>N</sub>1 reaction?<br>W) Methyl bromide<br>X) 2-propyl bromide<br>Y) Isopropyl chloride<br>Z) Tert-butyl chloride"
+        ],
+        "parts_sanitized": [
+          "Which of the following would be most likely to undergo an SN1 reaction?\nW) Methyl bromide\nX) 2-propyl bromide\nY) Isopropyl chloride\nZ) Tert-butyl chloride"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 24 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 shows “silicon-oxygen tetrahedron” as one hyphenated term; removed the extraction-inserted space.",
+      "before": {
+        "parts": [
+          "The basic building block of the silicates, the silicon- oxygen tetrahedron, carries what overall charge?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The basic building block of the silicates, the silicon-oxygen tetrahedron, carries what overall charge?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

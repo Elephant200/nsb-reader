@@ -1,0 +1,462 @@
+{
+  "packetIndex": 161,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/14A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Energy – Short Answer What energy use comprises the greatest percentage of energy used in; ANSWER: HEATING matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Physics – Short Answer Identify all of the following four elements that are most commonly; ANSWER: 1, 3 (ACCEPT: SILICON AND GERMANIUM) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Biology – Multiple Choice Which of the following provides the best example of a situation in; ANSWER: Y) IN A SMALL POPULATION OF PLANTS WITH PURPLE FLOWERS, THREE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Math – Multiple Choice Let f(x) be a polynomial function with real coefficients and at least; ANSWER: W) f(x) HAS AN EVEN NUMBER OF NON-REAL COMPLEX ROOTS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Chemistry – Short Answer Molten cryolite is used in what industrial process?; ANSWER: HALL-HEROULT PROCESS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Physics – Short Answer What force carrying particle holds quarks together inside of hadrons?; ANSWER: GLUONS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 shows powers in W and Z as superscripts; X and Y remain as printed, with the full four choices and answer X retained.",
+      "before": {
+        "question": "Which of the following equations does NOT include the half-line y = x, where x and y are positive, in its solution set?<br>W) xy = yx<br>X) cosine of the product xy equals sine of the product xy<br>Y) x natural log of y = y natural log of x<br>Z) 2x + 3y = 2y + 3x",
+        "options": [
+          "W) xy = yx",
+          "X) cosine of the product xy equals sine of the product xy",
+          "Y) x natural log of y = y natural log of x",
+          "Z) 2x + 3y = 2y + 3x"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following equations does NOT include the half-line y = x, where x and y are positive, in its solution set?<br>W) x<sup>y</sup> = y<sup>x</sup><br>X) cosine of the product xy equals sine of the product xy<br>Y) x natural log of y = y natural log of x<br>Z) 2<sup>x</sup> + 3<sup>y</sup> = 2<sup>y</sup> + 3<sup>x</sup>",
+        "question_sanitized": "Which of the following equations does NOT include the half-line y = x, where x and y are positive, in its solution set? W) xʸ = yˣ X) cosine of the product xy equals sine of the product xy Y) x natural log of y = y natural log of x Z) 2ˣ + 3ʸ = 2ʸ + 3ˣ",
+        "options": [
+          "W) x<sup>y</sup> = y<sup>x</sup>",
+          "X) cosine of the product xy equals sine of the product xy",
+          "Y) x natural log of y = y natural log of x",
+          "Z) 2<sup>x</sup> + 3<sup>y</sup> = 2<sup>y</sup> + 3<sup>x</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Chemistry – Short Answer Order the following three ions from smallest to largest in terms of; ANSWER: 3, 1, 2 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Energy – Multiple Choice Which of the following policies allows users with renewable; ANSWER: Y) NET METERING AGREEMENT matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Math – Multiple Choice Given two sets A and B with A union B containing exactly 3; ANSWER: Z) EACH SET CONTAINS AT MOST 3 ELEMENTS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Biology – Short Answer What plant-signaling molecule, similar in structure to aspirin, is; ANSWER: METHYLSALICYLIC ACID (ACCEPT: METHYL SALICYLATE, WINTERGREEN matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Physics – Short Answer What dimensionless quantity is usually defined as the useful output; ANSWER: EFFICIENCY matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Chemistry – Short Answer What is the name for the change in rate of reaction when one of; ANSWER: KINETIC ISOTOPE EFFECT matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Earth and Space – Multiple Choice Which of the following gases varies the most by volume; ANSWER: Y) WATER VAPOR matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Energy – Multiple Choice Which of the following is the best estimate of the percent of; ANSWER: W) 1 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Chemistry – Short Answer Identify all of the following three statements that are ALWAYS; ANSWER: 2 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Physics – Short Answer In the field of electrostatics, integrals of electric field over a closed; ANSWER: GAUSSIAN SURFACE (ACCEPT: GAUSSIAN) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Math – Short Answer What is the log base 3 of 729?; ANSWER: 6 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Physics – Multiple Choice Which of the following quarks does NOT have negative charge?; ANSWER: W) CHARM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Earth and Space – Multiple Choice Which of the following rock types would be most; ANSWER: Z) BASALT matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Energy – Short Answer Uranium-235 and plutonium-239 can be used as fuel in a reactor; ANSWER: FERTILE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Physics – Multiple Choice Which of the following particles does NOT correspond to one of; ANSWER: Z) LITHIUM NUCLEUS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Biology – Short Answer Phosphofructokinase [faws-fo-frook-tow-KYE-nase] catalyzes the; ANSWER: FRUCTOSE-1,6-BISPHOSPHATE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Math – Short Answer A square has sides of length 10 centimeters. In square centimeters, what; ANSWER: 25π matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Chemistry – Short Answer In VSEPR theory, what is the angle, in degrees, between adjacent; ANSWER: 90 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Earth and Space – Short Answer What is the right ascension, to the nearest hour, of the Sun on; ANSWER: 6 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Physics – Short Answer You're standing at home plate on a baseball diamond. From 20 meters; ANSWER: +4.5 (ACCEPT: 4.5; DO NOT ACCEPT: -4.5) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Math – Short Answer A national achievement test is administered. The test has a mean score; ANSWER: 87 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Chemistry – Short Answer What is the general term for the type of catalyst one would use; ANSWER: PHASE-TRANSFER CATALYST matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 shows y = x³ between x = 0 and x = 1; the 3 is superscript and answer is 13/4.",
+      "before": {
+        "parts": [
+          "What is the area between the curves y = x + 3 and y = x3 between x = 0 and x = 1?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the area between the curves y = x + 3 and y = x<sup>3</sup> between x = 0 and x = 1?"
+        ],
+        "parts_sanitized": [
+          "What is the area between the curves y = x + 3 and y = x³ between x = 0 and x = 1?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Biology – Multiple Choice The phase of the Plasmodium life cycle in which it lives in the; ANSWER: W) SPOROZOITE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Physics – Multiple Choice By what factor is the intensity of a sound wave multiplied when; ANSWER: W) 1/16 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 formula is H₂SeO₃ with 2 and 3 subscript; both pronunciation cues and full prompt are retained.",
+      "before": {
+        "parts": [
+          "Selenous acid is a weak diprotic acid with formula H2SeO3. Its first pKa value is 2.5 and its second is 7.3. To one decimal place, what is the pH of a 1 molar solution of sodium hydroselenite [high-droh-SELL-en-ite], the amphiprotic [amfih-PRO-tik] salt of selenous acid?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Selenous acid is a weak diprotic acid with formula H<sub>2</sub>SeO<sub>3</sub>. Its first pKa value is 2.5 and its second is 7.3. To one decimal place, what is the pH of a 1 molar solution of sodium hydroselenite [high-droh-SELL-en-ite], the amphiprotic [amfih-PRO-tik] salt of selenous acid?"
+        ],
+        "parts_sanitized": [
+          "Selenous acid is a weak diprotic acid with formula H₂SeO₃. Its first pKa value is 2.5 and its second is 7.3. To one decimal place, what is the pH of a 1 molar solution of sodium hydroselenite [high-droh-SELL-en-ite], the amphiprotic [amfih-PRO-tik] salt of selenous acid?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Earth and Space – Short Answer Given that the global average precipitation is 1000; ANSWER: 9 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 answer line gives the order 1, 4, 3, 2, with a comma after 3; accepted locations appear in that exact order.",
+      "before": {
+        "answers": [
+          "1, 4, 3 2 (ACCEPT: JUPITER'S EQUATOR; EARTH'S TROPIC OF CANCER; EARTH'S NORTH POLE; JUPITER'S NORTH POLE)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1, 4, 3, 2 (ACCEPT: JUPITER'S EQUATOR; EARTH'S TROPIC OF CANCER; EARTH'S NORTH POLE; JUPITER'S NORTH POLE)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Energy – Short Answer Nearly all residential electricity in the United States is supplied at; ANSWER: 120, 60 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Chemistry – Short Answer In organic synthesis, what metal is added to alkyl halides to; ANSWER: MAGNESIUM (ACCEPT: Mg) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Physics – Short Answer What instrument is designed to measure the presence, direction, and; ANSWER: GALVANOMETER (DO NOT ACCEPT: AMMETER) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Math – Short Answer A restaurant’s 4 dollar box allows you to pick any 2 of 4 possible; ANSWER: 120 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Physics – Multiple Choice Which of the following processes imposes the restriction that the; ANSWER: X) CONSTANT VOLUME matches the print after reviewing the complete prompt/options."
+    }
+  ],
+  "packetIssues": []
+}

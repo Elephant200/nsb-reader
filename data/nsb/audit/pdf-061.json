@@ -1,0 +1,609 @@
+{
+  "packetIndex": 61,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round12.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared original PDF page 5 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "question": "The standard heat of formation of calcium oxide is –635.5 kilojoules per mole. What is the complete, balanced equation for the formation of calcium oxide, including the energy value?",
+        "answer": "Ca + ½ O à CaO + 635.5 kJ (read as: Ca solid plus one half O<sub>2</sub> gas yields (s) 2(g) (S) CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca + O à 2CaO + 1271 kJ (s) (2)(g) (s) (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
+      },
+      "changes": {
+        "question": "The standard heat of formation of calcium oxide is −635.5 kilojoules per mole. What is the complete, balanced equation for the formation of calcium oxide, including the energy value?",
+        "answer": "Ca(s) + ½ O<sub>2</sub>(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O<sub>2</sub>(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)",
+        "answer_sanitized": "Ca(s) + ½ O_2(g) → CaO(s) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O_2(g) → 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared original PDF page 7 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "question": "Express the complex number i in standard a + bi form equivalent."
+      },
+      "changes": {
+        "question": "Express the complex number i<sup>8</sup> in standard a + bi form equivalent.",
+        "question_sanitized": "Express the complex number i^8 in standard a + bi form equivalent."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Root compared PDF text on page 7: Freddy's uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "question": "Monster Ralph and Monster Hilda get married and hatch Friendly Freddy, their son. Freddy has purple and red striped hair and four eyes: 2 green and 2 gray. Freddy&amp;apos;s hair and eye color are his:<br>W) Phenotype<br>X) Genotype<br>Y) Alleles (read as: ah-LEELS)<br>Z) Genes"
+      },
+      "changes": {
+        "question": "Monster Ralph and Monster Hilda get married and hatch Friendly Freddy, their son. Freddy has purple and red striped hair and four eyes: 2 green and 2 gray. Freddy's hair and eye color are his:<br>W) Phenotype<br>X) Genotype<br>Y) Alleles (read as: ah-LEELS)<br>Z) Genes"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared original PDF page 9 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "answer": "Ba<sub>3</sub> (PO<sub>4</sub> )<sub>2</sub> AND H<sub>2</sub> O"
+      },
+      "changes": {
+        "answer": "Ba<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> AND H<sub>2</sub>O"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared original PDF page 10 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "question": "Which law of thermodynamics could be stated as: energy tends to distribute itself among the greatest number of particles possible? ND"
+      },
+      "changes": {
+        "question": "Which law of thermodynamics could be stated as: energy tends to distribute itself among the greatest number of particles possible?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared original PDF page 12 visually with the corpus; restored omitted notation or answer content. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Which of the following intervals contains both solutions of x - 3x = 0?<br>W) 0 less than x less than 2<br>X) 0 less than x less than 4<br>Y) 0 less than or equal to x less than 4<br>Z) -3 less than x less than or equal to 2",
+        "options": [
+          "W) 0 less than x less than 2",
+          "X) 0 less than x less than 4",
+          "Y) 0 less than or equal to x less than 4",
+          "Z) -3 less than x less than or equal to 2"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following intervals contains both solutions of x<sup>2</sup> − 3x = 0?<br>W) 0 less than x less than 2<br>X) 0 less than x less than 4<br>Y) 0 less than or equal to x less than 4<br>Z) −3 less than x less than or equal to 2",
+        "question_sanitized": "Which of the following intervals contains both solutions of x^2 − 3x = 0?; W) 0 less than x less than 2; X) 0 less than x less than 4; Y) 0 less than or equal to x less than 4; Z) −3 less than x less than or equal to 2",
+        "options": [
+          "W) 0 less than x less than 2",
+          "X) 0 less than x less than 4",
+          "Y) 0 less than or equal to x less than 4",
+          "Z) −3 less than x less than or equal to 2"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged record with original PDF page 13; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared original PDF page 1 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "parts": [
+          "Factor the following expression completely over the integers:"
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Factor the following expression completely over the integers: 16a<sup>4</sup> − 81b<sup>4</sup>"
+        ],
+        "parts_sanitized": [
+          "Factor the following expression completely over the integers: 16a^4 − 81b^4"
+        ],
+        "answers": [
+          "(4a<sup>2</sup> + 9b<sup>2</sup>)(2a + 3b)(2a − 3b)"
+        ],
+        "answers_sanitized": [
+          "(4a^2 + 9b^2)(2a + 3b)(2a − 3b)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared original PDF page 2 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "parts": [
+          "What are the first three terms of the Taylor series for e at 0? 2 2"
+        ],
+        "answers": [
+          "1, x, x /2 (ACCEPT: 1, x/1!, x /2!)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the first three terms of the Taylor series for e<sup>x</sup> at 0?"
+        ],
+        "parts_sanitized": [
+          "What are the first three terms of the Taylor series for e^(x) at 0?"
+        ],
+        "answers": [
+          "1, x, x<sup>2</sup>/2 (ACCEPT: 1, x/1!, x<sup>2</sup>/2!)"
+        ],
+        "answers_sanitized": [
+          "1, x, x^2/2 (ACCEPT: 1, x/1!, x^2/2!)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared original PDF page 5 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "parts": [
+          "The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2 H<sub>2</sub> O (read as: in equilibrium with) 2 H + O . In one experiment, the (g) 2(g) 2(g) equilibrium concentrations of the gases are as follows: [H<sub>2</sub> ] = 2.0M, [O<sub>2</sub> ] = 3.0M and [H<sub>2</sub> O] = 4.0M. Calculate the value of K for this reaction. eq"
+        ],
+        "answers": [
+          "K = 0.75 eq"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2H<sub>2</sub>O(g) (read as: in equilibrium with) 2H<sub>2</sub>(g) + O<sub>2</sub>(g). In one experiment, the equilibrium concentrations of the gases are as follows: [H<sub>2</sub>] = 2.0 M, [O<sub>2</sub>] = 3.0 M and [H<sub>2</sub>O] = 4.0 M. Calculate the value of K<sub>eq</sub> for this reaction."
+        ],
+        "parts_sanitized": [
+          "The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2H2O(g) (read as: in equilibrium with) 2H2(g) + O2(g). In one experiment, the equilibrium concentrations of the gases are as follows: [H2] = 2.0 M, [O2] = 3.0 M and [H2O] = 4.0 M. Calculate the value of K_eq for this reaction."
+        ],
+        "answers": [
+          "K<sub>eq</sub> = 0.75"
+        ],
+        "answers_sanitized": [
+          "K_eq = 0.75"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared original PDF page 9 visually with the corpus; restored omitted notation or answer content.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x: 2√x = x − 15"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x: 2√x = x − 15"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged record with original PDF page 13; wording, answer/options, and notation agree."
+    }
+  ],
+  "packetIssues": []
+}

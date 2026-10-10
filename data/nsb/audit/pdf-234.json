@@ -1,0 +1,405 @@
+{
+  "packetIndex": 234,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-2-HS-2021.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks for the angiosperm reproductive organ and keys FLOWERS; wording and short-answer key match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks for the relationship between vapor pressure and reciprocal temperature and gives CLAUSIUS-CLAPEYRON; the accepted misspelling is preserved as printed."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 defines the youngest-top/oldest-bottom rule and keys PRINCIPLE OF SUPERPOSITION with both alternatives; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 retains the [AL-kul] cue, all four London-dispersion choices, and key W; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 shows both line equations and all four relation choices; key X) Perpendicular matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 describes induced current loops in metal and keys EDDY CURRENTS; the prompt and key match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks for energy-input reactions that build complex molecules and keys ANABOLIC (ACCEPT: ANABOLISM); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists all four unit combinations for entropy and keys X) Newton-meters per degree Celsius; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 states luminosity proportional to mass to the 3.5 power and shows W–Z; key Z) Main sequence matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 preserves the pancreatic islets [EYE-lets] cue and keys BETA CELLS; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 writes log base 2 of (x − 6) = 4 in read-as words and keys 22; the corpus preserves the parentheses cue and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 preserves the [tork] cue, all four rigid-body explanations, and key Y) net torque is non-zero; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 asks for conditioning’s general learning category, where animals link stimuli, and keys ASSOCIATIVE; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 asks for carbon atoms consumed in reducing one ferric-oxide molecule and keys 3; prompt and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 asks which mineral crystallizes first in Bowen’s Reaction Series and keys OLIVINE; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 asks for the two common elements in Earth’s core and keys IRON AND NICKEL (ACCEPT: FE AND NI, either order); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 asks how many vertices a 36-edge pyramid has and keys 19; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 shows W) parabola, X) line with slope 1, Y) line with slope 2, Z) horizontal line, and key Y; replaced extraction corruption in the question and options while retaining the pronunciation cue.",
+      "before": {
+        "question": "Sophie is plotting the kinetic energy of a 5-kilogram mass on the y-axis and its speed on the x-axis. If she uses a log-log plot, which of the following curves would best fit her data?<br>W) A parabola [puh-RAB-uh-la]<br>X) A line with slope <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;2</span></span><br>Y) A line with slope<br>Z) A horizontal line",
+        "options": [
+          "W) A parabola [puh-RAB-uh-la]",
+          "X) A line with slope <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;2</span></span>",
+          "Y) A line with slope",
+          "Z) A horizontal line"
+        ]
+      },
+      "changes": {
+        "question": "Sophie is plotting the kinetic energy of a 5-kilogram mass on the y-axis and its speed on the x-axis. If she uses a log-log plot, which of the following curves would best fit her data?<br>W) A parabola [puh-RAB-uh-la]<br>X) A line with slope 1<br>Y) A line with slope 2<br>Z) A horizontal line",
+        "options": [
+          "W) A parabola [puh-RAB-uh-la]",
+          "X) A line with slope 1",
+          "Y) A line with slope 2",
+          "Z) A horizontal line"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists RNA, DNA, and proteins as ribosome components; the key is 1, 3, matching the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks for sulfate sulfur’s oxidation state and keys +6 (ACCEPT: 6); wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 displays all four Ekman-spiral combinations and keys Z) Coriolis force and wind; choices and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists all three sodium-ion battery claims and keys ALL; the corpus preserves each claim and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints x³ + 2x² + 36x + 72, gives −6i as a complex zero, and keys −2; restored the two superscripts while preserving the stated complex root.",
+      "before": {
+        "parts": [
+          "One of the zeroes of the polynomial x 3 + 2x 2 + 36x + 72 is the complex number –6i. What is the value of the real zero of the polynomial?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "One of the zeroes of the polynomial x<sup>3</sup> + 2x<sup>2</sup> + 36x + 72 is the complex number –6i. What is the value of the real zero of the polynomial?"
+        ],
+        "parts_sanitized": [
+          "One of the zeroes of the polynomial x^3 + 2x^2 + 36x + 72 is the complex number –6i. What is the value of the real zero of the polynomial?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 states incident angle 30°, refraction angle 45°, and keys √2; the corpus preserves the radical answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 includes the [para-krin] and [VAY-zoh-pressin] cues, all four signaling choices, and key X; the corpus retains the cues and choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 states the exothermic CaO + CO₂ equilibrium prompt, all four changes, and key X) increasing temperature; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks for gravitational variations in precession and keys NUTATION; wording and key match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 describes the uniform positive-charge jellium model, presents all four atomic models, and keys Z) Plum pudding model; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks for distinct prime factors of 1,449 and keys 33; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks for heating 1 m³ of water from 15°C to 20°C and keys 5000 kilocalories; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 lists the three quantitative-trait statements about polygeny, bimodal distribution, and fruit-fly eye color; key 1 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 states the 10 mL 3-molar sulfuric acid and 20 mL 1-molar sodium hydroxide mixture; key 4/3 (ACCEPT: 1 1/3) matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 includes the [JI-er] cue for gyre and keys NORTH ATLANTIC; the corpus retains both."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 shows all four supersymmetric-mass explanations and keys Y) can be spontaneously broken; all choices and key match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 states the infinite-series sum 13/7 and first term 5/4; the source key is 17/52, matching the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 gives the wire/current coordinates and all four magnetic-field directions; key W) positive z and the corpus match."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        2
+      ],
+      "evidence": "The accepted answer is printed as “CLASIUS-CLAPEYRON EQUATION,” omitting the second u in Clausius; the main answer is correctly spelled, and the accepted alternative is preserved as printed."
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "packetIndex": 186,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 186 PDF page 1 shows toss-up 1 beginning “The tangent of open parenthesis pi + theta close parenthesis is equal ”; checked its complete printed wording, stored choices and printed answer “W) TANGENT THETA” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 186 PDF page 1 shows toss-up 2 beginning “What is the term for infections or diseases that are naturally transmi”; checked its complete printed wording and answer “ZOONOSES (ACCEPT: ZOONOTIC)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 186 PDF page 2 shows toss-up 3 beginning “Which of the following is NOT among the criteria that define a substan”; checked its complete printed wording, stored choices and printed answer “Y) SPECIFIC MELTING POINT” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 186 PDF page 2 shows toss-up 4 beginning “The conversion of carbon-14 into nitrogen-14 is an example of what typ”; checked its complete printed wording and answer “BETA DECAY (ACCEPT: BETA MINUS DECAY)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 186 PDF page 3 shows toss-up 5 beginning “In which of the following compounds is the oxidation state of oxygen e”; checked its complete printed wording, stored choices and printed answer “Y) O 2” against the source.",
+      "before": {
+        "question": "In which of the following compounds is the oxidation state of oxygen equal to zero?<br>W) CuO<br>X) H 2 O<br>Y) O 2<br>Z) H 3 PO 4",
+        "options": [
+          "W) CuO",
+          "X) H 2 O",
+          "Y) O 2",
+          "Z) H 3 PO 4"
+        ],
+        "answer": "Y) O 2"
+      },
+      "changes": {
+        "question": "In which of the following compounds is the oxidation state of oxygen equal to zero?<br>W) CuO<br>X) H<sub>2</sub>O<br>Y) O<sub>2</sub><br>Z) H<sub>3</sub>PO<sub>4</sub>",
+        "options": [
+          "W) CuO",
+          "X) H<sub>2</sub>O",
+          "Y) O<sub>2</sub>",
+          "Z) H<sub>3</sub>PO<sub>4</sub>"
+        ],
+        "answer": "Y) O<sub>2</sub>",
+        "question_sanitized": "In which of the following compounds is the oxidation state of oxygen equal to zero? W) CuO X) H2O Y) O2 Z) H3PO4",
+        "answer_sanitized": "Y) O2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 186 PDF page 3 shows toss-up 6 beginning “Scientists at Lawrence Berkeley National Lab recently studied the effe”; checked its complete printed wording and answer “KINETOCHORE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 186 PDF page 4 shows toss-up 7 beginning “When used as adjectives, Fresnel [freh-NELL] and Fraunhofer [FRAWN- ho”; checked its complete printed wording and answer “DIFFRACTION” against the source.",
+      "before": {
+        "question": "When used as adjectives, Fresnel [freh-NELL] and Fraunhofer [FRAWN- hofer] are examples of what property of waves that results in them bending around obstacles?"
+      },
+      "changes": {
+        "question": "When used as adjectives, Fresnel [freh-NELL] and Fraunhofer [FRAWN-hofer] are examples of what property of waves that results in them bending around obstacles?",
+        "question_sanitized": "When used as adjectives, Fresnel [freh-NELL] and Fraunhofer [FRAWN-hofer] are examples of what property of waves that results in them bending around obstacles?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 186 PDF page 4 shows toss-up 8 beginning “Which of the following is true regarding the graph of y = –x5 at x = –”; checked its complete printed wording, stored choices and printed answer “Y) DECREASING AND CONCAVE UP” against the source.",
+      "before": {
+        "question": "Which of the following is true regarding the graph of y = –x5 at x = –4?<br>W) Increasing and concave up<br>X) Increasing and concave down<br>Y) Decreasing and concave up<br>Z) Decreasing and concave down"
+      },
+      "changes": {
+        "question": "Which of the following is true regarding the graph of y = –x<sup>5</sup> at x = –4?<br>W) Increasing and concave up<br>X) Increasing and concave down<br>Y) Decreasing and concave up<br>Z) Decreasing and concave down",
+        "question_sanitized": "Which of the following is true regarding the graph of y = -(x^5) at x = -4? W) Increasing and concave up X) Increasing and concave down Y) Decreasing and concave up Z) Decreasing and concave down"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 186 PDF page 5 shows toss-up 9 beginning “What type of tide occurs when the Moon is at first or third quarter?”; checked its complete printed wording and answer “NEAP” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 186 PDF page 6 shows toss-up 11 beginning “Identify all of the following three acids that are polyprotic [polly-P”; checked its complete printed wording and answer “1 AND 3” against the source.",
+      "before": {
+        "question": "Identify all of the following three acids that are polyprotic [polly-PRO- tic]: 1) Phosphorous acid; 2) Hydroiodic [HIGH-droh-eye-AW-dik] acid; 3) Selenic acid."
+      },
+      "changes": {
+        "question": "Identify all of the following three acids that are polyprotic [polly-PRO-tic]: 1) Phosphorous acid; 2) Hydroiodic [HIGH-droh-eye-AW-dik] acid; 3) Selenic acid.",
+        "question_sanitized": "Identify all of the following three acids that are polyprotic [polly-PRO-tic]: 1) Phosphorous acid; 2) Hydroiodic [HIGH-droh-eye-AW-dik] acid; 3) Selenic acid."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 186 PDF page 6 shows toss-up 12 beginning “What structures at the ends of eukaryotic [YOU-care-ee-AW-tic] chromos”; checked its complete printed wording and answer “TELOMERES” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 186 PDF page 7 shows toss-up 13 beginning “What is the thermodynamic efficiency of a Carnot [CAR-noh] engine whos”; checked its complete printed wording and answer “87.5% (ACCEPT: 87 1/2%, 0.875, 7/8)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 186 PDF page 7 shows toss-up 14 beginning “The molecular mass of atomic oxygen is expressed as 15.9994 plus or mi”; checked its complete printed wording, stored choices and printed answer “Z) ISOTOPIC VARATION IN DIFFERENT SAMPLES OF OXYGEN” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 186 PDF page 8 shows toss-up 15 beginning “What layer of the Earth’s interior accounts for the largest percentage”; checked its complete printed wording and answer “MANTLE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 186 PDF page 9 shows toss-up 17 beginning “What is the distance between the points (0, 5) and (4, 9)?”; checked its complete printed wording and answer “4√2” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 186 PDF page 9 shows toss-up 18 beginning “Gaseous [gah-shus] diffusion is currently the most common method used ”; checked its complete printed wording and answer “UF 6” against the source.",
+      "before": {
+        "answer": "UF 6"
+      },
+      "changes": {
+        "answer": "UF<sub>6</sub>",
+        "answer_sanitized": "UF6"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 186 PDF page 10 shows toss-up 19 beginning “The 21-centimeter radio emission line is due to a transition in what e”; checked its complete printed wording and answer “HYDROGEN” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 186 PDF page 10 shows toss-up 20 beginning “A reaction has a rate constant with units of liters to the 3rd, moles ”; checked its complete printed wording and answer “4” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 186 PDF page 11 shows toss-up 21 beginning “What is the slope of the line with equation 4x – 7y = 8?”; checked its complete printed wording and answer “4/7” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 186 PDF page 11 shows toss-up 22 beginning “One common method of cloning DNA is incorporating a small loop of DNA ”; checked its complete printed wording and answer “PLASMIDS” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 186 PDF page 12 shows toss-up 23 beginning “What set of rules states that for an electron configuration, the term ”; checked its complete printed wording and answer “HUND’S RULES” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 186 PDF page 1 shows bonus 1 beginning “Special water for a 650-liter aquarium is only sold in 42-liter contai”; checked its complete printed wording and answer “16 (DO NOT ACCEPT: 15 10/21 or 325/21)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 186 PDF page 1 shows bonus 2 beginning “Identify all of the following three plants that associate parasiticall”; checked its complete printed wording and answer “2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 186 PDF page 2 shows bonus 3 beginning “Identify all of the following three statements that are true about the”; checked its complete printed wording and answer “1 AND 2 ONLY” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 186 PDF page 2 shows bonus 4 beginning “A construction worker accidentally drops a hammer off the roof of a bu”; checked its complete printed wording and answer “78” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 186 PDF page 3 shows bonus 5 beginning “A chemist adds ethylenediamine [eh-thil-een-DYE-ah-meen], methylamine,”; checked its complete printed wording, stored choices and printed answer “Z) EDTA” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 186 PDF page 3 shows bonus 6 beginning “Jefferson Lab researchers are performing experimental tests to better ”; checked its complete printed wording and answer “STRANGE QUARK” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 186 PDF page 4 shows bonus 7 beginning “What quark, discovered in 1995, is the most massive known quark?”; checked its complete printed wording and answer “TOP (ACCEPT: T or TRUTH)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 186 PDF page 4 shows bonus 8 beginning “What are the radius and the coordinates of the center, respectively, o”; checked its complete printed wording and answer “RADIUS 11; CENTER (–6, 2) (ACCEPT: x = –6 AND y = 2 for center)” against the source.",
+      "before": {
+        "parts": [
+          "What are the radius and the coordinates of the center, respectively, of the circle with equation x2 + 12x + y2 – 4y – 81 = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the radius and the coordinates of the center, respectively, of the circle with equation x<sup>2</sup> + 12x + y<sup>2</sup> – 4y – 81 = 0?"
+        ],
+        "parts_sanitized": [
+          "What are the radius and the coordinates of the center, respectively, of the circle with equation x^2 + 12x + y^2 - 4y - 81 = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 186 PDF page 5 shows bonus 9 beginning “A moon with a small mass is orbiting a large planet of unknown mass wi”; checked its complete printed wording, stored choices and printed answer “Y) 6 TIMES 10 TO THE 25TH” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 186 PDF page 5 shows bonus 10 beginning “The Dark Energy Camera was built at Fermilab to image the universe fro”; checked its complete printed wording and answer “1 AND 2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 186 PDF page 6 shows bonus 11 beginning “Consider the dehydration of isopropanol by sulfuric acid to form prope”; checked its complete printed wording and answer “E1 (ACCEPT: ELIMINATION UNIMOLECULAR, UNIMOLECULAR ELIMINATION, ELIMINATION 1)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 186 PDF page 6 shows bonus 12 beginning “In DNA replication, which of the following components is necessary for”; checked its complete printed wording, stored choices and printed answer “X) LIGASE” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 186 PDF page 7 shows bonus 13 beginning “An earthquake occurs, causing a tsunami [su-NAH-mee]. A satellite obse”; checked its complete printed wording and answer “150” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 186 PDF page 7 shows bonus 14 beginning “Consider the interaction between two rotating dipoles [DYE-poles] in t”; checked its complete printed wording and answer “1/64” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 186 PDF page 8 shows bonus 15 beginning “At which of the following times, in millions of years ago, was Pangaea”; checked its complete printed wording, stored choices and printed answer “W) 240” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 186 PDF page 8 shows bonus 16 beginning “In land plants, what is the term for the male gametangia [gam-ih-TAN-j”; checked its complete printed wording and answer “ANTHERIDIA (ACCEPT: ANTHERIDIUM)” against the source.",
+      "before": {
+        "parts": [
+          "In land plants, what is the term for the male gametangia [gam-ih-TAN-jee- ah]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In land plants, what is the term for the male gametangia [gam-ih-TAN-jee-ah]?"
+        ],
+        "parts_sanitized": [
+          "In land plants, what is the term for the male gametangia [gam-ih-TAN-jee-ah]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 186 PDF page 9 shows bonus 17 beginning “Three coplanar circles with radii of lengths 3, 5, and 7, respectively”; checked its complete printed wording and answer “2/3 (ACCEPT: 2 TO 3)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 186 PDF page 9 shows bonus 18 beginning “Scientists at SLAC [slack] are studying how heat and compression resul”; checked its complete printed wording and answer “SiO 2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 186 PDF page 10 shows bonus 20 beginning “Identify all of the following three statements that are true about int”; checked its complete printed wording and answer “2 AND 3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 186 PDF page 11 shows bonus 21 beginning “What is the average value of the function f(x) = x2 over the interval ”; checked its complete printed wording and answer “7/3 (ACCEPT: 2 1/3)” against the source.",
+      "before": {
+        "parts": [
+          "What is the average value of the function f(x) = x2 over the interval –1 to 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the average value of the function f(x) = x<sup>2</sup> over the interval –1 to 3?"
+        ],
+        "parts_sanitized": [
+          "What is the average value of the function f(x) = x^2 over the interval -1 to 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 186 PDF page 12 shows bonus 23 beginning “A beam of light whose wavelength is 600 nanometers [NAN-oh-meters] in ”; checked its complete printed wording and answer “225,000” against the source."
+    }
+  ],
+  "packetIssues": []
+}

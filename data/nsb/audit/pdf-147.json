@@ -1,0 +1,515 @@
+{
+  "packetIndex": 147,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_17A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints the equation 4x² − 4y² = 0, followed by the same four W/X/Y/Z shape choices.",
+      "before": {
+        "question": "Consider the graph of the function 4x – 4y = 0. Which of the following shapes most resembles the graph of this function?<br>W) Circle<br>X) Hyperbola<br>Y) Pair of intersecting straight lines<br>Z) Ellipse"
+      },
+      "changes": {
+        "question": "Consider the graph of the function 4x<sup>2</sup> − 4y<sup>2</sup> = 0. Which of the following shapes most resembles the graph of this function?<br>W) Circle<br>X) Hyperbola<br>Y) Pair of intersecting straight lines<br>Z) Ellipse",
+        "question_sanitized": "Consider the graph of the function 4x^2 − 4y^2 = 0. Which of the following shapes most resembles the graph of this function? W) Circle; X) Hyperbola; Y) Pair of intersecting straight lines; Z) Ellipse"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2; printed answer is 1, 2, AND 3.",
+      "before": {
+        "question": "Identify all of the following three quantities that are quantized: 1) Atoms of H<sub>2</sub> O in a beaker; 2) Frequencies of light emitted by an excited atom; 3) Charge stored on a parallel-plate capacitor."
+      },
+      "changes": {
+        "question": "Identify all of the following three quantities that are quantized: 1) Atoms of H<sub>2</sub>O in a beaker; 2) Frequencies of light emitted by an excited atom; 3) Charge stored on a parallel-plate capacitor."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4; printed answer is Z) KINETIC RESOLUTION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6; printed answer is LITHIUM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7; printed answer is 27."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF page 4 labels toss-up 8 'Multiple Choice' but lists only three numbered RLC-circuit statements and prints the standalone answer '1, 2, AND 3'; no W/X/Y/Z answer choices are printed.",
+      "before": {
+        "type": "Multiple Choice"
+      },
+      "changes": {
+        "type": "Short Answer"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9; printed answer is EMPIRICAL FORMULA: SiO<sub>4</sub> , CHARGE: 4-.",
+      "before": {
+        "answer": "EMPIRICAL FORMULA: SiO<sub>4</sub> , CHARGE: 4-"
+      },
+      "changes": {
+        "answer": "EMPIRICAL FORMULA: SiO<sub>4</sub>, CHARGE: 4<sup>−</sup>",
+        "answer_sanitized": "EMPIRICAL FORMULA: SiO₄, CHARGE: 4⁻"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is X) RED PHOSPHOROUS.",
+      "before": {
+        "question": "Which of the following allotropes of phosphorous consists of chains of covalently-linked P4 tetrahedra?<br>W) White phosphorous<br>X) Red phosphorous<br>Y) Black phosphorous<br>Z) Violet phosphorous"
+      },
+      "changes": {
+        "question": "Which of the following allotropes of phosphorous consists of chains of covalently-linked P<sub>4</sub> tetrahedra?<br>W) White phosphorous<br>X) Red phosphorous<br>Y) Black phosphorous<br>Z) Violet phosphorous"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is 10.",
+      "before": {
+        "question": "For what integer value of k is 2015 cubed closest to 10 ?"
+      },
+      "changes": {
+        "question": "For what integer value of k is 2015 cubed closest to 10<sup>k</sup>?",
+        "question_sanitized": "For what integer value of k is 2015 cubed closest to 10^k?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13; printed answer is GENERAL THEORY OF RELATIVITY (ACCEPT: GENERAL RELATIVITY)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 14; printed answer is YOUNGER DRYAS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15; printed answer is GAMMA RAY BURST."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16; printed answer is Y) 5/3 Q."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17; printed answer is LEONHARD EULER."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18; printed answer is MILLER-UREY EXPERIMENT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 19; printed answer is X) THE TYPE OF GAS IN THE TUBE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20; printed answer is Y) CADMIUM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 22; printed answer is CYGNUS X-1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23; printed answer is 1, 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1; printed answer is Y) ONE-FOURTH THE COSINE OF 2 THETA."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2; printed answer is -1, 0, 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; printed answer is 2.4x10 (ACCEPT 2400).",
+      "before": {
+        "parts": [
+          "Nitrogen monoxide decomposes into diatomic nitrogen and oxygen at high temperatures. A one-liter reaction vessel at 2000°C contains an equilibrium mixture of 192 grams of O<sub>2</sub> , 112 grams of N<sub>2</sub> , and 3 grams of NO. Using values of 14 grams per mole and 16 grams per mole for the respective molar masses of atomic nitrogen and oxygen, what is the equilibrium constant for the decomposition at this temperature to two significant figures? 3"
+        ],
+        "answers": [
+          "2.4x10 (ACCEPT 2400)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Nitrogen monoxide decomposes into diatomic nitrogen and oxygen at high temperatures. A one-liter reaction vessel at 2000°C contains an equilibrium mixture of 192 grams of O<sub>2</sub>, 112 grams of N<sub>2</sub>, and 3 grams of NO. Using values of 14 grams per mole and 16 grams per mole for the respective molar masses of atomic nitrogen and oxygen, what is the equilibrium constant for the decomposition at this temperature to two significant figures?"
+        ],
+        "parts_sanitized": [
+          "Nitrogen monoxide decomposes into diatomic nitrogen and oxygen at high temperatures. A one-liter reaction vessel at 2000°C contains an equilibrium mixture of 192 grams of O₂, 112 grams of N₂, and 3 grams of NO. Using values of 14 grams per mole and 16 grams per mole for the respective molar masses of atomic nitrogen and oxygen, what is the equilibrium constant for the decomposition at this temperature to two significant figures?"
+        ],
+        "answers": [
+          "2.4 × 10<sup>3</sup> (ACCEPT: 2400)"
+        ],
+        "answers_sanitized": [
+          "2.4 × 10³ (ACCEPT: 2400)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5; printed answer is 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6; printed answer is X) INFINITELY LARGE RESISTANCE AND NO CURRENT DIVERTED THROUGH IT."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7; printed answer is SATURDAY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8; printed answer is 1, 2, AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10; printed answer is 1 ONLY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11; printed answer is SYNAPTONEMAL COMPLEX."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12; printed answer is 5/54."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14; printed answer is PARICUTIN."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15; printed answer is Y) ZENER DIODE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16; printed answer is Z) 2.5.",
+      "before": {
+        "parts": [
+          "Which of the following is the molecular orbital theory prediction for the bond order of the dioxygenyl radical cation, whose chemical formula is O<sub>2</sub> +?<br>W) 1<br>X) 1.5<br>Y) 2<br>Z) 2.5"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the molecular orbital theory prediction for the bond order of the dioxygenyl radical cation, whose chemical formula is O<sub>2</sub><sup>+</sup>?<br>W) 1<br>X) 1.5<br>Y) 2<br>Z) 2.5"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the molecular orbital theory prediction for the bond order of the dioxygenyl radical cation, whose chemical formula is O₂⁺? W) 1; X) 1.5; Y) 2; Z) 2.5"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is 2 times the square root of 13.",
+      "before": {
+        "parts": [
+          "A particle moves along a curve with equations x = 4cos t; y = 4sin t; z = 6t. What = π/2? is the speed of the particle at time t"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A particle moves along a curve with equations x = 4cos t; y = 4sin t; z = 6t. What is the speed of the particle at time t = π/2?"
+        ],
+        "parts_sanitized": [
+          "A particle moves along a curve with equations x = 4cos t; y = 4sin t; z = 6t. What is the speed of the particle at time t = π/2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 19; printed answer is 1 - SPHERE, 2 - CYLINDER, 3 - CYLINDER or PILLBOX."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20; printed answer is GREEN FLUORESCENT PROTEIN (GFP)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 21; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 22; printed answer is 30."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23; printed answer is 2."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF page 4 labels the RLC-circuits toss-up 'Multiple Choice' but presents three numbered statements for evaluation and no W/X/Y/Z answer choices; the printed answer is 1, 2, AND 3.",
+      "proposedRepair": "Set the play type to Short Answer while preserving the prompt text and printed answer."
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "packetIndex": 206,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-16A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked full wording/options for ‘Chemistry – Multiple Choice In a polyelectronic atom, which of the following orbitals’ and printed answer ‘W) 3s’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source expression is f(x) = x times eˣ; the prompt wording and answer 2e match.",
+      "before": {
+        "question": "What is f prime of 1 for the function f of x = x times ex ?"
+      },
+      "changes": {
+        "question": "What is f prime of 1 for the function f of x = x times e<sup>x</sup>?",
+        "question_sanitized": "What is f prime of 1 for the function f of x = x times eˣ?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked full wording/options for ‘Earth and Space – Short Answer What is the name given to asteroids that share an orbit’ and printed answer ‘TROJANS’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked full wording/options for ‘Physics – Short Answer According to band gap theory, in an insulator at absolute zero,’ and printed answer ‘VALENCE’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked full wording/options for ‘Energy – Multiple Choice Researchers at SLAC National Accelerator Laboratory have’ and printed answer ‘Z) INFRARED LIGHT AND MICROWAVES’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked full wording/options for ‘Math – Short Answer In a quadruple-elimination tournament, each game is played by two’ and printed answer ‘163’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked full wording/options for ‘Physics – Multiple Choice Which of the following is necessarily true regarding capacitors?’ and printed answer ‘Y) FOR CAPACITANCE IN SERIES, THE EQUIVALENT CAPACITANCE IS LESS THAN ’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked full wording/options for ‘Earth and Space – Multiple Choice Which of the following best describes why ocean water’ and printed answer ‘Y) PRECIPITATION EXCEEDS EVAPORATION AT THE EQUATOR’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked full wording/options for ‘Chemistry – Multiple Choice When an alkene [al-KEEN] acts as a nucleophile, what’ and printed answer ‘Z) THE CARBON-CARBON PI [pie] BOND’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked full wording/options for ‘Energy – Multiple Choice Lawrence Berkeley National Lab scientists are studying the’ and printed answer ‘X) BACTERIA’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked full wording/options for ‘Biology – Short Answer Adrenocorticotropic [ah-DREE-noh-kordih-koh-TROH-pik]’ and printed answer ‘PITUITARY’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked full wording/options for ‘Earth and Space – Multiple Choice In meteorology, the atmosphere’s lapse rate has which’ and printed answer ‘W) DEGREES CELSIUS PER KILOMETER’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked full wording/options for ‘Math – Short Answer The altitude to the hypotenuse of a right triangle divides the’ and printed answer ‘2√5’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked full wording/options for ‘Physics – Multiple Choice The Chernobyl disaster occurred, in part, due to the buildup of’ and printed answer ‘Y) NEUTRON POISON’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source notation is CO₂ in the question; all prompt wording and answer SUPERCRITICAL FLUID (ACCEPT: SUPERCRITICAL) match.",
+      "before": {
+        "question": "Scientists at Idaho National Lab have developed a new method to refine biodiesel. This novel process uses a carbon dioxide solvent in which the CO 2 is in what specific phase?"
+      },
+      "changes": {
+        "question": "Scientists at Idaho National Lab have developed a new method to refine biodiesel. This novel process uses a carbon dioxide solvent in which the CO<sub>2</sub> is in what specific phase?",
+        "question_sanitized": "Scientists at Idaho National Lab have developed a new method to refine biodiesel. This novel process uses a carbon dioxide solvent in which the CO₂ is in what specific phase?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked full wording/options for ‘Biology – Multiple Choice In embryonic development, the archenteron is a precursor to’ and printed answer ‘W) GUT’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: electron configurations have superscript occupancies; answer is Y) [Ar] 3d⁶. All four options are preserved.",
+      "before": {
+        "question": "Which of the following electron configurations is correct for the aqueous iron 2+ ion?<br>W) [Ar] 4s2 3d4<br>X) [Ar] 4s1 3d5<br>Y) [Ar] 3d6<br>Z) [Ar] 3d5 4p1",
+        "answer": "Y) [Ar] 3d6",
+        "options": [
+          "W) [Ar] 4s2 3d4",
+          "X) [Ar] 4s1 3d5",
+          "Y) [Ar] 3d6",
+          "Z) [Ar] 3d5 4p1"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following electron configurations is correct for the aqueous iron 2+ ion?<br>W) [Ar] 4s<sup>2</sup> 3d<sup>4</sup><br>X) [Ar] 4s<sup>1</sup> 3d<sup>5</sup><br>Y) [Ar] 3d<sup>6</sup><br>Z) [Ar] 3d<sup>5</sup> 4p<sup>1</sup>",
+        "question_sanitized": "Which of the following electron configurations is correct for the aqueous iron 2+ ion? W) [Ar] 4s² 3d⁴ X) [Ar] 4s¹ 3d⁵ Y) [Ar] 3d⁶ Z) [Ar] 3d⁵ 4p¹",
+        "answer": "Y) [Ar] 3d<sup>6</sup>",
+        "answer_sanitized": "Y) [Ar] 3d⁶",
+        "options": [
+          "W) [Ar] 4s<sup>2</sup> 3d<sup>4</sup>",
+          "X) [Ar] 4s<sup>1</sup> 3d<sup>5</sup>",
+          "Y) [Ar] 3d<sup>6</sup>",
+          "Z) [Ar] 3d<sup>5</sup> 4p<sup>1</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked full wording/options for ‘Math – Short Answer In base 7, what is 4 times 6?’ and printed answer ‘THREE-THREE (ACCEPT: 33)’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked full wording/options for ‘Biology – Short Answer Identify all of the following three structures that are homologous’ and printed answer ‘1, 2’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked full wording/options for ‘Physics – Short Answer Kaons [KAY-ons] and pions [PIE-ons] are classified as what type’ and printed answer ‘MESONS’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked full wording/options for ‘Earth and Space – Short Answer What two planets in our solar system have the most’ and printed answer ‘MARS AND MERCURY (ACCEPT IN EITHER ORDER)’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source line wraps ‘five-coordinate’ across lines; keep the single compound word and complete prompt/answer.",
+      "before": {
+        "question": "What are the two possible molecular geometries for a five- coordinate transition metal compound?"
+      },
+      "changes": {
+        "question": "What are the two possible molecular geometries for a five-coordinate transition metal compound?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked full wording/options for ‘Chemistry – Short Answer Rank the following three carboxylic [CAR-box-IHL-ik] acid’ and printed answer ‘1, 3, 2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source quadratic is x² + 10x + 74; answer polynomial checked against print.",
+      "before": {
+        "parts": [
+          "What is the real quadratic polynomial with leading coefficient one that has –5 + 7i as a zero?"
+        ],
+        "answers": [
+          "x2 + 10x + 74"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the real quadratic polynomial with leading coefficient one that has −5 + 7<i>i</i> as a zero?"
+        ],
+        "parts_sanitized": [
+          "What is the real quadratic polynomial with leading coefficient one that has −5 + 7i as a zero?"
+        ],
+        "answers": [
+          "<i>x</i><sup>2</sup> + 10<i>x</i> + 74"
+        ],
+        "answers_sanitized": [
+          "x² + 10x + 74"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked full wording/options for ‘Biology – Short Answer In a retrospective study comparing smoking to lung cancer, half of’ and printed answer ‘3 (ACCEPT: THREE TO ONE) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked full wording/options for ‘Physics – Short Answer Nick, who has a mass of 40 kilograms, is inflating his bike tires’ and printed answer ‘98 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked full wording/options for ‘Math – Short Answer When applying the Euclidean algorithm to find the greatest common’ and printed answer ‘14 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked full wording/options for ‘Physics – Short Answer Consider an object placed one centimeter to the left of a diverging’ and printed answer ‘5/6 2019 Regional Science Bowl – Round 16A Page 4’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked full wording/options for ‘Earth and Space – Short Answer Identify all of the following three characteristics that’ and printed answer ‘2, 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: both formulas are subscripted: N₂O, N₂O₄; the later N₂O reference and all three changes are preserved.",
+      "before": {
+        "parts": [
+          "N 2 O is in equilibrium with N 2 O 4 in a transparent cylinder fitted with a piston. Identify all of the following three changes that would increase the number of N 2 O molecules in the cylinder: 1) Depressing the piston; 2) Increasing the temperature; 3) Adding nitrogen gas."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "N<sub>2</sub>O is in equilibrium with N<sub>2</sub>O<sub>4</sub> in a transparent cylinder fitted with a piston. Identify all of the following three changes that would increase the number of N<sub>2</sub>O molecules in the cylinder: 1) Depressing the piston; 2) Increasing the temperature; 3) Adding nitrogen gas."
+        ],
+        "parts_sanitized": [
+          "N₂O is in equilibrium with N₂O₄ in a transparent cylinder fitted with a piston. Identify all of the following three changes that would increase the number of N₂O molecules in the cylinder: 1) Depressing the piston; 2) Increasing the temperature; 3) Adding nitrogen gas."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked full wording/options for ‘Energy – Short Answer Researchers at Argonne National Lab are researching spin coating’ and printed answer ‘LITHOGRAPHY (ACCEPT: PHOTOLITHOGRAPHY) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked full wording/options for ‘Biology – Short Answer Identify all of the following three groups of animals that are’ and printed answer ‘1, 3 2019 Regional Science Bowl – Round 16A Page 6’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked full wording/options for ‘Earth and Space – Short Answer Identify all of the following three mass wasting events’ and printed answer ‘1, 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked full wording/options for ‘Math – Short Answer What is the standard deviation of the following list of 4 numbers:’ and printed answer ‘2√6 2019 Regional Science Bowl – Round 16A Page 7’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked full wording/options for ‘Physics – Short Answer Identify all of the following three processes that would increase’ and printed answer ‘1, 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked full wording/options for ‘Energy – Short Answer Scientists at Brookhaven National Lab are part of the ATLAS’ and printed answer ‘PHOTON 2019 Regional Science Bowl – Round 16A Page 8’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked full wording/options for ‘Biology – Short Answer Fluoxetine [floo-OX-eh-teen] and citalopram [sigh-TAL-eh-’ and printed answer ‘SEROTONIN (ACCEPT: 5-HT) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked full wording/options for ‘Chemistry – Multiple Choice A heterogeneous [het-ur-oh-GENE-ee-us] catalyst surface’ and printed answer ‘X) GAS PHASE ADDITION OF HYDROGEN TO ETHYLENE 2019 Regional Science Bo’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: the source answer ends with the alternatives ‘−1i + 0j + 3k’ without closing the opening parenthesis after ACCEPT; restored only that missing answer-group delimiter for answer-key parsing, retaining all printed alternatives.",
+      "before": {
+        "answers": [
+          "–i + 3k (ACCEPT: –i + 0j + 3k, –1i + 3k, –1i + 0j + 3k"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "–i + 3k (ACCEPT: –i + 0j + 3k, –1i + 3k, –1i + 0j + 3k)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked full wording/options for ‘Biology – Short Answer Identify all of the following three groups of organisms that are’ and printed answer ‘1, 3 2019 Regional Science Bowl – Round 16A Page 10’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked full wording/options for ‘Physics – Short Answer What is the moment of inertia, in kilogram meters squared, of a’ and printed answer ‘63 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked full wording/options for ‘Earth and Space – Short Answer An astronaut is 4 light-years from Alpha Centauri, and’ and printed answer ‘3.2 (ACCEPT: 3 1/5, 16/5) 2019 Regional Science Bowl – Round 16A Page ’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: accepted formula is printed MnO₂; the answer name and accepted alternative wording match.",
+      "before": {
+        "answers": [
+          "MANGANESE DIOXIDE (ACCEPT: MANGANESE(IV) OXIDE, MnO 2 )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "MANGANESE DIOXIDE (ACCEPT: MANGANESE(IV) OXIDE, MnO<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "MANGANESE DIOXIDE (ACCEPT: MANGANESE(IV) OXIDE, MnO₂)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "sourcePages": [
+        10
+      ],
+      "issue": "The printed answer's ACCEPT alternatives have an opening parenthesis but no closing parenthesis.",
+      "evidence": "On p. 10, the answer line ends after ‘−1i + 0j + 3k’ without a closing parenthesis, matching the imported answer. The source typo is preserved in the ledger; no inferred delimiter was added."
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "packetIndex": 166,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source prompt/options and answer ‘Z) GLASS’ match printed tossup 3 section (Physics – Multiple Choice Which of the following is characterized by the lack of a distinc)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: printed tossup 4 has W) 92, X) 108, Y) 123, Z) 180; source answer is X) 108.",
+      "before": {
+        "question": "In degrees, which of the following is closest to the bond angle between hydrogen atoms in ammonia?<br>W) 92<br>X) <span class=\"nsb-fraction\">&lt;span&gt;108</span>&lt;span&gt;123</span></span><br>Y) <br>Z) 180",
+        "options": [
+          "W) 92",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;108</span>&lt;span&gt;123</span></span>",
+          "Y) ",
+          "Z) 180"
+        ]
+      },
+      "changes": {
+        "question": "In degrees, which of the following is closest to the bond angle between hydrogen atoms in ammonia?<br>W) 92<br>X) 108<br>Y) 123<br>Z) 180",
+        "options": [
+          "W) 92",
+          "X) 108",
+          "Y) 123",
+          "Z) 180"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source range is from −π to π; the baseline omitted the final π. All question wording and four choices match the print.",
+      "before": {
+        "question": "As x increases from –π to how does the value of cosine x change?<br>W) always decreases<br>X) always increases<br>Y) decreases then increases<br>Z) increases then decreases"
+      },
+      "changes": {
+        "question": "As x increases from –π to π, how does the value of cosine x change?<br>W) always decreases<br>X) always increases<br>Y) decreases then increases<br>Z) increases then decreases"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete source prompt/options and answer ‘Y) AMIDE’ match printed tossup 6 section (Biology – Multiple Choice Which of the following types of bonds link monomers together in )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source prompt/options and answer ‘W) COPPER(I) CHLORIDE’ match printed tossup 7 section (Chemistry – Multiple Choice Which of the following compounds is INSOLUBLE in water?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source prompt reads “The thumb's opposability”; all four choices and X) SADDLE JOINT match.",
+      "before": {
+        "question": "The thumb&amp;apos;s opposability can be attributed to what type of synovial joint?<br>W) Pivot joint<br>X) Saddle joint<br>Y) Hinge joint<br>Z) Condyloid joint"
+      },
+      "changes": {
+        "question": "The thumb's opposability can be attributed to what type of synovial joint?<br>W) Pivot joint<br>X) Saddle joint<br>Y) Hinge joint<br>Z) Condyloid joint"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source prompt/options and answer ‘PAULI EXCLUSION PRINCIPLE’ match printed tossup 9 section (Physics – Short Answer What quantum mechanical principle states that no two fermions can p)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source prompt/options and answer ‘3’ match printed tossup 10 section (Math – Short Answer In what logarithm base is the log of 1/27 equal to –3?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: printed tossup 11 choices are 2, 15, 30, and 50 percent; answer is X) 15. The source wording uses world's.",
+      "before": {
+        "question": "Which of the following is closest to the percent of the world&amp;apos;s electricity that is supplied by nuclear power plants?<br>W) 2<br>X) <span class=\"nsb-fraction\">&lt;span&gt;15</span>&lt;span&gt;30</span></span><br>Y) <br>Z) 50",
+        "options": [
+          "W) 2",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;15</span>&lt;span&gt;30</span></span>",
+          "Y) ",
+          "Z) 50"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is closest to the percent of the world's electricity that is supplied by nuclear power plants?<br>W) 2<br>X) 15<br>Y) 30<br>Z) 50",
+        "options": [
+          "W) 2",
+          "X) 15",
+          "Y) 30",
+          "Z) 50"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source prompt/options and answer ‘Z) CATACLASTIC’ match printed tossup 12 section (Earth and Space – Multiple Choice What type of high strain metamorphism occurs when two fa)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source prompt/options and answer ‘ECHINODERMATA’ match printed tossup 14 section (Biology – Short Answer       Sea urchins and sand dollars belong to what phylum [FYE-lum]?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘17’ match printed tossup 15 section (Math – Short Answer The sum of two consecutive prime numbers is 30. What is the larger of )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘X) ETHERS CAN FORM HYDROGEN BONDS WITH EACH OTHER’ match printed tossup 16 section (Chemistry – Multiple Choice Which of the following statements concerning hydrogen bonding )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: complete source prompt/options and answer ‘QUARKS’ match printed tossup 17 section (Physics – Short Answer What type of elementary particle is thought not to exist in isolati)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: complete source prompt/options and answer ‘1, 4 (ACCEPT: GNEISS AND PHYLLITE)’ match printed tossup 18 section (Earth and Space – Short Answer Identify all of the following four rocks that would be clas)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘-1’ match printed tossup 19 section (Physics – Short Answer A standing wave is produced on a string fixed at both ends. What is)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘3/2 (ACCEPT: 1.5, 1 1/2)’ match printed tossup 20 section (Math – Short Answer What is the slope of a line perpendicular to the line with equation)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source prompt/options and answer ‘3, 1, 2’ match printed tossup 21 section (Earth and Space – Short Answer Rank the following three magma types from least to greatest)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source prompt/options and answer ‘PHENOL’ match printed tossup 22 section (Chemistry – Short Answer What is the IUPAC name of the smallest aromatic alcohol?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete source prompt/options and answer ‘BASIDIOMYCOTA’ match printed tossup 23 section (Biology – Short Answer To what phylum [FYE-lum] do most mushrooms belong?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source prints 5.0 x 10⁻³ in the moment-of-inertia value; full sentence, [jools] cue, and answer 60 retained."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source says “mid-1800's”; all four choices and X) WOOD match.",
+      "before": {
+        "parts": [
+          "Until the close of the Industrial Revolution in the mid-1800&amp;apos;s, what was the primary energy source for most of the world?<br>W) Coal<br>X) Wood<br>Y) Dung<br>Z) Natural gas"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Until the close of the Industrial Revolution in the mid-1800's, what was the primary energy source for most of the world?<br>W) Coal<br>X) Wood<br>Y) Dung<br>Z) Natural gas"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source prompt/options and answer ‘ZERO’ match printed bonuse 3 section (Physics – Short Answer What is the electric charge of the particle that carries the electr)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source prompt/options and answer ‘W) IT UNDERGOES BETA DECAY TO FORM NITROGEN-14 2017 Regional High School NSB®                                                               ’ match printed bonuse 4 section (Chemistry – Multiple Choice Which of the following is true of carbon-14?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete source prompt/options and answer ‘2, –2 (ACCEPT: ±2)’ match printed bonuse 5 section (Math – Short Answer If the fourth power of the complex number 2 + bi equals –64, what are )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete source prompt/options and answer ‘X) THEY USE A CELL PLATE TO DIVIDE SISTER CELLS IN CYTOKINESIS 2017 Regional High School NSB®                                               ’ match printed bonuse 6 section (Biology – Multiple Choice Which of the following statements is true of plant cells, but no)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source prompt/options and answer ‘2.8’ match printed bonuse 7 section (Chemistry – Short Answer Consider a metal with atomic radius 1 angstrom, which crystallize)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source prompt/options and answer ‘Y) PERFORMING A HYDROPHOBIC EXTRACTION REMOVES THE MATERIAL FROM WATER 2017 Regional High School NSB®                                       ’ match printed bonuse 8 section (Biology – Multiple Choice Oswald Avery found that an \"infectious principle\" could be trans)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: printed bonus 9 choices read 2.5 times 10 to the 24th; 2.7 times 10 to the 25th; 3.0 times 10 to the 25th; and 3.7 times 10 to the 25th. The source answer is X) 2.7 times 10 to the 25th.",
+      "before": {
+        "parts": [
+          "A sample of an ideal gas has a volume of 1 cubic meter at standard temperature and pressure. Which of the following is closest to the number of molecules in the sample?<br>W) 2.5 times 10 to the 24th<br>X) times to the 25th <span class=\"nsb-fraction\">&lt;span&gt;2.7</span>&lt;span&gt;3.0</span></span> <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span><br>Y) times to the 25th<br>Z) 3.7 times 10 to the 25th"
+        ],
+        "options": [
+          "W) 2.5 times 10 to the 24th",
+          "X) times to the 25th <span class=\"nsb-fraction\">&lt;span&gt;2.7</span>&lt;span&gt;3.0</span></span> <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span>",
+          "Y) times to the 25th",
+          "Z) 3.7 times 10 to the 25th"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A sample of an ideal gas has a volume of 1 cubic meter at standard temperature and pressure. Which of the following is closest to the number of molecules in the sample?<br>W) 2.5 times 10 to the 24th<br>X) 2.7 times 10 to the 25th<br>Y) 3.0 times 10 to the 25th<br>Z) 3.7 times 10 to the 25th"
+        ],
+        "parts_sanitized": [
+          "A sample of an ideal gas has a volume of 1 cubic meter at standard temperature and pressure. Which of the following is closest to the number of molecules in the sample?\nW) 2.5 times 10 to the 24th\nX) 2.7 times 10 to the 25th\nY) 3.0 times 10 to the 25th\nZ) 3.7 times 10 to the 25th"
+        ],
+        "options": [
+          "W) 2.5 times 10 to the 24th",
+          "X) 2.7 times 10 to the 25th",
+          "Y) 3.0 times 10 to the 25th",
+          "Z) 3.7 times 10 to the 25th"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: printed upper bound is π/3; the source reads ‘Evaluate the integral from 0 to π/3 of sine 3x dx.’ Restored the missing bound without paraphrasing.",
+      "before": {
+        "parts": [
+          "Evaluate the integral from 0 to of sine 3x dx."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the integral from 0 to π/3 of sine 3x dx."
+        ],
+        "parts_sanitized": [
+          "Evaluate the integral from 0 to π/3 of sine 3x dx."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: printed bonus 11 choices are 10, 30, 70, and 99 percent; answer is X) 30.",
+      "before": {
+        "parts": [
+          "According to predictions by the Department of Energy, which of the following is closest to the percentage of U.S. gasoline and diesel use that could be replaced using biofuels from agricultural and forestry waste?<br>W) 10<br>X) <span class=\"nsb-fraction\">&lt;span&gt;30</span>&lt;span&gt;70</span></span><br>Y) <br>Z) 99"
+        ],
+        "options": [
+          "W) 10",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;30</span>&lt;span&gt;70</span></span>",
+          "Y) ",
+          "Z) 99"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "According to predictions by the Department of Energy, which of the following is closest to the percentage of U.S. gasoline and diesel use that could be replaced using biofuels from agricultural and forestry waste?<br>W) 10<br>X) 30<br>Y) 70<br>Z) 99"
+        ],
+        "options": [
+          "W) 10",
+          "X) 30",
+          "Y) 70",
+          "Z) 99"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source prompt/options and answer ‘PROTON-PROTON CHAIN (ACCEPT: P-P CHAIN) 2017 Regional High School NSB®                                                                      ’ match printed bonuse 12 section (Earth and Space – Short Answer     Our sun produces over 90% of its energy via what specif)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source prompt/options and answer ‘DEUTERIUM (ACCEPT: HEAVY HYDROGEN)’ match printed bonuse 13 section (Energy – Short Answer The Spallation Neutron Source is a user facility at Oak Ridge Nation)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source prompt/options and answer ‘X) MEALWORM BEETLE LARVAE 2017 Regional High School NSB®                                                                             PAGE 7’ match printed bonuse 14 section (Biology – Multiple Choice Cryptonephridia [kripto-neh-FRID-ee-ah] can be found in the excr)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘224π’ match printed bonuse 15 section (Math – Short Answer A right circular cylinder has height 9 and diameter 14. What is its su)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘2, 4, 1, 3 (ACCEPT: FLUORINE, CHLORINE, LITHIUM, SODIUM) 2017 Regional High School NSB®                                                     ’ match printed bonuse 16 section (Chemistry – Short Answer Rank the following four atoms in order of increasing atomic radiu)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: complete source prompt/options and answer ‘PARAMAGNETIC’ match printed bonuse 17 section (Physics – Short Answer What adjective is used to describe the magnetic properties of mater)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘3 AND 4’ match printed bonuse 19 section (Physics – Short Answer A metal rod expands when heated. Identify all of the following 4 pr)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘ONE-FOUR-FOUR 2017 Regional High School NSB®                                                                               PAGE 10’ match printed bonuse 20 section (Math – Short Answer Express the base-8 number five-zero-four in base 16.)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source prompt/options and answer ‘W) IT IS LOCATED IN THE RAIN SHADOW OF THE ANDES’ match printed bonuse 21 section (Earth and Space – Multiple Choice Which of the following best explains the dryness of the )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source notation is SN₂; full three-statement prompt, pronunciation cues, and answer 1 AND 2 retained.",
+      "before": {
+        "parts": [
+          "Identify all of the following three statements that are characteristic of an SN2 reaction: 1) The reaction occurs with inversion; 2) The reaction does not occur with tertiary [TUR-shee-ary] alkyl [AL-kil] halides [HAY-lides] ; 3) The reaction is faster with alkyl fluorides than with alkyl iodides."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three statements that are characteristic of an SN<sub>2</sub> reaction: 1) The reaction occurs with inversion; 2) The reaction does not occur with tertiary [TUR-shee-ary] alkyl [AL-kil] halides [HAY-lides]; 3) The reaction is faster with alkyl fluorides than with alkyl iodides."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three statements that are characteristic of an SN₂ reaction: 1) The reaction occurs with inversion; 2) The reaction does not occur with tertiary [TUR-shee-ary] alkyl [AL-kil] halides [HAY-lides]; 3) The reaction is faster with alkyl fluorides than with alkyl iodides."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete source prompt/options and answer ‘3 2017 Regional High School NSB®                                                                         PAGE 12’ match printed bonuse 23 section (Biology – Short Answer Identify all of the following three organisms that are platyhelmint)."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,556 @@
+{
+  "packetIndex": 194,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-13.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 contains complete transcriptomic prompt, all four procedures and answer W; rejoined the line-wrapped fungi pronunciation cue.",
+      "before": {
+        "question": "Researchers at the DOE’s Joint Genome [JEE-nome] Institute recently performed a transcriptomic [trans-krip-TAWN-ik] analysis on mycorrhizal [MY-koh-RYE-zul] fungi [fun- ji] to understand their mechanisms of drought adaptation. Which of the following procedures was integral to this analysis?<br>W) Measured numbers of RNAs for all of the fungal [FUN-gul] genes<br>X) Sequenced the fungi’s [fun-jize] DNA<br>Y) Measured the levels of every fungal protein<br>Z) Sequenced all of the fungi’s [fun-jize] proteins"
+      },
+      "changes": {
+        "question": "Researchers at the DOE’s Joint Genome [JEE-nome] Institute recently performed a transcriptomic [trans-krip-TAWN-ik] analysis on mycorrhizal [MY-koh-RYE-zul] fungi [fun-jil] to understand their mechanisms of drought adaptation. Which of the following procedures was integral to this analysis?<br>W) Measured numbers of RNAs for all of the fungal [FUN-gul] genes<br>X) Sequenced the fungi’s [fun-jize] DNA<br>Y) Measured the levels of every fungal protein<br>Z) Sequenced all of the fungi’s [fun-jize] proteins",
+        "question_sanitized": "Researchers at the DOE's Joint Genome [JEE-nome] Institute recently performed a transcriptomic [trans-krip-TAWN-ik] analysis on mycorrhizal [MY-koh-RYE-zul] fungi [fun-jil] to understand their mechanisms of drought adaptation. Which of the following procedures was integral to this analysis? W) Measured numbers of RNAs for all of the fungal [FUN-gul] genes; X) Sequenced the fungi's [fun-jize] DNA; Y) Measured the levels of every fungal protein; Z) Sequenced all of the fungi's [fun-jize] proteins"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives vector magnitudes 6 and 3, vector-product magnitude 0.556, all choices and key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks sum of primes on either side of 50; answer 100."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks analogous plant cells and keys meristematic, accept totipotent."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists alcohol, nitrile, ester, amide for nylon condensation; key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists parallax, Hubble’s law, variable stars, radar ranging; key X."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 1 asks plant analogues of embryonic stem cells; answer meristematic, accept totipotent."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 2 lists three triangle side lengths 17, 12, and 11; answer 12√30."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 3 asks how many Lagrangian points move with a planet in circular orbit; answer five, accept all of them."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 4 asks the animal-cell fibrous glycoprotein collection; answer extracellular matrix, accept ECM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 4 asks which quadrant contains f(x)+g(x) when f is in quadrant III and g=−2f; answer second (accept 2)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 5 lists stellar evolution/HR-diagram claims; key Y."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 5 asks the phylum of octopus and gives the pronunciation cue; answer Mollusca."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 6 gives 7-kg box raised 3 m; work answer 210 J."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 6 asks second-order cyclopentadiene dimerization behavior; key Y, half-life increases."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 7 asks property associated with multiple phenotypic effects; answer pleiotropy with cue."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 7 gives EXO-200 double-beta decay prompt and cues; answer xenon with cue.",
+      "before": {
+        "question": "What is the IUPAC name for the compound with the chemical formula Ni(CO)<sub>4</sub> ?"
+      },
+      "changes": {
+        "question": "What is the IUPAC name for the compound with the chemical formula Ni(CO)<sub>4</sub>?",
+        "question_sanitized": "What is the IUPAC name for the compound with the chemical formula Ni(CO)4?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 8 lists tectonic boundaries; key Pacific and Antarctic plates."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 8 lists statements equivalent to no magnetic monopoles; key zero magnetic-field divergence."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 9 prints Ni(CO)₄ and answer tetracarbonyl nickel zero; removed extraction-added space before punctuation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 9 asks integral of 4 dx from −3 to 6; answer 36.",
+      "before": {
+        "question": "What mineral can be found on the continuous branch of Bowen&amp;apos;s reaction series?"
+      },
+      "changes": {
+        "question": "What mineral can be found on the continuous branch of Bowen’s reaction series?",
+        "question_sanitized": "What mineral can be found on the continuous branch of Bowen's reaction series?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 10 asks fruit formed from several flowers; answer multiple, accept collective.",
+      "before": {
+        "question": "What is the discriminant of the quadratic function y = x 2 – 5x + 9?"
+      },
+      "changes": {
+        "question": "What is the discriminant of the quadratic function y = x<sup>2</sup> – 5x + 9?",
+        "question_sanitized": "What is the discriminant of the quadratic function y = x^2 – 5x + 9?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 10 asks fluorinated analogue used in PET; answer glucose."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists Paper, Silver, Rabbit fur, PVC plastic and keys 4,2,1,3 with the accepted order.",
+      "before": {
+        "parts": [
+          "SLAC [slack] scientists recently published a surprising study in which they discovered that applying small amounts of pressure to platinum or lithium cobalt oxide increased the material&amp;apos;s catalytic efficiency. Identify all of the following three devices to which this discovery is relevant: 1) Fuel cells; 2) Batteries; 3) Capacitors."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "SLAC [slack] scientists recently published a surprising study in which they discovered that applying small amounts of pressure to platinum or lithium cobalt oxide increased the material’s catalytic efficiency. Identify all of the following three devices to which this discovery is relevant: 1) Fuel cells; 2) Batteries; 3) Capacitors."
+        ],
+        "parts_sanitized": [
+          "SLAC [slack] scientists recently published a surprising study in which they discovered that applying small amounts of pressure to platinum or lithium cobalt oxide increased the material's catalytic efficiency. Identify all of the following three devices to which this discovery is relevant: 1) Fuel cells; 2) Batteries; 3) Capacitors."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists radar, sonar, remotely operated vehicle, and submersible altimeter methods; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 describes a genome-wide map of cis-acting DNA elements; answer enhancers."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists terminal alkyne, alpha-to-ketone, and tri-substituted alkene hydrogens and their cues; answer 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists three candidate strong bases; answer NONE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks how many Lagrangian points move with an orbiting planet; answer five, accept all."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists four enthalpy/entropy/Gibbs energy changes with cues; key Y."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives magnitudes √2 and 3√2 and angles 57°, 35°; restored lost magnitudes. Product magnitude 6, angle 92°.",
+      "before": {
+        "parts": [
+          "Two complex numbers have absolute values of and and angles of 57 degrees and 35 degrees, respectively. What are the absolute value and the angle degree measure of their product?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Two complex numbers have absolute values of √2 and 3√2, and angles of 57 degrees and 35 degrees, respectively. What are the absolute value and the angle degree measure of their product?"
+        ],
+        "parts_sanitized": [
+          "Two complex numbers have absolute values of √2 and 3√2, and angles of 57 degrees and 35 degrees, respectively. What are the absolute value and the angle degree measure of their product?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists three neutron-star statements; answer ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists four secondary-antibody/fluorophore choices; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 includes Noether cue and asks symmetry for angular-momentum conservation; answer rotational."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists four volume/temperature changes for gas reaction; key Z."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists beetles, birds, bats, moths for night-flowering white tubular flowers; key Z."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks what set of nuclei calcium-52 fails to resemble; answer magic nuclei with magic-number nuclei acceptance."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists Steno’s laws and cue for original horizontality; answer 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists free neutron, proton, electron; answer ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 gives 1-M zero-order reactant with 10-s half-life to 0.25 M; answer 15 s."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 gives event probabilities 0.4, 0.6, joint 0.3; answer 0.5 with fraction and percentage acceptances."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists three parasympathetic responses and pronunciation cues; answer NONE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists H-H, CH₃-CH₃, H-CH₃ eclipsed overlaps; answer 1,3,2. Removed extraction-added spaces around middle interaction.",
+      "before": {
+        "parts": [
+          "Rank the following three types of interactions in increasing order of energy cost in a conformational analysis of the C2-C3 bond in butane: 1) H-H eclipsed overlap; 2) CH<sub>3</sub> - CH<sub>3</sub> eclipsed overlap; 3) H-CH<sub>3</sub> eclipsed overlap."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Rank the following three types of interactions in increasing order of energy cost in a conformational analysis of the C2-C3 bond in butane: 1) H-H eclipsed overlap; 2) CH<sub>3</sub>-CH<sub>3</sub> eclipsed overlap; 3) H-CH<sub>3</sub> eclipsed overlap."
+        ],
+        "parts_sanitized": [
+          "Rank the following three types of interactions in increasing order of energy cost in a conformational analysis of the C2-C3 bond in butane: 1) H-H eclipsed overlap; 2) CH3-CH3 eclipsed overlap; 3) H-CH3 eclipsed overlap."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists three wind statements; answer 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints the full circular-segment prompt and answer 6π−9√3; restored answer boundary and answer.",
+      "before": {
+        "parts": [
+          "In a circle with radius 6, what is the area of a circular segment defined by an arc of 60°? 6π 9√3"
+        ],
+        "answers": [
+          "–"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In a circle with radius 6, what is the area of a circular segment defined by an arc of 60°?"
+        ],
+        "answers": [
+          "6π − 9√3"
+        ],
+        "parts_sanitized": [
+          "In a circle with radius 6, what is the area of a circular segment defined by an arc of 60 degrees?"
+        ],
+        "answers_sanitized": [
+          "6π − 9√3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 gives n=1.414 cube and asks minimum internal angle to prevent refraction into air; answer 45°."
+    }
+  ],
+  "packetIssues": []
+}

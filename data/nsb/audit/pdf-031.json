@@ -1,0 +1,543 @@
+{
+  "packetIndex": 31,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round15.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 prints option Z with base 2 as a subscript in log₂3; corpus flattened the base in both the embedded choice and options array. Restored the complete bracketed read-as cue in the reading counterpart.",
+      "before": {
+        "question": "Which of the following is equivalent to ln(1/8) [the natural log of one eighth]?<br>W) 3ln2 [3 natural log of 2]<br>X) -ln3 [negative natural log of 3]<br>Y) -3ln2 [negative 3 natural log of 2]<br>Z) log23 [log base 2 of 3]",
+        "options": [
+          "W) 3ln2 [3 natural log of 2]",
+          "X) -ln3 [negative natural log of 3]",
+          "Y) -3ln2 [negative 3 natural log of 2]",
+          "Z) log23 [log base 2 of 3]"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is equivalent to ln(1/8) [the natural log of one eighth]?<br>W) 3ln2 [3 natural log of 2]<br>X) -ln3 [negative natural log of 3]<br>Y) -3ln2 [negative 3 natural log of 2]<br>Z) log<sub>2</sub>3 [log base 2 of 3]",
+        "question_sanitized": "Which of the following is equivalent to ln(1/8) [the natural log of one eighth]?\nW) 3ln2 [3 natural log of 2]\nX) -ln3 [negative natural log of 3]\nY) -3ln2 [negative 3 natural log of 2]\nZ) log₂3 [log base 2 of 3]",
+        "options": [
+          "W) 3ln2 [3 natural log of 2]",
+          "X) -ln3 [negative natural log of 3]",
+          "Y) -3ln2 [negative 3 natural log of 2]",
+          "Z) log<sub>2</sub>3 [log base 2 of 3]"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 prints y = x² in the rotation prompt; corpus flattened the exponent in “y = x2”.",
+      "before": {
+        "parts": [
+          "Providing your answer in simplest form, what is the volume generated by rotating the region bounded by y = x2 and y = x about the line x = 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer in simplest form, what is the volume generated by rotating the region bounded by y = x<sup>2</sup> and y = x about the line x = 2?"
+        ],
+        "parts_sanitized": [
+          "Providing your answer in simplest form, what is the volume generated by rotating the region bounded by y = x^2 and y = x about the line x = 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 prints ε₀ = 9 × 10⁻¹² and choices/answer with exponents −7, −9, −11, and −13; corpus flattened all powers.",
+      "before": {
+        "parts": [
+          "Two parallel identical conducting wires with radii of 1 millimeter are spaced 1 meter apart. Given ε0 [epsilon naught] as 9 x 10-12 coulombs squared per newton meters squared, if a 10 volt potential difference is applied to the wires, which of the following is the force in newtons per meter between the wires?<br>W) 3 x 10-7<br>X) 3 x 10-9<br>Y) 3 x 10-11<br>Z) 3 x 10-13"
+        ],
+        "answers": [
+          "Y) 3 x 10-11"
+        ],
+        "options": [
+          "W) 3 x 10-7",
+          "X) 3 x 10-9",
+          "Y) 3 x 10-11",
+          "Z) 3 x 10-13"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Two parallel identical conducting wires with radii of 1 millimeter are spaced 1 meter apart. Given ε<sub>0</sub> [epsilon naught] as 9 × 10<sup>−12</sup> coulombs squared per newton meters squared, if a 10 volt potential difference is applied to the wires, which of the following is the force in newtons per meter between the wires?<br>W) 3 × 10<sup>−7</sup><br>X) 3 × 10<sup>−9</sup><br>Y) 3 × 10<sup>−11</sup><br>Z) 3 × 10<sup>−13</sup>"
+        ],
+        "parts_sanitized": [
+          "Two parallel identical conducting wires with radii of 1 millimeter are spaced 1 meter apart. Given epsilon0 [epsilon naught] as 9 × 10^(−12) coulombs squared per newton meters squared, if a 10 volt potential difference is applied to the wires, which of the following is the force in newtons per meter between the wires?; W) 3 × 10^(−7); X) 3 × 10^(−9); Y) 3 × 10^(−11); Z) 3 × 10^(−13)"
+        ],
+        "answers": [
+          "Y) 3 × 10<sup>−11</sup>"
+        ],
+        "answers_sanitized": [
+          "Y) 3 × 10^(−11)"
+        ],
+        "options": [
+          "W) 3 × 10<sup>−7</sup>",
+          "X) 3 × 10<sup>−9</sup>",
+          "Y) 3 × 10<sup>−11</sup>",
+          "Z) 3 × 10<sup>−13</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 and visually compared its math notation; prompt, answer, options, and notes match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,594 @@
+{
+  "packetIndex": 39,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-8C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows Ca(OH)₂ + 2HCl → 2H₂O + CaCl₂; the corpus flattened subscripts and corrupted the arrow.",
+      "before": {
+        "question": "The reaction Ca(OH)2 + 2HCl à 2H2O + CaCl2, is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition"
+      },
+      "changes": {
+        "question": "The reaction Ca(OH)<sub>2</sub> + 2HCl → 2H<sub>2</sub>O + CaCl<sub>2</sub>, is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition",
+        "question_sanitized": "The reaction Ca(OH)2 + 2HCl -> 2H2O + CaCl2, is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows log₄ x = 4 and 4⁴ = 256; the corpus placed the base and exponent inline.",
+      "before": {
+        "question": "Solve the following logarithmic equation for x: log4 x = 4 (read as: log base 4 of x equals 4)",
+        "notes": [
+          "(Solution: 44 = 256)"
+        ]
+      },
+      "changes": {
+        "question": "Solve the following logarithmic equation for x: log<sub>4</sub> x = 4 (read as: log base 4 of x equals 4)",
+        "question_sanitized": "Solve the following logarithmic equation for x: log_4 x = 4 (read as: log base 4 of x equals 4)",
+        "notes": [
+          "(Solution: 4<sup>4</sup> = 256)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows H₂CO₃ and the conjugate base HCO₃⁻ with compact subscripts and a raised charge.",
+      "before": {
+        "parts": [
+          "What is the molecular formula for the conjugate base of the following Brønsted-Lowry acid: H2CO3"
+        ],
+        "answers": [
+          "HCO3–"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the molecular formula for the conjugate base of the following Brønsted-Lowry acid: H<sub>2</sub>CO<sub>3</sub>"
+        ],
+        "parts_sanitized": [
+          "What is the molecular formula for the conjugate base of the following Brønsted-Lowry acid: H2CO3"
+        ],
+        "answers": [
+          "HCO<sub>3</sub><sup>−</sup>"
+        ],
+        "answers_sanitized": [
+          "HCO3-"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 shows the division as (x³ − 8)/(x − 2) and the answer as x² + 2x + 4; corpus text extraction lost the fraction layout and flattened both powers.",
+      "before": {
+        "parts": ["Divide and simplify the following 2 polynomials, combining like terms: ( x 3 ! 8) ( x ! 2)"],
+        "answers": ["x2 + 2x + 4"]
+      },
+      "changes": {
+        "parts": ["Divide and simplify the following 2 polynomials, combining like terms: <span class=\"nsb-fraction\"><span>x<sup>3</sup> − 8</span><span>x − 2</span></span>"],
+        "parts_sanitized": ["Divide and simplify the following 2 polynomials, combining like terms: (x^3 − 8)/(x − 2)"],
+        "answers": ["x<sup>2</sup> + 2x + 4"],
+        "answers_sanitized": ["x^2 + 2x + 4"]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows P₁V₁ = P₂V₂ and V₂ throughout the solution; the corpus flattened all indices.",
+      "before": {
+        "notes": [
+          "(Solution: P1V1 = P2V2; (800 torr)(10.0L) = (1140 torr)(V2); V2 = 7.0L)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>; (800 torr)(10.0L) = (1140 torr)(V<sub>2</sub>); V<sub>2</sub> = 7.0L)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 prints x² + 5x + 4 ≥ 0; corpus had the same expression but flattened the exponent.",
+      "before": {
+        "parts": ["Solve the following quadratic inequality for x: x2 + 5x + 4 ≥ 0"]
+      },
+      "changes": {
+        "parts": ["Solve the following quadratic inequality for x: x<sup>2</sup> + 5x + 4 ≥ 0"],
+        "parts_sanitized": ["Solve the following quadratic inequality for x: x^2 + 5x + 4 ≥ 0"]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows the ordinal 9th and the indexed/exponent form aₓ = a(r)^(x−1), a₉ = 3(2)⁸.",
+      "before": {
+        "parts": [
+          "Find the 9th term of the geometric sequence whose first 3 terms are 3, 6, and 12:"
+        ],
+        "notes": [
+          "(Solution: ax = a(r)x-1; a9 = 3(2)8; a = 768)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the 9<sup>th</sup> term of the geometric sequence whose first 3 terms are 3, 6, and 12:"
+        ],
+        "parts_sanitized": [
+          "Find the 9th term of the geometric sequence whose first 3 terms are 3, 6, and 12:"
+        ],
+        "notes": [
+          "(Solution: a<sub>x</sub> = a(r)<sup>x-1</sup>; a<sub>9</sub> = 3(2)<sup>8</sup>; a = 768)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints the charge in NADP⁺ as a superscript.",
+      "before": {
+        "parts": [
+          "What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP+?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP<sup>+</sup>?"
+        ],
+        "parts_sanitized": [
+          "What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP+?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 gives the answer 80,000 and completes the force sum as 30,000N + 50,000N = 80,000N; the corpus answer and solution were truncated/corrupted.",
+      "before": {
+        "answers": [
+          "80,000 = 80,000N)"
+        ],
+        "notes": [
+          "(Solution: F = ma = (5000 × 6) = 30,000N + w = mg = 5000 × 10 = 50,000N; 30,000N + 50,000N"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "80,000"
+        ],
+        "notes": [
+          "(Solution: F = ma = (5000 × 6) = 30,000N + w = mg = 5000 × 10 = 50,000N; 30,000N + 50,000N = 80,000N)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually checked the chemical or mathematical notation and compared the complete entry."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; visually checked the chemical or mathematical notation and compared the complete entry."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,592 @@
+{
+  "packetIndex": 97,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed physical PDF page 1 for numbered toss-up 2; complete section, choices, and answer checked (W) +13.5)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed physical PDF page 2 for numbered toss-up 3; complete section, choices, and answer checked (Y) {(2, 3), (-5, 3), (2, 7)})."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed physical PDF page 3 for numbered toss-up 5; complete section, choices, and answer checked (Z) NIMBOSTRATUS)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed physical PDF page 3 for numbered toss-up 6; complete section, choices, and answer checked (Z) HELIUM)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed physical PDF page 4 for numbered toss-up 7; complete section, choices, and answer checked (Y) COELACANTH)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed physical PDF page 4 for numbered toss-up 8; complete section, choices, and answer checked (6 x 109)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Physical PDF page 5 shows (i)^21; its four choices are −i, i, −1, 1 and answer X) i.",
+      "before": {
+        "question": "What is the value of ? -i<br>W) i<br>X) -1<br>Y) <br>Z) 1 i",
+        "options": [
+          "W) i",
+          "X) -1",
+          "Y) ",
+          "Z) 1 i"
+        ],
+        "answer": "X) -1"
+      },
+      "changes": {
+        "question": "What is the value of (i)<sup>21</sup>?<br>W) -i<br>X) i<br>Y) -1<br>Z) 1",
+        "question_sanitized": "What is the value of (i)^21?\nW) -i\nX) i\nY) -1\nZ) 1",
+        "options": [
+          "W) -i",
+          "X) i",
+          "Y) -1",
+          "Z) 1"
+        ],
+        "answer": "X) i",
+        "answer_sanitized": "X) i"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed physical PDF page 5 for numbered toss-up 10; rechecked full prompt, choices, and source answer (Y) NATURAL BACKGROUND RADIATION FOR ONE YEAR)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed physical PDF page 6 for numbered toss-up 11; complete section, choices, and answer checked (Y) HUTTON)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed physical PDF page 6 for numbered toss-up 12; complete section, choices, and answer checked (Y) DALTON’S LAW OF PARTIAL PRESSURE)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Physical PDF page 7 spells “individual’s” in the PCR prompt; PCR and its accepted abbreviation match.",
+      "before": {
+        "question": "If a trace amount of blood was discovered at a crime scene, what technique could be used to amplify the amount of DNA present in this sample, thereby allowing scientists to determine the individual&amp;apos;s blood type?"
+      },
+      "changes": {
+        "question": "If a trace amount of blood was discovered at a crime scene, what technique could be used to amplify the amount of DNA present in this sample, thereby allowing scientists to determine the individual’s blood type?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed physical PDF page 7 for numbered toss-up 14; rechecked full prompt, choices, and source answer (X) LESS THAN 110 OHMS)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Physical PDF page 8 shows sin²x + cos²x and f′(x), with all read-as cues and four choices; answer W) 0.",
+      "before": {
+        "question": "If 2 2 [f of x equals sine squared of x plus cosine x x f ’(x) squared of x], what is [f prime of x]? 0<br>W) <br>X) 1 2sinxcosx<br>Y) [2 sine of x cosine of x] sin2x<br>Z) [sine of 2x]",
+        "options": [
+          "W) ",
+          "X) 1 2sinxcosx",
+          "Y) [2 sine of x cosine of x] sin2x",
+          "Z) [sine of 2x]"
+        ]
+      },
+      "changes": {
+        "question": "If f(x) = sin<sup>2</sup>x + cos<sup>2</sup>x [f of x equals sine squared of x plus cosine squared of x], what is f′(x) [f prime of x]?<br>W) 0<br>X) 1<br>Y) 2sinxcosx [2 sine of x cosine of x]<br>Z) sin2x [sine of 2x]",
+        "question_sanitized": "If f(x) = sin^2x + cos^2x [f of x equals sine squared of x plus cosine squared of x], what is f'(x) [f prime of x]?\nW) 0\nX) 1\nY) 2sinxcosx [2 sine of x cosine of x]\nZ) sin2x [sine of 2x]",
+        "options": [
+          "W) 0",
+          "X) 1",
+          "Y) 2sinxcosx [2 sine of x cosine of x]",
+          "Z) sin2x [sine of 2x]"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed physical PDF page 8 for numbered toss-up 16; rechecked full prompt, choices, and source answer (BOILING POINT (ACCEPT: BOILING TEMPERATURE, VAPOR PRESSURE))."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed physical PDF page 9 for numbered toss-up 18; complete section, choices, and answer checked (W) SPIROPENTANE)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed physical PDF page 10 for numbered toss-up 19; complete section, choices, and answer checked (W) THEY HAVE A SACCHARIDE CELL COVERING)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed physical PDF page 10 for numbered toss-up 20; complete section, choices, and answer checked (Y) 273 KELVIN)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Physical PDF page 11 shows 27(3^x) = 81 and the full verbal cue; answer is 1.",
+      "before": {
+        "question": "Solve the following equation for x over the real numbers: [27 times 3 to the power of x equals 81]."
+      },
+      "changes": {
+        "question": "Solve the following equation for x over the real numbers: 27(3<sup>x</sup>) = 81 [27 times 3 to the power of x equals 81].",
+        "question_sanitized": "Solve the following equation for x over the real numbers: 27(3^x) = 81 [27 times 3 to the power of x equals 81]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Physical PDF page 12 prints β [beta]-elimination; all choices and answer X) 1-methyl-1-cyclohexene match.",
+      "before": {
+        "question": "What is the major product in the ethoxide-promoted [beta]- elimination of 1-chloro-1-methylcyclohexane [1-chloro-1-meth-uhl-sy-kluh-HEK-sayn]?<br>W) Ethanol<br>X) 1-methyl-1-cyclohexene [1- methyl-1-sy-kluh-HEK-sayn]<br>Y) Methylcyclohexane<br>Z) Methylenecyclohexane [METH-uh-leen-sy-kluh-HEK-sayn]"
+      },
+      "changes": {
+        "question": "What is the major product in the ethoxide-promoted β [beta]-elimination of 1-chloro-1-methylcyclohexane [1-chloro-1-meth-uhl-sy-kluh-HEK-sayn]?<br>W) Ethanol<br>X) 1-methyl-1-cyclohexene [1- methyl-1-sy-kluh-HEK-sayn]<br>Y) Methylcyclohexane<br>Z) Methylenecyclohexane [METH-uh-leen-sy-kluh-HEK-sayn]",
+        "question_sanitized": "What is the major product in the ethoxide-promoted β [beta]-elimination of 1-chloro-1-methylcyclohexane [1-chloro-1-meth-uhl-sy-kluh-HEK-sayn]?\nW) Ethanol\nX) 1-methyl-1-cyclohexene [1- methyl-1-sy-kluh-HEK-sayn]\nY) Methylcyclohexane\nZ) Methylenecyclohexane [METH-uh-leen-sy-kluh-HEK-sayn]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed physical PDF page 12 for numbered toss-up 24; rechecked full prompt, choices, and source answer (Z) TOWARD THE POSITIVE ELECTRODE BECAUSE DNA HAS A NEGATIVE)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed physical PDF page 13 for numbered toss-up 25; complete section, choices, and answer checked (Y) c)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed physical PDF page 1 for numbered bonus 1; complete section, choices, and answer checked (CHLOROPLAST, MITOCHONDRIA)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed physical PDF page 1 for numbered bonus 2; complete section, choices, and answer checked (EQUAL = 2; UNEQUAL= 3)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed physical PDF page 2 for numbered bonus 3; complete section, choices, and answer checked (24)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed physical PDF page 2 for numbered bonus 4; complete section, choices, and answer checked (W) SPEAKERS)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed physical PDF page 3 for numbered bonus 5; complete section, choices, and answer checked (MEDIAL MORAINE)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed physical PDF page 3 for numbered bonus 6; complete section, choices, and answer checked (-173°)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed physical PDF page 4 for numbered bonus 7; complete section, choices, and answer checked (HETEROZYGOUS)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed physical PDF page 4 for numbered bonus 8; complete section, choices, and answer checked (X) 4 VOLTS)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Physical PDF page 5 shows (a⁻¹ + b⁻¹)⁻¹; W is ab/(a+b), followed by X) a+b, Y) a²b², Z) ab.",
+      "before": {
+        "parts": [
+          "Which of the following is equivalent to -1 -1 -1 [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]? 𝑎𝑎<br>W) [the fraction with numerator ab and denominator a plus b] (𝑎+𝑏) a + b<br>X) a b<br>Y) 2 2 ab<br>Z) 𝑎𝑎"
+        ],
+        "options": [
+          "W) [the fraction with numerator ab and denominator a plus b] (𝑎+𝑏) a + b",
+          "X) a b",
+          "Y) 2 2 ab",
+          "Z) 𝑎𝑎"
+        ],
+        "answers": [
+          "W) (𝑎+𝑏)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is equivalent to (a<sup>-1</sup> + b<sup>-1</sup>)<sup>-1</sup> [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?<br>W) <span class=\"nsb-fraction\"><span>ab</span><span>a + b</span></span> [the fraction with numerator ab and denominator a plus b]<br>X) a + b<br>Y) a<sup>2</sup>b<sup>2</sup><br>Z) ab"
+        ],
+        "parts_sanitized": [
+          "Which of the following is equivalent to (a^-1 + b^-1)^-1 [open parenthesis a to the power of negative 1 plus b to the power of negative 1 close parenthesis to the power of negative 1]?\nW) ab/(a + b) [the fraction with numerator ab and denominator a plus b]\nX) a + b\nY) a^2b^2\nZ) ab"
+        ],
+        "options": [
+          "W) <span class=\"nsb-fraction\"><span>ab</span><span>a + b</span></span> [the fraction with numerator ab and denominator a plus b]",
+          "X) a + b",
+          "Y) a<sup>2</sup>b<sup>2</sup>",
+          "Z) ab"
+        ],
+        "answers": [
+          "W) <span class=\"nsb-fraction\"><span>ab</span><span>a + b</span></span>"
+        ],
+        "answers_sanitized": [
+          "W) ab/(a + b)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed physical PDF page 6 for numbered bonus 11; complete section, choices, and answer checked (CaCO 3)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed physical PDF page 6 for numbered bonus 12; complete section, choices, and answer checked (2, 3, 4, 1 (ACCEPT: LITHIUM OXIDE, MAGNESIUM CHLORIDE, CALCIUM BROMIDE, BERYLLIUM SULFIDE))."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed physical PDF page 7 for numbered bonus 13; complete section, choices, and answer checked (W) IT IS HEAT-STABLE)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Physical PDF page 7 gives current 3 x 10^5 amperes to one significant digit; restored a sanitized scientific-notation counterpart.",
+      "before": {},
+      "changes": {
+        "answers_sanitized": [
+          "3 x 10^5"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Physical PDF page 8 shows cube diagonal 3√3, choices W) 27, X) 27√3, Y) 54, Z) 81; answer W) 27.",
+      "before": {
+        "parts": [
+          "What is the volume of a cube that has a space diagonal of 27<br>W) 27√3<br>X) 54<br>Y) 81<br>Z) 27"
+        ],
+        "options": [
+          "W) 27√3",
+          "X) 54",
+          "Y) 81",
+          "Z) 27"
+        ],
+        "answers": [
+          "W) 27√3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the volume of a cube that has a space diagonal of 3√3?<br>W) 27<br>X) 27√3<br>Y) 54<br>Z) 81"
+        ],
+        "options": [
+          "W) 27",
+          "X) 27√3",
+          "Y) 54",
+          "Z) 81"
+        ],
+        "answers": [
+          "W) 27"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed physical PDF page 8 for numbered bonus 16; rechecked full prompt, choices, and source answer (ETHANE = GAS, BUTANE = GAS, OCTANE = LIQUID)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed physical PDF page 9 for numbered bonus 18; complete section, choices, and answer checked (HYDROGEN PEROXIDE (ACCEPT: HYDROPEROXIDE ANION, H 2 O 2 ))."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed physical PDF page 10 for numbered bonus 20; complete section, choices, and answer checked (Z) 40)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Physical PDF page 11 lists first terms a, 2a, b, a − 6 − b and asks for the 100th term; answer −100.",
+      "before": {
+        "parts": [
+          "If the first four terms of an arithmetic sequence are and a – 6 – b, th find the 100 term."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the first four terms of an arithmetic sequence are a, 2a, b, and a − 6 − b, find the 100<sup>th</sup> term."
+        ],
+        "parts_sanitized": [
+          "If the first four terms of an arithmetic sequence are a, 2a, b, and a - 6 - b, find the 100th term."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed physical PDF page 11 for numbered bonus 22; rechecked full prompt, choices, and source answer (Y) LOW-LEVEL)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Physical PDF page 12 prints S_N2 leaving-group notation; answer is fluorine.",
+      "before": {
+        "parts": [
+          "Which halogen is the poorest S 2 leaving group? N"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which halogen is the poorest S<sub>N</sub>2 leaving group?"
+        ],
+        "parts_sanitized": [
+          "Which halogen is the poorest SN2 leaving group?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed physical PDF page 12 for numbered bonus 24; rechecked full prompt, choices, and source answer (Y) COVALENT BOND: ANTICODON TO CODON)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed physical PDF page 13 for numbered bonus 25; complete section, choices, and answer checked (W) THE MAGNITUDE OF THE ACCELERATION OF THE BOX AT ANY POINT SLIDING UP THE RAMP IS GREATER THAN THE MAGNITUDE OF THE ACCELERATION AT THE SAME POINT DOWN THE RAMP)."
+    }
+  ],
+  "packetIssues": []
+}

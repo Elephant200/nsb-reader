@@ -1,0 +1,480 @@
+{
+  "packetIndex": 208,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-7A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: compared complete printed TU1 wording, all options if present, and answer; prompt begins “1) Biology – Short Answer Atherosclerotic [athero-sklair-AW-tic] plaques are composed of”; source answer line: “ANSWER: CHOLESTEROL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: compared complete printed TU2 wording, all options if present, and answer; prompt begins “2) Earth and Space – Multiple Choice    Horsts and grabens [GRAH-bens] are bounded by what”; source answer line: “ANSWER: Z) NORMAL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: compared complete printed TU3 wording, all options if present, and answer; prompt begins “3) Energy – Short Answer Scientists at Princeton Plasma Physics Lab are developing”; source answer line: “ANSWER: DEUTERIUM AND TRITIUM (ACCEPT: HYDROGEN-2 AND HYDROGEN-3)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source answer accepts NH₄⁺; repaired the extracted split “NH + ) 4” as ammonium’s formula with subscript 4 and superscript +.",
+      "before": {
+        "answer": "AMMONIUM (ACCEPT: NH + ) 4"
+      },
+      "changes": {
+        "answer": "AMMONIUM (ACCEPT: NH<sub>4</sub><sup>+</sup>)",
+        "answer_sanitized": "AMMONIUM (ACCEPT: NH₄⁺)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source reads “Kate is tuning her cello’s A string”; replaced the double-escaped apostrophe in the question with its literal character.",
+      "before": {
+        "question": "Kate is tuning her cello&amp;apos;s A string by producing an A note on a string that is already tuned and comparing the sounds. Which of the following beat frequencies, in hertz, would indicate that the strings are closest to having the same pitch?<br>W) 2<br>X) 100<br>Y) 440<br>Z) 880"
+      },
+      "changes": {
+        "question": "Kate is tuning her cello’s A string by producing an A note on a string that is already tuned and comparing the sounds. Which of the following beat frequencies, in hertz, would indicate that the strings are closest to having the same pitch?<br>W) 2<br>X) 100<br>Y) 440<br>Z) 880"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: compared complete printed TU6 wording, all options if present, and answer; prompt begins “6) Math – Short Answer Giving your answer as a decimal, increasing a number by 125% is”; source answer line: “ANSWER: 2.25”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: compared complete printed TU7 wording, all options if present, and answer; prompt begins “7) Earth and Space – Short Answer RR Lyrae [LYE-ree] and Cepheid [SEF-ee-id] are classes”; source answer line: “ANSWER: VARIABLE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: compared complete printed TU8 wording, all options if present, and answer; prompt begins “8) Biology – Short Answer What is the common term for a basidiocarp”; source answer line: “ANSWER: MUSHROOM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared complete printed TU9 wording, all options if present, and answer; prompt begins “9) Physics – Short Answer A remote control car drops from a cliff and travels 19.6 meters”; source answer line: “ANSWER: 2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared complete printed TU10 wording, all options if present, and answer; prompt begins “10) Math – Short Answer Using the point names A, B, C, D, E, F, G, and H, how many”; source answer line: “ANSWER: 16”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared complete printed TU11 wording, all options if present, and answer; prompt begins “11) Chemistry – Multiple Choice Kevin performs a titration [tie-TRAY-shun] using sodium”; source answer line: “ANSWER: X) IT IS A WEAK ACID”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared complete printed TU12 wording, all options if present, and answer; prompt begins “12) Energy – Multiple Choice Argonne National Lab scientists recently developed a computer”; source answer line: “ANSWER: W) PHOTOELECTRIC EFFECT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: compared complete printed TU14 wording, all options if present, and answer; prompt begins “14) Chemistry – Short Answer Identify all of the following three metals that are transition”; source answer line: “ANSWER: 2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: the source prints the quadratic as y = x² − 5x + 8; restored the x² superscript while keeping the original question and answer.",
+      "before": {
+        "question": "What is the discriminant of the quadratic function y = x 2 – 5x + 8?"
+      },
+      "changes": {
+        "question": "What is the discriminant of the quadratic function y = x<sup>2</sup> − 5x + 8?",
+        "question_sanitized": "What is the discriminant of the quadratic function y = x² − 5x + 8?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: compared complete printed TU16 wording, all options if present, and answer; prompt begins “16) Physics – Short Answer A particular mineral rod can withstand approximately 200 joules”; source answer line: “ANSWER: 4”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: compared complete printed TU17 wording, all options if present, and answer; prompt begins “17) Biology – Short Answer      What enzyme joins all of the various Okazaki fragments together”; source answer line: “ANSWER: DNA LIGASE (ACCEPT: LIGASE)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: compared complete printed TU18 wording, all options if present, and answer; prompt begins “18) Energy – Multiple Choice Argonne National Laboratory researchers are examining the”; source answer line: “ANSWER: X) ANODE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared complete printed TU19 wording, all options if present, and answer; prompt begins “19) Math – Short Answer The mean of a set of 5 numbers is 6. Four of the numbers”; source answer line: “ANSWER: 12”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared complete printed TU20 wording, all options if present, and answer; prompt begins “20) Physics – Short Answer Identify all of the following three forces that are classified as”; source answer line: “ANSWER: 2, 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: compared complete printed TU21 wording, all options if present, and answer; prompt begins “21) Chemistry – Multiple Choice Doping a silicon crystal with which of the following”; source answer line: “ANSWER: W) BISMUTH”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: compared complete printed TU22 wording, all options if present, and answer; prompt begins “22) Earth and Space – Short Answer Hydrogen and helium make up approximately 97”; source answer line: “ANSWER: OXYGEN”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: compared complete printed TU23 wording, all options if present, and answer; prompt begins “23) Biology – Short Answer     What technique did Rosalind Franklin use to determine the”; source answer line: “ANSWER: X-RAY CRYSTALLOGRAPHY (ACCEPT: X-RAY DIFFRACTION, X-RAY DIFFRACTION CRYSTALLOGRAPHY)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: compared complete printed B1 wording, all options if present, and answer; prompt begins “1) Biology – Multiple Choice    In which of the following organ systems do the tonsils primarily”; source answer line: “ANSWER: W) LYMPHATIC ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: compared complete printed B2 wording, all options if present, and answer; prompt begins “2) Earth and Space – Short Answer Identify all of the following three regions that are passive”; source answer line: “ANSWER: 1, 3 2019 Regional Science Bowl – Round 7A                                                    Page 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: compared complete printed B3 wording, all options if present, and answer; prompt begins “3) Energy – Short Answer Researchers at Idaho National Lab are developing practical”; source answer line: “ANSWER: BIODIESEL (ACCEPT: DIESEL) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: compared complete printed B4 wording, all options if present, and answer; prompt begins “4) Chemistry – Short Answer     What is the name of the aldehyde [AL-deh-hide] with only a”; source answer line: “ANSWER: FORMALDEHYDE (ACCEPT: METHANAL) 2019 Regional Science Bowl – Round 7A                                                    Page 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: compared complete printed B5 wording, all options if present, and answer; prompt begins “5) Physics – Short Answer Identify all of the following three statements that must be true of”; source answer line: “ANSWER: 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: compared complete printed B6 wording, all options if present, and answer; prompt begins “6) Math – Short Answer Three exterior angles, one at each vertex of a triangle, have measures”; source answer line: “ANSWER: 36 2019 Regional Science Bowl – Round 7A                                                          Page 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: compared complete printed B7 wording, all options if present, and answer; prompt begins “7) Earth and Space – Short Answer What planet of the solar system has the highest albedo?”; source answer line: “ANSWER: VENUS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: compared complete printed B8 wording, all options if present, and answer; prompt begins “8) Biology – Short Answer In peas, tall is dominant to short, and green is dominant to yellow.”; source answer line: “ANSWER: 3/16 2019 Regional Science Bowl – Round 7A                                                    Page 4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared complete printed B9 wording, all options if present, and answer; prompt begins “9) Physics – Short Answer Identify all of the following three statements that are true of free-”; source answer line: “ANSWER: 2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared complete printed B10 wording, all options if present, and answer; prompt begins “10) Math – Short Answer What are the coordinates of the vertex of the graph of”; source answer line: “ANSWER: (–2, 7) (ACCEPT: x = –2 AND y = 7) 2019 Regional Science Bowl – Round 7A                                                             Page 5”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared complete printed B11 wording, all options if present, and answer; prompt begins “11) Chemistry – Short Answer Identify all of the following four molecules that are linear:”; source answer line: “ANSWER: 1, 3, AND 4 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared complete printed B12 wording, all options if present, and answer; prompt begins “12) Energy – Short Answer Scientists at Argonne National Lab are researching methods to”; source answer line: “ANSWER: METHANOL 2019 Regional Science Bowl – Round 7A                                                        Page 6”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: compared complete printed B14 wording, all options if present, and answer; prompt begins “14) Chemistry – Short Answer Consider the combustion reaction between solid carbon and”; source answer line: “ANSWER: 3 2019 Regional Science Bowl – Round 7A                                                       Page 7”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source typesets the integrand as √(100 − x²), with bounds −10 and 0 and differential dx; restored superscript 2 and clear bounds while retaining every source phrase.",
+      "before": {
+        "parts": [
+          "Evaluate the integral from x = –10 to 0 of the square root of open parenthesis 100 – x 2 close parenthesis dx."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the integral from x = −10 to 0 of the square root of open parenthesis 100 − x² close parenthesis dx."
+        ],
+        "parts_sanitized": [
+          "Evaluate the integral from x = −10 to 0 of the square root of open parenthesis 100 − x² close parenthesis dx."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: compared complete printed B16 wording, all options if present, and answer; prompt begins “16) Physics – Short Answer Vince drops a football from a cliff and notes that it takes 2”; source answer line: “ANSWER: 22 2019 Regional Science Bowl – Round 7A                                                        Page 8”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: compared complete printed B17 wording, all options if present, and answer; prompt begins “17) Biology – Short Answer If nondisjunction occurs in meiosis I [my-OH-sis one], how”; source answer line: “ANSWER: FOUR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: compared complete printed B18 wording, all options if present, and answer; prompt begins “18) Energy – Short Answer Scientists at Pacific Northwest National Lab are collecting”; source answer line: “ANSWER: NEUTRINO (ACCEPT: ANTINEUTRINO, ELECTRON ANTINEUTRINO, ELECTRON NEUTRINO)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared complete printed B19 wording, all options if present, and answer; prompt begins “19) Math – Short Answer The sums of three whole numbers taken in pairs are 16, 17, and 23.”; source answer line: “ANSWER: 660 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared complete printed B20 wording, all options if present, and answer; prompt begins “20) Physics – Short Answer A certain particle has a potential energy of zero at a given”; source answer line: “ANSWER: NONE OF THEM 2019 Regional Science Bowl – Round 7A                                                         Page 10”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: compared complete printed B21 wording, all options if present, and answer; prompt begins “21) Chemistry – Short Answer Rank the following three atoms in terms of increasing first”; source answer line: “ANSWER: 3, 2, 1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: compared complete printed B22 wording, all options if present, and answer; prompt begins “22) Earth and Space – Short Answer Identify all of the following three aspects of planetary”; source answer line: “ANSWER: 1, 3 2019 Regional Science Bowl – Round 7A                                                     Page 11”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: compared complete printed B23 wording, all options if present, and answer; prompt begins “23) Biology – Short Answer It is hypothesized that humans derived little to no fitness benefit”; source answer line: “ANSWER: COMMENSALISM 2019 Regional Science Bowl – Round 7A                                                   Page 12”."
+    }
+  ],
+  "packetIssues": []
+}

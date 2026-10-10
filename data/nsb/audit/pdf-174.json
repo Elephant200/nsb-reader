@@ -1,0 +1,625 @@
+{
+  "packetIndex": 174,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_10A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1. Printed prompt, choices where present, and answer: 1) Chemistry – Multiple Choice Trans fats necessarily contain what functional group? W) Ester X) Alkene Y) Alcohol Z) Amine [ah-MEEN] ANSWER: X) ALKENE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2. Printed prompt, choices where present, and answer: 2) Biology – Short Answer What type of leukocyte [LOO-koh-site] is involved in phagocytosis [fag-oh-sye-TOW-sis] of antigen-antibody complexes and parasites? ANSWER: EOSINOPHIL"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 3. Printed prompt, choices where present, and answer: 3) Earth and Space – Short Answer What is the name for the air-lifting process that forces an air mass up and over a mountain or upland, causing the moisture to rain out on the windward slope and leaving a rainshadow effect on the leeward slope? ANSWER: OROGRAPHIC LIFTING"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4. Printed prompt, choices where present, and answer: 4) Physics – Short Answer For a particle in an infinite square potential well, how many nodes exist in the wavefunction within the well, not including the walls, in the third excited state? ANSWER: 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 prints the parallel vectors as 4i − 3j and xi + 12j; the imported question omitted the minus sign between the first vector’s terms.",
+      "before": {
+        "question": "Find the value of x for which the following vectors are parallel: − 4i 3j and xi + 12j."
+      },
+      "changes": {
+        "question": "Find the value of x for which the following vectors are parallel: 4i − 3j and xi + 12j.",
+        "question_sanitized": "Find the value of x for which the following vectors are parallel: 4i − 3j and xi + 12j."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6. Printed prompt, choices where present, and answer: 6) Energy – Short Answer What US state is responsible for generating the most total net electricity? ANSWER: TEXAS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7. Printed prompt, choices where present, and answer: 7) Chemistry – Multiple Choice Consider ice at 0 degrees Celsius that is heated until it becomes water at 80 degrees Celsius. Which of the following statements is TRUE concerning its volume? W) It monotonically [mono-TAWN-ik-lee] decreases X) It decreases until 4 degrees Celsius, then increases Y) It increases until 4 degrees Celsius, then remains constant Z) It remains constant ANSWER: X) IT DECREASES UNTIL 4 DEGREES CELSIUS, THEN INCREASES"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8. Printed prompt, choices where present, and answer: 8) Math – Short Answer If f of x equals the cube root of open parenthesis x – 6 close parenthesis, what is f inverse of 5? ANSWER: 131"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9. Printed prompt, choices where present, and answer: 9) Earth and Space – Short Answer The leading edge of the bowl of the Big Dipper, from bottom to top, points to what important aid to celestial navigation? ANSWER: POLARIS (ACCEPT: NORTH STAR)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10. Printed prompt, choices where present, and answer: 10) Physics – Short Answer Identify all of the following three statements that could be true of a particle undergoing constant acceleration: 1) Zero instantaneous velocity; 2) Quadratic increase in velocity; 3) Quadratic increase in position. ANSWER: 1 AND 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 11. Printed prompt, choices where present, and answer: 11) Energy – Short Answer What is the name of the process by which biomass is thermally decomposed in the absence of oxygen? ANSWER: PYROLYSIS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints the pronunciation cue immediately followed by the question mark: “[para-ZOH-an]?”; answer W) SPONGE.",
+      "before": {
+        "question": "Which of the following organisms is characterized as a parazoan [para-ZOH-an] ?<br>W) Sponge<br>X) Sea cucumber<br>Y) Jellyfish<br>Z) Tapeworm"
+      },
+      "changes": {
+        "question": "Which of the following organisms is characterized as a parazoan [para-ZOH-an]?<br>W) Sponge<br>X) Sea cucumber<br>Y) Jellyfish<br>Z) Tapeworm",
+        "question_sanitized": "Which of the following organisms is characterized as a parazoan [para-ZOH-an]? W) Sponge X) Sea cucumber Y) Jellyfish Z) Tapeworm"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows x⁵y⁴ in the question and 4x⁵y³ in the printed answer.",
+      "before": {
+        "question": "What is the partial derivative with respect to y of the expression x 5 y 4 ?",
+        "answer": "4x 5 y 3"
+      },
+      "changes": {
+        "question": "What is the partial derivative with respect to y of the expression x<sup>5</sup>y<sup>4</sup>?",
+        "answer": "4x<sup>5</sup>y<sup>3</sup>",
+        "question_sanitized": "What is the partial derivative with respect to y of the expression x^5y^4?",
+        "answer_sanitized": "4x^5y^3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 prints “Kirchoff’s 1st Law” with one h after c (source spelling). The import double-escaped apostrophes; retain the source spelling and repair only the apostrophe encoding. The answer is W) OHM’S LAW.",
+      "before": {
+        "question": "Which of the following laws is NOT always true in electrical circuits?<br>W) Ohm&amp;apos;s Law<br>X) Coulomb&amp;apos;s Law<br>Y) Kirchoff&amp;apos;s 1st Law<br>Z) Faraday&amp;apos;s Law of Induction",
+        "options": [
+          "W) Ohm&amp;apos;s Law",
+          "X) Coulomb&amp;apos;s Law",
+          "Y) Kirchoff&amp;apos;s 1st Law",
+          "Z) Faraday&amp;apos;s Law of Induction"
+        ],
+        "answer": "W) OHM&amp;apos;S LAW"
+      },
+      "changes": {
+        "question": "Which of the following laws is NOT always true in electrical circuits?<br>W) Ohm&apos;s Law<br>X) Coulomb&apos;s Law<br>Y) Kirchoff&apos;s 1st Law<br>Z) Faraday&apos;s Law of Induction",
+        "options": [
+          "W) Ohm&apos;s Law",
+          "X) Coulomb&apos;s Law",
+          "Y) Kirchoff&apos;s 1st Law",
+          "Z) Faraday&apos;s Law of Induction"
+        ],
+        "answer": "W) OHM&apos;S LAW",
+        "question_sanitized": "Which of the following laws is NOT always true in electrical circuits? W) Ohm’s Law X) Coulomb’s Law Y) Kirchoff’s 1st Law Z) Faraday’s Law of Induction",
+        "answer_sanitized": "W) OHM’S LAW"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15. Printed prompt, choices where present, and answer: 15) Chemistry – Multiple Choice Which of the following statements is NOT true concerning the hydrogen atom, if only gross structure contributions are accounted for? W) 4s orbitals are at a higher energy than 3d orbitals X) 4d orbitals are at a higher energy than 3d orbitals Y) A 2p to 1s transition is more energetic than a 4p to 2s transition Z) The Balmer series includes only transitions to n=2 ANSWER: W) 4s ORBITALS ARE AT A HIGHER ENERGY THAN 3d ORBITALS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 prints continental-shelf percentages W) 10 | X) 20 | Y) 30 | Z) 40; answer W) 10. The imported X choice had malformed fraction markup and Y was empty.",
+      "before": {
+        "question": "Which of the following is closest to the percentage of the ocean area that is represented by continental shelves?<br>W) 10<br>X) <span class=\"nsb-fraction\">&lt;span&gt;20</span>&lt;span&gt;30</span></span><br>Y) <br>Z) 40",
+        "options": [
+          "W) 10",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;20</span>&lt;span&gt;30</span></span>",
+          "Y) ",
+          "Z) 40"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is closest to the percentage of the ocean area that is represented by continental shelves?<br>W) 10<br>X) 20<br>Y) 30<br>Z) 40",
+        "options": [
+          "W) 10",
+          "X) 20",
+          "Y) 30",
+          "Z) 40"
+        ],
+        "question_sanitized": "Which of the following is closest to the percentage of the ocean area that is represented by continental shelves? W) 10 X) 20 Y) 30 Z) 40"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17. Printed prompt, choices where present, and answer: 17) Biology – Multiple Choice Zinc finger motifs are commonly found in proteins that do which of the following? W) Hydrolyze [HIGH-droh-lyze] sugars X) Sequester calcium Y) Catalyze polymerization [pawl-ih-mer-eh-ZAY-shun] Z) Bind to DNA ANSWER: Z) BIND TO DNA"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 prints toss-up 18 with the bracketed pronunciation [BAY-tah] in “beta plus decay”; the answer is POSITRONS (ACCEPT: ANTI-ELECTRON)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20. Printed prompt, choices where present, and answer: 20) Physics – Short Answer A car brakes to a stop over 15 meters, applying a constant force of 800 newtons to the car. In joules, what was the initial kinetic energy of the car? ANSWER: 12,000"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21. Printed prompt, choices where present, and answer: 21) Chemistry – Short Answer Rank the pH of the following three solutions, from lowest to highest: 1) One molar solution of hydrochloric acid; 2) One molar solution of acetic acid; 3) One molar solution of ammonium perchlorate. ANSWER: 1, 2, 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 22. Printed prompt, choices where present, and answer: 22) Math – Short Answer In base 7, what is 4 + 6? ANSWER: ONE-THREE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23. Printed prompt, choices where present, and answer: 23) Biology – Short Answer What is the net ATP gain during glycolysis [glye-KAWL-eh-sis], per molecule of glucose? ANSWER: TWO"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints Tollens’ test and “[AL-deh-hide]-containing”; answer W) A SILVER MIRROR IS FORMED.",
+      "before": {
+        "parts": [
+          "Tollens&amp;apos; test can detect aldehyde [AL-deh-hide] -containing compounds. To perform Tollens&amp;apos; test, an organic compound is mixed with a solution of silver ions. Which of the following indicates that the compound of interest contains an aldehyde?<br>W) A silver mirror is formed<br>X) Insoluble silver oxide precipitates from solution<br>Y) The reaction mixture turns yellow<br>Z) The aldehyde is reduced to an alcohol"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Tollens&apos; test can detect aldehyde [AL-deh-hide]-containing compounds. To perform Tollens&apos; test, an organic compound is mixed with a solution of silver ions. Which of the following indicates that the compound of interest contains an aldehyde?<br>W) A silver mirror is formed<br>X) Insoluble silver oxide precipitates from solution<br>Y) The reaction mixture turns yellow<br>Z) The aldehyde is reduced to an alcohol"
+        ],
+        "parts_sanitized": [
+          "Tollens’ test can detect aldehyde [AL-deh-hide]-containing compounds. To perform Tollens’ test, an organic compound is mixed with a solution of silver ions. Which of the following indicates that the compound of interest contains an aldehyde? W) A silver mirror is formed X) Insoluble silver oxide precipitates from solution Y) The reaction mixture turns yellow Z) The aldehyde is reduced to an alcohol"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2. Printed prompt, choices where present, and answer: 2) Biology – Short Answer Angiotensin [an-jee-oh-TEN-sin] acts on the adrenal [Ah-DREE-nul] cortex to promote secretion of what hormone? ANSWER: ALDOSTERONE 2017 Regional High School NSB®                                                                              PAGE 1"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3. Printed prompt, choices where present, and answer: 3) Earth and Space – Multiple Choice The Moon always turns the same face toward the Earth, yet small variations in the visibility of its features appear to take place, such that it appears to rock slowly backward and forward. What effect accounts for this observed behavior? W) Transient phenomena X) Libration Y) Moonset Z) Earthshine ANSWER: X) LIBRATION ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4. Printed prompt, choices where present, and answer: 4) Physics – Multiple Choice The external presence of which of the following would result in the forward bias of a p-n junction? W) Electric field directed toward the p region X) Electric field directed toward the n region Y) Magnetic field directed toward the p region Z) Magnetic field directed toward the n region ANSWER: X) ELECTRIC FIELD DIRECTED TOWARD THE N REGION 2017 Regional High School NSB®                                                                                 PAGE 2"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5. Printed prompt, choices where present, and answer: 5) Math – Short Answer Consider a pair of “loaded” six-sided dice. In this case, each die is weighted so that a one is rolled one-third of the time. The other numbers are all still equally likely. What is the probability of rolling a pair of sixes? ANSWER: 4/225 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6. Printed prompt, choices where present, and answer: 6) Energy – Short Answer Vapor extraction, steam-assisted gravity drainage, and cold heavy oil production with sand are all methods of extracting what type of petroleum deposit, found primarily in Alberta, Canada? ANSWER: OIL SANDS (ALSO ACCEPT: TAR SANDS, BITUMINOUS SANDS) 2017 Regional High School NSB®                                                                                     PAGE 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7. Printed prompt, choices where present, and answer: 7) Chemistry – Multiple Choice Which of the following transition metal 2+ ions is most commonly found in a square planar geometry? W) Copper X) Nickel Y) Iron Z) Cobalt ANSWER: X) NICKEL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 prints the full source cue as “cosine open parenthesis x − π/4 close parenthesis + sine open parenthesis x − π/4 close parenthesis”; answer (√2)SINE x.",
+      "before": {
+        "parts": [
+          "Simplify cosine open parenthesis x – close parenthesis + π/4 sine open parenthesis x – close parenthesis."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify cosine open parenthesis x − π/4 close parenthesis + sine open parenthesis x − π/4 close parenthesis."
+        ],
+        "parts_sanitized": [
+          "Simplify cosine open parenthesis x − π/4 close parenthesis + sine open parenthesis x − π/4 close parenthesis."
+        ],
+        "answers_sanitized": [
+          "sqrt(2) sine x"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9. Printed prompt, choices where present, and answer: 9) Earth and Space – Multiple Choice Tombolos are associated with which of the following? W) Undersea vents X) Islands Y) Volcanoes Z) Wind patterns ANSWER: X) ISLANDS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10. Printed prompt, choices where present, and answer: 10) Physics – Multiple Choice Which of the following elements is useful as an isotope label due to the two most common isotopes having 1 to 1 relative abundance? W) Hydrogen X) Chlorine Y) Bromine [BROH-meen] Z) Iodine ANSWER: Y) BROMINE 2017 Regional High School NSB®                                                                                  PAGE 5"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11. Printed prompt, choices where present, and answer: 11) Energy – Short Answer What name is used for the semiconductor nanoparticles that are being studied and incorporated into solar cells, LEDs, and color displays? ANSWER: QUANTUM DOTS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints “[SKWAY-mus] epithelium [eh-pih-THEEL-ee-um]?” without a space before the question mark; answer Y) LUNG LINING.",
+      "before": {
+        "parts": [
+          "Which of the following is an example of simple squamous [SKWAY-mus] epithelium [eh-pih-THEEL-ee-um] ?<br>W) Stomach lining<br>X) Intestinal lining<br>Y) Lung lining<br>Z) Skin"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is an example of simple squamous [SKWAY-mus] epithelium [eh-pih-THEEL-ee-um]?<br>W) Stomach lining<br>X) Intestinal lining<br>Y) Lung lining<br>Z) Skin"
+        ],
+        "parts_sanitized": [
+          "Which of the following is an example of simple squamous [SKWAY-mus] epithelium [eh-pih-THEEL-ee-um]? W) Stomach lining X) Intestinal lining Y) Lung lining Z) Skin"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 prints “88th power” with the ordinal suffix raised; answer 6.",
+      "before": {
+        "parts": [
+          "What is the units digit of 8 to the 88 th power?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the units digit of 8 to the 88<sup>th</sup> power?"
+        ],
+        "parts_sanitized": [
+          "What is the units digit of 8 to the 88th power?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14. Printed prompt, choices where present, and answer: 14) Physics – Short Answer Three resistors are in parallel and have resistances of X, X, and 200 ohms. The equivalent resistance of the circuit is 75 ohms. What is the value of X, in ohms? ANSWER: 240 2017 Regional High School NSB®                                                                            PAGE 7"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 prints B₂, C₂, and N₂ and the answer “1 (ACCEPT: B₂)”; the subscript markup is retained without stray spaces.",
+      "before": {
+        "parts": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B<sub>2</sub> ; 2) C<sub>2</sub> ; 3) N<sub>2</sub> ."
+        ],
+        "answers": [
+          "1 (ACCEPT: B<sub>2</sub> )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B<sub>2</sub>; 2) C<sub>2</sub>; 3) N<sub>2</sub>."
+        ],
+        "answers": [
+          "1 (ACCEPT: B<sub>2</sub>)"
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] compounds that MO theory predicts to be paramagnetic: 1) B_2; 2) C_2; 3) N_2."
+        ],
+        "answers_sanitized": [
+          "1 (ACCEPT: B_2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16. Printed prompt, choices where present, and answer: 16) Earth and Space – Short Answer What is the name for the circular ocean currents that pinch off from ocean currents in sections, causing drastic changes in sound velocity at the interface? ANSWER: EDDIES 2017 Regional High School NSB®                                                                             PAGE 8"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17. Printed prompt, choices where present, and answer: 17) Biology – Multiple Choice Which of the following is a correct classification of spectrin proteins? W) Transmembrane X) Receptor Y) Channel Z) Cytoskeletal [SIGH-toh-skeletal] ANSWER: Z) CYTOSKELETAL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18 listing Sulfur, Particulates, and Carbon monoxide; printed answer is ALL OF THEM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 19. Printed prompt, choices where present, and answer: 19) Earth and Space – Short Answer What is the name for a front that is formed when a cold front overtakes a warm front and warm air is separated from the cyclonic center? ANSWER: OCCLUDED FRONT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20. Printed prompt, choices where present, and answer: 20) Physics – Short Answer A block attached to a spring is experiencing simple harmonic motion with a period of 4.0 seconds. What would the period be, in seconds to two significant figures, if the mass of the block was halved? ANSWER: 2.8 2017 Regional High School NSB®                                                                               PAGE 10"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 spells the prompt “Identify all of the following three molecules”; answer 3.",
+      "before": {
+        "parts": [
+          "Identfiy all of the following three molecules that are likely to act as electrophiles in a substitution reaction: 1) Ammonia; 2) Bromide; 3) Methyl bromide."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three molecules that are likely to act as electrophiles in a substitution reaction: 1) Ammonia; 2) Bromide; 3) Methyl bromide."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three molecules that are likely to act as electrophiles in a substitution reaction: 1) Ammonia; 2) Bromide; 3) Methyl bromide."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 prints the integrand as the square root of (64 − x²) dx; answer 16π. The 2 is a raised exponent.",
+      "before": {
+        "parts": [
+          "Evaluate the integral from x = –8 to 0 of the square root of open parenthesis 64 – x 2 close parenthesis dx."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the integral from x = −8 to 0 of the square root of open parenthesis 64 − x<sup>2</sup> close parenthesis dx."
+        ],
+        "parts_sanitized": [
+          "Evaluate the integral from x = −8 to 0 of the square root of open parenthesis 64 − x^2 close parenthesis dx."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23. Printed prompt, choices where present, and answer: 23) Biology – Short Answer       In a young stem, what is the name for the immature tissues that will specifically develop into xylem and phloem? ANSWER: PROCAMBIUM 2017 Regional High School NSB®                                                                                PAGE 12"
+    }
+  ],
+  "packetIssues": []
+}

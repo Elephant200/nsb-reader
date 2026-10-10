@@ -1,0 +1,463 @@
+{
+  "packetIndex": 135,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_5A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 1: 1) Chemistry – Short Answer In electrochemistry, what equation, named for the 1920 Nobel prize winner in chemistry, gives the redox potential of a galvanic cell as a function of temperature, the reaction quotient, and standard redox potential? ANSWER: NERNST EQUATION"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 2: 2) Earth and Space – Multiple Choice The sun produces energy by what conversion of atomic nuclei? W) Hydrogen to helium X) Helium to hydrogen Y) Oxygen to carbon dioxide Z) Dioxide to oxygen ANSWER: W) HYDROGEN TO HELIUM"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 3: 3) Energy – Short Answer What process, first proposed by Peter Mitchell, is the movement of protons across a selectively permeable membrane that is coupled to ATP production in respiring animal and plant cells? ANSWER: CHEMIOSMOSIS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 4: 4) Physics – Multiple Choice You have three equivalent resistors with which to make a circuit. Which of the following combinations would have the least total resistance? W) All three resistors in series X) All three resistors in parallel Y) Two resistors in series to each other and in parallel with the third Z) Two resistors in …"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 5: 5) Biology – Multiple Choice Which of the following organelles is the location of post-translation modifications to proteins? W) Smooth ER X) Golgi body Y) Glyoxysome [gligh-ox-ih-sohm] Z) Mitochondria ANSWER: X) GOLGI BODY"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 6: 6) Math – Short Answer Express the repeating decimal 0.131313, with repeating part 13, as a fraction written in lowest terms. ANSWER: 13/99"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 7: 7) Chemistry – Short Answer What is the name of the process when a heated solid changes directly to gas without going through the liquid state? ANSWER: SUBLIMATION"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 8: 8) Energy – Short Answer To provide numerical values for standard potentials in electrochemistry, we must set the standard potential of a certain electrode to zero. What element has a reduction potential that is defined to be zero? ANSWER: HYDROGEN"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 9: 9) Earth and Space – Multiple Choice Which of the following is closest to the number of days of the world's supply of precipitation that is stored as water vapor in the Earth’s atmosphere at any moment? W) 1 X) 7 Y) 28 Z) 365 ANSWER: X) 7",
+      "before": {
+        "question": "Which of the following is closest to the number of days of the world&amp;apos;s supply of precipitation that is stored as water vapor in the Earth’s atmosphere at any moment?<br>W) 1<br>X) 7<br>Y) 28<br>Z) 365"
+      },
+      "changes": {
+        "question": "Which of the following is closest to the number of days of the world's supply of precipitation that is stored as water vapor in the Earth’s atmosphere at any moment?<br>W) 1<br>X) 7<br>Y) 28<br>Z) 365",
+        "question_sanitized": "Which of the following is closest to the number of days of the world's supply of precipitation that is stored as water vapor in the Earth’s atmosphere at any moment? W) 1 X) 7 Y) 28 Z) 365"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 10: 10) Physics – Multiple Choice A family sits on an 8 meter long see-saw. The daughter, massing 20 kilograms, sits at the left end of the see-saw, and the father, massing 80 kilograms, sits at the middle of the right portion of the see-saw. Where must the mother, massing 60 kilograms, sit in order to make the see-saw in static equ…"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 12: 12) Math – Short Answer How many integers in the closed interval from 0 to 100 are the squares of perfect squares? ANSWER: 4"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 13: 13) Chemistry – Short Answer Ozone is an allotrope of oxygen with formula O 3 . What is both the hybridization and molecular geometry of the central oxygen atom in ozone? ANSWER: SP2 AND BENT",
+      "before": {
+        "question": "Ozone is an allotrope of oxygen with formula O<sub>3</sub> . What is both the hybridization and molecular geometry of the central oxygen atom in ozone?",
+        "answer": "SP2 AND BENT"
+      },
+      "changes": {
+        "question": "Ozone is an allotrope of oxygen with formula O<sub>3</sub>. What is both the hybridization and molecular geometry of the central oxygen atom in ozone?",
+        "answer": "sp<sup>2</sup> AND BENT",
+        "answer_sanitized": "sp^2 AND BENT"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 14: 14) Energy – Short Answer When this question was written, the world’s fastest computer was China’s Tianhe-2 that can perform 3.4 x 1016 computations per second. If it operates at 50% capacity and each calculation requires 10–13 joules of energy, what is its operating power in watts and in scientific notation? ANSWER: 1.7 x 103",
+      "before": {
+        "question": "When this question was written, the world’s fastest computer was China’s 16 Tianhe-2 that can perform 3.4 x 10 computations per second. If it operates at 50% capacity and each –13 calculation requires joules of energy, what is its operating power in watts and in scientific notation? <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;3</span></span>",
+        "answer": "1.7 x 10"
+      },
+      "changes": {
+        "question": "When this question was written, the world’s fastest computer was China’s Tianhe-2 that can perform 3.4 × 10<sup>16</sup> computations per second. If it operates at 50% capacity and each calculation requires 10<sup>−13</sup> joules of energy, what is its operating power in watts and in scientific notation?",
+        "question_sanitized": "When this question was written, the world’s fastest computer was China’s Tianhe-2 that can perform 3.4 × 10^16 computations per second. If it operates at 50% capacity and each calculation requires 10^-13 joules of energy, what is its operating power in watts and in scientific notation?",
+        "answer": "1.7 × 10<sup>3</sup>",
+        "answer_sanitized": "1.7 × 10^3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 15: 15) Earth and Space – Multiple Choice Remnants of the energy released by the Big Bang are now distributed across the Universe as which of the following? W) X-rays X) Ultraviolet Y) Infrared Z) Microwaves ANSWER: Z) MICROWAVES"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 16: 16) Physics – Multiple Choice When doing mass spectrometry, one will notice that atoms of the same element will have slightly different charge-to-mass ratios. Which of the following particles is responsible for this difference? W) Proton X) Electron Y) Neutron Z) Meson ANSWER: Y) NEUTRON"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 18: 18) Math – Short Answer Determine the maximum of the function f(x) = x2 – 22 on the closed interval from -3 to 2. ANSWER: -13",
+      "before": {
+        "question": "Determine the maximum of the function f(x) = x – 22 on the closed interval from -3 to 2."
+      },
+      "changes": {
+        "question": "Determine the maximum of the function f(x) = x<sup>2</sup> − 22 on the closed interval from -3 to 2.",
+        "question_sanitized": "Determine the maximum of the function f(x) = x^2 − 22 on the closed interval from -3 to 2."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 19: 19) Chemistry – Short Answer Identify all of the following three formula-name pairs that are correctly matched: 1) CuSO 4 ∙5H 2 O and blue vitriol; 2) MgSO 4 and Milk of Magnesia; 3) CaO and limestone. ANSWER: 1",
+      "before": {
+        "question": "Identify all of the following three formula-name pairs that are correctly ∙5H<sub>2</sub> matched: 1) CuSO<sub>4</sub> O and blue vitriol; 2) MgSO<sub>4</sub> and Milk of Magnesia; 3) CaO and limestone."
+      },
+      "changes": {
+        "question": "Identify all of the following three formula-name pairs that are correctly matched: 1) CuSO<sub>4</sub>·5H<sub>2</sub>O and blue vitriol; 2) MgSO<sub>4</sub> and Milk of Magnesia; 3) CaO and limestone.",
+        "question_sanitized": "Identify all of the following three formula-name pairs that are correctly matched: 1) CuSO₄·5H₂O and blue vitriol; 2) MgSO₄ and Milk of Magnesia; 3) CaO and limestone."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 20: 20) Earth and Space – Short Answer What element is responsible for the destructive nature of CFCs to ozone molecules? ANSWER: CHLORINE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 21: 21) Physics – Short Answer What quantum mechanical principle states that no two identical fermions can possess the same quantum numbers simultaneously? ANSWER: PAULI EXCLUSION PRINCIPLE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed toss-up 23: 23) Math – Short Answer Assemblies coming from a plant are inspected for defects. Historical records indicate that 8% have defects in shafts, 6% have defects in bushings, and 2% have defects in both shafts and bushings. One of the assemblies is selected at random. What is the probability, in percentage form, that the assembly ha…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 1: 1) Chemistry – Short Answer What is the chemical formula for hypophosphorous [high-poh-fos-fohr-uhs] acid? ANSWER: H 3 PO 2",
+      "before": {
+        "answers": [
+          "H<sub>3</sub> PO<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "H<sub>3</sub>PO<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "H₃PO₂"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 3: 3) Energy – Short Answer What stage of aerobic cellular respiration is most closely associated with the mitochondrial matrix? ANSWER: KREBS CYCLE (ACCEPT: TRICARBOXYLIC ACID CYCLE, CITRIC ACID CYCLE)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 4: 4) Physics – Short Answer What is the length of a string, in meters, required to produce a fourth harmonic of 200 Hertz if the speed of waves in the string is known to be 400 meters per second and the string is fixed at both ends? ANSWER: 4"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 5: 5) Biology – Short Answer What is the process by which cells that have reached the end of their functional life span undergo programmed cell death? ANSWER: APOPTOSIS"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 6: 6) Math – Short Answer If you made a checkerboard with 23 squares on each side with black squares in every corner and alternating red and black along every row and column, how many red squares do you have on your checkerboard? ANSWER: 264"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 7: 7) Chemistry – Short Answer Identify all of the following three titrations that would be neutral at the equivalence point: 1) Hydrochloric acid with sodium hydroxide; 2) Hypochlorous acid with sodium hydroxide; 3) Hydrochloric acid with ammonia. ANSWER: 1"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 8: 8) Energy – Short Answer Order the following three types of coal from least to greatest in terms of energy density: 1) Anthracite; 2) Lignite; 3) Bituminous. ANSWER: 2, 3, 1"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 9: 9) Earth and Space – Multiple Choice The earth is tilted at an angle of 23.5° with respect to the plane of its orbit around the sun. If the amount of tilt were increased to 40°, what would be expected in middle latitudes? W) Hotter summers and colder winters than at present X) Cooler summers and milder winters than at present Y)…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 10: 10) Physics – Short Answer When ultrarelativistic charged particles are accelerated radially, such as those in the Crab nebula, what specific type of radiation is emitted? ANSWER: SYNCHROTRON RADIATION"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 12: 12) Math – Short Answer If x/2 = y2 and x/4 = 4y, what is the largest possible value of x? ANSWER: 128",
+      "before": {
+        "parts": [
+          "If x/2 = y and x/4 = 4y, what is the largest possible value of x?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If x/2 = y<sup>2</sup> and x/4 = 4y, what is the largest possible value of x?"
+        ],
+        "parts_sanitized": [
+          "If x/2 = y^2 and x/4 = 4y, what is the largest possible value of x?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 13: 13) Chemistry – Short Answer Identify all of the following three organic functional groups that, when substituted for a hydrogen on a benzene ring, would further activate that ring towards electrophilic substitution: 1) Amine; 2) Methyl; 3) Nitro. ANSWER: 1 AND 2"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 14: 14) Energy – Short Answer What physical constant, equal to the ideal gas constant divided by Avogadro’s number, relates particle energy to temperature? ANSWER: BOLTZMANN CONSTANT"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 16: 16) Physics – Short Answer In Rutherford’s nuclear model of the atom, he could not understand why the positive charges in a dense nucleus would not repel each other. Which force was later found to be holding the nucleus together? ANSWER: STRONG FORCE (ACCEPT: STRONG NUCLEAR FORCE)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 17: 17) Biology – Short Answer Identify all of the following three hormones that are released by the posterior pituitary gland: 1) Oxytocin; 2) Calcitonin; 3) Luteinizing hormone. ANSWER: 1"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 18: 18) Math – Multiple Choice How many two digit positive integers have at least one 5 as a digit? W) 16 X) 17 Y) 18 Z) 19 ANSWER: Y) 18"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 19: 19) Chemistry – Short Answer Given that the enthalpy of formation of liquid water is -290 kilojoules per mole, that of gaseous carbon dioxide is -390 kilojoules per mole, and that of gaseous methane is -75 kilojoules per mole, find the enthalpy of combustion of one mole of methane in kilojoules. ANSWER: -895"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 20: 20) Earth and Space – Multiple Choice According to the Saffir-Simpson scale, a hurricane with maximum sustained winds of 67 meters per second is considered to be what category? W) 2 X) 3 Y) 4 Z) 5 ANSWER: Y) 4"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 21: 21) Physics – Short Answer What experiment, important in quantum mechanics, involved sending beams of particles through an inhomogeneous magnetic field and observing their deflections, the results of which showed that particles possess an intrinsic angular momentum that takes only certain quantized values? ANSWER: STERN-GERLACH …"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed bonus 23: 23) Math – Short Answer What is the greatest common divisor of 132 and 6432? ANSWER: 12"
+    }
+  ],
+  "packetIssues": []
+}

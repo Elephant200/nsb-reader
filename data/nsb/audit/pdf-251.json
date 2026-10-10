@@ -1,0 +1,428 @@
+{
+  "packetIndex": 251,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: magnesium cannot protect the listed Cesium from oxidation; all metal choices are present and key is Z) CESIUM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: prompt asks 22 factorial divided by 20 factorial; key is 462."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: uniform circular motion radius doubles and speed triples; printed acceleration factor is 4.5 (accept 9/2 and 4½)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: the source reads Travelers' diarrhea and includes the [en-tur-o-tox-ih-JEN-ik] cue; key is E. COLI, accepting ESCHERICHIA COLI.",
+      "before": {
+        "question": "Travelers&amp;apos; diarrhea is most commonly caused by an enterotoxigenic [en-tur-o-tox-ih-JEN-ik] strain of what bacterium?"
+      },
+      "changes": {
+        "question": "Travelers' diarrhea is most commonly caused by an enterotoxigenic [en-tur-o-tox-ih-JEN-ik] strain of what bacterium?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: butan-2-one question prints CH₃ and CH₂ with subscripts; answer is TRIPLET (accept 3).",
+      "before": {
+        "question": "Consider the proton NMR spectrum of butan-2-one [byoo-tan-too-own]. What is the multiplicity of the CH group adjacent to the CH group? 3 2"
+      },
+      "changes": {
+        "question": "Consider the proton NMR spectrum of butan-2-one [byoo-tan-too-own]. What is the multiplicity of the CH<sub>3</sub> group adjacent to the CH<sub>2</sub> group?",
+        "question_sanitized": "Consider the proton NMR spectrum of butan-2-one [byoo-tan-too-own]. What is the multiplicity of the CH3 group adjacent to the CH2 group?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: triple-alpha process question asks the isotope formed after beryllium captures another alpha particle; key is CARBON-12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: SI-unit choices for the Hubble constant are m/s, one over seconds, dimensionless, and seconds; key X) ONE OVER SECONDS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: mean-value-theorem interval is 4 to 7 and choices are 3, 5, 7, 9; the printed key is X) 5.",
+      "before": {
+        "question": "Let f of x be a continuous and differentiable function on the closed interval from 4 to 7. Which of the following could be the x-value guaranteed by the mean value theorem for this situation?<br>W) 3<br>X) <span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;7</span></span><br>Y) <br>Z) 9",
+        "options": [
+          "W) 3",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;7</span></span>",
+          "Y) ",
+          "Z) 9"
+        ]
+      },
+      "changes": {
+        "question": "Let f of x be a continuous and differentiable function on the closed interval from 4 to 7. Which of the following could be the x-value guaranteed by the mean value theorem for this situation?<br>W) 3<br>X) 5<br>Y) 7<br>Z) 9",
+        "options": [
+          "W) 3",
+          "X) 5",
+          "Y) 7",
+          "Z) 9"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: changing magnetic field creates current by induction; all four options appear and key is Z) INDUCTION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: 3′ UTR location choices are present; key places it between the stop codon and poly-A tail."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: polymer choices are cellulose, amylose, cellobiose, chitin; key is X) AMYLOSE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13: question asks the most common element by mass in Earth's core; printed answer is IRON."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: line passes through (−3, 6) and the origin; answer is y = −2x, accepting y = −2x + 0."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: force times lever-arm length is keyed TORQUE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: allele affecting two or more phenotypic traits is PLEIOTROPIC, accepting PLEIOTROPY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: negative reaction enthalpy and positive entropy question has four temperature/spontaneity choices; key is X) ALWAYS SPONTANEOUS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: geocentric model question prints PTOLEMY and three accepted name variants."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: supersymmetry choices include fermion–boson correspondence; printed key is Z."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: independent best-of-three dodgeball series prompt gives 10% per game; printed probability is 0.028 (accept 7/250, 2.8%)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: magpie velocity question starts at 16 m/s and 6 m height; printed ground-relative speed is 19 m/s."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: accessory-fruit choices are Peanut, Blackberry, Strawberry, Tomato; key is Y) STRAWBERRY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: strong-base/strong-acid titration question and all indicators are present, including [tie-TRAY-shun], [METH-il], and [fee-nawlf-THAY-leen]; key is W) PHENOL RED."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: First Quarter Moon illuminated-surface question prints 50 percent."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: n-type silicon-dopant options include Antimony, Gallium, Indium with their pronunciation cues; key X) ANTIMONY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: average-value expression is f(x)=x²+6x over one to four; answer is 22.",
+      "before": {
+        "parts": [
+          "What is the average value of the function f of x equals x 2 + 6x over the interval from one to four?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the average value of the function f of x equals x<sup>2</sup> + 6x over the interval from one to four?"
+        ],
+        "parts_sanitized": [
+          "What is the average value of the function f of x equals x^2 + 6x over the interval from one to four?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: parallel resistors are 2, 5, and 7 ohms; answer is 70/59 (accept 1 11/59)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: incomplete hyphal walls [HIGH-fee] are septa, accepting septum."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: all four oxygen double-bond functional groups are listed with pronunciation cues; answer is 1, 3, 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: shallow-focus earthquake settings listed are convergent boundaries, divergent boundaries, within plates; key is 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13: neural-network activation-function choices are Sigmoid, Linear, Step function, Exponential; key Y) STEP FUNCTION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: range question displays numerator x²−7x+12 over denominator x−3 and choices except −1, 3, or 4; key is X) all real numbers except −1.",
+      "before": {
+        "parts": [
+          "What is the range of the function f of x equals the fraction with numerator x 2 – 7x + 12 and denominator x – 3?<br>W) All real numbers<br>X) All real numbers except –1<br>Y) All real numbers except 3<br>Z) All real numbers except 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the range of the function f of x equals <span class=\"nsb-fraction\"><span>x<sup>2</sup> – 7x + 12</span><span>x – 3</span></span>?<br>W) All real numbers<br>X) All real numbers except –1<br>Y) All real numbers except 3<br>Z) All real numbers except 4"
+        ],
+        "parts_sanitized": [
+          "What is the range of the function f of x equals the fraction (x^2 - 7x + 12)/(x - 3)?<br>W) All real numbers<br>X) All real numbers except –1<br>Y) All real numbers except 3<br>Z) All real numbers except 4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: a 38-newton load stretches the spring by 18 cm; answer is 210 N/m to two significant figures."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: all four menstrual-cycle phase options appear, including [SEH-kreh-tory]; key is X) SECRETORY PHASE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: ionization-energy ranking list is Krypton, Neon, Fluorine; key is 1, 3, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: comet ion-tail question includes perihelion cue [peh-ree-HEEL-yun], with options toward Earth/Sun/origin/travel and key W) TOWARD EARTH. The green closing score-sheet announcement below the key is separate packet text, not part of the answer.",
+      "before": {
+        "answers": [
+          "W) TOWARD EARTH Before we leave, let’s confirm the team’s score. What score does the Official Scorekeeper have? And what is the final score in the Chat Box? Does anyone disagree? I’d like to remind the Scorekeeper to submit the official scoresheet. Best of luck to the team and thanks for competing in today’s event."
+        ],
+        "notes": []
+      },
+      "changes": {
+        "answers": [
+          "W) TOWARD EARTH"
+        ],
+        "notes": [
+          "Before we leave, let’s confirm the team’s score. What score does the Official Scorekeeper have? And what is the final score in the Chat Box? Does anyone disagree? I’d like to remind the Scorekeeper to submit the official scoresheet. Best of luck to the team and thanks for competing in today’s event."
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

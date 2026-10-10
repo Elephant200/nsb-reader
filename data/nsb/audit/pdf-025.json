@@ -1,0 +1,624 @@
+{
+  "packetIndex": 25,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Which of the following species does NOT have at least two equally favorable resonance structures?<br>W) C 6 H 6<br>X) NO 2 -<br>Y) CO 2<br>Z) SO 2",
+        "options": [
+          "W) C 6 H 6",
+          "X) NO 2 -",
+          "Y) CO 2",
+          "Z) SO 2"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following species does NOT have at least two equally favorable resonance structures?<br>W) C<sub>6</sub>H<sub>6</sub><br>X) NO<sub>2</sub><sup>−</sup><br>Y) CO<sub>2</sub><br>Z) SO<sub>2</sub>",
+        "options": [
+          "W) C<sub>6</sub>H<sub>6</sub>",
+          "X) NO<sub>2</sub><sup>−</sup>",
+          "Y) CO<sub>2</sub>",
+          "Z) SO<sub>2</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation restored in the replacement.",
+      "before": {
+        "question": "Providing your answer in simplest form, what is sec(11π/6) [secant of 11 pi over 6]? 2√3",
+        "answer": "3"
+      },
+      "changes": {
+        "question": "Providing your answer in simplest form, what is sec(11π/6) [secant of 11 pi over 6]?",
+        "answer": "<span class=\"nsb-fraction\"><span>2√3</span><span>3</span></span>",
+        "answer_sanitized": "2√3/3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 confirms the notation restored in the replacement.",
+      "before": {
+        "question": "Express the following in simplest form, with variables raised only to positive powers: (4𝑥𝑥 5 𝑦𝑦 −3 )−2 [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2] 𝑦𝑦 6",
+        "answer": "16𝑥𝑥 10"
+      },
+      "changes": {
+        "question": "Express the following in simplest form, with variables raised only to positive powers: (4x<sup>5</sup>y<sup>-3</sup>)<sup>-2</sup> [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2].",
+        "question_sanitized": "Express the following in simplest form, with variables raised only to positive powers: (4x^5 y^(-3))^(-2) [open parenthesis 4x to the fifth y to the power of negative 3 close parenthesis to the power of negative 2].",
+        "answer": "<span class=\"nsb-fraction\"><span>y<sup>6</sup></span><span>16x<sup>10</sup></span></span>",
+        "answer_sanitized": "y^6/(16x^10)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt. Restored the complete bracketed read-as cue in the reading counterpart.",
+      "before": {
+        "question": "Which of the following represents an equivalent value for log10 √1000 [log base 10 of the square root of 1000]? 3<br>W) 102 [10 to the power of three halves] 2<br>X) 103 [10 to the power of two thirds]<br>Y) 3/2<br>Z) 2/3",
+        "options": [
+          "W) 102 [10 to the power of three halves] 2",
+          "X) 103 [10 to the power of two thirds]",
+          "Y) 3/2",
+          "Z) 2/3"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following represents an equivalent value for log<sub>10</sub>(√1000) [log base 10 of the square root of 1000]?<br>W) 10<sup>3/2</sup> [10 to the power of three halves]<br>X) 10<sup>2/3</sup> [10 to the power of two thirds]<br>Y) 3/2<br>Z) 2/3",
+        "question_sanitized": "Which of the following represents an equivalent value for log₁₀(√1000) [log base 10 of the square root of 1000]?\nW) 10^(3/2) [10 to the power of three halves]\nX) 10^(2/3) [10 to the power of two thirds]\nY) 3/2\nZ) 2/3",
+        "options": [
+          "W) 10<sup>3/2</sup> [10 to the power of three halves]",
+          "X) 10<sup>2/3</sup> [10 to the power of two thirds]",
+          "Y) 3/2",
+          "Z) 2/3"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 13."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "parts": [
+          "Which of the following represents the solution in degrees of the equation 4sin2x = 1 in the open interval from 0° to 180°?<br>W) 30o<br>X) 30o, 60o<br>Y) 30o, 150°<br>Z) 60o, 120o"
+        ],
+        "answers": [
+          "Y) 30o, 150°"
+        ],
+        "options": [
+          "W) 30o",
+          "X) 30o, 60o",
+          "Y) 30o, 150°",
+          "Z) 60o, 120o"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following represents the solution in degrees of the equation 4sin<sup>2</sup>x = 1 in the open interval from 0° to 180°?<br>W) 30°<br>X) 30°, 60°<br>Y) 30°, 150°<br>Z) 60°, 120°"
+        ],
+        "parts_sanitized": [
+          "Which of the following represents the solution in degrees of 4sin^2 x = 1 in the open interval from 0° to 180°? W) 30°; X) 30°, 60°; Y) 30°, 150°; Z) 60°, 120°"
+        ],
+        "answers": [
+          "Y) 30°, 150°"
+        ],
+        "options": [
+          "W) 30°",
+          "X) 30°, 60°",
+          "Y) 30°, 150°",
+          "Z) 60°, 120°"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 prints the Coulomb constant as 9 × 10⁹ N·m²/C²; corpus flattened the exponent in “9 x 109”.",
+      "before": {
+        "parts": [
+          "A 5 microcoulomb charge is uniformly distributed in a 1-meter diameter sphere. Given that the coulomb constant is 9 x 109 newton meters squared per coulomb squared, what is the electric field in newtons per coulomb at a radius of 0.25 from the center of the sphere?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A 5 microcoulomb charge is uniformly distributed in a 1-meter diameter sphere. Given that the coulomb constant is 9 × 10<sup>9</sup> newton meters squared per coulomb squared, what is the electric field in newtons per coulomb at a radius of 0.25 from the center of the sphere?"
+        ],
+        "parts_sanitized": [
+          "A 5 microcoulomb charge is uniformly distributed in a 1-meter diameter sphere. Given that the coulomb constant is 9 × 10^9 newton meters squared per coulomb squared, what is the electric field in newtons per coulomb at a radius of 0.25 from the center of the sphere?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "parts": [
+          "Which of the following represents a simplified form of: sin x + 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 [sine of x plus the fraction with numerator cosine squared of x and denominator sine of x]?<br>W) csc x [cosecant of x]<br>X) sec x [secant of x]<br>Y) cos 2 𝑥𝑥 [cosine squared of x]<br>Z) 1"
+        ],
+        "options": [
+          "W) csc x [cosecant of x]",
+          "X) sec x [secant of x]",
+          "Y) cos 2 𝑥𝑥 [cosine squared of x]",
+          "Z) 1"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following represents a simplified form of: sin x + <span class=\"nsb-fraction\"><span>cos<sup>2</sup>x</span><span>sin x</span></span> [sine of x plus the fraction with numerator cosine squared of x and denominator sine of x]?<br>W) csc x [cosecant of x]<br>X) sec x [secant of x]<br>Y) cos<sup>2</sup>x [cosine squared of x]<br>Z) 1"
+        ],
+        "parts_sanitized": [
+          "Which of the following represents a simplified form of: sin x + (cos^2 x)/(sin x) [sine of x plus the fraction with numerator cosine squared of x and denominator sine of x]? W) csc x [cosecant of x]; X) sec x [secant of x]; Y) cos^2 x [cosine squared of x]; Z) 1"
+        ],
+        "options": [
+          "W) csc x [cosecant of x]",
+          "X) sec x [secant of x]",
+          "Y) cos<sup>2</sup>x [cosine squared of x]",
+          "Z) 1"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared source wording, answer/options, and notation with Round Robin Round 9, page 13."
+    }
+  ],
+  "packetIssues": [
+    "Round Robin Round 9 bonus 19 source prints the electric field inside a uniformly charged 1-meter-diameter sphere at radius 0.25 m as 0; that conflicts with the stated uniform volume charge distribution. The answer is preserved as printed."
+  ]
+}

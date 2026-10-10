@@ -1,17 +1,21 @@
-import { bonuses } from './collections.js';
-
-// eslint-disable-next-line no-unused-vars
-import * as types from '../../types.js';
-
-// eslint-disable-next-line no-unused-vars
-import { ObjectId } from 'mongodb';
+import { query } from '../postgres.js';
+import { mapBonusRow, packetJoinSql, questionSelectSql } from './sql.js';
 
 /**
- * @param {ObjectId} _id - the id of the bonus
- * @returns {Promise<types.Bonus>}
+ * @param {string} _id - the id of the bonus
+ * @returns {Promise<import('../../types.js').Bonus | null>}
  */
-async function getBonus ({ _id }) {
-  return await bonuses.findOne({ _id });
+async function getBonus (_id) {
+  if (_id && typeof _id === 'object') { _id = _id._id; }
+  if (!_id) { return null; }
+
+  const { rows } = await query(`
+    select ${questionSelectSql()}
+    ${packetJoinSql('bonuses')}
+    where q.id = $1
+  `, [_id]);
+
+  return mapBonusRow(rows[0]);
 }
 
 export default getBonus;

@@ -1,0 +1,514 @@
+{
+  "packetIndex": 117,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-4-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 1 reads “Which of the following minerals is formed by evaporation? W) Amphibole [AM-fuh-bohl] X) Gypsum Y) Olivine [OL-”; choices are W) Amphibole [AM-fuh-bohl] | X) Gypsum | Y) Olivine [OL-uh-veen] | Z) Plagioclase [PLAY-jee-uh-klays]; answer reads “X) GYPSUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 2 reads “What is the organ, found in birds and some invertebrates, that is used to temporarily store food, but also aid”; choices are W) Liver | X) Gizzard | Y) Crop | Z) Cloaca [kloh-AY-kuh]; answer reads “Y) CROP”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 visibly shows the definite integral with lower bound a and upper bound b, integrating C(s) ds; the stored reading preserves the entire read-as cue but omitted this rich notation.",
+      "before": {
+        "question": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of [the integral from A to B of C of S d S]?<br>W) Gallons<br>X) Gallons per hour<br>Y) Miles per hour per gallon<br>Z) Gallons per mile per hour"
+      },
+      "changes": {
+        "question": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫<sub>a</sub><sup>b</sup> C(s) ds [the integral from A to B of C of S d S]?<br>W) Gallons<br>X) Gallons per hour<br>Y) Miles per hour per gallon<br>Z) Gallons per mile per hour",
+        "question_sanitized": "For a car traveling at a speed of s miles per hour, the fuel consumption of the car, C(s) [C of S], is measured in gallons per mile. What are the units of ∫_a^b C(s) ds [the integral from A to B of C of S d S]?; W) Gallons; X) Gallons per hour; Y) Miles per hour per gallon; Z) Gallons per mile per hour"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 4 reads “Which of the following elements has the largest 2 nd ionization energy? W) Boron X) Oxygen Y) Sodium Z) Lithiu”; choices are W) Boron | X) Oxygen | Y) Sodium | Z) Lithium; answer reads “Z) LITHIUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 5 reads “Indicate, by number, all of the following three quantities that would change for a wave of light entering wate”; answer reads “2 AND 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 6 reads “State the oxidation number for nitrogen in the molecule magnesium nitride.”; answer reads “3- (ACCEPT: THREE MINUS, NEGATIVE 3)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 7 reads “The Sierra Nevada Mountains are composed primarily of granite. Considering that granite is an intrusive rock, ”; choices are W) Intrusive rock forms on the surface | X) The granite was metamorphosed | Y) The surrounding material eroded away | Z) Granites undergo two stage cooling; answer reads “Y) THE SURROUNDING MATERIAL ERODED AWAY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 9 reads “Express the repeating decimal 0.131313… as a fraction.”; answer reads “13/99”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 10 reads “In electrostatics, which of the following must be true of a conductor? W) It has zero net charge X) It can onl”; choices are W) It has zero net charge | X) It can only carry negative charge | Y) The electric field on its surface is zero | Z) The electric field inside it is zero; answer reads “Z) THE ELECTRIC FIELD INSIDE IT IS ZERO”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 11 reads “Which of the following is a characteristic of monocots, but NOT eudicots [yoo-dy-KOTS]? W) Scattered stem vasc”; choices are W) Scattered stem vascular bundles | X) Taproot | Y) Flower parts in multiples of four or five | Z) Netted leaf venation; answer reads “W) SCATTERED STEM VASCULAR BUNDLES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “What type of redox reaction involves the simultaneous oxidation and reduction of a singular species?”; answer reads “DISPROPORTIONATION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints the set name W twice: “Set W contains all positive integers that are the differences of the squares of two positive integers. What is the least element of W?” The stored question lost both W references and inserted a stray W? after “the”.",
+      "before": {
+        "question": "Set contains all positive integers that are the differences of the W? squares of two positive integers. What is the least element of"
+      },
+      "changes": {
+        "question": "Set W contains all positive integers that are the differences of the squares of two positive integers. What is the least element of W?",
+        "question_sanitized": "Set W contains all positive integers that are the differences of the squares of two positive integers. What is the least element of W?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 14 reads “In order for a process to have no change in entropy, which of the following properties must it possess? W) Spo”; choices are W) Spontaneous | X) Reversible | Y) Endothermic | Z) Exothermic; answer reads “X) REVERSIBLE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 reads the cue as [IG-nee-uhs] with no space inside the pronunciation; the mineral cue is [OL-uh-veen].",
+      "before": {
+        "question": "What is the name for the ultramafic igneous [IG-nee- uhs] rock that is composed almost totally of olivine [OL-uh-veen]?"
+      },
+      "changes": {
+        "question": "What is the name for the ultramafic igneous [IG-nee-uhs] rock that is composed almost totally of olivine [OL-uh-veen]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “Which of the following is an insoluble base? W) Lithium hydroxide X) Potassium hydroxide Y) Magnesium hydroxid”; choices are W) Lithium hydroxide | X) Potassium hydroxide | Y) Magnesium hydroxide | Z) Barium hydroxide; answer reads “Y) MAGNESIUM HYDROXIDE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “multiples of 260 base pairs”; the PDF line break splits the spoken cue as NOO- / klee-ays, but it is one word NOO-klee-ays.",
+      "before": {
+        "question": "You perform an experiment where you isolate chromatin from sea urchin sperm cells, then partially digest with micrococcal nuclease [my-kruh-KOK-kuhl NOO- klee-ays]. When you purify the DNA away from the chromatin proteins and run your DNA on a gel, you find that your DNA fragments have lengths that are multiples of 260 base pairs. What organizational element of chromatin leads to this digestion pattern?"
+      },
+      "changes": {
+        "question": "You perform an experiment where you isolate chromatin from sea urchin sperm cells, then partially digest with micrococcal nuclease [my-kruh-KOK-kuhl NOO-klee-ays]. When you purify the DNA away from the chromatin proteins and run your DNA on a gel, you find that your DNA fragments have lengths that are multiples of 260 base pairs. What organizational element of chromatin leads to this digestion pattern?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 18 reads “What equation of electrochemistry can be used to determine the equilibrium reduction potential based on the st”; answer reads “NERNST EQUATION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 19 reads “Divergent boundaries often have small boundaries of another sort associated with them. What kind of boundary w”; answer reads “TRANSFORM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 visibly prints (2x − y)⁵ and asks for the coefficient of x³y²; all four choices and answer Z) 80 match.",
+      "before": {
+        "question": "In the expansion of (2x – y) 5 [two x minus y quantity raised to the fifth power], what is the coefficient of the 3 2 [x cubed y squared] term? x y<br>W) -80<br>X) -8<br>Y) 8<br>Z) 80"
+      },
+      "changes": {
+        "question": "In the expansion of (2x − y)<sup>5</sup> [two x minus y quantity raised to the fifth power], what is the coefficient of the x<sup>3</sup>y<sup>2</sup> [x cubed y squared] term?<br>W) -80<br>X) -8<br>Y) 8<br>Z) 80",
+        "question_sanitized": "In the expansion of (2x - y)^5 [two x minus y quantity raised to the fifth power], what is the coefficient of the x^3 y^2 [x cubed y squared] term? W) -80; X) -8; Y) 8; Z) 80"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 21 reads “Animals excrete various forms of nitrogenous [ny-TROJ-uh- nuhs] wastes that are mainly the result of the catab”; choices are W) Cellulose and triglycerides [try-GLIS-uh-ryds] | X) Proteins and nucleic acids | Y) Glycolipids and glycerol | Z) Starches and proteins; answer reads “X) PROTEINS AND NUCLEIC ACIDS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints Kₘ and Vₘₐₓ in each option, including the ratio Kₘ/Vₘₐₓ; values and answer label Y match the source. The PDF heading literally reads ‘Lineweaver - plot?’ with an apparent missing word, preserved and reported as a source issue.",
+      "before": {
+        "question": "Which of the following correctly identifies the effect that the presence of an uncompetitive inhibitor has on a Lineweaver - plot?<br>W) K [K-M] and V [V max] are raised, and the ratio K /V [K-M over V max] increases m max m max<br>X) K and V are raised, and the ratio K /V is unchanged m max m max<br>Y) K and V are lowered, and the ratio K /V is unchanged m max m max<br>Z) K and V are lowered, and the ratio K /V decreases m max m max",
+        "answer": "Y) K AND V ARE LOWERED, RATIO K /V IS UNCHANGED M MAX M MAX",
+        "options": [
+          "W) K [K-M] and V [V max] are raised, and the ratio K /V [K-M over V max] increases m max m max",
+          "X) K and V are raised, and the ratio K /V is unchanged m max m max",
+          "Y) K and V are lowered, and the ratio K /V is unchanged m max m max",
+          "Z) K and V are lowered, and the ratio K /V decreases m max m max"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following correctly identifies the effect that the presence of an uncompetitive inhibitor has on a Lineweaver - plot?<br>W) K<sub>m</sub> [K-M] and V<sub>max</sub> [V max] are raised, and the ratio K<sub>m</sub>/V<sub>max</sub> [K-M over V max] increases<br>X) K<sub>m</sub> and V<sub>max</sub> are raised, and the ratio K<sub>m</sub>/V<sub>max</sub> is unchanged<br>Y) K<sub>m</sub> and V<sub>max</sub> are lowered, and the ratio K<sub>m</sub>/V<sub>max</sub> is unchanged<br>Z) K<sub>m</sub> and V<sub>max</sub> are lowered, and the ratio K<sub>m</sub>/V<sub>max</sub> decreases",
+        "question_sanitized": "Which of the following correctly identifies the effect that the presence of an uncompetitive inhibitor has on a Lineweaver - plot? W) K sub m [K-M] and V sub max [V max] are raised, and the ratio K sub m over V sub max [K-M over V max] increases; X) K sub m and V sub max are raised, and the ratio K sub m over V sub max is unchanged; Y) K sub m and V sub max are lowered, and the ratio K sub m over V sub max is unchanged; Z) K sub m and V sub max are lowered, and the ratio K sub m over V sub max decreases",
+        "answer": "Y) K<sub>m</sub> AND V<sub>max</sub> ARE LOWERED, RATIO K<sub>m</sub>/V<sub>max</sub> IS UNCHANGED",
+        "answer_sanitized": "Y) K sub m AND V sub max ARE LOWERED, RATIO K sub m OVER V sub max IS UNCHANGED",
+        "options": [
+          "W) K<sub>m</sub> [K-M] and V<sub>max</sub> [V max] are raised, and the ratio K<sub>m</sub>/V<sub>max</sub> [K-M over V max] increases",
+          "X) K<sub>m</sub> and V<sub>max</sub> are raised, and the ratio K<sub>m</sub>/V<sub>max</sub> is unchanged",
+          "Y) K<sub>m</sub> and V<sub>max</sub> are lowered, and the ratio K<sub>m</sub>/V<sub>max</sub> is unchanged",
+          "Z) K<sub>m</sub> and V<sub>max</sub> are lowered, and the ratio K<sub>m</sub>/V<sub>max</sub> decreases"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints charges of +10 Nanocoulombs, −10 Nanocoulombs, and +5 Nanocoulombs on Q₁, Q₂ and Q₃; the source spelling is Nanocoulombs, and the final question mark has no preceding space. Answer ZERO matches.",
+      "before": {
+        "question": "Two point charges, Q<sub>1</sub> and Q<sub>2</sub> [Q one and Q two], that have charges of +10 [ plus ten] Nanocoulumbs and -10 [minus ten] Nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q<sub>3</sub> [Q three], of +5 [plus five] Nanocoulombs is placed at the third vertex, what is the potential energy associated with Q<sub>3</sub> ?"
+      },
+      "changes": {
+        "question": "Two point charges, Q<sub>1</sub> and Q<sub>2</sub> [Q one and Q two], that have charges of +10 [ plus ten] Nanocoulombs and −10 [minus ten] Nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q<sub>3</sub> [Q three], of +5 [plus five] Nanocoulombs is placed at the third vertex, what is the potential energy associated with Q<sub>3</sub>?",
+        "question_sanitized": "Two point charges, Q₁ and Q₂ [Q one and Q two], that have charges of +10 [ plus ten] Nanocoulombs and -10 [minus ten] Nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q₃ [Q three], of +5 [plus five] Nanocoulombs is placed at the third vertex, what is the potential energy associated with Q₃?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 1 reads “Proxima Centauri [PROK-suh-muh sen-TAWR-y], the closest star to the sun, is nearest which of the following dis”; choices are W) 4 light-years | X) 400 light-years | Y) 4 million light-years | Z) 4 billion light-years; answer reads “W) 4 LIGHT-YEARS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 2 reads “Which of the following statements is NOT true of an r-selected species? W) The mother produces a large number ”; choices are W) The mother produces a large number of eggs that suffer heavy predation | X) The mother reaches sexual maturity early in life | Y) The parents provide long-term care for the offspring | Z) The species is more successful in unstable environments; answer reads “Y) THE PARENTS PROVIDE LONG-TERM CARE FOR THE OFFSPRING”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 3 reads “If the average of a set of 20 numbers is 15 and the average of another set of 15 numbers is 22, what is the av”; answer reads “18”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 4 reads “As anthropogenic greenhouse gas emissions, specifically carbon dioxide, accumulate in the atmosphere, what is ”; answer reads “OCEAN pH WILL DECREASE (ACCEPT: BECOME MORE ACIDIC) AND TEMPERATURE WILL INCREASE.”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 5 reads “By what factor is the energy required to increase the speed of a car from rest to 10 meters per second multipl”; answer reads “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 6 reads “Fats and oils contain what functional group? W) Ester X) Ether Y) Halide [HAL-yd] Z) Ketone”; choices are W) Ester | X) Ether | Y) Halide [HAL-yd] | Z) Ketone; answer reads “W) ESTER”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 7 reads “A typical speed for a lithospheric plate is which of the following per year? W) 3 millimeters X) 3 centimeters”; choices are W) 3 millimeters | X) 3 centimeters | Y) 3 meters | Z) 3 kilometers; answer reads “X) 3 CENTIMETERS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 8 reads “In most climates, which of the following is a concern with heat pump hot water heater technology? W) Water tem”; choices are W) Water temperature | X) Tank size | Y) Cold air exhaust | Z) Energy consumption; answer reads “Y) COLD AIR EXHAUST”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 1/x³ − 1/x² − 1/x − 1 = 0, then asks for x³ + x² + x + 1; the stored fields interleaved the powers and read-as cues.",
+      "before": {
+        "parts": [
+          "If 3 2 over x cubed minus one over x squared 1/x – 1/x – 1/x – 1 = 0 [one minus one over x minus one equals zero], then find the value of 3 2 [x cubed plus x + x + x + 1 x squared plus x plus one]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If 1/x<sup>3</sup> − 1/x<sup>2</sup> − 1/x − 1 = 0 [one over x cubed minus one over x squared minus one over x minus one equals zero], then find the value of x<sup>3</sup> + x<sup>2</sup> + x + 1 [x cubed plus x squared plus x plus one]."
+        ],
+        "parts_sanitized": [
+          "If 1/(x^3) - 1/(x^2) - 1/x - 1 = 0 [one over x cubed minus one over x squared minus one over x minus one equals zero], then find the value of x^3 + x^2 + x + 1 [x cubed plus x squared plus x plus one]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 10 reads “While fishing, you see a fish swimming near your boat that appears to be 1.5 meters under the surface of the w”; answer reads “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “What are the bond angle, in degrees, and the molecular geometry, respectively, in the sulfate ion?”; answer reads “109.5, TETRAHEDRAL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 13 reads “A band releases an album with 14 songs. In how many ways can they select a different song to release as a sing”; answer reads “2184”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 14 reads “Assume the speed of sound in air is 344 meters per second, and a string vibrates at 20 Hertz. To the nearest t”; answer reads “17.2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “Ammonia gas reacts with oxygen gas to form nitrogen dioxide and water. If the rate of appearance of water is 3”; answer reads “24”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 shows the two by two matrix with rows 3, 1 and 1, 3; the answer matrix has rows 3/8, −1/8 and −1/8, 3/8.",
+      "before": {
+        "parts": [
+          "Invert the following two by two matrix: [first row three, one, 1 3 second row one, three] 3/8 1/8"
+        ],
+        "answers": [
+          "1/8 3/8"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Invert the following two by two matrix: [3 1; 1 3] [first row three, one, second row one, three]"
+        ],
+        "parts_sanitized": [
+          "Invert the following two by two matrix: [3 1; 1 3] [first row three, one, second row one, three]"
+        ],
+        "answers": [
+          "[3/8 -1/8; -1/8 3/8]"
+        ],
+        "answers_sanitized": [
+          "[3/8 -1/8; -1/8 3/8]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 21 reads “In the human body, what two hormones regulate the level of calcium in the blood?”; answer reads “PARATHYROID HORMONE AND CALCITONIN (ACCEPT: THYROCALCITONIN)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 22 reads “What is the pH of a 0.001 molar solution of sodium hydroxide?”; answer reads “11”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: PDF question 23 reads “Which of the following statements is correct regarding the phenomenon of redshift with respect to a light sour”; choices are W) It occurs when a light source is moving away from the observer | X) It occurs when a light source is moving towards the observer | Y) It only occurs when a light source is accelerating away from the observer | Z) It only occurs when a light source is accelerating towards the observer; answer reads “W) IT OCCURS WHEN A LIGHT SOURCE IS MOVING AWAY FROM THE OBSERVER”."
+    }
+  ],
+  "packetIssues": [
+    {
+      "number": 22,
+      "kind": "tossups",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "The PDF question stem ends ‘Lineweaver - plot?’ with no word after the hyphen; the missing text is not legible in the source and was not reconstructed.",
+      "proposedData": "Leave the phrase as printed unless another authoritative source confirms the missing word."
+    }
+  ]
+}

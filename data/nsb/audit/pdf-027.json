@@ -1,0 +1,639 @@
+{
+  "packetIndex": 27,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 confirms the notation in the replacement.",
+      "before": {
+        "question": "When a ray of light traveling through the air reflects off the surface of a puddle of pure water, it undergoes which of the following changes in phase?<br>W) 360o<br>X) 180o<br>Y) 90o<br>Z) 0°",
+        "answer": "X) 180°",
+        "options": [
+          "W) 360o",
+          "X) 180o",
+          "Y) 90o",
+          "Z) 0°"
+        ]
+      },
+      "changes": {
+        "question": "When a ray of light traveling through the air reflects off the surface of a puddle of pure water, it undergoes which of the following changes in phase?<br>W) 360°<br>X) 180°<br>Y) 90°<br>Z) 0°",
+        "question_sanitized": "When a ray of light traveling through the air reflects off the surface of a puddle of pure water, it undergoes which of the following changes in phase? W) 360°; X) 180°; Y) 90°; Z) 0°",
+        "answer": "X) 180°",
+        "options": [
+          "W) 360°",
+          "X) 180°",
+          "Y) 90°",
+          "Z) 0°"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 confirms the notation in the replacement.",
+      "before": {
+        "question": "Solve the following equation for x: (𝑥𝑥 − 9)3 = 16 [the quantity x minus 9 to the power of two thirds equals 16].<br>W) 73<br>X) ± 73<br>Y) 73 and -55 64<br>Z) − 9",
+        "answer": "Y) 73 AND -55",
+        "options": [
+          "W) 73",
+          "X) ± 73",
+          "Y) 73 and -55 64",
+          "Z) − 9"
+        ]
+      },
+      "changes": {
+        "question": "Solve the following equation for x: (x − 9)<sup>2/3</sup> = 16 [the quantity x minus 9 to the power of two thirds equals 16].<br>W) 73<br>X) ± 73<br>Y) 73 and −55<br>Z) −<span class=\"nsb-fraction\"><span>64</span><span>9</span></span>",
+        "question_sanitized": "Solve the following equation for x: (x - 9)^(2/3) = 16 [the quantity x minus 9 to the power of two thirds equals 16]. W) 73; X) ±73; Y) 73 and -55; Z) -64/9",
+        "answer": "Y) 73 AND −55",
+        "answer_sanitized": "Y) 73 AND -55",
+        "options": [
+          "W) 73",
+          "X) ± 73",
+          "Y) 73 and −55",
+          "Z) −<span class=\"nsb-fraction\"><span>64</span><span>9</span></span>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered source page 4 confirms the notation in the replacement.",
+      "before": {
+        "question": "Cocaine has a tertiary amine group with a pK b of 5.6. What is the pK a of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
+      },
+      "changes": {
+        "question": "Cocaine has a tertiary amine group with a pK<sub>b</sub> of 5.6. What is the pK<sub>a</sub> of cocaine's conjugate acid in an aqueous solution at 25° Celsius?",
+        "question_sanitized": "Cocaine has a tertiary amine group with a pK_b of 5.6. What is the pK_a of cocaine's conjugate acid in an aqueous solution at 25° Celsius?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 confirms the notation in the replacement.",
+      "before": {
+        "question": "Express i443 in simplest form."
+      },
+      "changes": {
+        "question": "Express i<sup>443</sup> in simplest form.",
+        "question_sanitized": "Express i^443 in simplest form."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 confirms the notation in the replacement.",
+      "before": {
+        "question": "Expressing your answer in interval notation, what is the largest √𝑥𝑥 2 −16 possible real domain of the function: 𝑓𝑓(𝑥𝑥) = [f of x equals the fraction with |𝑥𝑥+9| numerator, the square root of the quantity x squared minus 16, and denominator the absolute value of the quantity x plus 9]?",
+        "answer": "(−∞, −9) ∪ (−9, −4] ∪ [4, ∞) [NOTE: NEED NOT USE UNIONS, BUT MUST CLEARLY INDICATE THAT -9 IS NOT INCLUDED, WHILE ± 4 ARE]"
+      },
+      "changes": {
+        "question": "Expressing your answer in interval notation, what is the largest possible real domain of the function: f(x) = <span class=\"nsb-fraction\"><span>√(x<sup>2</sup> − 16)</span><span>|x + 9|</span></span> [f of x equals the fraction with numerator, the square root of the quantity x squared minus 16, and denominator the absolute value of the quantity x plus 9]?",
+        "question_sanitized": "Expressing your answer in interval notation, what is the largest possible real domain of the function: f(x) = sqrt(x^2 - 16)/|x + 9| [f of x equals the fraction with numerator, the square root of the quantity x squared minus 16, and denominator the absolute value of the quantity x plus 9]?",
+        "answer": "(−∞, −9) ∪ (−9, −4] ∪ [4, ∞) [NOTE: NEED NOT USE UNIONS, BUT MUST CLEARLY INDICATE THAT -9 IS NOT INCLUDED, WHILE ± 4 ARE]",
+        "answer_sanitized": "(-∞, -9) ∪ (-9, -4] ∪ [4, ∞) [NOTE: NEED NOT USE UNIONS, BUT MUST CLEARLY INDICATE THAT -9 IS NOT INCLUDED, WHILE ± 4 ARE]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the notation in the replacement.",
+      "before": {
+        "question": "Solve the following equation over the complex numbers: (x + 3)2 + 16 =0.",
+        "answer": "−3 ± 4𝑖𝑖"
+      },
+      "changes": {
+        "question": "Solve the following equation over the complex numbers: (x + 3)<sup>2</sup> + 16 = 0.",
+        "question_sanitized": "Solve the following equation over the complex numbers: (x + 3)^2 + 16 = 0.",
+        "answer": "−3 ± 4i",
+        "answer_sanitized": "-3 ± 4i"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 13."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered source page 4 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "What are the names of the following four acids: 1) HNO 2 , 2) H 2 S, 3)HIO 4 , 4)H 2 Cr 2 O 7 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the names of the following four acids: 1) HNO<sub>2</sub>, 2) H<sub>2</sub>S, 3) HIO<sub>4</sub>, 4) H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>?"
+        ],
+        "parts_sanitized": [
+          "What are the names of the following four acids: 1) HNO2, 2) H2S, 3) HIO4, 4) H2Cr2O7?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "Solve the system of equations: x + y = 1, and x2 + 3y2 = 21."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the system of equations: x + y = 1, and x<sup>2</sup> + 3y<sup>2</sup> = 21."
+        ],
+        "parts_sanitized": [
+          "Solve the system of equations: x + y = 1, and x^2 + 3y^2 = 21."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 confirms the notation in the replacement.",
+      "before": {
+        "answers": [
+          "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1 (ACCEPT: THE LAST THREE IN ANY ORDER; [Ar] 4s2 3d10 4p1)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>1</sup> (ACCEPT: THE LAST THREE IN ANY ORDER; [Ar] 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>1</sup>)"
+        ],
+        "answers_sanitized": [
+          "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^1 (ACCEPT: THE LAST THREE IN ANY ORDER; [Ar] 4s^2 3d^10 4p^1)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "How many structural isomers are there for a compound with the formula C 7 H 16 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many structural isomers are there for a compound with the formula C<sub>7</sub>H<sub>16</sub>?"
+        ],
+        "parts_sanitized": [
+          "How many structural isomers are there for a compound with the formula C7H16?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the notation in the replacement.",
+      "before": {
+        "parts": [
+          "Determine the value of the following: ∑17 𝑛𝑛=1(3𝑛𝑛 − 5) [the summation as n goes from 1 to 17 of the quantity 3n minus 5 ]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Determine the value of the following: ∑<sub>n=1</sub><sup>17</sup>(3n − 5) [the summation as n goes from 1 to 17 of the quantity 3n minus 5]."
+        ],
+        "parts_sanitized": [
+          "Determine the value of the following: the sum from n=1 to 17 of (3n - 5) [the summation as n goes from 1 to 17 of the quantity 3n minus 5]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the source prompt and printed response with Round Robin Round 11, page 13."
+    }
+  ],
+  "packetIssues": []
+}

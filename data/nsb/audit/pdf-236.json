@@ -1,0 +1,424 @@
+{
+  "packetIndex": 236,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-4-HS-2021.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints x⁶ − 64 = 0 and all four complex-plane descriptions; key Y) vertices of a regular hexagon. Restored the superscript in the equation.",
+      "before": {
+        "question": "When graphed in the complex plane, which of the following is the best description of the graph of all the complex solutions to the equation x 6 – 64 = 0?<br>W) One point<br>X) Two points<br>Y) The vertices of a regular hexagon<br>Z) A circle"
+      },
+      "changes": {
+        "question": "When graphed in the complex plane, which of the following is the best description of the graph of all the complex solutions to the equation x<sup>6</sup> – 64 = 0?<br>W) One point<br>X) Two points<br>Y) The vertices of a regular hexagon<br>Z) A circle",
+        "question_sanitized": "When graphed in the complex plane, which of the following is the best description of the graph of all the complex solutions to the equation x^6 – 64 = 0?<br>W) One point<br>X) Two points<br>Y) The vertices of a regular hexagon<br>Z) A circle"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks which heat-transfer type carries most solar heat to Earth and keys RADIATION; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks what codon type replaces an amino-acid codon in a nonsense mutation and keys STOP (ACCEPT: TERMINATION); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks the rate factor after quartering A in a second-order reaction and keys 1/16 (ACCEPT: 0.0625); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 describes doppler-shift detection of a binary companion, shows four binary types with [spek-troh-SCAW-pik] on Y, and keys Y; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks for the reducing cofactor in bacterial photosynthesis and keys NADPH, rejecting NADP+ and NADP; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives cone volume 12 with fixed height and doubled base radius; key volume 48 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists melting ice, dry-ice sublimation [SUB-lim-ates], and helium boiling; increasing-temperature order 3, 2, 1 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 sets gas pressure on y and Celsius temperature on x and keys −273°C for the x-intercept; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 describes UV splitting water into hydrogen and oxygen and keys PHOTOLYSIS with two accepted alternatives; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 retains [THIGH-awl] after butane-thiol and asks for its heteroatom; key SULFUR matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 asks what number has 8 as one-fourth percent and keys 3200; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 states 300 N up the hill while the car moves 4 m down and keys −1200 J, rejecting positive 1200; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 asks the lymphocyte type that differentiates into plasma cells and plasmablasts; key B with both alternatives matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists negative delta G, negative delta H, positive delta S, and positive W; key W) negative delta G matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists four pressure-release weathering processes and keys W) exfoliation; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 describes breaking down the second-most abundant wood polymer for biofuel and keys LIGNIN; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 shows the slant-asymptote prompt with numerator 4x² − 10x over denominator 2x + 1 and key y = 2x − 6; restored the numerator exponent.",
+      "before": {
+        "parts": [
+          "What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x 2 – 10x and denominator 2x + 1?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x<sup>2</sup> – 10x and denominator 2x + 1?"
+        ],
+        "parts_sanitized": [
+          "What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x^2 – 10x and denominator 2x + 1?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 states that simultaneous wave displacements add and keys SUPERPOSITION; wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists insolation, humidity, manganese concentration, and atmospheric carbon dioxide; key Z matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 shows copper electron configurations W–Z with full orbital superscripts and spoken configuration cues; key X is [Ar] 4s¹ 3d¹⁰. Restored all superscripts and preserved each cue.",
+      "before": {
+        "parts": [
+          "Which of the following electron configurations is correct for neutral copper?<br>W) [Ar] 4s 2 3d 9 [A-R-4-s-2-short pause-3-d-9]<br>X) [Ar] 4s 3d 10 [A-R-4-s-1-short pause-3-d-10] <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;11</span></span><br>Y) [Ar] 3d 3d [A-R-3-d-11-short pause-3-d-9] <span class=\"nsb-fraction\">&lt;span&gt;9</span>&lt;span&gt;1</span></span><br>Z) [Ar] 3d 10 4p [A-R-3-d-10-short pause-4-p-1]"
+        ],
+        "options": [
+          "W) [Ar] 4s 2 3d 9 [A-R-4-s-2-short pause-3-d-9]",
+          "X) [Ar] 4s 3d 10 [A-R-4-s-1-short pause-3-d-10] <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;11</span></span>",
+          "Y) [Ar] 3d 3d [A-R-3-d-11-short pause-3-d-9] <span class=\"nsb-fraction\">&lt;span&gt;9</span>&lt;span&gt;1</span></span>",
+          "Z) [Ar] 3d 10 4p [A-R-3-d-10-short pause-4-p-1]"
+        ],
+        "answers": [
+          "X) [AR] 4S 1 3D 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following electron configurations is correct for neutral copper?<br>W) [Ar] 4s<sup>2</sup> 3d<sup>9</sup> [A-R-4-s-2-short pause-3-d-9]<br>X) [Ar] 4s<sup>1</sup> 3d<sup>10</sup> [A-R-4-s-1-short pause-3-d-10]<br>Y) [Ar] 3d<sup>11</sup> 3d<sup>9</sup> [A-R-3-d-11-short pause-3-d-9]<br>Z) [Ar] 3d<sup>10</sup> 4p<sup>1</sup> [A-R-3-d-10-short pause-4-p-1]"
+        ],
+        "parts_sanitized": [
+          "Which of the following electron configurations is correct for neutral copper?<br>W) [Ar] 4s^2 3d^9 [A-R-4-s-2-short pause-3-d-9]<br>X) [Ar] 4s^1 3d^10 [A-R-4-s-1-short pause-3-d-10]<br>Y) [Ar] 3d^11 3d^9 [A-R-3-d-11-short pause-3-d-9]<br>Z) [Ar] 3d^10 4p^1 [A-R-3-d-10-short pause-4-p-1]"
+        ],
+        "options": [
+          "W) [Ar] 4s<sup>2</sup> 3d<sup>9</sup> [A-R-4-s-2-short pause-3-d-9]",
+          "X) [Ar] 4s<sup>1</sup> 3d<sup>10</sup> [A-R-4-s-1-short pause-3-d-10]",
+          "Y) [Ar] 3d<sup>11</sup> 3d<sup>9</sup> [A-R-3-d-11-short pause-3-d-9]",
+          "Z) [Ar] 3d<sup>10</sup> 4p<sup>1</sup> [A-R-3-d-10-short pause-4-p-1]"
+        ],
+        "answers": [
+          "X) [AR] 4S<sup>1</sup> 3D<sup>10</sup>"
+        ],
+        "answers_sanitized": [
+          "X) [AR] 4S^1 3D^10"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists elliptical, spiral, irregular galaxies and keys 2, 3; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 preserves the [mag-NEE-toh-cah-LOR-ik] cue and gives 30 J removed, 50 J added, and COP 1.5; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 shows tangent point (−2, 6.5), through-point (9.5, −3), and asks for f′(−2); key −19/23 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists diode, rectifier, and transformer for AC-to-DC conversion; key 1, 2 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 retains [par-then-oh-JEN-eh-sis] after parthenogenesis, lists budding, unfertilized eggs, and genetic clones, and keys 2, 3; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists barium sulfate, barium bromide, calcium hydrogen phosphate, and calcium chloride; key Y matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists four plate-boundary types and keys Y) ocean-continent convergent; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists four Monte Carlo advantages in high-dimensional integration; key W) direct integration is too computationally intensive matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 states x is inversely proportional to z² and gives x = 3 at y = 4, z = 8; key 72/25 with its alternatives matches. Restored the denominator exponent.",
+      "before": {
+        "parts": [
+          "If x is proportional to y and inversely proportional to z 2 , and if x = 3 when y = 4 and z = 8, what is the value of x when y = 6 and z = 10?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If x is proportional to y and inversely proportional to z<sup>2</sup>, and if x = 3 when y = 4 and z = 8, what is the value of x when y = 6 and z = 10?"
+        ],
+        "parts_sanitized": [
+          "If x is proportional to y and inversely proportional to z^2, and if x = 3 when y = 4 and z = 8, what is the value of x when y = 6 and z = 10?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 shows normal, frictional, centripetal, and centrifugal forces in the rotating room; key X) frictional force matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 lists commensalism, mutualism, and parasitism as symbiosis examples and keys ALL; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 states a 1.5 V cell transferring 3 electrons and keys −430 kJ, rejecting +430; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 retains [pie-ROX-een] after pyroxene in the augite statements and keys 1, 3; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 asks for the neutron-slowing material and keys MODERATOR; the corpus matches."
+    }
+  ],
+  "packetIssues": []
+}

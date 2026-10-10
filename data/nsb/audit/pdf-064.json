@@ -1,0 +1,538 @@
+{
+  "packetIndex": 64,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round15.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the original PDF page 1 visually with the corpus; restored missing or displaced mathematical notation.",
+      "before": {
+        "question": "Which of the following is the name of the compound HClO<sub>4</sub> ?<br>W) Hydrogen perchlorite<br>X) Chloric acid<br>Y) Perchloric acid<br>Z) Hypochloric acid"
+      },
+      "changes": {
+        "question": "Which of the following is the name of the compound HClO<sub>4</sub>?<br>W) Hydrogen perchlorite<br>X) Chloric acid<br>Y) Perchloric acid<br>Z) Hypochloric acid"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the original PDF page 2 visually with the corpus; restored missing or displaced mathematical notation.",
+      "before": {
+        "question": "Express (read as: the summation of x equals 1 to n of log of<br>X) with a factorial.",
+        "options": [
+          "X) with a factorial."
+        ]
+      },
+      "changes": {
+        "question": "Express ∑<sub>x=1</sub><sup>n</sup> log x (read as: the summation of x equals 1 to n of log of x) with a factorial.",
+        "question_sanitized": "Express the sum from x = 1 to n of log x (read as: the summation of x equals 1 to n of log of x) with a factorial.",
+        "options": []
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the original PDF page 3 visually with the corpus; restored missing or displaced mathematical notation. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Which of the following functions is one-to-one?<br>W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3) 2<br>X) f(x) = x – 6x + 11 (read as: f of x equals x squared minus 6 x plus 11) 3<br>Y) f(x) = 5x + 9 (read as: f of x equals 5 x cubed plus 9)<br>Z) f(x) = (read as: f of x equals 1 over x squared) 3",
+        "options": [
+          "W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3) 2",
+          "X) f(x) = x – 6x + 11 (read as: f of x equals x squared minus 6 x plus 11) 3",
+          "Y) f(x) = 5x + 9 (read as: f of x equals 5 x cubed plus 9)",
+          "Z) f(x) = (read as: f of x equals 1 over x squared) 3"
+        ],
+        "answer": "Y) f(x) = 5x + 9"
+      },
+      "changes": {
+        "question": "Which of the following functions is one-to-one?<br>W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)<br>X) f(x) = x<sup>2</sup> − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)<br>Y) f(x) = 5x<sup>3</sup> + 9 (read as: f of x equals 5 x cubed plus 9)<br>Z) f(x) = 1/x<sup>2</sup> (read as: f of x equals 1 over x squared)",
+        "question_sanitized": "Which of the following functions is one-to-one?; W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3); X) f(x) = x^2 − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11); Y) f(x) = 5x^3 + 9 (read as: f of x equals 5 x cubed plus 9); Z) f(x) = 1/x^2 (read as: f of x equals 1 over x squared)",
+        "options": [
+          "W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)",
+          "X) f(x) = x<sup>2</sup> − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)",
+          "Y) f(x) = 5x<sup>3</sup> + 9 (read as: f of x equals 5 x cubed plus 9)",
+          "Z) f(x) = 1/x<sup>2</sup> (read as: f of x equals 1 over x squared)"
+        ],
+        "answer": "Y) f(x) = 5x<sup>3</sup> + 9",
+        "answer_sanitized": "Y) f(x) = 5x^3 + 9"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the original PDF page 6 visually with the corpus; restored missing or displaced mathematical notation.",
+      "before": {
+        "question": "Find the derivative of 12x - 6x + – 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25) 2",
+        "answer": "36x –12x -"
+      },
+      "changes": {
+        "question": "Find the derivative of 12x<sup>3</sup> − 6x<sup>2</sup> + 3/x<sup>5</sup> − 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25).",
+        "question_sanitized": "Find the derivative of 12x^3 − 6x^2 + 3/x^5 − 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25).",
+        "answer": "36x<sup>2</sup> − 12x − <span class=\"nsb-fraction\"><span>15</span><span>x<sup>6</sup></span></span>",
+        "answer_sanitized": "36x^2 − 12x − (15)/(x^6)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the original PDF page 7 visually with the corpus; restored missing or displaced mathematical notation.",
+      "before": {
+        "question": "What is tan + sin ?",
+        "answer": ""
+      },
+      "changes": {
+        "question": "What is tan(<span class=\"nsb-fraction\"><span>5π</span><span>4</span></span>) + sin(<span class=\"nsb-fraction\"><span>π</span><span>6</span></span>)?",
+        "question_sanitized": "What is tan((5π)/(4)) + sin((π)/(6))?",
+        "answer": "<span class=\"nsb-fraction\"><span>3</span><span>2</span></span>",
+        "answer_sanitized": "(3)/(2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Root compared PDF text on page 10: Darwin's uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "question": "Darwin&amp;apos;s theory of evolution stated all of the following except:<br>W) Those organisms best fit for their environment survive and reproduce most successfully<br>X) Acquired characteristics can be inherited<br>Y) Species change over time through the process of natural selection<br>Z) More organisms are produced than can survive, so living things compete for resources"
+      },
+      "changes": {
+        "question": "Darwin's theory of evolution stated all of the following except:<br>W) Those organisms best fit for their environment survive and reproduce most successfully<br>X) Acquired characteristics can be inherited<br>Y) Species change over time through the process of natural selection<br>Z) More organisms are produced than can survive, so living things compete for resources"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged record with original PDF page 13; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 heading says Multiple Choice, but the question provides no choices and asks for a computed whole-number answer, 22. Normalized the playable type to Short Answer; no prompt or answer changed.",
+      "before": {
+        "type": "Multiple Choice"
+      },
+      "changes": {
+        "type": "Short Answer"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    }
+  ],
+  "packetIssues": []
+}

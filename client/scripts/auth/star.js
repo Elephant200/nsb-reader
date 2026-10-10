@@ -1,174 +1,25 @@
-import account from '../accounts.js';
-
 export default class star {
   static starredSvg = '<i class="bi bi-star-fill"></i>';
   static unstarredSvg = '<i class="bi bi-star"></i>';
 
-  static async starBonus (bonusId) {
-    return fetch('/auth/stars/star-bonus', {
-      method: 'PUT',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ bonus_id: bonusId })
-    }).then(response => {
-      if (response.status === 401) {
-        const toast = new bootstrap.Toast(document.getElementById('star-toast'));
-        toast.show();
-      } else if (!response.ok) {
-        window.alert('There was an error starring the bonus.');
-      }
-      return response.ok;
-    }).catch(_error => {
-      window.alert('There was an error starring the bonus.');
-      return false;
-    });
+  static ids (type) {
+    try { return JSON.parse(window.localStorage.getItem('nsb-stars-' + type) ?? '[]'); } catch { return []; }
   }
 
-  static async starTossup (tossupId) {
-    return fetch('/auth/stars/star-tossup', {
-      method: 'PUT',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ tossup_id: tossupId })
-    }).then(response => {
-      if (response.status === 401) {
-        const toast = new bootstrap.Toast(document.getElementById('star-toast'));
-        toast.show();
-      } else if (!response.ok) {
-        window.alert('There was an error starring the bonus.');
-      }
-      return response.ok;
-    }).catch(_error => {
-      window.alert('There was an error starring the bonus.');
-      return false;
-    });
+  static save (type, id, starred) {
+    const ids = new Set(this.ids(type));
+    if (starred) ids.add(id); else ids.delete(id);
+    try { window.localStorage.setItem('nsb-stars-' + type, JSON.stringify([...ids])); return true; } catch { return false; }
   }
 
-  static async unstarBonus (bonusId) {
-    return fetch('/auth/stars/unstar-bonus', {
-      method: 'PUT',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ bonus_id: bonusId })
-    }).then(response => {
-      if (response.status === 401) {
-        const toast = new bootstrap.Toast(document.getElementById('star-toast'));
-        toast.show();
-      } else if (!response.ok) {
-        window.alert('There was an error unstarring the bonus.');
-      }
-      return response.ok;
-    }).catch(_error => {
-      window.alert('There was an error unstarring the bonus.');
-      return false;
-    });
-  }
-
-  static async unstarTossup (tossupId) {
-    return fetch('/auth/stars/unstar-tossup', {
-      method: 'PUT',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ tossup_id: tossupId })
-    }).then(response => {
-      if (response.status === 401) {
-        const toast = new bootstrap.Toast(document.getElementById('star-toast'));
-        toast.show();
-      } else if (!response.ok) {
-        window.alert('There was an error unstarring the bonus.');
-      }
-      return response.ok;
-    }).catch(_error => {
-      window.alert('There was an error unstarring the bonus.');
-      return false;
-    });
-  }
-
-  static async isStarredBonus (bonusId) {
-    if (!(await account.getUsername())) {
-      return false;
-    }
-
-    return await fetch(`/auth/stars/is-starred-bonus?bonus_id=${bonusId}`)
-      .then(response => response.json())
-      .then(response => response.isStarred)
-      .catch(_error => {
-        // window.alert('There was an error checking if the bonus is starred.');
-        return false;
-      });
-  }
-
-  static async isStarredTossup (tossupId) {
-    if (!(await account.getUsername())) {
-      return false;
-    }
-
-    return await fetch(`/auth/stars/is-starred-tossup?tossup_id=${tossupId}`)
-      .then(response => response.json())
-      .then(response => response.isStarred)
-      .catch(_error => {
-        // window.alert('There was an error checking if the tossup is starred.');
-        return false;
-      });
-  }
-
-  static async getStarredTossups () {
-    return await fetch('/auth/stars/tossups')
-      .then(response => response.json())
-      .then(tossups => tossups);
-  }
-
-  static async getStarredBonuses () {
-    return await fetch('/auth/stars/bonuses')
-      .then(response => response.json())
-      .then(bonuses => bonuses);
-  }
-
-  static async getStarredTossupIds () {
-    if (!(await account.getUsername())) {
-      return [];
-    }
-
-    return await fetch('/auth/stars/tossup-ids')
-      .then(response => response.json())
-      .then(ids => ids);
-  }
-
-  static async getStarredBonusIds () {
-    if (!(await account.getUsername())) {
-      return [];
-    }
-
-    return await fetch('/auth/stars/bonus-ids')
-      .then(response => response.json())
-      .then(ids => ids);
-  }
-
-  static async clearStarredTossups () {
-    const response = await fetch('/auth/stars/clear-tossup-stars', {
-      method: 'DELETE',
-      headers: { 'Content-Type': 'application/json' }
-    });
-
-    if (!response.ok) {
-      window.alert('There was an error clearing starred tossups.');
-    }
-
-    const { count } = await response.json();
-    if (count) {
-      window.alert(`Cleared ${count} starred tossups.`);
-    }
-  }
-
-  static async clearStarredBonuses () {
-    const response = await fetch('/auth/stars/clear-bonus-stars', {
-      method: 'DELETE',
-      headers: { 'Content-Type': 'application/json' }
-    });
-
-    if (!response.ok) {
-      window.alert('There was an error clearing starred bonuses.');
-    }
-
-    const { count } = await response.json();
-    if (count) {
-      window.alert(`Cleared ${count} starred bonuses.`);
-    }
-  }
+  static async starTossup (id) { return this.save('tossups', id, true); }
+  static async starBonus (id) { return this.save('bonuses', id, true); }
+  static async unstarTossup (id) { return this.save('tossups', id, false); }
+  static async unstarBonus (id) { return this.save('bonuses', id, false); }
+  static async isStarredTossup (id) { return this.ids('tossups').includes(id); }
+  static async isStarredBonus (id) { return this.ids('bonuses').includes(id); }
+  static async getStarredTossupIds () { return this.ids('tossups'); }
+  static async getStarredBonusIds () { return this.ids('bonuses'); }
+  static async clearStarredTossups () { window.localStorage.removeItem('nsb-stars-tossups'); }
+  static async clearStarredBonuses () { window.localStorage.removeItem('nsb-stars-bonuses'); }
 }

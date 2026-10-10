@@ -1,0 +1,512 @@
+{
+  "packetIndex": 125,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-12-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “Which of the following gases has the slowest rate of effusion? W) Hydrogen X) Helium Y) Oxygen Z) Ne” with choices W–Z; each choice and key Y) OXYGEN match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints the arrector pili question with choices inducing shivering, speeding metabolism, increasing air insulation, and vasoconstriction; key Y and wording match the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “Indicate, by number, all of the following statements that must be true for an object to be in static”; printed key 1 AND 2 matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “How many ways are there to get exactly 25 heads results from 26 consecutive fair coin tosses?”; printed key 26 matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “What choice best describes the type of reaction that is catalyzed by lyases [ly-AYS-es]? W) Transfer” with choices W–Z; each choice and key Y) ADDITION TO DOUBLE BONDS match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “What is the resistance of a resistor that has a 20 milliampere current when connected across the ter”; printed key 75 OHMS matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “What is the name of the landform found west of the current Yellowstone Hotspot that was made as the ”; printed key SNAKE RIVER PLAIN matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “Identify the food test used to detect the presence of a reducing sugar by the addition of a solution”; printed key BENEDICT’S TEST matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “If A and B are integers, consider the 2 by 2 matrix with first row 2, A and second row B, 3. For how” with choices W–Z; each choice and key Y) 8 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “Identify all of the following three techniques that could be used to determine the size of an unknow”; printed key 2 (ACCEPT: MASS SPECTROMETRY) matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “Sodium dodecyl [duh-DES-uhl] sulfate is a detergent often used to dissolve molecules. In SDS-PAGE, w”; printed key PROTEINS matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “What is the form of equilibrium [ee-kwuh-LIB-ree-uhm] between pressure and gravity in a stellar inte”; printed key HYDROSTATIC EQUILIBRIUM (ACCEPT: HYDROSTATIC) matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints “What is the absolute value of the difference between the sum of the first 2014 even counting numbers”; printed key 2014 matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visually shows Z³, A^(1/3), A³, and Z^(1/3), with X keyed; corpus omitted superscript boundaries.",
+      "before": {
+        "question": "If Z = atomic number and A = mass number, the radius of an approximately spherical nucleus [NOO-klee-uhs] is proportional to which of the following?<br>W) Z3<br>X) A1/3<br>Y) A3<br>Z) Z1/3",
+        "options": [
+          "W) Z3",
+          "X) A1/3",
+          "Y) A3",
+          "Z) Z1/3"
+        ],
+        "answer": "X) A1/3"
+      },
+      "changes": {
+        "question": "If Z = atomic number and A = mass number, the radius of an approximately spherical nucleus [NOO-klee-uhs] is proportional to which of the following?<br>W) Z<sup>3</sup><br>X) A<sup>1/3</sup><br>Y) A<sup>3</sup><br>Z) Z<sup>1/3</sup>",
+        "options": [
+          "W) Z<sup>3</sup>",
+          "X) A<sup>1/3</sup>",
+          "Y) A<sup>3</sup>",
+          "Z) Z<sup>1/3</sup>"
+        ],
+        "answer": "X) A<sup>1/3</sup>",
+        "question_sanitized": "If Z = atomic number and A = mass number, the radius of an approximately spherical nucleus [NOO-klee-uhs] is proportional to which of the following? W) Z³ X) A^(1/3) Y) A³ Z) Z^(1/3)",
+        "answer_sanitized": "X) A^(1/3)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Moths are nocturnal, have a good sense of smell, and are also pollinators of a variety of plant spec” with choices W–Z; each choice and key W) HEAVY, MUSKY ODORS match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Which of the following statements concerning chemical kinetics is NOT true? W) Catalysts of a reacti” with choices W–Z; each choice and key X) THE RECIPROCAL OF CONCENTRATION VERSUS TIME WILL BE LINEAR FOR A FIRST ORDER REACTION match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “In order to find the average size of families in a particular town, a surveyor took a simple random ” with choices W–Z; each choice and key W) THE SURVEYOR’S CALCULATED AVERAGE WILL LIKELY BE GREATER THAN THE ACTUAL AVERAGE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “What group of subatomic particles, known to be emitted by the reactions that take place in the Sun, ”; printed key NEUTRINOS matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints “Which of the following minerals are present in pelitic rocks, resulting from the metamorphism of alu” with choices W–Z; each choice and key W) SPHALERITE match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “The electrolysis of water is endothermic, requiring 286 kilojoules of energy to decompose one mole o”; printed key -150 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “Someone has carelessly tossed several sets of human vertebrae into a single box. You are trying to s” with choices W–Z; each choice and key Y) 2 CERVICAL match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “The buildup of heavier elements in the nuclear fusion processes in stars is limited to elements belo” with choices W–Z; each choice and key W) IRON-56 match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “A set of three positive consecutive integers has a product 33 times their sum. What is the largest e”; printed key 11 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “A neutral coordination compound is composed of a complex ion bound to a potassium cation [KAT-eye-uh”; printed key THREE PLUS matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “A light ray passes from air (n = 1.00) to the cornea (n = 1.33) of the eye. If the angle of incidenc” with choices W–Z; each choice and key W) LESS THAN 30° match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “Which of the following best approximates the number of separate cinder cones located on the flanks o” with choices W–Z; each choice and key Y) 400 match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “You are conducting an experiment that involves incubating a heat-insensitive enzyme with its substra” with choices W–Z; each choice and key X) NO, BECAUSE THE CONDITIONS ARE CHANGING match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “If A = 20° and B = 25° [A equals twenty degrees and B equals twenty-five degrees], what is the value”; printed key 2 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “Which of the following qualitative organic tests is NOT matched correctly to a functional group for ” with choices W–Z; each choice and key Y) TOLLENS’ REAGENT AND CARBOXYLIC ACIDS match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “Beriberi is caused by deficiency in which of the following vitamins? W) Thiamine [THY-uh-min] X) Ret” with choices W–Z; each choice and key W) THIAMINE match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Which of the following represents a metasomatic change from a protolith? W) Granite to phyllite [FIL” with choices W–Z; each choice and key Z) LIMESTONE TO SKARN match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visually shows dy/dx=x/y, y(3)=4, and the four equations with powers; the corpus lost superscripts.",
+      "before": {
+        "parts": [
+          ". If y is a function of x such that dy/dx = x/y [the derivative of y with respect to x equals x divided by y] and y(3) = 4 [y of three equals four], then which of the following equations is true?<br>W) x2 + y2 = 25 [x squared plus y squared equals twenty-five]<br>X) y – x = 1 [y minus x equals one]<br>Y) y2 – x2 = 49 [y squared minus x squared equals forty-nine]<br>Z) y2 – x2 = 7 [y squared minus x squared equals seven]"
+        ],
+        "options": [
+          "W) x2 + y2 = 25 [x squared plus y squared equals twenty-five]",
+          "X) y – x = 1 [y minus x equals one]",
+          "Y) y2 – x2 = 49 [y squared minus x squared equals forty-nine]",
+          "Z) y2 – x2 = 7 [y squared minus x squared equals seven]"
+        ],
+        "answers": [
+          "Z) y2 – x2 = 7"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If y is a function of x such that <span class=\"nsb-fraction\"><span>dy</span><span>dx</span></span> = <span class=\"nsb-fraction\"><span>x</span><span>y</span></span> [the derivative of y with respect to x equals x divided by y] and y(3) = 4 [y of three equals four], then which of the following equations is true?<br>W) x<sup>2</sup> + y<sup>2</sup> = 25 [x squared plus y squared equals twenty-five]<br>X) y − x = 1 [y minus x equals one]<br>Y) y<sup>2</sup> − x<sup>2</sup> = 49 [y squared minus x squared equals forty-nine]<br>Z) y<sup>2</sup> − x<sup>2</sup> = 7 [y squared minus x squared equals seven]"
+        ],
+        "options": [
+          "W) x<sup>2</sup> + y<sup>2</sup> = 25 [x squared plus y squared equals twenty-five]",
+          "X) y − x = 1 [y minus x equals one]",
+          "Y) y<sup>2</sup> − x<sup>2</sup> = 49 [y squared minus x squared equals forty-nine]",
+          "Z) y<sup>2</sup> − x<sup>2</sup> = 7 [y squared minus x squared equals seven]"
+        ],
+        "answers": [
+          "Z) y<sup>2</sup> − x<sup>2</sup> = 7"
+        ],
+        "parts_sanitized": [
+          "If y is a function of x such that dy/dx = x/y [the derivative of y with respect to x equals x divided by y] and y(3) = 4 [y of three equals four], then which of the following equations is true? W) x^2 + y^2 = 25 [x squared plus y squared equals twenty-five] X) y - x = 1 [y minus x equals one] Y) y^2 - x^2 = 49 [y squared minus x squared equals forty-nine] Z) y^2 - x^2 = 7 [y squared minus x squared equals seven]"
+        ],
+        "answers_sanitized": [
+          "Z) y^2 - x^2 = 7"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints 30°; the extracted corpus character is a nonstandard glyph.",
+      "before": {
+        "parts": [
+          "Light travelling through air strikes a transparent material of index of refraction n = 2 at an angle of 30 relative to the normal to the surface, and is then refracted an angle θ [theta]. What is the value of sin(θ) [sine theta] to two significant figures?<br>W) 0.10<br>X) 0.25<br>Y) 0.66<br>Z) 1.0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Light travelling through air strikes a transparent material of index of refraction n = 2 at an angle of 30° relative to the normal to the surface, and is then refracted an angle θ [theta]. What is the value of sin(θ) [sine theta] to two significant figures?<br>W) 0.10<br>X) 0.25<br>Y) 0.66<br>Z) 1.0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “If you lower the intracellular levels of fructose 2, 6 biphosphate, what will happen to the rate of ” with choices W–Z; each choice and key W) GLUCONEOGENESIS SPEEDS UP, GLYCOLYSIS SLOWS DOWN match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visually shows IF₃, IF₅, [BrF₅]⁻, and [BrF₃]²⁻, including the charges.",
+      "before": {
+        "parts": [
+          "Which of the following species has an unpaired electron, according to the VSEPR [ves-per] model?<br>W) IF3 [I-F-3]<br>X) IF5 [I-F-5]<br>Y) [BrF5]- [negative charge on B-R-F-5]<br>Z) [BrF3]2- [negative two charge on B-R-F-3]"
+        ],
+        "options": [
+          "W) IF3 [I-F-3]",
+          "X) IF5 [I-F-5]",
+          "Y) [BrF5]- [negative charge on B-R-F-5]",
+          "Z) [BrF3]2- [negative two charge on B-R-F-3]"
+        ],
+        "answers": [
+          "Y) [BrF5]-"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following species has an unpaired electron, according to the VSEPR [ves-per] model?<br>W) IF<sub>3</sub> [I-F-3]<br>X) IF<sub>5</sub> [I-F-5]<br>Y) [BrF<sub>5</sub>]<sup>−</sup> [negative charge on B-R-F-5]<br>Z) [BrF<sub>3</sub>]<sup>2−</sup> [negative two charge on B-R-F-3]"
+        ],
+        "options": [
+          "W) IF<sub>3</sub> [I-F-3]",
+          "X) IF<sub>5</sub> [I-F-5]",
+          "Y) [BrF<sub>5</sub>]<sup>−</sup> [negative charge on B-R-F-5]",
+          "Z) [BrF<sub>3</sub>]<sup>2−</sup> [negative two charge on B-R-F-3]"
+        ],
+        "answers": [
+          "Y) [BrF<sub>5</sub>]<sup>−</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following species has an unpaired electron, according to the VSEPR [ves-per] model? W) IF₃ [I-F-3] X) IF₅ [I-F-5] Y) [BrF₅]⁻ [negative charge on B-R-F-5] Z) [BrF₃]²⁻ [negative two charge on B-R-F-3]"
+        ],
+        "answers_sanitized": [
+          "Y) [BrF₅]⁻"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “Let x = 0.123456789101112…99 [x equal zero point one, two, three, four, five, six, seven, eight, nin” with choices W–Z; each choice and key X) 4 match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “An ideal refrigerator absorbs heat at -23˚C and exhausts it at 27˚C. What is its coefficient of perf”; printed key 5 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints 300°C in choice Z; corpus has a lowercase o in place of degree.",
+      "before": {
+        "parts": [
+          "Which of the following best describes cataclastic metamorphism?<br>W) Ultrahigh pressures generated by impact with an extra-terrestrial body<br>X) High temperature alteration accompanied by moderate pressures in the presence of hydrothermal fluids<br>Y) Mechanical deformation that can result from rocks sliding along a shear zone<br>Z) Shallow burial with temperatures exceeding 300oC, similar to diagenesis [dy-uh-JEN-uh-sis]"
+        ],
+        "options": [
+          "W) Ultrahigh pressures generated by impact with an extra-terrestrial body",
+          "X) High temperature alteration accompanied by moderate pressures in the presence of hydrothermal fluids",
+          "Y) Mechanical deformation that can result from rocks sliding along a shear zone",
+          "Z) Shallow burial with temperatures exceeding 300oC, similar to diagenesis [dy-uh-JEN-uh-sis]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following best describes cataclastic metamorphism?<br>W) Ultrahigh pressures generated by impact with an extra-terrestrial body<br>X) High temperature alteration accompanied by moderate pressures in the presence of hydrothermal fluids<br>Y) Mechanical deformation that can result from rocks sliding along a shear zone<br>Z) Shallow burial with temperatures exceeding 300°C, similar to diagenesis [dy-uh-JEN-uh-sis]"
+        ],
+        "options": [
+          "W) Ultrahigh pressures generated by impact with an extra-terrestrial body",
+          "X) High temperature alteration accompanied by moderate pressures in the presence of hydrothermal fluids",
+          "Y) Mechanical deformation that can result from rocks sliding along a shear zone",
+          "Z) Shallow burial with temperatures exceeding 300°C, similar to diagenesis [dy-uh-JEN-uh-sis]"
+        ],
+        "parts_sanitized": [
+          "Which of the following best describes cataclastic metamorphism? W) Ultrahigh pressures generated by impact with an extra-terrestrial body X) High temperature alteration accompanied by moderate pressures in the presence of hydrothermal fluids Y) Mechanical deformation that can result from rocks sliding along a shear zone Z) Shallow burial with temperatures exceeding 300°C, similar to diagenesis [dy-uh-JEN-uh-sis]"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

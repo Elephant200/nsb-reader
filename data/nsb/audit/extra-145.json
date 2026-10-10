@@ -1,0 +1,35 @@
+{
+  "packetIndex": 145,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_15A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root visually checked PDF page 6: the source itself mislabels the four choices W, Y, X, Y, while the answer is Z) POSTZYGOTIC BARRIERS, matching the fourth choice text. Mechanically normalize the four labels to W, X, Y, Z without changing choice order, content, or the answer.",
+      "before": {
+        "question": "Hybrid breakdown and lack of hybrid robustness are examples of which type of reproductive isolation?<br>W) Mechanical isolation<br>Y) Allopatric speciation<br>X) Prezygotic barriers<br>Y) Postzygotic barriers",
+        "options": [
+          "W) Mechanical isolation",
+          "Y) Allopatric speciation",
+          "X) Prezygotic barriers",
+          "Y) Postzygotic barriers"
+        ]
+      },
+      "changes": {
+        "question": "Hybrid breakdown and lack of hybrid robustness are examples of which type of reproductive isolation?<br>W) Mechanical isolation<br>X) Allopatric speciation<br>Y) Prezygotic barriers<br>Z) Postzygotic barriers",
+        "options": [
+          "W) Mechanical isolation",
+          "X) Allopatric speciation",
+          "Y) Prezygotic barriers",
+          "Z) Postzygotic barriers"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,697 @@
+{
+  "packetIndex": 59,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 1 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete item with page 1 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "question": "What is the empirical formula for C<sub>6</sub> H<sub>12</sub> O<sub>6</sub> ?<br>W) C<sub>3</sub> H<sub>4</sub> O<sub>3</sub><br>X) CHO<br>Y) CH<sub>2</sub> O<br>Z) C<sub>6</sub> H<sub>12</sub> O<sub>6</sub>",
+        "options": [
+          "W) C<sub>3</sub> H<sub>4</sub> O<sub>3</sub>",
+          "X) CHO",
+          "Y) CH<sub>2</sub> O",
+          "Z) C<sub>6</sub> H<sub>12</sub> O<sub>6</sub>"
+        ],
+        "answer": "Y) CH<sub>2</sub> O"
+      },
+      "changes": {
+        "question": "What is the empirical formula for C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?<br>W) C<sub>3</sub>H<sub>4</sub>O<sub>3</sub><br>X) CHO<br>Y) CH<sub>2</sub>O<br>Z) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+        "options": [
+          "W) C<sub>3</sub>H<sub>4</sub>O<sub>3</sub>",
+          "X) CHO",
+          "Y) CH<sub>2</sub>O",
+          "Z) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>"
+        ],
+        "answer": "Y) CH<sub>2</sub>O",
+        "question_sanitized": "What is the empirical formula for C6H12O6? W) C3H4O3; X) CHO; Y) CH2O; Z) C6H12O6",
+        "answer_sanitized": "Y) CH2O"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Visually compared Round10 PDF page2: derivative exponent x is raised in stem and all choices; restored the same choices in prompt and options array.",
+      "before": {
+        "question": "Find the derivative of 2xe (read as: 2x e to the x). x 2 e 2 x<br>W) + x x<br>X) 2xe + e x x<br>Y) 2xe + 2e x<br>Z) 2xe x x",
+        "answer": "Y) 2xe + 2e",
+        "options": [
+          "W) + x x",
+          "X) 2xe + e x x",
+          "Y) 2xe + 2e x",
+          "Z) 2xe x x"
+        ]
+      },
+      "changes": {
+        "question": "Find the derivative of 2xe<sup>x</sup> (read as: 2x e to the x).<br>W) 2e<sup>x</sup> + 2x<br>X) 2xe<sup>x</sup> + e<sup>x</sup><br>Y) 2xe<sup>x</sup> + 2e<sup>x</sup><br>Z) 2xe<sup>x</sup>",
+        "answer": "Y) 2xe<sup>x</sup> + 2e<sup>x</sup>",
+        "question_sanitized": "Find the derivative of 2xe^(x) (read as: 2x e to the x). W) 2e^(x) + 2x; X) 2xe^(x) + e^(x); Y) 2xe^(x) + 2e^(x); Z) 2xe^(x)",
+        "answer_sanitized": "Y) 2xe^(x) + 2e^(x)",
+        "options": [
+          "W) 2e<sup>x</sup> + 2x",
+          "X) 2xe<sup>x</sup> + e<sup>x</sup>",
+          "Y) 2xe<sup>x</sup> + 2e<sup>x</sup>",
+          "Z) 2xe<sup>x</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 2 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 3 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 3 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 4 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 4 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Root visually checked Round10 PDF page5: option Z includes “in hydrogen” but the printed answer line omits it, exactly as the original corpus does. No source discrepancy."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 5 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 6 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete item with page 6 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "What are the solutions for x in the following equation: x 2 x 8 ? − =<br>W) 0<br>X) 0 and 2<br>Y) 4 and -2<br>Z) -4 and 2",
+        "options": [
+          "W) 0",
+          "X) 0 and 2",
+          "Y) 4 and -2",
+          "Z) -4 and 2"
+        ]
+      },
+      "changes": {
+        "question": "What are the solutions for x in the following equation: x<sup>2</sup> − 2x = 8?<br>W) 0<br>X) 0 and 2<br>Y) 4 and −2<br>Z) −4 and 2",
+        "question_sanitized": "What are the solutions for x in the following equation: x^2 - 2x = 8? W) 0; X) 0 and 2; Y) 4 and -2; Z) -4 and 2",
+        "options": [
+          "W) 0",
+          "X) 0 and 2",
+          "Y) 4 and −2",
+          "Z) −4 and 2"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete item with page 7 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "question": "Factor the following expression completely over the integers:",
+        "answer": "(a – 2)("
+      },
+      "changes": {
+        "question": "Factor the following expression completely over the integers: a<sup>3</sup> − 8.",
+        "answer": "(a − 2)(a<sup>2</sup> + 2a + 4)",
+        "question_sanitized": "Factor the following expression completely over the integers: a^3 - 8.",
+        "answer_sanitized": "(a - 2)(a^2 + 2a + 4)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 8 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 8 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 9 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 9 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 10 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 11 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 11 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 12 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete item with page 12 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "question": "Darwin&amp;apos;s finches differ from other finches in the size and shape of their beaks. Which of the following factors has been identified as the major influence on the development of the differing beaks?<br>W) Access to different food sources<br>X) Sexual competition<br>Y) Protection against predators<br>Z) Genetic drift"
+      },
+      "changes": {
+        "question": "Darwin's finches differ from other finches in the size and shape of their beaks. Which of the following factors has been identified as the major influence on the development of the differing beaks?<br>W) Access to different food sources<br>X) Sexual competition<br>Y) Protection against predators<br>Z) Genetic drift",
+        "question_sanitized": "Darwin's finches differ from other finches in the size and shape of their beaks. Which of the following factors has been identified as the major influence on the development of the differing beaks? W) Access to different food sources; X) Sexual competition; Y) Protection against predators; Z) Genetic drift"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete item with page 13 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "question": "The enthalpy in the reaction 3Q + 2R + 300 kilojoules à (read as: yields) 6Y + Z is +150 kilojoules per mole of:<br>W) Q<br>X) R<br>Y) Y<br>Z) Z"
+      },
+      "changes": {
+        "question": "The enthalpy in the reaction 3Q + 2R + 300 kilojoules → (read as: yields) 6Y + Z is +150 kilojoules per mole of:<br>W) Q<br>X) R<br>Y) Y<br>Z) Z",
+        "question_sanitized": "The enthalpy in the reaction 3Q + 2R + 300 kilojoules → (read as: yields) 6Y + Z is +150 kilojoules per mole of: W) Q; X) R; Y) Y; Z) Z"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 1 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete item with page 1 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "parts": [
+          "What is the formula for iron II phosphate?<br>W) Fe<sub>3</sub> P<sub>2</sub><br>X) FePO<sub>4</sub><br>Y) Fe<sub>3</sub> (PO<sub>4</sub> )<sub>2</sub><br>Z) Fe<sub>3</sub> (PO<sub>3</sub> )<sub>2</sub>"
+        ],
+        "options": [
+          "W) Fe<sub>3</sub> P<sub>2</sub>",
+          "X) FePO<sub>4</sub>",
+          "Y) Fe<sub>3</sub> (PO<sub>4</sub> )<sub>2</sub>",
+          "Z) Fe<sub>3</sub> (PO<sub>3</sub> )<sub>2</sub>"
+        ],
+        "answers": [
+          "Y) Fe<sub>3</sub> (PO<sub>4</sub> )<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the formula for iron II phosphate?<br>W) Fe<sub>3</sub>P<sub>2</sub><br>X) FePO<sub>4</sub><br>Y) Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub><br>Z) Fe<sub>3</sub>(PO<sub>3</sub>)<sub>2</sub>"
+        ],
+        "options": [
+          "W) Fe<sub>3</sub>P<sub>2</sub>",
+          "X) FePO<sub>4</sub>",
+          "Y) Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+          "Z) Fe<sub>3</sub>(PO<sub>3</sub>)<sub>2</sub>"
+        ],
+        "answers": [
+          "Y) Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>"
+        ],
+        "parts_sanitized": [
+          "What is the formula for iron II phosphate? W) Fe3P2; X) FePO4; Y) Fe3(PO4)2; Z) Fe3(PO3)2"
+        ],
+        "answers_sanitized": [
+          "Y) Fe3(PO4)2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete item with page 2 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "parts": [
+          "What matrix is the multiplicative inverse of the 2 by 2 matrix (read as: row 1: 3, 1; row 2: 5, 2)."
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What matrix is the multiplicative inverse of the 2 by 2 matrix<br>[3  1; 5  2] (read as: row 1: 3, 1; row 2: 5, 2)."
+        ],
+        "answers": [
+          "[2  −1; −5  3]"
+        ],
+        "parts_sanitized": [
+          "What matrix is the multiplicative inverse of the 2 by 2 matrix [[3, 1], [5, 2]] (read as: row 1: 3, 1; row 2: 5, 2)."
+        ],
+        "answers_sanitized": [
+          "[[2, -1], [-5, 3]]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 2 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 3 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 3 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 4 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 4 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 5 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 5 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root compared PDF text on page 6: doesn't uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "parts": [
+          "Honey doesn&amp;apos;t spoil easily because bacteria falling into the honey are often killed. The water in the bacteria rushes out of the cell and the bacteria shrivel up because honey is a:<br>W) Isotonic solution<br>X) Hypertonic solution<br>Y) Hypotonic solution<br>Z) Inorganic solution"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Honey doesn't spoil easily because bacteria falling into the honey are often killed. The water in the bacteria rushes out of the cell and the bacteria shrivel up because honey is a:<br>W) Isotonic solution<br>X) Hypertonic solution<br>Y) Hypotonic solution<br>Z) Inorganic solution"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete item with page 6 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "parts": [
+          "Solve for x in simplest form for 3 x 2 x 2 + = . 1± 7 −"
+        ],
+        "answers": [
+          "x (ACCEPT: -1/3 ± /3) = 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve for x in simplest form for 3x<sup>2</sup> + 2x = 2."
+        ],
+        "answers": [
+          "x = <span class=\"nsb-fraction\"><span>−1 ± √7</span><span>3</span></span> (ACCEPT: −1/3 ± √7/3)"
+        ],
+        "parts_sanitized": [
+          "Solve for x in simplest form for 3x^2 + 2x = 2."
+        ],
+        "answers_sanitized": [
+          "x = (-1 ± sqrt(7))/3 (ACCEPT: -1/3 ± sqrt(7)/3)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete item with page 7 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "parts": [
+          "Factor the following expression completely over the integers: ."
+        ],
+        "answers": [
+          "(a + 2)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Factor the following expression completely over the integers: a<sup>5</sup> + 32."
+        ],
+        "answers": [
+          "(a + 2)(a<sup>4</sup> − 2a<sup>3</sup> + 4a<sup>2</sup> − 8a + 16)"
+        ],
+        "parts_sanitized": [
+          "Factor the following expression completely over the integers: a^5 + 32."
+        ],
+        "answers_sanitized": [
+          "(a + 2)(a^4 - 2a^3 + 4a^2 - 8a + 16)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 8 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 8 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 9 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 9 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 10 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 10 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 11 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 11 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes against the original PDF on page 12 of packet 059; source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Root compared PDF text on page 12: Darwin's uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "parts": [
+          "Darwin&amp;apos;s finches all descended from one species, the Blue-Black Grassquit Finch. These finches evolved in overlapping and sometimes identical ranges, often occurring together on the same islands. What is the name for speciation that occurs in this way?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Darwin's finches all descended from one species, the Blue-Black Grassquit Finch. These finches evolved in overlapping and sometimes identical ranges, often occurring together on the same islands. What is the name for speciation that occurs in this way?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete item with page 13 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "before": {
+        "parts": [
+          "Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg + O à (read as: (s) 2(g) yields) 2 MgO + heat? (s)<br>W) Increasing the concentration of oxygen<br>X) Removing the magnesium oxide as soon as it is formed<br>Y) Reducing the temperature<br>Z) Decreasing the concentration of oxygen"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg<sub>(s)</sub> + O<sub>2(g)</sub> → (read as: yields) 2 MgO<sub>(s)</sub> + heat?<br>W) Increasing the concentration of oxygen<br>X) Removing the magnesium oxide as soon as it is formed<br>Y) Reducing the temperature<br>Z) Decreasing the concentration of oxygen"
+        ],
+        "parts_sanitized": [
+          "Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg(s) + O2(g) → (read as: yields) 2 MgO(s) + heat? W) Increasing the concentration of oxygen; X) Removing the magnesium oxide as soon as it is formed; Y) Reducing the temperature; Z) Decreasing the concentration of oxygen"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

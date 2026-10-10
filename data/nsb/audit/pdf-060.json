@@ -1,0 +1,648 @@
+{
+  "packetIndex": 60,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared original PDF page 2 visually with the corpus; restored notation lost in extraction.",
+      "before": {
+        "question": "What are the complex roots of the equation (x + 2) = -1?"
+      },
+      "changes": {
+        "question": "What are the complex roots of the equation (x + 2)<sup>2</sup> = −1?",
+        "question_sanitized": "What are the complex roots of the equation (x + 2)^2 = −1?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared original PDF page 4 visually with the corpus; restored notation lost in extraction. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Evaluate the following expression: (read as: the quantity n minus 2 factorial divided by the quantity n minus 3 factorial).<br>W) n - 3<br>X) n - 2<br>Y) n<br>Z) 1",
+        "options": [
+          "W) n - 3",
+          "X) n - 2",
+          "Y) n",
+          "Z) 1"
+        ]
+      },
+      "changes": {
+        "question": "Evaluate the following expression: <span class=\"nsb-fraction\"><span>(n − 2)!</span><span>(n − 3)!</span></span> (read as: the quantity n minus 2 factorial divided by the quantity n minus 3 factorial).<br>W) n − 3<br>X) n − 2<br>Y) n<br>Z) 1",
+        "question_sanitized": "Evaluate the following expression: ((n − 2)!)/((n − 3)!) (read as: the quantity n minus 2 factorial divided by the quantity n minus 3 factorial).; W) n − 3; X) n − 2; Y) n; Z) 1",
+        "options": [
+          "W) n − 3",
+          "X) n − 2",
+          "Y) n",
+          "Z) 1"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared original PDF page 5 visually with the corpus; restored notation lost in extraction.",
+      "before": {
+        "question": "What is the area of a square if the length of its diagonal is ?"
+      },
+      "changes": {
+        "question": "What is the area of a square if the length of its diagonal is 7√2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared original PDF page 8 visually with the corpus; restored notation lost in extraction. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Students are given an organism and asked to create an experiment to determine whether it is ectothermic. They vary room temperature and record whether the body temperature of the organism changes. Which result would be consistent with an ectothermic organism?<br>W) The organism&amp;apos;s body temperature would not vary with room temperature<br>X) The organism&amp;apos;s body temperature would vary inversely with room temperature<br>Y) The organism&amp;apos;s body temperature would vary with room temperature<br>Z) The organism&amp;apos;s body temperature would only vary when the room temperature increased",
+        "answer": "Y) THE ORGANISM&amp;apos;S BODY TEMPERATURE WOULD VARY WITH ROOM TEMPERATURE",
+        "options": [
+          "W) The organism&amp;apos;s body temperature would not vary with room temperature",
+          "X) The organism&amp;apos;s body temperature would vary inversely with room temperature",
+          "Y) The organism&amp;apos;s body temperature would vary with room temperature",
+          "Z) The organism&amp;apos;s body temperature would only vary when the room temperature increased"
+        ]
+      },
+      "changes": {
+        "question": "Students are given an organism and asked to create an experiment to determine whether it is ectothermic. They vary room temperature and record whether the body temperature of the organism changes. Which result would be consistent with an ectothermic organism?<br>W) The organism’s body temperature would not vary with room temperature<br>X) The organism’s body temperature would vary inversely with room temperature<br>Y) The organism’s body temperature would vary with room temperature<br>Z) The organism’s body temperature would only vary when the room temperature increased",
+        "answer": "Y) THE ORGANISM’S BODY TEMPERATURE WOULD VARY WITH ROOM TEMPERATURE",
+        "options": [
+          "W) The organism’s body temperature would not vary with room temperature",
+          "X) The organism’s body temperature would vary inversely with room temperature",
+          "Y) The organism’s body temperature would vary with room temperature",
+          "Z) The organism’s body temperature would only vary when the room temperature increased"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared original PDF page 11 visually with the corpus; restored notation lost in extraction.",
+      "before": {
+        "question": "In the notation 3d , the 2 refers to:<br>W) The energy level of the electrons<br>X) The number of electrons in the orbital 3d<br>Y) The number of d orbitals in the energy level 3<br>Z) The total number of electrons in the n = 3 shell"
+      },
+      "changes": {
+        "question": "In the notation 3d<sup>2</sup>, the 2 refers to:<br>W) The energy level of the electrons<br>X) The number of electrons in the orbital 3d<br>Y) The number of d orbitals in the energy level 3<br>Z) The total number of electrons in the n = 3 shell",
+        "question_sanitized": "In the notation 3d^2, the 2 refers to:; W) The energy level of the electrons; X) The number of electrons in the orbital 3d; Y) The number of d orbitals in the energy level 3; Z) The total number of electrons in the n = 3 shell"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared original PDF page 12 visually with the corpus; restored notation lost in extraction. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Which of the following equations describes a parabola that has a vertex at (-2,3)? 2<br>W) y = -2(x + 2) - 3 2<br>X) y = -2(x + 2) + 3 2<br>Y) y = -2(x - 2) - 3 2<br>Z) y = -2(x – 2) + 3 2",
+        "options": [
+          "W) y = -2(x + 2) - 3 2",
+          "X) y = -2(x + 2) + 3 2",
+          "Y) y = -2(x - 2) - 3 2",
+          "Z) y = -2(x – 2) + 3 2"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following equations describes a parabola that has a vertex at (−2, 3)?<br>W) y = −2(x + 2)<sup>2</sup> − 3<br>X) y = −2(x + 2)<sup>2</sup> + 3<br>Y) y = −2(x − 2)<sup>2</sup> − 3<br>Z) y = −2(x − 2)<sup>2</sup> + 3",
+        "question_sanitized": "Which of the following equations describes a parabola that has a vertex at (−2, 3)?; W) y = −2(x + 2)^2 − 3; X) y = −2(x + 2)^2 + 3; Y) y = −2(x − 2)^2 − 3; Z) y = −2(x − 2)^2 + 3",
+        "options": [
+          "W) y = −2(x + 2)<sup>2</sup> − 3",
+          "X) y = −2(x + 2)<sup>2</sup> + 3",
+          "Y) y = −2(x − 2)<sup>2</sup> − 3",
+          "Z) y = −2(x − 2)<sup>2</sup> + 3"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged record with original PDF page 13; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared original PDF page 4 visually with the corpus; restored notation lost in extraction. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "parts": [
+          "If f(x) = 2x – 1 and f(g(-2)) = 7 (read as: f of g of negative 2 equals 7), which of the following could be g(x)? 2<br>W) -x<br>X) 2x 2<br>Y) 2x<br>Z) |4x + 4| (read as: the absolute value of 4x plus 4)"
+        ],
+        "options": [
+          "W) -x",
+          "X) 2x 2",
+          "Y) 2x",
+          "Z) |4x + 4| (read as: the absolute value of 4x plus 4)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) = 2x − 1 and f(g(−2)) = 7 (read as: f of g of negative 2 equals 7), which of the following could be g(x)?<br>W) −x<sup>2</sup><br>X) 2x<br>Y) 2x<sup>2</sup><br>Z) |4x + 4| (read as: the absolute value of 4x plus 4)"
+        ],
+        "parts_sanitized": [
+          "If f(x) = 2x − 1 and f(g(−2)) = 7 (read as: f of g of negative 2 equals 7), which of the following could be g(x)?; W) −x^2; X) 2x; Y) 2x^2; Z) |4x + 4| (read as: the absolute value of 4x plus 4)"
+        ],
+        "options": [
+          "W) −x<sup>2</sup>",
+          "X) 2x",
+          "Y) 2x<sup>2</sup>",
+          "Z) |4x + 4| (read as: the absolute value of 4x plus 4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared original PDF page 5 visually with the corpus; restored notation lost in extraction.",
+      "before": {
+        "parts": [
+          "What transformation is represented by the multiplication of by (read as: the 2 by 1 matrix x, y by the 2 by 2 matrix row 1: 1, 0; row 2: 0, -1)?<br>W) Reflection through the x–axis<br>X) Reflection through the y–axis<br>Y) Reflection through the line y = x<br>Z) Reflection through the origin"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What transformation is represented by multiplying the vector (x, y) by the matrix [[1, 0], [0, −1]] (read as: the 2 by 1 matrix x, y by the 2 by 2 matrix row 1: 1, 0; row 2: 0, −1)?<br>W) Reflection through the x–axis<br>X) Reflection through the y–axis<br>Y) Reflection through the line y = x<br>Z) Reflection through the origin"
+        ],
+        "parts_sanitized": [
+          "What transformation is represented by multiplying the vector (x, y) by the matrix [[1, 0], [0, −1]] (read as: the 2 by 1 matrix x, y by the 2 by 2 matrix row 1: 1, 0; row 2: 0, −1)?; W) Reflection through the x–axis; X) Reflection through the y–axis; Y) Reflection through the line y = x; Z) Reflection through the origin"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared original PDF page 7 visually with the corpus; restored notation lost in extraction.",
+      "before": {
+        "parts": [
+          "What is the oxidation number of tin in the following formula: (NH<sub>4</sub> )<sub>2</sub> SnCl<sub>6</sub> ?<br>W) -4<br>X) -2<br>Y) +2<br>Z) +4"
+        ],
+        "options": [
+          "W) -4",
+          "X) -2",
+          "Y) +2",
+          "Z) +4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the oxidation number of tin in the following formula: (NH<sub>4</sub>)<sub>2</sub>SnCl<sub>6</sub>?<br>W) −4<br>X) −2<br>Y) +2<br>Z) +4"
+        ],
+        "options": [
+          "W) −4",
+          "X) −2",
+          "Y) +2",
+          "Z) +4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared original PDF page 12 visually with the corpus; restored notation lost in extraction.",
+      "before": {
+        "parts": [
+          "What is the equation for the axis of symmetry for the function 2 f(x) = -x + 2x + 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the equation for the axis of symmetry for the function f(x) = −x<sup>2</sup> + 2x + 3?"
+        ],
+        "parts_sanitized": [
+          "What is the equation for the axis of symmetry for the function f(x) = −x^2 + 2x + 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared original PDF page 12 visually with the corpus; restored notation lost in extraction.",
+      "before": {
+        "answers": [
+          "MAGNESIUM (ACCEPT: Mg )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "MAGNESIUM (ACCEPT: Mg²⁺)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged record with original PDF page 13; wording, answer/options, and notation agree."
+    }
+  ],
+  "packetIssues": []
+}

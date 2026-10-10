@@ -1,0 +1,494 @@
+{
+  "packetIndex": 204,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-6A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked all wording/options for ‘Energy – Short Answer Researchers at Brookhaven National Lab are studying the’ and printed answer ‘HELICASE’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked all wording/options for ‘Earth and Space – Multiple Choice What is the name for slow and gradual displacement of’ and printed answer ‘Y) FAULT CREEP’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording/options for ‘Math – Short Answer What is the distance between the points (–1, 4) and (–10, 6)?’ and printed answer ‘√85’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording/options for ‘Biology – Short Answer A sphygmomanometer [sfig-moh-man-AW-meh-tur] is a medical’ and printed answer ‘BLOOD PRESSURE’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording/options for ‘Chemistry – Multiple Choice Which of the following is closest to the percent by mass of’ and printed answer ‘W) 10’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording/options for ‘Physics – Short Answer In meters, how far does a 10-kilogram mass that is dropped from’ and printed answer ‘490’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked all wording/options for ‘Energy – Multiple Choice Researchers at Oak Ridge National Lab use pulsed laser light to’ and printed answer ‘X) PHONON’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked all wording/options for ‘Earth and Space – Multiple Choice What kind of trajectory will a comet follow if it has the’ and printed answer ‘Y) PARABOLIC’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source prints ethylene's formula C₂H₄; the read-as cue [al-KEEN] is preserved and answer formula checked.",
+      "before": {
+        "answer": "C 2 H 4"
+      },
+      "changes": {
+        "answer": "C<sub>2</sub>H<sub>4</sub>",
+        "answer_sanitized": "C₂H₄"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked all wording/options for ‘Biology – Short Answer Dinoflagellates [DYE-no-FLAJ-ihl-ates] have been identified as’ and printed answer ‘RED TIDE (ACCEPT: HARMFUL ALGAL BLOOM)’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked all wording/options for ‘Math – Multiple Choice Which of the following is equivalent to’ and printed answer ‘W) SINE 36°’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked all wording/options for ‘Physics – Short Answer Winds flowing from high to low pressures on the Earth appear to’ and printed answer ‘CORIOLIS’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording/options for ‘Energy – Short Answer Scientists at Lawrence Livermore National Lab have devised an’ and printed answer ‘ELECTROLYSIS’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording/options for ‘Earth and Space – Multiple Choice Which of the following minerals is not typically found’ and printed answer ‘W) OLIVINE’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked all wording/options for ‘Physics – Short Answer If silicon is doped with boron, it becomes what type of’ and printed answer ‘P-TYPE (ACCEPT: P)’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked all wording/options for ‘Biology – Short Answer What type of RNA carries amino acids to the ribosomes?’ and printed answer ‘tRNA (ACCEPT: TRANSFER RNA, TRANSFER)’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked all wording/options for ‘Math – Short Answer Six is one-third percent of what number?’ and printed answer ‘1800’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source salt formula is Fe(IO₄)₃, with 4 and 3 as subscripts; prompt wording and both accepted names match.",
+      "before": {
+        "question": "What is the name of the ionic salt with chemical formula Fe(IO 4 ) 3 ?"
+      },
+      "changes": {
+        "question": "What is the name of the ionic salt with chemical formula Fe(IO<sub>4</sub>)<sub>3</sub>?",
+        "question_sanitized": "What is the name of the ionic salt with chemical formula Fe(IO₄)₃?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked all wording/options for ‘Earth and Space – Short Answer Edwin Purcell won the Nobel Prize in Physics for’ and printed answer ‘HYDROGEN’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked all wording/options for ‘Physics – Short Answer What physical quantity is defined as force integrated over a time’ and printed answer ‘IMPULSE’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked all wording/options for ‘Math – Short Answer In the integers mod 8, what is 7 + 5?’ and printed answer ‘4’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked all wording/options for ‘Chemistry – Short Answer Benzene demonstrates what special type of conjugation due to’ and printed answer ‘AROMATICITY (ACCEPT: AROMATIC)’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked all wording/options for ‘Biology – Short Answer In female mammals, one of the two X chromosomes will be’ and printed answer ‘BARR BODY’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked all wording/options for ‘Earth and Space – Short Answer Identify all of the following three physical properties that’ and printed answer ‘1, 2 2019 Regional Science Bowl – Round 6A Page 1’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording/options for ‘Math – Short Answer A triangle with integer side lengths has longest side that is 4 times as’ and printed answer ‘75 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording/options for ‘Biology – Short Answer In mRNA synthesis, what enzyme reads the DNA and synthesizes’ and printed answer ‘RNA POLYMERASE [pah-LIM-er-ace] 2019 Regional Science Bowl – Round 6A Page 2’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording/options for ‘Chemistry – Multiple Choice A buffered aqueous system contains 0.02 molar ammonia and’ and printed answer ‘W) 8.3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording/options for ‘Physics – Short Answer A positively charged particle is traveling in the positive direction’ and printed answer ‘NEGATIVE Z 2019 Regional Science Bowl – Round 6A Page 3’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked all wording/options for ‘Energy – Short Answer Researchers at Lawrence Berkeley National Lab are revisiting the’ and printed answer ‘DARK MATTER ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked all wording/options for ‘Earth and Space – Short Answer In what layer of the Earth’s atmosphere do auroras’ and printed answer ‘THERMOSPHERE 2019 Regional Science Bowl – Round 6A Page 4’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked all wording/options for ‘Chemistry – Short Answer What is the maximum number of’ and printed answer ‘64 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked all wording/options for ‘Biology – Short Answer Order the following four sections of the spine from the most’ and printed answer ‘2, 4, 1, 3 2019 Regional Science Bowl – Round 6A Page 5’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source polynomial is 2x⁴ + 3x³ − 7x − 3 divided by x + 3; answer 99.",
+      "before": {
+        "parts": [
+          "What is the remainder when 2x4 + 3x3 – 7x – 3 is divided by x + 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the remainder when 2<i>x</i><sup>4</sup> + 3<i>x</i><sup>3</sup> − 7<i>x</i> − 3 is divided by <i>x</i> + 3?"
+        ],
+        "parts_sanitized": [
+          "What is the remainder when 2x⁴ + 3x³ − 7x − 3 is divided by x + 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked all wording/options for ‘Physics – Short Answer How much elastic energy, in joules, is stored in a spring that is’ and printed answer ‘0.5 (ACCEPT: 1/2) 2019 Regional Science Bowl – Round 6A Page 6’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording/options for ‘Energy – Short Answer Scientists at Princeton Plasma Physics Lab are building the’ and printed answer ‘PLASMA ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording/options for ‘Earth and Space – Short Answer Arrange the following three colors of light in order of’ and printed answer ‘2, 3, 1 2019 Regional Science Bowl – Round 6A Page 7’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked all wording/options for ‘Physics – Short Answer A rocket propels itself with 50 newtons of force directed’ and printed answer ‘3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked all wording/options for ‘Biology – Multiple Choice Which of the following best describes the reason for the’ and printed answer ‘W) CONVERGENT EVOLUTION 2019 Regional Science Bowl – Round 6A Page 8’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked all wording/options for ‘Math – Short Answer A student club sells tickets to a school play. They sell 683 tickets,’ and printed answer ‘46 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked all wording/options for ‘Chemistry – Short Answer Identify all of the following three sulfate salts that are soluble’ and printed answer ‘1, 2, AND 3 (ACCEPT: ALL) 2019 Regional Science Bowl – Round 6A Page 9’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked all wording/options for ‘Earth and Space – Short Answer What planet in our solar system is the only planet to’ and printed answer ‘MERCURY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked all wording/options for ‘Physics – Short Answer Two capacitors, both with capacitance C, are initially charged’ and printed answer ‘2.5 2019 Regional Science Bowl – Round 6A Page 10’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked all wording/options for ‘Math – Short Answer If the line tangent to the graph of the differentiable function f of x at’ and printed answer ‘–6/5 (ACCEPT: –1 1/5, –1.2) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked all wording/options for ‘Chemistry – Short Answer Which of the electron's quantum numbers corresponds to the’ and printed answer ‘PRINCIPAL (ACCEPT: N) 2019 Regional Science Bowl – Round 6A Page 11’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source cue reads [ah-MEE-no-ASS-il]-tRNA; remove the line-wrap space after the join hyphen, keeping the full question and answer TWENTY.",
+      "before": {
+        "parts": [
+          "How many different human aminoacyl [ah-MEE-no-ASS-il]- tRNA synthetases are there to charge the 45 different tRNA molecules?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many different human aminoacyl [ah-MEE-no-ASS-il]-tRNA synthetases are there to charge the 45 different tRNA molecules?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

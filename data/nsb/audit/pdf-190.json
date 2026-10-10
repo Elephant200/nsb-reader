@@ -1,0 +1,504 @@
+{
+  "packetIndex": 190,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists the four congruence statements and keys W; all labels and wording match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 shows the sunlight/acid-water question, choices methane, ammonia, hydrogen peroxide, water, and key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 shows the calcium-carbonate solubility question with four compound choices and key X."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists 300, 3,000, 30,000, and 300,000 kelvins; key X is 3,000."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists retina, posterior chamber, cornea, and lens; key Z is lens."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks for the circuit property measured in henries and keys inductance."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints √2 [square root of 2] as choice W and keys W; all four choices match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks the primary compound of fungal cell walls and keys chitin."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints pKa/deprotonation and cyanamide cues, values 1/15/35/45, and key W."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 keys TAU (accept TAUON). Joined the line-wrapped pronunciation cue and restored the space after the closing bracket.",
+      "before": {
+        "question": "According to the Standard Model of Particle Physics, what lepton [LEP- tawn]is the most massive?"
+      },
+      "changes": {
+        "question": "According to the Standard Model of Particle Physics, what lepton [LEP-tawn] is the most massive?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks permutations of six marked marbles drawn without replacement and keys 30."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks the gas embedded in tungsten and keys helium."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks the systematic name of propyl iodide and keys 1-iodopropane."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “equivalent resistance” and the 2-ohm parallel/series circuit; answer 3/2 with both accepted forms. Restored the missing u in the extracted prompt.",
+      "before": {
+        "question": "What is the eqivalent resistance, in ohms, of a circuit composed of a 2-ohm resistor connected in parallel to a series branch with two 3-ohm resistors?"
+      },
+      "changes": {
+        "question": "What is the equivalent resistance, in ohms, of a circuit composed of a 2-ohm resistor connected in parallel to a series branch with two 3-ohm resistors?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists quartz, calcite, halite, and topaz; key Z is topaz."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 includes the boson pronunciation [BOH-sawn] and keys gluon."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks the intermediate storm between tropical depression and hurricane; key tropical storm."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints f(x)=4x−6 and g(x)=3x and asks g(f(x)); answer 12x−18."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints intensity I and a 50-degree filter angle; answer 0.5 I."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 includes the metal-ligand pronunciation cue and keys CRYSTAL FIELD THEORY (accept CFT)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks which quadrants meet at 3i and prints both numeric and ordinal accepted forms, 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives the perpendicular-line y-intercept problem through (4, −3) and answer 19/3 with three accepted forms."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists all secondary-battery statements and keys 3. Joined the line-wrapped “electricity-producing” compound.",
+      "before": {
+        "parts": [
+          "Identify all of the following three statements that are true of secondary batteries: 1) They are not rechargeable; 2) They require a constant source of energy; 3) The electricity- producing reaction in them is chemically reversible."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three statements that are true of secondary batteries: 1) They are not rechargeable; 2) They require a constant source of energy; 3) The electricity-producing reaction in them is chemically reversible."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three statements that are true of secondary batteries: 1) They are not rechargeable; 2) They require a constant source of energy; 3) The electricity-producing reaction in them is chemically reversible."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 includes the vicinal pronunciation cue, 60-degree torsion angle, and answer GAUCHE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists three annular-eclipse statements and keys 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 includes chromosomal and monosomy cues; answer TURNER SYNDROME (accept MONOSOMY X)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks the rotational-period factor for halved centripetal acceleration at fixed radius; answer √2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists all four star-planet orientations and keys Z."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists rumen, reticulum [reh-TIK-yoo-lum], omasum [oh-MAY-sum], and abomasum [ab-oh-MAY-sum]; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 includes covalent and fluorine cues and all four bonds; key Y, nitrogen-boron."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints three x-position pairs under constant acceleration; answer 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints hypotenuse 59 and leg 57; answer 2√58."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 includes the Leclanche pronunciation and all four voltage-curve choices; key Z. Joined the line-wrapped cue in the name.",
+      "before": {},
+      "changes": {
+        "parts_sanitized": [
+          "Which of the following best describes the discharge curve of a Leclanche [lah-KLAN-shay] cell when graphing output voltage versus time? W) An initial rise, then a line with zero slope; X) An initial dip, then a line with zero slope; Y) A line with positive slope; Z) A line with negative slope"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 includes the dipole read-as cue, all three molecules, and answer 2 AND 3. Joined the line-wrapped pronunciation cue.",
+      "before": {
+        "parts": [
+          "Identify all of the following three molecules that have a net dipole [DYE- pole] moment: 1) Silicon tetrachloride; 2) Chloroform; 3) Hydrogen sulfide."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three molecules that have a net dipole [DYE-pole] moment: 1) Silicon tetrachloride; 2) Chloroform; 3) Hydrogen sulfide."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three molecules that have a net dipole [DYE-pole] moment: 1) Silicon tetrachloride; 2) Chloroform; 3) Hydrogen sulfide."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists the acceleration, velocity, and force claims for two released electrons; answer 2 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists kimberlite, diabase, anorthosite [an-OR-tho-site], and amphibolite [am-FIB-oh-lite]; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists both solar layers and 2500/250,000 multiples; key Z is 250,000 times the Sun’s core temperature."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 includes the allele cue and four population processes; key Y, inbreeding."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints the volcanic island distance 2500 km over 28 million years and keys 9 cm/year. Corrected extracted “avarage” to printed “average”.",
+      "before": {
+        "parts": [
+          "What is the avarage plate velocity, to the nearest whole centimeter per year, of a volcanic island that has moved 2500 kilometers away from its parent hot spot in 28 million years?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the average plate velocity, to the nearest whole centimeter per year, of a volcanic island that has moved 2500 kilometers away from its parent hot spot in 28 million years?"
+        ],
+        "parts_sanitized": [
+          "What is the average plate velocity, to the nearest whole centimeter per year, of a volcanic island that has moved 2500 kilometers away from its parent hot spot in 28 million years?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks for the first 12 terms with initial terms 5 and 9; answer 324."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists the potential-energy changes and equilibrium claims; answer NONE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists the three lone-pair statements for a linear molecule; answer 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists Asparagine [ass-PAIR-ah-jeen], Tryptophan [TRIP-tow-fan], and Glutamine; answer 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints the quiz score distribution and asks for average rounded to a tenth; answer 8.5."
+    }
+  ],
+  "packetIssues": []
+}

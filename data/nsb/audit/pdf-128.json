@@ -1,0 +1,595 @@
+{
+  "packetIndex": 128,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-15-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 lattice-energy question, all four salts, and answer X) magnesium oxide match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 16-student science/math counts and answer 5 match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 glass refractive index 1.1, speed choices, and answer Y) 0.9C match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 recessional velocity 150 km/s and answer distance 2 Mpc match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 octahedral-symmetry choices and answer Y) exactly eight mirror planes match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 commensalism choices including clownfish cue and answer Z) egrets match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 oil-product options and answer X) Syngas match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 shows the stacked 5/4 as the argument of log in choice W; choice X separately has base 5. The read-as cue identifies W's log argument as five-fourths.",
+      "before": {
+        "question": "For the expression 5 4 , [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true?<br>W) log [x to the power of z equals log of five-fourths]<br>X) log [z divided by four equals log base five of x]<br>Y) <br>Z) 1 [x divided by z is less than one]",
+        "options": [
+          "W) log [x to the power of z equals log of five-fourths]",
+          "X) log [z divided by four equals log base five of x]",
+          "Y) ",
+          "Z) 1 [x divided by z is less than one]"
+        ],
+        "answer": "Z) 1"
+      },
+      "changes": {
+        "question": "For the expression 5<sup>x</sup> = 4<sup>z</sup> [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true?<br>W) x<sup>z</sup> = log <span class=\"nsb-fraction\"><span>5</span><span>4</span></span> [x to the power of z equals log of five-fourths]<br>X) <span class=\"nsb-fraction\"><span>z</span><span>4</span></span> = log<sub>5</sub>(x) [z divided by four equals log base five of x]<br>Y) z &lt; x<br>Z) <span class=\"nsb-fraction\"><span>x</span><span>z</span></span> &lt; 1 [x divided by z is less than one]",
+        "options": [
+          "W) x<sup>z</sup> = log <span class=\"nsb-fraction\"><span>5</span><span>4</span></span> [x to the power of z equals log of five-fourths]",
+          "X) <span class=\"nsb-fraction\"><span>z</span><span>4</span></span> = log<sub>5</sub>(x) [z divided by four equals log base five of x]",
+          "Y) z &lt; x",
+          "Z) <span class=\"nsb-fraction\"><span>x</span><span>z</span></span> &lt; 1 [x divided by z is less than one]"
+        ],
+        "answer": "Z) <span class=\"nsb-fraction\"><span>x</span><span>z</span></span> &lt; 1",
+        "question_sanitized": "For the expression 5^x = 4^z [five to the power of x equals four to the power of z] if x and z are positive, which of the following is true? W) x^z = log(5/4) [x to the power of z equals log of five-fourths] X) z/4 = log_5(x) [z divided by four equals log base five of x] Y) z < x Z) x/z < 1 [x divided by z is less than one]",
+        "answer_sanitized": "Z) x/z < 1"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 ethyne/acetylene pronunciation cues and answer 3 sigma and 2 pi match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 reciprocal of the square root of vacuum permeability times electric susceptibility question and answer speed of light match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 steady-state model question and accepted model/theory/universe answer variants match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 electroporation choices and answer W) polar molecules pass through the plasma membrane match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 buffer-solution choices and answer W) sodium formate with formic acid match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 constant-volume calorimetry question and answer with DO NOT ACCEPT boundary match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 base-twelve ET numeral, read-as cue, and answer 142 match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 vision-center choices including Fovea pronunciation cue and answer X) FOVEA match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 capacitor-energy/voltage prompt, all choices, and answer X) 20 farads match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 capacitor-energy/voltage prompt, all choices, and answer X) 20 farads match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 spam-count probability prompt and answer Poisson distribution match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 Haber-process equilibrium cue, four condition changes, and answer Y) increasing pressure match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 pluripotent-cell question, pronunciation cue, and answer MESENCHYME with accepted MESENCHYMAL match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 sulfuric-acid titration amounts and answer 200 mL match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 star-operation definition and answer 4/3 (ACCEPT: 1 1/3) match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 1000 joules/s and 10 volts problem, all choices, and answer W) 0.1 ohms match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 clay-particle thickness percentages and answer Z) Nearly 100% match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 partial pressures 150/350 torr and answer 3 moles oxygen match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 July hedgehog scenario, four explanations, and answer Y) estivating match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 laptop 4 V/10 ohm, 8-hour charge, and answer 3.2 amp-hours match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 graben question and answer Death Valley match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints the definite integral from −3 to 0 of √(9 − x²) dx and ANSWER 9π/4; corpus omitted math and answer.",
+      "before": {
+        "parts": [
+          "Evaluate the following definite integral: 9 [the integral from negative three to zero of the square root of open parenthesis nine minus x squared close parenthesis d x]"
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the following definite integral: ∫<sub>−3</sub><sup>0</sup> √(9 − x<sup>2</sup>) dx [the integral from negative three to zero of the square root of open parenthesis nine minus x squared close parenthesis d x]"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>9π</span><span>4</span></span>"
+        ],
+        "parts_sanitized": [
+          "Evaluate the following definite integral: integral from -3 to 0 sqrt(9 - x^2) dx [the integral from negative three to zero of the square root of open parenthesis nine minus x squared close parenthesis d x]"
+        ],
+        "answers_sanitized": [
+          "9 pi/4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 freshwater-acclimated fish options and answer W) higher glomerular filtration rates with pronunciation cue match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints acetate A⁻ with superscript charge in option Z; its four options and answer Y were compared.",
+      "before": {
+        "parts": [
+          "Consider an arbitrary acid HA [H- A], where A can be any group. Which of the following facts would allow one to directly infer that it is a stronger acid than acetic acid?<br>W) H-A has the ability to protonate water in high yield<br>X) Acetic acid has the ability to protonate H-A in high yield<br>Y) H-A has the ability to protonate acetate in high yield<br>Z) Acetic acid has the ability to protonate A- in high yield"
+        ],
+        "options": [
+          "W) H-A has the ability to protonate water in high yield",
+          "X) Acetic acid has the ability to protonate H-A in high yield",
+          "Y) H-A has the ability to protonate acetate in high yield",
+          "Z) Acetic acid has the ability to protonate A- in high yield"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider an arbitrary acid HA [H- A], where A can be any group. Which of the following facts would allow one to directly infer that it is a stronger acid than acetic acid?<br>W) H-A has the ability to protonate water in high yield<br>X) Acetic acid has the ability to protonate H-A in high yield<br>Y) H-A has the ability to protonate acetate in high yield<br>Z) Acetic acid has the ability to protonate A<sup>−</sup> in high yield"
+        ],
+        "options": [
+          "W) H-A has the ability to protonate water in high yield",
+          "X) Acetic acid has the ability to protonate H-A in high yield",
+          "Y) H-A has the ability to protonate acetate in high yield",
+          "Z) Acetic acid has the ability to protonate A<sup>−</sup> in high yield"
+        ],
+        "parts_sanitized": [
+          "Consider an arbitrary acid HA [H- A], where A can be any group. Which of the following facts would allow one to directly infer that it is a stronger acid than acetic acid? W) H-A has the ability to protonate water in high yield X) Acetic acid has the ability to protonate H-A in high yield Y) H-A has the ability to protonate acetate in high yield Z) Acetic acid has the ability to protonate A- in high yield"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 compressibility question, all four options, and answer X) Bulk modulus match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 brown-adipose/normal tissue question, all options, and answer Y) electron transport chain match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints CH₃OCH₃, CH₃NH₂, H₂CO; corpus formula digits are on the baseline.",
+      "before": {
+        "parts": [
+          "Identify the oxidation number of carbon in each of the following: dimethyl ether (CH3OCH3), methylamine (CH3NH2), and formaldehyde [fore-MAL-duh-hyd] (H2CO)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify the oxidation number of carbon in each of the following: dimethyl ether (CH<sub>3</sub>OCH<sub>3</sub>), methylamine (CH<sub>3</sub>NH<sub>2</sub>), and formaldehyde [fore-MAL-duh-hyd] (H<sub>2</sub>CO)."
+        ],
+        "parts_sanitized": [
+          "Identify the oxidation number of carbon in each of the following: dimethyl ether (CH₃OCH₃), methylamine (CH₃NH₂), and formaldehyde [fore-MAL-duh-hyd] (H₂CO)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints nitrous oxide as N₂O in the question; corpus has baseline digits.",
+      "before": {
+        "parts": [
+          "Which of the following is closest to the correct global warming potential factor for nitrous oxide (N2O)?<br>W) 3<br>X) 30<br>Y) 100<br>Z) 300"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is closest to the correct global warming potential factor for nitrous oxide (N<sub>2</sub>O)?<br>W) 3<br>X) 30<br>Y) 100<br>Z) 300"
+        ],
+        "parts_sanitized": [
+          "Which of the following is closest to the correct global warming potential factor for nitrous oxide (N₂O)? W) 3 X) 30 Y) 100 Z) 300"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 10 X 10 grid, read-as cue, and answer 385 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 cranial nerve III choices and answer Y) move eyes to the left match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 laser population condition and answer Population inversion match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 10′ × 10′ × 20′ apartment dimensions, read-as cue, and answer 0.3 changes per hour match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints y=e^(2−x) and e²−1/e² options, with the original read-as cues; answer is W) 2e.",
+      "before": {
+        "parts": [
+          "The tangent line to the graph y = e2 – x [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes?<br>W) 2e<br>X) e2 – 1 [e squared minus one]<br>Y) e2 [e squared]<br>Z) 4e [four e]"
+        ],
+        "options": [
+          "W) 2e",
+          "X) e2 – 1 [e squared minus one]",
+          "Y) e2 [e squared]",
+          "Z) 4e [four e]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The tangent line to the graph y = e<sup>2 − x</sup> [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes?<br>W) 2e<br>X) e<sup>2</sup> − 1 [e squared minus one]<br>Y) e<sup>2</sup> [e squared]<br>Z) 4e [four e]"
+        ],
+        "options": [
+          "W) 2e",
+          "X) e<sup>2</sup> − 1 [e squared minus one]",
+          "Y) e<sup>2</sup> [e squared]",
+          "Z) 4e [four e]"
+        ],
+        "parts_sanitized": [
+          "The tangent line to the graph y = e^(2 - x) [y equals e to the power of the quantity two minus x] at the point (1, e) [one, e] intersects both coordinate axes. What is the area of the triangle formed by this tangent line and the coordinate axes? W) 2e X) e^2 - 1 [e squared minus one] Y) e^2 [e squared] Z) 4e [four e]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints N₂, H₂O, and H₂ in the equilibrium mixture and Kc in the prompt; corpus flattened formula subscripts.",
+      "before": {
+        "parts": [
+          "Nitrogen monoxide reacts with hydrogen gas to form water vapor and nitrogen gas. A 1 liter vessel contains an equilibrium [ee-kwuh-LIB-ree-uhm] mixture of 28 moles of N2, 10 moles of H2O, 2 moles of NO, and 1 mole of H2. Calculate Kc for this reaction."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Nitrogen monoxide reacts with hydrogen gas to form water vapor and nitrogen gas. A 1 liter vessel contains an equilibrium [ee-kwuh-LIB-ree-uhm] mixture of 28 moles of N<sub>2</sub>, 10 moles of H<sub>2</sub>O, 2 moles of NO, and 1 mole of H<sub>2</sub>. Calculate K<sub>c</sub> for this reaction."
+        ],
+        "parts_sanitized": [
+          "Nitrogen monoxide reacts with hydrogen gas to form water vapor and nitrogen gas. A 1 liter vessel contains an equilibrium [ee-kwuh-LIB-ree-uhm] mixture of 28 moles of N₂, 10 moles of H₂O, 2 moles of NO, and 1 mole of H₂. Calculate Kc for this reaction."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 pronunciation cue is continuous [dy-E-thi-leen], and the last option breaks alpha-carbon across a line; corpus kept line-wrap spaces.",
+      "before": {
+        "parts": [
+          "In 1937, a medicinal elixir produced by a pharmaceutical company killed 71 adults and 34 children because the solvent for the drug was diethylene [dy- E-thi-leen] glycol, a chemical used now as antifreeze. Diethylene glycol is toxic because it is converted to oxalic acid by alcohol dehydrogenase [dee-HY-druh-juh-nays] and other enzymes, which damages the kidneys and brain. If given early enough, ethanol is a treatment for this poisoning. Which of the following reasons is the most likely explanation for why ethanol is an effective treatment?<br>W) Ethanol is an allosteric inhibitor of alcohol dehydrogenase<br>X) Ethanol is a more competitive substrate for alcohol dehydrogenase than diethylene glycol<br>Y) Diethylene glycol has a stronger affinity for ethanol than for alcohol dehydrogenase<br>Z) Ethanol cleaves the diethylene glycol molecule through an electrophilic attack on the alpha- carbon of diethylene glycol"
+        ],
+        "options": [
+          "W) Ethanol is an allosteric inhibitor of alcohol dehydrogenase",
+          "X) Ethanol is a more competitive substrate for alcohol dehydrogenase than diethylene glycol",
+          "Y) Diethylene glycol has a stronger affinity for ethanol than for alcohol dehydrogenase",
+          "Z) Ethanol cleaves the diethylene glycol molecule through an electrophilic attack on the alpha- carbon of diethylene glycol"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In 1937, a medicinal elixir produced by a pharmaceutical company killed 71 adults and 34 children because the solvent for the drug was diethylene [dy-E-thi-leen] glycol, a chemical used now as antifreeze. Diethylene glycol is toxic because it is converted to oxalic acid by alcohol dehydrogenase [dee-HY-druh-juh-nays] and other enzymes, which damages the kidneys and brain. If given early enough, ethanol is a treatment for this poisoning. Which of the following reasons is the most likely explanation for why ethanol is an effective treatment?<br>W) Ethanol is an allosteric inhibitor of alcohol dehydrogenase<br>X) Ethanol is a more competitive substrate for alcohol dehydrogenase than diethylene glycol<br>Y) Diethylene glycol has a stronger affinity for ethanol than for alcohol dehydrogenase<br>Z) Ethanol cleaves the diethylene glycol molecule through an electrophilic attack on the alpha-carbon of diethylene glycol"
+        ],
+        "options": [
+          "W) Ethanol is an allosteric inhibitor of alcohol dehydrogenase",
+          "X) Ethanol is a more competitive substrate for alcohol dehydrogenase than diethylene glycol",
+          "Y) Diethylene glycol has a stronger affinity for ethanol than for alcohol dehydrogenase",
+          "Z) Ethanol cleaves the diethylene glycol molecule through an electrophilic attack on the alpha-carbon of diethylene glycol"
+        ],
+        "parts_sanitized": [
+          "In 1937, a medicinal elixir produced by a pharmaceutical company killed 71 adults and 34 children because the solvent for the drug was diethylene [dy-E-thi-leen] glycol, a chemical used now as antifreeze. Diethylene glycol is toxic because it is converted to oxalic acid by alcohol dehydrogenase [dee-HY-druh-juh-nays] and other enzymes, which damages the kidneys and brain. If given early enough, ethanol is a treatment for this poisoning. Which of the following reasons is the most likely explanation for why ethanol is an effective treatment? W) Ethanol is an allosteric inhibitor of alcohol dehydrogenase X) Ethanol is a more competitive substrate for alcohol dehydrogenase than diethylene glycol Y) Diethylene glycol has a stronger affinity for ethanol than for alcohol dehydrogenase Z) Ethanol cleaves the diethylene glycol molecule through an electrophilic attack on the alpha-carbon of diethylene glycol"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

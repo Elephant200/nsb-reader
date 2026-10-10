@@ -1,0 +1,641 @@
+{
+  "packetIndex": 55,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round6.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 shows Fe₂O₃ → 2Fe + 3 ZnO and identifies Fe³⁺ in Fe₂O₃; restored arrow, formula subscripts, and ionic superscripts.",
+      "before": {
+        "question": "Identify the substance being reduced in the following reaction: 3 Zn + Fe<sub>2</sub> O<sub>3</sub> à (read as: yields) 2Fe + 3 ZnO. 3+ 3+",
+        "answer": "THE Fe IN THE Fe<sub>2</sub> O<sub>3</sub> (ACCEPT: Fe OR IRON III. DO NOT ACCEPT: IRON OR IRON METAL)"
+      },
+      "changes": {
+        "question": "Identify the substance being reduced in the following reaction: 3 Zn + Fe<sub>2</sub>O<sub>3</sub> → (read as: yields) 2Fe + 3 ZnO.",
+        "answer": "THE Fe<sup>3+</sup> IN THE Fe<sub>2</sub>O<sub>3</sub> (ACCEPT: Fe<sup>3+</sup> OR IRON III. DO NOT ACCEPT: IRON OR IRON METAL)",
+        "question_sanitized": "Identify the substance being reduced in the following reaction: 3 Zn + Fe2O3 -> (read as: yields) 2Fe + 3 ZnO.",
+        "answer_sanitized": "THE Fe(3+) IN THE Fe2O3 (ACCEPT: Fe(3+) OR IRON III. DO NOT ACCEPT: IRON OR IRON METAL)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 7 prints “the body's inflammatory response”; replaced the double-escaped apostrophe in the embedded choice and options array.",
+      "before": {
+        "question": "How do vaccines work to prevent illness? They:<br>W) Stimulate production of disease-specific antibodies<br>X) Calm the body&amp;apos;s inflammatory response<br>Y) Stop antihistamines from triggering an immune response<br>Z) Alter cell surface proteins, blocking pathogens’ ability to enter the cell",
+        "options": [
+          "W) Stimulate production of disease-specific antibodies",
+          "X) Calm the body&amp;apos;s inflammatory response",
+          "Y) Stop antihistamines from triggering an immune response",
+          "Z) Alter cell surface proteins, blocking pathogens’ ability to enter the cell"
+        ]
+      },
+      "changes": {
+        "question": "How do vaccines work to prevent illness? They:<br>W) Stimulate production of disease-specific antibodies<br>X) Calm the body's inflammatory response<br>Y) Stop antihistamines from triggering an immune response<br>Z) Alter cell surface proteins, blocking pathogens’ ability to enter the cell",
+        "options": [
+          "W) Stimulate production of disease-specific antibodies",
+          "X) Calm the body's inflammatory response",
+          "Y) Stop antihistamines from triggering an immune response",
+          "Z) Alter cell surface proteins, blocking pathogens’ ability to enter the cell"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 has no trailing 2 after the stem; the answer prints 9.8 m/s². Removed the stray digit and restored the superscript.",
+      "before": {
+        "question": "The NASA “Vomit Comet” allows passengers to feel the effects of weightlessness by ascending to 30,000 feet and then dropping downward at what acceleration? 2",
+        "answer": "g (ACCEPT: 9.8 m/s , THE ACCELERATION DUE TO GRAVITY)"
+      },
+      "changes": {
+        "question": "The NASA “Vomit Comet” allows passengers to feel the effects of weightlessness by ascending to 30,000 feet and then dropping downward at what acceleration?",
+        "answer": "g (ACCEPT: 9.8 m/s<sup>2</sup>, THE ACCELERATION DUE TO GRAVITY)",
+        "question_sanitized": "The NASA “Vomit Comet” allows passengers to feel the effects of weightlessness by ascending to 30,000 feet and then dropping downward at what acceleration?",
+        "answer_sanitized": "g (ACCEPT: 9.8 m/s^2, THE ACCELERATION DUE TO GRAVITY)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints (5²)³, the four power expressions, and answer X) 5⁵; restored nested powers and all choices.",
+      "before": {
+        "question": "Which of the following is not equal to (read as: 5 squared to the power of 3)? ( ) 2<br>W) (read as: 5 cubed to the power of 2) <span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;5</span></span><sup>3</sup><br>X) <span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;5</span></span><sub>6</sub><br>Y) ( )( ) 3 3<br>Z) 5 5 (read as: 5 cubed times 5 cubed) 5",
+        "answer": "X) 5",
+        "options": [
+          "W) (read as: 5 cubed to the power of 2) <span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;5</span></span><sup>3</sup>",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;5</span></span><sub>6</sub>",
+          "Y) ( )( ) 3 3",
+          "Z) 5 5 (read as: 5 cubed times 5 cubed) 5"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is not equal to (5<sup>2</sup>)<sup>3</sup> (read as: 5 squared to the power of 3)?<br>W) (5<sup>3</sup>)<sup>2</sup> (read as: 5 cubed to the power of 2)<br>X) 5<sup>5</sup><br>Y) 5<sup>6</sup><br>Z) (5<sup>3</sup>)(5<sup>3</sup>) (read as: 5 cubed times 5 cubed)",
+        "answer": "X) 5<sup>5</sup>",
+        "options": [
+          "W) (5<sup>3</sup>)<sup>2</sup> (read as: 5 cubed to the power of 2)",
+          "X) 5<sup>5</sup>",
+          "Y) 5<sup>6</sup>",
+          "Z) (5<sup>3</sup>)(5<sup>3</sup>) (read as: 5 cubed times 5 cubed)"
+        ],
+        "question_sanitized": "Which of the following is not equal to (5^2)^3 (read as: 5 squared to the power of 3)? W) (5^3)^2 (read as: 5 cubed to the power of 2); X) 5^5; Y) 5^6; Z) (5^3)(5^3) (read as: 5 cubed times 5 cubed)",
+        "answer_sanitized": "X) 5^5"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints CO₂ without a gap before the closing parenthesis; corrected subscript spacing.",
+      "before": {
+        "answers": [
+          "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "CARBON DIOXIDE (ACCEPT: CO2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 2 × 10⁶ and 6 × 10⁸; restored multiplication signs and exponents.",
+      "before": {
+        "parts": [
+          "If the input of methane in the Martian atmosphere is 2 6 8 x 10 moles per day, and 6 x 10 moles are estimated to reside in the Martian atmosphere, what is the residence time of methane in days?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the input of methane in the Martian atmosphere is 2 × 10<sup>6</sup> moles per day, and 6 × 10<sup>8</sup> moles are estimated to reside in the Martian atmosphere, what is the residence time of methane in days?"
+        ],
+        "parts_sanitized": [
+          "If the input of methane in the Martian atmosphere is 2 x 10^6 moles per day, and 6 x 10^8 moles are estimated to reside in the Martian atmosphere, what is the residence time of methane in days?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Root compared PDF text on page 8: don't uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "parts": [
+          "Which of the following is true about vitamins?<br>W) Vitamins give you energy<br>X) Vitamins are inorganic compounds low in calories that can provide energy when dieting<br>Y) Vitamins are organic compounds and serve as a great way to maintain energy levels when you don&amp;apos;t have time to eat<br>Z) Vitamins do not provide energy for the body"
+        ],
+        "options": [
+          "W) Vitamins give you energy",
+          "X) Vitamins are inorganic compounds low in calories that can provide energy when dieting",
+          "Y) Vitamins are organic compounds and serve as a great way to maintain energy levels when you don&amp;apos;t have time to eat",
+          "Z) Vitamins do not provide energy for the body"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is true about vitamins?<br>W) Vitamins give you energy<br>X) Vitamins are inorganic compounds low in calories that can provide energy when dieting<br>Y) Vitamins are organic compounds and serve as a great way to maintain energy levels when you don't have time to eat<br>Z) Vitamins do not provide energy for the body"
+        ],
+        "options": [
+          "W) Vitamins give you energy",
+          "X) Vitamins are inorganic compounds low in calories that can provide energy when dieting",
+          "Y) Vitamins are organic compounds and serve as a great way to maintain energy levels when you don't have time to eat",
+          "Z) Vitamins do not provide energy for the body"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints the trigonometric expression, all squared terms, and answer X) cos² a × sin a; restored powers and signs.",
+      "before": {
+        "parts": [
+          "Given that a is not a multiple of π, the expression (cos a / tan a ) 2 (1 – cos a) (read as: cosine of a over tangent of a times the quantity 1 minus cosine squared of a) is equivalent to which of the following expressions?<br>W) cos a 2<br>X) cos a sin a 2 2<br>Y) sin a cos a 2<br>Z) cos a 2"
+        ],
+        "options": [
+          "W) cos a 2",
+          "X) cos a sin a 2 2",
+          "Y) sin a cos a 2",
+          "Z) cos a 2"
+        ],
+        "answers": [
+          "X) cos a sin a"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that a is not a multiple of π, the expression (cos a / tan a) × (1 − cos<sup>2</sup> a) (read as: cosine of a over tangent of a times the quantity 1 minus cosine squared of a) is equivalent to which of the following expressions?<br>W) cos a<br>X) cos<sup>2</sup> a × sin a<br>Y) sin<sup>2</sup> a × cos<sup>2</sup> a<br>Z) cos<sup>2</sup> a"
+        ],
+        "options": [
+          "W) cos a",
+          "X) cos<sup>2</sup> a × sin a",
+          "Y) sin<sup>2</sup> a × cos<sup>2</sup> a",
+          "Z) cos<sup>2</sup> a"
+        ],
+        "answers": [
+          "X) cos<sup>2</sup> a × sin a"
+        ],
+        "parts_sanitized": [
+          "Given that a is not a multiple of π, the expression (cos a / tan a) × (1 - cos^2 a) (read as: cosine of a over tangent of a times the quantity 1 minus cosine squared of a) is equivalent to which of the following expressions? W) cos a; X) cos^2 a × sin a; Y) sin^2 a × cos^2 a; Z) cos^2 a"
+        ],
+        "answers_sanitized": [
+          "X) cos^2 a × sin a"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints y = 2x² − 5x − 1 and roots (5 ± √33)/4; restored exponents, radicals, and stacked fractions.",
+      "before": {
+        "parts": [
+          "Where does the graph of cross the x-axis?"
+        ],
+        "answers": [
+          "AND (ACCEPT: )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Where does the graph of y = 2x<sup>2</sup> − 5x − 1 cross the x-axis?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>5 + √33</span><span>4</span></span> AND <span class=\"nsb-fraction\"><span>5 − √33</span><span>4</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>5 ± √33</span><span>4</span></span>)"
+        ],
+        "parts_sanitized": [
+          "Where does the graph of y = 2x^2 - 5x - 1 cross the x-axis?"
+        ],
+        "answers_sanitized": [
+          "(5 + √33)/4 AND (5 - √33)/4 (ACCEPT: (5 ± √33)/4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    }
+  ],
+  "packetIssues": []
+}

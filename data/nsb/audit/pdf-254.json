@@ -1,0 +1,448 @@
+{
+  "packetIndex": 254,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-12.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: “one-dimensional particle-in-a-box” is split only at the line-ending hyphen; joined compound is one-dimensional. Key is NEGATIVE TWO.",
+      "before": {
+        "question": "The energy of a given level for a one- dimensional particle-in-a-box is proportional to the length of the box raised to what power?"
+      },
+      "changes": {
+        "question": "The energy of a given level for a one-dimensional particle-in-a-box is proportional to the length of the box raised to what power?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: geoid choices are smooth/uneven and oblate/prolate; key X) UNEVEN AND OBLATE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: mRNA with several genes is keyed POLYCISTRONIC."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4 at high resolution: percentile choices print W)34, X)68, Y)84, Z)95; key is Y)84.",
+      "before": {
+        "question": "In data that are normally distributed, an observation that is one standard deviation above the mean is closest to which of the following percentiles?<br>W) 34<br>X) <span class=\"nsb-fraction\">&lt;span&gt;68</span>&lt;span&gt;84</span></span><br>Y) <br>Z) 95",
+        "options": [
+          "W) 34",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;68</span>&lt;span&gt;84</span></span>",
+          "Y) ",
+          "Z) 95"
+        ]
+      },
+      "changes": {
+        "question": "In data that are normally distributed, an observation that is one standard deviation above the mean is closest to which of the following percentiles?<br>W) 34<br>X) 68<br>Y) 84<br>Z) 95",
+        "options": [
+          "W) 34",
+          "X) 68",
+          "Y) 84",
+          "Z) 95"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: current through the conducting-wire coil spring results in compression; key W."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: RNA acting as a catalyst is keyed RIBOZYME."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: iodide, chloride, bromide, fluoride choices; largest polarizability key W) IODIDE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: magnetic-field spectral-line broadening is keyed ZEEMAN EFFECT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: humus-production choices are fermentation, photo-oxidation, respiration, mechanical weathering; key W) FERMENTATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10 at high resolution: product factors are 2x²−6x+7 and x²+7x−2; the x³ coefficient is 8.",
+      "before": {
+        "question": "What is the coefficient of the x 3 term in the product of the following two quadratic polynomials: 2x 2 – 6x + 7 and x 2 + 7x – 2?"
+      },
+      "changes": {
+        "question": "What is the coefficient of the x<sup>3</sup> term in the product of the following two quadratic polynomials: 2x<sup>2</sup> – 6x + 7 and x<sup>2</sup> + 7x – 2?",
+        "question_sanitized": "What is the coefficient of the x^3 term in the product of the following two quadratic polynomials: 2x^2 – 6x + 7 and x^2 + 7x – 2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: process with no heat entering or leaving is keyed Y) ADIABATIC."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: Meselson–Stahl model choices are conservative, semiconservative, dispersive, quasi-dispersive; key X."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13 at high resolution: source equation is N₂O₄ → 2NO₂; reaction order key ONE (accept FIRST).",
+      "before": {
+        "question": "What is the order of the reaction N O yields 2NO ? 2 4 2"
+      },
+      "changes": {
+        "question": "What is the order of the reaction N<sub>2</sub>O<sub>4</sub> yields 2NO<sub>2</sub>?",
+        "question_sanitized": "What is the order of the reaction N2O4 yields 2NO2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: cohesion as the restoring force identifies CAPILLARY WAVES."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: magnetic-field expulsion from a superconductor is keyed MEISSNER EFFECT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: positive integers less than 222 divisible by both 6 and 8; key 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: underdamped oscillator constant has a negative real part and non-zero imaginary part; key Y."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: LH surge is keyed as triggered by estradiol; all four hormone choices are printed."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: entropy choices include the log of the microstate count; printed key Z."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: volcano statements cover parasitic cones, basalt/felsic slope, rhyolitic lava domes; key is 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: magnon spin choices are 1, ½, 3/2; key is 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: all three point coordinates and the line parametric equations are printed; key is 1, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: cross-sectional area, mass, and shape are listed for the drag-coefficient question; key is 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: source splits “Voltage-gated” at the line ending; joined compound is Voltage-gated sodium channel. Answer is 1, 2.",
+      "before": {
+        "parts": [
+          "Identify all of the following three proteins that are transmembrane proteins: 1) Aquaporin; 2) Voltage- gated sodium channel; 3) Ras."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three proteins that are transmembrane proteins: 1) Aquaporin; 2) Voltage-gated sodium channel; 3) Ras."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: calcium-sulfate solubility alternatives are printed; key says its dissolution is exothermic."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: first-row d-block nucleosynthesis choices include exploding white dwarfs, merging neutron stars, dying low-mass stars, cosmic-ray fission; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: “anti-Stokes” is split at a line ending; joined spelling is anti-Stokes. Key describes inelastic scattering with matter losing energy.",
+      "before": {
+        "parts": [
+          "Scientists at SLAC are studying anti- Stokes Raman scattering. Which of the following best describes this scattering?<br>W) Elastic<br>X) Inelastic and the photon loses energy<br>Y) Inelastic and the matter gains energy<br>Z) Inelastic and the matter loses energy"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Scientists at SLAC are studying anti-Stokes Raman scattering. Which of the following best describes this scattering?<br>W) Elastic<br>X) Inelastic and the photon loses energy<br>Y) Inelastic and the matter gains energy<br>Z) Inelastic and the matter loses energy"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: vectors are 5i+4j+2k and 4i−2j; cosine answer 2/5 (accept 0.4)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: RC circuit uses 20 Ω, 5 μF, and 400 μC; initial current key is 4 A."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: mycorrhiza statements cover membrane penetration, nutrient uptake, mutualism; key 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13 at high resolution: formulas print S₈+F₂→SF₆; Zn+HCl→ZnCl₂+H₂; P₄O₁₀+H₂O→H₃PO₄; key NONE.",
+      "before": {
+        "parts": [
+          "Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S + F 8 2 yields SF ; 2) Zn + HCl yields ZnCl + H ; 3) P O + H O yields 6 2 2 4 10 2 H PO . 3 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S<sub>8</sub> + F<sub>2</sub> yields SF<sub>6</sub>; 2) Zn + HCl yields ZnCl<sub>2</sub> + H<sub>2</sub>; 3) P<sub>4</sub>O<sub>10</sub> + H<sub>2</sub>O yields H<sub>3</sub>PO<sub>4</sub>."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S8 + F2 yields SF6; 2) Zn + HCl yields ZnCl2 + H2; 3) P4O10 + H2O yields H3PO4."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: Earth-history events core separation, Moon-forming impact, atmosphere formation appear in order; key 1, 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: rhizobial bacteria are associated with roots of legumes; all four choices and key Z are printed."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: right triangle side lengths 12, 35, 37; inscribed-circle radius answer is 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: block slides at 30° on the inclined plane; coefficient of static friction is printed 0.58."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: the displayed key wraps the standard phrase after “5-”; joined reading is 5-prime-to-3-prime direction. Choice Y is selected.",
+      "before": {
+        "answers": [
+          "Y) IT CAN ONLY BE SYNTHESIZED IN THE 5- PRIME-TO-3-PRIME DIRECTION"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "Y) IT CAN ONLY BE SYNTHESIZED IN THE 5-PRIME-TO-3-PRIME DIRECTION"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

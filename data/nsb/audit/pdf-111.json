@@ -1,0 +1,608 @@
+{
+  "packetIndex": 111,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-15.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared PDF page 1: 1) CHEMISTRY Multiple Choice Which of the following is a proper comparison between ductile and brittle fracture? W); printed answer X) BRITTLE HAS RELATIVELY LITTLE PLASTIC DEFORMATION, WHILE DUCTILE HA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 visibly prints x² + y² = 25 and point (−3, 4).",
+      "before": {
+        "question": "What is the slope-intercept form of the equation of the line that is tangent to the circle with equation x2 + y2 = 25 at the point (-3, 4)?"
+      },
+      "changes": {
+        "question": "What is the slope-intercept form of the equation of the line that is tangent to the circle with equation x<sup>2</sup> + y<sup>2</sup> = 25 at the point (-3, 4)?",
+        "question_sanitized": "What is the slope-intercept form of the equation of the line that is tangent to the circle with equation x^2 + y^2 = 25 at the point (-3, 4)?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared PDF page 2: 3) EARTH AND SPACE Multiple Choice Which of the following pairs of metamorphic rocks both result from the parent ro; printed answer W) SLATE AND HORNFELS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared PDF page 2: 4) PHYSICS Short Answer According to the Standard Model, protons and neutrons are made of quarks. What are the quar; printed answer TWO UPS AND ONE DOWN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared PDF page 3: 5) ENERGY Short Answer In northern climates, which component of a residential home, if properly insulated, will lea; printed answer ATTIC (ACCEPT: ROOF)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared PDF page 3: 6) BIOLOGY Multiple Choice The basal lamina is a long thin structure that is essential for the stability of body ce; printed answer Z) CARTILAGE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared PDF page 4: 7) CHEMISTRY Short Answer Bottom-up approaches to nanotechnology generally involve microscopy. What technique is pr; printed answer LITHOGRAPHY (ACCEPT: SMALL-SCALE LITHOGRAPHY, MICRON-SCALE LITHOGRAPHY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared PDF page 4: 8) MATH Short Answer If the graph of the complex number z = 3 + 4i is rotated 90° counterclockwise, what complex nu; printed answer -4 + 3i."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared PDF page 5: 10) PHYSICS Multiple Choice If 500 joules of energy are required to move a 20-coulomb charge from point A to point ; printed answer X) 25."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared PDF page 6: 11) BIOLOGY Short Answer In mammals, B cells are produced in the bone marrow. What cloacal [kloh-AY-kuhl] organ in ; printed answer BURSA OF FABRICIUS (ACCEPT: BURSA)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared PDF page 6: 12) CHEMISTRY Multiple Choice Which of the following is NOT a method to separate two liquids? W) Fractional distill; printed answer Y) SONICATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared PDF page 7: 13) PHYSICS Multiple Choice Which of the following is a consequence of Gauss's law for magnetism? W) A changing mag; printed answer Z) MAGNETIC MONOPOLES DO NOT EXIST."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared PDF page 7: 14) MATH Multiple Choice A jar contains 500 jellybeans, 100 each of red, white, blue, orange, and green. If you rea; printed answer X) 21."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared PDF page 8: 16) ENERGY Multiple Choice What is the process by which lithium enters electrodes in a lithium-ion battery? W) Inte; printed answer W) INTERCALATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared PDF page 9: 17) PHYSICS Multiple Choice A square loop of wire with a resistance of 2 ohms and a side length of 2 meters has a m; printed answer X) 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared PDF page 9: 18) BIOLOGY Multiple Choice Which of the following proteins would likely be synthesized by a cytosolic ribosome ins; printed answer X) ACTIN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 prints subscript N in S_N1 and S_N2, including answer Y; restored notation in prompt, choices, and answer.",
+      "before": {
+        "question": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture?<br>W) E1<br>X) E2<br>Y) S N 1<br>Z) S N 2",
+        "options": [
+          "W) E1",
+          "X) E2",
+          "Y) S N 1",
+          "Z) S N 2"
+        ],
+        "answer": "Y) S N 1"
+      },
+      "changes": {
+        "question": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture?<br>W) E1<br>X) E2<br>Y) S<sub>N</sub>1<br>Z) S<sub>N</sub>2",
+        "options": [
+          "W) E1",
+          "X) E2",
+          "Y) S<sub>N</sub>1",
+          "Z) S<sub>N</sub>2"
+        ],
+        "question_sanitized": "Which of the following reactions would be most expected to form a racemic [ray-SEE-mik] product mixture? W) E1 X) E2 Y) S_N1 Z) S_N2",
+        "answer": "Y) S<sub>N</sub>1",
+        "answer_sanitized": "Y) S_N1"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared PDF page 10: 20) MATH Multiple Choice Box A contains 4 chips numbered 1 through 4 and Box B contains 5 chips numbered 1 through ; printed answer Y) 7/10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared PDF page 12: 23) PHYSICS Multiple Choice A simple pendulum [PEN-juh-luhm] is pulled back to a large angle less than 90°, so that; printed answer X) IT IS LARGER THAN THE SMALL ANGLE APPROXIMATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared PDF page 12: 24) ENERGY Multiple Choice Whose equation describes the relationship between the concentration of an electro-active; printed answer Y) NERNST."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared PDF page 13: 25) BIOLOGY Multiple Choice What chemicals do peroxisomes [pe-ro-KSI-sohms] use to oxidize other compounds? W) Mono; printed answer Y) HYDROGEN PEROXIDE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 prints endopeptidase pronunciation across a line break as [en-doh-PEP-ti-days]; removed the extraction-only space after the hyphen.",
+      "before": {
+        "parts": [
+          "The generation of proteolytic [proh-tee-uh-LIT-ik] fragments is essential to protein purification. Chymotrypsin [ky-moh-TRIP-sin] is an endopeptidase [en- doh-PEP-ti-days] that will cleave peptide amide bonds. Name two of the four amino acids this enzyme cleaves."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The generation of proteolytic [proh-tee-uh-LIT-ik] fragments is essential to protein purification. Chymotrypsin [ky-moh-TRIP-sin] is an endopeptidase [en-doh-PEP-ti-days] that will cleave peptide amide bonds. Name two of the four amino acids this enzyme cleaves."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1 visually confirms s₁ and s₂ throughout choices and answer Y, with terms 2/(n+6) and n/(5+n).",
+      "before": {
+        "parts": [
+          "Given the two sequences s 1 with nth term and s 2 with nth term 𝑛+6 𝑛 , which of the following statements is correct? 5+𝑛<br>W) s 1 and s 2 are both increasing<br>X) s 1 is increasing and s 2 is decreasing<br>Y) s 1 is decreasing and s 2 is increasing<br>Z) s 1 and s 2 are both decreasing"
+        ],
+        "options": [
+          "W) s 1 and s 2 are both increasing",
+          "X) s 1 is increasing and s 2 is decreasing",
+          "Y) s 1 is decreasing and s 2 is increasing",
+          "Z) s 1 and s 2 are both decreasing"
+        ],
+        "answers": [
+          "Y) s 1 IS DECREASING AND s 2 IS INCREASING"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given the two sequences s<sub>1</sub> with nth term <span class=\"nsb-fraction\"><span>2</span><span>n + 6</span></span> and s<sub>2</sub> with nth term <span class=\"nsb-fraction\"><span>n</span><span>5 + n</span></span>, which of the following statements is correct?<br>W) s<sub>1</sub> and s<sub>2</sub> are both increasing<br>X) s<sub>1</sub> is increasing and s<sub>2</sub> is decreasing<br>Y) s<sub>1</sub> is decreasing and s<sub>2</sub> is increasing<br>Z) s<sub>1</sub> and s<sub>2</sub> are both decreasing"
+        ],
+        "options": [
+          "W) s<sub>1</sub> and s<sub>2</sub> are both increasing",
+          "X) s<sub>1</sub> is increasing and s<sub>2</sub> is decreasing",
+          "Y) s<sub>1</sub> is decreasing and s<sub>2</sub> is increasing",
+          "Z) s<sub>1</sub> and s<sub>2</sub> are both decreasing"
+        ],
+        "parts_sanitized": [
+          "Given the two sequences s_1 with nth term 2/(n + 6) and s_2 with nth term n/(5 + n), which of the following statements is correct? W) s_1 and s_2 are both increasing X) s_1 is increasing and s_2 is decreasing Y) s_1 is decreasing and s_2 is increasing Z) s_1 and s_2 are both decreasing"
+        ],
+        "answers": [
+          "Y) s<sub>1</sub> IS DECREASING AND s<sub>2</sub> IS INCREASING"
+        ],
+        "answers_sanitized": [
+          "Y) s₁ IS DECREASING AND s₂ IS INCREASING"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared PDF page 2: 3) EARTH AND SPACE Short Answer Wolf-Rayet stars are young, massive stars with prodigious mass loss rates. What for; printed answer RADIATION PRESSURE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared PDF page 2: 4) PHYSICS Short Answer What famous nuclear reaction bypasses the \"mass 8 gap\" in stellar burning and proceeds main; printed answer TRIPLE-ALPHA PROCESS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared PDF page 3: 5) ENERGY Multiple Choice In string theory, in the absence of external interactions, string dynamics are governed b; printed answer W) KINETIC."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared PDF page 3: 6) BIOLOGY Multiple Choice When using a light microscope to view a stained cross section of a dorsal root ganglion,; printed answer W) CELL BODIES OF SENSORY NEURONS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared PDF page 4: 7) CHEMISTRY Short Answer The molecule (2E, 4Z, 6E)-2,4,6-octatriene [2 comma 4 comma 6 -ok-tuh-TRY-een] can isomer; printed answer 1) ELECTROCYCLIC; 2) THERMAL; 3) DISROTATORY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4 visibly shows 2^(x−2)=π^x and four stacked logarithmic fractions; W is log(4)/(log(2)−log(π)), with all bracketed fraction cues preserved.",
+      "before": {
+        "parts": [
+          "Which of the following is a solution for x of the equation 2𝑥−2 = 𝜋 𝑥 [2 to the quantity x minus 2 equals pi to the x]? 𝑙𝑙𝑙(4)<br>W) [the fraction with numerator log of 4 and denominator log of 2 minus log of 𝑙𝑙𝑙(2)−𝑙𝑙𝑙(𝜋) pi] 𝑙𝑙𝑙(4)<br>X) [the fraction with numerator log of 4 and denominator log of pi minus log of 𝑙𝑙𝑙(𝜋)−𝑙𝑙𝑙(2) 2] 𝑙𝑙𝑙(𝜋)−𝑙𝑙𝑙(2)<br>Y) [the fraction with numerator log of pi minus log of 2 and denominator log of 𝑙𝑙𝑙(4) 4] 𝑙𝑙𝑙(2)−𝑙𝑙𝑙(𝜋)<br>Z) [the fraction with numerator log of 2 minus log of pi and denominator log of 𝑙𝑙𝑙(4) 4] 𝑙𝑙𝑙(4)"
+        ],
+        "options": [
+          "W) [the fraction with numerator log of 4 and denominator log of 2 minus log of 𝑙𝑙𝑙(2)−𝑙𝑙𝑙(𝜋) pi] 𝑙𝑙𝑙(4)",
+          "X) [the fraction with numerator log of 4 and denominator log of pi minus log of 𝑙𝑙𝑙(𝜋)−𝑙𝑙𝑙(2) 2] 𝑙𝑙𝑙(𝜋)−𝑙𝑙𝑙(2)",
+          "Y) [the fraction with numerator log of pi minus log of 2 and denominator log of 𝑙𝑙𝑙(4) 4] 𝑙𝑙𝑙(2)−𝑙𝑙𝑙(𝜋)",
+          "Z) [the fraction with numerator log of 2 minus log of pi and denominator log of 𝑙𝑙𝑙(4) 4] 𝑙𝑙𝑙(4)"
+        ],
+        "answers": [
+          "W) 𝑙𝑙𝑙(2)−𝑙𝑙𝑙(𝜋)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is a solution for x of the equation 2<sup>x-2</sup> = π<sup>x</sup> [2 to the quantity x minus 2 equals pi to the x]?<br>W) <span class=\"nsb-fraction\"><span>log(4)</span><span>log(2) − log(π)</span></span> [the fraction with numerator log of 4 and denominator log of 2 minus log of pi]<br>X) <span class=\"nsb-fraction\"><span>log(4)</span><span>log(π) − log(2)</span></span> [the fraction with numerator log of 4 and denominator log of pi minus log of 2]<br>Y) <span class=\"nsb-fraction\"><span>log(π) − log(2)</span><span>log(4)</span></span> [the fraction with numerator log of pi minus log of 2 and denominator log of 4]<br>Z) <span class=\"nsb-fraction\"><span>log(2) − log(π)</span><span>log(4)</span></span> [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
+        ],
+        "options": [
+          "W) <span class=\"nsb-fraction\"><span>log(4)</span><span>log(2) − log(π)</span></span> [the fraction with numerator log of 4 and denominator log of 2 minus log of pi]",
+          "X) <span class=\"nsb-fraction\"><span>log(4)</span><span>log(π) − log(2)</span></span> [the fraction with numerator log of 4 and denominator log of pi minus log of 2]",
+          "Y) <span class=\"nsb-fraction\"><span>log(π) − log(2)</span><span>log(4)</span></span> [the fraction with numerator log of pi minus log of 2 and denominator log of 4]",
+          "Z) <span class=\"nsb-fraction\"><span>log(2) − log(π)</span><span>log(4)</span></span> [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
+        ],
+        "answers": [
+          "W) <span class=\"nsb-fraction\"><span>log(4)</span><span>log(2) − log(π)</span></span>"
+        ],
+        "parts_sanitized": [
+          "Which of the following is a solution for x of the equation 2^(x-2) = pi^x [2 to the quantity x minus 2 equals pi to the x]? W) (log(4))/(log(2) - log(pi)) [the fraction with numerator log of 4 and denominator log of 2 minus log of pi] X) (log(4))/(log(pi) - log(2)) [the fraction with numerator log of 4 and denominator log of pi minus log of 2] Y) (log(pi) - log(2))/(log(4)) [the fraction with numerator log of pi minus log of 2 and denominator log of 4] Z) (log(2) - log(pi))/(log(4)) [the fraction with numerator log of 2 minus log of pi and denominator log of 4]"
+        ],
+        "answers_sanitized": [
+          "W) (log(4))/(log(2) - log(pi))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 confirms all four radial velocity choices and Z) Edge-on systems with small semi-major axes."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5 shows a stacked 3 over 4 as the answer and accepts 0.75; the extraction misplaced the numerator and denominator.",
+      "before": {
+        "parts": [
+          "A child is playing on a straight metal slide which is at 45° to the level ground. The child slides down the slide in twice the time it would take if the slide was completely frictionless. What is the coefficient of kinetic friction of the slide? 3"
+        ],
+        "answers": [
+          "(ACCEPT: 0.75) 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A child is playing on a straight metal slide which is at 45° to the level ground. The child slides down the slide in twice the time it would take if the slide was completely frictionless. What is the coefficient of kinetic friction of the slide?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>3</span><span>4</span></span> (ACCEPT: 0.75)"
+        ],
+        "answers_sanitized": [
+          "3/4 (ACCEPT: 0.75)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6 compared: 12) CHEMISTRY Multiple Choice The intensity of absorption maxima in a visible sp; source answer X) ALLOWEDNESS OF THE TRANSITIONS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 compared: 13) PHYSICS Short Answer Which of the following three choices has the longest pe; source answer 2 (ACCEPT: PENDULUM ON THE MOON)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 shows (1/2)t raised as the full exponent on e in both answer forms; prompt and read-as cue match.",
+      "before": {
+        "answers": [
+          "h(t) = 10 e(1/2)t (ACCEPT: 10 e(1/2)t )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "h(t) = 10 e<sup>(1/2)t</sup> (ACCEPT: 10 e<sup>(1/2)t</sup>)"
+        ],
+        "answers_sanitized": [
+          "h(t) = 10 e^((1/2)t) (ACCEPT: 10 e^((1/2)t))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 compared: 15) EARTH AND SPACE Short Answer Imagine a parcel of air forced upward. If the e; source answer IT WILL RISE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 compared: 16) ENERGY Multiple Choice While walking down the street, an open wire falls on ; source answer Z) YOUR BODY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 compared: 17) PHYSICS Short Answer A rod of length 1 meter and mass 2 kilograms is pivoted; source answer 2/3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9 compared: 18) BIOLOGY Multiple Choice The mechanism of action of the antiviral drugs zanam; source answer W) NEURAMINIDASE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 compared: 19) CHEMISTRY Short Answer At the beginning of an experiment measuring the phosp; source answer 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 shows y = x e^(−x); both accepted answer forms show e^(−x).",
+      "before": {
+        "parts": [
+          "Find an antiderivative for 𝑦 = 𝑥𝑥 −𝑥 . 1T"
+        ],
+        "answers": [
+          "-(x + 1) e-x (ACCEPT: -xe-x - e-x, OR EITHER ANSWER +/- ANY CONSTANT)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find an antiderivative for y = x e<sup>−x</sup>."
+        ],
+        "answers": [
+          "−(x + 1) e<sup>−x</sup> (ACCEPT: −x e<sup>−x</sup> − e<sup>−x</sup>, OR EITHER ANSWER +/− ANY CONSTANT)"
+        ],
+        "parts_sanitized": [
+          "Find an antiderivative for y = x e^(-x)."
+        ],
+        "answers_sanitized": [
+          "-(x + 1) e^(-x) (ACCEPT: -x e^(-x) - e^(-x), OR EITHER ANSWER +/- ANY CONSTANT)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11 compared: 22) EARTH AND SPACE Multiple Choice Plate tectonics have often been linked to ch; source answer X) THE TEMPERATURE GRADIENT LESSENED BETWEEN THE SOUTH POLE AND T."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 compared: 23) PHYSICS Multiple Choice A motor has a DC resistance of 5 ohms. The motor ope; source answer X) 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12 compared: 24) ENERGY Short Answer Arrange the following four substances in order of decrea; source answer 3, 4, 1, 2 (ACCEPT: FATS, ETHANOL, PROTEINS, ORGANIC ACIDS)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p. 13 compared: 25) BIOLOGY Short Answer Name all of the following five insect orders that have ; source answer COLEOPTERA (ACCEPT: 5)."
+    }
+  ],
+  "packetIssues": []
+}

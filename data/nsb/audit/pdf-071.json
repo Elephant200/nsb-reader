@@ -1,0 +1,545 @@
+{
+  "packetIndex": 71,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 1; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 1; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 2; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 2; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 3; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 3; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 4; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared against packet 071 source PDF page 5; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "question": "What is the SI prefix that multiples a unit by a factor of 10 ?"
+      },
+      "changes": {
+        "question": "What is the SI prefix that multiples a unit by a factor of 10<sup>18</sup>?",
+        "question_sanitized": "What is the SI prefix that multiples a unit by a factor of 10^18?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 5; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 6; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 6; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 8; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 8; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 9; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 10; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 10; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 11; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 11; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 12; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 12; wording and content match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 13; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 1; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared against packet 071 source PDF page 2; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "Taking g to be 9.8 meters per second squared, a 500 kilogram th elevator needs how much energy, in kilojoules, to go up 30 meters, a typical height for the 10 floor?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Taking g to be 9.8 meters per second squared, a 500 kilogram elevator needs how much energy, in kilojoules, to go up 30 meters, a typical height for the 10<sup>th</sup> floor?"
+        ],
+        "parts_sanitized": [
+          "Taking g to be 9.8 meters per second squared, a 500 kilogram elevator needs how much energy, in kilojoules, to go up 30 meters, a typical height for the 10th floor?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 2; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 3; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared against packet 071 source PDF page 3; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "Find (1 + i) (read as the quantity 1 plus i to the twelfth)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find (1 + i)<sup>12</sup> (read as the quantity 1 plus i to the twelfth)."
+        ],
+        "parts_sanitized": [
+          "Find (1 + i)^12 (read as the quantity 1 plus i to the twelfth)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 4; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 4; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 5; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 5; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 6; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared against packet 071 source PDF page 6; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "Convert the complex number -2 - 2i 3 to trigonometric form. 4π 4π"
+        ],
+        "answers": [
+          "4 cos + i sin 3 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Convert the complex number -2 - 2i√3 to trigonometric form."
+        ],
+        "parts_sanitized": [
+          "Convert the complex number -2 - 2i√3 to trigonometric form."
+        ],
+        "answers": [
+          "4(cos(4π/3) + i sin(4π/3))"
+        ],
+        "answers_sanitized": [
+          "4(cos(4π/3) + i sin(4π/3))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 7; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared against packet 071 source PDF page 8; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "How many electrons with quantum number = 1 (read as: L l equals 1) are in an atom of silicon in its ground state?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many electrons with quantum number l = 1 (read as: L equals 1) are in an atom of silicon in its ground state?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 8; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 9; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 9; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 10; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared against packet 071 source PDF page 10; source shows the restored notation/wording in the listed fields.",
+      "before": {
+        "parts": [
+          "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and 3 3 g(3) = 4. Calculate 2f x dx - 5f x dx (read as: the integral from 1 to 3 of 2 f of x dx minus 1 the integral from 1 to 3 of 5 f of x<sup>1</sup> dx)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate ∫₁³ 2f(x) dx - ∫₁³ 5f(x) dx (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 f of x dx)."
+        ],
+        "parts_sanitized": [
+          "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate the integral from 1 to 3 of 2 f(x) dx minus the integral from 1 to 3 of 5 f(x) dx (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 f of x dx)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 11; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 11; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 12; wording and content match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, embedded choices where present, and answer against packet 071 source PDF page 13; wording and content match."
+    }
+  ],
+  "packetIssues": []
+}

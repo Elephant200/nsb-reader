@@ -1,0 +1,480 @@
+{
+  "packetIndex": 154,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/7A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Biology – Multiple Choice A plant has a somatic chromosome number of 2n = 22. After a cell; ANSWER: X) 22 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Chemistry – Short Answer What is the only alkali metal that forms a stable nitride at room; ANSWER: LITHIUM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Energy – Short Answer What is the name of the program that the Environmental Protection; ANSWER: ENERGY STAR matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Math – Short Answer What is binary one-zero-zero-one in decimal form?; ANSWER: 9 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Physics – Multiple Choice What is the name for a particle that carries a half-integer spin?; ANSWER: Y) FERMION matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Earth and Space – Multiple Choice The majority of Earth’s freshwater is found in which of; ANSWER: X) ICE AND SNOW matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 prints “p-subshell” as one compound term across a line wrap; options and W) SULFUR answer match.",
+      "before": {
+        "question": "Which of the following atoms has at least one completely filled p- subshell?<br>W) Sulfur<br>X) Oxygen<br>Y) Boron<br>Z) Helium"
+      },
+      "changes": {
+        "question": "Which of the following atoms has at least one completely filled p-subshell?<br>W) Sulfur<br>X) Oxygen<br>Y) Boron<br>Z) Helium"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Math – Multiple Choice For a twice-differentiable function f(x), f(3) is 4, f prime of 3 is 0; ANSWER: W) THERE IS A LOCAL MINIMUM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Biology – Multiple Choice The water-proof layer within the endodermis of the root that; ANSWER: Y) CASPARIAN STRIP matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Physics – Short Answer Fiber optic cables have revolutionized the information age with the; ANSWER: REFRACTIVE INDEX (ACCEPT: INDEX OF REFRACTION; DO NOT ACCEPT: matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Chemistry – Multiple Choice What type of magnetism opposes an applied magnetic field and; ANSWER: W) DIAMAGNETISM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Math – Short Answer What is the sine of 270 degrees?; ANSWER: –1 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Biology – Short Answer In female mammalian cells, the second X chromosome is generally; ANSWER: BARR BODY matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Earth and Space – Multiple Choice Which of the following cloud types is strongly associated; ANSWER: X) CUMULONIMBUS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Energy – Multiple Choice Which of the following numbers is the best estimate for the; ANSWER: X) 11,000 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Physics – Short Answer Very heavy nuclei tend to decay to stability by the emission of a; ANSWER: ALPHA matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Chemistry – Multiple Choice Which of the following bonds has the shortest bond length?; ANSWER: W) H-F matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Physics – Multiple Choice Which of the following does NOT describe the strong force?; ANSWER: W) IT IS MEDIATED BY THE W BOSON matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Biology – Multiple Choice In regard to human anatomy, with which of the following is; ANSWER: W) THE SHAPE OF BONE BEING DETERMINED BY MECHANICAL AND matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 answer line shows x² + y² = 25 with both exponents raised; source prompt asks standard-form equation for the circle.",
+      "before": {
+        "answer": "x2 + y2 = 25"
+      },
+      "changes": {
+        "answer": "x<sup>2</sup> + y<sup>2</sup> = 25",
+        "answer_sanitized": "x² + y² = 25"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Earth and Space – Short Answer What features on the Sun, caused by strong magnetic fields,; ANSWER: SUNSPOTS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Biology – Multiple Choice SDS is a detergent. Which of the following explains how SDS; ANSWER: W) INTERFERES WITH THE HYDROPHOBIC INTERACTIONS THAT matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Chemistry – Multiple Choice Which of the following biological macromolecules does NOT contain; ANSWER: Z) AMYLOSE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Energy – Multiple Choice When the sun is directly overhead, if all of the sunlight that reaches; ANSWER: Y) 15 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Math – Short Answer Perform the following complex number subtraction: –4 – 25i subtracted; ANSWER: –7 + 18i matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Physics – Short Answer What quantity is defined as the ratio of the charge on an electric; ANSWER: CAPACITANCE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Earth and Space – Short Answer Classify the following three volcanoes according to whether; ANSWER: 1 – HOT SPOT; 2 – HOT SPOT; 3 - CONVERGENT matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 source accepts N₂ and H₂; both 2s are subscripts in the accepted formula alternative.",
+      "before": {
+        "answers": [
+          "NITROGEN AND HYDROGEN (ALSO ACCEPT: N2 AND H2)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "NITROGEN AND HYDROGEN (ALSO ACCEPT: N<sub>2</sub> AND H<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "NITROGEN AND HYDROGEN (ALSO ACCEPT: N₂ AND H₂)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Energy – Short Answer What type of battery has relatively high power density and cycle life; ANSWER: LEAD ACID (ACCEPT: LEAD) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Earth and Space – Short Answer Identify all of the following three marine regions that host; ANSWER: ALL OF THEM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Math – Short Answer Find the circumference of a circle with area equal to one over pi.; ANSWER: 2 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Physics – Multiple Choice What is an object's average angular acceleration, in degrees per; ANSWER: Y) 1/4 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 shows X as HNO₂⁻ with the 2 subscript and negative charge superscript, and Y as C₆H₆; answer X preserves the same formula.",
+      "before": {
+        "parts": [
+          "Which of the following is most likely to form hydrogen bonds?<br>W) HI<br>X) HNO2– [H-N-O-2-negative]<br>Y) C6H6<br>Z) HCl"
+        ],
+        "options": [
+          "W) HI",
+          "X) HNO2– [H-N-O-2-negative]",
+          "Y) C6H6",
+          "Z) HCl"
+        ],
+        "answers": [
+          "X) HNO2–"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is most likely to form hydrogen bonds?<br>W) HI<br>X) HNO<sub>2</sub><sup>−</sup> [H-N-O-2-negative]<br>Y) C<sub>6</sub>H<sub>6</sub><br>Z) HCl"
+        ],
+        "parts_sanitized": [
+          "Which of the following is most likely to form hydrogen bonds? W) HI X) HNO₂⁻ [H-N-O-2-negative] Y) C₆H₆ Z) HCl"
+        ],
+        "options": [
+          "W) HI",
+          "X) HNO<sub>2</sub><sup>−</sup> [H-N-O-2-negative]",
+          "Y) C<sub>6</sub>H<sub>6</sub>",
+          "Z) HCl"
+        ],
+        "answers": [
+          "X) HNO<sub>2</sub><sup>−</sup>"
+        ],
+        "answers_sanitized": [
+          "X) HNO₂⁻"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Math – Short Answer Give the Cartesian coordinates of the point described by the cylindrical; ANSWER: (4, 4√3, 24) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Biology – Multiple Choice If you needed to find a sample of simple cuboidal epithelium [eh-; ANSWER: W) KIDNEYS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Energy – Short Answer Almost all turbine-based electricity production plants use what liquid; ANSWER: WATER matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Physics – Short Answer A car is traveling around a flat 200 meter diameter circular track at; ANSWER: 6.25 (ACCEPT: 25/4, 6 ¼) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 prints 1.4 × 10⁻²³ joules per kelvin; the minus and 23 are both superscript in the source.",
+      "before": {
+        "parts": [
+          "What is the name for the constant, approximately 1.4 times 10-23 joules per kelvin, that sets an energy scale for a system at a particular temperature, and is equal to the ideal gas constant over Avogadro’s number?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the name for the constant, approximately 1.4 times 10<sup>−23</sup> joules per kelvin, that sets an energy scale for a system at a particular temperature, and is equal to the ideal gas constant over Avogadro’s number?"
+        ],
+        "parts_sanitized": [
+          "What is the name for the constant, approximately 1.4 times 10⁻²³ joules per kelvin, that sets an energy scale for a system at a particular temperature, and is equal to the ideal gas constant over Avogadro’s number?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Physics – Multiple Choice Which of the following bodies has the largest escape speed?; ANSWER: Y) GANYMEDE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Math – Multiple Choice What is 4 to the power of log base 2 of 5?; ANSWER: Z) 25 matches the print after reviewing the complete prompt/options."
+    }
+  ],
+  "packetIssues": []
+}

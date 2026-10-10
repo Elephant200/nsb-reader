@@ -1,0 +1,20 @@
+{
+  "packetIndexRange": [172, 257],
+  "packetIndexing": "Zero-based indexes into data/nsb/sample-questions.json packets array",
+  "recordCount": 3705,
+  "automatedScreenCount": 3705,
+  "modelReviewedRecordCount": 3705,
+  "modelReviewedRecordIndexes": [[0, 3704]],
+  "modelReviewMethod": "The model read every target record's prompt and answer material in manageable text batches. Tossups included question, answer, notes, and non-duplicated options. Bonuses included leadin, parts, answers, notes, and non-duplicated options. HTML entities were decoded and line breaks rendered as separators for readability. Packets 180, 181, and 233 were reread from their exact zero-based source indexes, and terminal packet 257 was read in full. Number words, notation, unusual symbols, and semantic math/science contexts were screened conservatively; all Math, Chemistry, and Physics records were flagged as a category baseline. A follow-up audit rebuilt reasons from these text fields only, excluding array serialization and numeric metadata. The previous screen used one-based display labels by mistake; the corrected file uses exact zero-based source indexes.",
+  "correctedScreenCounts": {
+    "flagged": 3603,
+    "unflagged": 102,
+    "bracketedNotationOrPronunciation": 946
+  },
+  "identityValidation": "All 3705 ordered (packetIndex, kind, itemIndex, number) tuples match the source packet arrays exactly.",
+  "limitations": [
+    "This is a first-pass review of parsed corpus text, not a comparison against source PDFs.",
+    "A record-level flag indicates possible formatting-sensitive content and does not identify the exact span or establish that a rendering defect exists.",
+    "The parsed source can already have lost layout or notation information; broad screening favors false positives to reduce missed candidates."
+  ]
+}

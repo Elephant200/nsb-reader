@@ -1,0 +1,625 @@
+{
+  "packetIndex": 42,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-11C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows H₂SO₄, HNO₃, and HClO₄ in the choices and key; the corpus flattened the chemical subscripts.",
+      "before": {
+        "question": "Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:<br>W) H2SO4<br>X) HNO3<br>Y) HCl<br>Z) HClO4",
+        "options": [
+          "W) H2SO4",
+          "X) HNO3",
+          "Y) HCl",
+          "Z) HClO4"
+        ],
+        "answer": "W) H2SO4"
+      },
+      "changes": {
+        "question": "Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:<br>W) H<sub>2</sub>SO<sub>4</sub><br>X) HNO<sub>3</sub><br>Y) HCl<br>Z) HClO<sub>4</sub>",
+        "question_sanitized": "Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:<br>W) H2SO4<br>X) HNO3<br>Y) HCl<br>Z) HClO4",
+        "options": [
+          "W) H<sub>2</sub>SO<sub>4</sub>",
+          "X) HNO<sub>3</sub>",
+          "Y) HCl",
+          "Z) HClO<sub>4</sub>"
+        ],
+        "answer": "W) H<sub>2</sub>SO<sub>4</sub>",
+        "answer_sanitized": "W) H2SO4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows x², −x², and x³ in the choices and answer; the corpus left powers on the baseline.",
+      "before": {
+        "question": "Which of the following has a graph that is a parabola that opens downward:<br>W) f(x) = 3x + 1<br>X) f(x) = x2 – 2<br>Y) f(x) = –x2<br>Z) f(x) = x3",
+        "answer": "Y) f(x) = –x2",
+        "options": [
+          "W) f(x) = 3x + 1",
+          "X) f(x) = x2 – 2",
+          "Y) f(x) = –x2",
+          "Z) f(x) = x3"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following has a graph that is a parabola that opens downward:<br>W) f(x) = 3x + 1<br>X) f(x) = x<sup>2</sup> − 2<br>Y) f(x) = −x<sup>2</sup><br>Z) f(x) = x<sup>3</sup>",
+        "question_sanitized": "Which of the following has a graph that is a parabola that opens downward:<br>W) f(x) = 3x + 1<br>X) f(x) = x^2 - 2<br>Y) f(x) = -x^2<br>Z) f(x) = x^3",
+        "answer": "Y) f(x) = −x<sup>2</sup>",
+        "answer_sanitized": "Y) f(x) = -x^2",
+        "options": [
+          "W) f(x) = 3x + 1",
+          "X) f(x) = x<sup>2</sup> − 2",
+          "Y) f(x) = −x<sup>2</sup>",
+          "Z) f(x) = x<sup>3</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 prints iron(III) nitrite as Fe(NO₂)₃; the corpus retained the formula digits on the baseline.",
+      "before": {
+        "question": "What is the systematic IUPAC name for the compound Fe(NO2)3?"
+      },
+      "changes": {
+        "question": "What is the systematic IUPAC name for the compound Fe(NO<sub>2</sub>)<sub>3</sub>?",
+        "question_sanitized": "What is the systematic IUPAC name for the compound Fe(NO2)3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows MnO₄⁻ with subscript 4 and a raised negative charge.",
+      "before": {
+        "parts": [
+          "Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO4– (read as: M, N, O, 4, minus)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO<sub>4</sub><sup>−</sup> (read as: M, N, O, 4, minus)"
+        ],
+        "parts_sanitized": [
+          "Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO4- (read as: M, N, O, 4, minus)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows V = (4/3)πr³ and the cube root ∛95.5; the corpus flattened the powers and radical index.",
+      "before": {
+        "notes": [
+          "(Solution: V = 4/3πr3; 400 = 4/3(3.14)(r)3; r = 3 95.5 = 4.57)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: V = <span class=\"nsb-fraction\"><span>4</span><span>3</span></span>πr<sup>3</sup>; 400 = <span class=\"nsb-fraction\"><span>4</span><span>3</span></span>(3.14)(r)<sup>3</sup>; r = ∛95.5 = 4.57)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root visually checked PDF page 6: prompt (4x + y)⁴ has a raised 4; answer 16xy³ and accepted 16y³x both have raised 3 on y.",
+      "before": {
+        "parts": [
+          "Giving your answer in standard form, what is the fourth term in the binomial expansion of the following: (4x + y)4"
+        ],
+        "answers": [
+          "16xy3 (ACCEPT: 16y3x)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Giving your answer in standard form, what is the fourth term in the binomial expansion of the following: (4x + y)<sup>4</sup>"
+        ],
+        "answers": [
+          "16xy<sup>3</sup> (ACCEPT: 16y<sup>3</sup>x)"
+        ],
+        "parts_sanitized": [
+          "Giving your answer in standard form, what is the fourth term in the binomial expansion of the following: (4x + y)⁴"
+        ],
+        "answers_sanitized": [
+          "16xy³ (ACCEPT: 16y³x)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “101st” and subscripts n and 1 in the arithmetic-sequence formula.",
+      "before": {
+        "parts": [
+          "Find the 101st term in the arithmetic sequence whose first three terms are 5, 11, and 17:"
+        ],
+        "notes": [
+          "(Solution: an = a1 + (n – 1)d; = 5 + (101 – 1)(6) = 605)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the 101<sup>st</sup> term in the arithmetic sequence whose first three terms are 5, 11, and 17:"
+        ],
+        "parts_sanitized": [
+          "Find the 101st term in the arithmetic sequence whose first three terms are 5, 11, and 17:"
+        ],
+        "notes": [
+          "(Solution: a<sub>n</sub> = a<sub>1</sub> + (n − 1)d; = 5 + (101 − 1)(6) = 605)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually checked notation and compared the complete record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows Al(NO₃)₃ with subscripted 3s.",
+      "before": {
+        "parts": [
+          "To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO3)3 solution?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO<sub>3</sub>)<sub>3</sub> solution?"
+        ],
+        "parts_sanitized": [
+          "To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO3)3 solution?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    }
+  ],
+  "packetIssues": []
+}

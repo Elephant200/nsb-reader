@@ -1,0 +1,619 @@
+{
+  "packetIndex": 4,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows (−24x³y⁵)/(10y⁶z²), simplifying to −12x³/(5yz²); corpus lost exponents and fraction structure.",
+      "before": {
+        "question": "Simplify the following without the use of negative exponents: 6 2 10 y z x",
+        "answer": "– <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;2</span></span> <span class=\"nsb-fraction\">&lt;span&gt;12</span>&lt;span&gt;5</span></span> yz"
+      },
+      "changes": {
+        "question": "Simplify the following without the use of negative exponents: <span class=\"nsb-fraction\"><span>−24x<sup>3</sup>y<sup>5</sup></span><span>10y<sup>6</sup>z<sup>2</sup></span></span>",
+        "answer": "−<span class=\"nsb-fraction\"><span>12x<sup>3</sup></span><span>5yz<sup>2</sup></span></span>",
+        "question_sanitized": "Simplify the following without the use of negative exponents: (−24x^3y^5)/(10y^6z^2)",
+        "answer_sanitized": "−(12x^3)/(5yz^2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 asks for the arc length AB in centimeters in terms of π; corpus wording is scrambled.",
+      "before": {
+        "question": "In a circle with diameter AB, if the radius is 6 centimeters, find the giving your answer in terms of π, of the arc AB: length in centimeters,"
+      },
+      "changes": {
+        "question": "In a circle with diameter AB, if the radius is 6 centimeters, find the length in centimeters of arc AB, giving your answer in terms of π.",
+        "question_sanitized": "In a circle with diameter AB, if the radius is 6 centimeters, find the length in centimeters of arc AB, giving your answer in terms of π."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 prints the correct answer text under a conflicting letter W. The same answer text uniquely matches choice X; corrected only the answer label to agree with the printed choices, preserving answer text.",
+      "before": {
+        "answer": "W) MERCURY-OXIDE CELLS"
+      },
+      "changes": {
+        "answer": "X) MERCURY-OXIDE CELLS"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF page 11 prints Ca²⁺, F⁻, Al³⁺, and Na⁻; the corpus misplaced signs and charges, so choices and keyed answer are restored together.",
+      "before": {
+        "question": "Which of the following ions does NOT have a noble gas electron configuration in ionic compounds: 2+<br>W) Ca –<br>X) F 3+<br>Y) Al –<br>Z) Na –",
+        "answer": "Z) Na",
+        "options": [
+          "W) Ca –",
+          "X) F 3+",
+          "Y) Al –",
+          "Z) Na –"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following ions does NOT have a noble gas electron configuration in ionic compounds:<br>W) Ca<sup>2+</sup><br>X) F<sup>−</sup><br>Y) Al<sup>3+</sup><br>Z) Na<sup>−</sup>",
+        "answer": "Z) Na<sup>−</sup>",
+        "options": [
+          "W) Ca<sup>2+</sup>",
+          "X) F<sup>−</sup>",
+          "Y) Al<sup>3+</sup>",
+          "Z) Na<sup>−</sup>"
+        ],
+        "question_sanitized": "Which of the following ions does NOT have a noble gas electron configuration in ionic compounds:; W) Ca^(2+); X) F^(−); Y) Al^(3+); Z) Na^(−)",
+        "answer_sanitized": "Z) Na^(−)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13 shows the natural log of 5^(1/3); the corpus misplaced the one-third exponent in the question.",
+      "before": {
+        "question": "Assuming that the natural log of 5 = 1.6, find, to the first decimal place, 1 the natural log of 5 3 :"
+      },
+      "changes": {
+        "question": "Assuming that the natural log of 5 = 1.6, find, to the first decimal place, the natural log of 5<sup>1/3</sup>:",
+        "question_sanitized": "Assuming that the natural log of 5 = 1.6, find, to the first decimal place, the natural log of 5^(1/3):"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF page 1 identifies the chromate ion formula as CrO₄²⁻; the corpus displaced the subscript and charge.",
+      "before": {
+        "parts": [
+          "What is the oxidation number of chromium in the chromate ion, or 42– CrO ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the oxidation number of chromium in the chromate ion, or CrO<sub>4</sub><sup>2−</sup>?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF page 8 prints the conjugate base answer NO₂⁻; corpus misplaced the charge into the prompt and dropped the formula subscripts.",
+      "before": {
+        "parts": [
+          "What is the chemical formula for the conjugate base of HNO<sub>2</sub> ? 2–"
+        ],
+        "answers": [
+          "NO"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the chemical formula for the conjugate base of HNO<sub>2</sub>?"
+        ],
+        "answers": [
+          "NO<sub>2</sub><sup>−</sup>"
+        ],
+        "answers_sanitized": [
+          "NO_2^(−)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows |3 − 2x| ≤ 7 and answer −2 ≤ x ≤ 5, accepting the reversed inequality; corpus text is garbled.",
+      "before": {
+        "parts": [
+          "Solve the following inequality for x: |3 – 2x| value of, 3 minus 2x, close absolute value, is less than or equal to 7) ≤ ≤ 5 (ACCEPT: 5 ≥ ≥"
+        ],
+        "answers": [
+          "–2 x x –2)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following inequality for x: |3 − 2x| ≤ 7 (read as: the absolute value of, 3 minus 2x, close absolute value, is less than or equal to 7)"
+        ],
+        "answers": [
+          "−2 ≤ x ≤ 5 (ACCEPT: 5 ≥ x ≥ −2)"
+        ],
+        "parts_sanitized": [
+          "Solve the following inequality for x: |3 − 2x| ≤ 7 (read as: the absolute value of, 3 minus 2x, close absolute value, is less than or equal to 7)"
+        ],
+        "answers_sanitized": [
+          "−2 ≤ x ≤ 5 (ACCEPT: 5 ≥ x ≥ −2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF page 12 accepts Na⁺ and K⁺; corpus displaced the charge signs.",
+      "before": {
+        "parts": [
+          "What 2 ions are most directly involved with the conduction of a nerve cell message down an axon? + +"
+        ],
+        "answers": [
+          "SODIUM AND POTASSIUM (ACCEPT: Na AND K )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What 2 ions are most directly involved with the conduction of a nerve cell message down an axon?"
+        ],
+        "answers": [
+          "SODIUM AND POTASSIUM (ACCEPT: Na<sup>+</sup> AND K<sup>+</sup>)"
+        ],
+        "answers_sanitized": [
+          "SODIUM AND POTASSIUM (ACCEPT: Na^(+) AND K^(+))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    }
+  ],
+  "packetIssues": []
+}

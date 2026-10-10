@@ -1,0 +1,679 @@
+{
+  "packetIndex": 110,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed original PDF page 1 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 1 begins “Isotelus rex [i-SOH-te-luhs REKS] was discovered in 1998 and is the largest found fossil of what org”; printed answer: Z) TRILOBITE.",
+      "before": {
+        "question": "Isotelus rex [i-SOH-te-luhs REKS] was discovered in 1998 and is the largest found fossil of what organism?<br>W) Dinosaur<br>X) Whale<br>W) Fish<br>Z) Trilobite",
+        "options": [
+          "W) Dinosaur",
+          "X) Whale",
+          "W) Fish",
+          "Z) Trilobite"
+        ]
+      },
+      "changes": {
+        "question": "Isotelus rex [i-SOH-te-luhs REKS] was discovered in 1998 and is the largest found fossil of what organism?<br>W) Dinosaur<br>X) Whale<br>Y) Fish<br>Z) Trilobite",
+        "options": [
+          "W) Dinosaur",
+          "X) Whale",
+          "Y) Fish",
+          "Z) Trilobite"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed original PDF page 1 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 2 begins “Which of the following fish is endemic to the island of Cozumel?”; printed answer: W) SPLENDID TOADFISH."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed original PDF page 2 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 3 begins “Given 𝑔(𝑥) = 5 + [g of x equals 5 plus the fraction with sin(𝑥 2 ) numerator x squared and denomi”; printed answer: 6.",
+      "before": {
+        "question": "Given 𝑔(𝑥) = 5 + [g of x equals 5 plus the fraction with sin(𝑥 2 ) numerator x squared and denominator sine of the quantity x squared], find lim𝑥→0 𝑔(𝑥) [the limit as x approaches zero of g of x]."
+      },
+      "changes": {
+        "question": "Given 𝑔(𝑥) = 5 + <span class=\"nsb-fraction\"><span>𝑥<sup>2</sup></span><span>sin(𝑥<sup>2</sup>)</span></span> [g of x equals 5 plus the fraction with numerator x squared and denominator sine of the quantity x squared], find lim<sub>𝑥→0</sub> 𝑔(𝑥) [the limit as x approaches zero of g of x].",
+        "question_sanitized": "Given g(x) = 5 + (x^2)/(sin(x^2)) [g of x equals 5 plus the fraction with numerator x squared and denominator sine of the quantity x squared], find lim x→0 g(x) [the limit as x approaches zero of g of x]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed original PDF page 3 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 5 begins “What simple system is used to describe molecular vibrations in quantum mechanics?”; printed answer: HARMONIC OSCILLATOR (ACCEPT: BALL AND SPRING)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed original PDF page 3 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 6 begins “Which of the following quark compositions does NOT have a total of zero strangeness quantum number?”; printed answer: X) UP, STRANGE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed original PDF page 4 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 7 begins “Which of the following organisms were NOT extinct by the end of the Cretaceous [kri-TAY-shuhs] perio”; printed answer: X) CYCLIOPHORA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed original PDF page 4 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 8 begins “The following are examples of proteins that are not functional because of some problem. In which of ”; printed answer: W) THE PROTEIN HAS BEEN EXPOSED TO UREA, WHICH HAS DISRUPTED ITS HYDROGEN BONDS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed original PDF page 5 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 9 begins “What is the principal value in radians for 𝑐𝑐𝑐 −1 (− ) [inverse cosine 2 of negative square root ”; printed answer: Y) 6.",
+      "before": {
+        "question": "What is the principal value in radians for 𝑐𝑐𝑐 −1 (− ) [inverse cosine 2 of negative square root of 3 over 2]? 𝜋<br>W) − 6 𝜋<br>X) − 3 5𝜋<br>Y) 6 11𝜋<br>Z) 6 5𝜋",
+        "options": [
+          "W) − 6 𝜋",
+          "X) − 3 5𝜋",
+          "Y) 6 11𝜋",
+          "Z) 6 5𝜋"
+        ],
+        "answer": "Y) 6"
+      },
+      "changes": {
+        "question": "What is the principal value in radians for cos<sup>−1</sup>(−<span class=\"nsb-fraction\"><span>√3</span><span>2</span></span>) [inverse cosine of negative square root of 3 over 2]?<br>W) −<span class=\"nsb-fraction\"><span>π</span><span>6</span></span><br>X) −<span class=\"nsb-fraction\"><span>π</span><span>3</span></span><br>Y) <span class=\"nsb-fraction\"><span>5π</span><span>6</span></span><br>Z) <span class=\"nsb-fraction\"><span>11π</span><span>6</span></span>",
+        "question_sanitized": "What is the principal value in radians for cos^(-1)(-sqrt(3)/2) [inverse cosine of negative square root of 3 over 2]? W) -π/6 X) -π/3 Y) 5π/6 Z) 11π/6",
+        "options": [
+          "W) −<span class=\"nsb-fraction\"><span>π</span><span>6</span></span>",
+          "X) −<span class=\"nsb-fraction\"><span>π</span><span>3</span></span>",
+          "Y) <span class=\"nsb-fraction\"><span>5π</span><span>6</span></span>",
+          "Z) <span class=\"nsb-fraction\"><span>11π</span><span>6</span></span>"
+        ],
+        "answer": "Y) <span class=\"nsb-fraction\"><span>5π</span><span>6</span></span>",
+        "answer_sanitized": "Y) 5π/6"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed original PDF page 5 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 10 begins “Roughly what percentage of the energy density of the universe is dark energy?”; printed answer: Y) 72%."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed original PDF page 6 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 11 begins “What is the relationship of the organic compounds diethyl ether, n-butyl alcohol, and methyl propyl ”; printed answer: STRUCTURAL ISOMERS (ACCEPT: CONSTITUTIONAL ISOMERS)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed original PDF page 6 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 12 begins “A body with a 2 kilogram mass has position vector r = 3i + 2t 2j meters. What is the velocity at t =”; printed answer: X) 4j.",
+      "before": {
+        "question": "A body with a 2 kilogram mass has position vector r = 3i + 2t 2j meters. What is the velocity at t = 1 second?<br>W) 1j<br>X) 4j<br>Y) 3i + 4j<br>Z) 1i + 1j"
+      },
+      "changes": {
+        "question": "A body with a 2 kilogram mass has position vector r = 3i + 2t<sup>2</sup>j meters. What is the velocity at t = 1 second?<br>W) 1j<br>X) 4j<br>Y) 3i + 4j<br>Z) 1i + 1j",
+        "question_sanitized": "A body with a 2 kilogram mass has position vector r = 3i + 2t^2j meters. What is the velocity at t = 1 second? W) 1j X) 4j Y) 3i + 4j Z) 1i + 1j"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed original PDF page 7 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 13 begins “Where do the strongest winds in Antarctica, which can reach 200 miles per hour, originate?”; printed answer: X) ANTARCTIC POLAR PLATEAU."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed original PDF page 7 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 14 begins “In muscle cells, the sarcoplasmic reticulum [sahr-kuh-PLAHZ-mik ri-TIK-yuh-luhm] is an important org”; printed answer: CALCIUM (ACCEPT: CALCIUM ION OR CA+2)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed original PDF page 8 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 15 begins “Which of the following molecules has a permanent dipole moment?”; printed answer: Y) HYDROGEN SULFIDE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed original PDF page 8 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 16 begins “Solve for x: 14 − √3 − 𝑥 = 9 [14 minus the square root of the quantity 3 minus x equals 9].”; printed answer: -22.",
+      "before": {
+        "question": "Solve for x: 14 − √3 − 𝑥 = 9 [14 minus the square root of the quantity 3 minus x equals 9]."
+      },
+      "changes": {
+        "question": "Solve for x: 14 − √(3 − 𝑥) = 9 [14 minus the square root of the quantity 3 minus x equals 9].",
+        "question_sanitized": "Solve for x: 14 - sqrt(3 - x) = 9 [14 minus the square root of the quantity 3 minus x equals 9]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed original PDF page 9 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 17 begins “What is the change in the parent atom atomic number upon alpha particle emission?”; printed answer: W) IT DECREASES BY 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed original PDF page 9 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 18 begins “If the tension in a stretched string is multiplied by a factor of 9, the speed of the transverse wav”; printed answer: Y) 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed original PDF page 10 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 19 begins “When two pyrimidine [py-RIM-i-deen] bases are adjacent on a DNA strand, exposure to UV light will co”; printed answer: Y) THYMINE DIMER."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed original PDF page 10 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 20 begins “Which of the following features forms because parts of a glacier move at varying speeds and in diffe”; printed answer: Y) CREVASSES."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed original PDF page 11 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 21 begins “What is the scalar product of the vectors 2i - 3j + 2k and i + 2j + 2k?”; printed answer: 0."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed original PDF page 11 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 22 begins “When dealing with a tank of 150 pounds of water on a platform, it is most energy intensive to do whi”; printed answer: Y) DECREASE THE TEMPERATURE OF THE WATER BY 2° FAHRENHEIT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed original PDF page 12 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 24 begins “Who was the inventor of the first electrochemical cell?”; printed answer: X) ALESSANDRO VOLTA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed original PDF page 13 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 25 begins “What physical unit is the product of velocity, magnetic field, and length?”; printed answer: W) VOLT."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed original PDF page 1 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 1 begins “Winds aloft tend to form into longwaves. Assuming there is no divergence or convergence and the colu”; printed answer: ABSOLUTE VORTICITY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed original PDF page 1 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 2 begins “Arrange proximally to distally the following four components of a bird’s contour feather: 1) superio”; printed answer: 4, 3, 1, 2 (ACCEPT: INFERIOR UMBILICUS, CALAMUS, SUPERIOR UMBILICUS, RACHIS)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed original PDF page 2 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 3 begins “What is dy/dx for x2 + y2 = 2 at the point with coordinates (1, 1)?”; printed answer: W) -1.",
+      "before": {
+        "parts": [
+          "What is dy/dx for x2 + y2 = 2 at the point with coordinates (1, 1)?<br>W) -1<br>X) -1/2<br>Y) 0<br>Z) 3/2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is dy/dx for x<sup>2</sup> + y<sup>2</sup> = 2 at the point with coordinates (1, 1)?<br>W) -1<br>X) -1/2<br>Y) 0<br>Z) 3/2"
+        ],
+        "parts_sanitized": [
+          "What is dy/dx for x^2 + y^2 = 2 at the point with coordinates (1, 1)? W) -1 X) -1/2 Y) 0 Z) 3/2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed original PDF page 2 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 4 begins “Which of the following is NOT a common use for flue gas desulfurization [dee-suhl-fuh-ri-ZAY-shuhn] ”; printed answer: X) RAW MATERIAL FOR PLYWOOD."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed original PDF page 3 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 5 begins “In free-radical polymerization [puh-lim-er-uh-ZAY-shuhn], there are two possible termination steps. ”; printed answer: DISPROPORTIONATION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed original PDF page 3 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 6 begins “A concave spherical mirror has a radius of 200 centimeters. What object distance in centimeters from”; printed answer: Z) 500."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed original PDF page 4 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 7 begins “The orbit of an asteroid in our solar system has a semi- major axis of 4 AU. To the nearest integer,”; printed answer: 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed original PDF page 4 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 8 begins “Arrange the following six layers found in a one-year old woody sapling from most lateral to most med”; printed answer: 5, 1, 2, 4, 6, 3 (ACCEPT: PERIDERM, CORTEX, PHLOEM FIBERS, SECONDARY PHLOEM, SECONDARY XYLEM, PITH)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed original PDF page 5 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 9 begins “Find tan(arccos (2x)) [the tangent of the arc-cosine of 2x] in terms of x.”; printed answer: √1 − 4𝑥 2 /2𝑥.",
+      "before": {
+        "answers": [
+          "√1 − 4𝑥 2 /2𝑥"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>√(1 − 4𝑥<sup>2</sup>)</span><span>2𝑥</span></span>"
+        ],
+        "answers_sanitized": [
+          "(sqrt(1 - 4x^2))/(2x)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed original PDF page 5 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 10 begins “Which of the following does NOT help explain why the theoretical yield of cellular respiration is ne”; printed answer: W) PYRUVATE MUST BE ACTIVELY TRANSPORTED OUT OF THE MITOCHONDRIA."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed original PDF page 6 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 11 begins “Which of the following types of electrodes can cause problems because it is time-sensitive and its m”; printed answer: W) ENZYME."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed original PDF page 6 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 12 begins “Two objects with masses m 1 and m 2 are hanging vertically by different springs of spring constants ”; printed answer: X) 3/2.",
+      "before": {
+        "parts": [
+          "Two objects with masses m 1 and m 2 are hanging vertically by different springs of spring constants k 1 and k 2 . If m 1 = 3m 2 and k 1 = 2k 2 , what is the ratio x 1 /x 2 of their stretches?<br>W) 2/3<br>X) 3/2<br>Y) 4<br>Z) 6"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Two objects with masses m<sub>1</sub> and m<sub>2</sub> are hanging vertically by different springs of spring constants k<sub>1</sub> and k<sub>2</sub>. If m<sub>1</sub> = 3m<sub>2</sub> and k<sub>1</sub> = 2k<sub>2</sub>, what is the ratio x<sub>1</sub>/x<sub>2</sub> of their stretches?<br>W) 2/3<br>X) 3/2<br>Y) 4<br>Z) 6"
+        ],
+        "parts_sanitized": [
+          "Two objects with masses m_1 and m_2 are hanging vertically by different springs of spring constants k_1 and k_2. If m_1 = 3m_2 and k_1 = 2k_2, what is the ratio x_1/x_2 of their stretches? W) 2/3 X) 3/2 Y) 4 Z) 6"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed original PDF page 7 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 13 begins “By number, put the following four Earth events in chronological order from earliest to most recent: ”; printed answer: 3, 4, 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed original PDF page 7 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 14 begins “Which of the following microscopy methods would be most appropriate for observing the distribution o”; printed answer: Y) FLUORESCENCE LIGHT MICROSCOPE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed original PDF page 8 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 15 begins “List the five halogens in order of increasing first ionization energy.”; printed answer: ASTATINE, IODINE, BROMINE, CHLORINE, FLUORINE (DO NOT ACCEPT ANOTHER ORDER)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed original PDF page 8 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 16 begins “A circle of radius 2 is centered at the point (2, 3). What is the slope of the line tangent to the c”; printed answer: (DO NOT ACCEPT: ) 3 √3.",
+      "before": {
+        "parts": [
+          "A circle of radius 2 is centered at the point (2, 3). What is the slope of the line tangent to the circle at the point where x = 3 and y is greater than 3? −√3 −1"
+        ],
+        "answers": [
+          "(DO NOT ACCEPT: ) 3 √3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A circle of radius 2 is centered at the point (2, 3). What is the slope of the line tangent to the circle at the point where x = 3 and y is greater than 3?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>−√3</span><span>3</span></span> (DO NOT ACCEPT: <span class=\"nsb-fraction\"><span>−1</span><span>√3</span></span>)"
+        ],
+        "answers_sanitized": [
+          "-sqrt(3)/3 (DO NOT ACCEPT: -1/sqrt(3))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed original PDF page 9 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 17 begins “Providing your answer in proper point group abbreviation, to what point group does the molecule 1, 2”; printed answer: C 2h.",
+      "before": {
+        "answers": [
+          "C 2h"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "C<sub>2h</sub>"
+        ],
+        "answers_sanitized": [
+          "C_2h"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed original PDF page 9 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 18 begins “Assuming the Boltzmann constant k = 1.38 × 10-23 joules per Kelvin, what is the average translationa”; printed answer: X) 8.28 ×10-21. The rich answer uses the same raised exponent as the keyed X option.",
+      "before": {
+        "parts": [
+          "Assuming the Boltzmann constant k = 1.38 × 10-23 joules per Kelvin, what is the average translational kinetic energy in joules of molecules of an ideal gas at 127o Celsius?<br>W) 2.6 ×10-21<br>X) 8.28 × 10-21<br>Y) 2.6 ×10-22<br>Z) 8.28 ×10-22"
+        ],
+        "options": [
+          "W) 2.6 ×10-21",
+          "X) 8.28 × 10-21",
+          "Y) 2.6 ×10-22",
+          "Z) 8.28 ×10-22"
+        ],
+        "answers": [
+          "X) 8.28 ×10-21"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming the Boltzmann constant k = 1.38 × 10<sup>−23</sup> joules per Kelvin, what is the average translational kinetic energy in joules of molecules of an ideal gas at 127° Celsius?<br>W) 2.6 × 10<sup>−21</sup><br>X) 8.28 × 10<sup>−21</sup><br>Y) 2.6 × 10<sup>−22</sup><br>Z) 8.28 × 10<sup>−22</sup>"
+        ],
+        "parts_sanitized": [
+          "Assuming the Boltzmann constant k = 1.38 × 10^-23 joules per Kelvin, what is the average translational kinetic energy in joules of molecules of an ideal gas at 127° Celsius? W) 2.6 × 10^-21 X) 8.28 × 10^-21 Y) 2.6 × 10^-22 Z) 8.28 × 10^-22"
+        ],
+        "options": [
+          "W) 2.6 × 10<sup>−21</sup>",
+          "X) 8.28 × 10<sup>−21</sup>",
+          "Y) 2.6 × 10<sup>−22</sup>",
+          "Z) 8.28 × 10<sup>−22</sup>"
+        ],
+        "answers": [
+          "X) 8.28 × 10<sup>-21</sup>"
+        ],
+        "answers_sanitized": [
+          "X) 8.28 × 10⁻²¹"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed original PDF page 10 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 19 begins “Which of the following statements is true regarding the mechanism of infection in prion diseases?”; printed answer: X) PRIONS INDUCE ABNORMAL FOLDING IN NORMAL PROTEIN MOLECULES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed original PDF page 10 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 20 begins “Order the following four steps that are theorized to have occurred in the formation of our atmospher”; printed answer: 3, 2, 4, 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed original PDF page 11 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 21 begins “What are the equations of all asymptotes -- vertical, horizontal, or 𝑥 2 −3𝑥 oblique -- for the gr”; printed answer: x = 1, y = x - 2.",
+      "before": {
+        "parts": [
+          "What are the equations of all asymptotes -- vertical, horizontal, or 𝑥 2 −3𝑥 oblique -- for the graph of the function 𝑓(𝑥) = [f of x equals the fraction with numerator 𝑥−1 x squared minus 3x and denominator x minus 1]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the equations of all asymptotes -- vertical, horizontal, or oblique -- for the graph of the function 𝑓(𝑥) = <span class=\"nsb-fraction\"><span>𝑥<sup>2</sup> − 3𝑥</span><span>𝑥 − 1</span></span> [f of x equals the fraction with numerator x squared minus 3x and denominator x minus 1]?"
+        ],
+        "parts_sanitized": [
+          "What are the equations of all asymptotes -- vertical, horizontal, or oblique -- for the graph of the function f(x) = (x^2 - 3x)/(x - 1) [f of x equals the fraction with numerator x squared minus 3x and denominator x minus 1]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed original PDF page 11 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 22 begins “What process accounts for most of the Earth’s geothermal energy?”; printed answer: RADIOACTIVE DECAY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed original PDF page 12 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 23 begins “The cotyledon [kot-uhl-EED-uhn] is which of the following?”; printed answer: W) PRIMARY EMBRYONIC LEAF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed original PDF page 12 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 24 begins “A plastic undergoes deformation at 740° Celsius. Given that its original cross-sectional area is 70 ”; printed answer: 11%."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed original PDF page 13 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 25 begins “A 1 meter long wire lying along the x-axis carries a current of 10.0 amperes in the negative x direc”; printed answer: 1 X 10-2.",
+      "before": {
+        "answers": [
+          "1 X 10-2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1 × 10<sup>−2</sup>"
+        ],
+        "answers_sanitized": [
+          "1 × 10^-2"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

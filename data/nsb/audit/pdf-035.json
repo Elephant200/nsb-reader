@@ -1,0 +1,545 @@
+{
+  "packetIndex": 35,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-4C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared the chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms CH₃OH, 2H₂, and the reaction arrow; the corpus lost subscripts and corrupted the arrow.",
+      "before": {
+        "answer": "METHANOL (ACCEPT: CH3OH or METHYL ALCOHOL or WOOD ALCOHOL)",
+        "notes": [
+          "(Solution: CO + 2H2 à CH3OH)"
+        ]
+      },
+      "changes": {
+        "answer": "METHANOL (ACCEPT: CH<sub>3</sub>OH or METHYL ALCOHOL or WOOD ALCOHOL)",
+        "answer_sanitized": "METHANOL (ACCEPT: CH3OH or METHYL ALCOHOL or WOOD ALCOHOL)",
+        "notes": [
+          "(Solution: CO + 2H<sub>2</sub> → CH<sub>3</sub>OH)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared the chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared the chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared the chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows the fluorine configuration 1s²2s²2p⁵ and accepted [He]2s²2p⁵; the corpus lost superscripts.",
+      "before": {
+        "answers": [
+          "1s22s22p5 (ACCEPT: [He]2s22p5)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1s<sup>2</sup>2s<sup>2</sup>2p<sup>5</sup> (ACCEPT: [He]2s<sup>2</sup>2p<sup>5</sup>)"
+        ],
+        "answers_sanitized": [
+          "1s^2 2s^2 2p^5 (ACCEPT: [He]2s^2 2p^5)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows C₁₈H₃₃N₆O₃ and C₆H₁₁N₂O; the corpus flattened the chemical subscripts.",
+      "before": {
+        "parts": [
+          "What is the empirical formula for the following: C18H33N6O3"
+        ],
+        "answers": [
+          "C6H11N2O"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the empirical formula for the following: C<sub>18</sub>H<sub>33</sub>N<sub>6</sub>O<sub>3</sub>"
+        ],
+        "parts_sanitized": [
+          "What is the empirical formula for the following: C18H33N6O3"
+        ],
+        "answers": [
+          "C<sub>6</sub>H<sub>11</sub>N<sub>2</sub>O"
+        ],
+        "answers_sanitized": [
+          "C6H11N2O"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared the chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    }
+  ],
+  "packetIssues": []
+}

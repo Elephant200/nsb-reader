@@ -1,0 +1,605 @@
+{
+  "packetIndex": 225,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Physics – Multiple Choice A wire is carrying current directly towards you. ”; source answer “W) IN A COUNTER-CLOCKWISE LOOP ABOUT THE WIRE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer        Lapilli [lah-PILL-eye] are small stones”; source answer “VOLCANIC ERUPTIONS (ACCEPT: METEORITE IMPACTS)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Multiple Choice Scientists at Pacific Northwest National Lab are u”; source answer “X) TREATMENTS REDUCING BETA-AMYLOID PLAQUES HAVE BEEN”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source choices read L = 2, Mₛ = 0.5, 5 orbitals, and M_L = 3; answer is Z) M_L = 3. Restored subscripts in embedded choices, stored options, and answer.",
+      "before": {
+        "question": "Which of the following statements cannot be true for a subshell with n = 3?<br>W) L = 2<br>X) M = 0.5 s<br>Y) It has 5 orbitals<br>Z) M = 3 L",
+        "options": [
+          "W) L = 2",
+          "X) M = 0.5 s",
+          "Y) It has 5 orbitals",
+          "Z) M = 3 L"
+        ],
+        "answer": "Z) M = 3 L"
+      },
+      "changes": {
+        "question": "Which of the following statements cannot be true for a subshell with n = 3?<br>W) L = 2<br>X) M<sub>s</sub> = 0.5<br>Y) It has 5 orbitals<br>Z) M<sub>L</sub> = 3",
+        "question_sanitized": "Which of the following statements cannot be true for a subshell with n = 3? W) L = 2 X) Mₛ = 0.5 Y) It has 5 orbitals Z) M_(L) = 3",
+        "options": [
+          "W) L = 2",
+          "X) M<sub>s</sub> = 0.5",
+          "Y) It has 5 orbitals",
+          "Z) M<sub>L</sub> = 3"
+        ],
+        "answer": "Z) M<sub>L</sub> = 3",
+        "answer_sanitized": "Z) M_(L) = 3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source exponent is 7 in y = −x⁷ at x = −4; restored superscript 7.",
+      "before": {
+        "question": "Which of the following best describes the graph of y = –x 7 at x = –4?<br>W) Increasing and concave up<br>X) Increasing and concave down<br>Y) Decreasing and concave up<br>Z) Decreasing and concave down"
+      },
+      "changes": {
+        "question": "Which of the following best describes the graph of y = –x<sup>7</sup> at x = –4?<br>W) Increasing and concave up<br>X) Increasing and concave down<br>Y) Decreasing and concave up<br>Z) Decreasing and concave down",
+        "question_sanitized": "Which of the following best describes the graph of y = –x⁷ at x = –4? W) Increasing and concave up X) Increasing and concave down Y) Decreasing and concave up Z) Decreasing and concave down"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Biology – Short Answer A logistic model of population growth more closely m”; source answer “CARRYING CAPACITY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Short Answer The Trojan and Greek camps of asteroids origin”; source answer “JUPITER”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Energy – Short Answer Scientists working on the DOE’s Energy Exascale Earth”; source answer “PLASTIC FLOW (ACCEPT: PLASTIC DEFORMATION)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source prints Gauss’s, Faraday’s, and Ampere’s laws in the prompt and choices; repaired all double-escaped apostrophes.",
+      "before": {
+        "question": "A region contains a time-varying magnetic field. Which of Maxwell&amp;apos;s equations would be most directly useful for computing the EMF induced in objects within the field?<br>W) Gauss&amp;apos;s law<br>X) Gauss&amp;apos;s law for magnetism<br>Y) Faraday&amp;apos;s law<br>Z) Ampere&amp;apos;s law",
+        "options": [
+          "W) Gauss&amp;apos;s law",
+          "X) Gauss&amp;apos;s law for magnetism",
+          "Y) Faraday&amp;apos;s law",
+          "Z) Ampere&amp;apos;s law"
+        ],
+        "answer": "Y) FARADAY&amp;apos;S LAW"
+      },
+      "changes": {
+        "question": "A region contains a time-varying magnetic field. Which of Maxwell's equations would be most directly useful for computing the EMF induced in objects within the field?<br>W) Gauss's law<br>X) Gauss's law for magnetism<br>Y) Faraday's law<br>Z) Ampere's law",
+        "options": [
+          "W) Gauss's law",
+          "X) Gauss's law for magnetism",
+          "Y) Faraday's law",
+          "Z) Ampere's law"
+        ],
+        "answer": "Y) FARADAY'S LAW"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Math – Short Answer Solve the following equation for x: the absolute value ”; source answer “11 AND –7”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Chemistry – Short Answer What is the term used to describe the movement of ”; source answer “EFFUSION (DO NOT ACCEPT: DIFFUSION)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Biology – Multiple Choice As read from 5 prime to 3 prime, which of the fol”; source answer “X) UAA”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Physics – Multiple Choice If you take the line integral of an electric fiel”; source answer “W) THE WORK IT TAKES PER UNIT CHARGE TO MOVE THE CHARGE FROM ONE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Chemistry – Short Answer      How many of sulfur’s valence electrons are in”; source answer “FOUR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Energy – Short Answer Scientists at Idaho National Lab’s Advanced Test Reac”; source answer “CHERENKOV RADIATION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Math – Short Answer Given f of x = 3x – 7 and g of x = 4x, what is g of f o”; source answer “12x – 28”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Earth & Space – Multiple Choice Which of the following best describes the t”; source answer “X) CURVED TOWARD THE SURFACE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Biology – Multiple Choice HIV evades the human immune system by hiding prim”; source answer “Z) WHITE BLOOD CELLS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Math – Short Answer If an exterior angle adjacent to a base angle of an iso”; source answer “72”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Short Answer In a telescope, the ratio of the focal length ”; source answer “MAGNIFICATION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Multiple Choice Which of the following gasses demonstrates the ”; source answer “X) NEON”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Physics – Short Answer Consider two parallel wires that are carrying curren”; source answer “–2F”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Biology – Short Answer   The three germ layers of the vertebrate embryo are”; source answer “GASTRULATION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Physics – Short Answer Identify all of the following three statements that ”; source answer “1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer Identify all of the following three glacial fe”; source answer “1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Short Answer Researchers at Argonne National Lab are studying the ”; source answer “ANTINEUTRINO (ACCEPT: ELECTRON ANTINEUTRINO)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source choices are NO⁺, O₂, CN⁻, and N₂, and answer is X) O₂; restored charges and subscripts in the prompt, options, and answer.",
+      "before": {
+        "parts": [
+          "Which of the following molecules is not iso-electronic with carbon monoxide?<br>W) NO +<br>X) O 2<br>Y) CN –<br>Z) N 2"
+        ],
+        "options": [
+          "W) NO +",
+          "X) O 2",
+          "Y) CN –",
+          "Z) N 2"
+        ],
+        "answers": [
+          "X) O 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following molecules is not iso-electronic with carbon monoxide?<br>W) NO<sup>+</sup><br>X) O<sub>2</sub><br>Y) CN<sup>−</sup><br>Z) N<sub>2</sub>"
+        ],
+        "parts_sanitized": [
+          "Which of the following molecules is not iso-electronic with carbon monoxide? W) NO⁺ X) O₂ Y) CN⁻ Z) N₂"
+        ],
+        "options": [
+          "W) NO<sup>+</sup>",
+          "X) O<sub>2</sub>",
+          "Y) CN<sup>−</sup>",
+          "Z) N<sub>2</sub>"
+        ],
+        "answers": [
+          "X) O<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "X) O₂"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Math – Short Answer A pizza has a radius of 6. After eating the right half ”; source answer “9π√3 [any order of factors]”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Biology – Short Answer Identify all of the following three characteristics ”; source answer “2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Multiple Choice Which of the following stars would have the”; source answer “Y) A FIVE SOLAR-MASS STAR THAT HAS HALF THE RADIUS OF OUR SUN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Energy – Multiple Choice Scientists at Oak Ridge National Lab are studying ”; source answer “Y) BELL PEPPER”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Physics – Multiple Choice Which of the following is closest to the amount o”; source answer “Z) 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source numerator is 4x² − 7x and denominator x − 3; restored superscript 2.",
+      "before": {
+        "parts": [
+          "What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x 2 – 7x and denominator x – 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x<sup>2</sup> – 7x and denominator x – 3?"
+        ],
+        "parts_sanitized": [
+          "What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x² – 7x and denominator x – 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Chemistry – Short Answer What is the ratio of the root-mean-square-speed of”; source answer “2√2 (ACCEPT: 2√2 TO 1)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Biology – Short Answer In peas, purple flowers are dominant to white flower”; source answer “0.6 (ACCEPT: 60%, 3/5)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Physics – Short Answer Consider an object at rest with a moment of inertia ”; source answer “250”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Chemistry – Short Answer      How many pi bonds are there in 2-cyan-o-hexa-”; source answer “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source compound is Zn₂SbN₃; restored subscripts in its formula.",
+      "before": {
+        "parts": [
+          "Scientists at the National Renewable Energy Laboratory collaborated with counterparts at Lawrence Berkeley National Lab to map electronic relationships between ternary metal nitrides [NYE-trides], such as the compound Zn2 Sb N3. What is the oxidation state on the antimony [AN-tih-moh-nee] atom in this compound?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Scientists at the National Renewable Energy Laboratory collaborated with counterparts at Lawrence Berkeley National Lab to map electronic relationships between ternary metal nitrides [NYE-trides], such as the compound Zn<sub>2</sub>SbN<sub>3</sub>. What is the oxidation state on the antimony [AN-tih-moh-nee] atom in this compound?"
+        ],
+        "parts_sanitized": [
+          "Scientists at the National Renewable Energy Laboratory collaborated with counterparts at Lawrence Berkeley National Lab to map electronic relationships between ternary metal nitrides [NYE-trides], such as the compound Zn₂SbN₃. What is the oxidation state on the antimony [AN-tih-moh-nee] atom in this compound?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source function contains x² − 6x; restored superscript 2.",
+      "before": {
+        "parts": [
+          "What is the average value of the function f of x equals x 2 – 6x over the interval from one to four?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the average value of the function f of x equals x<sup>2</sup> – 6x over the interval from one to four?"
+        ],
+        "parts_sanitized": [
+          "What is the average value of the function f of x equals x² – 6x over the interval from one to four?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source accepts water as H₂O; restored subscript 2 in the answer.",
+      "before": {
+        "answers": [
+          "WATER (ACCEPT: H O) 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "WATER (ACCEPT: H<sub>2</sub>O)"
+        ],
+        "answers_sanitized": [
+          "WATER (ACCEPT: H₂O)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source answer is CaCO₃; restored subscript 3.",
+      "before": {
+        "answers": [
+          "CaCO 3"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "CaCO<sub>3</sub>"
+        ],
+        "answers_sanitized": [
+          "CaCO₃"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Math – Short Answer If 100 factorial base 10 is written as an integer in ba”; source answer “16”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Short Answer The lifetime of a planet’s surface evolution i”; source answer “ONE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Short Answer How many degenerate states are there for an electr”; source answer “18”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Physics – Short Answer A cat stands in front of a convex mirror. Identify a”; source answer “1”."
+    }
+  ],
+  "packetIssues": []
+}

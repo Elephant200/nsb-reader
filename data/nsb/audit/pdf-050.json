@@ -1,0 +1,598 @@
+{
+  "packetIndex": 50,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 2; corrected formatting visible in the source: 3x⁵y² + 6x³y⁵ and answer exponents.",
+      "before": {
+        "question": "What is the greatest common factor of the terms in the expression 5 2 3 5 3x y + 6x y (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)? 3 2",
+        "answer": "3 x y"
+      },
+      "changes": {
+        "question": "What is the greatest common factor of the terms in the expression 3x<sup>5</sup>y<sup>2</sup> + 6x<sup>3</sup>y<sup>5</sup> (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
+        "answer": "3x<sup>3</sup>y<sup>2</sup>",
+        "question_sanitized": "What is the greatest common factor of the terms in the expression 3x^5y^2 + 6x^3y^5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
+        "answer_sanitized": "3x^3y^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 8; corrected formatting visible in the source: Hess’s apostrophe.",
+      "before": {
+        "question": "For a series of chemical reactions, Hess&amp;apos;s law provides a method for the summation of which property?<br>W) Heat of formation<br>X) Entropy<br>Y) Equilibrium constant<br>Z) Reaction rate"
+      },
+      "changes": {
+        "question": "For a series of chemical reactions, Hess's law provides a method for the summation of which property?<br>W) Heat of formation<br>X) Entropy<br>Y) Equilibrium constant<br>Z) Reaction rate"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 10; corrected formatting visible in the source: H₂ spacing.",
+      "before": {
+        "question": "What is the oxidation state of Hydrogen in H<sub>2</sub> ?"
+      },
+      "changes": {
+        "question": "What is the oxidation state of Hydrogen in H<sub>2</sub>?",
+        "question_sanitized": "What is the oxidation state of Hydrogen in H2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 2; corrected formatting visible in the source: x² exponent.",
+      "before": {
+        "parts": [
+          "At what value of x is there a minimum for the function f(x)= x – 6x (read as: f of x equals x squared minus 6x)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "At what value of x is there a minimum for the function f(x) = x<sup>2</sup> - 6x (read as: f of x equals x squared minus 6x)?"
+        ],
+        "parts_sanitized": [
+          "At what value of x is there a minimum for the function f(x) = x^2 - 6x (read as: f of x equals x squared minus 6x)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 3; corrected formatting visible in the source: Earth’s apostrophe.",
+      "before": {
+        "parts": [
+          "The source of energy that drives a tsunami wave onto a shore originated:<br>W) From the gravitational attraction between the Earth and the Moon<br>X) Along the ocean floor<br>Y) From tidal waves<br>Z) In Earth&amp;apos;s interior"
+        ],
+        "options": [
+          "W) From the gravitational attraction between the Earth and the Moon",
+          "X) Along the ocean floor",
+          "Y) From tidal waves",
+          "Z) In Earth&amp;apos;s interior"
+        ],
+        "answers": [
+          "Z) IN EARTH&amp;apos;S INTERIOR"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The source of energy that drives a tsunami wave onto a shore originated:<br>W) From the gravitational attraction between the Earth and the Moon<br>X) Along the ocean floor<br>Y) From tidal waves<br>Z) In Earth's interior"
+        ],
+        "options": [
+          "W) From the gravitational attraction between the Earth and the Moon",
+          "X) Along the ocean floor",
+          "Y) From tidal waves",
+          "Z) In Earth's interior"
+        ],
+        "answers": [
+          "Z) IN EARTH'S INTERIOR"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 9; corrected formatting visible in the source: x² + y² and ordinal superscripts.",
+      "before": {
+        "parts": [
+          "The equation x + y = 121 with x &gt; 0 and y &lt; 0 would result in the graph of:<br>W) A semicircle below the x-axis nd<br>X) A quarter circle in the 2 quadrant th<br>Y) A quarter circle in the 4 quadrant<br>Z) A complete circle with a radius of 11 TH"
+        ],
+        "options": [
+          "W) A semicircle below the x-axis nd",
+          "X) A quarter circle in the 2 quadrant th",
+          "Y) A quarter circle in the 4 quadrant",
+          "Z) A complete circle with a radius of 11 TH"
+        ],
+        "answers": [
+          "Y) A QUARTER CIRCLE IN THE 4 QUADRANT"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The equation x<sup>2</sup> + y<sup>2</sup> = 121 with x > 0 and y < 0 would result in the graph of:<br>W) A semicircle below the x-axis<br>X) A quarter circle in the 2<sup>nd</sup> quadrant<br>Y) A quarter circle in the 4<sup>th</sup> quadrant<br>Z) A complete circle with a radius of 11"
+        ],
+        "options": [
+          "W) A semicircle below the x-axis",
+          "X) A quarter circle in the 2<sup>nd</sup> quadrant",
+          "Y) A quarter circle in the 4<sup>th</sup> quadrant",
+          "Z) A complete circle with a radius of 11"
+        ],
+        "answers": [
+          "Y) A QUARTER CIRCLE IN THE 4<sup>TH</sup> QUADRANT"
+        ],
+        "parts_sanitized": [
+          "The equation x^2 + y^2 = 121 with x > 0 and y < 0 would result in the graph of: W) A semicircle below the x-axis; X) A quarter circle in the 2nd quadrant; Y) A quarter circle in the 4th quadrant; Z) A complete circle with a radius of 11"
+        ],
+        "answers_sanitized": [
+          "Y) A QUARTER CIRCLE IN THE 4TH QUADRANT"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 10; corrected formatting visible in the source: LiAlH₄ spacing.",
+      "before": {
+        "parts": [
+          "What is the oxidation state of Hydrogen in LiAlH<sub>4</sub> ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the oxidation state of Hydrogen in LiAlH<sub>4</sub>?"
+        ],
+        "parts_sanitized": [
+          "What is the oxidation state of Hydrogen in LiAlH4?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    }
+  ],
+  "packetIssues": []
+}

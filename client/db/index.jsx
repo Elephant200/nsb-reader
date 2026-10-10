@@ -4,11 +4,9 @@ import star from '../scripts/auth/star.js';
 import TossupCard from './TossupCard.jsx';
 import BonusCard from './BonusCard.jsx';
 import CategoryModal from '../scripts/components/CategoryModal.jsx';
-import DifficultyDropdown from '../scripts/components/DifficultyDropdown.jsx';
 import Star from '../scripts/components/Star.jsx';
-import { getDropdownValues, setDropdownValues } from '../scripts/utilities/dropdown-checklist.js';
 import filterParams from '../scripts/utilities/filter-params.js';
-import CategoryManager from '../../quizbowl/category-manager.js';
+import CategoryManager from '../../shared/category-manager.js';
 import reportQuestion from '../scripts/api/report-question.js';
 import getSetList from '../scripts/api/get-set-list.js';
 
@@ -39,7 +37,7 @@ function QueryForm () {
     subcategories: initialParams.get('subcategories') ? initialParams.get('subcategories').split(',') : [],
     alternateSubcategories: initialParams.get('alternateSubcategories') ? initialParams.get('alternateSubcategories').split(',') : []
   });
-  const [queryString, setQueryString] = React.useState(initialParams.get('queryString') ?? '');
+  const [queryString, setQueryString] = React.useState(initialParams.get('q') ?? initialParams.get('queryString') ?? '');
   const [maxReturnLength, setMaxReturnLength] = React.useState(initialParams.get('maxReturnLength') ?? '');
   const [setName, setSetName] = React.useState(initialParams.get('setName') ?? '');
   const [searchType, setSearchType] = React.useState(initialParams.get('searchType') ?? 'all');
@@ -52,7 +50,6 @@ function QueryForm () {
   const [ignoreWordOrder, setIgnoreWordOrder] = React.useState(initialParams.get('ignoreWordOrder') === 'true');
   const [exactPhrase, setExactPhrase] = React.useState(initialParams.get('exactPhrase') === 'true');
   const [caseSensitive, setCaseSensitive] = React.useState(initialParams.get('caseSensitive') === 'true');
-  const [powermarkOnly, setPowermarkOnly] = React.useState(initialParams.get('powermarkOnly') === 'true');
   const [hideAnswerlines, setHideAnswerlines] = React.useState(false);
   const [hideCardFooters, setHideCardFooters] = React.useState(false);
 
@@ -133,15 +130,13 @@ function QueryForm () {
     }
 
     const unfilteredParams = {
-      queryString,
+      q: queryString,
       ...categoryManager.export(),
-      difficulties: getDropdownValues('difficulties'),
       maxReturnLength,
       questionType,
       randomize,
       exactPhrase,
       caseSensitive,
-      powermarkOnly,
       regex,
       ignoreWordOrder,
       searchType,
@@ -287,8 +282,6 @@ function QueryForm () {
     document.getElementById('set-list').innerHTML = setList.map(setName => `<option>${setName}</option>`).join('');
 
     if (window.location.search !== '') {
-      const difficulties = initialParams.get('difficulties')?.split(',')?.map(difficulty => parseInt(difficulty));
-      if (difficulties) { setDropdownValues('difficulties', difficulties); }
       handleSubmit(null, initialParams.get('randomize') === 'true');
     }
   }, []);
@@ -303,9 +296,6 @@ function QueryForm () {
           <button id='randomize' className='btn btn-success' onClick={event => { handleSubmit(event, true); }}>Random</button>
         </div>
         <div className='row'>
-          <div className='col-6 col-xl-3 mb-2'>
-            <DifficultyDropdown />
-          </div>
           <div className='col-6 col-xl-3 mb-2'>
             <input type='number' className='form-control' id='max-return-length' placeholder='# to Display' value={maxReturnLength} onChange={event => { setMaxReturnLength(event.target.value); }} />
           </div>
@@ -358,10 +348,6 @@ function QueryForm () {
               <label className='form-check-label' htmlFor='toggle-case-sensitive'>Case sensitive search</label>
             </div>
             <div className='form-check form-switch'>
-              <input className='form-check-input' type='checkbox' role='switch' id='toggle-powermark-only' checked={powermarkOnly} onChange={() => { setPowermarkOnly(!powermarkOnly); }} />
-              <label className='form-check-label' htmlFor='toggle-powermark-only'>Powermarked tossups only</label>
-            </div>
-            <div className='form-check form-switch'>
               <input className='form-check-input' type='checkbox' role='switch' id='toggle-hide-answerlines' checked={hideAnswerlines} onChange={() => { setHideAnswerlines(!hideAnswerlines); }} />
               <label className='form-check-label' htmlFor='toggle-hide-answerlines'>Hide answerlines</label>
             </div>
@@ -371,9 +357,9 @@ function QueryForm () {
             </div>
             <div className='float-end'>
               <b>Download this page:</b>
-              <a className='ms-2 clickable' onClick={() => { downloadQuestionsAsText({ tossups, bonuses }); }}>TXT</a>
-              <a className='ms-2 clickable' onClick={() => { downloadTossupsAsCSV(tossups); downloadBonusesAsCSV(bonuses); }}>CSV</a>
-              <a className='ms-2 clickable' onClick={() => { downloadQuestionsAsJSON(tossups, bonuses); }}>JSON</a>
+              <a className='ms-2 clickable' role='button' tabIndex={0} onClick={() => { downloadQuestionsAsText({ tossups, bonuses }); }} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); downloadQuestionsAsText({ tossups, bonuses }); } }}>TXT</a>
+              <a className='ms-2 clickable' role='button' tabIndex={0} onClick={() => { downloadTossupsAsCSV(tossups); downloadBonusesAsCSV(bonuses); }} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); downloadTossupsAsCSV(tossups); downloadBonusesAsCSV(bonuses); } }}>CSV</a>
+              <a className='ms-2 clickable' role='button' tabIndex={0} onClick={() => { downloadQuestionsAsJSON(tossups, bonuses); }} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); downloadQuestionsAsJSON(tossups, bonuses); } }}>JSON</a>
             </div>
           </div>
         </div>
@@ -388,7 +374,7 @@ function QueryForm () {
           ? <div className='float-row mb-3'>
             <span className='text-muted float-start'>Showing {tossups.length} of {tossupCount} results ({queryTime} seconds)</span>&nbsp;
             <span className='text-muted float-end'>
-              <a className='clickable' onClick={() => window.scrollTo({ top: document.getElementById('bonuses').offsetTop, behavior: 'smooth' })}>
+              <a className='clickable' role='button' tabIndex={0} onClick={() => window.scrollTo({ top: document.getElementById('bonuses').offsetTop, behavior: 'smooth' })} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); window.scrollTo({ top: document.getElementById('bonuses').offsetTop, behavior: 'smooth' }); } }}>
                 Jump to bonuses
               </a>
             </span>
@@ -418,7 +404,7 @@ function QueryForm () {
                   const isActive = tossupPaginationNumber === i + 1;
                   return (
                     <li key={`tossup-pagination-${i + 1}`} className='page-item'>
-                      <a className={`page-link ${isActive && 'active'}`} href='#' onClick={event => { handleTossupPaginationClick(event, i + 1); }}>
+                      <a className={`page-link ${isActive ? 'active' : ''}`} aria-current={isActive ? 'page' : undefined} href='#' onClick={event => { handleTossupPaginationClick(event, i + 1); }}>
                         {i + 1}
                       </a>
                     </li>
@@ -447,7 +433,7 @@ function QueryForm () {
           ? <div className='float-row mb-3'>
             <span className='text-muted float-start'>Showing {bonuses.length} of {bonusCount} results ({queryTime} seconds)</span>&nbsp;
             <span className='text-muted float-end'>
-              <a className='clickable' onClick={() => window.scrollTo({ top: document.getElementById('tossups').offsetTop, behavior: 'smooth' })}>
+              <a className='clickable' role='button' tabIndex={0} onClick={() => window.scrollTo({ top: document.getElementById('tossups').offsetTop, behavior: 'smooth' })} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); window.scrollTo({ top: document.getElementById('tossups').offsetTop, behavior: 'smooth' }); } }}>
                 Jump to tossups
               </a>
             </span>
@@ -477,7 +463,7 @@ function QueryForm () {
                 const isActive = bonusPaginationNumber === i + 1;
                 return (
                   <li key={`bonus-pagination-${i + 1}`} className='page-item'>
-                    <a className={`page-link ${isActive && 'active'}`} href='#' onClick={event => { handleBonusPaginationClick(event, i + 1); }}>
+                    <a className={`page-link ${isActive ? 'active' : ''}`} aria-current={isActive ? 'page' : undefined} href='#' onClick={event => { handleBonusPaginationClick(event, i + 1); }}>
                       {i + 1}
                     </a>
                   </li>

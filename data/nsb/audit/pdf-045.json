@@ -1,0 +1,645 @@
+{
+  "packetIndex": 45,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-14C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 and compared the complete printed stem, answer, choices, and notes against corpus item 1; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "question": "Which of the following molecules has an electron pair geometry that matches its molecular geometry:<br>W) H<sub>2</sub> O<br>X) NH<sub>3</sub><br>Y) SO<sub>2</sub><br>Z) PCl<sub>5</sub>",
+        "options": [
+          "W) H<sub>2</sub> O",
+          "X) NH<sub>3</sub>",
+          "Y) SO<sub>2</sub>",
+          "Z) PCl<sub>5</sub>"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following molecules has an electron pair geometry that matches its molecular geometry:<br>W) H<sub>2</sub>O<br>X) NH<sub>3</sub><br>Y) SO<sub>2</sub><br>Z) PCl<sub>5</sub>",
+        "options": [
+          "W) H<sub>2</sub>O",
+          "X) NH<sub>3</sub>",
+          "Y) SO<sub>2</sub>",
+          "Z) PCl<sub>5</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 1; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source page 2 prints 2n for chromosome count and 2s for DNA content, with n and s as baseline biological variables; the answer is printed 1N AND 2S and matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 and compared the complete printed stem, answer, choices, and notes against corpus item 4; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "answer": "2"
+      },
+      "changes": {
+        "answer": "√2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 5; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 5; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 6; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 6; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 and compared the complete printed stem, answer, choices, and notes against corpus item 13; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "question": "Which of the following statements is LEAST accurate:<br>W) the molecular formula for dimethyl sulfoxide is C<sub>2</sub> H<sub>6</sub> SO<br>X) black smokers are a type of hydrothermal vent found on the ocean floor<br>Y) Io is the most volcanically active body in our Solar System<br>Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front",
+        "options": [
+          "W) the molecular formula for dimethyl sulfoxide is C<sub>2</sub> H<sub>6</sub> SO",
+          "X) black smokers are a type of hydrothermal vent found on the ocean floor",
+          "Y) Io is the most volcanically active body in our Solar System",
+          "Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following statements is LEAST accurate:<br>W) the molecular formula for dimethyl sulfoxide is C<sub>2</sub>H<sub>6</sub>SO<br>X) black smokers are a type of hydrothermal vent found on the ocean floor<br>Y) Io is the most volcanically active body in our Solar System<br>Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front",
+        "options": [
+          "W) the molecular formula for dimethyl sulfoxide is C<sub>2</sub>H<sub>6</sub>SO",
+          "X) black smokers are a type of hydrothermal vent found on the ocean floor",
+          "Y) Io is the most volcanically active body in our Solar System",
+          "Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 7; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 8; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 8; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 9; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 9; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 10; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 11; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 12; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 12; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 and compared the complete printed stem, answer, choices, and notes against corpus item 25; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "answer": "3 Τ"
+      },
+      "changes": {
+        "answer": "3"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 and compared the complete printed stem, answer, choices, and notes against corpus item 1; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "parts": [
+          "Which of the following is NOT a constitutional isomer of the organic compound whose molecular formula is C<sub>4</sub> H<sub>8</sub> :<br>W) 1-butene<br>X) 2-butene<br>Y) 2-methyl-1-butene<br>Z) 2-methyl-1-propene"
+        ],
+        "options": [
+          "W) 1-butene",
+          "X) 2-butene",
+          "Y) 2-methyl-1-butene",
+          "Z) 2-methyl-1-propene"
+        ],
+        "notes": [
+          "(Solution: 2-methyl-1-butene has a molecular formula of C<sub>5</sub> H<sub>10</sub> )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is NOT a constitutional isomer of the organic compound whose molecular formula is C<sub>4</sub>H<sub>8</sub>:<br>W) 1-butene<br>X) 2-butene<br>Y) 2-methyl-1-butene<br>Z) 2-methyl-1-propene"
+        ],
+        "options": [
+          "W) 1-butene",
+          "X) 2-butene",
+          "Y) 2-methyl-1-butene",
+          "Z) 2-methyl-1-propene"
+        ],
+        "notes": [
+          "(Solution: 2-methyl-1-butene has a molecular formula of C<sub>5</sub>H<sub>10</sub>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 1; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 2; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 and compared the complete printed stem, answer, choices, and notes against corpus item 4; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "parts": [
+          "Find the value of k that will result in a unique, real solution for the 2 following equation: kx + 10x + 25 = 0"
+        ],
+        "answers": [
+          "1 2"
+        ],
+        "notes": [
+          "(Solution: b - 4ac = 0; 100 – 4(k)(25) = 0; k = 1)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the value of k that will result in a unique, real solution for the following equation: kx<sup>2</sup> + 10x + 25 = 0"
+        ],
+        "answers": [
+          "1"
+        ],
+        "notes": [
+          "(Solution: b<sup>2</sup> − 4ac = 0; 100 − 4(k)(25) = 0; k = 1)"
+        ],
+        "parts_sanitized": [
+          "Find the value of k that will result in a unique, real solution for the following equation: kx^2 + 10x + 25 = 0"
+        ],
+        "answers_sanitized": [
+          "1"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 3; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 3; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 5; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 5; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 and compared the complete printed stem, answer, choices, and notes against corpus item 11; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "parts": [
+          "Differentiate and simplify the following with respect to x: y = ln x (read as: y = natural log of absolute value of x) 1"
+        ],
+        "answers": [
+          "x"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Differentiate and simplify the following with respect to x: y = ln |x| (read as: y = natural log of absolute value of x)"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>1</span><span>x</span></span>"
+        ],
+        "parts_sanitized": [
+          "Differentiate and simplify the following with respect to x: y = ln |x| (read as: y = natural log of absolute value of x)"
+        ],
+        "answers_sanitized": [
+          "1/x"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 6; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 7; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 8; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 8; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 9; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 and compared the complete printed stem, answer, choices, and notes against corpus item 18; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "notes": [
+          "(Solution: P = n!/(n<sub>1</sub> ! n<sub>2</sub> ! n<sub>3</sub> !...); P = 8!/(4! 2! 2!) = 420)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: P = n!/(n<sub>1</sub>! n<sub>2</sub>! n<sub>3</sub>!...); P = 8!/(4! 2! 2!) = 420)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 11; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 and compared the complete printed stem, answer, choices, and notes against corpus item 22; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "parts": [
+          "Rutherford and coworkers in the early 20 century found that when alpha particles strike nitrogen-14 nuclei, they most commonly produce what element?"
+        ],
+        "notes": [
+          "(Solution: He-4 + N-14 à O-17 + proton)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Rutherford and coworkers in the early 20<sup>th</sup> century found that when alpha particles strike nitrogen-14 nuclei, they most commonly produce what element?"
+        ],
+        "notes": [
+          "(Solution: He-4 + N-14 → O-17 + proton)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 12; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 12; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 and compared the complete printed stem, answer, choices, and notes against corpus item 25; corrected only source-visible transcription and notation errors.",
+      "before": {
+        "answers": [
+          "20 3 2 3 2 2 9,800N. Each person weighs (50kg)( 9.8m/s ) = 490N; 9800N/490N = 20 pirates)"
+        ],
+        "notes": [
+          "(Solution: Fb = DgV = (1000 kg/m )(9.8m/s )(1.10m ) = 10,780N; 10,780N – (100kg)(9.8m/s ) ="
+        ]
+      },
+      "changes": {
+        "answers": [
+          "20"
+        ],
+        "notes": [
+          "(Solution: Fb = DgV = (1000 kg/m<sup>3</sup>)(9.8 m/s<sup>2</sup>)(1.10 m<sup>3</sup>) = 10,780 N; 10,780 N − (100 kg)(9.8 m/s<sup>2</sup>) = 9,800 N. Each person weighs (50 kg)(9.8 m/s<sup>2</sup>) = 490 N; 9800 N/490 N = 20 pirates)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

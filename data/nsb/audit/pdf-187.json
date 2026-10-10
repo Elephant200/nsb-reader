@@ -1,0 +1,520 @@
+{
+  "packetIndex": 187,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-6.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 187 PDF page 1 shows toss-up 1 beginning “The National Energy Technology Lab is leading a project that gasifies ”; checked its full wording, choices, and answer “W) CARBON MONOXIDE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 187 PDF page 1 shows toss-up 2 beginning “In what corner of a Hertzsprung-Russell diagram can one find an O- cla”; checked its full wording and answer “TOP LEFT” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 187 PDF page 2 shows toss-up 3 beginning “Giving your answer in standard form, what is the equation of the circl”; checked its full wording and answer “x2 + y2 = 196” against the source.",
+      "before": {
+        "answer": "x2 + y2 = 196"
+      },
+      "changes": {
+        "answer": "x<sup>2</sup> + y<sup>2</sup> = 196",
+        "answer_sanitized": "x^2 + y^2 = 196"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 187 PDF page 3 shows toss-up 5 beginning “What is the oxidation state of copper in Cu 2 O?”; checked its full wording and answer “1+” against the source.",
+      "before": {
+        "question": "What is the oxidation state of copper in Cu 2 O?"
+      },
+      "changes": {
+        "question": "What is the oxidation state of copper in Cu<sub>2</sub>O?",
+        "question_sanitized": "What is the oxidation state of copper in Cu2O?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 187 PDF page 3 shows toss-up 6 beginning “What is the term for the point on a pressure-temperature diagram at wh”; checked its full wording and answer “TRIPLE POINT” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 187 PDF page 4 shows toss-up 7 beginning “Scientists at Ames Lab are developing methods to encapsulate catalysts”; checked its full wording and answer “SiO 2” against the source.",
+      "before": {
+        "answer": "SiO 2"
+      },
+      "changes": {
+        "answer": "SiO<sub>2</sub>",
+        "answer_sanitized": "SiO2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 187 PDF page 4 shows toss-up 8 beginning “A sedimentary deposit consists of three layers: a base layer of gravel”; checked its complete printed wording, all choices, and answer “W) NORMAL” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 187 PDF page 5 shows toss-up 9 beginning “What constant, which appears in the denominator of the Nernst equation”; checked its complete printed wording and answer “FARADAY (ACCEPT: F)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 187 PDF page 5 shows toss-up 10 beginning “A plant loses the greatest amount of water through what structures?<br”; checked its complete printed wording, all choices, and answer “Z) STOMATA” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 187 PDF page 6 shows toss-up 11 beginning “What is the expected value when rolling a single ten-sided die?”; checked its complete printed wording and answer “5.5 (ACCEPT: 11/2, 5½)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 187 PDF page 6 shows toss-up 12 beginning “Currents induced inside conductors due in the presence of a time-varyi”; checked its complete printed wording and answer “EDDY CURRENTS (ACCEPT: FOUCAULT CURRENTS)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 187 PDF page 7 shows toss-up 13 beginning “Alkaline batteries are a common type of commercialized battery that in”; checked its complete printed wording and answer “ZINC” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 187 PDF page 7 shows toss-up 14 beginning “The inner core of the Earth is most similar in composition to which of”; checked its complete printed wording, all choices, and answer “W) METEORIC IRON” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 187 PDF page 8 shows toss-up 15 beginning “If one wants to change the period of a simple pendulum so that it osci”; checked its complete printed wording and answer “9/16 (ACCEPT: 9 TO 16)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 187 PDF page 8 shows toss-up 16 beginning “What cluster of electrically active cells in the human heart sets the ”; checked its complete printed wording and answer “SINOATRIAL NODE (ACCEPT: SA NODE)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 187 PDF page 9 shows toss-up 17 beginning “What is the antilog base 9 of 2?”; checked its complete printed wording and answer “81” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 187 PDF page 9 shows toss-up 18 beginning “Which of the following statements is true regarding a gas-phase reacti”; checked its complete printed wording, all choices, and answer “X) ADDING REACTANT WILL INCREASE THE CONCENTRATION OF PRODUCT” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 187 PDF page 10 shows toss-up 20 beginning “The uranium-238 decay series terminates at the 206 isotope of what ele”; checked its complete printed wording and answer “LEAD” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 187 PDF page 11 shows toss-up 21 beginning “What is the sum of the two vectors 8i + 3j and –6i – 7j?”; checked its complete printed wording and answer “2i – 4j” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 187 PDF page 11 shows toss-up 22 beginning “What is the name given to a special mixture of liquids whose compositi”; checked its complete printed wording and answer “AZEOTROPES” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 187 PDF page 12 shows toss-up 23 beginning “Pneumatophores [new-MAT-ah-forz] and beets are modified versions of wh”; checked its complete printed wording and answer “ROOTS” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 187 PDF page 1 shows bonus 1 beginning “Berkeley lab scientists produced the first 3D images of a protein that”; checked its complete printed wording and answer “TOPOISOMERASES” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 187 PDF page 1 shows bonus 2 beginning “A certain O-class star appears red from the Earth's surface. The absor”; checked its complete printed wording, all choices, and answer “Y) THERE IS DUST BETWEEN EARTH AND THE STAR” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 187 PDF page 2 shows bonus 3 beginning “What is the x-coordinate of the solution of the following system of tw”; checked its complete printed wording and answer “27/23 (ACCEPT: 1 4/23)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 187 PDF page 2 shows bonus 4 beginning “Identify all of the following three statements that are true of eukary”; checked its complete printed wording and answer “1 AND 3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 187 PDF page 3 shows bonus 5 beginning “Di-iodine gas can dissociate into two atoms of iodine gas. At 1200 kel”; checked its complete printed wording, all choices, and answer “W) –20” against the source.",
+      "before": {
+        "parts": [
+          "Di-iodine gas can dissociate into two atoms of iodine gas. At 1200 kelvins, the forward reaction has an equilibrium constant of approximately 10. In kilojoules [KILL-oh- jools] per mole, which of the following is closest to the standard change in Gibbs free energy of this reaction?<br>W) –20<br>X) –2<br>Y) +2<br>Z) +20"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Di-iodine gas can dissociate into two atoms of iodine gas. At 1200 kelvins, the forward reaction has an equilibrium constant of approximately 10. In kilojoules [KILL-oh-jools] per mole, which of the following is closest to the standard change in Gibbs free energy of this reaction?<br>W) –20<br>X) –2<br>Y) +2<br>Z) +20"
+        ],
+        "parts_sanitized": [
+          "Di-iodine gas can dissociate into two atoms of iodine gas. At 1200 kelvins, the forward reaction has an equilibrium constant of approximately 10. In kilojoules [KILL-oh-jools] per mole, which of the following is closest to the standard change in Gibbs free energy of this reaction? W) –20 X) –2 Y) +2 Z) +20"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 187 PDF page 3 shows bonus 6 beginning “A circuit consists of a 10-volt battery connected to a parallel branch”; checked its complete printed wording and answer “0.3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 187 PDF page 4 shows bonus 7 beginning “Fermilab scientists collaborate on the Cryogenic [cry-oh-JEN-ik] Dark ”; checked its complete printed wording and answer “1” against the source.",
+      "before": {
+        "parts": [
+          "Fermilab scientists collaborate on the Cryogenic [cry-oh-JEN-ik] Dark Matter Search experiment to detect certain types of dark matter. Identify all of the following three proposed types of dark matter this experiment is designed to detect: 1) WIMPs [wimps]; 2) Axions; 3) Baryonic [bare-ee- ON-ik] dark matter."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Fermilab scientists collaborate on the Cryogenic [cry-oh-JEN-ik] Dark Matter Search experiment to detect certain types of dark matter. Identify all of the following three proposed types of dark matter this experiment is designed to detect: 1) WIMPs [wimps]; 2) Axions; 3) Baryonic [bare-ee-ON-ik] dark matter."
+        ],
+        "parts_sanitized": [
+          "Fermilab scientists collaborate on the Cryogenic [cry-oh-JEN-ik] Dark Matter Search experiment to detect certain types of dark matter. Identify all of the following three proposed types of dark matter this experiment is designed to detect: 1) WIMPs [wimps]; 2) Axions; 3) Baryonic [bare-ee-ON-ik] dark matter."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 187 PDF page 4 shows bonus 8, “Earth and Space – Short Answer Identify all of the following three actions that would decrease the”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 187 PDF page 5 shows bonus 9, “Chemistry – Short Answer For the gas-phase reaction of hydrogen and bromine [BROH-meen] to”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 187 PDF page 5 shows bonus 10, “Biology – Multiple Choice A flower that has four stamens, one pistil, four petals, and no sepals”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 187 PDF page 6 shows bonus 11, “Math – Short Answer If the third derivative of a position function can be described by the function”; checked its full printed wording, choices if present, and complete answer against the source.",
+      "before": {
+        "parts": [
+          "If the third derivative of a position function can be described by the function 6t3, what is the coefficient of the highest-order term in the position function?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the third derivative of a position function can be described by the function 6t<sup>3</sup>, what is the coefficient of the highest-order term in the position function?"
+        ],
+        "parts_sanitized": [
+          "If the third derivative of a position function can be described by the function 6t^3, what is the coefficient of the highest-order term in the position function?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 187 PDF page 6 shows bonus 12, “Physics – Multiple Choice Which of the following mathematical representations is commonly used”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 187 PDF page 7 shows bonus 13, “Energy – Short Answer Scientists studying photoredox chemistry at Brookhaven National Lab have”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 187 PDF page 7 shows bonus 14, “Earth and Space – Short Answer An amateur astronomer observes 61 Cygni [SIG-nye] and”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 187 PDF page 8 shows bonus 15, “Physics – Short Answer Identify all of the following three features that were in Bohr's model of the”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 187 PDF page 8 shows bonus 16, “Biology – Multiple Choice Which of the following fossils is representative of the transition from fish”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 187 PDF page 9 shows bonus 17, “Math – Short Answer Each day, Sue eats 25% of the cookies left in a jar. At the end of the second”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 187 PDF page 9 shows bonus 18, “Chemistry – Short Answer How many three-center two-electron bonds are present in the compound”; checked its full printed wording, choices if present, and complete answer against the source.",
+      "before": {
+        "parts": [
+          "How many three-center two-electron bonds are present in the compound with formula B 2 H 6 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many three-center two-electron bonds are present in the compound with formula B<sub>2</sub>H<sub>6</sub>?"
+        ],
+        "parts_sanitized": [
+          "How many three-center two-electron bonds are present in the compound with formula B2H6?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 187 PDF page 10 shows bonus 19, “Earth and Space – Short Answer Rank the following three components of the ocean’s dissolved”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 187 PDF page 10 shows bonus 20, “Physics – Short Answer A 6-centimeter tall object is placed 15 centimeters from a double convex”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 187 PDF page 11 shows bonus 21, “Math – Short Answer A square has sides of length 12 centimeters. In square centimeters, what is the”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 187 PDF page 11 shows bonus 22, “Chemistry – Short Answer Rank the following three diatomic [dye-ah-TOM-ik] molecules in”; checked its full printed wording, choices if present, and complete answer against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 187 PDF page 12 shows bonus 23, “Biology – Short Answer What molecule, when present in small quantities in the cell membrane,”; checked its full printed wording, choices if present, and complete answer against the source."
+    }
+  ],
+  "packetIssues": []
+}

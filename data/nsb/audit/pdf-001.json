@@ -1,0 +1,463 @@
+{
+  "packetIndex": 1,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows choices W–Z as 8 × 10⁻², 8 × 10⁻³, 8 × 10⁻⁴, 8 × 10⁻⁵; Z is the answer. The corpus had a stray leading exponent and the answer/options lost their exponents.",
+      "before": {
+        "question": "One-fifth of 0.04% is equal to: –2<br>W) 8 × 10 –3<br>X) 8 × 10 –4<br>Y) 8 × 10 –5<br>Z) 8 × 10 –5",
+        "options": [
+          "W) 8 × 10 –3",
+          "X) 8 × 10 –4",
+          "Y) 8 × 10 –5",
+          "Z) 8 × 10 –5"
+        ],
+        "answer": "Z) 8 × 10"
+      },
+      "changes": {
+        "question": "One-fifth of 0.04% is equal to:<br>W) 8 × 10<sup>−2</sup><br>X) 8 × 10<sup>−3</sup><br>Y) 8 × 10<sup>−4</sup><br>Z) 8 × 10<sup>−5</sup>",
+        "options": [
+          "W) 8 × 10<sup>−2</sup>",
+          "X) 8 × 10<sup>−3</sup>",
+          "Y) 8 × 10<sup>−4</sup>",
+          "Z) 8 × 10<sup>−5</sup>"
+        ],
+        "answer": "Z) 8 × 10<sup>−5</sup>"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows the diagonal as 12√2 centimeters; corpus omitted the radical.",
+      "before": {
+        "question": "Giving your answer in centimeters, what is the length of a side of a square whose diagonal measures 12 2 centimeters?"
+      },
+      "changes": {
+        "question": "Giving your answer in centimeters, what is the length of a side of a square whose diagonal measures 12√2 centimeters?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    }
+  ],
+  "packetIssues": []
+}

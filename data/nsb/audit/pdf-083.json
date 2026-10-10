@@ -1,0 +1,597 @@
+{
+  "packetIndex": 83,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by printed number and opening wording on Round 2 page 1; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by printed number and opening wording on Round 2 page 2; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by printed number and opening wording on Round 2 page 2; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by printed number and opening wording on Round 2 page 3; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by printed number and opening wording on Round 2 page 3; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by printed number and opening wording on Round 2 page 4; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by printed number and opening wording on Round 2 page 4; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 2 page 5; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by printed number and opening wording on Round 2 page 5; checked the full item and displayed symbols against its PDF page.",
+      "before": {
+        "question": "Providing your answer to one decimal place, find the value of the 63! following fraction: [the numerator is 63 factorial; the denominator is 62 factorial times 3 62!3! factorial]."
+      },
+      "changes": {
+        "question": "Providing your answer to one decimal place, find the value of the following fraction: <span class=\"nsb-fraction\"><span>63!</span><span>62! 3!</span></span> [the numerator is 63 factorial; the denominator is 62 factorial times 3 factorial].",
+        "question_sanitized": "Providing your answer to one decimal place, find the value of the following fraction: 63!/(62! 3!) [the numerator is 63 factorial; the denominator is 62 factorial times 3 factorial]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by printed number and opening wording on Round 2 page 6; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by printed number and opening wording on Round 2 page 6; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by printed number and opening wording on Round 2 page 7; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 by printed number and opening wording on Round 2 page 7; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 2 page 8; checked the full item and displayed symbols against its PDF page.",
+      "before": {
+        "question": "Which of the following is an aldehyde [AL-duh-hyd]?<br>W) C 11 H 20<br>X) C 5 H 11 OH<br>Y) C 5 H 11 CHO<br>Z) C 5 H 11 NH 2",
+        "options": [
+          "W) C 11 H 20",
+          "X) C 5 H 11 OH",
+          "Y) C 5 H 11 CHO",
+          "Z) C 5 H 11 NH 2"
+        ],
+        "answer": "Y) C 5 H 11 CHO"
+      },
+      "changes": {
+        "question": "Which of the following is an aldehyde [AL-duh-hyd]?<br>W) C<sub>11</sub>H<sub>20</sub><br>X) C<sub>5</sub>H<sub>11</sub>OH<br>Y) C<sub>5</sub>H<sub>11</sub>CHO<br>Z) C<sub>5</sub>H<sub>11</sub>NH<sub>2</sub>",
+        "question_sanitized": "Which of the following is an aldehyde [AL-duh-hyd]?<br>W) C11H20<br>X) C5H11OH<br>Y) C5H11CHO<br>Z) C5H11NH2",
+        "options": [
+          "W) C<sub>11</sub>H<sub>20</sub>",
+          "X) C<sub>5</sub>H<sub>11</sub>OH",
+          "Y) C<sub>5</sub>H<sub>11</sub>CHO",
+          "Z) C<sub>5</sub>H<sub>11</sub>NH<sub>2</sub>"
+        ],
+        "answer": "Y) C<sub>5</sub>H<sub>11</sub>CHO"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 2 page 8; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by printed number and opening wording on Round 2 page 9; checked the full item and displayed symbols against its PDF page.",
+      "before": {
+        "question": "If two inductance coils of inductance L are connected in parallel, but are well separated, the equivalent inductance of the system is which of the following?<br>W) 0.5L<br>X) L<br>Y) 2L<br>Z) L2",
+        "options": [
+          "W) 0.5L",
+          "X) L",
+          "Y) 2L",
+          "Z) L2"
+        ]
+      },
+      "changes": {
+        "question": "If two inductance coils of inductance L are connected in parallel, but are well separated, the equivalent inductance of the system is which of the following?<br>W) 0.5L<br>X) L<br>Y) 2L<br>Z) L<sup>2</sup>",
+        "options": [
+          "W) 0.5L",
+          "X) L",
+          "Y) 2L",
+          "Z) L<sup>2</sup>"
+        ],
+        "question_sanitized": "If two inductance coils of inductance L are connected in parallel, but are well separated, the equivalent inductance of the system is which of the following?\nW) 0.5L\nX) L\nY) 2L\nZ) L^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by printed number and opening wording on Round 2 page 9; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by printed number and opening wording on Round 2 page 10; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 2 page 11; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by printed number and opening wording on Round 2 page 11; checked the full item and displayed symbols against its PDF page.",
+      "before": {
+        "question": "If two 6-sided fair dice are rolled, providing your answer as a fraction in lowest terms, what is the probability that both numbers will be even? 1",
+        "answer": "4"
+      },
+      "changes": {
+        "question": "If two 6-sided fair dice are rolled, providing your answer as a fraction in lowest terms, what is the probability that both numbers will be even?",
+        "answer": "<span class=\"nsb-fraction\"><span>1</span><span>4</span></span>",
+        "answer_sanitized": "1/4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by printed number and opening wording on Round 2 page 12; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by printed number and opening wording on Round 2 page 12; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by printed number and opening wording on Round 2 page 13; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by printed number and opening wording on Round 2 page 1; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by printed number and opening wording on Round 2 page 1; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by printed number and opening wording on Round 2 page 2; checked the full item and displayed symbols against its PDF page.",
+      "before": {
+        "parts": [
+          "Name the molecule with the formula CH 3 COOCH 2 CH 2 CH 3 ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Name the molecule with the formula CH<sub>3</sub>COOCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>."
+        ],
+        "parts_sanitized": [
+          "Name the molecule with the formula CH3COOCH2CH2CH3."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Root visually checked PDF page 2: the factored answer matches, but the accepted expanded form has raised powers 4x³ − 28x² + 48x. Preserve the entire accepted alternative.",
+      "before": {
+        "answers": [
+          "x(8- 2x)(6- 2x) (ACCEPT: 4x3 – 28x2 + 48x)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "x(8- 2x)(6- 2x) (ACCEPT: 4x<sup>3</sup> – 28x<sup>2</sup> + 48x)"
+        ],
+        "answers_sanitized": [
+          "x(8- 2x)(6- 2x) (ACCEPT: 4x³ – 28x² + 48x)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by printed number and opening wording on Round 2 page 3; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by printed number and opening wording on Round 2 page 3; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by printed number and opening wording on Round 2 page 4; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by printed number and opening wording on Round 2 page 4; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by printed number and opening wording on Round 2 page 5; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by printed number and opening wording on Round 2 page 5; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by printed number and opening wording on Round 2 page 6; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by printed number and opening wording on Round 2 page 6; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by printed number and opening wording on Round 2 page 7; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by printed number and opening wording on Round 2 page 7; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by printed number and opening wording on Round 2 page 8; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by printed number and opening wording on Round 2 page 8; checked the full item and displayed symbols against its PDF page.",
+      "before": {
+        "parts": [
+          "Determine the largest possible real domain of y = 2 [y equals √𝑥 − 1 the fraction with numerator the square root of the quantity x minus 1 and denominator the square root of the quantity x squared minus 1 ]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Determine the largest possible real domain of y = <span class=\"nsb-fraction\"><span>√(x − 1)</span><span>√(x<sup>2</sup> − 1)</span></span> [y equals the fraction with numerator the square root of the quantity x minus 1 and denominator the square root of the quantity x squared minus 1]."
+        ],
+        "parts_sanitized": [
+          "Determine the largest possible real domain of y = sqrt(x - 1)/sqrt(x^2 - 1) [y equals the fraction with numerator the square root of the quantity x minus 1 and denominator the square root of the quantity x squared minus 1]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by printed number and opening wording on Round 2 page 9; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by printed number and opening wording on Round 2 page 9; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by printed number and opening wording on Round 2 page 10; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by printed number and opening wording on Round 2 page 11; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by printed number and opening wording on Round 2 page 11; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 to Round 2 page 12; the printed Z option is proportional to L squared. Restored the lost exponent in embedded and separate choices.",
+      "before": {
+        "parts": [
+          "A square conducting loop of length L on a side carries a current i. Which of the following best characterizes the magnetic field at the center of the loop?<br>W) Independent of L<br>X) Inversely proportional to L<br>Y) Proportional to L<br>Z) Proportional to L2"
+        ],
+        "options": [
+          "W) Independent of L",
+          "X) Inversely proportional to L",
+          "Y) Proportional to L",
+          "Z) Proportional to L2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A square conducting loop of length L on a side carries a current i. Which of the following best characterizes the magnetic field at the center of the loop?<br>W) Independent of L<br>X) Inversely proportional to L<br>Y) Proportional to L<br>Z) Proportional to L<sup>2</sup>"
+        ],
+        "parts_sanitized": [
+          "A square conducting loop of length L on a side carries a current i. Which of the following best characterizes the magnetic field at the center of the loop?\nW) Independent of L\nX) Inversely proportional to L\nY) Proportional to L\nZ) Proportional to L^2"
+        ],
+        "options": [
+          "W) Independent of L",
+          "X) Inversely proportional to L",
+          "Y) Proportional to L",
+          "Z) Proportional to L<sup>2</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by printed number and opening wording on Round 2 page 12; checked the full item and displayed symbols against its PDF page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by printed number and opening wording on Round 2 page 13; checked the full item and displayed symbols against its PDF page."
+    }
+  ],
+  "packetIssues": []
+}

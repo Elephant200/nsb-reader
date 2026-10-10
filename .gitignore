@@ -8,3 +8,14 @@ node_modules
 **.min.js
 **.css
 **.css.map
+
+# local audio assets (Geoword/Soundtracks source files)
+audio/
+
+# Cloudflare local state, generated assets, and local secrets
+.cloudflare/
+.wrangler/
+.dev.vars*
+
+# Downloaded source PDFs and rendered pages for the NSB formatting audit
+/tmp/pdfs/nsb-audit/

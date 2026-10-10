@@ -1,0 +1,28 @@
+[
+  {
+    "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/16A_HS_Reg_2016.pdf",
+    "packetIndex": 163,
+    "number": 18,
+    "operation": "bonus-to-tossup",
+    "matchPrompt": "Which of the following statements concerning intermolecular forces is NOT true?",
+    "sourcePages": [9],
+    "evidence": "PDF page 9 places this multiple-choice question after the completed toss-up/bonus 17 pair and a separator, before an explicitly headed BONUS 18. Its own TOSS-UP heading is missing, so extraction inherited BONUS from question 17. Recover it as toss-up 18 while preserving the following metathesis bonus 18. Root visually checked the entire page."
+  },
+  {
+    "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_16A.pdf",
+    "packetIndex": 180,
+    "number": 5,
+    "operation": "add-tossup",
+    "sourcePages": [3],
+    "evidence": "PDF page 3 explicitly labels TOSS-UP 5 and prints the type as Multiple Choic, missing its final e. That typo prevented extraction. Root visually confirmed the complete question, all four options, and answer W) ICE; the following bonus 5 remains unchanged.",
+    "question": {
+      "number": 5,
+      "question": "Saturn’s rings are mostly composed of which of the following materials?<br>W) Ice<br>X) Silicates<br>Y) Carbonates<br>Z) Iron",
+      "answer": "W) ICE",
+      "category": "Earth and Space",
+      "type": "Multiple Choice",
+      "options": ["W) Ice", "X) Silicates", "Y) Carbonates", "Z) Iron"],
+      "notes": []
+    }
+  }
+]

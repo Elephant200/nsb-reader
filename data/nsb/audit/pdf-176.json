@@ -1,0 +1,565 @@
+{
+  "packetIndex": 176,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_12A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “At which of the following locations on the HR diagram would one find Betelgeuse? W) Top right X) Top left Y) Bottom” and answer “W) TOP RIGHT”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “A car is traveling around a circular track in uniform circular motion. Identify all of the following three quantiti” and answer “1”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “What U.S. university was the site of the first ever sustained nuclear reaction?” and answer “UNIVERSITY OF CHICAGO (ACCEPT: CHICAGO)”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 prints the polynomial as 6x³ – 20x + 15 = 0, followed by W) –5, X) 1/3, Y) 1/2, Z) 6/5; answer Z) 6/5. Restore the missing exponent formatting.",
+      "before": {
+        "question": "Consider the polynomial equation 6x 3 – 20x + 15 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) –5<br>X) 1/3<br>Y) 1/2<br>Z) 6/5"
+      },
+      "changes": {
+        "question": "Consider the polynomial equation 6x<sup>3</sup> – 20x + 15 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation?<br>W) –5<br>X) 1/3<br>Y) 1/2<br>Z) 6/5",
+        "question_sanitized": "Consider the polynomial equation 6x^3 – 20x + 15 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation? W) –5 X) 1/3 Y) 1/2 Z) 6/5"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “What aspect of a reaction does an enzyme change? W) Free energy X) Entropy [EN-troh-pee] Y) Enthalpy [EN-thul-pee] ” and answer “Z) ACTIVATION ENERGY”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Which of the following statements concerning crystal structure is NOT true? W) HCP lattices are more space-filling ” and answer “W) HCP LATTICES ARE MORE SPACE-FILLING THAN FCC LATTICES”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Much of the information we have about the center of the Milky Way was collected in the radio wavelengths of the ele” and answer “Z) VERY LARGE ARRAY”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 prints PCl₅ → PCl₃ + Cl₂ without spaces before punctuation; the question and all four verbalized fraction choices and answer Y are present in the import. Remove extraction spaces after subscripts.",
+      "before": {
+        "question": "Consider the gas-phase decomposition of PCl<sub>5</sub> into PCl<sub>3</sub> and Cl<sub>2</sub> . If the reaction begins with 5 atmospheres of PCl<sub>5</sub> , and if the partial pressure of chlorine is x atm at equilibrium, which of the following expressions for Kp is correct?<br>W) The fraction with numerator x and denominator 5 minus x<br>X) The fraction with numerator x and denominator open parenthesis 5 minus x close parenthesis squared<br>Y) The fraction with numerator x squared and denominator 5 minus x<br>Z) The fraction with numerator x squared and denominator open parenthesis 5 minus x close parenthesis squared"
+      },
+      "changes": {
+        "question": "Consider the gas-phase decomposition of PCl<sub>5</sub> into PCl<sub>3</sub> and Cl<sub>2</sub>. If the reaction begins with 5 atmospheres of PCl<sub>5</sub>, and if the partial pressure of chlorine is x atm at equilibrium, which of the following expressions for Kp is correct?<br>W) The fraction with numerator x and denominator 5 minus x<br>X) The fraction with numerator x and denominator open parenthesis 5 minus x close parenthesis squared<br>Y) The fraction with numerator x squared and denominator 5 minus x<br>Z) The fraction with numerator x squared and denominator open parenthesis 5 minus x close parenthesis squared",
+        "question_sanitized": "Consider the gas-phase decomposition of PCl5 into PCl3 and Cl2. If the reaction begins with 5 atmospheres of PCl5, and if the partial pressure of chlorine is x atm at equilibrium, which of the following expressions for Kp is correct? W) The fraction with numerator x and denominator 5 minus x X) The fraction with numerator x and denominator open parenthesis 5 minus x close parenthesis squared Y) The fraction with numerator x squared and denominator 5 minus x Z) The fraction with numerator x squared and denominator open parenthesis 5 minus x close parenthesis squared"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “Identify all of the following three options that would increase the resistance of a wire: 1) Increasing the tempera” and answer “1 AND 3”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “If angle ABC is inscribed in a circle and measures 15 degrees, what is the degree measure of arc ABC?” and answer “330”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “What is the typical co-electrolyte in Vanadium [vah-NAY-dee-um] redox [REE-dox] flow batteries? W) Zinc nitrate X) ” and answer “X) SULFURIC ACID”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “Which of the following statements about monocots and dicots is NOT correct? W) Monocots have three holes in their p” and answer “W) MONOCOTS HAVE THREE HOLES IN THEIR POLLEN, WHILE DICOTS ONLY HAVE ONE”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “To the nearest whole number, what is the slant height of a right circular cone with radius 6 and height 9?” and answer “11”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “What virus causes mononucleosis [mono-new-klee-OH-sis] in humans?” and answer “EPSTEIN-BARR VIRUS”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Which variable affecting the speed of sound in the ocean dominates at very large depths? W) Water Pressure X) Salin” and answer “W) WATER PRESSURE”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “In base 8, what is 6 times 7?” and answer “FIVE-TWO”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “A swinging door is opened to +80 degrees, and released. It swings to -40 degrees, then back to +20 degrees and so o” and answer “W) UNDERDAMPED”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Which of the following compounds has the highest vapor pressure at 25 degrees Celsius? W) Water X) Ethanol Y) Metha” and answer “Z) DIETHYL ETHER”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints “Sulfur’s 3p orbitals” and the corresponding answer X) SULFUR’S 3P ORBITALS HAVE LESS OVERLAP FOR PI BONDING; the import double-escaped the apostrophe in the option and answer.",
+      "before": {
+        "question": "Which of the following correctly explains why oxygen exists in a double-bonded diatomic [dye-ah-TOM-ik] form whereas sulfur forms S8 chains?<br>W) Sulfur is too electropositive to form strong pi [pie] bonds<br>X) Sulfur&amp;apos;s 3p orbitals have less overlap for pi bonding<br>Y) Oxygen is paramagnetic whereas sulfur is diamagnetic [dye-ah-mag-NET-ik]<br>Z) Sulfur can expand its valence [VAY-lense] shell to hold more than eight electrons",
+        "options": [
+          "W) Sulfur is too electropositive to form strong pi [pie] bonds",
+          "X) Sulfur&amp;apos;s 3p orbitals have less overlap for pi bonding",
+          "Y) Oxygen is paramagnetic whereas sulfur is diamagnetic [dye-ah-mag-NET-ik]",
+          "Z) Sulfur can expand its valence [VAY-lense] shell to hold more than eight electrons"
+        ],
+        "answer": "X) SULFUR&amp;apos;S 3P ORBITALS HAVE LESS OVERLAP FOR PI BONDING"
+      },
+      "changes": {
+        "question": "Which of the following correctly explains why oxygen exists in a double-bonded diatomic [dye-ah-TOM-ik] form whereas sulfur forms S8 chains?<br>W) Sulfur is too electropositive to form strong pi [pie] bonds<br>X) Sulfur&apos;s 3p orbitals have less overlap for pi bonding<br>Y) Oxygen is paramagnetic whereas sulfur is diamagnetic [dye-ah-mag-NET-ik]<br>Z) Sulfur can expand its valence [VAY-lense] shell to hold more than eight electrons",
+        "options": [
+          "W) Sulfur is too electropositive to form strong pi [pie] bonds",
+          "X) Sulfur&apos;s 3p orbitals have less overlap for pi bonding",
+          "Y) Oxygen is paramagnetic whereas sulfur is diamagnetic [dye-ah-mag-NET-ik]",
+          "Z) Sulfur can expand its valence [VAY-lense] shell to hold more than eight electrons"
+        ],
+        "answer": "X) SULFUR&apos;S 3P ORBITALS HAVE LESS OVERLAP FOR PI BONDING",
+        "question_sanitized": "Which of the following correctly explains why oxygen exists in a double-bonded diatomic [dye-ah-TOM-ik] form whereas sulfur forms S8 chains? W) Sulfur is too electropositive to form strong pi [pie] bonds X) Sulfur’s 3p orbitals have less overlap for pi bonding Y) Oxygen is paramagnetic whereas sulfur is diamagnetic [dye-ah-mag-NET-ik] Z) Sulfur can expand its valence [VAY-lense] shell to hold more than eight electrons",
+        "answer_sanitized": "X) SULFUR’S 3P ORBITALS HAVE LESS OVERLAP FOR PI BONDING"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “What compound of uranium in the uranium fuel cycle is polyfluorinated [polly-FLOOR-in-ated] and gaseous?” and answer “UF6 (ACCEPT: URANIUM HEXAFLUORIDE, HEX)”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 prints “Hubble’s law” in the stem and W option; both imported prompt apostrophes are double-escaped. The full Y answer and all choices match.",
+      "before": {
+        "question": "A necessary conclusion of Hubble&amp;apos;s law is that very-distant galaxies are moving away from us at speeds faster than the speed of light. Which of the following correctly explains this observation?<br>W) Hubble&amp;apos;s law becomes non-linear for very large distances<br>X) The Hubble constant was originally miscalculated<br>Y) Due to the metric expansion of space, faraway objects can recede from us faster than the speed of light<br>Z) The proper distance to faraway galaxies does not scale linearly with the Hubble constant",
+        "options": [
+          "W) Hubble&amp;apos;s law becomes non-linear for very large distances",
+          "X) The Hubble constant was originally miscalculated",
+          "Y) Due to the metric expansion of space, faraway objects can recede from us faster than the speed of light",
+          "Z) The proper distance to faraway galaxies does not scale linearly with the Hubble constant"
+        ]
+      },
+      "changes": {
+        "question": "A necessary conclusion of Hubble&apos;s law is that very-distant galaxies are moving away from us at speeds faster than the speed of light. Which of the following correctly explains this observation?<br>W) Hubble&apos;s law becomes non-linear for very large distances<br>X) The Hubble constant was originally miscalculated<br>Y) Due to the metric expansion of space, faraway objects can recede from us faster than the speed of light<br>Z) The proper distance to faraway galaxies does not scale linearly with the Hubble constant",
+        "options": [
+          "W) Hubble&apos;s law becomes non-linear for very large distances",
+          "X) The Hubble constant was originally miscalculated",
+          "Y) Due to the metric expansion of space, faraway objects can recede from us faster than the speed of light",
+          "Z) The proper distance to faraway galaxies does not scale linearly with the Hubble constant"
+        ],
+        "question_sanitized": "A necessary conclusion of Hubble’s law is that very-distant galaxies are moving away from us at speeds faster than the speed of light. Which of the following correctly explains this observation? W) Hubble’s law becomes non-linear for very large distances X) The Hubble constant was originally miscalculated Y) Due to the metric expansion of space, faraway objects can recede from us faster than the speed of light Z) The proper distance to faraway galaxies does not scale linearly with the Hubble constant"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “How many vibrational degrees of freedom does a linear triatomic gas molecule possess?” and answer “FOUR”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “Identify all of the following three quantites in reaction kinetics that are dimensionless: 1) Rate constant; 2) Ste” and answer “2”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “What are the two main non-oxygen elements in coal combustion products that are responsible for acid rain?” and answer “NITROGEN AND SULFUR”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “What is the name of the principle that states that the lowest energy orbitals of an atom are filled before higher e” and answer “AUFBAU PRINCIPLE”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 prints the pronunciation cue immediately followed by the question mark: “[NEW-klee-eye]?” The imported part inserts a stray space before the question mark.",
+      "before": {
+        "parts": [
+          "Recent experiments regarding antimatter at the Relativistic Heavy Ion Collider determined that what fundamental force demonstrates no asymmetry within nuclei [NEW-klee-eye] ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Recent experiments regarding antimatter at the Relativistic Heavy Ion Collider determined that what fundamental force demonstrates no asymmetry within nuclei [NEW-klee-eye]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “If the sides of a triangle have lengths 5, 7, and 8, what is the cosine of the largest angle?” and answer “1/7”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “What do amoebas use in order to move around? W) Cilia [SILL-ee-ah] X) Flagella [Flah-JEL-ah] Y) Pseudopodia [soo-da” and answer “Y) PSEUDOPODIA”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 places [tetrah-BROH-mide] after “Iodine tetrabromide” and before “anion [AN-eye-on]”; the 1− charge is superscripted. Restore source order and charge formatting.",
+      "before": {
+        "parts": [
+          "Identify all of the following four species that have a square planar geometry: 1) Sulfur tetrafluoride [tetrah-FLOOR-ide] ; 2) Carbon tetrachloride [tetrah-KLOOR-ide] ; 3) Xenon [ZEE-non] tetrafluoride; 4) Iodine tetrabromide anion with a 1 – charge [tetrah-BROH-mide] [AN-eye-on]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following four species that have a square planar geometry: 1) Sulfur tetrafluoride [tetrah-FLOOR-ide]; 2) Carbon tetrachloride [tetrah-KLOOR-ide]; 3) Xenon [ZEE-non] tetrafluoride; 4) Iodine tetrabromide [tetrah-BROH-mide] anion [AN-eye-on] with a 1<sup>−</sup> charge."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following four species that have a square planar geometry: 1) Sulfur tetrafluoride [tetrah-FLOOR-ide]; 2) Carbon tetrachloride [tetrah-KLOOR-ide]; 3) Xenon [ZEE-non] tetrafluoride; 4) Iodine tetrabromide [tetrah-BROH-mide] anion [AN-eye-on] with a 1− charge."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Ground astronomy must be conducted in wavelengths of light that can pass through Earth’s atmosphere. Aside from vis” and answer “RADIO”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “What is the name of the analytic method in chemistry that uses the spin-flip transitions of nuclei to identify the ” and answer “NMR (ACCEPT: NUCLEAR MAGNETIC RESONANCE SPECTROSCOPY)”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 ends the question with “[CATH-ode]?” The imported part has a stray space before the question mark.",
+      "before": {
+        "parts": [
+          "Hydrogen fuel cells use a membrane to separate the electrodes and allow what particles to pass from the anode [ANN-ode] to the cathode [CATH-ode] ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Hydrogen fuel cells use a membrane to separate the electrodes and allow what particles to pass from the anode [ANN-ode] to the cathode [CATH-ode]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “A triangular right prism has each edge of length 10. To the nearest ten, what is its volume?” and answer “430”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “Biodiesel produces less particulates, carbon oxides, sulfur dioxide, and unburnt carbons than fossil-based diesel. ” and answer “NITROUS OXIDES (ACCEPT: NOX)”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “Which of the following pairs of terms referring to the life cycle of land plants is mismatched with the correct plo” and answer “Z) INTEGUMENT AND HAPLOID”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “How many zeros occur at the right of the number of permutations of 100 objects taken 80 at a time?” and answer “5”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “In a developing root, there are three regions: the region of cell division, the region of cell elongation, and the ” and answer “ROOT HAIRS”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Plutinos are Kuiper belt objects whose orbits are locked in a 3-to-2 resonance with what planet?” and answer “NEPTUNE”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Rounded to the nearest integer, what is the area of a circle of circumference 15?” and answer “18”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Protons and neutrons are made up of what two quarks?” and answer “UP AND DOWN”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Consider the heating of anhydrous [an-HIGH-drus] solid calcium carbonate to form gaseous CO 2 and solid calcium oxi” and answer “3”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints “[LIH-gund];” without a space before the semicolon. Remove the extraction space and preserve all three statements.",
+      "before": {
+        "parts": [
+          "Identify all of the following three statements that are TRUE concerning carbon monoxide: 1) It is a high-field ligand [LIH-gund] ; 2) It often forms complexes with neutral metal atoms; 3) It is a pi [pie] donor ligand."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three statements that are TRUE concerning carbon monoxide: 1) It is a high-field ligand [LIH-gund]; 2) It often forms complexes with neutral metal atoms; 3) It is a pi [pie] donor ligand."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “A square conducting loop that has sides of length 10 centimeters is pulled out of a 5-tesla magnetic field at 1 met” and answer “0.5”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “Cosmologists have recently reembraced the cosmological constant as a quantity in the Einstein field equations. Whic” and answer “W) VACUUM ENERGY”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “For an ideal gas, identify all of the following 3 properties that, when increased alone, would increase the mean fr” and answer “2”; checked the complete prompt, all choices where present, and answer against the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “Identify all of the following three changes that would shift the equilibrium of the Haber [HAH-bur] process to the ” and answer “1 ONLY”; checked the complete prompt, all choices where present, and answer against the page."
+    }
+  ],
+  "packetIssues": []
+}

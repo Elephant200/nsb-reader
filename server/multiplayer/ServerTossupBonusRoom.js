@@ -1,7 +1,6 @@
-import { EARLY_CORRECT_CELERITY_THRESHOLD } from './constants.js';
 import ServerMultiplayerRoomMixin from './ServerMultiplayerRoomMixin.js';
-import TossupBonusRoom from '../../quizbowl/TossupBonusRoom.js';
-import { QUESTION_TYPE_ENUM, TOSSUP_PROGRESS_ENUM } from '../../quizbowl/constants.js';
+import TossupBonusRoom from '../../shared/rooms/TossupBonusRoom.js';
+import { QUESTION_TYPE_ENUM, TOSSUP_PROGRESS_ENUM } from '../../shared/constants.js';
 
 export default class ServerTossupBonusRoom extends ServerMultiplayerRoomMixin(TossupBonusRoom) {
   constructor (name, ownerId, isPermanent, categoryManager, isVerified = false) {
@@ -26,29 +25,32 @@ export default class ServerTossupBonusRoom extends ServerMultiplayerRoomMixin(To
 
     if (Object.keys(this.tossup || {}).length === 0) { return; }
 
-    const { celerity, directive } = this.scoreTossup({ givenAnswer });
-
-    if (directive === 'accept' && celerity >= EARLY_CORRECT_CELERITY_THRESHOLD) {
-      const shouldKick = this.players[userId].recordEarlyCorrect();
-      if (shouldKick) {
-        console.log(`Bot detected: User ${userId} (${username}) got 3 correct with abnormally high celerity. Kicking.`);
-        this.sendToSocket(userId, { type: 'alert', message: 'You were removed for suspected bot behavior.' });
-        setTimeout(() => this.closeConnection({ userId, username }), 100);
-        return;
-      }
-    } else {
-      this.players[userId].resetBotDetectionCounter();
-    }
-
     super.giveTossupAnswer({ userId, username }, { givenAnswer });
   }
 
   next ({ userId, username }) {
+    if (!this.allowed(userId)) return false;
     if (
       this.currentQuestionType === QUESTION_TYPE_ENUM.TOSSUP &&
       this.tossupProgress === TOSSUP_PROGRESS_ENUM.READING &&
       this.wordIndex < 3
     ) { return false; }
-    super.next({ userId, username });
+    return super.next({ userId, username });
+  }
+
+  toggleCorrect ({ userId, username }, { targetUserId }) {
+    if (targetUserId !== this.previousTossup.userId || !this.players[targetUserId]) return;
+    if (this.currentQuestionType !== QUESTION_TYPE_ENUM.TOSSUP) { return; }
+    if (this.settings.public) { return; }
+    if (userId !== this.ownerId) { return; }
+    super.toggleCorrect({ userId, username }, { targetUserId });
+    this.bonusEligibleTeamId = this.previousTossup.isCorrect ? this.players[targetUserId].teamId : null;
+    this.emitMessage({ type: 'set-bonus-eligible-team-id', teamId: this.bonusEligibleTeamId });
+    if (this.previousTossup.isCorrect) {
+      clearTimeout(this.timeoutID);
+      clearInterval(this.timer.interval);
+      this.buzzedIn = null;
+      this.revealTossupAnswer();
+    }
   }
 }

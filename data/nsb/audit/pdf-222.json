@@ -1,0 +1,529 @@
+{
+  "packetIndex": 222,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd7.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer What line separates the dark and light hemisph”; source answer “TERMINATOR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Biology – Multiple Choice MRSA [mirsa] is an infection-causing bacteria. Wh”; source answer “Y) IT IS RESISTANT TO MANY ANTIBIOTICS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Math – Short Answer The end of a pendulum swings through an arc 12 feet lon”; source answer “8”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Chemistry – Multiple Choice Andrew has a 1-kilogram test weight that he pla”; source answer “Y) PRECISE, BUT NOT ACCURATE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Energy – Short Answer Researchers at Princeton Plasma Physics Lab are study”; source answer “ANGULAR MOMENTUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Physics – Short Answer According to Coulomb’s law, the electric force betwe”; source answer “NEGATIVE TWO”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Biology – Short Answer Antibodies are secreted forms of proteins similar in”; source answer “B CELL (ACCEPT: B LYMPHOCYTE)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Multiple Choice Which of the following best describes the s”; source answer “Z) MANY SPREADING RIDGES OFFSET BY TRANSFORM FAULTS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Short Answer Argonne National Lab scientists are developing materi”; source answer “ELECTRON”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Math – Short Answer A special coin has a 3/5 probability of landing on head”; source answer “18/125 (ACCEPT: 0.144, 14.4%)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Chemistry – Short Answer What is the point on a phase diagram that represen”; source answer “TRIPLE POINT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Physics – Short Answer A 12-volt battery with an internal resistance of one”; source answer “4”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Earth & Space – Multiple Choice A layer of sedimentary [sed-ih-MEN-taree] s”; source answer “W) RADIATION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source answer equation is x² + y² = 256; restored superscript 2 in both terms.",
+      "before": {
+        "answer": "x 2 + y 2 = 256"
+      },
+      "changes": {
+        "answer": "x<sup>2</sup> + y<sup>2</sup> = 256",
+        "answer_sanitized": "x² + y² = 256"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Energy – Short Answer Scientists at the National Renewable Energy Laborator”; source answer “ELECTRONS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Biology – Multiple Choice In which of the following environments would a pl”; source answer “Y) DRY AND ARID”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source says “sphere’s radius”; repaired the double-escaped apostrophe.",
+      "before": {
+        "question": "Two equal point charges are located inside a sphere with radius six meters. If the sphere&amp;apos;s radius is tripled, by what factor is the net electric flux through the sphere multiplied?"
+      },
+      "changes": {
+        "question": "Two equal point charges are located inside a sphere with radius six meters. If the sphere's radius is tripled, by what factor is the net electric flux through the sphere multiplied?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Chemistry – Multiple Choice Which of the following compounds contains bonds”; source answer “X) LITHIUM CHLORIDE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Short Answer What type of comet tail is formed by radiation”; source answer “DUST TAIL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Math – Short Answer The complex number 6 lies on the boundary between what ”; source answer “FIRST AND FOURTH (ACCEPT: ONE AND FOUR)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Biology – Multiple Choice Which of the following animals does not possess a”; source answer “W) SALAMANDER”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Physics – Multiple Choice A fully-charged capacitor is connected to a circu”; source answer “X) EXPONENTIALLY DECREASES TO ZERO”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Chemistry – Short Answer   Identify all of the following three solvents tha”; source answer “1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Multiple Choice Which of the following combinations of gase”; source answer “X) HYDROGEN, HELIUM, AND METHANE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Biology – Multiple Choice Which of the following percentages is the closest”; source answer “Z) 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Math – Short Answer What is the y-coordinate of the solution of the followi”; source answer “–17/29”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Chemistry – Short Answer Rank the following three diatomic molecules in ord”; source answer “3, 2, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Energy – Short Answer Researchers at Lawrence Berkeley National Lab are stu”; source answer “ALL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Physics – Short Answer A car is driving around a circular track with a radi”; source answer “10”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Biology – Short Answer You want to sequence eukaryotic mRNA by using a DNA ”; source answer “THYMINE (ACCEPT: T)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Multiple Choice A molecule of carbon dioxide in the atmosph”; source answer “W) DISSOLUTION INTO SEAWATER”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Short Answer Researchers at Princeton Plasma Physics Lab are study”; source answer “T TAURI STARS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Math – Short Answer Find the y-intercept of the line passing through the po”; source answer “59/3 (ACCEPT: 19 2/3)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Chemistry – Short Answer Assume that the pKa of ammonium ions is 10. The mo”; source answer “–2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Physics – Short Answer Identify all of the following three statements that ”; source answer “2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Earth & Space – Multiple Choice Half Dome in Yosemite National Park is an e”; source answer “X) SHEET JOINTING”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source third derivative is 12t⁴ + 7t³ − 10; restored superscripts 4 and 3 in the prompt.",
+      "before": {
+        "parts": [
+          "If the third derivative of a position function can be described by the function 12t 4 + 7t 3 – 10, what is the coefficient of the highest-order term in the position function?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the third derivative of a position function can be described by the function 12t<sup>4</sup> + 7t<sup>3</sup> – 10, what is the coefficient of the highest-order term in the position function?"
+        ],
+        "parts_sanitized": [
+          "If the third derivative of a position function can be described by the function 12t⁴ + 7t³ – 10, what is the coefficient of the highest-order term in the position function?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Energy – Short Answer Scientists at the Joint Genome Institute are studying”; source answer “BACTERIA (ACCEPT: EUBACTERIA; DO NOT ACCEPT: ARCHAEA)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source answer accepts sodium plus, Na⁺; restored superscript charge and removed the separated plus.",
+      "before": {
+        "answers": [
+          "SODIUM (ACCEPT: SODIUM ION, SODIUM PLUS, Na + )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "SODIUM (ACCEPT: SODIUM ION, SODIUM PLUS, Na<sup>+</sup>)"
+        ],
+        "answers_sanitized": [
+          "SODIUM (ACCEPT: SODIUM ION, SODIUM PLUS, Na⁺)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Physics – Short Answer A one-meter string is fixed at both ends, and a stan”; source answer “6”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Chemistry – Short Answer The specific heat of ice is half that of liquid wa”; source answer “1.3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Multiple Choice When William Herschel first observed Uranus”; source answer “X) ITS ORBIT HAD LOW ECCENTRICITY”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Math – Short Answer What is the cosine of the smallest angle in a triangle ”; source answer “49/55”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Biology – Short Answer Identify all of the following three substances that ”; source answer “ALL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source prints “fluid’s weight”; repaired the double-escaped apostrophe.",
+      "before": {
+        "parts": [
+          "Identify all of the following three statements that are always true of fluid pressure: 1) Pressure is linearly proportional to fluid depth; 2) Pressure originates due to the fluid&amp;apos;s weight; 3) In an enclosed incompressible fluid, an applied pressure is felt at all points in the fluid."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three statements that are always true of fluid pressure: 1) Pressure is linearly proportional to fluid depth; 2) Pressure originates due to the fluid's weight; 3) In an enclosed incompressible fluid, an applied pressure is felt at all points in the fluid."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source formulas are MgSO₄, BaSO₄, and Ba(OH)₂; restored all subscripts and grouped hydroxide.",
+      "before": {
+        "parts": [
+          "Rank the following three ionic compounds in order of increasing solubility in water: 1) MgSO ; 2) BaSO ; 3) Ba(OH) . 4 4 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Rank the following three ionic compounds in order of increasing solubility in water: 1) MgSO<sub>4</sub>; 2) BaSO<sub>4</sub>; 3) Ba(OH)<sub>2</sub>."
+        ],
+        "parts_sanitized": [
+          "Rank the following three ionic compounds in order of increasing solubility in water: 1) MgSO₄; 2) BaSO₄; 3) Ba(OH)₂."
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

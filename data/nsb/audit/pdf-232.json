@@ -1,0 +1,494 @@
+{
+  "packetIndex": 232,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd17.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2; restored the visibly printed chemical subscript, apostrophes, or answer superscript.",
+      "before": {
+        "question": "Using standard nomenclature rules, what is the name of the compound HClO ? 2"
+      },
+      "changes": {
+        "question": "Using standard nomenclature rules, what is the name of the compound HClO<sub>2</sub>?",
+        "question_sanitized": "Using standard nomenclature rules, what is the name of the compound HClO2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7; restored the visibly printed chemical subscript, apostrophes, or answer superscript.",
+      "before": {
+        "question": "Particles from the solar wind experience a deflection when they enter the Earth&amp;apos;s magnetosphere [mag-NEE-toh-sfeer], with a force that is perpendicular to both the particle&amp;apos;s velocity and the magnetic field, and whose magnitude is directly proportional to both. What is the term for this force?"
+      },
+      "changes": {
+        "question": "Particles from the solar wind experience a deflection when they enter the Earth's magnetosphere [mag-NEE-toh-sfeer], with a force that is perpendicular to both the particle's velocity and the magnetic field, and whose magnitude is directly proportional to both. What is the term for this force?",
+        "question_sanitized": "Particles from the solar wind experience a deflection when they enter the Earth's magnetosphere [mag-NEE-toh-sfeer], with a force that is perpendicular to both the particle's velocity and the magnetic field, and whose magnitude is directly proportional to both. What is the term for this force?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 12; restored the visibly printed chemical subscript, apostrophes, or answer superscript.",
+      "before": {
+        "answers": [
+          "4e 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "4e<sup>2</sup>"
+        ],
+        "answers_sanitized": [
+          "4e^2"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,553 @@
+{
+  "packetIndex": 191,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 shows the heating-curve question, four entropy/enthalpy/bond choices, and key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks fish-heart chambers and keys 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 500 V total and 100 mV per cell; answer 5000 cells."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 identifies neutrino flavors and prints the answer including the source’s “ELECTON” spelling and accepted TAUON form."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists polar-coordinate angles 113, 157, 293, 337 for (−5,12); key W is 113."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives 220 N and 1 cm spring compression; answer 1.1 J."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints antiderivative choices with x²/x³/x⁴ powers; key W is −24x².",
+      "before": {
+        "question": "With respect to x, which of the following has –8x 3 as an antiderivative?<br>W) –24x 2<br>X) 24x 2<br>Y) –2x 4<br>Z) 2x 4",
+        "options": [
+          "W) –24x 2",
+          "X) 24x 2",
+          "Y) –2x 4",
+          "Z) 2x 4"
+        ],
+        "answer": "W) –24x 2"
+      },
+      "changes": {
+        "question": "With respect to x, which of the following has –8x<sup>3</sup> as an antiderivative?<br>W) –24x<sup>2</sup><br>X) 24x<sup>2</sup><br>Y) –2x<sup>4</sup><br>Z) 2x<sup>4</sup>",
+        "question_sanitized": "With respect to x, which of the following has –8x^3 as an antiderivative? W) –24x^2; X) 24x^2; Y) –2x^4; Z) 2x^4",
+        "options": [
+          "W) –24x<sup>2</sup>",
+          "X) 24x<sup>2</sup>",
+          "Y) –2x<sup>4</sup>",
+          "Z) 2x<sup>4</sup>"
+        ],
+        "answer": "W) –24x<sup>2</sup>",
+        "answer_sanitized": "W) –24x^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists springwood, sapwood, summer wood, heartwood; key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks the property of copper-oxide materials; answer superconductivity with high-temperature alternative."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints the Milankovich cue and Earth’s axis option; Sunspot cycle key Y. Joined the line-wrapped cue and repaired the extracted apostrophe entity.",
+      "before": {
+        "question": "Which of these is not an example of a Milankovich [mil-AYN- koh-vitch] cycle?<br>W) Shifting tilt of the Earth&amp;apos;s axis<br>X) Axial \"wobble\"<br>Y) Sunspot cycle<br>Z) Change in shape of orbit",
+        "options": [
+          "W) Shifting tilt of the Earth&amp;apos;s axis",
+          "X) Axial \"wobble\"",
+          "Y) Sunspot cycle",
+          "Z) Change in shape of orbit"
+        ]
+      },
+      "changes": {
+        "question": "Which of these is not an example of a Milankovich [mil-AYN-koh-vitch] cycle?<br>W) Shifting tilt of the Earth’s axis<br>X) Axial \"wobble\"<br>Y) Sunspot cycle<br>Z) Change in shape of orbit",
+        "question_sanitized": "Which of these is not an example of a Milankovich [mil-AYN-koh-vitch] cycle? W) Shifting tilt of the Earth's axis; X) Axial \"wobble\"; Y) Sunspot cycle; Z) Change in shape of orbit",
+        "options": [
+          "W) Shifting tilt of the Earth’s axis",
+          "X) Axial \"wobble\"",
+          "Y) Sunspot cycle",
+          "Z) Change in shape of orbit"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks for tert-butyl chloride’s systematic name and its pronunciation cue; answer 2-chloro-2-methylpropane."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives the three-flavor coin probabilities and asks HTT; answer 4/27."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists steam/liquid-water temperature options; key Z remains constant."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 8 asks the nickel-containing battery type replacing NiCd; answer nickel-metal hydride."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks oxygen mass from electrolysis of one mole water; answer 16 grams."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 9 lists cerebellum, amygdala, medulla oblongata, thalamus and cues; key Y."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks solubility change when pressure doubled with nitrogen; answer ONE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 10 prints logs base 4 of 64 and base 5 of 125; answer 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks Hubble classification of a spherical elliptical galaxy; answer E-ZERO."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 11 names the flatworm phylum with pronunciation; answer Platyhelminthes and cue."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks carbon-signal count in ethyl isobutyl ether with 13C NMR; answer 5. Source prints 13C at baseline."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists mosses, ferns, gymnosperms with pronunciation cues; answer 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives expansion from 5 to 10 liters at 2.5 bars; answer 1,250 joules."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 describes perovskite films’ electrical polarization; answer ferroelectricity."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints fraction (1−4i)/(3+i) and answer −1/10−(13/10)i with decimal acceptance."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints GEOMAGNETIC FIELD and the accepted alternative EARTH'S MAGNETIC FIELD; normalized the extracted double-escaped apostrophe in the answer.",
+      "before": {
+        "answers": [
+          "GEOMAGNETIC FIELD (ACCEPT: EARTH&amp;apos;S MAGNETIC FIELD)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "GEOMAGNETIC FIELD (ACCEPT: EARTH'S MAGNETIC FIELD)"
+        ],
+        "answers_sanitized": [
+          "GEOMAGNETIC FIELD (ACCEPT: EARTH'S MAGNETIC FIELD)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks how resonant frequency changes for 4× turns; answer 1/4. Repaired extraction typo “muliplied.”",
+      "before": {
+        "parts": [
+          "By what factor is the resonant frequency of an LC circuit muliplied if the inductor is replaced by one with 4 times as many turns?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "By what factor is the resonant frequency of an LC circuit multiplied if the inductor is replaced by one with 4 times as many turns?"
+        ],
+        "parts_sanitized": [
+          "By what factor is the resonant frequency of an LC circuit multiplied if the inductor is replaced by one with 4 times as many turns?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives point (−8,−15), asks sine and tangent; fractions and mixed-number acceptance match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists four stomata statements and cues; key X."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints four NOvA neutrino travel options; key Y."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists binary-star statements and spectroscopic cue; answer 2 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists ammonium chloride, silver bromide, lead(II) sulfate; answer 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives square perimeter difference 16, area difference 92; answer 54."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists four index-fossil properties; answer X."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks escape speed with 100× Earth density; answer 10 times. Repaired extracted apostrophe entities.",
+      "before": {
+        "parts": [
+          "How many times as fast would a rocket need to travel to escape Earth&amp;apos;s gravitational field if Earth&amp;apos;s average density were multiplied by a factor of 100?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many times as fast would a rocket need to travel to escape Earth’s gravitational field if Earth’s average density were multiplied by a factor of 100?"
+        ],
+        "parts_sanitized": [
+          "How many times as fast would a rocket need to travel to escape Earth's gravitational field if Earth's average density were multiplied by a factor of 100?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 requests energy in joules for a 10 GeV neutrino; answer 1.6×10⁻⁹.",
+      "before": {
+        "answers": [
+          "1.6 × 10 –9"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1.6 × 10<sup>−9</sup>"
+        ],
+        "answers_sanitized": [
+          "1.6 × 10^-9"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists kinetic-molecular gas statements; answer 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks bacterial DNA transfer process; answer conjugation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 ranks C–S, C–H, S–H bond lengths; answer 2, 3, 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks number of octants intersected by z=2−x; answer 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 includes Titius-Bode cue; answer Neptune."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists recessive diseases with cues; answer 1 AND 3. Restored apostrophe entity in Huntington’s.",
+      "before": {
+        "parts": [
+          "Identify all of the following three diseases that are genetically recessive: 1) Cystic fibrosis; 2) Huntington&amp;apos;s chorea [kah-REE-ah]; 3) Albinism [AL-beh-nih-zim]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three diseases that are genetically recessive: 1) Cystic fibrosis; 2) Huntington’s chorea [kah-REE-ah]; 3) Albinism [AL-beh-nih-zim]."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three diseases that are genetically recessive: 1) Cystic fibrosis; 2) Huntington's chorea [kah-REE-ah]; 3) Albinism [AL-beh-nih-zim]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists photon, electron, up quark with fermion cue; answer 2 AND 3."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "source-typo",
+      "itemIndex": 3,
+      "number": 4,
+      "sourcePages": [
+        2
+      ],
+      "evidence": "The printed answer’s accepted alternative spells the electron flavor “ELECTON” (missing r), while its primary answer spells “ELECTRON.” The corpus preserves the source as printed."
+    }
+  ]
+}

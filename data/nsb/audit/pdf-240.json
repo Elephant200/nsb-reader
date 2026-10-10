@@ -1,0 +1,380 @@
+{
+  "packetIndex": 240,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-8-HS-2021.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints the catalytic-converter reaction and keys delta G negative/delta S positive, including the accepted order; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 states the point (natural log of 2, e), expression e to the x times natural log of y, and key 2; matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 gives mass and radius twice Earth’s and keys 4.9 m/s² (49/10, 4 9/10 accepted); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 retains [KYE-loh-microns] and keys FATS (accept: LIPIDS); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks for the catalyst-reduced reaction-coordinate value and gives ACTIVATION ENERGY (accept: DELTA G DOUBLE DAGGER); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 retains [SIN-yoo-us], all four rille-origin choices, and key Z) Lava flows; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 includes the LCLS question, four full X-ray production choices, and key Z) electrons accelerated in a vacuum producing in-phase photons; matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks for the largest n where 5^n divides 21 factorial and keys 4; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists all four frequency/intensity relationships for photoelectric kinetic energy; key Z) linear with frequency, independent of intensity, matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists the four founder-effect outcomes and keys W) loss of genetic variability; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 (checked at 300 dpi) prints W) Alkyl, X) Alkenyl, Y) Carbonyl, Z) Aryl with their pronunciation cues; key Y) Carbonyl carbon matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks for the two spring-tide phases and gives NEW, FULL with the moon-name alternatives accepted in any order; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 asks for the most common collagen amino acid and gives GLYCINE (accept: GLY, G); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 lists isosceles triangle, parallelogram, and kite for turn symmetry; key 2 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 retains Hooke’s Law and keys ELASTIC LIMIT with yield point/strength/stress alternatives; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 prints H3K9me3 in baseline digits and keys HISTONE (accept: HISTONE H3); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists sublevels 3s, 3d, 4p, 4d around 4s; key X) 3d matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 lists maritime tropical, continental tropical, maritime polar, and continental polar air masses; key Z) Continental polar matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 retains GABA-B [GAB-ah bee], all three receptor statements, and key 1, 3; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks for (4 + 5i) cubed and prints answer −236 + 115i; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 states 50% of light speed and two second-hand revolutions, with answer 2.3 minutes; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists V-max, Michaelis constant, and enzyme-substrate complex structure for competitive inhibition; key 2 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 visibly prints the straight-chain structural-isomer question with C₆H₁₂; corpus had separated formula digits after the word possess.",
+      "before": {
+        "parts": [
+          "How many straight-chain structural isomers does C H possess? 6 12"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many straight-chain structural isomers does C<sub>6</sub>H<sub>12</sub> possess?"
+        ],
+        "parts_sanitized": [
+          "How many straight-chain structural isomers does C6H12 possess?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 states naked-eye magnitude 6 and telescope diameter 1000 times larger; key 21 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 retains CUORE [kyoo-OR-ay] and the beta-decay question; NEUTRINO and all three accepted alternatives match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 gives triangle ABC with integral angles and A = 12B; key 13 possible C measures matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 gives hydrogen ionization energy 13.6 eV and transition N = 2 to N = 1; key 10 eV matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists ethylene, auxins, and gibberellins [jib-er-ELL-ins] with the full note “yes, ethylene really is a correct answer”; key ALL matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 retains [NO-nayn] for nonane and lists hexane and propane; increasing-formation key 1, 2, 3 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists layered gabbro, pillow lavas, and sheeted dikes from deepest to shallowest; key 1, 3, 2 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 retains DIII-D [D3D] and tokamak [TOH-kah-mak]; NUCLEAR FUSION (accept: FUSION) matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 asks for sine of 2 using the first three nonzero Taylor terms centered at 0; key 14/15 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 gives 100:300 transformer turns, 50 V primary, 40 ohm load and keys 562.5 W with both accepted forms; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists all four mollusk body-plan choices; key Z) Shell matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 gives free-energy change negative 5 kJ/mol at 300 K and keys equilibrium constant 7.4; matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 lists all four geologic settings; key W) limestone deposited on top of shale matches."
+    }
+  ],
+  "packetIssues": []
+}

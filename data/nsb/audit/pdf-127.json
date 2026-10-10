@@ -1,0 +1,649 @@
+{
+  "packetIndex": 127,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-14-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 wording, all four choices, and answer Z) Clear, granular carbonate match the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 plant-hormone wording, three pronunciation cues, options, and answer W) AUXINS match the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 tip amounts, four numeric choices, and answer Z) 10 match the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 dielectric-constant question, pronunciation cue, and full accepted answer match the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 hydrofluoric-acid equilibrium wording, cue, options, and answer Y) AMMONIA match the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 gives redshift z = 6, laboratory wavelength 1216 angstroms, and answer 7300; these source values match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 logical statement, three numbered conclusions, and answer 2 ONLY with accepted text match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 solid-cylinder wording and answer 15 match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 negative-feedback question, four choices including the phosphofructokinase cue, and answer Z) match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 zero-order question, all four options, and answer W) ZERO ORDER match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 circle/square question and answer EIGHT match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 principle-quantum-number question and answer 1 match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 metamorphic-rock question, pronunciation cues, all choices, and answer Y) HORNFELS match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 waxes question, all four choices, and answer X) match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 fuel-cell choices and answer X) POLYMER ELECTROLYTE MEMBRANE match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 dolostone-weathering wording, all options, and answer W) match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 binary-digit question and answer 1023 match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 pinealocytes cue and answer MELATONIN match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 hydrogenation question and answer match; PDF cue reads [AL-kayns] without the extraction space.",
+      "before": {
+        "question": "What type of reduction reaction generally employs a metal such as ruthenium, platinum, nickel, or palladium as a catalyst, and is used to transform alkenes [AL- kayns] to alkanes in a chamber pressurized with hydrogen gas?"
+      },
+      "changes": {
+        "question": "What type of reduction reaction generally employs a metal such as ruthenium, platinum, nickel, or palladium as a catalyst, and is used to transform alkenes [AL-kayns] to alkanes in a chamber pressurized with hydrogen gas?",
+        "question_sanitized": "What type of reduction reaction generally employs a metal such as ruthenium, platinum, nickel, or palladium as a catalyst, and is used to transform alkenes [AL-kayns] to alkanes in a chamber pressurized with hydrogen gas?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints superscript exponents in each half-life range and answer W; corpus flattened exponent positions.",
+      "before": {
+        "question": "Unstable particles muons [MYOO-ons], pions [PY-ons], kaons, and sigmas have half-life times in the range of which of the following?<br>W) 10 -6 to 10 -23 seconds<br>X) 10 -1 to 10 -3 seconds<br>Y) 10 to 1 seconds<br>Z) 10 -1 to 10 -8 seconds",
+        "options": [
+          "W) 10 -6 to 10 -23 seconds",
+          "X) 10 -1 to 10 -3 seconds",
+          "Y) 10 to 1 seconds",
+          "Z) 10 -1 to 10 -8 seconds"
+        ],
+        "answer": "W) 10 -6 TO 10 -23 SECONDS"
+      },
+      "changes": {
+        "question": "Unstable particles muons [MYOO-ons], pions [PY-ons], kaons, and sigmas have half-life times in the range of which of the following?<br>W) 10<sup>−6</sup> to 10<sup>−23</sup> seconds<br>X) 10<sup>−1</sup> to 10<sup>−3</sup> seconds<br>Y) 10 to 1 seconds<br>Z) 10<sup>−1</sup> to 10<sup>−8</sup> seconds",
+        "options": [
+          "W) 10<sup>−6</sup> to 10<sup>−23</sup> seconds",
+          "X) 10<sup>−1</sup> to 10<sup>−3</sup> seconds",
+          "Y) 10 to 1 seconds",
+          "Z) 10<sup>−1</sup> to 10<sup>−8</sup> seconds"
+        ],
+        "answer": "W) 10<sup>−6</sup> TO 10<sup>−23</sup> SECONDS",
+        "question_sanitized": "Unstable particles muons [MYOO-ons], pions [PY-ons], kaons, and sigmas have half-life times in the range of which of the following? W) 10^(-6) to 10^(-23) seconds X) 10^(-1) to 10^(-3) seconds Y) 10 to 1 seconds Z) 10^(-1) to 10^(-8) seconds",
+        "answer_sanitized": "W) 10^(-6) TO 10^(-23) SECONDS"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints 10 with a raised exponent 10, followed by (ACCEPT: 10 BILLION).",
+      "before": {
+        "answers": [
+          "10 10 (ACCEPT: 10 BILLION)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "10<sup>10</sup> (ACCEPT: 10 BILLION)"
+        ],
+        "answers_sanitized": [
+          "10^10 (ACCEPT: 10 BILLION)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 all four photolysis options and answer Y) match the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 remainder question and answer 423 match the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 corn-ethanol question, four ratio options, and answer Z) +1.3 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints 60°; corpus has the letter o after 60.",
+      "before": {
+        "parts": [
+          "A cord making a 60 o angle with the floor pulls on a crate with a tension of 100 newtons along a 10 meter distance. How much work, in joules, is done on the crate by the pulling cord?<br>W) 0<br>X) 50<br>Y) 500<br>Z) 5000"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A cord making a 60° angle with the floor pulls on a crate with a tension of 100 newtons along a 10 meter distance. How much work, in joules, is done on the crate by the pulling cord?<br>W) 0<br>X) 50<br>Y) 500<br>Z) 5000"
+        ],
+        "parts_sanitized": [
+          "A cord making a 60 degree angle with the floor pulls on a crate with a tension of 100 newtons along a 10 meter distance. How much work, in joules, is done on the crate by the pulling cord? W) 0 X) 50 Y) 500 Z) 5000"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints NaF, CH₄, F₂, Ca and answer F₂, CH₄, Ca, NaF; corpus lost subscripts and misplaced digits.",
+      "before": {
+        "parts": [
+          "Place the following four molecules in order from lowest to highest melting point: 1) NaF, 2) CH 3) F 4) Ca. 4, 2,"
+        ],
+        "answers": [
+          "F<sub>2</sub> , CH<sub>4</sub> , Ca, NaF (ACCEPT: 3, 2, 4, 1)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Place the following four molecules in order from lowest to highest melting point: 1) NaF, 2) CH₄, 3) F₂, 4) Ca."
+        ],
+        "answers": [
+          "F₂, CH₄, Ca, NaF (ACCEPT: 3, 2, 4, 1)"
+        ],
+        "parts_sanitized": [
+          "Place the following four molecules in order from lowest to highest melting point: 1) NaF, 2) CH4, 3) F2, 4) Ca."
+        ],
+        "answers_sanitized": [
+          "F2, CH4, Ca, NaF (ACCEPT: 3, 2, 4, 1)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints CO₃²⁻ in choice Y and the answer, with ordinary apostrophes in Dolostone's and limestone's; corpus lost formula grouping and entity-escaped apostrophes.",
+      "before": {
+        "parts": [
+          "Which of the following statements about limestone and dolostone is true?<br>W) The primary cation [KAT-eye-uhn] present in dolostone is magnesium, while in limestone, it is calcium<br>X) Both limestone and dolostone have high solubility in HCL, making them difficult to distinguish in the field<br>Y) Dolostone&amp;apos;s primary mineral compound has two CO 32- anions while limestone&amp;apos;s primary mineral compound has only one CO 32- anion<br>Z) Unlike limestone, which is composed primarily of the mineral calcite, dolostone is considered both a rock and a mineral"
+        ],
+        "options": [
+          "W) The primary cation [KAT-eye-uhn] present in dolostone is magnesium, while in limestone, it is calcium",
+          "X) Both limestone and dolostone have high solubility in HCL, making them difficult to distinguish in the field",
+          "Y) Dolostone&amp;apos;s primary mineral compound has two CO 32- anions while limestone&amp;apos;s primary mineral compound has only one CO 32- anion",
+          "Z) Unlike limestone, which is composed primarily of the mineral calcite, dolostone is considered both a rock and a mineral"
+        ],
+        "answers": [
+          "Y) DOLOSTONE&amp;apos;S PRIMARY MINERAL COMPOUND HAS TWO CO 32- ANIONS WHILE LIMESTONE&amp;apos;S PRIMARY MINERAL COMPOUND HAS ONLY ONE CO 32- ANION"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following statements about limestone and dolostone is true?<br>W) The primary cation [KAT-eye-uhn] present in dolostone is magnesium, while in limestone, it is calcium<br>X) Both limestone and dolostone have high solubility in HCL, making them difficult to distinguish in the field<br>Y) Dolostone's primary mineral compound has two CO<sub>3</sub><sup>2−</sup> anions while limestone's primary mineral compound has only one CO<sub>3</sub><sup>2−</sup> anion<br>Z) Unlike limestone, which is composed primarily of the mineral calcite, dolostone is considered both a rock and a mineral"
+        ],
+        "options": [
+          "W) The primary cation [KAT-eye-uhn] present in dolostone is magnesium, while in limestone, it is calcium",
+          "X) Both limestone and dolostone have high solubility in HCL, making them difficult to distinguish in the field",
+          "Y) Dolostone's primary mineral compound has two CO<sub>3</sub><sup>2−</sup> anions while limestone's primary mineral compound has only one CO<sub>3</sub><sup>2−</sup> anion",
+          "Z) Unlike limestone, which is composed primarily of the mineral calcite, dolostone is considered both a rock and a mineral"
+        ],
+        "answers": [
+          "Y) DOLOSTONE'S PRIMARY MINERAL COMPOUND HAS TWO CO<sub>3</sub><sup>2−</sup> ANIONS WHILE LIMESTONE'S PRIMARY MINERAL COMPOUND HAS ONLY ONE CO<sub>3</sub><sup>2−</sup> ANION"
+        ],
+        "parts_sanitized": [
+          "Which of the following statements about limestone and dolostone is true? W) The primary cation [KAT-eye-uhn] present in dolostone is magnesium, while in limestone, it is calcium X) Both limestone and dolostone have high solubility in HCL, making them difficult to distinguish in the field Y) Dolostone's primary mineral compound has two CO₃²⁻ anions while limestone's primary mineral compound has only one CO₃²⁻ anion Z) Unlike limestone, which is composed primarily of the mineral calcite, dolostone is considered both a rock and a mineral"
+        ],
+        "answers_sanitized": [
+          "Y) DOLOSTONE'S PRIMARY MINERAL COMPOUND HAS TWO CO₃²⁻ ANIONS WHILE LIMESTONE'S PRIMARY MINERAL COMPOUND HAS ONLY ONE CO₃²⁻ ANION"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full prompt and accepted ANSWER text against PDF page 4; both print today's with an ordinary apostrophe, not a double-escaped entity.",
+      "before": {
+        "parts": [
+          "Indicate all of the following three statements that are true of biodiesel: 1) Biodiesel has better lubricating properties and much higher cetane [SEE-tayn] ratings than today&amp;apos;s lower sulfur diesel fuels; 2) Animal fats, algae, and soybean oil are all used to produce biofuels; 3) A biodiesel blend with 80% petroleum diesel is labeled B80."
+        ],
+        "answers": [
+          "1 AND 2 (ACCEPT: BIODIESEL HAS BETTER LUBRICATING PROPERTIES AND MUCH HIGHER CETANE RATINGS THAN TODAY&amp;apos;S LOWER SULFUR DIESEL FUELS AND ANIMAL FATS, ALGAE, AND SOYBEAN OIL ARE ALL USED TO PRODUCE BIOFUELS)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Indicate all of the following three statements that are true of biodiesel: 1) Biodiesel has better lubricating properties and much higher cetane [SEE-tayn] ratings than today's lower sulfur diesel fuels; 2) Animal fats, algae, and soybean oil are all used to produce biofuels; 3) A biodiesel blend with 80% petroleum diesel is labeled B80."
+        ],
+        "parts_sanitized": [
+          "Indicate all of the following three statements that are true of biodiesel: 1) Biodiesel has better lubricating properties and much higher cetane [SEE-tayn] ratings than today's lower sulfur diesel fuels; 2) Animal fats, algae, and soybean oil are all used to produce biofuels; 3) A biodiesel blend with 80% petroleum diesel is labeled B80."
+        ],
+        "answers": [
+          "1 AND 2 (ACCEPT: BIODIESEL HAS BETTER LUBRICATING PROPERTIES AND MUCH HIGHER CETANE RATINGS THAN TODAY'S LOWER SULFUR DIESEL FUELS AND ANIMAL FATS, ALGAE, AND SOYBEAN OIL ARE ALL USED TO PRODUCE BIOFUELS)"
+        ],
+        "answers_sanitized": [
+          "1 AND 2 (ACCEPT: BIODIESEL HAS BETTER LUBRICATING PROPERTIES AND MUCH HIGHER CETANE RATINGS THAN TODAY'S LOWER SULFUR DIESEL FUELS AND ANIMAL FATS, ALGAE, AND SOYBEAN OIL ARE ALL USED TO PRODUCE BIOFUELS)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 stamp-collection question and answer 301 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints buoyant force 19.6 x 10³ and volume choices with m³/cm³; corpus separated the exponent and unit powers.",
+      "before": {
+        "parts": [
+          "If an object immersed in water experiences a buoyant force of 19.6 x 10 3 newtons, assuming that the density of water is 1000 kilograms per meter cubed, what is the immersed volume of the object?<br>W) 2.0 m 3<br>X) 1.0 m 3<br>Y) 2.0 cm 3<br>Z) 1.0 cm 3"
+        ],
+        "options": [
+          "W) 2.0 m 3",
+          "X) 1.0 m 3",
+          "Y) 2.0 cm 3",
+          "Z) 1.0 cm 3"
+        ],
+        "answers": [
+          "W) 2.0 m 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If an object immersed in water experiences a buoyant force of 19.6 x 10<sup>3</sup> newtons, assuming that the density of water is 1000 kilograms per meter cubed, what is the immersed volume of the object?<br>W) 2.0 m<sup>3</sup><br>X) 1.0 m<sup>3</sup><br>Y) 2.0 cm<sup>3</sup><br>Z) 1.0 cm<sup>3</sup>"
+        ],
+        "options": [
+          "W) 2.0 m<sup>3</sup>",
+          "X) 1.0 m<sup>3</sup>",
+          "Y) 2.0 cm<sup>3</sup>",
+          "Z) 1.0 cm<sup>3</sup>"
+        ],
+        "answers": [
+          "W) 2.0 m<sup>3</sup>"
+        ],
+        "parts_sanitized": [
+          "If an object immersed in water experiences a buoyant force of 19.6 x 10^3 newtons, assuming that the density of water is 1000 kilograms per meter cubed, what is the immersed volume of the object? W) 2.0 m^3 X) 1.0 m^3 Y) 2.0 cm^3 Z) 1.0 cm^3"
+        ],
+        "answers_sanitized": [
+          "W) 2.0 m^3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 identifies growth hormone, prolactin, cortisol, and epinephrine and gives answer 1 AND 2 with the accepted text shown in the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints N₂⁺ and answer 2.5; source has no space after the comma in 'figures,determine'.",
+      "before": {
+        "parts": [
+          "Providing your unitless answer to two significant figures,determine the bond order of N 2+ ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your unitless answer to two significant figures,determine the bond order of N₂⁺."
+        ],
+        "parts_sanitized": [
+          "Providing your unitless answer to two significant figures,determine the bond order of N2+."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 divisibility question and answer 30 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 motional-emf wording, all four options, and answer Y) 100.0, FAR match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 ocean-floor magnetization options and answer X) match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 freezing-point order question, listed salts, answer and accepted text match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 second-messenger list, pronunciation cues, and answer 1 AND 2 with accepted text match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 luminol/luciferin question and answer CHEMILUMINESCENCE match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 four stacked formula choices and ANSWER Y) with a stacked sin(2x)/4 fraction; corpus contains only read-as cues.",
+      "before": {
+        "parts": [
+          "Which of the following is not an antiderivative for [ sine of x times cosine of x]?<br>W) [one-half sine squared of x]<br>X) [negative one-half cosine squared of x]<br>Y) [one-fourth sine of two x]<br>Z) [negative one-fourth cosine of two x]"
+        ],
+        "options": [
+          "W) [one-half sine squared of x]",
+          "X) [negative one-half cosine squared of x]",
+          "Y) [one-fourth sine of two x]",
+          "Z) [negative one-fourth cosine of two x]"
+        ],
+        "answers": [
+          "Y)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is not an antiderivative for sin x cos x [sine of x times cosine of x]?<br>W) <span class=\"nsb-fraction\"><span>sin<sup>2</sup> x</span><span>2</span></span> [one-half sine squared of x]<br>X) −<span class=\"nsb-fraction\"><span>cos<sup>2</sup> x</span><span>2</span></span> [negative one-half cosine squared of x]<br>Y) <span class=\"nsb-fraction\"><span>sin 2x</span><span>4</span></span> [one-fourth sine of two x]<br>Z) −<span class=\"nsb-fraction\"><span>cos 2x</span><span>4</span></span> [negative one-fourth cosine of two x]"
+        ],
+        "options": [
+          "W) <span class=\"nsb-fraction\"><span>sin<sup>2</sup> x</span><span>2</span></span> [one-half sine squared of x]",
+          "X) −<span class=\"nsb-fraction\"><span>cos<sup>2</sup> x</span><span>2</span></span> [negative one-half cosine squared of x]",
+          "Y) <span class=\"nsb-fraction\"><span>sin 2x</span><span>4</span></span> [one-fourth sine of two x]",
+          "Z) −<span class=\"nsb-fraction\"><span>cos 2x</span><span>4</span></span> [negative one-fourth cosine of two x]"
+        ],
+        "answers": [
+          "Y) <span class=\"nsb-fraction\"><span>sin 2x</span><span>4</span></span>"
+        ],
+        "parts_sanitized": [
+          "Which of the following is not an antiderivative for sin(x) cos(x) [sine of x times cosine of x]? W) (sin^2 x)/2 [one-half sine squared of x] X) -(cos^2 x)/2 [negative one-half cosine squared of x] Y) (sin 2x)/4 [one-fourth sine of two x] Z) -(cos 2x)/4 [negative one-fourth cosine of two x]"
+        ],
+        "answers_sanitized": [
+          "Y) (sin 2x)/4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 rabbit/snake question, options, and answer X) match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 copper-silver question and answer match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 spectroscopy question and answer ZEEMAN EFFECT match corpus."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        4
+      ],
+      "question": "Toss-up 7",
+      "issue": "The PDF states redshift z = 6 and gives the Lyman-alpha laboratory wavelength as 1216 angstroms, but its answer is 7300 angstroms. Using the redshift relation λobserved = (1 + z)λlaboratory gives 8512 angstroms (about 8500 to two significant figures). The printed answer 7300 appears to use z × 1216 instead of (1 + z) × 1216."
+    }
+  ]
+}

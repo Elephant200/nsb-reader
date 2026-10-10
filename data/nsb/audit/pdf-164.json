@@ -1,0 +1,444 @@
+{
+  "packetIndex": 164,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/17A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete prompt/options and answer ‘Y) 40’ match the printed Physics – Multiple Choice Taking the acceleration due to gravity to be 10 meters per section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete prompt/options and answer ‘Z) TURBINE’ match the printed Energy – Multiple Choice Which of the following would not be considered a balance-of- section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source uses superscript ionic charges Na⁺, K⁺, Rb⁺, Mg²⁺, and Ca²⁺ in the prompt, every option, and answer Z; all four option labels retained and synchronized.",
+      "before": {
+        "question": "Which of the following ions is most similar in ionic radius to the cation Na+?<br>W) K+<br>X) Rb+<br>Y) Mg2+<br>Z) Ca2+",
+        "options": [
+          "W) K+",
+          "X) Rb+",
+          "Y) Mg2+",
+          "Z) Ca2+"
+        ],
+        "answer": "Z) Ca2+"
+      },
+      "changes": {
+        "question": "Which of the following ions is most similar in ionic radius to the cation Na<sup>+</sup>?<br>W) K<sup>+</sup><br>X) Rb<sup>+</sup><br>Y) Mg<sup>2+</sup><br>Z) Ca<sup>2+</sup>",
+        "question_sanitized": "Which of the following ions is most similar in ionic radius to the cation Na⁺?\nW) K⁺\nX) Rb⁺\nY) Mg²⁺\nZ) Ca²⁺",
+        "options": [
+          "W) K<sup>+</sup>",
+          "X) Rb<sup>+</sup>",
+          "Y) Mg<sup>2+</sup>",
+          "Z) Ca<sup>2+</sup>"
+        ],
+        "answer": "Z) Ca<sup>2+</sup>",
+        "answer_sanitized": "Z) Ca²⁺"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete prompt/options and answer ‘Y) 1’ match the printed Math – Multiple Choice Which of the following describes the solutions for the equation section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete prompt/options and answer ‘W) 3’ match the printed Physics – Multiple Choice A disc originally at rest moves through 6 radians as it undergoe section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete prompt/options and answer ‘2’ match the printed Chemistry – Short Answer The rate of a reaction between reagent A and reagent B is first section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete prompt/options and answer ‘ALL OF THEM’ match the printed Earth and Space – Short Answer Identify all of the following three phenomena that are section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete prompt/options and answer ‘X) CATHODE’ match the printed Energy – Multiple Choice Lithium cobalt oxide is most commonly used for what section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete prompt/options and answer ‘(–5, –7)’ match the printed Math – Short Answer The point (3, –7) is reflected through the y-axis, with the result the section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete prompt/options and answer ‘1, 2, 3 (ACCEPT: ALL OF THEM)’ match the printed Biology – Short Answer Identify all of the following three conditions that negatively section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete prompt/options and answer ‘11’ match the printed Math – Short Answer     What is the average of the integers from 1 to 21, inclusive? section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete prompt/options and answer ‘ERNEST RUTHERFORD (ACCEPT: RUTHERFORD)’ match the printed Chemistry – Short Answer What scientist, whose graduate students Geiger and Marsden section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source options and answer print 3.6/6.3 × 10¹⁰ and 3.6/6.3 × 10¹¹, with raised powers; all options and answer retained and synchronized.",
+      "before": {
+        "question": "The current in a cathode ray tube is 10 nanoamps. Which of the following is closest to the number of electrons striking the face of the glass tube each second?<br>W) 3.6 x 1010<br>X) 6.3 x 1010<br>Y) 3.6 x 1011<br>Z) 6.3 x 1011",
+        "options": [
+          "W) 3.6 x 1010",
+          "X) 6.3 x 1010",
+          "Y) 3.6 x 1011",
+          "Z) 6.3 x 1011"
+        ],
+        "answer": "X) 6.3 x 1010"
+      },
+      "changes": {
+        "question": "The current in a cathode ray tube is 10 nanoamps. Which of the following is closest to the number of electrons striking the face of the glass tube each second?<br>W) 3.6 x 10<sup>10</sup><br>X) 6.3 x 10<sup>10</sup><br>Y) 3.6 x 10<sup>11</sup><br>Z) 6.3 x 10<sup>11</sup>",
+        "question_sanitized": "The current in a cathode ray tube is 10 nanoamps. Which of the following is closest to the number of electrons striking the face of the glass tube each second?\nW) 3.6 x 10¹⁰\nX) 6.3 x 10¹⁰\nY) 3.6 x 10¹¹\nZ) 6.3 x 10¹¹",
+        "options": [
+          "W) 3.6 x 10<sup>10</sup>",
+          "X) 6.3 x 10<sup>10</sup>",
+          "Y) 3.6 x 10<sup>11</sup>",
+          "Z) 6.3 x 10<sup>11</sup>"
+        ],
+        "answer": "X) 6.3 x 10<sup>10</sup>",
+        "answer_sanitized": "X) 6.3 x 10¹⁰"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete prompt/options and answer ‘3, 1, 2 (ACCEPT: SIMPLE CUBIC, BODY-CENTERED CUBIC, HEXAGONAL CLOSEST-PACKED)’ match the printed Chemistry – Short Answer Rank the following three solid structures from the one with the section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete prompt/options and answer ‘–1’ match the printed Math – Short Answer      Simplify i raised to the 22nd power. section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete prompt/options and answer ‘CHROMATIC ABERRATION (ALSO ACCEPT: CHROMATIC DISTORTION, SPHEROCHROMATISM)’ match the printed Earth and Space – Short Answer Refracting telescopes have a severe limitation in that section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete prompt/options and answer ‘W) GUANINE’ match the printed Biology – Multiple Choice Which of the following nucleobases is NOT a pyrimidine section."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete prompt/options and answer ‘3.6 MILLION (ACCEPT: 3 MILLION 6 HUNDRED THOUSAND)’ match the printed Physics – Short Answer    How much energy, in joules, is in a single kilo-watt hour? section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete prompt/options and answer ‘1’ match the printed Earth and Space – Short Answer Identify all of the following three quantities that have section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete prompt/options and answer ‘W) PEPTOIDS HAVE LESS CONSTRAINED SECONDARY STRUCTURE THAN PROTEINS 2016 NSB® Regional High School Questions                      ’ match the printed Biology – Multiple Choice Which of the following correctly describes the difference section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: dispersion relation is printed omega = 2k² – 9k + 6; the answer is both square roots of 3 with plus-or-minus acceptance. Restored the raised 2.",
+      "before": {
+        "parts": [
+          "Consider the following dispersion relation: omega = 2k2 – 9k + 6. At what two wavenumbers, k, are the group and phase velocity equal?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider the following dispersion relation: omega = 2k<sup>2</sup> – 9k + 6. At what two wavenumbers, k, are the group and phase velocity equal?"
+        ],
+        "parts_sanitized": [
+          "Consider the following dispersion relation: omega = 2k² – 9k + 6. At what two wavenumbers, k, are the group and phase velocity equal?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete prompt/options and answer ‘TETRAETHYL LEAD (ACCEPT: TEL, DO NOT ACCEPT: LEAD) 2016 NSB® Regional High School Questions                                       ’ match the printed Energy – Short Answer What compound, traditionally added as an anti-knocking additive section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete prompt/options and answer ‘1 AND 2 (ACCEPT: CHLOROACETIC ACID AND FORMIC ACID)’ match the printed Chemistry – Short Answer Identify all of the following three organic acids that would be section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete prompt/options and answer ‘4095 2016 NSB® Regional High School Questions                                                    Page 3’ match the printed Math – Short Answer What is the sum of the first 6 terms in the geometric sequence with section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete prompt/options and answer ‘Y) SQUID’ match the printed Physics – Multiple Choice Which of the following types of magnetometers needs to be section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete prompt/options and answer ‘CONTACT PROCESS 2016 NSB® Regional High School Questions                                                      Page 4’ match the printed Chemistry – Short Answer What process, whose first oxidative step is catalyzed in the section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete prompt/options and answer ‘1 ONLY 2016 NSB® Regional High School Questions                                                Page 5’ match the printed Earth and Space – Short Answer Identify all of the following three events that occurred section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete prompt/options and answer ‘X) COSTA RICA’ match the printed Energy – Multiple Choice     What country used 100% renewable energy for 75 consecutive section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete prompt/options and answer ‘2√7 2016 NSB® Regional High School Questions                                                 Page 6’ match the printed Math – Short Answer What is the distance between the two points with polar coordinates section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete prompt/options and answer ‘LYSOSOME’ match the printed Biology – Short Answer     What organelle is defective in inclusion-cell disease, also kno section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete prompt/options and answer ‘–1/pi (ACCEPT: DECREASING BY 1/pi; DO NOT ACCEPT: 1/pi) 2016 NSB® Regional High School Questions                                  ’ match the printed Math – Short Answer If air leaves a spherical balloon at a rate of 1 cubic centimeter per section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete prompt/options and answer ‘1’ match the printed Chemistry – Short Answer Identify all of the following three statements that are TRUE section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: complete prompt/options and answer ‘Any two of the following: ATLAS, CMS, LHCb, ALICE, ToTEM, LHCf, MoEDAL’ match the printed Physics – Short Answer List two of the experiments performed at the Large Hadron section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete prompt/options and answer ‘ZAITSEV'S RULE’ match the printed Chemistry – Short Answer What rule, which can be explained by the preferential stability section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete prompt/options and answer ‘2pi - 4√2 2016 NSB® Regional High School Questions                                                    Page 10’ match the printed Math – Short Answer      In a circle with radius 4, what is the area of a circular segment section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete prompt/options and answer ‘X) ALLUVIAL FAN’ match the printed Earth and Space – Multiple Choice A red breccia contains a high percentage of large section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete prompt/options and answer ‘X) EOSINOPHILS 2016 NSB® Regional High School Questions                                                  Page 11’ match the printed Biology – Multiple Choice Which of the following immune cells is most involved in section."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete prompt/options and answer ‘CP VIOLATION 2016 NSB® Regional High School Questions                                                   Page 12’ match the printed Physics – Short Answer Studies of neutral kaon oscillations resulted in the discovery of section."
+    }
+  ],
+  "packetIssues": []
+}

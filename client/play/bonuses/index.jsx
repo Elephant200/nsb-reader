@@ -1,15 +1,16 @@
 import { getDropdownValues } from '../../scripts/utilities/dropdown-checklist.js';
 import CategoryModal from '../../scripts/components/CategoryModal.jsx';
 import DifficultyDropdown from '../../scripts/components/DifficultyDropdown.jsx';
-import CategoryManager from '../../../quizbowl/category-manager.js';
-import Player from '../../../quizbowl/Player.js';
-import Team from '../../../quizbowl/Team.js';
-import SoloBonusRoom from './SoloBonusRoom.js';
-import SoloBonusClient from './SoloBonusClient.js';
+import CategoryManager from '../../../shared/category-manager.js';
+import trackSoloStats from '../../scripts/track-solo-stats.js';
+import Player from '../../../shared/Player.js';
+import Team from '../../../shared/Team.js';
+import SoloBonusRoom from '../../rooms/SoloBonusRoom.js';
+import SoloBonusClient from '../../clients/SoloBonusClient.js';
 
 const modeVersion = '2025-01-14';
 const queryVersion = '2025-05-07';
-const settingsVersion = '2026-05-10';
+const settingsVersion = 'nsb-single-bonus';
 
 const USER_ID = 'user';
 const TEAM_ID = 'team';
@@ -22,6 +23,7 @@ const socket = { sendToServer: (message) => room.message({ userId: USER_ID, user
 const client = new SoloBonusClient(room, USER_ID, socket);
 socket.send = (message) => client.onmessage(message);
 room.sockets[TEAM_ID] = socket;
+trackSoloStats(room, USER_ID, stats => client.updateStatDisplay(stats.bonusStats));
 
 document.getElementById('local-packet-input').addEventListener('change', function (event) {
   const file = this.files[0];
@@ -36,14 +38,6 @@ document.getElementById('local-packet-input').addEventListener('change', functio
     }
   };
   reader.readAsText(file);
-});
-
-document.getElementById('reading-speed').addEventListener('change', function () {
-  socket.sendToServer({ type: 'set-reading-speed', readingSpeed: this.value });
-});
-
-document.getElementById('reading-speed').addEventListener('input', function () {
-  document.getElementById('reading-speed-display').textContent = this.value;
 });
 
 document.getElementById('toggle-randomize-order').addEventListener('click', function () {
@@ -82,11 +76,6 @@ document.addEventListener('keydown', (event) => {
     case 's': return document.getElementById('next').click();
     case 't': return document.getElementsByClassName('star-bonus')[0].click();
     case 'y': return navigator.clipboard.writeText(room.bonus._id ?? '');
-    case '0': return document.getElementById(`checkbox-${room.pointsPerPart.length}`)?.click();
-    case '1': return document.getElementById('checkbox-1').click();
-    case '2': return document.getElementById('checkbox-2').click();
-    case '3': return document.getElementById('checkbox-3').click();
-    case '4': return document.getElementById('checkbox-4').click();
   }
 });
 

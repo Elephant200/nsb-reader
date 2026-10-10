@@ -1,0 +1,457 @@
+{
+  "packetIndex": 156,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/9A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Earth and Space – Multiple Choice Which of the following minerals has only one plane of; ANSWER: X) BIOTITE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Physics – Short Answer A pilot is in a recoverable spin with her engine turned off, and with; ANSWER: TERMINAL VELOCITY (ACCEPT: TERMINAL SPEED) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Math – Short Answer What is the integral from –6 to 6 of 6 dx?; ANSWER: 72 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Chemistry – Multiple Choice An aqueous solution of sodium sulfate is electrolyzed using; ANSWER: W) THE SOLUTION IS COLORLESS EVERYWHERE EXCEPT THE CATHODE, matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Biology – Short Answer Trans fats are produced from unsaturated fats in what chemical; ANSWER: HYDROGENATION (ACCEPT: ISOMERIZATION) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Short Answer Identify all of the following three compounds that have only; ANSWER: 3 (ACCEPT: TETRACHLOROMETHANE) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Physics – Multiple Choice Which of the following is NOT responsible for the failure of a; ANSWER: X) GRAVITY matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Earth and Space – Multiple Choice Which of the following is a fine-grained, typically buff-; ANSWER: X) LOESS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 visually shows (x² + 3y³) raised to the 13th power; the 2 and 3 are superscript and answer is 14.",
+      "before": {
+        "question": "How many terms does the binomial expansion of open parenthesis x2 + 3y3 close parenthesis to 13th power contain?"
+      },
+      "changes": {
+        "question": "How many terms does the binomial expansion of (x<sup>2</sup> + 3y<sup>3</sup>) to the 13th power contain?",
+        "question_sanitized": "How many terms does the binomial expansion of (x² + 3y³) to the 13th power contain?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Biology – Short Answer A scientist has pea plants that are homozygous for purple flowers; ANSWER: 25 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Energy – Short Answer Commercial nuclear power reactors in the U.S. include a material; ANSWER: MODERATOR matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Chemistry – Multiple Choice Which of the following molecules is most polar?; ANSWER: Z) PYRIDINE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Physics – Short Answer The weber is the SI unit for what quantity?; ANSWER: MAGNETIC FLUX (DO NOT ACCEPT: FLUX) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Math – Short Answer If the graph of y equals open parenthesis x minus two close parenthesis; ANSWER: (5, 3) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Biology – Multiple Choice The suprachiasmatic nucleus is involved in controlling which of; ANSWER: W) CIRCADIAN RHYTHMS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Earth and Space – Short Answer What country has emitted the most carbon dioxide to Earth's; ANSWER: CHINA matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Chemistry – Multiple Choice The oxidation of elemental lithium with which of the following; ANSWER: W) FLUORINE GAS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Earth and Space – Multiple Choice Which of the following laws expresses the increase in; ANSWER: Y) HUBBLE’S LAW matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Math – Short Answer What is the slope of the line with equation 5x + 3y = 8?; ANSWER: –5/3 (ACCEPT: –1 2/3) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Physics – Short Answer A standard spring mass oscillator on a frictionless surface oscillates; ANSWER: 0 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Earth and Space – Short Answer What is the term for a Kuiper [KYE-pur] belt object that has;  matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Earth and Space – Short Answer Identify all of the following three statements that are true of; ANSWER: 1 AND 2 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Energy – Multiple Choice Which of the following countries had the largest wind energy; ANSWER: Y) CHINA matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Physics – Short Answer An electron in a hydrogen atom is excited from the n = 1 to n = 2; ANSWER: 27:5 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Math – Short Answer One endpoint of a diameter of a sphere centered at (4, 2, –9) is (5, –6,; ANSWER: (3, 10, -20) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Chemistry – Multiple Choice Hydrogen peroxide is:; ANSWER: Z) MORE DENSE THAN WATER AND BOILS AT A HIGHER TEMPERATURE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Biology – Short Answer 5-methylcytosine [methil-SYE-toh-seen] is particularly susceptible; ANSWER: THYMINE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Multiple Choice A scientist thinks she has found a sample of rock 10 billion; ANSWER: W) POTASSIUM-40 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 visibly prints the electron speed as 3 × 10⁷ meters per second; the 7 is superscript and the printed answer is 300.",
+      "before": {
+        "parts": [
+          "Undulators are used in light sources to cause emissions of photons from electron bunches. If the spacing between electromagnets is 5 centimeters, and the electron beam has velocity of 3 x 107 meters per second, what frequency, to the nearest 100 MHz, of light is emitted?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Undulators are used in light sources to cause emissions of photons from electron bunches. If the spacing between electromagnets is 5 centimeters, and the electron beam has velocity of 3 × 10<sup>7</sup> meters per second, what frequency, to the nearest 100 MHz, of light is emitted?"
+        ],
+        "parts_sanitized": [
+          "Undulators are used in light sources to cause emissions of photons from electron bunches. If the spacing between electromagnets is 5 centimeters, and the electron beam has velocity of 3 × 10⁷ meters per second, what frequency, to the nearest 100 MHz, of light is emitted?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Earth and Space – Short Answer What is the discharge, in meters cubed per second, of a; ANSWER: 250 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Math – Short Answer A right triangle has hypotenuse of length 46 and one leg of length 44.; ANSWER: 6√5 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Biology – Multiple Choice Which of the following molecules is most similar in structure to; ANSWER: W) BETA CAROTENE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Energy – Short Answer Energy can be stored in batteries by converting electrical energy into; ANSWER: SUPERCAPACITOR (ACCEPT: CAPACITOR OR ULTRACAPACITOR) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Chemistry – Multiple Choice Which of the following neutral ground state atoms has the; ANSWER: X) BORON matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Physics – Short Answer What term describes the balance between gravitational force and the; ANSWER: HYDROSTATIC EQUILIBRIUM (ACCEPT: GRAVITATIONAL EQUILIBRIUM) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Math – Short Answer A bag contains 18 socks: 4 are red, 6 are white, and 8 are blue. How; ANSWER: 12 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Biology – Multiple Choice Which of the following disorders is due to a dominant trait?; ANSWER: Z) POLYDACTYLY matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Energy – Multiple Choice Recently, two wind turbines were installed inside the Eiffel Tower.; ANSWER: W) THE TOWER’S FIRST FLOOR matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Chemistry – Multiple Choice Which of the following statements is NOT true regarding; ANSWER: X) SODIUM CHLORIDE HAS A VAN'T HOFF FACTOR LESS THAN ONE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Earth and Space – Short Answer Identify all of the following three statements that are true; ANSWER: 1 AND 3 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Math – Short Answer The three sides of a triangle have lengths 4 centimeters, 6 centimeters,; ANSWER: 23/28 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Physics – Short Answer Identify all of the following four particles that obey Bose-Einstein; ANSWER: 1 AND 3 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Earth and Space – Short Answer Two stars have the same absolute magnitude. One is at a; ANSWER: 5 matches the print after reviewing the complete prompt/options."
+    }
+  ],
+  "packetIssues": []
+}

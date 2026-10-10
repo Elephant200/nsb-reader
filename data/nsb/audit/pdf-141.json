@@ -1,0 +1,486 @@
+{
+  "packetIndex": 141,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_11A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 3: 3) Math – Short Answer What is the limit as x approaches zero of the fraction with numerator x + 1 and denominator x? ANSWER: DOES NOT EXIST (ACCEPT: DNE, NON-EXISTANT; DO NOT ACCEPT: INFINITY, MINUS INFINITY, PLUS or MINUS INFINITY)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 4: 4) Physics – Multiple Choice In a graph of stopping potential versus frequency, what is the slope of the straight line obtained? W) Work function over Planck’s constant X) Planck’s constant over work function Y) Elementary charge over Planck’s constant Z) Planck’s constant over elementary charge ANSWER: Z) PLANCK’S CONSTANT OVER ELEMENTARY CHARGE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 5: 5) Chemistry – Multiple Choice A supersaturated solution of sodium nitrate was prepared at 80 degrees Celsius but cooled to room temperature. Which of the following statements describes the addition of a seed crystal? W) Delta H is negative and Delta S is negative X) Delta H is positive and Delta S is negative Y) Delta H is negative and Delta S is …"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 6: 6) Math – Short Answer How many sides does a regular polygon have if each interior angle equals 172 degrees? ANSWER: 45"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 8: 8) Biology – Short Answer What pentameric antibody is generally the first to be secreted during primary immune response and is responsible for promoting agglutination reactions? ANSWER: IgM (ACCEPT: IMMUNOGLOBULIN M)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 9: 9) Energy – Multiple Choice Which of the following thermal reactors was found in the Three Mile Island reactor complex? W) Breeder reactor X) Fast neutron reactor Y) Pressurized water reactor Z) Liquid fluoride thorium reactor ANSWER: Y) PRESSURIZED WATER REACTOR"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 10: 10) Physics – Short Answer What type of scattering generally involves the elastic scattering of electromagnetic radiation by a free charged particle and generally occurs as long as the incident photon energy is much less than the mass energy of the particle? ANSWER: THOMSON SCATTERING"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 11: 11) Chemistry – Multiple Choice Which of the following molecules is NOT matched correctly to its central atom hybridization? W) Xenon tetrafluoride and d 2 sp 3 X) Phosphorous pentachloride and d 2 sp 3 Y) Krypton difluoride and dsp 3 Z) Bromine trifluoride and dsp 3 ANSWER: X) PHOSPHOROUS PENTACHLORIDE AND D 2 SP 3",
+      "before": {
+        "question": "Which of the following molecules is NOT matched correctly to its central atom hybridization?<br>W) Xenon tetrafluoride and d<sub>2</sub> sp<sub>3</sub><br>X) Phosphorous pentachloride and d<sub>2</sub> sp<sub>3</sub><br>Y) Krypton difluoride and dsp<sub>3</sub><br>Z) Bromine trifluoride and dsp<sub>3</sub>",
+        "options": [
+          "W) Xenon tetrafluoride and d<sub>2</sub> sp<sub>3</sub>",
+          "X) Phosphorous pentachloride and d<sub>2</sub> sp<sub>3</sub>",
+          "Y) Krypton difluoride and dsp<sub>3</sub>",
+          "Z) Bromine trifluoride and dsp<sub>3</sub>"
+        ],
+        "answer": "X) PHOSPHOROUS PENTACHLORIDE AND D<sub>2</sub> SP<sub>3</sub>"
+      },
+      "changes": {
+        "question": "Which of the following molecules is NOT matched correctly to its central atom hybridization?<br>W) Xenon tetrafluoride and d<sub>2</sub>sp<sub>3</sub><br>X) Phosphorous pentachloride and d<sub>2</sub>sp<sub>3</sub><br>Y) Krypton difluoride and dsp<sub>3</sub><br>Z) Bromine trifluoride and dsp<sub>3</sub>",
+        "question_sanitized": "Which of the following molecules is NOT matched correctly to its central atom hybridization? W) Xenon tetrafluoride and d2sp3 X) Phosphorous pentachloride and d2sp3 Y) Krypton difluoride and dsp3 Z) Bromine trifluoride and dsp3",
+        "options": [
+          "W) Xenon tetrafluoride and d<sub>2</sub>sp<sub>3</sub>",
+          "X) Phosphorous pentachloride and d<sub>2</sub>sp<sub>3</sub>",
+          "Y) Krypton difluoride and dsp<sub>3</sub>",
+          "Z) Bromine trifluoride and dsp<sub>3</sub>"
+        ],
+        "answer": "X) PHOSPHOROUS PENTACHLORIDE AND D<sub>2</sub>SP<sub>3</sub>",
+        "answer_sanitized": "X) PHOSPHOROUS PENTACHLORIDE AND D2SP3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 12: 12) Physics – Multiple Choice In which of the following ranges of the electromagnetic spectrum are the Paschen series hydrogen lines found? W) Ultraviolet X) Visible Y) Infrared Z) X-Ray ANSWER: Y) INFRARED"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 13: 13) Earth and Space – Short Answer What is the name of the graben [grah-ben] that has the highest recorded temperature on Earth? ANSWER: DEATH VALLEY"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 14: 14) Math – Short Answer The inverse of the function f(x) = x4 + x3 + x2 + x + 1 is not itself a function, but how many distinct zeroes does the inverse have? ANSWER: 1",
+      "before": {
+        "question": "The inverse of the function f(x) = x + x + x + x + 1 is not itself a function, but how many distinct zeroes does the inverse have?"
+      },
+      "changes": {
+        "question": "The inverse of the function f(x) = x<sup>4</sup> + x<sup>3</sup> + x<sup>2</sup> + x + 1 is not itself a function, but how many distinct zeroes does the inverse have?",
+        "question_sanitized": "The inverse of the function f(x) = x^4 + x^3 + x^2 + x + 1 is not itself a function, but how many distinct zeroes does the inverse have?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 15: 15) Chemistry – Short Answer Identify all of the following three statements regarding galvanic cells that are true: 1) The anode is the site of oxidation; 2) A salt bridge or semipermeable membrane is required to complete the circuit; 3) Batteries consist of multiple galvanic cells connected in a series. ANSWER: 1, 2, 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 16: 16) Biology – Short Answer Identify all of the following three statements that are true of fixed action patterns: 1) They are highly instinctive behaviors; 2) Once begun, they always continue until completion; 3) They can be triggered by inappropriate stimuli. ANSWER: 1, 2, 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 17: 17) Math – Short Answer Classify the roots of the equation 2x2 – 4x – 3 = 0 as imaginary, rational, or irrational. ANSWER: IRRATIONAL",
+      "before": {
+        "question": "Classify the roots of the equation 2x – 4x – 3 = 0 as imaginary, rational, or irrational."
+      },
+      "changes": {
+        "question": "Classify the roots of the equation 2x<sup>2</sup> − 4x − 3 = 0 as imaginary, rational, or irrational.",
+        "question_sanitized": "Classify the roots of the equation 2x^2 − 4x − 3 = 0 as imaginary, rational, or irrational."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 18: 18) Physics – Short Answer What is the name of the force that accounts for the deflection of a moving object due to the Earth’s rotation? ANSWER: Coriolis"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 19: 19) Energy – Short Answer What is the change in internal energy, delta U, in joules, of a system that absorbs 4000 joules of heat and that does 2000 joules of work on the surroundings? ANSWER: 2000"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 20: 20) Biology – Multiple Choice Which of the following vitamins is not fat soluble? W) Tocopherol [toh-cof-uh-rol] X) Phylloquinone [fy-loh-kwih-nohn] Y) Pyridoxine [pie-rih-dox-een] Z) Calciferol [cal-sihf-uh-rol] ANSWER: Y) PYRIDOXINE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 21: 21) Energy – Short Answer What is the type of tissue found in the neck and between the shoulders of some mammals that specializes in rapid heat production by producing a molecule that uncouples the ATP synthase, and causes cells to produce heat instead of ATP? ANSWER: BROWN FAT"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 22: 22) Chemistry – Short Answer When methyl propanoate [pro-pah-noh-ate] reacts with sodium hydroxide and the reaction is heated, sodium propanoate [pro-pah-noh-ate] and methanol form. What is the name of this type of reaction? ANSWER: SAPONIFICATION (ACCEPT: BASE HYDROLYSIS OF AN ESTER; BASIC HYDROLYSIS)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed toss-up 23: 23) Physics – Short Answer What interpretation of quantum mechanics states that quantum mechanics does not provide objective descriptions, but instead probabilities of observing specific quantum phenomena? ANSWER: COPENHAGEN INTERPRETATION"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 1: 1) Earth and Space – Multiple Choice Which of the following is closest to the average pH of marine water? W) 4.18 X) 6.19 Y) 7.56 Z) 8.16 ANSWER: Z) 8.16"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 2: 2) Biology – Multiple Choice Which of the following could occur due to a mutation in a Hox gene in a human embryo? W) Polydactyly [poly-dak-til-ee] X) Sickle cell anemia Y) Phenylketonuria [fee-nil-kee-toe-noo-ree-uh] Z) Chronic myelogenous [my-uhl-aw-jen-us] leukemia ANSWER: W) POLYDACTYLY"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 3: 3) Math – Short Answer Two integers between 1 and 10, inclusive, are selected at random, noting that the two numbers may be the same. What is the probability that both numbers selected are prime, and their product is odd? ANSWER: 9/100 (ACCEPT: 0.09 OR 9%)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 4: 4) Physics – Short Answer Identify all of the following three statements that are true regarding electric motors: 1) Back EMF in a motor arises because of Lenz’s law; 2) Commutators periodically reverse the direction of current in an electric motor; 3) In an electromechanical machine, the armature generates the EMF. ANSWER: 1, 2, AND 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 5: 5) Chemistry – Short Answer Rank the following three 0.1 molar solutions from the least basic to most basic: 1) Urea; 2) Ammonia; 3) Barium hydroxide. ANSWER: 1, 2, 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 6: 6) Math – Short Answer Simplify the fraction with numerator 3 raised to the 2k + 1 power and denominator 243 raised to the negative k power. ANSWER: 3 raised to the (7k + 1) power"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 7: 7) Earth and Space – Multiple Choice An isobar on a weather map is a line that connects equal points of: W) Wind speed X) Pressure Y) Temperature Z) Relative humidity ANSWER: X) PRESSURE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 8: 8) Biology – Multiple Choice Which of the following roles does creatine play in the human body? W) Intermediate in protein synthesis X) Coenzyme associated with purine breakdown Y) Energy source in muscles Z) Enzyme in the urea cycle ANSWER: Y) ENERGY SOURCE IN MUSCLES"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 9: 9) Energy – Multiple Choice Which of the following is not true of the Advanced Light Source at Lawrence Berkeley National Lab? W) It uses accelerated protons to produce light X) It primarily produces x-rays Y) It is a cyclotron Z) Photons from it can be used to solve protein crystal structures ANSWER: W) IT USES ACCELERATED PROTONS TO PRODUCE LIGHT"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 10: 10) PHYSICS – Multiple Choice A spherical grain of sand falls into a pool. As the grain falls through the water, its terminal velocity is independent of which of the following? W) The temperature of the water X) The radius of the grain Y) The density of the grain Z) The height above the pool from which it fell ANSWER: Z) The height above the pool f…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 11: 11) Chemistry – Short Answer Identify all of the following three statements that characterize SN1 reactions: 1) They have single-step mechanisms; 2) Their rate is strongly dependent on nucleophile strength; 3) They are faster in polar, protic solvents like water or ethanol. ANSWER: 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 12: 12) Physics – Multiple Choice Which of the following is NOT true regarding electric fields? W) The strength of an electric field associated with a point charge varies with the inverse square of distance. X) The strength of an electric field associated with a dipole varies with the inverse cube of distance Y) If a point charge is placed inside a hol…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 13: 13) Earth and Space – Multiple Choice When using a psychrometer and the two temperatures read are nearly identical, what conclusion would you reach? W) Your instrument reading is accurate X) A change in temperature is forecast Y) The air has a high relative humidity Z) The dew point temperature is very low ANSWER: Y) THE AIR HAS A HIGH RELATIVE HUM…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 14: 14) Math – Multiple Choice Consider a 2 by 2 matrix with first row 2, A and second row B, 3, where A and B are integers. How many different combinations exist of the values of A and B so that the matrix is singular? W) 4 X) 6 Y) 8 Z) 10 ANSWER: Y) 8"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 15: 15) Chemistry – Short Answer Identify all of the following three processes that would have a negative change in Gibbs free energy when conducted at atmospheric pressure: 1) Boiling of water at 95 degrees Celsius; 2) Freezing of water at 5 degrees Celsius; 3) Sublimation of ice at 105 degrees Celsius. ANSWER: 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 16: 16) Biology – Multiple Choice The terms frustule [fruh-stool], epitheca [epi-thek-uh], and silica apply to which of the following organisms? W) Diatoms X) Cocolithophors Y) Dinoflagellates Z) Foraminifera ANSWER: W) DIATOMS"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 17: 17) Math – Short Answer Determine the limit as x approaches negative π of the fraction with numerator cos of the fraction x/2 and denominator π plus x. ANSWER: ½",
+      "before": {
+        "parts": [
+          "Determine the limit as x approaches negative of the fraction with numerator cos π of the fraction x/2 and denominator plus x."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Determine the limit as x approaches negative π of the fraction with numerator cos of the fraction x/2 and denominator π plus x."
+        ],
+        "parts_sanitized": [
+          "Determine the limit as x approaches negative π of the fraction with numerator cos of the fraction x/2 and denominator π plus x."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 18: 18) Physics – Short Answer Identify all of the following three statements that are true regarding charged coupled devices: 1) Charged coupled devices can often be found in cameras; 2) Charged coupled devices operate via the photoelectric effect; 3) Pixels in charged coupled devices are made of metal conductors. ANSWER: 1 AND 2"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 19: 19) Energy – Short Answer What is the emerging class of fuels produced by non-photosynthetic microorganisms that directly harness chemical and electrical energy to turn carbon dioxide into fuels? ANSWER: ELECTROFUELS"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 20: 20) Biology – Short Answer In C4 photosynthesis, carbon dioxide is fixed to phosphoenolpyruvate [fos- foh-ee-nol-pie-roo-vate] instead of RuBisCo, which forms oxaloacetate. Oxaloacetate is then converted into what organic compound before it is transported to the bundle-sheath cells? ANSWER: MALATE (ACCEPT: MALIC ACID)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 21: 21) Energy – Short Answer What country is the world’s top ethanol fuel producer? ANSWER: UNITED STATES"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 22: 22) Chemistry – Short Answer How many vibrational degrees of freedom does a molecule of ethyne have? ANSWER: 7"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed bonus 23: 23) Physics – Short Answer A 2.5 Volt battery and a 1.5 Volt battery, each with an internal resistance of 1 Ohm, are connected in parallel such that their positive terminals are connected by a wire and their negative terminals are connected by a wire. What is the terminal voltage of the 1.5 Volt battery? ANSWER: 2"
+    }
+  ],
+  "packetIssues": []
+}

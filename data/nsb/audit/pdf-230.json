@@ -1,0 +1,477 @@
+{
+  "packetIndex": 230,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd15.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: compared the complete printed prompt, options, and answer where present. Source begins “1) Earth & Space – Short Answer As red giant stars evolve, they undergo a rapid runaway reaction whe”; printed answer is “HELIUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: compared the complete printed prompt, options, and answer where present. Source begins “2) Math – Multiple Choice Let f of x be a continuous and differentiable function on the closed inter”; printed answer is “X) 7”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “3) Chemistry – Short Answer What theory of chemical kinetics states that molecules must come into co”; printed answer is “COLLISION THEORY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “4) Physics – Short Answer A photon can lose energy in matter via Compton scattering. If a photon is ”; printed answer is “PAIR PRODUCTION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: compared the complete printed prompt, options, and answer where present. Source begins “5) Biology – Multiple Choice Which of the following best describes what will occur to a tadpole if i”; printed answer is “X) IT WILL IMMEDIATELY UNDERGO METAMORPHOSIS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: compared the complete printed prompt, options, and answer where present. Source begins “6) Energy – Short Answer Pacific Northwest National Lab scientists are studying atmospheric aerosols”; printed answer is “CONDENSATION NUCLEI (ACCEPT: CLOUD SEEDS)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints the answer’s accepted formula as O₂, with 2 below the O; corpus separates the subscript.",
+      "before": {
+        "answer": "OXYGEN (ACCEPT: DIOXYGEN, O ) 2"
+      },
+      "changes": {
+        "answer": "OXYGEN (ACCEPT: DIOXYGEN, O<sub>2</sub>)",
+        "answer_sanitized": "OXYGEN (ACCEPT: DIOXYGEN, O₂)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: compared the complete printed prompt, options, and answer where present. Source begins “8) Biology – Multiple Choice The triple response in a growing seedling is typically triggered by whi”; printed answer is “W) MECHANICAL CONTACT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: compared the complete printed prompt, options, and answer where present. Source begins “9) Energy – Multiple Choice Department of Energy-supported scientists are using DNA as a molecular w”; printed answer is “Y) NUCLEOBASES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: compared the complete printed prompt, options, and answer where present. Source begins “10) Math – Multiple Choice In the conversion of the rectangular coordinates (–5, 3) to polar coordin”; printed answer is “X) 149”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “11) Physics – Short Answer The voltage of an RLC circuit is analogous to the position of a damped ha”; printed answer is “INDUCTANCE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “12) Chemistry – Short Answer Identify all of the following three species that have increasing solubi”; printed answer is “2, 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “13) Biology – Short Answer In eukaryotic DNA, what named sequence is located 25 nucleotides upstream”; printed answer is “TATA BOX (ACCEPT: GOLDBERG-HOGNESS BOX)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “14) Physics – Short Answer Consider an infinitely long line of uniformly dense charge, which has an ”; printed answer is “E/3 (ACCEPT: 1/3 E)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “15) Energy – Multiple Choice Brookhaven National Lab researchers are using electron diffraction to i”; printed answer is “Z) 0.1”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “16) Chemistry – Multiple Choice Which of the following best explains why the atomic radius of the la”; printed answer is “Z) 4F ORBITALS ARE DIFFUSE, SO EFFECTIVE NUCLEAR CHARGE INCREASES RELATIVE TO SH”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “17) Math – Short Answer The point (–7, 6) is reflected across the x-axis and the resulting point is ”; printed answer is “(–9, –6) (ACCEPT: x = –9 AND y = –6)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “18) Earth & Space – Multiple Choice Cepheid [SEF-ee-id] variables are useful as standard candles bec”; printed answer is “W) THEIR PERIOD OF OSCILLATION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: compared the complete printed prompt, options, and answer where present. Source begins “19) Physics – Short Answer Euler defined precession as a process that represents a rotation around t”; printed answer is “NUTATION (ACCEPT: FREE NUTATION)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: compared the complete printed prompt, options, and answer where present. Source begins “20) Math – Short Answer What is the integer part of the log base 6 of 2020?”; printed answer is “4”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: compared the complete printed prompt, options, and answer where present. Source begins “22) Chemistry – Multiple Choice Which of the following substances has the most spontaneous reduction”; printed answer is “W) FLUORINE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: compared the complete printed prompt, options, and answer where present. Source begins “23) Earth & Space – Short Answer Conchoidal [kon-KOI-dal], fibrous, and splintery are all examples o”; printed answer is “FRACTURE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: compared the complete printed prompt, options, and answer where present. Source begins “1) Earth & Space – Multiple Choice The highest-albedo asteroids primarily belong to what asteroid cl”; printed answer is “W) S ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: compared the complete printed prompt, options, and answer where present. Source begins “2) Math – Short Answer Consider an infinite geometric series with sum equal to 13/3 and first term 7”; printed answer is “44/65”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “3) Chemistry – Short Answer Identify all of the following three properties that are typically exhibi”; printed answer is “3 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: compared the complete printed prompt, options, and answer where present. Source begins “4) Physics – Short Answer A musical instrument is made from a 2-meter tube that is open on one end a”; printed answer is “8/3 (ACCEPT: 2 2/3)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: compared the complete printed prompt, options, and answer where present. Source begins “5) Biology – Multiple Choice Which of the following groups of protists is most closely related to pl”; printed answer is “Z) RED ALGAE ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: compared the complete printed prompt, options, and answer where present. Source begins “6) Energy – Short Answer Researchers at Fermilab are working with CERN to detect long-lived particle”; printed answer is “HIGGS BOSON (ACCEPT: HIGGS PARTICLE, HIGGS; DO NOT ACCEPT: GOD PARTICLE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: compared the complete printed prompt, options, and answer where present. Source begins “7) Earth & Space – Short Answer What mass extinction event led to the most significant percentage de”; printed answer is “PERMIAN (ACCEPT: END-PERMIAN, PERMIAN-TRIASSIC, PERMO-TRIASSIC) ****************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: compared the complete printed prompt, options, and answer where present. Source begins “8) Biology – Short Answer Identify all of the following three developments that are analogous featur”; printed answer is “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: compared the complete printed prompt, options, and answer where present. Source begins “9) Energy – Short Answer The Department of Energy supports scientists studying the high thermal cond”; printed answer is “PHONON (DO NOT ACCEPT: PHOTON) ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: compared the complete printed prompt, options, and answer where present. Source begins “10) Math – Short Answer What are the coordinates of the image of the point (5, 6) when it is rotated”; printed answer is “(–2, 7) (ACCEPT: x = –2 AND y = 7)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “11) Physics – Short Answer A point charge of one coulomb is enclosed in a shell-like spherical condu”; printed answer is “ONE (ACCEPT: 1 COULOMB) ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: compared the complete printed prompt, options, and answer where present. Source begins “12) Chemistry – Multiple Choice Melissa is attempting to dissolve a solid in water to form a solutio”; printed answer is “X) SHE SHOULD SHINE A BEAM OF LIGHT THROUGH THE SAMPLE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “13) Biology – Short Answer Identify all of the following three substances whose reabsorption is incr”; printed answer is “1, 3 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: compared the complete printed prompt, options, and answer where present. Source begins “14) Physics – Short Answer An electric dipole is placed in a uniform electric field. Identify all of”; printed answer is “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “15) Energy – Short Answer Fermilab researchers are developing computational techniques to model the ”; printed answer is “HAMILTONIAN ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: compared the complete printed prompt, options, and answer where present. Source begins “16) Chemistry – Multiple Choice Which of the following is correct concerning VSEPR [VESS-pur] geomet”; printed answer is “Y) SEE-SAW COMPOUNDS HAVE ONE CENTRAL ATOM LONE PAIR”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “17) Math – Short Answer In a circle with radius 4, to the nearest integer, what is the area of a cir”; printed answer is “5 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: compared the complete printed prompt, options, and answer where present. Source begins “18) Earth & Space – Short Answer Identify all of the following three layers of the Sun’s atmosphere ”; printed answer is “2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: compared the complete printed prompt, options, and answer where present. Source begins “19) Physics – Short Answer A fire engine has a siren that wails at a frequency of 2000 hertz. It dri”; printed answer is “5 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints the function y = x − x³ with 3 raised; the corpus flattens it as “x 3”.",
+      "before": {
+        "parts": [
+          "What is the volume of the solid obtained by rotating about the y-axis the first-quadrant region bounded by y = x – x 3 and y = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the volume of the solid obtained by rotating about the y-axis the first-quadrant region bounded by y = x – x<sup>3</sup> and y = 0?"
+        ],
+        "parts_sanitized": [
+          "What is the volume of the solid obtained by rotating about the y-axis the first-quadrant region bounded by y = x – x³ and y = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: compared the complete printed prompt, options, and answer where present. Source begins “21) Biology – Short Answer A particular Next-Generation Sequencing technique works through detecting”; printed answer is “PYROPHOSPHATE (ACCEPT: DIPHOSPHATE, PPi) ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: compared the complete printed prompt, options, and answer where present. Source begins “22) Chemistry – Short Answer Rank the following three substances in order of increasing melting poin”; printed answer is “3, 1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: compared the complete printed prompt, options, and answer where present. Source begins “23) Earth & Space – Short Answer A seismic wave denoted as PKP is detected following a seismic event”; printed answer is “OUTER CORE (DO NOT ACCEPT: CORE)”."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,400 @@
+{
+  "packetIndex": 253,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: the Sun's temperature minimum is closest to the chromosphere; choices are convective zone, chromosphere, transition zone, corona; key X."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: collective electron-spin excitation in a lattice is keyed MAGNON."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: the least common multiple of 21 and 33 is printed 231."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4 at high resolution: the Milky Way diameter is 10⁵ light years and the photon proper-time answer is 0.",
+      "before": {
+        "question": "The Milky Way has a diameter of 10 5 light years. In seconds to one significant figure, what is the proper time measured by a photon that travels along a diameter of the Milky Way?"
+      },
+      "changes": {
+        "question": "The Milky Way has a diameter of 10<sup>5</sup> light years. In seconds to one significant figure, what is the proper time measured by a photon that travels along a diameter of the Milky Way?",
+        "question_sanitized": "The Milky Way has a diameter of 10^5 light years. In seconds to one significant figure, what is the proper time measured by a photon that travels along a diameter of the Milky Way?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: transfer of genetic material via plasmids, transposable elements, or viral infection is keyed HORIZONTAL GENE TRANSFER, accepting LATERAL GENE TRANSFER."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: ideal-gas temperature/volume slope choices include molecular weight, amount of gas, density, deviation from ideality; key X) AMOUNT OF GAS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: Mars polar ice-cap spiral-shape choices are wind patterns, ancient ocean currents, meteor impacts, tectonic forces; key W) WIND PATTERNS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: dark energy is related to the cosmological constant, accepting LAMBDA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: derivative of arctangent x at x=6 is printed 1/37."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: all four second-law statements are present; source keys Z, the statement that a system cannot return to the same state twice, as not equivalent."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: aggregate raspberry choices list flower/carpel counts; key Y) MANY CARPELS OF ONE FLOWER."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: neutral dioxygen HOMO bonding choices are sigma, sigma-antibonding, pi, pi-antibonding; key Z) PI-ANTIBONDING."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13: circular-orbit satellite with kinetic energy K has total mechanical energy keyed NEGATIVE K."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: pion fundamental nuclear force is keyed STRONG."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: 90-degree clockwise turn from north-northwest is EAST-NORTHEAST, accepting E-N-E."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: Hamiltonian choices include position/momentum dependence; key Y) IT DEPENDS ON BOTH POSITION AND MOMENTUM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: antibody binding promotes phagocytosis via opsonization; all choices and key Y are printed."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: Rydberg-equation question asks the power of proton number; printed answer TWO."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: photon emissions are listed as n=3 to 2, electron-spin transition, n=2 to 1; increasing-wavelength key is 3, 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: methanol-emission comparison asks the test family using the law of total variance; key ANOVA, accepting analysis of variance."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: right-triangle hypotenuse segments are 12 and 13; longer-leg key is 5√13."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: 9 m beam forces are 23,520 N left and 15,680 N right; center-of-mass distance is 18/5 m (accept 3 3/5, 3.6)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: all four skeletal-muscle contraction events are present; answer order is 4, 2, 3, 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: particle-in-a-three-dimensional-box third-excited-state degeneracy answer is 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: increasing geothermal-gradient environments are stable continent, accretionary prism, collisional mountain belt; key 2, 1, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: housekeeping-enzyme choices are expression constant, necessary cell process, DNA synthesis, biochemical building blocks; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9 at high resolution: rational-root equation is 8x⁵−5x⁴+3x²−12=0; key count is 24.",
+      "before": {
+        "parts": [
+          "According to the rational root theorem, how many different numbers are possible rational roots of the equation 8x 5 – 5x 4 + 3x 2 – 12 = 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "According to the rational root theorem, how many different numbers are possible rational roots of the equation 8x<sup>5</sup> – 5x<sup>4</sup> + 3x<sup>2</sup> – 12 = 0?"
+        ],
+        "parts_sanitized": [
+          "According to the rational root theorem, how many different numbers are possible rational roots of the equation 8x^5 – 5x^4 + 3x^2 – 12 = 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: Jack's motion is x=5 sin(3t), giving speed 15 m/s; restored the double-escaped apostrophe in Jack's.",
+      "before": {
+        "parts": [
+          "Jack is pacing around a room at a constant speed. The x-component in meters of his motion as a function of time t in seconds can be described as x = 5 sine of open parenthesis 3t close parenthesis. In meters per second, what is Jack&amp;apos;s speed?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Jack is pacing around a room at a constant speed. The x-component in meters of his motion as a function of time t in seconds can be described as x = 5 sine of open parenthesis 3t close parenthesis. In meters per second, what is Jack's speed?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: haplo-diploid organisms are listed as crows, ants, bees; answer 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: ethylene LUMO orbital choices are sigma, sigma star, pi, pi star; key Z) PI STAR."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: platinum(II) tetracoordinate-complex geometry is keyed SQUARE PLANAR."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15 at high resolution: the integrand includes x² + 3x + 5; answer is 6e − 4.",
+      "before": {
+        "parts": [
+          "What is the integral from 0 to 1 of e to the x times, open parenthesis x 2 + 3x + 5 close parenthesis, dx?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the integral from 0 to 1 of e to the x times, open parenthesis x<sup>2</sup> + 3x + 5 close parenthesis, dx?"
+        ],
+        "parts_sanitized": [
+          "What is the integral from 0 to 1 of e to the x times, open parenthesis x^2 + 3x + 5 close parenthesis, dx?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: stationary electric dipole force-field types are uniform electric, non-uniform electric, uniform magnetic; key 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: allosteric-regulation choices include binding at catalytic site, activity change, conformational change, hemoglobin oxygen; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: butane conformations Gauche, Anti, Eclipsed are ranked 2, 1, 3."
+    }
+  ],
+  "packetIssues": []
+}

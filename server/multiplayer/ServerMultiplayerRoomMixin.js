@@ -2,10 +2,13 @@ import ServerPlayer from './ServerPlayer.js';
 import Votekick from './VoteKick.js';
 import { HEADER, ENDC, OKCYAN, OKBLUE } from '../bcolors.js';
 import isAppropriateString from '../moderation/is-appropriate-string.js';
-import { MODE_ENUM, QUESTION_TYPE_ENUM, TOSSUP_PROGRESS_ENUM } from '../../quizbowl/constants.js';
-import insertTokensIntoHTML from '../../quizbowl/insert-tokens-into-html.js';
-// import TossupRoom from '../../quizbowl/TossupRoom.js';
+import { BONUS_PROGRESS_ENUM, MODE_ENUM, QUESTION_TYPE_ENUM, TOSSUP_PROGRESS_ENUM } from '../../shared/constants.js';
+import insertTokensIntoHTML from '../../shared/insert-tokens-into-html.js';
 import RateLimit from '../RateLimit.js';
+import { MULTIPLAYER_CLIENT_MESSAGE_TYPE, MULTIPLAYER_ROOM_MESSAGE_TYPE } from '../../shared/protocol/multiplayer-room.js';
+
+// eslint-disable-next-line no-unused-vars
+import TossupBonusRoom from '../../shared/rooms/TossupBonusRoom.js';
 
 import getRandomTossups from '../../database/qbreader/get-random-tossups.js';
 import getRandomBonuses from '../../database/qbreader/get-random-bonuses.js';
@@ -13,24 +16,31 @@ import getPacket from '../../database/qbreader/get-packet.js';
 import getSetList from '../../database/qbreader/get-set-list.js';
 import getNumPackets from '../../database/qbreader/get-num-packets.js';
 
-import checkAnswer from 'qb-answer-checker';
-import Team from '../../quizbowl/Team.js';
+import checkShortAnswer from 'qb-answer-checker';
+import { createNsbAnswerChecker } from '../../shared/nsb-check-answer.js';
+import getPairedBonus from '../../database/qbreader/get-paired-bonus.js';
+import Team from '../../shared/Team.js';
 
 const BAN_DURATION = 1000 * 60 * 30; // 30 minutes
 
+/**
+ * @template {typeof TossupBonusRoom} TBase
+ * @param {TBase} RoomClass
+ */
 const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
+  checkAnswer = createNsbAnswerChecker(checkShortAnswer);
+  getPairedBonus = getPairedBonus;
+  getPacket = getPacket;
+  getPacketCount = getNumPackets;
+  getRandomBonuses = getRandomBonuses;
+  getRandomTossups = getRandomTossups;
+  getSetList = getSetList;
+
   constructor (name, ownerId, isPermanent, categoryManager, supportedQuestionTypes, isVerified = false) {
     super(name, categoryManager, supportedQuestionTypes);
     this.ownerId = ownerId;
     this.isPermanent = isPermanent;
     this.isVerified = isVerified;
-    this.checkAnswer = checkAnswer;
-    this.getPacketCount = getNumPackets;
-
-    this.getRandomTossups = getRandomTossups;
-    this.getRandomBonuses = getRandomBonuses;
-
-    this.getPacket = getPacket;
     this.bannedUserList = new Map();
     this.kickedUserList = new Map();
     this.votekickList = [];
@@ -41,41 +51,50 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
     this.settings = {
       ...this.settings,
       lock: false,
-      loginRequired: isVerified,
-      public: true,
-      controlled: false
+      loginRequired: false,
+      public: false,
+      controlled: true
     };
 
-    getSetList().then(setList => { this.packetList = setList; });
-    setInterval(this.cleanupExpiredBansAndKicks.bind(this), 5 * 60 * 1000); // 5 minutes
+    this.cleanupInterval = setInterval(this.cleanupExpiredBansAndKicks.bind(this), 5 * 60 * 1000); // 5 minutes
+    this.cleanupInterval.unref?.();
   }
 
   async message ({ userId, username }, message) {
+    if (!message || typeof message.type !== 'string') return;
+    const playerActions = new Set(['buzz', 'give-answer', 'give-answer-live-update', 'start-bonus-answer', 'set-username', 'clear-stats', 'chat', 'chat-live-update']);
+    if (!playerActions.has(message.type) && !this.allowed(userId)) return;
+    if (message.type === 'transfer-owner') {
+      if (!this.players[message.targetId]?.online) return;
+      this.ownerId = message.targetId;
+      this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.OWNER_CHANGE, newOwner: this.ownerId });
+      return;
+    }
     switch (message.type) {
-      case 'ban': return this.ban({ userId, username }, message);
-      case 'chat': return this.chat({ userId, username }, message);
-      case 'chat-live-update': return this.chatLiveUpdate({ userId, username }, message);
-      case 'give-answer-live-update': return this.giveAnswerLiveUpdate({ userId, username }, message);
-      case 'toggle-controlled': return this.toggleControlled({ userId, username }, message);
-      case 'toggle-lock': return this.toggleLock({ userId, username }, message);
-      case 'toggle-login-required': return this.toggleLoginRequired({ userId, username }, message);
-      case 'toggle-mute': return this.toggleMute({ userId, username }, message);
-      case 'toggle-public': return this.togglePublic({ userId, username }, message);
-      case 'votekick-init': return this.votekickInit({ userId, username }, message);
-      case 'votekick-vote': return this.votekickVote({ userId, username }, message);
-      default: super.message({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.BAN: return this.ban({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.CHAT: return this.chat({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.CHAT_LIVE_UPDATE: return this.chatLiveUpdate({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.GIVE_ANSWER_LIVE_UPDATE: return this.giveAnswerLiveUpdate({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_CONTROLLED: return this.toggleControlled({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_LOCK: return this.toggleLock({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_LOGIN_REQUIRED: return this.toggleLoginRequired({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_MUTE: return this.toggleMute({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_PUBLIC: return this.togglePublic({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.VOTEKICK_INIT: return this.votekickInit({ userId, username }, message);
+      case MULTIPLAYER_ROOM_MESSAGE_TYPE.VOTEKICK_VOTE: return this.votekickVote({ userId, username }, message);
+      default: return super.message({ userId, username }, message);
     }
   }
 
   allowed (userId) {
-    return (userId === this.ownerId) || this.settings.public || !this.settings.controlled;
+    return userId === this.ownerId;
   }
 
   ban ({ userId }, { targetId, targetUsername }) {
     console.log('Ban request received. Target ' + targetId);
     if (this.ownerId !== userId) { return; }
 
-    this.emitMessage({ type: 'confirm-ban', targetId, targetUsername });
+    this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.CONFIRM_BAN, targetId, targetUsername });
     this.bannedUserList.set(targetId, Date.now());
 
     setTimeout(() => this.closeConnection({ userId: targetId, username: targetUsername }), 1000);
@@ -92,7 +111,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
     this.cleanupExpiredBansAndKicks();
 
     if (this.sockets[userId]) {
-      this.sendToSocket(userId, { type: 'error', message: 'You joined on another tab' });
+      this.sendToSocket(userId, { type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR, message: 'You joined on another tab' });
       setTimeout(() => this.closeConnection({ userId, username }), 5000);
     }
 
@@ -109,22 +128,27 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
     if (this.bannedUserList.has(userId)) {
       console.log(`Banned user ${userId} (${username}) tried to join a room`);
-      this.sendToSocket(userId, { type: 'enforcing-removal', removalType: 'ban' });
+      this.sendToSocket(userId, { type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ENFORCING_REMOVAL, removalType: 'ban' });
       return;
     }
 
     if (this.kickedUserList.has(userId)) {
       console.log(`Kicked user ${userId} (${username}) tried to join a room`);
-      this.sendToSocket(userId, { type: 'enforcing-removal', removalType: 'kick' });
+      this.sendToSocket(userId, { type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ENFORCING_REMOVAL, removalType: 'kick' });
       return;
     }
 
     socket.on('message', message => {
-      if (this.rateLimiter(socket) && !this.rateLimitExceeded.has(username)) {
-        console.log(`Rate limit exceeded for ${username} in room ${this.name}`);
-        this.rateLimitExceeded.add(username);
+      if (this.rateLimiter(socket)) {
+        // Still over the limit: always drop the message, but only log once per burst.
+        if (!this.rateLimitExceeded.has(username)) {
+          console.log(`Rate limit exceeded for ${username} in room ${this.name}`);
+          this.rateLimitExceeded.add(username);
+        }
         return;
       }
+      // Back under the limit: clear the flag so the user recovers.
+      this.rateLimitExceeded.delete(username);
 
       try {
         message = JSON.parse(message);
@@ -132,19 +156,23 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
         console.log(`Error parsing message: ${message}`);
         return;
       }
-      this.message({ userId, username: this.players[userId]?.username }, message);
+      Promise.resolve(this.message({ userId, username: this.players[userId]?.username }, message)).catch(error => {
+        console.error('Unable to process room message:', error.message);
+        this.sendToSocket(userId, { type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ERROR, message: 'Unable to complete that action. Please try again.' });
+      });
     });
 
     socket.on('close', this.closeConnection.bind(this, { userId, username }));
 
     socket.send(JSON.stringify({
-      type: 'connection-acknowledged',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.CONNECTION_ACKNOWLEDGED,
       teamId: this.players[userId].teamId,
       userId,
 
       bonusProgress: this.bonusProgress,
       bonusEligibleTeamId: this.bonusEligibleTeamId,
       buzzedIn: this.buzzedIn,
+      paused: this.paused,
       canBuzz: this.settings.rebuzz || !this.buzzes.includes(userId),
       currentQuestionType: this.currentQuestionType,
       isPermanent: this.isPermanent,
@@ -159,9 +187,9 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
       settings: this.settings
     }));
 
-    socket.send(JSON.stringify({ type: 'connection-acknowledged-query', ...this.query, ...this.categoryManager.export() }));
+    socket.send(JSON.stringify({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.CONNECTION_ACKNOWLEDGED_QUERY, ...this.query, ...this.categoryManager.export() }));
     socket.send(JSON.stringify({
-      type: 'connection-acknowledged-question',
+      type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.CONNECTION_ACKNOWLEDGED_QUESTION,
       currentQuestionType: this.currentQuestionType,
       question: this.currentQuestionType === QUESTION_TYPE_ENUM.TOSSUP ? this.tossup : this.bonus
     }));
@@ -204,7 +232,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
       }
     }
 
-    this.emitMessage({ type: 'join', isNew, team: this.teams[this.players[userId].teamId], userId, username, user: this.players[userId] });
+    this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.JOIN, isNew, team: this.teams[this.players[userId].teamId], userId, username, user: this.players[userId] });
   }
 
   chat ({ userId, username }, { message }) {
@@ -212,14 +240,14 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
     if (this.settings.public && !this.settings.loginRequired) { return false; }
     if (typeof message !== 'string') { return false; }
     if (!isAppropriateString(message)) { return false; }
-    this.emitMessage({ type: 'chat', message, username, userId });
+    this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.CHAT, message, username, userId });
   }
 
   chatLiveUpdate ({ userId, username }, { message }) {
     if (this.settings.public && !this.settings.loginRequired) { return false; }
     if (typeof message !== 'string') { return false; }
     if (!isAppropriateString(message)) { return false; }
-    this.emitMessage({ type: 'chat-live-update', message, username, userId });
+    this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.CHAT_LIVE_UPDATE, message, username, userId });
   }
 
   cleanupExpiredBansAndKicks () {
@@ -236,6 +264,8 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
         this.kickedUserList.delete(userId);
       }
     });
+
+    this.votekickList = this.votekickList.filter(votekick => now - votekick.createdAt <= BAN_DURATION);
   }
 
   closeConnection ({ userId, username }) {
@@ -246,27 +276,37 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
         this.giveAnswer({ userId, username }, { givenAnswer: this.liveAnswer });
         this.buzzedIn = null;
       }
-    } else if (this.currentQuestionType === QUESTION_TYPE_ENUM.BONUS) {
-      const allowed = this.endCurrentBonus({ userId, username });
-      if (allowed) {
-        this.startNextTossup({ userId, username });
-      }
     }
 
     this.leave(userId);
+
+    const isEmpty = Object.keys(this.sockets).length === 0;
+    const isIdle = this.tossupProgress !== TOSSUP_PROGRESS_ENUM.READING &&
+      this.bonusProgress !== BONUS_PROGRESS_ENUM.READING;
+    const tuh = Object.values(this.players).reduce((total, player) => total + (player.tuh || 0), 0);
+    if (
+      isEmpty &&
+      isIdle &&
+      !this.isPermanent &&
+      this.settings.public &&
+      tuh <= 2
+    ) {
+      clearInterval(this.cleanupInterval);
+      this.onEmpty?.();
+    }
   }
 
   giveAnswerLiveUpdate ({ userId, username }, { givenAnswer }) {
     if (typeof givenAnswer !== 'string') { return false; }
     this.liveAnswer = givenAnswer;
-    this.emitMessage({ type: 'give-answer-live-update', givenAnswer, username });
+    this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.GIVE_ANSWER_LIVE_UPDATE, givenAnswer, username, userId });
   }
 
   removeAllPlayers () {
     for (const userId of Object.keys(this.players)) {
       this.players[userId].online = false;
       if (Object.keys(this.sockets).includes(userId)) {
-        this.sendToSocket(userId, { type: 'admin-lock', message: 'An admin has locked this room.' });
+        this.sendToSocket(userId, { type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.ADMIN_LOCK, message: 'An admin has locked this room.' });
         delete this.sockets[userId];
       }
     }
@@ -301,7 +341,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
   async setSetName ({ userId, username }, { setName }) {
     if (!this.allowed(userId)) { return; }
-    if (!this.packetList) { return; }
+    if (!this.packetList) { this.packetList = await this.getSetList(); }
     if (!this.packetList.includes(setName)) { return; }
     super.setSetName({ userId, username }, { doNotFetch: false, setName });
   }
@@ -326,23 +366,21 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
     if (!isAppropriateString(username)) {
       this.sendToSocket(userId, {
-        type: 'force-username',
+        type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.FORCE_USERNAME,
         username: this.players[userId].username,
         message: 'Your username contains an inappropriate word, so it has been reverted.'
       });
       return;
     }
 
-    const oldUsername = this.players[userId]?.username;
-    const newUsername = this.players[userId].safelySetUsername(username);
-    this.emitMessage({ type: 'set-username', userId, oldUsername, newUsername });
+    super.setUsername({ userId }, { username });
   }
 
   toggleControlled ({ userId, username }, { controlled }) {
     if (this.settings.public) { return; }
     if (userId !== this.ownerId) { return; }
-    this.settings.controlled = !!controlled;
-    this.emitMessage({ type: 'toggle-controlled', controlled, username });
+    this.settings.controlled = true;
+    this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_CONTROLLED, controlled, username });
   }
 
   toggleEnableBonuses ({ userId, username }, { enableBonuses }) {
@@ -353,18 +391,19 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
   toggleLock ({ userId, username }, { lock }) {
     if (this.settings.public || !this.allowed(userId)) { return; }
     this.settings.lock = lock;
-    this.emitMessage({ type: 'toggle-lock', lock, username });
+    this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_LOCK, lock, username });
   }
 
   toggleLoginRequired ({ userId, username }, { loginRequired }) {
     if (this.isVerified || this.settings.public || !this.allowed(userId)) { return; }
-    this.settings.loginRequired = loginRequired;
-    this.emitMessage({ type: 'toggle-login-required', loginRequired, username });
+    if (loginRequired) return;
+    this.settings.loginRequired = false;
+    this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_LOGIN_REQUIRED, loginRequired, username });
   }
 
   toggleMute ({ userId }, { targetId, targetUsername, muteStatus }) {
     if (userId !== this.ownerId) return;
-    this.sendToSocket(userId, { type: 'mute-player', targetId, targetUsername, muteStatus });
+    this.sendToSocket(userId, { type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.MUTE_PLAYER, targetId, targetUsername, muteStatus });
   }
 
   togglePowermarkOnly ({ userId, username }, { powermarkOnly }) {
@@ -389,13 +428,14 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
   togglePublic ({ userId, username }, { public: isPublic }) {
     if (this.isPermanent || this.settings.controlled) { return; }
-    this.settings.public = isPublic;
+    if (isPublic) return;
+    this.settings.public = false;
     if (isPublic) {
       this.settings.lock = false;
       this.settings.loginRequired = false;
       this.settings.timer = true;
     }
-    this.emitMessage({ type: 'toggle-public', public: isPublic, username });
+    this.emitMessage({ type: MULTIPLAYER_ROOM_MESSAGE_TYPE.TOGGLE_PUBLIC, public: isPublic, username });
   }
 
   toggleRebuzz ({ userId, username }, { rebuzz }) {
@@ -418,8 +458,6 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
       return;
     }
 
-    this.lastVotekickTime[userId] = currentTime;
-
     for (const votekick of this.votekickList) {
       if (votekick.exists(targetId)) { return; }
     }
@@ -431,21 +469,23 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
     });
 
     const threshold = Math.max(Math.floor(activePlayers * 3 / 4), 2);
+    this.lastVotekickTime[userId] = currentTime;
     const votekick = new Votekick(targetId, threshold, []);
     votekick.vote(userId);
     this.votekickList.push(votekick);
     if (votekick.check()) {
-      this.emitMessage({ type: 'successful-vk', targetUsername, targetId });
+      this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.SUCCESSFUL_VK, targetUsername, targetId });
       this.kickedUserList.set(targetId, Date.now());
+      this.votekickList = this.votekickList.filter(vk => !vk.exists(targetId));
     } else {
       this.kickedUserList.set(targetId, Date.now());
-      this.emitMessage({ type: 'initiated-vk', targetUsername, threshold });
+      this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.INITIATED_VK, targetUsername, threshold });
     }
   }
 
   votekickVote ({ userId }, { targetId }) {
     if (this.players[userId].tens === 0 && this.players[userId].powers === 0) {
-      this.emitMessage({ type: 'no-points-votekick-attempt', userId });
+      this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.NO_POINTS_VOTEKICK_ATTEMPT, userId });
       return;
     }
     if (!this.players[targetId]) { return; }
@@ -463,8 +503,9 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
     thisVotekick.vote(userId);
     if (thisVotekick.check()) {
-      this.emitMessage({ type: 'successful-vk', targetUsername, targetId });
+      this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.SUCCESSFUL_VK, targetUsername, targetId });
       this.kickedUserList.set(targetId, Date.now());
+      this.votekickList = this.votekickList.filter(vk => !vk.exists(targetId));
 
       setTimeout(() => this.closeConnection({ userId: targetId, username: targetUsername }), 1000);
 
@@ -478,7 +519,7 @@ const ServerMultiplayerRoomMixin = (RoomClass) => class extends RoomClass {
 
         this.ownerId = newHost;
 
-        this.emitMessage({ type: 'owner-change', newOwner: newHost });
+        this.emitMessage({ type: MULTIPLAYER_CLIENT_MESSAGE_TYPE.OWNER_CHANGE, newOwner: newHost });
       }
     }
   }

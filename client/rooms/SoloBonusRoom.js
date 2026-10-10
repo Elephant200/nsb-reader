@@ -1,0 +1,73 @@
+import star from '../scripts/auth/star.js';
+import BonusRoom from '../../shared/rooms/BonusRoom.js';
+import api from '../scripts/api/index.js';
+
+async function getPacket ({ setName, packetNumber }) {
+  return { bonuses: setName ? await api.getPacketBonuses(setName, packetNumber ?? 1) : [] };
+}
+
+let starredBonusIds = null;
+async function getRandomStarredBonus () {
+  if (starredBonusIds === null) {
+    starredBonusIds = await star.getStarredBonusIds();
+
+    if (starredBonusIds === null) { return null; }
+
+    // random shuffle
+    starredBonusIds.sort(() => Math.random() - 0.5);
+  }
+
+  if (starredBonusIds.length === 0) { return null; }
+
+  const _id = starredBonusIds.pop();
+  return await api.getBonus(_id);
+}
+
+export default class SoloBonusRoom extends BonusRoom {
+  checkAnswer = api.checkAnswer;
+  getPacket = getPacket;
+  getPacketCount = api.getNumPackets;
+  getRandomBonuses = api.getRandomBonus;
+  getStarredBonus = getRandomStarredBonus;
+
+  constructor (name, categoryManager) {
+    super(name, categoryManager, ['bonuses']);
+
+    this.settings = {
+      ...this.settings,
+      skip: true,
+      showHistory: true,
+      typeToAnswer: true
+    };
+  }
+
+  async message ({ userId, username }, message) {
+    switch (message.type) {
+      case 'toggle-type-to-answer': return this.toggleTypeToAnswer({ userId, username }, message);
+      default: super.message({ userId, username }, message);
+    }
+  }
+
+  get liveAnswer () {
+    return document.getElementById('answer-input').value;
+  }
+
+  set liveAnswer (value) {
+    document.getElementById('answer-input').value = value;
+  }
+
+  startBonusAnswer ({ userId, username }) {
+    if (!this.settings.typeToAnswer) {
+      super.startBonusAnswer({ userId, username });
+      this.giveBonusAnswer({ userId, username }, { givenAnswer: this.bonus.answers_sanitized[this.currentPartNumber] });
+      return;
+    }
+
+    super.startBonusAnswer({ userId, username });
+  }
+
+  toggleTypeToAnswer ({ userId, username }, { typeToAnswer }) {
+    this.settings.typeToAnswer = typeToAnswer;
+    this.emitMessage({ type: 'toggle-type-to-answer', typeToAnswer });
+  }
+}

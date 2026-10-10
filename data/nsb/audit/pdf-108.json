@@ -1,0 +1,530 @@
+{
+  "packetIndex": 108,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-12.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “PHYSICS Short Answer A 1 nanocoulomb charge is held 1 meter above an infinite sheet with”; answer THERE IS NO CHANGE IN THE ELECTRIC FORCE (ACCEPT: 0) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “CHEMISTRY Multiple Choice Which of the following properties is generally characteristic of”; answer W) HIGH HEAT CONDUCTIVITY agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “BIOLOGY Multiple Choice A man with an X-linked dominant trait has children with a female”; answer Y) ALL HIS FEMALE CHILDREN agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “MATH Multiple Choice How many two digit positive integers have at least one 6 as a digit?”; answer X) 18 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “EARTH AND SPACE Short Answer Which element was first discovered by observing its”; answer HELIUM agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “PHYSICS Multiple Choice A field emission microscope requires which of the following?”; answer W) A CONDUCTOR WITH A VERY FINE POINT agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “CHEMISTRY Multiple Choice If an endothermic reaction is at equilibrium [ee-kwuh-LIB-ree-”; answer X) TOWARD THE PRODUCTS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “BIOLOGY Multiple Choice In the lab, you engineer a gene so that it is specifically expressed”; answer Z) PROMOTER SEQUENCES agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “MATH Short Answer How many edges does a hexagonal prism have?”; answer 18 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 prints “PHYSICS Short Answer What are the units of the dielectric constant?”; answer UNIT-LESS (ACCEPT: HAS NO UNIT) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “ENERGY Multiple Choice Growth in the production of what commodity has resulted in an”; answer Z) BIODIESEL agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “CHEMISTRY Short Answer Give the name of the group of elements that have high melting”; answer LANTHANIDES agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints “BIOLOGY Multiple Choice Which of the following is NOT a common method by which ion”; answer W) OSMOLARITY agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 equation is 2x² = 2y² + 13; the prompt asks which conic section and the printed answer is HYPERBOLA.",
+      "before": {
+        "question": "The graph of the following equation is an example of what conic 2𝑥 2 = 2𝑦 2 + 13? section:"
+      },
+      "changes": {
+        "question": "The graph of the following equation is an example of what conic section: 2x<sup>2</sup> = 2y<sup>2</sup> + 13?",
+        "question_sanitized": "The graph of the following equation is an example of what conic section: 2x^2 = 2y^2 + 13?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “EARTH AND SPACE Short Answer In hydrostatic equilibrium [ee-kwuh-LIB-ree-uhm],”; answer PRESSURE AND GRAVITY agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “BIOLOGY Multiple Choice Which of the following best describes actin treadmilling?”; answer Y) ONE END OF THE ACTIN FILAMENT HAS A NET ADDITION OF ACTIN POLYMERS WHILE THE OTHER END HAS A NET  agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints “CHEMISTRY Multiple Choice A reaction is carried out in a constant pressure calorimeter.”; answer Y) ∆T agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “CHEMISTRY Multiple Choice Assuming a temperature where the net magnetic moment is”; answer W) ANTIFERROMAGNETISM agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “BIOLOGY Multiple Choice Which of the following is NOT an example of a human disease”; answer W) TURNER’S SYNDROME agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “MATH Short Answer If a family has four children, what is the probability of having exactly 3”; answer ¼ (ACCEPT: 0.25 OR 25%) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “EARTH AND SPACE Short Answer What is the term for radiation emitted by an electron”; answer SYNCHROTRON agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Source p. 13 prints “PHYSICS Multiple Choice As an object falls to the Earth with air resistance present, what”; answer Z) IT DECREASES FROM 9.8 TO 0 METERS PER SECOND SQUARED agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “PHYSICS Short Answer You are in a spaceship and you bounce a ball off of a wall and catch”; answer 2.5 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “ENERGY Multiple Choice When considering the total U.S. energy resources and reserves,”; answer Y) 39% agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “CHEMISTRY Short Answer What separation technique would effectively separate a 50:50”; answer FRACTIONAL DISTILLATION (ACCEPT: DISTILLATION) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “BIOLOGY Short Answer Name four of the five structural characteristics shared by all”; answer any 4 of DORSAL HOLLOW NERVE CORD (ACCEPT: DORSAL NERVE CORD), NOTOCHORD, GILL-SLITS, POST ANAL TAIL agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints log(x² + 3x) + log(5x) = 1 + log(2x), with the spoken cue reading “x squared”; source answer is 1, not −4.",
+      "before": {
+        "parts": [
+          "Solve the following base-10 logarithmic equation for x: log(x 2 + 3x) + log(5x) = 1 + log(2x) [log base 10 of open parenthesis x squared plus 3x close parenthesis plus log base 10 of 5x equals 1 plus log base 10 of 2x]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following base-10 logarithmic equation for x: log(x<sup>2</sup> + 3x) + log(5x) = 1 + log(2x) [log base 10 of open parenthesis x squared plus 3x close parenthesis plus log base 10 of 5x equals 1 plus log base 10 of 2x]."
+        ],
+        "parts_sanitized": [
+          "Solve the following base-10 logarithmic equation for x: log(x^2 + 3x) + log(5x) = 1 + log(2x) [log base 10 of open parenthesis x squared plus 3x close parenthesis plus log base 10 of 5x equals 1 plus log base 10 of 2x]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “EARTH AND SPACE Short Answer What are the two most massive galaxies in the Local”; answer MILKY WAY AND ANDROMEDA (ACCEPT: M31) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “PHYSICS Short Answer A 2 kilogram object experiences a force with respect to time”; answer 18 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 visibly prints Ksp and exponents −10, −13, −17 and −16 beside the four silver salts; W/AgCl is repeated as answer.",
+      "before": {
+        "parts": [
+          "Which of the following silver salts with the given K values has sp the greatest molar solubility? -10<br>W) Silver chloride, K = 1.8 x 10 sp -13<br>X) Silver bromide, K = 5.0 x 10 sp -17<br>Y) Silver iodide, K = 8.3 x 10 sp -16<br>Z) Silver cyanide, K = 1.2 x 10 sp -10"
+        ],
+        "options": [
+          "W) Silver chloride, K = 1.8 x 10 sp -13",
+          "X) Silver bromide, K = 5.0 x 10 sp -17",
+          "Y) Silver iodide, K = 8.3 x 10 sp -16",
+          "Z) Silver cyanide, K = 1.2 x 10 sp -10"
+        ],
+        "answers": [
+          "W) SILVER CHLORIDE, K = 1.8 x 10 sp"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following silver salts with the given K<sub>sp</sub> values has the greatest molar solubility?<br>W) Silver chloride, K<sub>sp</sub> = 1.8 × 10<sup>−10</sup><br>X) Silver bromide, K<sub>sp</sub> = 5.0 × 10<sup>−13</sup><br>Y) Silver iodide, K<sub>sp</sub> = 8.3 × 10<sup>−17</sup><br>Z) Silver cyanide, K<sub>sp</sub> = 1.2 × 10<sup>−16</sup>"
+        ],
+        "options": [
+          "W) Silver chloride, K<sub>sp</sub> = 1.8 × 10<sup>−10</sup>",
+          "X) Silver bromide, K<sub>sp</sub> = 5.0 × 10<sup>−13</sup>",
+          "Y) Silver iodide, K<sub>sp</sub> = 8.3 × 10<sup>−17</sup>",
+          "Z) Silver cyanide, K<sub>sp</sub> = 1.2 × 10<sup>−16</sup>"
+        ],
+        "answers": [
+          "W) SILVER CHLORIDE, K<sub>sp</sub> = 1.8 × 10<sup>−10</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following silver salts with the given Ksp values has the greatest molar solubility? W) Silver chloride, Ksp = 1.8 x 10^-10 X) Silver bromide, Ksp = 5.0 x 10^-13 Y) Silver iodide, Ksp = 8.3 x 10^-17 Z) Silver cyanide, Ksp = 1.2 x 10^-16"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “BIOLOGY Multiple Choice Which of the following is an example of a protein with quaternary”; answer X) HEMOGLOBIN agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “MATH Short Answer A horse is enclosed in a square field of side 100 meters. The horse”; answer 80 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 gives ε₀ = 9 × 10⁻¹² and answer 9 × 10⁻¹³; the PDF includes the full question and [epsilon naught] cue.",
+      "before": {
+        "parts": [
+          "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given -12 squared over newtons meter squared as ε<sub>0</sub> 9 x 10 coulombs [epsilon naught], providing your"
+        ],
+        "answers": [
+          "in scientific notation with one significant figure, what is the energy in joules stored by the capacitor? -13 9 x 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 × 10<sup>−12</sup> coulombs squared over newtons meter squared as ε<sub>0</sub> [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
+        ],
+        "answers": [
+          "9 × 10<sup>−13</sup>"
+        ],
+        "parts_sanitized": [
+          "A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 x 10^-12 coulombs squared over newtons meter squared as epsilon_0 [epsilon naught], providing your answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?"
+        ],
+        "answers_sanitized": [
+          "9 x 10^-13"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “ENERGY Multiple Choice What is the approximate investment ratio per effective megawatt”; answer Y) 8 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “CHEMISTRY Short Answer Given the molar mass of oxygen is 16 grams per mole and the”; answer MgO agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints “BIOLOGY Multiple Choice Which of the following is NOT an energy source for active”; answer Y) RAS PROTEINS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints “MATH Short Answer How many integers between 1 and 1000 inclusive are NOT divisible by”; answer 400 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “BIOLOGY Multiple Choice When actin reaches its steady state in a cell, which of the”; answer X) THE ACTIN FILAMENT IS CONSTANTLY ADDING NEW AND LOSING EXISTING SUBUNITS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints “CHEMISTRY Short Answer Identify the number of pi bonds, respectively, in the following:”; answer 1) ONE, 2) TWO, 3) TWO agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints “ENERGY Short Answer In September 2011, an experiment at CERN appeared to show”; answer LORENTZ INVARIANCE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “CHEMISTRY Short Answer Given the molar mass of silver as 107.87 grams per mole, how”; answer 3 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “BIOLOGY Short Answer What are two specific types of glycocalyx [gly-koh-KAY-liks] in”; answer CAPSULE, SLIME LAYER agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “MATH Short Answer Let a = 0.845454545… be an infinite repeating decimal with the digits 4”; answer 17 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “EARTH AND SPACE Multiple Choice Which of the following statements is NOT true”; answer X) THE PEAK WILL HAVE A HIGHER THAN AVERAGE NUMBER OF SUNSPOTS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Source p. 13 prints “PHYSICS Short Answer Rounded to the nearest thousand, how many joules of work are”; answer 14,000 agrees with the record and displayed choices."
+    }
+  ],
+  "packetIssues": []
+}
