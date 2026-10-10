@@ -1,31 +1,58 @@
 {
   "date": "2026-10-10",
-  "status": "blocked-browser-unavailable",
+  "status": "partial-ui-verified",
   "requestedPages": [
     "http://localhost:8791/play/tossups/",
     "http://localhost:8792/"
   ],
   "browser": {
-    "verified": false,
-    "observations": [
-      "CUA inventory reported no available browsers.",
-      "Creating a Chrome tab for the local reader returned: Browser is not available: chrome.",
-      "A subsequent attempt to bind Google Chrome was interrupted before a browser state could be observed."
-    ]
+    "engine": "Headless Chromium 1223 via the existing bundled Playwright runtime",
+    "verified": true,
+    "setup": "Used the preinstalled runtime and cached browser; no dependency was installed.",
+    "checks": [
+      {
+        "page": "http://localhost:8791/play/tossups/",
+        "httpStatus": 200,
+        "title": "NSB Reader - Play - Tossups",
+        "result": "Reader loaded with the default reading speed set to 35. The page was at its initial empty question state; no specific question was loaded on this page."
+      },
+      {
+        "page": "http://localhost:8792/",
+        "httpStatus": 200,
+        "title": "NSB corrections — running log",
+        "repeatAuditDropdown": {
+          "verified": true,
+          "options": [
+            { "text": "Cumulative corrections", "value": "all" },
+            { "text": "Repeat Math/Chemistry findings", "value": "repeat" }
+          ],
+          "selectedValue": "repeat",
+          "resultCount": "102 of 102 findings · 73 applied locally"
+        },
+        "correctedMatrixRow": {
+          "search": "matrix",
+          "resultCount": 2,
+          "identity": "Set 6 · Round 14 · Toss-up 4 (2012 Math), PDF page 2; finding repeat-95-tossups-3",
+          "status": "Applied locally",
+          "before": "What is the determinant of the 2 by 2 matrix [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?",
+          "after": "What is the determinant of the 2 by 2 matrix [[2, −3], [−8, −4]] [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?",
+          "printedKey": "−32",
+          "result": "The filtered before-and-after row rendered the restored 2×2 matrix and determinant key in the repeat-audit view.",
+          "screenshot": "/tmp/nsb-reaudit-matrix-browser.png"
+        }
+      }
+    ],
+    "consoleErrors": [
+      "The audit-log page emitted a generic 404 console message. Playwright recorded no failed request or HTTP response with status 400+ for either inspected page; the console message could not be tied to a resource."
+    ],
+    "pageErrors": [],
+    "failedRequests": []
   },
-  "httpChecks": {
-    "reader": "curl to localhost:8791 failed immediately with connection refused.",
-    "auditLog": "curl to localhost:8792 failed immediately with connection refused."
+  "apiChecks": {
+    "performed": false,
+    "note": "The browser successfully rendered the audit row; no separate question API response was inspected."
   },
-  "uiChecks": {
-    "repeatAuditDropdown": "not checked",
-    "correctedSamples": "not checked: matrix p95 T4; x³ p91 B20; 10⁻⁵ p40 T25; N₂⁺ p163 T23; angular primes p14 B4",
-    "readingSpeedDefault35": "not checked",
-    "equation2x": "not checked",
-    "consoleErrors": "not checked"
-  },
-  "dataChecks": {
-    "status": "not performed",
-    "note": "The corrections JSON and frozen baseline file shapes were inspected, but the requested sample identities were not mapped or verified against API responses. No browser or rendering result is claimed."
-  }
+  "limitations": [
+    "The reader page was checked at its initial empty question state, not through a full gameplay answer submission."
+  ]
 }
