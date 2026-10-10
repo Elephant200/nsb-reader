@@ -1,0 +1,593 @@
+{
+  "packetIndex": 145,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_15A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1; printed answer is W) THALLIUM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2; printed answer is CALCIUM CARBONATE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 3; printed answer is PHOTOELECTRIC EFFECT (DO NOT ACCEPT: PHOTOVOLTAIC EFFECT)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4; printed answer is MICHELSON-MORLEY EXPERIMENT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6; printed answer is 136."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7; printed answer is POLYVINYLCHLORIDE (Accept: PVC).",
+      "before": {
+        "question": "What polymer, consisting of repeating C<sub>2</sub> H<sub>3</sub> Cl units, is one of the most widely produced plastics and finds usage in industries from construction to clothing?"
+      },
+      "changes": {
+        "question": "What polymer, consisting of repeating C<sub>2</sub>H<sub>3</sub>Cl units, is one of the most widely produced plastics and finds usage in industries from construction to clothing?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8; printed answer is Y) CARBON."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9; printed answer is X) 4 x 10 to the 6 POWER.",
+      "before": {
+        "question": "What is the approximate mass of the object Sagittarius A-star in solar masses? nd<br>W) 4 x 10 to the 2 power th<br>X) 4 x 10 to the 6 power th<br>Y) 4 x 10 to the 10 power th<br>Z) 4 x 10 to the 16 power th",
+        "answer": "X) 4 x 10 to the 6 POWER",
+        "options": [
+          "W) 4 x 10 to the 2 power th",
+          "X) 4 x 10 to the 6 power th",
+          "Y) 4 x 10 to the 10 power th",
+          "Z) 4 x 10 to the 16 power th"
+        ]
+      },
+      "changes": {
+        "question": "What is the approximate mass of the object Sagittarius A-star in solar masses?<br>W) 4 × 10 to the 2<sup>nd</sup> power<br>X) 4 × 10 to the 6<sup>th</sup> power<br>Y) 4 × 10 to the 10<sup>th</sup> power<br>Z) 4 × 10 to the 16<sup>th</sup> power",
+        "question_sanitized": "What is the approximate mass of the object Sagittarius A-star in solar masses? W) 4 × 10 to the 2nd power; X) 4 × 10 to the 6th power; Y) 4 × 10 to the 10th power; Z) 4 × 10 to the 16th power",
+        "answer": "X) 4 × 10 to the 6th POWER",
+        "options": [
+          "W) 4 × 10 to the 2<sup>nd</sup> power",
+          "X) 4 × 10 to the 6<sup>th</sup> power",
+          "Y) 4 × 10 to the 10<sup>th</sup> power",
+          "Z) 4 × 10 to the 16<sup>th</sup> power"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is BREMSSTRAHLUNG RADIATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13; printed answer is Y) THIONYL CHLORIDE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 14; printed answer is ALL OF THEM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15; printed answer is SUBGIANT BRANCH.",
+      "before": {
+        "question": "What phase of a star&amp;apos;s lifetime on the HR diagram involves a hydrogen shell burning around an inert helium core?"
+      },
+      "changes": {
+        "question": "What phase of a star’s lifetime on the HR diagram involves a hydrogen shell burning around an inert helium core?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16; printed answer is Y) ELECTRON CAPTURE DECAY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17; printed answer is Z) THERMOCYCLER."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18; printed answer is Y) 6 sine-squared of 2 theta cosine of 2 theta."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 19; printed answer is X) Na<sub>2</sub> O<sub>2</sub>.",
+      "before": {
+        "question": "If molten sodium is burned in a pure oxygen atmosphere, a salt is formed. Which of the following is the likely identity of this salt?<br>W) Na<sub>2</sub> O<br>X) Na<sub>2</sub> O<sub>2</sub><br>Y) NaO<sub>2</sub><br>Z) NaO<sub>3</sub>",
+        "options": [
+          "W) Na<sub>2</sub> O",
+          "X) Na<sub>2</sub> O<sub>2</sub>",
+          "Y) NaO<sub>2</sub>",
+          "Z) NaO<sub>3</sub>"
+        ]
+      },
+      "changes": {
+        "question": "If molten sodium is burned in a pure oxygen atmosphere, a salt is formed. Which of the following is the likely identity of this salt?<br>W) Na<sub>2</sub>O<br>X) Na<sub>2</sub>O<sub>2</sub><br>Y) NaO<sub>2</sub><br>Z) NaO<sub>3</sub>",
+        "options": [
+          "W) Na<sub>2</sub>O",
+          "X) Na<sub>2</sub>O<sub>2</sub>",
+          "Y) NaO<sub>2</sub>",
+          "Z) NaO<sub>3</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20; printed answer is W) OLIVINE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21; printed answer is 24.75."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 22; printed answer is HYMENOPTERA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23; printed answer is 5/3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1; printed answer is X) OF+.",
+      "before": {
+        "parts": [
+          "Which of the following diatomic ions is isoelectronic with the dioxygen molecule?<br>W) N<sub>2</sub> +<br>X) OF+<br>Y) OF-<br>Z) NO+"
+        ],
+        "answers": [
+          "X) OF+"
+        ],
+        "options": [
+          "W) N<sub>2</sub> +",
+          "X) OF+",
+          "Y) OF-",
+          "Z) NO+"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following diatomic ions is isoelectronic with the dioxygen molecule?<br>W) N<sub>2</sub><sup>+</sup><br>X) OF<sup>+</sup><br>Y) OF<sup>−</sup><br>Z) NO<sup>+</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following diatomic ions is isoelectronic with the dioxygen molecule? W) N₂⁺; X) OF⁺; Y) OF⁻; Z) NO⁺"
+        ],
+        "answers": [
+          "X) OF<sup>+</sup>"
+        ],
+        "answers_sanitized": [
+          "X) OF⁺"
+        ],
+        "options": [
+          "W) N<sub>2</sub><sup>+</sup>",
+          "X) OF<sup>+</sup>",
+          "Y) OF<sup>−</sup>",
+          "Z) NO<sup>+</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2; printed answer is Z) EROSION ON THE OUTSIDE OF THE MEANDER."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3; printed answer is W) Nitrogen."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; printed answer is W) 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5; printed answer is Z) FIBROBLASTS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6; printed answer is Z) ABSOLUTE VALUE OF OPEN PARENTHESIS a – b CLOSE PARENTHESIS IS LESS THAN ABSOLUTE VALUE OF a MINUS ABSOLUTE VALUE OF b."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7; printed answer is Y) SILICON CARBIDE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8; printed answer is 2, 3, 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9; printed answer is W) IT DECREASES EXPONENTIALLY WITH THE OPTICAL DEPTH."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10; printed answer is X) 25."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11; printed answer is Y) THE MITOTIC SPINDLE IS BUILT FROM ACTIN FILAMENTS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12; printed answer is 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13; printed answer is +4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14; printed answer is X) BY COMPRESSING THE GAS, YOU DO WORK ON IT, WHICH IS CONVERTED INTO HEAT."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15; printed answer is Y) MAGNETIC PROPERTIES OF IRON."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16; printed answer is -2 AND -9 (ACCEPT: -2 METERS AND -9 METERS PER SECOND - IN ANY ORDER).",
+      "before": {
+        "parts": [
+          "A particle’s position is given by the function f(t) = (-t + 3t) meters, where t is in seconds. What are the particle’s position, in meters, and velocity, in meters per second, respectively, at t = 2 seconds?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A particle’s position is given by the function f(t) = (−t<sup>3</sup> + 3t) meters, where t is in seconds. What are the particle’s position, in meters, and velocity, in meters per second, respectively, at t = 2 seconds?"
+        ],
+        "parts_sanitized": [
+          "A particle’s position is given by the function f(t) = (−t^3 + 3t) meters, where t is in seconds. What are the particle’s position, in meters, and velocity, in meters per second, respectively, at t = 2 seconds?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is Z) COBALAMIN."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18; printed answer is ln 2.",
+      "before": {
+        "parts": [
+          "What is the limit as x approaches 0 of the fraction with numerator 2 – 1 x and denominator e - 1?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the limit as x approaches 0 of the fraction with numerator 2<sup>x</sup> − 1 and denominator e<sup>x</sup> − 1?"
+        ],
+        "parts_sanitized": [
+          "What is the limit as x approaches 0 of the fraction with numerator 2^x − 1 and denominator e^x − 1?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 19; printed answer is W) C<sub>4</sub> H<sub>8</sub> O.",
+      "before": {
+        "parts": [
+          "Assuming that none of the following molecules contain any rings, which one contains exactly one carbon-carbon or carbon-oxygen double bond?<br>W) C<sub>4</sub> H<sub>8</sub> O<br>X) C<sub>4</sub> H<sub>8</sub> Cl<sub>2</sub><br>Y) C<sub>4</sub> H<sub>4</sub> O<br>Z) C<sub>4</sub> H<sub>4</sub> Cl<sub>2</sub>"
+        ],
+        "answers": [
+          "W) C<sub>4</sub> H<sub>8</sub> O"
+        ],
+        "options": [
+          "W) C<sub>4</sub> H<sub>8</sub> O",
+          "X) C<sub>4</sub> H<sub>8</sub> Cl<sub>2</sub>",
+          "Y) C<sub>4</sub> H<sub>4</sub> O",
+          "Z) C<sub>4</sub> H<sub>4</sub> Cl<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming that none of the following molecules contain any rings, which one contains exactly one carbon-carbon or carbon-oxygen double bond?<br>W) C<sub>4</sub>H<sub>8</sub>O<br>X) C<sub>4</sub>H<sub>8</sub>Cl<sub>2</sub><br>Y) C<sub>4</sub>H<sub>4</sub>O<br>Z) C<sub>4</sub>H<sub>4</sub>Cl<sub>2</sub>"
+        ],
+        "parts_sanitized": [
+          "Assuming that none of the following molecules contain any rings, which one contains exactly one carbon-carbon or carbon-oxygen double bond? W) C₄H₈O; X) C₄H₈Cl₂; Y) C₄H₄O; Z) C₄H₄Cl₂"
+        ],
+        "answers": [
+          "W) C<sub>4</sub>H<sub>8</sub>O"
+        ],
+        "answers_sanitized": [
+          "W) C₄H₈O"
+        ],
+        "options": [
+          "W) C<sub>4</sub>H<sub>8</sub>O",
+          "X) C<sub>4</sub>H<sub>8</sub>Cl<sub>2</sub>",
+          "Y) C<sub>4</sub>H<sub>4</sub>O",
+          "Z) C<sub>4</sub>H<sub>4</sub>Cl<sub>2</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 21; printed answer is ALL OF THEM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 22; printed answer is 2, 1, 3, 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23; printed answer is 4."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF page 6 prints the hybrid-breakdown choice labels W, Y, X, Y: W) Mechanical isolation, Y) Allopatric speciation, X) Prezygotic barriers, Y) Postzygotic barriers. The answer is Z) Postzygotic barriers.",
+      "proposedRepair": "Normalize the duplicated and transposed labels to W, X, Y, Z in source order, preserving each choice's substantive text and answer."
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "packetIndex": 197,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-16.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 1) Chemistry – Short Answer Identify all of the following three statements that are true of cyclohexane: 1) It is miscible with benzene; 2) The bond angles in the ri."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 2) Math – Short Answer A bag contains three red and three blue marbles. One marble is drawn, and then a second, without replacement. What is the probability of drawi."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 3) Biology – Multiple Choice In humans, hyperfunctioning of the thyroid gland can result from which of the following conditions? W) Cushing's syndrome X) Addison's d. Restored source notation/entity in the corresponding fields.",
+      "before": {
+        "question": "In humans, hyperfunctioning of the thyroid gland can result from which of the following conditions?<br>W) Cushing&amp;apos;s syndrome<br>X) Addison&amp;apos;s disease<br>Y) Cretinism [KREE-tin-izm]<br>Z) Graves’ disease",
+        "options": [
+          "W) Cushing&amp;apos;s syndrome",
+          "X) Addison&amp;apos;s disease",
+          "Y) Cretinism [KREE-tin-izm]",
+          "Z) Graves’ disease"
+        ]
+      },
+      "changes": {
+        "question": "In humans, hyperfunctioning of the thyroid gland can result from which of the following conditions?<br>W) Cushing's syndrome<br>X) Addison's disease<br>Y) Cretinism [KREE-tin-izm]<br>Z) Graves’ disease",
+        "options": [
+          "W) Cushing's syndrome",
+          "X) Addison's disease",
+          "Y) Cretinism [KREE-tin-izm]",
+          "Z) Graves’ disease"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 4) Earth and Space – Multiple Choice Widmanstatten [WIHD-mahn-STAH-ten] patterns are most commonly found in which of the following objects? W) Stony meteorites X) Ir."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 5) Physics – Short Answer To the nearest whole number of joules, how much work is done by a 4-newton-meter torque applied over one full revolution to a 3-kilogram wh."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 6) Energy – Short Answer Researchers at SLAC [slack] lab are operating and collecting data from the orbiting Fermi [FUR-mee] telescope, which captures light from wha."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 7) Math – Short Answer What is 69 times 13? ANSWER: 897."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 8) Physics – Short Answer An astronaut, who is 60 kilograms and initially at rest, is approached by a crate of supplies that is moving at 4 meters per second. When t."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 9) Earth and Space – Multiple Choice Tephrochronology [TEF-roh-krah-NAWL-ah-jee] deals with age- dating what type of material? W) Carbonate shells X) Dead organisms ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 10) Chemistry – Multiple Choice Methanol has a more negative standard change in enthalpy [EN-thul- pee] of formation than methane. Which of the following is true reg. Restored source notation/entity in the corresponding fields.",
+      "before": {
+        "question": "Methanol has a more negative standard change in enthalpy [EN-thul- pee] of formation than methane. Which of the following is true regarding their relative chemical stabilities?<br>W) Methanol is more stable than methane<br>X) Methanol is less stable than methane<br>Y) Because both are composed of the same atoms, they are equally stable<br>Z) Their stabilities cannot be compared with standard enthalpy [EN-thul-pee] changes"
+      },
+      "changes": {
+        "question": "Methanol has a more negative standard change in enthalpy [EN-thul-pee] of formation than methane. Which of the following is true regarding their relative chemical stabilities?<br>W) Methanol is more stable than methane<br>X) Methanol is less stable than methane<br>Y) Because both are composed of the same atoms, they are equally stable<br>Z) Their stabilities cannot be compared with standard enthalpy [EN-thul-pee] changes"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 11) Energy – Multiple Choice De novo phasing is a technique that structural biologists at SLAC [slack] use to gather information about a new protein's 3D shape. This. Restored source notation/entity in the corresponding field.",
+      "before": {
+        "question": "De novo phasing is a technique that structural biologists at SLAC [slack] use to gather information about a new protein&amp;apos;s 3D shape. This technique involves the replacement of a single atom inside the protein with a traditionally non-proteinogenic [pro-teen-oh-JEN-ik] atom with similar chemical behavior. In one example, the researchers replaced a sulfur atom with what?<br>W) Nitrogen<br>X) Selenium<br>Y) Phosphorus<br>Z) Arsenic"
+      },
+      "changes": {
+        "question": "De novo phasing is a technique that structural biologists at SLAC [slack] use to gather information about a new protein's 3D shape. This technique involves the replacement of a single atom inside the protein with a traditionally non-proteinogenic [pro-teen-oh-JEN-ik] atom with similar chemical behavior. In one example, the researchers replaced a sulfur atom with what?<br>W) Nitrogen<br>X) Selenium<br>Y) Phosphorus<br>Z) Arsenic"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 12) Biology – Multiple Choice Which of the following forms of nitrogenous [nye-TRAW-jen-us] waste excretion is most energetically costly to produce? W) Ammonia X) Ur."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 13) Earth and Space – Multiple Choice What class of meteorites is composed of undifferentiated, spherical particles that are believed to contain primitive material f."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 14) Math – Short Answer If the graph of y equals open parenthesis x + 4 close parenthesis squared + 3 is translated 2 units to the right and 4 units down, what are t."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 15) Physics – Short Answer Plane polarized light with an intensity of I passes through a filter that makes a 30-degree angle with respect to the angle of polarizatio."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 16) Energy – Multiple Choice Researchers at SLAC [slack] developed a microscopic rake that enables better mixing of deposited materials on surfaces, resulting in mor."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 17) Biology – Multiple Choice What type of phagocytic cell can primarily be found under mucosal [myoo-KOH-sul] surfaces and plays a primary role in responding to mul."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 18) Chemistry – Multiple Choice Which of the following functional groups can be found in sucrose? W) Alcohol X) Amine Y) Aminal Z) Carboxyl ANSWER: W) ALCOHOL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 19) Math – Short Answer What is the determinant of the 2-by-2 matrix with first row –3, –5 and second row 8, –2? ANSWER: 46."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 21) Physics – Short Answer A 9-volt battery with internal resistance of 1 ohm is connected to a lightbulb. If the potential drop across the lightbulb is 6 volts, the."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 22) Earth and Space – Short Answer Identify all of the following three rocks that would be classified as aphanitic [AFF-in-it-ik]: 1) Andesite [ANN-deh-site]; 2) Bas."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 23) Chemistry – Short Answer Aspartame is an artificial sweetener composed of amino acids linked by what type of chemical bond? ANSWER: AMIDE (ACCEPT: PEPTIDE)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 1) Chemistry – Multiple Choice Lithium aluminum hydride would likely be used by a synthetic chemist for what type of reaction? W) Amide [AM-ide] bond formation X) Nu."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 2) Math – Short Answer Solve the following system of three equations in three unknowns: x + y = 4, y + z = 1, and x + z = 13? ANSWER: x = 8; y = –4; z = 5 (ACCEPT: (."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 3) Biology – Short Answer Identify all of the following three statements that are true of lancelets: 1) They possess a post-anal tail; 2) They possess pharyngeal [fa."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 4) Earth and Space – Multiple Choice Lobate scarps on the surface of Mercury are a result of which of the following processes? W) Cooling X) Plate tectonics [tek-TAW."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 5) Physics – Short Answer The potential energy of the two atoms in a diatomic molecule is defined by the Lennard-Jones potential, or U equals A over d to the twelfth."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 6) Energy – Multiple Choice Scientists at Ames Lab have recently released a study of the various parameters of superconductors, including the superconducting transit."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 7) Math – Short Answer What is the cross product of vectors i + 2j + 3k cross j? ANSWER: –3i + k (ACCEPT: –3i + 0j + 1k, –3i + 1k) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 8) Physics – Short Answer A 4-kilogram block is placed on top of a spring with a spring constant of 100 kilograms per second squared. To the nearest joule, how much ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 9) Earth and Space – Short Answer Identify all of the following three statements that are true of fossil fuels: 1) Good reservoir rocks have high permeability; 2) Go."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 10) Chemistry – Multiple Choice Acetone cyanohydrin [sigh-ANN-oh-HIGH-drin] is formed when a cyanide ion reacts with acetone. What atom is the electrophile in this r."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 11) Energy – Multiple Choice Los Alamos National Lab scientists are studying how microbes in the soil can slow down the spread of what long-lived radioisotope that i."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 12) Biology – Multiple Choice During Western blotting, a blocking solution is often prepared. What is the primary function of the blocking solution? W) Conditioning ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 13) Earth and Space – Short Answer What is the spin-to-orbit resonance ratio of Mercury? ANSWER: 3 TO 2 (ACCEPT: 1.5, 3/2, 1½; DO NOT ACCEPT: 2 TO 3) ~~~~~~~~~~~~~~~."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 14) Math – Short Answer A 5-digit palindrome has 3 different digits and is divisible by 8. What is the largest such number? ANSWER: 86,968."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 15) Physics – Short Answer Identify all of the following three statements that are true regarding RLC circuits with an AC source: 1) At resonance, the source voltage."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 16) Energy – Short Answer Due to the desire for extremely low neutron-absorption cross sections in nuclear-fuel-rod cladding, they are primarily composed of what met."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 17) Biology – Short Answer A scientist is separating proteins using size-exclusion chromatography [crow-mah-TAW-grah-fee]. Identify the relative order of elution fro."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 18) Chemistry – Multiple Choice Which of the following techniques would most unambiguously determine the structure of a compound that contains stereocenters? W) Mass."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints y = x² − x³ and the full key π/10 (ACCEPT: 0.1π), restoring the displaced answer boundary and powers.",
+      "before": {
+        "parts": [
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x 2 – x 3 and y = 0. π/10 0.1π)"
+        ],
+        "answers": [
+          "(ACCEPT:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x<sup>2</sup> – x<sup>3</sup> and y = 0. π/10 (ACCEPT: 0.1π)"
+        ],
+        "parts_sanitized": [
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x^2 – x^3 and y = 0. π/10 (ACCEPT: 0.1π)"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>π</span><span>10</span></span> (ACCEPT: 0.1π)"
+        ],
+        "answers_sanitized": [
+          "π/10 (ACCEPT: 0.1π)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 20) Biology – Short Answer A patient presents with the ability to understand language, but the inability to speak. What small region of the left frontal lobe might b. Restored source notation/entity in the corresponding field.",
+      "before": {
+        "answers": [
+          "BROCA&amp;apos;S AREA"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "BROCA'S AREA"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 21) Physics – Short Answer Water flows through a horizontally-level pipe at 4 meters per second, until it encounters a section where its static pressure decreases by."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 22) Earth and Space – Short Answer Place the following three rock types in increasing order of distance from shore at the time of deposition in a typical sedimentary."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 23) Chemistry – Short Answer Identify all of the following three chemical moieties that are capable of having cis [sis] -trans isomerism [eye-SAW-mer-izm]: 1) Tetrah."
+    }
+  ],
+  "packetIssues": []
+}

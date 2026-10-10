@@ -1,0 +1,426 @@
+{
+  "packetIndex": 153,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/6A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Biology – Multiple Choice One species resembles another species that is poisonous. What is; ANSWER: Y) BATESIAN MIMICRY matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Physics – Short Answer To three significant figures, at what temperature, in kelvins, does pure; ANSWER: 373 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Math – Short Answer What is the degree measure of each interior angle in a regular hexagon?; ANSWER: 120 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Chemistry – Multiple Choice What is the maximum number of electrons that the 3d level can; ANSWER: Y) 10 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Short Answer The +3 oxide of what element is added to molten silicate to; ANSWER: BORON matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Physics – Short Answer Measured in newtons, what is the magnitude of the centripetal force; ANSWER: 80 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Biology – Multiple Choice Plant cells are distinguished from animal cells by having:; ANSWER: W) A LARGE CENTRAL VACUOLE, CHLOROPLASTS, AND A CELL WALL MADE OF CELLULOSE matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Math – Multiple Choice Which of the following equations is that of a line perpendicular to; ANSWER: Z) 5x + 4y = 10 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Earth and Space – Short Answer When subjected to intense heat and pressure, limestone; ANSWER: MARBLE matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Energy – Multiple Choice Which of the following percentages is closest to the percent of; ANSWER: Y) 70 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 shows x² + 3x⁸ + 7x; the 2 and 8 are raised exponents, and the source answer is 8.",
+      "before": {
+        "question": "What is the degree of the polynomial x2 + 3x8 + 7x?"
+      },
+      "changes": {
+        "question": "What is the degree of the polynomial x<sup>2</sup> + 3x<sup>8</sup> + 7x?",
+        "question_sanitized": "What is the degree of the polynomial x² + 3x⁸ + 7x?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Earth and Space – Short Answer The Montreal Protocols were a series of international; ANSWER: CHLOROFLUOROCARBONS (ACCEPT: CFC’s; DO NOT ACCEPT: HALOCARBONS) matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Chemistry – Multiple Choice Under which of the following conditions does the behavior of; ANSWER: X) HIGH PRESSURE, LOW TEMPERATURE matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Physics – Short Answer A block rests upon an incline of an unknown angle. If the coefficient; ANSWER: 30 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Energy – Multiple Choice Demand Side Management, as part of smart grids, is a; ANSWER: W) CUSTOMERS TO CHANGE THEIR ENERGY CONSUMPTION PATTERNS BASED ON A VARYING RATE OF THE COST OF ELECTRICITY matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Biology – Multiple Choice If the only method of introducing genetic variation into a sample; ANSWER: X) BINARY FISSION matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Physics – Short Answer What is the name given to light produced when a charged particle; ANSWER: CHERENKOV RADIATION (ACCEPT: VALIVOV-CHERENKOV RADIATION) matches the source after full prompt/options review."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 visually confirms superscript 2/3/4 in sp hybridization choices, plus all corresponding source read-as cues and W) sp answer.",
+      "before": {
+        "question": "Which type of hybridization is found in the central atom of carbon dioxide?<br>W) sp [s-p]<br>X) sp2 [s-p-2]<br>Y) sp3 [s-p-3]<br>Z) sp4 [s-p-4]",
+        "options": [
+          "W) sp [s-p]",
+          "X) sp2 [s-p-2]",
+          "Y) sp3 [s-p-3]",
+          "Z) sp4 [s-p-4]"
+        ]
+      },
+      "changes": {
+        "question": "Which type of hybridization is found in the central atom of carbon dioxide?<br>W) sp [s-p]<br>X) sp<sup>2</sup> [s-p-2]<br>Y) sp<sup>3</sup> [s-p-3]<br>Z) sp<sup>4</sup> [s-p-4]",
+        "question_sanitized": "Which type of hybridization is found in the central atom of carbon dioxide? W) sp [s-p] X) sp² [s-p-2] Y) sp³ [s-p-3] Z) sp⁴ [s-p-4]",
+        "options": [
+          "W) sp [s-p]",
+          "X) sp<sup>2</sup> [s-p-2]",
+          "Y) sp<sup>3</sup> [s-p-3]",
+          "Z) sp<sup>4</sup> [s-p-4]"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Math – Short Answer The complex number –4 lies on the boundary between what two; ANSWER: 2 AND 3 (ACCEPT: SECOND AND THIRD) matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Earth and Space – Short Answer Identify all of the following three statements that are true of; ANSWER: 1 AND 2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Physics – Short Answer In a several step production process, the efficiency of Stage 1 is 45; ANSWER: 6 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 shows y = −x³ at x = −2; the 3 is superscript, all four options and Y answer match the print.",
+      "before": {
+        "parts": [
+          "Which of the following is true regarding the graph of y = –x3 at x = –2?<br>W) increasing and concave up<br>X) increasing and concave down<br>Y) decreasing and concave up<br>Z) decreasing and concave down"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is true regarding the graph of y = –x<sup>3</sup> at x = –2?<br>W) increasing and concave up<br>X) increasing and concave down<br>Y) decreasing and concave up<br>Z) decreasing and concave down"
+        ],
+        "parts_sanitized": [
+          "Which of the following is true regarding the graph of y = –x³ at x = –2? W) increasing and concave up X) increasing and concave down Y) decreasing and concave up Z) decreasing and concave down"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Chemistry – Multiple Choice Under aqueous conditions, which of the following reactions; ANSWER: Z) BARIUM CHLORIDE MIXED WITH POTASSIUM SULFATE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Energy – Short Answer Landfill gas, a potential source of energy, is mostly composed of what; ANSWER: METHANE matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Short Answer Rank the following three gaseous phase monatomic elements in; ANSWER: 1, 2, 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Physics – Short Answer A large block of ice is placed in a water bath maintained at 80 degrees; ANSWER: 0 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Biology – Multiple Choice Which of the following plant hormones plays the largest role in the; ANSWER: Y) GIBBERELLINS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Math – Short Answer Identify all of the following four properties that are preserved under a; ANSWER: 1, 2, 3, 4 (ACCEPT: ALL) matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Earth and Space – Multiple Choice Addition of which of the following compounds may; ANSWER: W) POTASSIUM HYDROXIDE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Math – Short Answer Maggie bakes 48 cookies and sells half of them that morning for $2.50; ANSWER: 52 matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Chemistry – Multiple Choice Which of the following best explains why NaCl has a higher; ANSWER: Y) HCl IS A MOLECULAR COMPOUND, WHILE NaCl IS AN IONIC COMPOUND matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Physics – Multiple Choice An elevator is moving downward with decreasing speed. What; ANSWER: Z) VELOCITY IS DOWNWARD AND ACCELERATION IS UPWARD ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Energy – Multiple Choice If a power station is referred to as an underground power station,; ANSWER: W) HYDROELECTRIC matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Earth and Space – Multiple Choice Which of the following best describes the composition of; ANSWER: Y) AN IRON-NICKEL ALLOY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Biology – Short Answer What is the name for skeletal muscle cells containing multiple; ANSWER: SYNCYTIUM (ACCEPT: SYMPLASM) matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Physics – Multiple Choice Ignoring temperature changes, how much of a pressure increase,; ANSWER: Y) 980,000 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Chemistry – Short Answer What type of fluid undergoes large changes in density in response; ANSWER: SUPERCRITICAL FLUID matches the source after full prompt/options review."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Math – Short Answer Solve the following equation for x: negative 8 plus the absolute value; ANSWER: –8, 32/3 (ACCEPT: 10 2/3 for 32/3) matches the source after full prompt/options review."
+    }
+  ],
+  "packetIssues": []
+}

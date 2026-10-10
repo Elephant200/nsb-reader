@@ -1,0 +1,553 @@
+{
+  "packetIndex": 195,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks the Moon-shadow region during total solar eclipse; answer umbra."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists three water terms with nucleophile/Bronsted cues; answer ALL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives a dwarf planet at 92 AU and orbital-period options 110 through 110,000 years; key 1,100."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists energy, enthalpy, entropy, heat with cues; key heat."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 gives f continuous/differentiable on [2,6] and four candidate points; key 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists Reptilia, Aves, Mammalia; answer ALL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists core-density values 5.5, 7.1, 8.9, 12.8; key 12.8. The printed prompt itself spells “density” as “denisty.”"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives 240-V to 20-V transformer, primary 600 turns; secondary answer 50."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks gene-editing method with guide RNAs/Cas nucleases; answer CRISPR with alternatives."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks largest prime factor of 165; answer 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists catalyst, solvent, reactant, chaotropic agent for THF; key solvent. Joined line-wrapped tetrahydrofuran pronunciation cue.",
+      "before": {
+        "question": "Scientists at Oak Ridge National Lab are simulating the breakdown of lignocellulosic [ligno-sellyoo-LOH-sik] biomass in the presence of tetrahydrofuran [tetrah-high-droh- FYOOR-an], or THF. What purpose does THF serve in this reaction?<br>W) Catalyst<br>X) Solvent<br>Y) Reactant<br>Z) Chaotropic [kay-ah-TROH-pik] agent"
+      },
+      "changes": {
+        "question": "Scientists at Oak Ridge National Lab are simulating the breakdown of lignocellulosic [ligno-sellyoo-LOH-sik] biomass in the presence of tetrahydrofuran [tetrah-high-droh-FYOOR-an], or THF. What purpose does THF serve in this reaction?<br>W) Catalyst<br>X) Solvent<br>Y) Reactant<br>Z) Chaotropic [kay-ah-TROH-pik] agent",
+        "question_sanitized": "Scientists at Oak Ridge National Lab are simulating the breakdown of lignocellulosic [ligno-sellyoo-LOH-sik] biomass in the presence of tetrahydrofuran [tetrah-high-droh-FYOOR-an], or THF. What purpose does THF serve in this reaction? W) Catalyst; X) Solvent; Y) Reactant; Z) Chaotropic [kay-ah-TROH-pik] agent"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists four chiral-optical-rotation explanations and cues; key racemic mixture."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists lac-operon roles; key inducer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks diagonals from a vertex of a 42-gon; answer 39."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks metal-organic complex group and includes cation/ligand cues; answer metal-organic frameworks, accept MOFs."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists valence band, band gap, conduction band, ground state; key band gap."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks farthest-advance end moraine; answer terminal moraine with cue."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists Be, Mg, Ca, Sr; key calcium."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks dot product of 4i−7j and 5i+2j; answer 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks Jupiter’s cooler dark downwelling bands; answer belts."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks electric-field surface integral quantity; answer electric flux."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks two bond types formed by p orbitals; answer sigma and pi."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks stage when parental haploid nuclei fuse to form diploid nucleus; answer karyogamy."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists four statements about Mars’ past/present atmosphere; key Y. Choice W in the PDF omits “as” before “Earth’s,” matching source text."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives SLAC catalytic-efficiency finding and fuel cells/batteries/capacitors; answer 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives 15-sided polygon, radius 6, and four trig choices; key 12 sine 12°."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks adenovirus capsid platonic solid; answer icosahedron, accept regular icosahedron."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists pyridinium chlorochromate, oxolane, DMSO as strong-base candidates; answer NONE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks how many of a planet’s five Lagrangian points move; answer FIVE, accept all."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists four enthalpy/entropy/Gibbs-energy statements with pronunciation cues; key Y."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints magnitudes √2 and 3√2 and angles 57°,35°; product magnitude 6 and angle 92°."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists three neutron-star claims; answer ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists four antibody-imaging options; key goat-anti-rabbit RFP."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives thorium statements and fission cue; answer 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists SN1/E1 and SN2/E2 temperature pairings; key Y. Restored subscripts in every option and answer.",
+      "before": {
+        "parts": [
+          "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction?<br>W) S N 1 at low temperatures and E1 at high temperatures<br>X) E1 at low temperatures and S N 1 at high temperatures<br>Y) S N 2 at low temperatures and E2 at high temperatures<br>Z) E2 at low temperatures and S N 2 at high temperatures"
+        ],
+        "options": [
+          "W) S N 1 at low temperatures and E1 at high temperatures",
+          "X) E1 at low temperatures and S N 1 at high temperatures",
+          "Y) S N 2 at low temperatures and E2 at high temperatures",
+          "Z) E2 at low temperatures and S N 2 at high temperatures"
+        ],
+        "answers": [
+          "Y) S N 2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction?<br>W) S<sub>N</sub>1 at low temperatures and E1 at high temperatures<br>X) E1 at low temperatures and S<sub>N</sub>1 at high temperatures<br>Y) S<sub>N</sub>2 at low temperatures and E2 at high temperatures<br>Z) E2 at low temperatures and S<sub>N</sub>2 at high temperatures"
+        ],
+        "parts_sanitized": [
+          "Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction? W) S_N1 at low temperatures and E1 at high temperatures; X) E1 at low temperatures and S_N1 at high temperatures; Y) S_N2 at low temperatures and E2 at high temperatures; Z) E2 at low temperatures and S_N2 at high temperatures"
+        ],
+        "options": [
+          "W) S<sub>N</sub>1 at low temperatures and E1 at high temperatures",
+          "X) E1 at low temperatures and S<sub>N</sub>1 at high temperatures",
+          "Y) S<sub>N</sub>2 at low temperatures and E2 at high temperatures",
+          "Z) E2 at low temperatures and S<sub>N</sub>2 at high temperatures"
+        ],
+        "answers": [
+          "Y) S<sub>N</sub>2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
+        ],
+        "answers_sanitized": [
+          "Y) S_N2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists potassium-channel opening potentials −100, −70, −30, +40 mV; key +40."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives direction vector −5i−6j+2k and point (4,−2,8); answer parametric equations x=−5t+4, y=−6t−2, z=2t+8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks genus-species name of ulcer-associated GI bacteria; answer Helicobacter pylori, accept Campylobacter pylori."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 gives cell charge −9.0 pC and asks enclosed electric flux; answer 1.0.",
+      "before": {
+        "parts": [
+          "Alison measures the net charge inside a cell to be −9.0 picocoulombs [PEE- koh KOO-lawms]. Assuming this charge is perfectly enclosed by the cell membrane, what is the magnitude of the flux, to two significant figures and in newton-meters squared per coulomb, through the cell membrane?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Alison measures the net charge inside a cell to be −9.0 picocoulombs [PEE-koh KOO-lawms]. Assuming this charge is perfectly enclosed by the cell membrane, what is the magnitude of the flux, to two significant figures and in newton-meters squared per coulomb, through the cell membrane?"
+        ],
+        "parts_sanitized": [
+          "Alison measures the net charge inside a cell to be −9.0 picocoulombs [PEE-koh KOO-lawms]. Assuming this charge is perfectly enclosed by the cell membrane, what is the magnitude of the flux, to two significant figures and in newton-meters squared per coulomb, through the cell membrane?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists three Phanerozoic eras and cues; answer ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 ranks ketone, ester, amide; answer 3,2,1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks orders selecting 2 of 11 items with repetition; answer 66."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints H₂, trace organic compounds, and ions claims; answer 1 AND 2. Restored subscript.",
+      "before": {
+        "parts": [
+          "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H 2 ; 2) They contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H<sub>2</sub>; 2) They contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H2; 2) They contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 gives L=2 mH and C=80 μF; resonant frequency answer 2,500 rad/s."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists H₂, He₂, He₂⁺ molecular orbitals with read-as cues; answer 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists Arthropoda, Mollusca, Nematoda, Chordata; answer 1 AND 4."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "source-typo",
+      "itemIndex": 6,
+      "number": 7,
+      "sourcePages": [
+        4
+      ],
+      "evidence": "The source prompt spells “density” as “denisty.” The corpus preserves the printed spelling."
+    },
+    {
+      "kind": "source-typo",
+      "itemIndex": 0,
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Choice W reads “about as thick Earth’s atmosphere today,” missing the second “as” needed for the comparison. The corpus preserves the source wording."
+    }
+  ]
+}

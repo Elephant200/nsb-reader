@@ -1,0 +1,488 @@
+{
+  "packetIndex": 87,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND6.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 to Round 6 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 to Round 6 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 prints x as the logarithm base in logₓ 7 = 1; restored subscript formatting and kept the printed spoken cue.",
+      "before": {
+        "question": "What is x equal to in the following expression: log x 7 = 1 [log base x of 7 equals 1]?"
+      },
+      "changes": {
+        "question": "What is x equal to in the following expression: log<sub>x</sub> 7 = 1 [log base x of 7 equals 1]?",
+        "question_sanitized": "What is x equal to in the following expression: log_x 7 = 1 [log base x of 7 equals 1]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 to Round 6 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 to Round 6 page 4 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 to Round 6 page 4 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 to Round 6 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 to Round 6 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 to Round 6 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 to Round 6 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 to Round 6 page 7 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 to Round 6 page 7 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 to Round 6 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 to Round 6 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 to Round 6 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 to Round 6 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 to Round 6 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 to Round 6 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 to Round 6 page 11 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 to Round 6 page 11 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 to Round 6 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 to Round 6 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 to Round 6 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 to Round 6 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 to Round 6 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 to Round 6 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 to Round 6 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 to Round 6 page 4 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 to Round 6 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 to Round 6 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 to Round 6 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 to Round 6 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 to Round 6 page 7 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 to Round 6 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 to Round 6 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 to Round 6 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 to Round 6 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 to Round 6 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 to Round 6 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 to Round 6 page 11 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered page 11 shows four stacked fractions: W 1/25, X 2/25, Y 3/25, Z 4/25; the answer is X 2/25. Restored each fraction in both embedded and separate choices and corrected the answer.",
+      "before": {
+        "parts": [
+          "A jar contains 50 marbles. Exactly 10% are green, 20% are blue, 30% are yellow, and the rest are orange. Which of the following is the probability of randomly picking first a blue marble, replacing it, and then picking an orange marble? 1<br>W) 25 2<br>X) 25 3<br>Y) 25 4<br>Z) 25 2"
+        ],
+        "options": [
+          "W) 25 2",
+          "X) 25 3",
+          "Y) 25 4",
+          "Z) 25 2"
+        ],
+        "answers": [
+          "X) 25"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A jar contains 50 marbles. Exactly 10% are green, 20% are blue, 30% are yellow, and the rest are orange. Which of the following is the probability of randomly picking first a blue marble, replacing it, and then picking an orange marble?<br>W) <span class=\"nsb-fraction\"><span>1</span><span>25</span></span><br>X) <span class=\"nsb-fraction\"><span>2</span><span>25</span></span><br>Y) <span class=\"nsb-fraction\"><span>3</span><span>25</span></span><br>Z) <span class=\"nsb-fraction\"><span>4</span><span>25</span></span>"
+        ],
+        "parts_sanitized": [
+          "A jar contains 50 marbles. Exactly 10% are green, 20% are blue, 30% are yellow, and the rest are orange. Which of the following is the probability of randomly picking first a blue marble, replacing it, and then picking an orange marble?\nW) 1/25\nX) 2/25\nY) 3/25\nZ) 4/25"
+        ],
+        "options": [
+          "W) <span class=\"nsb-fraction\"><span>1</span><span>25</span></span>",
+          "X) <span class=\"nsb-fraction\"><span>2</span><span>25</span></span>",
+          "Y) <span class=\"nsb-fraction\"><span>3</span><span>25</span></span>",
+          "Z) <span class=\"nsb-fraction\"><span>4</span><span>25</span></span>"
+        ],
+        "answers": [
+          "X) <span class=\"nsb-fraction\"><span>2</span><span>25</span></span>"
+        ],
+        "answers_sanitized": [
+          "X) 2/25"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 to Round 6 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 to Round 6 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 to Round 6 page 13 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    }
+  ],
+  "packetIssues": []
+}

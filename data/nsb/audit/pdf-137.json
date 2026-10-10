@@ -1,0 +1,485 @@
+{
+  "packetIndex": 137,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_7A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 1: 1) Math – Short Answer A scientist is designing an experiment in which she will determine if there is a correlation between drinking tea and contracting cancer. What statistical term is used to describe the assumption that drinking tea does not correlate with contracting cancer? ANSWER: NULL HYPOTHESIS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 2: 2) Physics – Short Answer Two point charges, Q1 and Q2, that have charges of +8 nanocoulombs and -8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q3, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q3? ANSWER: ZERO",
+      "before": {
+        "question": "Two point charges, Q1 and Q2, that have charges of +8 nanocoulombs and -8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q3, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q3?"
+      },
+      "changes": {
+        "question": "Two point charges, Q<sub>1</sub> and Q<sub>2</sub>, that have charges of +8 nanocoulombs and −8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q<sub>3</sub>, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q<sub>3</sub>?",
+        "question_sanitized": "Two point charges, Q1 and Q2, that have charges of +8 nanocoulombs and −8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q3, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 4: 4) Chemistry – Multiple Choice Which of the following acids is stronger than hydrofluoric acid? W) Iodic acid X) Formic acid Y) Acetic acid Z) Hypochlorous acid ANSWER: W) IODIC ACID"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 5: 5) Biology – Multiple Choice Which of the following amino acids is non-polar? W) Glutamine [gloo-tuh-meen] X) Histidine Y) Leucine [loo-seen] Z) Lysine ANSWER: Y) LEUCINE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 6: 6) Energy – Short Answer During physics lab, you create a graph of the kinetic energy of a bouncing ball versus time. What physical quantity is represented by the slope of the graph? ANSWER: POWER"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 7: 7) Math – Multiple Choice Which of the following is NOT equal to a × log base b of c? W) 1/a × log base b of the fraction a/c X) –a × log base b of the fraction 1/c Y) –log base b of open parenthesis c-a close parenthesis Z) Natural log of (ea) × log base b of c ANSWER: W) 1/a × log BASE b OF THE FRACTION a/c",
+      "before": {
+        "question": "Which of the following is NOT equal to a × log base b of c?<br>W) 1/a × log base b of the fraction a/c<br>X) –a × log base b of the fraction 1/c -a<br>Y) –log base b of open parenthesis c close parenthesis a<br>Z) Natural log of (e ) × log base b of c",
+        "options": [
+          "W) 1/a × log base b of the fraction a/c",
+          "X) –a × log base b of the fraction 1/c -a",
+          "Y) –log base b of open parenthesis c close parenthesis a",
+          "Z) Natural log of (e ) × log base b of c"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT equal to a × log base b of c?<br>W) 1/a × log base b of the fraction a/c<br>X) −a × log base b of the fraction 1/c<br>Y) −log base b of open parenthesis c<sup>−a</sup> close parenthesis<br>Z) Natural log of (e<sup>a</sup>) × log base b of c",
+        "question_sanitized": "Which of the following is NOT equal to a × log base b of c? W) 1/a × log base b of the fraction a/c X) −a × log base b of the fraction 1/c Y) −log base b of open parenthesis c^-a close parenthesis Z) Natural log of (e^a) × log base b of c",
+        "options": [
+          "W) 1/a × log base b of the fraction a/c",
+          "X) −a × log base b of the fraction 1/c",
+          "Y) −log base b of open parenthesis c<sup>−a</sup> close parenthesis",
+          "Z) Natural log of (e<sup>a</sup>) × log base b of c"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 8: 8) Physics – Short Answer Identify all of the following three particles that are considered leptons: 1) Protons; 2) Electrons; 3) Neutrons. ANSWER: 2"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 9: 9) Earth and Space – Multiple Choice A lunar eclipse can occur only during what phase of the moon? W) Full moon X) New moon Y) First quarter Z) Last quarter ANSWER: W) FULL MOON"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 10: 10) Chemistry – Short Answer What major organic product is produced when an ethene and hydrogen gas are reacted on Raney [ray-nee] nickel? ANSWER: ETHANE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 11: 11) Biology – Multiple Choice Which of the following types of cells has the longest lifespan in circulation? W) Erythrocyte [uh-ree-throh-sight] X) Platelet Y) Monocyte Z) Neutrophil [nyoo-troh-fil] ANSWER: W) ERYTHROCYTE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 12: 12) Math – Multiple Choice The average value of a continuous function f(x) on a closed interval from 2 to 6 is 8. What is the value of the definite integral from 2 to 6 of f(x) dx? W) 4 X) 8 Y) 24 Z) 32 ANSWER: Z) 32"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 13: 13) Physics – Short Answer The equations x-prime = x - vt and t-prime = t represent what mathematical conversion, used between two reference frames traveling at speeds much less than the speed of light? ANSWER: GALILEAN TRANSFORMATION"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 14: 14) Earth and Space – Multiple Choice A wind blowing from 135° equates to the wind coming from which direction? W) Northeast X) Northwest Y) Southeast Z) Southwest ANSWER: Y) Southeast"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 15: 15) Energy – Short Answer High power density, low electrical energy capacity, and long cycle life describe what type of battery found in most cars in the United States? ANSWER: LEAD ACID BATTERY"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 16: 16) Chemistry – Multiple Choice Which of the following methods would be most accurate when determining the molecular weight of a polymer? W) Freezing-point depression analysis X) Gravimetry Y) Titration Z) Osmometry ANSWER: Z) OSMOMETRY"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 17: 17) Math – Short Answer For the equation y = 15 + 45 times log base 10 of open parenthesis 10x close parenthesis, where x is the number of years after 2000, find the value of y in 2010. ANSWER: y = 105"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 18: 18) Biology – Multiple Choice Which of the following diseases is caused by a virus? W) Acne X) Shingles Y) Impetigo Z) Necrotizing fasciitis [fash-ee-eye-tis] ANSWER: X) SHINGLES"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 19: 19) Physics – Multiple Choice Which of the following is NOT true regarding semiconductors? W) Doping is used to modulate the electrical properties of a semiconductor X) Silica glass is a semiconductor Y) Silicon is the most commonly used semiconductor in electronics Z) Light emitting diodes can be made of semiconductors ANSWER: X) SILICA GLASS IS A…"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 20: 20) Energy – Multiple Choice Which of the following types of fuel is extracted by hydraulic fracturing? W) Geothermal X) Coal Y) Natural Gas Z) Hydrothermal energy ANSWER: Y) NATURAL GAS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 21: 21) Biology – Multiple Choice If a protein contains a signal peptide, in which of the following locations would it LEAST likely be found? W) Cytosol X) Golgi Body Y) Rough ER Z) Lysosome ANSWER: W) CYTOSOL"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 22: 22) Earth and Space – Multiple Choice Which of the following does not occur after the passage of a cold front? W) Wind direction shift X) Drop in relative humidity Y) Drop in barometric pressure Z) Clearing skies ANSWER: Y) DROP IN BAROMETRIC PRESSURE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed toss-up 23: 23) Chemistry – Short Answer For a given reaction, the rate constant is equal to 93 liters squared per moles squared per second. What is the order of this reaction? ANSWER: THREE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 1: 1) Math – Short Answer Subtracting a certain positive number from its square gives 110. Find the number. ANSWER: 11"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 2: 2) Physics – Short Answer Identify all of the following four reference frames that can be considered approximately intertial: 1) A stationary book; 2) A car coasting along at a steady speed; 3) A sky diver at terminal velocity; 4) A rocket taking off. ANSWER: 1, 2, AND 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 3: 3) Earth and Space – Multiple Choice In a stable atmosphere, which of the following properties of an unsaturated air parcel will increase as the parcel is forced aloft? W) Relative humidity X) Mixing ratio Y) Saturation vapor pressure Z) Barometric pressure ANSWER: W) RELATIVE HUMIDITY"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 4: 4) Chemistry – Multiple Choice Which of the following statements is NOT true regarding alkaline earth metals? W) Calcium burns brick-red in a flame test X) Magnesium has no naturally occurring radioisotopes Y) Radium is found in all uranium-bearing ores Z) Radium has 3 stable isotopes ANSWER: Z) RADIUM HAS 3 STABLE ISOTOPES"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 5: 5) Biology – Short Answer Insects and reptiles excrete nitrogenous [nigh-traw-jen-uhs] waste in what nontoxic form? ANSWER: URIC ACID"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 6: 6) Energy – Short Answer Identify all of the following four processes that result in a decrease in entropy: 1) freezing of water; 2) vaporization of water; 3) extraction of magnesium and pure water from sea water; 4) sublimation of dry ice. ANSWER: 1 AND 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 7: 7) Math – Multiple Choice It takes 3 painters 4 hours to paint one house. How many hours does it take one painter to paint two houses of the same size? W) 12 X) 24 Y) 36 Z) 48 ANSWER: X) 24"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 8: 8) Physics – Short Answer A figure skater is holding his hands outstretched as he spins at 180 rotations per minute. If his hands are 180 centimeters apart, what is the speed in meters per second of his hands in terms of π? ANSWER: 5.4π (ACCEPT: 27/5π)",
+      "before": {
+        "parts": [
+          "A figure skater is holding his hands outstretched as he spins at 180 rotations per minute. If his hands are 180 centimeters apart, what is the speed in meters per second of his hands in terms of π? 5.4π 27/5π)"
+        ],
+        "answers": [
+          "(ACCEPT:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A figure skater is holding his hands outstretched as he spins at 180 rotations per minute. If his hands are 180 centimeters apart, what is the speed in meters per second of his hands in terms of π?"
+        ],
+        "parts_sanitized": [
+          "A figure skater is holding his hands outstretched as he spins at 180 rotations per minute. If his hands are 180 centimeters apart, what is the speed in meters per second of his hands in terms of π?"
+        ],
+        "answers": [
+          "5.4π (ACCEPT: 27/5π)"
+        ],
+        "answers_sanitized": [
+          "5.4π (ACCEPT: 27/5π)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 9: 9) Earth and Space – Multiple Choice At what altitude does the greatest variation in daily temperature occur? W) Near the ground X) 10 meters above the ground Y) 50 meters above the ground Z) 100 meters above the ground ANSWER: W) NEAR THE GROUND"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 10: 10) Chemistry – Multiple Choice To measure the number of moles of barium in a solution containing both magnesium 2+ and barium 2+ ions, a student added sodium sulfate and collected the precipitate. Then, he weighed the precipitate, and used stoichiometric conversions to estimate the number of moles of barium, and discovered that his method over-rep…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 12: 12) Math – Short Answer f(x) is a twice differentiable function where f prime of x is less than 0 and f double prime of x is less than 0 for all real numbers. If f(4) = 12 and f(5) = 9, what is the largest possible integer value for f(6)? ANSWER: 5"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 13: 13) Physics – Multiple Choice An electromagnetic wave that has a wavelength of 10 meters would be best classified as is in which of the following regions of the electromagnetic spectrum? W) Microwave X) Ultraviolet Y) Visible Z) Radio ANSWER: Z) RADIO"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 14: 14) Earth and Space – Multiple Choice Meteorologists use the Enhanced Fujita Scale to determine the strength of a tornado by assessing which of the following? W) Winds of the tornado X) Minimum barometric pressure of the tornado Y) Vorticity of the tornado Z) Damage left behind from the tornado ANSWER: Z) DAMAGE LEFT BEHIND FROM THE TORNADO"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 15: 15) Energy – Short Answer If a solar farm has a nameplate capacity of 50 mega-watts, what is its capacity factor, to the nearest tenth, if it generates an average of 40 mega-watts for 12 hours each day? ANSWER: 0.4"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 16: 16) Chemistry – Short Answer Chromium metal crystallizes in a body-centered cubic lattice. What is the coordination number of each chromium atom in this lattice? ANSWER: 8"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 17: 17) Math – Short Answer Find the smallest three-digit positive integer not ending in zero such that the product of the digits is double the square of the ones-digit. ANSWER: 121"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 18: 18) Biology – Multiple Choice Which of the following compounds would one use to detect the presence of DNA in an agarose gel? W) Ethidium bromide [eth-ih-dee-um broh-myde] X) Coomassie Blue [coo-mah-see] Y) Rhodamine 2 [row-duh-meen] Z) Fluorescein [flow-ruh-seen] ANSWER: W) ETHIDIUM BROMIDE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 19: 19) Physics – Multiple Choice A 50 gram ball moving to the right at 4 meters per second overtakes and collides perfectly elastically with a 100 gram ball moving to the right at 2 meters per second. Which of the following is true after the collision? W) Both balls are moving to the left at 1.33 meters per second and 3.33 meters per second, respectiv…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 20: 20) Energy – Multiple Choice Which of the following represents a negative feedback process regarding climate change? W) Increasing temperature of the Earth causes more water vapor to enter the atmosphere X) As ice melts, the albedo of the Earth decreases Y) As the temperature of the Earth increases, more radiation is radiated into space Z) As the t…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 21: 21) Biology – Multiple Choice Which of the following eye adaptations allows nocturnal animals to see better in dim light when compared to diurnal animals? W) Relatively higher numbers of cone cells X) Presence of a tapetum [tuh-pee-tum] that reflects rather than absorbs light Y) Chemically distinctive vitreous humor that better supports the retina …"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed bonus 23: 23) Chemistry – Short Answer A closed vessel contains nitrogen gas, oxygen gas, and nitrogen dioxide gas. Nitrogen dioxide has a positive enthalpy of formation. Identify all of the following three changes that would shift the equilibrium to the products: 1) Increasing the temperature; 2) Increasing the pressure by adding nitrogen dioxide gas; 3) In…"
+    }
+  ],
+  "packetIssues": []
+}

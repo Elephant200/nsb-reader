@@ -1,0 +1,532 @@
+{
+  "packetIndex": 219,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd4.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Energy – Multiple Choice Scientists at Pacific Northwest National Lab ar”; source answer “W) TUBERCULOSIS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Multiple Choice Lake-effect snow in the Great Lakes regi”; source answer “W) CONTINENTAL POLAR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Math – Short Answer As x approaches 2, the limit of f of x is 8, the lim”; source answer “–12”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source accepts the water formula H₂O; restored subscript 2 and its position in the answer.",
+      "before": {
+        "answer": "WATER (ACCEPT: H O) 2"
+      },
+      "changes": {
+        "answer": "WATER (ACCEPT: H<sub>2</sub>O)",
+        "answer_sanitized": "WATER (ACCEPT: H₂O)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Chemistry – Multiple Choice Which of the following sets of elements are ”; source answer “X) TRANSITION METALS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Physics – Short Answer Rishi tosses a 100-gram ball upward with an initi”; source answer “7.2 (ACCEPT: 7 1/5, 36/5)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Energy – Multiple Choice Scientists at Lawrence Livermore National Lab a”; source answer “Y) NAND”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Short Answer What is the escape velocity at the event ho”; source answer “SPEED OF LIGHT (ACCEPT: c)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Chemistry – Short Answer      What quantum number of an electron in an a”; source answer “PRINCIPAL (ACCEPT: n)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Math – Short Answer A college class contains 15 freshmen, 25 sophomores,”; source answer “3/13”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Physics – Short Answer For an observer in a non-inertial rotating refere”; source answer “CENTRIFUGAL (DO NOT ACCEPT: CENTRIPETAL)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab ar”; source answer “W) A VIRUS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Earth & Space – Multiple Choice On average, which of the following count”; source answer “W) ICELAND”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Physics – Short Answer Cedric subjects a block to forces of various magn”; source answer “MASS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Biology – Short Answer If a protein’s environment is sufficiently altere”; source answer “DENATURATION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Math – Short Answer The least-squares regression line of a trade data se”; source answer “6.3 (ACCEPT: 6 3/10, 63/10)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Chemistry – Multiple Choice Which of the following assumptions is not va”; source answer “Y) MOLECULES MOVE WITH THE SAME SPEED AT A GIVEN TEMPERATURE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Short Answer        During the totality of a total solar”; source answer “CORONA”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Short Answer If the distance between two bodies is tripled, by”; source answer “1/3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Math – Short Answer What is the slope of the line that passes through th”; source answer “–1/3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Short Answer     How many covalent bonds can be found in amm”; source answer “THREE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Biology – Short Answer    What is the term for the tubular structures th”; source answer “HYPHAE (ACCEPT: HYPHA)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Energy – Multiple Choice Scientists at the Joint Genome Institute are st”; source answer “Y) AMANITA”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer What is the smallest angle, in degrees, bet”; source answer “90”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source prints 3i + 5i² + 7i³ + 9i⁴; restored all four powers of i.",
+      "before": {
+        "parts": [
+          "Simplify the following expression involving the complex number i: 3i + 5i 2 + 7i 3 + 9i 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify the following expression involving the complex number i: 3i + 5i<sup>2</sup> + 7i<sup>3</sup> + 9i<sup>4</sup>"
+        ],
+        "parts_sanitized": [
+          "Simplify the following expression involving the complex number i: 3i + 5i² + 7i³ + 9i⁴"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Biology – Short Answer Identify all of the following three forms of symb”; source answer “ALL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Chemistry – Short Answer Identify all of the following three changes tha”; source answer “1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Physics – Short Answer In meters, what is the wavelength of a 100-mega-h”; source answer “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab ar”; source answer “X) RICIN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source prints Venus’s and accepts H₂O twice; repaired the apostrophe and both formula groups.",
+      "before": {
+        "parts": [
+          "Sulfuric acid in Venus&amp;apos;s atmosphere is formed by the combination of sulfur trioxide and what other molecule?"
+        ],
+        "answers": [
+          "WATER (ACCEPT: WATER VAPOR, H O, Gaseous H O) 2 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Sulfuric acid in Venus's atmosphere is formed by the combination of sulfur trioxide and what other molecule?"
+        ],
+        "answers": [
+          "WATER (ACCEPT: WATER VAPOR, H<sub>2</sub>O, Gaseous H<sub>2</sub>O)"
+        ],
+        "answers_sanitized": [
+          "WATER (ACCEPT: WATER VAPOR, H₂O, Gaseous H₂O)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Chemistry – Short Answer Consider the balanced chemical equation describ”; source answer “6”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Biology – Short Answer Identify all of the following three traits that s”; source answer “ALL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source specifies numerator 12x² − 5x + 4 and denominator 9x² − 16; restored both flattened exponents.",
+      "before": {
+        "parts": [
+          "Find the equations of all vertical and all horizontal asymptotes for the graph of y equals the fraction with numerator 12x 2 – 5x + 4 and denominator 9x 2 – 16."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the equations of all vertical and all horizontal asymptotes for the graph of y equals the fraction with numerator 12x<sup>2</sup> – 5x + 4 and denominator 9x<sup>2</sup> – 16."
+        ],
+        "parts_sanitized": [
+          "Find the equations of all vertical and all horizontal asymptotes for the graph of y equals the fraction with numerator 12x² – 5x + 4 and denominator 9x² – 16."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Physics – Short Answer You press down with a 20-newton force on top of a”; source answer “69”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Energy – Short Answer Researchers at Oak Ridge National Lab are developi”; source answer “HEISENBERG UNCERTAINTY PRINCIPLE (ACCEPT: HEISENBERG PRINCIPLE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Earth & Space – Short Answer Identify all of the following three radiois”; source answer “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Physics – Short Answer Vince is in a spaceship two light-minutes away fr”; source answer “12:28”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Biology – Short Answer The scarlet kingsnake has very similar coloration”; source answer “BATESIAN [BAIT-see-in]”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Math – Short Answer A right triangle has hypotenuse of length 63 and one”; source answer “2√62”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Chemistry – Short Answer According to Charles’ law, to what temperature,”; source answer “27”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Earth & Space – Multiple Choice When the Sun evolves from its current st”; source answer “Z) UP AND TO THE RIGHT”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source prints “faster satellite’s orbit”; repaired the double-escaped apostrophe in the prompt.",
+      "before": {
+        "parts": [
+          "Two satellites are in circular orbit about the Earth. If the ratio of their orbital speeds is two, then the radius of the faster satellite&amp;apos;s orbit is how many times that of the slower one?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Two satellites are in circular orbit about the Earth. If the ratio of their orbital speeds is two, then the radius of the faster satellite's orbit is how many times that of the slower one?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source curves are y = x⁴ and y = 3x² + 4; restored superscript 4 and 2 in the prompt.",
+      "before": {
+        "parts": [
+          "What is the area between the curves y = x 4 and y = 3x 2 + 4 between x = 0 and x = 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the area between the curves y = x<sup>4</sup> and y = 3x<sup>2</sup> + 4 between x = 0 and x = 2?"
+        ],
+        "parts_sanitized": [
+          "What is the area between the curves y = x⁴ and y = 3x² + 4 between x = 0 and x = 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Short Answer Identify all of the following three types of da”; source answer “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Biology – Multiple Choice Prostaglandins [praw-stah-glan-dins] are best ”; source answer “W) LIPIDS”."
+    }
+  ],
+  "packetIssues": []
+}

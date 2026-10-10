@@ -1,0 +1,626 @@
+{
+  "packetIndex": 102,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-6.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “Which of the following methods of dissemination of bacterial genetic material is mismatched to its d”; I compared its full wording, every printed choice, significant numbers, and answer key (Z) TRANSFORMATION: ONE BACTERIA ENGULFS ANOTHER TO INTEGRATE ITS DNA) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “A box of proper length l, proper width and proper height is falling right-side up without tumbling t”; I compared its full wording, every printed choice, significant numbers, and answer key (W) ONLY HEIGHT) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “A cube painted red on all sides has an edge length of 4 inches. If the cube is then cut into 64 cube”; I compared its full wording, every printed choice, significant numbers, and answer key (24) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “What percentage of the world’s geothermally produced electricity is produced in the United States? W”; I compared its full wording, every printed choice, significant numbers, and answer key (Z) 30%) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “Which of the following are the latitudes most favorable for tornadogenesis [tohr-nuh-doh-JEN-uh-sis]”; I compared its full wording, every printed choice, significant numbers, and answer key (W) 30- 50 DEGREES NORTH AND SOUTH) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “Which of the following molecules can NOT be isolated as an optically pure sample? W) Valine [VAL-een”; I compared its full wording, every printed choice, significant numbers, and answer key (Z) TRANS-4-CHLOROCYCLOHEXANOL) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints “Which of the following statements is NOT true? W) Electrons, protons, and neutrons obey the Pauli ex”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) ALL FERMIONS HAVE A SPIN OF 1/2) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “The price of an item is discounted by 10% and then the new price is further discounted by 20%. What ”; I compared its full wording, every printed choice, significant numbers, and answer key (X) 28%) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “Which of the following factors is most important in controlling the density of seawater? W) Temperat”; I compared its full wording, every printed choice, significant numbers, and answer key (W) TEMPERATURE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “Which of the following statements is NOT true of polyunsaturated fatty acids? W) They are highly con”; I compared its full wording, every printed choice, significant numbers, and answer key (X) THEY ARE THE MOST PREVALENT FATTY ACID FOUND IN THE HUMAN BODY) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “Which of the following portions of a gene could ultimately be translated to protein? W) Exon X) Term”; I compared its full wording, every printed choice, significant numbers, and answer key (W) EXON) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7 repeats X for its last option. Normalized that final label to Z in the W/X/Y/Z sequence and repaired encoded apostrophes; source keyed answer Y is unchanged.",
+      "before": {
+        "question": "A projectile is launched tangentially to the Earth&amp;apos;s surface with a speed such that it will neither collide with the Earth nor escape its gravity. Ignoring air resistance, this projectile&amp;apos;s trajectory will have what shape?<br>W) Parabolic<br>X) Circular<br>Y) Elliptical<br>X) Hyperbolic",
+        "options": [
+          "W) Parabolic",
+          "X) Circular",
+          "Y) Elliptical",
+          "X) Hyperbolic"
+        ]
+      },
+      "changes": {
+        "question": "A projectile is launched tangentially to the Earth's surface with a speed such that it will neither collide with the Earth nor escape its gravity. Ignoring air resistance, this projectile's trajectory will have what shape?<br>W) Parabolic<br>X) Circular<br>Y) Elliptical<br>Z) Hyperbolic",
+        "options": [
+          "W) Parabolic",
+          "X) Circular",
+          "Y) Elliptical",
+          "Z) Hyperbolic"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “In the mid-state football conference, each team plays every other team exactly once during a calenda”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) 10) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “Which of the following will generally cause the kinetics of a reaction to increase? W) Decreasing su”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) INCREASING TEMPERATURE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “Which of the following is generally NOT considered to be an appropriate S 2 electrophile? N W) Benzy”; I compared its full wording, every printed choice, significant numbers, and answer key (Z) VINYL BROMIDE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “In a landmark 1958 study by researchers Meselson and Stahl involving nitrogen isotope labeling, whic”; I compared its full wording, every printed choice, significant numbers, and answer key (W) SEMICONSERVATIVE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “Ryan, who weighs 150 pounds, and Kate, who weighs 50 pounds, are standing on slippery ice and push o”; I compared its full wording, every printed choice, significant numbers, and answer key (3) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “The IQ of a Martian varies directly with the square of the number of tentacles it has. If a Martian ”; I compared its full wording, every printed choice, significant numbers, and answer key (192) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “What two underwater events can cause tsunamis?”; I compared its full wording, every printed choice, significant numbers, and answer key (EARTHQUAKES AND VOLCANIC ERUPTIONS (ACCEPT: SUBMARINE LANDSLIDES, MASS WASTING EVENTS, LANDSLIDES)) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints the Clausius–Clapeyron slope as W) −ΔHᵥₐₚ/R, X) ΔHᵥₐₚ/R, Y) −R/ΔHᵥₐₚ, Z) R/ΔHᵥₐₚ; each choice includes its spoken explanation, and the key is W.",
+      "before": {
+        "question": "According to the integrated form of the Clausius [KLOU-zee- uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope?<br>W) –∆H /R [negative delta H of vaporization over R] vap ∆H<br>X) /R [delta H of vaporization over R] vap<br>Y) –R/∆H [negative R over delta H of vaporization] vap<br>Z) R/∆H [R over delta H of vaporization] vap",
+        "answer": "W) –∆H /R vap",
+        "options": [
+          "W) –∆H /R [negative delta H of vaporization over R] vap ∆H",
+          "X) /R [delta H of vaporization over R] vap",
+          "Y) –R/∆H [negative R over delta H of vaporization] vap",
+          "Z) R/∆H [R over delta H of vaporization] vap"
+        ]
+      },
+      "changes": {
+        "question": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope?<br>W) −∆H<sub>vap</sub>/R [negative delta H of vaporization over R]<br>X) ∆H<sub>vap</sub>/R [delta H of vaporization over R]<br>Y) −R/∆H<sub>vap</sub> [negative R over delta H of vaporization]<br>Z) R/∆H<sub>vap</sub> [R over delta H of vaporization]",
+        "question_sanitized": "According to the integrated form of the Clausius [KLOU-zee-uhs]-Clapeyron equation solved for the natural logarithm of vapor pressure, vapor pressure and absolute temperature data can be plotted to give a straight line. Which of the following corresponds to the slope? W) -ΔH_vap/R [negative delta H of vaporization over R]; X) ΔH_vap/R [delta H of vaporization over R]; Y) -R/ΔH_vap [negative R over delta H of vaporization]; Z) R/ΔH_vap [R over delta H of vaporization].",
+        "answer": "W) −∆H<sub>vap</sub>/R",
+        "answer_sanitized": "W) -ΔH_vap/R",
+        "options": [
+          "W) −∆H<sub>vap</sub>/R [negative delta H of vaporization over R]",
+          "X) ∆H<sub>vap</sub>/R [delta H of vaporization over R]",
+          "Y) −R/∆H<sub>vap</sub> [negative R over delta H of vaporization]",
+          "Z) R/∆H<sub>vap</sub> [R over delta H of vaporization]"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints “What is the one type of infectious agent that contains no nucleic acid?”; I compared its full wording, every printed choice, significant numbers, and answer key (PRION) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “Which of the following quantities has an inverse-cubic relationship with distance? W) The magnitude ”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) THE MAGNETIC FIELD STRENGTH AT AN AXIAL POINT FROM THE CENTER OF A CURRENT LOOP) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “In one form of epigenetics called genomic imprinting, DNA is silenced by what mechanism? W) Methylat”; I compared its full wording, every printed choice, significant numbers, and answer key (printed answer key) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “A curve banked at 45° has a radius of 62.5 meters. Assuming g = 10 meters per second squared, if a c”; I compared its full wording, every printed choice, significant numbers, and answer key (25) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives rectangular coordinates (3, 3); its polar choices are (3, π/6), (3, π/4), (3√2, π/6), and (3√2, π/4), keyed Z.",
+      "before": {
+        "parts": [
+          "A point has rectangular coordinates What are its equivalent polar coordinates? (3, 𝜋/6)<br>W) (3, 𝜋/4)<br>X) (3√2, 𝜋/6)<br>Y) (3√2, 𝜋/4)<br>Z) (3√2, 𝜋/4)"
+        ],
+        "options": [
+          "W) (3, 𝜋/4)",
+          "X) (3√2, 𝜋/6)",
+          "Y) (3√2, 𝜋/4)",
+          "Z) (3√2, 𝜋/4)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A point has rectangular coordinates (3, 3). What are its equivalent polar coordinates?<br>W) (3, π/6)<br>X) (3, π/4)<br>Y) (3√2, π/6)<br>Z) (3√2, π/4)"
+        ],
+        "parts_sanitized": [
+          "A point has rectangular coordinates (3, 3). What are its equivalent polar coordinates? W) (3, π/6); X) (3, π/4); Y) (3√2, π/6); Z) (3√2, π/4)."
+        ],
+        "options": [
+          "W) (3, π/6)",
+          "X) (3, π/4)",
+          "Y) (3√2, π/6)",
+          "Z) (3√2, π/4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “The rest frame lifetime of a muon is 2.2 microseconds. Muons are produced in the upper atmosphere by”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) TIME DILATION) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “What two chemists, in 2001, were awarded half the Nobel Prize for their work on asymmetric hydrogena”; I compared its full wording, every printed choice, significant numbers, and answer key (KNOWLES AND NOYORI) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered page 4 prints 6 × 10⁻⁷ meters and the answer 1 × 10⁻¹⁵ seconds; both exponents had been detached into trailing text.",
+      "before": {
+        "parts": [
+          "Two light waves travel the same distance of 6 × 10 meters but in mediums of refractive indices 1.54 and 1.00. Providing your answer in scientific notation to one significant figure, what is the time delay in seconds between waves? -15"
+        ],
+        "answers": [
+          "1 × 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Two light waves travel the same distance of 6 × 10<sup>−7</sup> meters but in mediums of refractive indices 1.54 and 1.00. Providing your answer in scientific notation to one significant figure, what is the time delay in seconds between waves?"
+        ],
+        "parts_sanitized": [
+          "Two light waves travel the same distance of 6 x 10^-7 meters but in mediums of refractive indices 1.54 and 1.00. Providing your answer in scientific notation to one significant figure, what is the time delay in seconds between waves?"
+        ],
+        "answers": [
+          "1 × 10<sup>−15</sup>"
+        ],
+        "answers_sanitized": [
+          "1 x 10^-15"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints g(x) = (x − 1)² and asks where g(x) > 4; the key requires both intervals x < −1 and x > 3.",
+      "before": {
+        "parts": [
+          "Let 2 [g of x equal the square of the quantity x minus g(x) &gt; 4 1]. What is the set of all real values of x for which [g of x is greater than 4]? &lt; -1 &gt; 3"
+        ],
+        "answers": [
+          "x OR x (MUST GIVE BOTH ANSWERS)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Let g(x) = (x - 1)<sup>2</sup> [g of x equal the square of the quantity x minus 1]. What is the set of all real values of x for which g(x) &gt; 4 [g of x is greater than 4]?"
+        ],
+        "parts_sanitized": [
+          "Let g(x) = (x − 1)² [g of x equal the square of the quantity x minus 1]. What is the set of all real values of x for which g(x) > 4 [g of x is greater than 4]?"
+        ],
+        "answers": [
+          "x < -1 OR x > 3 (MUST GIVE BOTH ANSWERS)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “How many electrons are transferred for the complete electrochemical oxidation of one hydrogen molecu”; I compared its full wording, every printed choice, significant numbers, and answer key (X) 2) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “The Palmer Drought Severity Index is based on five factors: precipitation, evapotranspiration, the a”; I compared its full wording, every printed choice, significant numbers, and answer key (STORED SOIL MOISTURE (ACCEPT: SOIL MOISTURE)) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “Which of the following is NOT true of conjugated dienes [DY- eens] ? W) Increasing conjugation is pr”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) s-TRANS DIENES PARTICIPATE IN DIELS-ALDER CYCLIZATION) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “What is the reason why many modern crop-producing plants, such as wheat, have much larger cell volum”; I compared its full wording, every printed choice, significant numbers, and answer key (printed answer key) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Root visual QA of PDF p. 7 confirms source key W) 50, with √3 belonging only to choice X and the speed expression. Synchronized the answer with the already repaired source choices.",
+      "before": {
+        "parts": [
+          "A 100 meter spaceship moves past you with speed . At 2T what length in meters do you measure the spaceship? 50<br>W) 50 √3<br>X) 100<br>Y) 200<br>Z) 50"
+        ],
+        "options": [
+          "W) 50 √3",
+          "X) 100",
+          "Y) 200",
+          "Z) 50"
+        ],
+        "answers": [
+          "W) 50 √3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A 100 meter spaceship moves past you with speed √3c/2. At what length in meters do you measure the spaceship?<br>W) 50<br>X) 50√3<br>Y) 100<br>Z) 200"
+        ],
+        "parts_sanitized": [
+          "A 100 meter spaceship moves past you with speed (√3c)/2. At what length in meters do you measure the spaceship? W) 50; X) 50√3; Y) 100; Z) 200."
+        ],
+        "options": [
+          "W) 50",
+          "X) 50√3",
+          "Y) 100",
+          "Z) 200"
+        ],
+        "answers": [
+          "W) 50"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints f(x) = √(2 − x) and asks when f(x + 2) = 1, retaining both bracketed spoken cues; key: x = −1.",
+      "before": {
+        "parts": [
+          "Given [f of x equals the square root of the quantity 2 f(x+2) = 1 minus x], for what value or values of x does [f of the quantity x plus 2 equals 1]? = -1"
+        ],
+        "answers": [
+          "x"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given f(x) = √(2 - x) [f of x equals the square root of the quantity 2 minus x], for what value or values of x does f(x+2) = 1 [f of the quantity x plus 2 equals 1]?"
+        ],
+        "parts_sanitized": [
+          "Given f(x) = √(2 − x) [f of x equals the square root of the quantity 2 minus x], for what value or values of x does f(x+2) = 1 [f of the quantity x plus 2 equals 1]?"
+        ],
+        "answers": [
+          "x = -1"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “In megajoules, how much energy does a 2.5 kilowatt stove use if turned on for two hours?”; I compared its full wording, every printed choice, significant numbers, and answer key (18) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “The average kinetic energy of ions in the solar core is too low to overcome the Coulomb barrier betw”; I compared its full wording, every printed choice, significant numbers, and answer key (QUANTUM TUNNELING) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “What is the major organic product formed when 1-butanol is treated with the Collins reagent?”; I compared its full wording, every printed choice, significant numbers, and answer key (BUTANAL) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “What is the term for deposition of solid matter composed of mineral substances and salts, formed in ”; I compared its full wording, every printed choice, significant numbers, and answer key (W) CALCULUS) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “The orbit of Mercury has a semi major axis of 0.4 AU and an eccentricity of 0.2. At which of the fol”; I compared its full wording, every printed choice, significant numbers, and answer key (Y) 0.5) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints y = 2cos²x and asks for dy/dx at x = π/4; options are −2, −1, 1, 2, keyed W) −2.",
+      "before": {
+        "parts": [
+          "If 2 [y equals 2 cosine squared of x], what is at y x = 𝜋/4? x<br>W) -2<br>X) -1<br>Y) 1<br>Z) 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If y = 2cos<sup>2</sup>x [y equals 2 cosine squared of x], what is dy/dx at x = π/4?<br>W) -2<br>X) -1<br>Y) 1<br>Z) 2"
+        ],
+        "parts_sanitized": [
+          "If y = 2(cos x)² [y equals 2 cosine squared of x], what is dy/dx at x = π/4? W) -2; X) -1; Y) 1; Z) 2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “Even if nothing was done to clean up the 2010 Deepwater Horizon oil spill in the Gulf of Mexico, whi”; I compared its full wording, every printed choice, significant numbers, and answer key (W) BRAZIL) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints “Place the following four substances in order from lowest to highest boiling point: 1) carbon tetrach”; I compared its full wording, every printed choice, significant numbers, and answer key (2, 3, 1, 4 (ACCEPT: ETHANE, PROPANE, CARBON TETRACHLORIDE, WATER)) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints “Loss of the retinoblastoma gene product, Rb, causes cancer by affecting which of the following porti”; I compared its full wording, every printed choice, significant numbers, and answer key (W) G1/S CHECKPOINT) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “A horizontal water pipe tapers so that the cross-sectional area of the pipe decreases. If the water ”; I compared its full wording, every printed choice, significant numbers, and answer key (-108000 (DO NOT ACCEPT: 108000)) against the corpus."
+    }
+  ],
+  "packetIssues": []
+}

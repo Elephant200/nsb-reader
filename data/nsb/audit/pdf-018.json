@@ -1,0 +1,659 @@
+{
+  "packetIndex": 18,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 1; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 1; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 2; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 2; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+    "evidence": "Compared question/answer fields with Round Robin Round 2, page 3; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 3; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared with the rendered source page 4; the source notation differs from the corpus field and is transcribed in changes.",
+      "changes": {
+        "question": "Blue light has a frequency of about 7.0 × 10<sup>14</sup> hertz. Which of the following is the wavelength of this light in centimeters?<br>W) 4.3 × 10<sup>-5</sup><br>X) 8.4 × 10<sup>-8</sup><br>Y) 3.1 × 10<sup>-12</sup><br>Z) 2.0 × 10<sup>-24</sup>",
+        "question_sanitized": "Blue light has a frequency of about 7.0 × 10^14 hertz. Which of the following is the wavelength of this light in centimeters? W) 4.3 × 10^(-5); X) 8.4 × 10^(-8); Y) 3.1 × 10^(-12); Z) 2.0 × 10^(-24)",
+        "answer": "W) 4.3 × 10<sup>-5</sup>",
+        "answer_sanitized": "W) 4.3 × 10^(-5)",
+        "options": [
+          "W) 4.3 × 10<sup>-5</sup>",
+          "X) 8.4 × 10<sup>-8</sup>",
+          "Y) 3.1 × 10<sup>-12</sup>",
+          "Z) 2.0 × 10<sup>-24</sup>"
+        ]
+      },
+      "before": {
+        "question": "Blue light has a frequency of about 7.0 x 1014 hertz. Which of the following is the wavelength of this light in centimeters?<br>W) 4.3 x 10-5<br>X) 8.4 x 10-8<br>Y) 3.1 x 10-12<br>Z) 2.0 x 10-24",
+        "answer": "W) 4.3 x 10-5",
+        "options": [
+          "W) 4.3 x 10-5",
+          "X) 8.4 x 10-8",
+          "Y) 3.1 x 10-12",
+          "Z) 2.0 x 10-24"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 4; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 5; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 5; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 6; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared with the rendered source page 6; the source notation differs from the corpus field and is transcribed in changes.",
+      "changes": {
+        "question": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c · a<sup>b</sup> − d [c times a to the power of b minus d]?<br>W) 6<br>X) 8<br>Y) 9<br>Z) 12",
+        "question_sanitized": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c * a^b - d [c times a to the power of b minus d]? W) 6; X) 8; Y) 9; Z) 12"
+      },
+      "before": {
+        "question": "The values of a, b, c, and d are 0, 1, 2, and 3, although not necessarily in that order. What is the maximum value of c ∙ ab – d [c times a to the power of b minus d]?<br>W) 6<br>X) 8<br>Y) 9<br>Z) 12"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 7; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 7; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source page 8 asks for the initial and long-time current in the LR circuit and prints 0 and 0.12 amperes; no exponent or subscript is present in this item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 8; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 9; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 9; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 10; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 10; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 11; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 11; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 12; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 12; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 13; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "The rendered source page 1 shows the four hydride formulas with contiguous subscripts; the corpus inserts spaces inside each formula.",
+      "changes": {
+        "parts": [
+          "Which of the following group 6A hydrides has the highest boiling point?<br>W) H<sub>2</sub>O<br>X) H<sub>2</sub>S<br>Y) H<sub>2</sub>Se<br>Z) H<sub>2</sub>Te"
+        ],
+        "answers": [
+          "W) H<sub>2</sub>O"
+        ],
+        "options": [
+          "W) H<sub>2</sub>O",
+          "X) H<sub>2</sub>S",
+          "Y) H<sub>2</sub>Se",
+          "Z) H<sub>2</sub>Te"
+        ]
+      },
+      "before": {
+        "parts": [
+          "Which of the following group 6A hydrides has the highest boiling point?<br>W) H 2 O<br>X) H 2 S<br>Y) H 2 Se<br>Z) H 2 Te"
+        ],
+        "answers": [
+          "W) H 2 O"
+        ],
+        "options": [
+          "W) H 2 O",
+          "X) H 2 S",
+          "Y) H 2 Se",
+          "Z) H 2 Te"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "The rendered source page 1 has the pronunciation split by a line wrap; the corpus retained an extra space after the hyphen.",
+      "before": {
+        "parts": [
+          "In Sanger and cycle DNA sequencing, the absence of a hydroxyl on which position of the ribose ring in a dideoxyribonucleoside [dy-dee-ok-si-ry-boh-NOO- klee-uh-syd] triphosphate, or ddNTP, is responsible for nucleotide chain termination?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In Sanger and cycle DNA sequencing, the absence of a hydroxyl on which position of the ribose ring in a dideoxyribonucleoside [dy-dee-ok-si-ry-boh-NOO-klee-uh-syd] triphosphate, or ddNTP, is responsible for nucleotide chain termination?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 2; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 2; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source page 3 uses the conventional inline name carbon-12 for the isotope; the digits are part of the isotope label, and the source wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared with the rendered source page 3; the source notation differs from the corpus field and is transcribed in changes.",
+      "changes": {
+        "answers": [
+          "3π√2"
+        ],
+        "answers_sanitized": [
+          "3*pi*sqrt(2)"
+        ]
+      },
+      "before": {
+        "answers": [
+          "3𝜋𝜋√2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 4; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 4; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 5; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 5; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 6; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared with the rendered source page 6; the source notation differs from the corpus field and is transcribed in changes.",
+      "changes": {
+        "parts": [
+          "Find the coordinates of all points of intersection between the graphs of y = −x<sup>2</sup> + x and y = |3x + 3| [y equals the absolute value of the quantity 3x plus 3]."
+        ],
+        "parts_sanitized": [
+          "Find the coordinates of all points of intersection between the graphs of y = -x^2 + x and y = |3x + 3| [y equals the absolute value of the quantity 3x plus 3]."
+        ]
+      },
+      "before": {
+        "parts": [
+          "Find the coordinates of all points of intersection between the graphs of y = - x2 + x and 𝑦𝑦 = |3𝑥𝑥 + 3| [y equals the absolute value of the quantity 3x plus 3]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 7; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 7; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 8; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 8; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared with the rendered source page 9; the source notation differs from the corpus field and is transcribed in changes.",
+      "changes": {
+        "parts": [
+          "Determine the coordinates of each inflection point for the graph of <span class=\"nsb-fraction\"><span>1</span><span>3</span></span>x<sup>3</sup> − x<sup>2</sup> − 35x"
+        ],
+        "parts_sanitized": [
+          "Determine the coordinates of each inflection point for the graph of (1/3)x^3 - x^2 - 35x"
+        ],
+        "answers": [
+          "(1, <span class=\"nsb-fraction\"><span>-107</span><span>3</span></span>) (ACCEPT: (1, -35 <span class=\"nsb-fraction\"><span>1</span><span>3</span></span>))"
+        ],
+        "answers_sanitized": [
+          "(1, -107/3) (ACCEPT: (1, -35 1/3))"
+        ]
+      },
+      "before": {
+        "parts": [
+          "Determine the coordinates of each inflection point for the graph of 1 𝑓𝑓(𝑥𝑥) = 𝑥𝑥 3 − 𝑥𝑥 2 − 35𝑥𝑥 3 −107 2"
+        ],
+        "answers": [
+          "(1, ) [ACCEPT: (1, -35 )] 3 3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 9; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 10; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 10; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared with the rendered source page 11; the source notation differs from the corpus field and is transcribed in changes.",
+      "changes": {
+        "answers": [
+          "6 × 10<sup>-4</sup>"
+        ],
+        "answers_sanitized": [
+          "6 × 10^(-4)"
+        ]
+      },
+      "before": {
+        "answers": [
+          "6 x 10-4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 12; wording, answer, and choices match the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared with the rendered source page 12; the source notation differs from the corpus field and is transcribed in changes.",
+      "changes": {
+        "parts": [
+          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid?<br>W) NH<sub>3</sub><br>X) H<sub>2</sub>CO<sub>3</sub><br>Y) BF<sub>3</sub><br>Z) HSO<sub>3</sub><sup>-</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid? W) NH3; X) H2CO3; Y) BF3; Z) HSO3^-"
+        ],
+        "answers": [
+          "Y) BF<sub>3</sub>"
+        ],
+        "answers_sanitized": [
+          "Y) BF3"
+        ],
+        "options": [
+          "W) NH<sub>3</sub>",
+          "X) H<sub>2</sub>CO<sub>3</sub>",
+          "Y) BF<sub>3</sub>",
+          "Z) HSO<sub>3</sub><sup>-</sup>"
+        ]
+      },
+      "before": {
+        "parts": [
+          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid?<br>W) NH 3<br>X) H 2 CO 3<br>Y) BF 3<br>Z) HSO 3 -"
+        ],
+        "answers": [
+          "Y) BF 3"
+        ],
+        "options": [
+          "W) NH 3",
+          "X) H 2 CO 3",
+          "Y) BF 3",
+          "Z) HSO 3 -"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 13; wording, answer, and choices match the source."
+    }
+  ],
+  "packetIssues": []
+}

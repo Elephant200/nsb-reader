@@ -1,0 +1,567 @@
+{
+  "packetIndex": 172,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_8A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1. Printed prompt, choices where present, and answer: 1) Biology – Multiple Choice In green plants, energy is stored mainly in which of the following forms? W) Cellulose X) Starch Y) Glucose Z) ATP ANSWER: X) STARCH"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2. Printed prompt, choices where present, and answer: 2) Earth and Space – Multiple Choice The earliest known single-celled life forms on Earth belong to which of the following taxonomic groups? W) Fungi X) Protoctista Y) Plantae Z) Monera ANSWER: Z) MONERA"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 3. Printed prompt, choices where present, and answer: 3) Math – Multiple Choice A differentiable function f has domain the closed interval from –3 to 4 and range the closed interval from 5 to 12. If f prime of x is greater than 0 for all x in the domain, what is f of –3? W) –3 X) 4 Y) 5 Z) 12 ANSWER: Y) 5"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 prints “Methyl-tertiary-butyl-ether [methil-ter-shee-air-ee- byu-til-eethur], abbreviated MTBE,” with the comma immediately after the bracket.",
+      "before": {
+        "question": "Methyl-tertiary-butyl-ether [methil-ter-shee-air-ee- byu-til-eethur] , abbreviated MTBE, replaced lead in gasoline due to several environmental benefits. In order to raise octane rating in current gasoline, what has subsequently replaced MTBE?"
+      },
+      "changes": {
+        "question": "Methyl-tertiary-butyl-ether [methil-ter-shee-air-ee- byu-til-eethur], abbreviated MTBE, replaced lead in gasoline due to several environmental benefits. In order to raise octane rating in current gasoline, what has subsequently replaced MTBE?",
+        "question_sanitized": "Methyl-tertiary-butyl-ether [methil-ter-shee-air-ee- byu-til-eethur], abbreviated MTBE, replaced lead in gasoline due to several environmental benefits. In order to raise octane rating in current gasoline, what has subsequently replaced MTBE?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 5. Printed prompt, choices where present, and answer: 5) Chemistry – Multiple Choice Which of the following is an example of an ionic compound? W) Methane X) Chlorine dioxide Y) Dinitrogen trioxide Z) Calcium sulfide ANSWER: Z) CALCIUM SULFIDE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6. Printed prompt, choices where present, and answer: 6) Physics – Short Answer A proton is traveling counterclockwise in a circle in the x = 0 plane. In what direction is its magnetic field vector? ANSWER: POSITIVE X"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7. Printed prompt, choices where present, and answer: 7) Earth and Space – Short Answer     Most long-period comets are thought to originate from what region in the solar system? ANSWER: OORT CLOUD"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8. Printed prompt, choices where present, and answer: 8) Chemistry – Short Answer What quantity, in milliliters, of a 0.5 molar solution of sulfuric acid would be required to neutralize 30 mL of a 0.1 molar solution of sodium hydroxide? ANSWER: 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9. Printed prompt, choices where present, and answer: 9) Biology – Multiple Choice Which of the following types of tissue do monocot roots possess at their center that dicot roots do not? W) Xylem X) Pith Y) Collenchyma [koh-LEN-kimma] Z) Trichomes ANSWER: X) PITH"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10. Printed prompt, choices where present, and answer: 10) Physics – Short Answer What type of circuits, which include types such as high-pass and low-pass filters, are composed of a resistor and a capacitor? ANSWER: RC CIRCUIT"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 11. Printed prompt, choices where present, and answer: 11) Energy – Multiple Choice Which of the following weather conditions and times of year is best for achieving efficient energy conversion in a solar thermal plant? W) Partly cloudy day in fall X) Rainy day in spring Y) Partly sunny day in winter Z) Overcast day in summer ANSWER: W) PARTLY CLOUDY DAY IN FALL"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 ends toss-up 12’s question at “... + 2?” and prints “2π/7 (ACCEPT: (2/7)π)”. The imported ACCEPT label was split across question and answer fields.",
+      "before": {
+        "question": "What is the period of the function with equation y = 4 sine open parenthesis 7x + 3 close parenthesis + 2? (ACCEPT:",
+        "answer": "2π/7 (2/7)π)"
+      },
+      "changes": {
+        "question": "What is the period of the function with equation y = 4 sine open parenthesis 7x + 3 close parenthesis + 2?",
+        "answer": "2π/7 (ACCEPT: (2/7)π)",
+        "question_sanitized": "What is the period of the function with equation y = 4 sine open parenthesis 7x + 3 close parenthesis + 2?",
+        "answer_sanitized": "2π/7 (ACCEPT: (2/7)π)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13. Printed prompt, choices where present, and answer: 13) Physics – Multiple Choice A mass on a spring oscillates at a frequency of 200 hertz, creating a low-pitch sound. Which of the following can be done to increase the frequency of the sound produced? W) Increase the mass X) Use a stiffer spring Y) Approach the mass-spring system at a high speed Z) Remove the air in the room ANSWER: X) USE A STIFFER SPRING"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15. Printed prompt, choices where present, and answer: 15) Math – Short Answer In what quadrants does the graph of the equation y = 4x – 3 lie? ANSWER: 1, 3, AND 4 (ACCEPT: FIRST, THIRD, AND FOURTH or ALL BUT SECOND)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16. Printed prompt, choices where present, and answer: 16) Energy – Short Answer DOE scientists recently published a paper in which nanoscale circuitry [sur-cah-tree] was developed by printing a carbon-based semiconductor on a germanium [jer-MAYN-ee-um] surface. What allotrope of carbon are the semiconductors based on? ANSWER: GRAPHENE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17. Printed prompt, choices where present, and answer: 17) Chemistry – Multiple Choice Consider the reaction of two moles of hydrogen gas and one mole of oxygen gas to generate two moles of steam. Which of the following statements is TRUE? W) Delta H is greater than delta U X) Delta H is less than delta U Y) Delta H is equal to delta U Z) Delta H is greater than delta U at high temperatures, but less at low temperatures ANSWER: X) DELTA H IS LESS THAN DELTA U"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18. Printed prompt, choices where present, and answer: 18) Earth and Space – Multiple Choice We see the same side of the moon here on Earth all the time due to what effect? W) Lagrange point X) Gravitational lensing Y) Tidal locking Z) Asynchronous spin ANSWER: Y) TIDAL LOCKING"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 19. Printed prompt, choices where present, and answer: 19) Chemistry – Short Answer The hormone estrogen contains five stereocenters. How many stereoisomers of estrogen are possible? ANSWER: 32"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20. Printed prompt, choices where present, and answer: 20) Earth and Space – Short Answer    What is the second brightest star in the night sky? ANSWER: CANOPUS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 prints “What is 6² − 2⁶?” and answer −28; the 2 and 6 are raised exponents.",
+      "before": {
+        "question": "What is 6 2 – 2 6 ?"
+      },
+      "changes": {
+        "question": "What is 6<sup>2</sup> − 2<sup>6</sup>?",
+        "question_sanitized": "What is 6^2 − 2^6?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23. Printed prompt, choices where present, and answer: 23) Physics – Short Answer An engine does 15 joules of work while exhausting 35 joules of waste heat. What is the percent efficiency of the engine? ANSWER: 30"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2. Printed prompt, choices where present, and answer: 2) Earth and Space – Short Answer What is the chief commercial ore of aluminum? ANSWER: BAUXITE 2017 Regional High School NSB®                                                                           PAGE 1"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3. Printed prompt, choices where present, and answer: 3) Math – Short Answer How many two-digit positive integers do NOT have 5 or 6 as a digit? ANSWER: 56 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; choice X is 80 kilowatts, between W) 8 kilowatts and Y) 8 megawatts. The answer is Y) 8 MEGAWATTS. The raw imported fraction markup was malformed and displaced the 80.",
+      "before": {
+        "parts": [
+          "Which of the following is the best estimate of the electricity consumption of a petascale [PEH-tah-scale] supercomputer today?<br>W) 8 kilowatts<br>X) kilowatts <span class=\"nsb-fraction\">&lt;span&gt;80</span>&lt;span&gt;8</span></span><br>Y) megawatts<br>Z) 80 megawatts"
+        ],
+        "options": [
+          "W) 8 kilowatts",
+          "X) kilowatts <span class=\"nsb-fraction\">&lt;span&gt;80</span>&lt;span&gt;8</span></span>",
+          "Y) megawatts",
+          "Z) 80 megawatts"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the best estimate of the electricity consumption of a petascale [PEH-tah-scale] supercomputer today?<br>W) 8 kilowatts<br>X) 80 kilowatts<br>Y) 8 megawatts<br>Z) 80 megawatts"
+        ],
+        "options": [
+          "W) 8 kilowatts",
+          "X) 80 kilowatts",
+          "Y) 8 megawatts",
+          "Z) 80 megawatts"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the best estimate of the electricity consumption of a petascale [PEH-tah-scale] supercomputer today? W) 8 kilowatts X) 80 kilowatts Y) 8 megawatts Z) 80 megawatts"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 prints the bracketed pronunciation immediately followed by the question mark, with answer SEESAW.",
+      "before": {
+        "parts": [
+          "What is the geometry of sulfur tetrafluoride [tetrah-FLOOR-ide] ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the geometry of sulfur tetrafluoride [tetrah-FLOOR-ide]?"
+        ],
+        "parts_sanitized": [
+          "What is the geometry of sulfur tetrafluoride [tetrah-FLOOR-ide]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6. Printed prompt, choices where present, and answer: 6) Physics – Short Answer What is the adjective for the type of materials that will create an induced magnetic field opposite to an externally applied magnetic field? ANSWER: DIAMAGNETIC 2017 Regional High School NSB®                                                                                PAGE 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7. Printed prompt, choices where present, and answer: 7) Earth and Space – Short Answer In 1943, a volcano suddenly appeared in a corn field in the village of Paricutin and began erupting lava bombs and ash. What type of volcano was this? ANSWER: CINDER CONE (ACCEPT: SCORIA CONE) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8. Printed prompt, choices where present, and answer: 8) Chemistry – Short Answer Identify all of the following three statements that are TRUE of ideal concentration cells: 1) They obey the Nernst equation; 2) At equilibrium, they have a positive redox [REE-dox] potential; 3) They have a positive standard redox potential. ANSWER: 1 2017 Regional High School NSB®                                                                              PAGE 4"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9. Printed prompt, choices where present, and answer: 9) Biology – Short Answer Identify all of the following three processes that are considered active transport: 1) Uptake of glucose via channels; 2) Sodium-calcium exchange; 3) Mucus secretion. ANSWER: 2 AND 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints x of t = t³ − t² + 3t + 5; the answer is 10. The 3 and 2 are raised exponents.",
+      "before": {
+        "parts": [
+          "An object’s position x as a function of time t is: x of t equals t cubed minus t squared plus 3t plus 5. What is the object’s acceleration at time 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "An object’s position x as a function of time t is: x of t equals t<sup>3</sup> minus t<sup>2</sup> plus 3t plus 5. What is the object’s acceleration at time 2?"
+        ],
+        "parts_sanitized": [
+          "An object’s position x as a function of time t is: x of t equals t^3 minus t^2 plus 3t plus 5. What is the object’s acceleration at time 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11. Printed prompt, choices where present, and answer: 11) Energy – Multiple Choice Which of the following accounts for the largest proportion of total US domestic energy production? W) Natural gas X) Petroleum Y) Coal Z) Nuclear ANSWER: W) NATURAL GAS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints the curves y = 4x and y = x³; the answer is 4. The 3 is raised on x.",
+      "before": {
+        "parts": [
+          "What is the area in the first quadrant between the graphs of y = 4x and y = x 3 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the area in the first quadrant between the graphs of y = 4x and y = x<sup>3</sup>?"
+        ],
+        "parts_sanitized": [
+          "What is the area in the first quadrant between the graphs of y = 4x and y = x^3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13. Printed prompt, choices where present, and answer: 13) Physics – Short Answer Identify all of the following three particles that are leptons: 1) Neutrino; 2) Gluon; 3) Positron. ANSWER: 1 AND 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14. Printed prompt, choices where present, and answer: 14) Biology – Multiple Choice With which of the following is protein binding to a TATA [TAH-tah] box activity associated? W) DNA replication X) Transcription Y) Translation Z) Elongation ANSWER: X) TRANSCRIPTION 2017 Regional High School NSB®                                                                                PAGE 7"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15. Printed prompt, choices where present, and answer: 15) Math – Short Answer What is the least common multiple of 14, 16, and 18? ANSWER: 1008 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16. Printed prompt, choices where present, and answer: 16) Energy – Short Answer What is the only baseload electrical power source in the US that is virtually carbon neutral, and supplies 20% of baseload electrical power? ANSWER: NUCLEAR POWER (ACCEPT FISSION, URANIUM) 2017 Regional High School NSB®                                                                             PAGE 8"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 lists Li₂, Be₂, and B₂ as items 1, 2, and 3; answer 1 AND 3. Subscript numbers are retained in the rich parts text.",
+      "before": {
+        "parts": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li<sub>2</sub> ; 2) Be<sub>2</sub> ; 3) B<sub>2</sub> ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li<sub>2</sub>; 2) Be<sub>2</sub>; 3) B<sub>2</sub>."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three diatomic [dye-ah-TOM-ik] molecules that MO theory predicts to be stable: 1) Li_2; 2) Be_2; 3) B_2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 asks about the Earth’s atmosphere and gives Z) IONOSPHERE. The source possessive is Earth’s.",
+      "before": {
+        "parts": [
+          "What layer of the Earth&amp;apos;s atmosphere varies in depth with the time of day and reflects radio waves long distances?<br>W) Photosphere<br>X) Stratosphere<br>Y) Troposphere<br>Z) Ionosphere"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What layer of the Earth&apos;s atmosphere varies in depth with the time of day and reflects radio waves long distances?<br>W) Photosphere<br>X) Stratosphere<br>Y) Troposphere<br>Z) Ionosphere"
+        ],
+        "parts_sanitized": [
+          "What layer of the Earth’s atmosphere varies in depth with the time of day and reflects radio waves long distances? W) Photosphere X) Stratosphere Y) Troposphere Z) Ionosphere"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints read-as cues as [en-AN-tee-oh-mirz], [ray-SEEM-ik], [KYE-ruhl ah-MEEN], and [crow-mah-TAW-grah-fee], with no stray spaces before punctuation. The answer is 1 AND 3 (ACCEPT: CHIRAL CHROMATOGRAPHY AND CRYSTALLIZATION WITH PLUS TARTARIC ACID).",
+      "before": {
+        "parts": [
+          "Identify all of the following three techniques that could separate enantiomers [en-AN- tee-oh-mirz] in a racemic [ray-SEEM-ik] mixture of a chiral amine [KYE-ruhl ah-MEEN] : 1) Chiral chromatography [crow-mah-TAW-grah-fee] ; 2) Crystallization with acetic acid; 3) Crystallization with plus tartaric acid."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three techniques that could separate enantiomers [en-AN-tee-oh-mirz] in a racemic [ray-SEEM-ik] mixture of a chiral amine [KYE-ruhl ah-MEEN]: 1) Chiral chromatography [crow-mah-TAW-grah-fee]; 2) Crystallization with acetic acid; 3) Crystallization with plus tartaric acid."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three techniques that could separate enantiomers [en-AN-tee-oh-mirz] in a racemic [ray-SEEM-ik] mixture of a chiral amine [KYE-ruhl ah-MEEN]: 1) Chiral chromatography [crow-mah-TAW-grah-fee]; 2) Crystallization with acetic acid; 3) Crystallization with plus tartaric acid."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 prints x³ + 5x² − 4x − 20 = 0, with answer −2 AND −5 (must give both answers). The 3 and 2 are raised exponents.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x over the negative integers: x 3 + 5x 2 – 4x – 20 = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x over the negative integers: x<sup>3</sup> + 5x<sup>2</sup> − 4x − 20 = 0"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x over the negative integers: x^3 + 5x^2 − 4x − 20 = 0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 22. Printed prompt, choices where present, and answer: 22) Biology – Short Answer Identify all of the following three molecules that are exocrine [EX-oh-krin] products: 1) EGF; 2) Amylase; 3) ADH. ANSWER: 2 2017 Regional High School NSB®                                                                          PAGE 11"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23. Printed prompt, choices where present, and answer: 23) Physics – Short Answer In classical mechanics, impulse can be calculated by finding the area under the curve on a graph of force versus what quantity? ANSWER: TIME 2017 Regional High School NSB®                                                                           PAGE 12"
+    }
+  ],
+  "packetIssues": []
+}

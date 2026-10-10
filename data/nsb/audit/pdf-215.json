@@ -1,0 +1,490 @@
+{
+  "packetIndex": 215,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-14/2019-NSB-HSR-Round-14A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source answer accepts dinitrogen formula N₂; restored subscript 2.",
+      "before": {
+        "answer": "NITROGEN (ACCEPT: DINITROGEN, N 2 )"
+      },
+      "changes": {
+        "answer": "NITROGEN (ACCEPT: DINITROGEN, N<sub>2</sub>)",
+        "answer_sanitized": "NITROGEN (ACCEPT: DINITROGEN, N₂)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked complete TU2 prompt, options if printed, and answer in packet-specific PDF render; source begins “2) Chemistry – Short Answer Marie places 4.4 grams of dry ice in a vacuum-sealed 5-liter bag at standard temperature. After the dry ice reaches standard temperature, then, to the nearest tenth”; answer “ANSWER: 2.2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete TU3 prompt, options if printed, and answer in packet-specific PDF render; source begins “3) Energy – Multiple Choice Scientists at Los Alamos National Lab are measuring the positron flux in Earth’s upper atmosphere. Which of the following is NOT TRUE concerning”; answer “ANSWER: W) THEY DECAY INTO MUONS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete TU4 prompt, options if printed, and answer in packet-specific PDF render; source begins “4) Physics – Short Answer Consider a circuit in which two light bulbs with equal resistance values are connected in parallel. If one of the light bulbs burns out, by what factor is the”; answer “ANSWER: ONE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked complete TU5 prompt, options if printed, and answer in packet-specific PDF render; source begins “5) Math – Multiple Choice For a conic section, which of the following values of eccentricity would indicate that the conic section is an ellipse?”; answer “ANSWER: X) 0.5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked complete TU7 prompt, options if printed, and answer in packet-specific PDF render; source begins “7) Earth and Space – Short Answer What type of sub-stellar object can fuse deuterium [doo-TEER-ee-um] but not hydrogen?”; answer “ANSWER: BROWN DWARF”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked complete TU8 prompt, options if printed, and answer in packet-specific PDF render; source begins “8) Physics – Short Answer Similar to his famous gold foil experiment, Rutherford bombarded nitrogen-14 atoms with alpha particles, and observed that each event released a proton. Into what”; answer “ANSWER: OXYGEN-17”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked complete TU9 prompt, options if printed, and answer in packet-specific PDF render; source begins “9) Biology – Multiple Choice     The organisms that form arbuscular mycorrhizae are part of what group of fungi?”; answer “ANSWER: X) GLOMEROMYCETES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked complete TU10 prompt, options if printed, and answer in packet-specific PDF render; source begins “10) Math – Multiple Choice The graph of a continuous function f contains the points (3, –6) and (8, –4). The intermediate value theorem guarantees an x-value such that f of x equals which”; answer “ANSWER: W) –5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked complete TU11 prompt, options if printed, and answer in packet-specific PDF render; source begins “11) Energy – Short Answer Researchers at Pacific Northwest National Lab are studying O-linked glycosylation [glye-kaw-sil-AY-shun] of the tau protein. This post-translational process”; answer “ANSWER: ALZHEIMER’S DISEASE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked complete TU12 prompt, options if printed, and answer in packet-specific PDF render; source begins “12) Chemistry – Multiple Choice     Which of the following could be the products of anaerobic fermentation of glucose?”; answer “ANSWER: Y) ETHANOL AND CARBON DIOXIDE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked complete TU13 prompt, options if printed, and answer in packet-specific PDF render; source begins “13) Biology – Multiple Choice    Which of the following organisms is the primary infection target of the virus T2?”; answer “ANSWER: W) E. COLI”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked complete TU14 prompt, options if printed, and answer in packet-specific PDF render; source begins “14) Math – Short Answer Find the value of a for which the following vectors are perpendicular: 9i – 3j and ai + 36j.”; answer “ANSWER: 12”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete TU15 prompt, options if printed, and answer in packet-specific PDF render; source begins “15) Energy – Short Answer Scientists at Brookhaven National Lab use the Relativistic Heavy Ion Collider to study a state of matter thought to have also existed in the early universe. This”; answer “ANSWER: GLUONS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete TU16 prompt, options if printed, and answer in packet-specific PDF render; source begins “16) Physics – Multiple Choice In a rectifier, which of the following pairs of current types describes the input and output of the device, respectively?”; answer “ANSWER: Y) AC-DC”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete TU17 prompt, options if printed, and answer in packet-specific PDF render; source begins “17) Earth and Space – Multiple Choice     What type of drainage pattern will develop on bedrock that is highly jointed?”; answer “ANSWER: Y) RECTANGULAR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete TU18 prompt, options if printed, and answer in packet-specific PDF render; source begins “18) Chemistry – Multiple Choice X-rays with a wavelength of 150 picometers are scattered at an angle of 15 degrees by a crystal. Assuming that this was first-degree scattering, which of the”; answer “ANSWER: Y) 290”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked complete TU19 prompt, options if printed, and answer in packet-specific PDF render; source begins “19) Math – Short Answer     A prism with 24 edges has how many faces? ANSWER: 10”; answer “ANSWER: 10”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked complete TU20 prompt, options if printed, and answer in packet-specific PDF render; source begins “20) Earth and Space – Short Answer What stellar spectral class tends to have the strongest singly-ionized helium absorption lines?”; answer “ANSWER: O [Oh]”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete TU21 prompt, options if printed, and answer in packet-specific PDF render; source begins “21) Physics – Short Answer What model of the nucleus, developed by George Gamow [GAMM-off], suggested that nucleons were held together primarily by short-range interactions?”; answer “ANSWER: LIQUID DROP MODEL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete TU22 prompt, options if printed, and answer in packet-specific PDF render; source begins “22) Chemistry – Short Answer Identify all of the following three chemical reactions that are likely to be spontaneous at room temperature: 1) Solid sodium combines with chlorine gas to”; answer “ANSWER: 1, 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually checked complete TU23 prompt, options if printed, and answer in packet-specific PDF render; source begins “23) Biology – Short Answer       If the sinoatrial [SIGH-no-AY-tree-ul] node fails, what tissue will be responsible for setting the pace of the heart?”; answer “ANSWER: AV NODE (ACCEPT: ATRIOVENTRICULAR NODE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked complete B1 prompt, options if printed, and answer in packet-specific PDF render; source begins “1) Earth and Space – Multiple Choice A transgressive stratigraphic sequence can be related to which of the following events?”; answer “ANSWER: W) SEA-LEVEL RISE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked complete B2 prompt, options if printed, and answer in packet-specific PDF render; source begins “2) Chemistry – Short Answer Identify all of the following three molecules that typically undergo an Sn1 reaction in the presence of a nucleophile: 1) Methyl-bromide;”; answer “ANSWER: 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete B3 prompt, options if printed, and answer in packet-specific PDF render; source begins “3) Energy – Multiple Choice Lawrence Berkeley National Lab scientists are studying the teeth of parrotfish due to their unique structure. Parrotfish can be classified best as which of the”; answer “ANSWER: Y) RAY-FINNED FISH”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: visually checked complete B4 prompt, options if printed, and answer in packet-specific PDF render; source begins “4) Physics – Short Answer Consider a 200-newton-meter torque [tork] that acts on a solid disk of radius one meter and mass 100 kilograms. What is the angular velocity of the disk after 5”; answer “ANSWER: 20”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked complete B5 prompt, options if printed, and answer in packet-specific PDF render; source begins “5) Math – Short Answer What are the coordinates of the image of the point (–1, 5) when it is reflected through the line y = x – 4?”; answer “ANSWER: (9, –5) (ACCEPT: x = 9 AND y = –5)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: visually checked complete B6 prompt, options if printed, and answer in packet-specific PDF render; source begins “6) Biology – Short Answer Identify all of the following three statements that are true of SDS-PAGE: 1) It requires addition of antioxidant to the inner gel chamber; 2) It requires protein”; answer “ANSWER: 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: visually checked complete B7 prompt, options if printed, and answer in packet-specific PDF render; source begins “7) Earth and Space – Short Answer An asteroid revolves around the Sun every 64 Earth-years. To the nearest whole astronomical unit, what is the semimajor axis of the asteroid?”; answer “ANSWER: 16”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source prints cross-sectional area 2 × 10⁻⁶ square meters and Young’s modulus 2 × 10¹¹ newtons per square meter; restored both exponents.",
+      "before": {
+        "parts": [
+          "A certain steel guitar has strings of length 1 meter and cross sectional area 2 times 10 –6 square meter. If the Young’s modulus of steel is 2 times 1011 newtons per square meter, then in newtons, what is the tension in the string when it is stretched 0.02 meter for tuning?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A certain steel guitar has strings of length 1 meter and cross sectional area 2 times 10<sup>−6</sup> square meter. If the Young’s modulus of steel is 2 times 10<sup>11</sup> newtons per square meter, in newtons, what is the tension in the string when it is stretched 0.02 meter for tuning?"
+        ],
+        "parts_sanitized": [
+          "A certain steel guitar has strings of length 1 meter and cross sectional area 2 times 10⁻⁶ square meter. If the Young’s modulus of steel is 2 times 10¹¹ newtons per square meter, in newtons, what is the tension in the string when it is stretched 0.02 meter for tuning?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked complete B9 prompt, options if printed, and answer in packet-specific PDF render; source begins “9) Biology – Short Answer Starting with the fixation of atmospheric nitrogen and ending with the assimilation of nitrogen compounds by plants, order the following three ions of the nitrogen”; answer “ANSWER: 1, 3, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: visually checked complete B10 prompt, options if printed, and answer in packet-specific PDF render; source begins “10) Math – Short Answer How many zeroes occur at the right of the number of permutations of 60 objects taken 20 at a time?”; answer “ANSWER: 5”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: visually checked complete B11 prompt, options if printed, and answer in packet-specific PDF render; source begins “11) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying cytokine [SIGH- toh-KINE] production during disease. Identify all of the following three statements that”; answer “ANSWER: 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root independently rendered packet 215 PDF page 6 to root-final-215-p6.png and confirmed the visible Round 14A footer. BONUS 12 asks which ligands are bidentate: oxalate, ethylene-diamine, cyanide; answer 1, 2. The complete baseline prompt and answer match. The prior Teflon claim came from an incorrect source-page comparison and is withdrawn."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: visually checked complete B13 prompt, options if printed, and answer in packet-specific PDF render; source begins “13) Biology – Short Answer What microsatellite genetic markers do forensic scientists typically use for crime scene DNA analysis?”; answer “ANSWER: STRs (ACCEPT: SHORT TANDEM REPEATS)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source equation has numerator x² − 2x − 24 and denominator x² − 16; restored both square exponents, preserving the full fraction wording.",
+      "before": {
+        "parts": [
+          "The graph of f of x = the fraction with numerator x2 – 2x – 24 and denominator x2 – 16 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f of x?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The graph of f of x = the fraction with numerator x<sup>2</sup> − 2x − 24 and denominator x<sup>2</sup> − 16 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f of x?"
+        ],
+        "parts_sanitized": [
+          "The graph of f of x = the fraction with numerator x² − 2x − 24 and denominator x² − 16 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f of x?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete B15 prompt, options if printed, and answer in packet-specific PDF render; source begins “15) Energy – Short Answer Researchers at Princeton Plasma Physics Lab are studying the Alpha Centauri star system. This system contains how many stars?”; answer “ANSWER: THREE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: visually checked complete B16 prompt, options if printed, and answer in packet-specific PDF render; source begins “16) Physics – Short Answer One mole of an ideal monatomic gas has a net energy change of 1245 joules. To one significant figure and in degrees Celsius, how much does its temperature”; answer “ANSWER: 100”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete B17 prompt, options if printed, and answer in packet-specific PDF render; source begins “17) Earth and Space – Multiple Choice     In which of the following locations would histosols most likely be found?”; answer “ANSWER: X) PEAT BOG”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: visually checked complete B18 prompt, options if printed, and answer in packet-specific PDF render; source begins “18) Chemistry – Short Answer Identify all of the following three numbers of π [pie]-electrons in a conjugated planar cyclic system that would make that system aromatic: 1) Four; 2) Five;”; answer “ANSWER: 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked complete B19 prompt, options if printed, and answer in packet-specific PDF render; source begins “19) Math – Short Answer For the arithmetic sequence with first term 2 and fifth term 22, what is the sum of the first 60 terms?”; answer “ANSWER: 8970”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: visually checked complete B20 prompt, options if printed, and answer in packet-specific PDF render; source begins “20) Earth and Space – Short Answer The C-N-O process in massive stars is responsible for fusing what element into heavier nuclides?”; answer “ANSWER: HYDROGEN”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete B21 prompt, options if printed, and answer in packet-specific PDF render; source begins “21) Physics – Short Answer As the number of degrees of freedom of motion of an ideal gas increases, what does its adiabatic [ad-ee-ah-BAT-ik] index asymptotically [ay-sim-TOT-ik-lee]”; answer “ANSWER: ONE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: visually checked complete B22 prompt, options if printed, and answer in packet-specific PDF render; source begins “22) Chemistry – Short Answer Consider a reaction that is nonspontaneous at 300 kelvins, but becomes spontaneous when the temperature is raised to 400 kelvins. Identify all of the following”; answer “ANSWER: 1, 2, AND 3 (ACCEPT: ALL)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: visually checked complete B23 prompt, options if printed, and answer in packet-specific PDF render; source begins “23) Biology – Short Answer Identify all of the following three statements that are true of eukaryotic mRNA processing: 1) The 5-prime end is capped with a modified cytosine [sigh-toh-”; answer “ANSWER: 2”."
+    }
+  ],
+  "packetIssues": []
+}

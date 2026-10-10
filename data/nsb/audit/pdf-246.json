@@ -1,0 +1,493 @@
+{
+  "packetIndex": 246,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-4.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks for the coenzyme absorbing blue light and prints FAD, accepting flavin adenine dinucleotide."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints x² + y² + 6x + 10y + 27 = 0 and keys (−3, −5); the extracted exponents are baseline.",
+      "before": {
+        "question": "What are the coordinates of the center of the circle with equation x 2 + y 2 + 6x + 10y + 27 = 0?"
+      },
+      "changes": {
+        "question": "What are the coordinates of the center of the circle with equation x<sup>2</sup> + y<sup>2</sup> + 6x + 10y + 27 = 0?",
+        "question_sanitized": "What are the coordinates of the center of the circle with equation x^2 + y^2 + 6x + 10y + 27 = 0?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists four wind-turbine descriptions and keys the net-torque explanation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists T cells, neutrophils, natural killer cells, and macrophages; key W) T CELLS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks about nucleophilic attack on hydrogen and keys ELIMINATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists four Gulf Stream current types and keys Z) WESTERN BOUNDARY CURRENT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists the Geiger-Marsden collision pairs and keys alpha particles with gold nuclei."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 source shows choices 12, 18, 60, 70 and keys Z) 70; extracted option markup corrupts X and omits Y.",
+      "before": {
+        "question": "If x is a positive integer that is divisible by 30 and by 42, it must also be divisible by which of the following?<br>W) 12<br>X) <span class=\"nsb-fraction\">&lt;span&gt;18</span>&lt;span&gt;60</span></span><br>Y) <br>Z) 70",
+        "options": [
+          "W) 12",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;18</span>&lt;span&gt;60</span></span>",
+          "Y) ",
+          "Z) 70"
+        ]
+      },
+      "changes": {
+        "question": "If x is a positive integer that is divisible by 30 and by 42, it must also be divisible by which of the following?<br>W) 12<br>X) 18<br>Y) 60<br>Z) 70",
+        "options": [
+          "W) 12",
+          "X) 18",
+          "Y) 60",
+          "Z) 70"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 keys DAMPED and explicitly rejects DAMPENED."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 keys ALLOPATRIC for geographic-barrier speciation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists four intermolecular interactions and keys Z) DIPOLE-DIPOLE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists carbon dioxide, methane, nitrous oxide, and hydrofluorocarbons; key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 asks for aluminum oxide and prints Al₂O₃ as the answer; corpus subscripts are displaced.",
+      "before": {
+        "answer": "Al O 2 3"
+      },
+      "changes": {
+        "answer": "Al<sub>2</sub>O<sub>3</sub>",
+        "answer_sanitized": "Al₂O₃"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 shows vectors 3i + 4j and ai − 12j and keys a = 16."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 prints particle mass as 8 × 10⁻²⁷ kilograms and keys 0; the extracted exponent is baseline.",
+      "before": {
+        "question": "Consider an ideal gas at 300 kelvins with particles of mass 8 times 10 –27 kilograms. According to the Maxwell-Boltzmann distribution, what is the magnitude, in meters per second, of the average velocity of particles?"
+      },
+      "changes": {
+        "question": "Consider an ideal gas at 300 kelvins with particles of mass 8 times 10<sup>−27</sup> kilograms. According to the Maxwell-Boltzmann distribution, what is the magnitude, in meters per second, of the average velocity of particles?",
+        "question_sanitized": "Consider an ideal gas at 300 kelvins with particles of mass 8 times 10^-27 kilograms. According to the Maxwell-Boltzmann distribution, what is the magnitude, in meters per second, of the average velocity of particles?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 asks what protein composes microfilaments and keys ACTIN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists Avogadro’s, Dalton’s, Charles’s, and Boyle’s laws and keys W) AVOGADRO’S LAW."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 accepts CH₄ for methane; the extracted 4 is baseline.",
+      "before": {
+        "answer": "METHANE (ACCEPT: CH ) 4"
+      },
+      "changes": {
+        "answer": "METHANE (ACCEPT: CH<sub>4</sub>)",
+        "answer_sanitized": "METHANE (ACCEPT: CH₄)"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 keys FAD-related metal choice W) STRONTIUM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks the average value of √(2x − 3) on [6,14] and keys 49/12, accepting 4 1/12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 gives 1500 kilograms, 20 meters per second, and 6000 newtons opposite the velocity; key 50 meters."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 orders Angiosperms, Ginkgophytes, Bryophytes and keys 2, 3, 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints H₂O₂, MnO₄⁻, and O₃ and keys ALL; extracted formula spacing and placement are broken.",
+      "before": {
+        "parts": [
+          "Identify all of the following three species that are considered oxidizing agents: 1) H O ; 2) MnO – ; 3) 2 2 4 O . 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three species that are considered oxidizing agents: 1) H<sub>2</sub>O<sub>2</sub>; 2) MnO<sub>4</sub><sup>−</sup>; 3) O<sub>3</sub>."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three species that are considered oxidizing agents: 1) H₂O₂; 2) MnO₄⁻; 3) O₃."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 names Streak, Density, and Mohs hardness and keys ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 names neutron, electron, and muon and keys 1, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks for the slant asymptote of the displayed rational function and keys y = 3x + 9; the numerator exponent is flattened.",
+      "before": {
+        "parts": [
+          "What is the slope-intercept equation of the slant asymptote of the graph of y equals the fraction with numerator 6x 2 + 3x – 7 and denominator 2x – 5?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope-intercept equation of the slant asymptote of the graph of y equals the fraction with numerator 6x<sup>2</sup> + 3x – 7 and denominator 2x – 5?"
+        ],
+        "parts_sanitized": [
+          "What is the slope-intercept equation of the slant asymptote of the graph of y equals the fraction with numerator 6x^2 + 3x – 7 and denominator 2x – 5?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists the four energy-conservation conditions and keys W) WHEN ONLY CONSERVATIVE FORCES ARE ACTING."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists endospore statements and keys Z) THEY ARE DEHYDRATED."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 source prints ratios 1 to 1, 3 to 1, 1 to 1, and 3 to 1 for the listed isotope pairs; extracted X/Y choices are malformed.",
+      "before": {
+        "parts": [
+          "Chlorine has a molar mass of 35.5 grams per mole. This is because chlorine has two isotopes with what ratio of abundances?<br>W) 1 to 1 chlorine-35 to chlorine-36<br>X) to chlorine-35 to chlorine-36 <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;1</span></span> <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;1</span></span><br>Y) to chlorine-35 to chlorine-37<br>Z) 3 to 1 chlorine-35 to chlorine-37"
+        ],
+        "options": [
+          "W) 1 to 1 chlorine-35 to chlorine-36",
+          "X) to chlorine-35 to chlorine-36 <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;1</span></span> <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;1</span></span>",
+          "Y) to chlorine-35 to chlorine-37",
+          "Z) 3 to 1 chlorine-35 to chlorine-37"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Chlorine has a molar mass of 35.5 grams per mole. This is because chlorine has two isotopes with what ratio of abundances?<br>W) 1 to 1 chlorine-35 to chlorine-36<br>X) 3 to 1 chlorine-35 to chlorine-36<br>Y) 1 to 1 chlorine-35 to chlorine-37<br>Z) 3 to 1 chlorine-35 to chlorine-37"
+        ],
+        "options": [
+          "W) 1 to 1 chlorine-35 to chlorine-36",
+          "X) 3 to 1 chlorine-35 to chlorine-36",
+          "Y) 1 to 1 chlorine-35 to chlorine-37",
+          "Z) 3 to 1 chlorine-35 to chlorine-37"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 names marble, quartzite, and anthracite and keys NONE as foliated."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 lists cortisol, oxytocin, thyroxine, and insulin and keys W) CORTISOL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 asks for √472 to one decimal place and keys 21.7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 gives 3 kilograms and 450 cubic centimeters and keys upward force 25 newtons."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 splits “1,6-bisphosphate” at the printed line-end hyphen; answer is 2 radioactive carbons.",
+      "before": {
+        "parts": [
+          "Assuming that the reactions catalyzed by aldolase are irreversible, a glucose molecule radioactively labeled at the first and second carbons would produce a fructose 1,6- bisphosphate molecule with how many radioactive carbon atoms?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming that the reactions catalyzed by aldolase are irreversible, a glucose molecule radioactively labeled at the first and second carbons would produce a fructose 1,6-bisphosphate molecule with how many radioactive carbon atoms?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 ranks rubidium, sodium, and potassium by increasing first ionization energy as 1, 3, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 splits “space-based” at the printed line-end hyphen; it keys W) THE ATMOSPHERE IS RELATIVELY TRANSPARENT TO RADIO WAVES.",
+      "before": {
+        "parts": [
+          "Which of the following best explains why many radio telescopes are ground based?<br>W) The atmosphere is relatively transparent to radio waves<br>X) The telescopes have to be very large, making them expensive to put into orbit<br>Y) Ground-based telescopes always have better seeing than space- based telescopes<br>Z) There is too much radio interference in space"
+        ],
+        "options": [
+          "W) The atmosphere is relatively transparent to radio waves",
+          "X) The telescopes have to be very large, making them expensive to put into orbit",
+          "Y) Ground-based telescopes always have better seeing than space- based telescopes",
+          "Z) There is too much radio interference in space"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following best explains why many radio telescopes are ground based?<br>W) The atmosphere is relatively transparent to radio waves<br>X) The telescopes have to be very large, making them expensive to put into orbit<br>Y) Ground-based telescopes always have better seeing than space-based telescopes<br>Z) There is too much radio interference in space"
+        ],
+        "options": [
+          "W) The atmosphere is relatively transparent to radio waves",
+          "X) The telescopes have to be very large, making them expensive to put into orbit",
+          "Y) Ground-based telescopes always have better seeing than space-based telescopes",
+          "Z) There is too much radio interference in space"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

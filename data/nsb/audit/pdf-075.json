@@ -1,0 +1,588 @@
+{
+  "packetIndex": 75,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by its printed number and opening wording on Round 9 page 1; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "Needles N<sub>1</sub> , N<sub>2</sub> , and N<sub>3</sub> are made of a ferromagnetic, a paramagnetic, and a diamagnetic substance, respectively. When brought close to them, a magnet will do which of the following?<br>W) Attract N<sub>1</sub> , N<sub>2</sub> , and N<sub>3</sub> weakly<br>X) Attract N<sub>1</sub> strongly, N<sub>2</sub> weakly, and repel N<sub>3</sub> weakly<br>Y) Attract N<sub>1</sub> and N<sub>2</sub> strongly, but repel N<sub>3</sub><br>Z) Attract N<sub>1</sub> strongly, but repel N<sub>2</sub> and N<sub>3</sub> weakly",
+        "options": [
+          "W) Attract N<sub>1</sub> , N<sub>2</sub> , and N<sub>3</sub> weakly",
+          "X) Attract N<sub>1</sub> strongly, N<sub>2</sub> weakly, and repel N<sub>3</sub> weakly",
+          "Y) Attract N<sub>1</sub> and N<sub>2</sub> strongly, but repel N<sub>3</sub>",
+          "Z) Attract N<sub>1</sub> strongly, but repel N<sub>2</sub> and N<sub>3</sub> weakly"
+        ]
+      },
+      "changes": {
+        "question": "Needles N<sub>1</sub>, N<sub>2</sub>, and N<sub>3</sub> are made of a ferromagnetic, a paramagnetic, and a diamagnetic substance, respectively. When brought close to them, a magnet will do which of the following?<br>W) Attract N<sub>1</sub>, N<sub>2</sub>, and N<sub>3</sub> weakly<br>X) Attract N<sub>1</sub> strongly, N<sub>2</sub> weakly, and repel N<sub>3</sub> weakly<br>Y) Attract N<sub>1</sub> and N<sub>2</sub> strongly, but repel N<sub>3</sub><br>Z) Attract N<sub>1</sub> strongly, but repel N<sub>2</sub> and N<sub>3</sub> weakly",
+        "options": [
+          "W) Attract N<sub>1</sub>, N<sub>2</sub>, and N<sub>3</sub> weakly",
+          "X) Attract N<sub>1</sub> strongly, N<sub>2</sub> weakly, and repel N<sub>3</sub> weakly",
+          "Y) Attract N<sub>1</sub> and N<sub>2</sub> strongly, but repel N<sub>3</sub>",
+          "Z) Attract N<sub>1</sub> strongly, but repel N<sub>2</sub> and N<sub>3</sub> weakly"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by its printed number and opening wording on Round 9 page 1; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by its printed number and opening wording on Round 9 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by its printed number and opening wording on Round 9 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by its printed number and opening wording on Round 9 page 3; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "How many real solutions does the equation x + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?"
+      },
+      "changes": {
+        "question": "How many real solutions does the equation x<sup>5</sup> + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?",
+        "question_sanitized": "How many real solutions does the equation x^5 + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by its printed number and opening wording on Round 9 page 3; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by its printed number and opening wording on Round 9 page 4; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by its printed number and opening wording on Round 9 page 5; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by its printed number and opening wording on Round 9 page 5; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by its printed number and opening wording on Round 9 page 6; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by its printed number and opening wording on Round 9 page 6; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by its printed number and opening wording on Round 9 page 7; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 by its printed number and opening wording on Round 9 page 7; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by its printed number and opening wording on Round 9 page 8; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "What is the name of the planar curve with polar equation r = ! (read as: r equals theta)?"
+      },
+      "changes": {
+        "question": "What is the name of the planar curve with polar equation r = θ (read as: r equals theta)?",
+        "question_sanitized": "What is the name of the planar curve with polar equation r = theta (read as: r equals theta)?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by its printed number and opening wording on Round 9 page 9; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by its printed number and opening wording on Round 9 page 9; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by its printed number and opening wording on Round 9 page 10; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by its printed number and opening wording on Round 9 page 10; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by its printed number and opening wording on Round 9 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "question": "By name or number, identify all of the following three species 22+ that are predicted by the molecular orbital model to be stable and diatomic: 1) He (read as: 21+ He 2 [pause] 2 plus), 2) He (read as: He 2 [pause] 1 plus), 3) He<sub>2</sub> . 22+ 2+",
+        "answer": "He AND He (ACCEPT: 1 AND 2)"
+      },
+      "changes": {
+        "question": "By name or number, identify all of the following three species that are predicted by the molecular orbital model to be stable and diatomic: 1) He<sub>2</sub><sup>2+</sup> (read as: He 2 [pause] 2 plus), 2) He<sub>2</sub><sup>+</sup> (read as: He 2 [pause] 1 plus), 3) He<sub>2</sub>.",
+        "question_sanitized": "By name or number, identify all of the following three species that are predicted by the molecular orbital model to be stable and diatomic: 1) He2^2+ (read as: He 2 [pause] 2 plus), 2) He2^+ (read as: He 2 [pause] 1 plus), 3) He2.",
+        "answer": "He<sub>2</sub><sup>2+</sup> AND He<sub>2</sub><sup>+</sup> (ACCEPT: 1 AND 2)",
+        "answer_sanitized": "He2^2+ AND He2^+ (ACCEPT: 1 AND 2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by its printed number and opening wording on Round 9 page 11; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by its printed number and opening wording on Round 9 page 12; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by its printed number and opening wording on Round 9 page 13; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by its printed number and opening wording on Round 9 page 1; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by its printed number and opening wording on Round 9 page 1; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by its printed number and opening wording on Round 9 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by its printed number and opening wording on Round 9 page 2; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by its printed number and opening wording on Round 9 page 3; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by its printed number and opening wording on Round 9 page 3; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by its printed number and opening wording on Round 9 page 4; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by its printed number and opening wording on Round 9 page 4; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by its printed number and opening wording on Round 9 page 5; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by its printed number and opening wording on Round 9 page 5; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by its printed number and opening wording on Round 9 page 6; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by its printed number and opening wording on Round 9 page 6; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by its printed number and opening wording on Round 9 page 7; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by its printed number and opening wording on Round 9 page 7; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by its printed number and opening wording on Round 9 page 8; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by its printed number and opening wording on Round 9 page 8; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by its printed number and opening wording on Round 9 page 9; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "Using proper chemical nomenclature and indicating the charge and physical state of each substance, what is the balanced net ionic equation for the reaction of aqueous calcium chloride with aqueous silver nitrate? +(aq) →"
+        ],
+        "answers": [
+          "Cl + Ag AgCl − (aq) (s) [NOTE: AQ = AQUEOUS; S = SOLID]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Using proper chemical nomenclature and indicating the charge and physical state of each substance, what is the balanced net ionic equation for the reaction of aqueous calcium chloride with aqueous silver nitrate?"
+        ],
+        "answers": [
+          "Cl<sup>−</sup>(aq) + Ag<sup>+</sup>(aq) → AgCl(s) [NOTE: AQ = AQUEOUS; S = SOLID]"
+        ],
+        "parts_sanitized": [
+          "Using proper chemical nomenclature and indicating the charge and physical state of each substance, what is the balanced net ionic equation for the reaction of aqueous calcium chloride with aqueous silver nitrate?"
+        ],
+        "answers_sanitized": [
+          "Cl^-(aq) + Ag^+(aq) → AgCl(s) [NOTE: AQ = AQUEOUS; S = SOLID]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by its printed number and opening wording on Round 9 page 9; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by its printed number and opening wording on Round 9 page 10; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by its printed number and opening wording on Round 9 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "By name or number, identify all of the following four sets of 2 2 atoms and ions that are isoelectronic with each other: set 1) S , Se , Ar; set 2) Cl , Cl, Ar; set 3) − − − 2+ 2 + + Ca , Cl , S , K ; set 4) H , Li , He. − − − 2+ 2- + +"
+        ],
+        "answers": [
+          "Ca , Cl , S , K AND H , Li , He (ACCEPT: SETS 3 AND 4) − −"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "By name or number, identify all of the following four sets of atoms and ions that are isoelectronic with each other: set 1) S<sup>2−</sup>, Se<sup>2−</sup>, Ar; set 2) Cl<sup>−</sup>, Cl, Ar; set 3) Ca<sup>2+</sup>, Cl<sup>−</sup>, S<sup>2−</sup>, K<sup>+</sup>; set 4) H<sup>−</sup>, Li<sup>+</sup>, He."
+        ],
+        "answers": [
+          "Ca<sup>2+</sup>, Cl<sup>−</sup>, S<sup>2−</sup>, K<sup>+</sup> AND H<sup>−</sup>, Li<sup>+</sup>, He (ACCEPT: SETS 3 AND 4)"
+        ],
+        "parts_sanitized": [
+          "By name or number, identify all of the following four sets of atoms and ions that are isoelectronic with each other: set 1) S^2-, Se^2-, Ar; set 2) Cl^-, Cl, Ar; set 3) Ca^2+, Cl^-, S^2-, K^+; set 4) H^-, Li^+, He."
+        ],
+        "answers_sanitized": [
+          "Ca^2+, Cl^-, S^2-, K^+ AND H^-, Li^+, He (ACCEPT: SETS 3 AND 4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by its printed number and opening wording on Round 9 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "Simplify 8 - 4 (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify 8<sup>log₂(4)</sup> − 4<sup>log₂(8)</sup> (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
+        ],
+        "parts_sanitized": [
+          "Simplify 8^(log base 2 of 4) - 4^(log base 2 of 8) (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by its printed number and opening wording on Round 9 page 12; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by its printed number and opening wording on Round 9 page 12; compared the full prompt, choices where present, and answer against the PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by its printed number and opening wording on Round 9 page 13; compared the full prompt, choices where present, and answer against the PDF.",
+      "before": {
+        "parts": [
+          "A soft drink is bottled so that at 25° Celsius, it contains carbon dioxide gas at a pressure of 5 atmospheres over the liquid. Assuming that the partial pressure of carbon dioxide in the atmosphere is 4 × 10 atmospheres and that the Henry’s law constant for −<sup>4</sup> carbon dioxide in aqueous solution is 0.2 moles per liter atmosphere at 25° Celsius, calculate the equilibrium concentrations in moles per liter of carbon dioxide before and after the bottle is opened, respectively. ×10 -5"
+        ],
+        "answers": [
+          "UNOPENED: 1, OPENED: 8"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A soft drink is bottled so that at 25° Celsius, it contains carbon dioxide gas at a pressure of 5 atmospheres over the liquid. Assuming that the partial pressure of carbon dioxide in the atmosphere is 4 × 10<sup>−4</sup> atmospheres and that the Henry’s law constant for carbon dioxide in aqueous solution is 0.2 moles per liter atmosphere at 25° Celsius, calculate the equilibrium concentrations in moles per liter of carbon dioxide before and after the bottle is opened, respectively."
+        ],
+        "answers": [
+          "UNOPENED: 1, OPENED: 8 × 10<sup>−5</sup>"
+        ],
+        "parts_sanitized": [
+          "A soft drink is bottled so that at 25° Celsius, it contains carbon dioxide gas at a pressure of 5 atmospheres over the liquid. Assuming that the partial pressure of carbon dioxide in the atmosphere is 4 × 10^-4 atmospheres and that the Henry’s law constant for carbon dioxide in aqueous solution is 0.2 moles per liter atmosphere at 25° Celsius, calculate the equilibrium concentrations in moles per liter of carbon dioxide before and after the bottle is opened, respectively."
+        ],
+        "answers_sanitized": [
+          "UNOPENED: 1, OPENED: 8 × 10^-5"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

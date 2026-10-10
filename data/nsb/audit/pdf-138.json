@@ -1,0 +1,455 @@
+{
+  "packetIndex": 138,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_8A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 2: 2) Energy – Multiple Choice Which of the following countries uses the highest percentage of wind power per annum to generate electricity? W) France X) Australia Y) Denmark Z) Iceland ANSWER: Y) DENMARK"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 3: 3) Math – Short Answer How many faces does a regular icosahedron have? ANSWER: 20"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 4: 4) Chemistry – Short Answer Argon gas has a total of 3 degrees of freedom. How many of these degrees of freedom are rotation and vibrational, respectively? ANSWER: ZERO AND ZERO"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 5: 5) Earth and Space – Multiple Choice Which of the following is a warm core, low pressure system? W) Anticyclone X) Hurricane Y) Nor’easter Z) Mid-latitude cyclone ANSWER: X) HURRICANE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 6: 6) Physics – Short Answer How much energy, in joules, does a circuit containing a 1.5 volt battery and a 2 ohm resistor dissipate over 8 seconds? ANSWER: 9"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 7: 7) Energy – Multiple Choice Which of the following is least likely to improve the rate of an endothermic reaction involving two gas species reacting on the wall of a vessel? W) Coating the wall with a catalyst X) Increasing the volume Y) Increasing the reactant partial pressure Z) Increasing the temperature ANSWER: X) INCREASING THE VOLUME"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 8: 8) Biology – Multiple Choice At which of the following pH values would pepsin likely be most active? W) 2 X) 4 Y) 6 Z) 8 ANSWER: W) 2"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 9: 9) Math – Multiple Choice What type of conic section is represented by the following equation: 0 = x2 + 2x – y2 + 6y – 14? W) ellipse X) circle Y) hyperbola Z) parabola Answer: Y) HYPERBOLA",
+      "before": {
+        "question": "What type of conic section is represented by the following equation: 2 2 0 = x + 2x – y + 6y – 14?<br>W) ellipse<br>X) circle<br>Y) hyperbola<br>Z) parabola"
+      },
+      "changes": {
+        "question": "What type of conic section is represented by the following equation: 0 = x<sup>2</sup> + 2x − y<sup>2</sup> + 6y − 14?<br>W) ellipse<br>X) circle<br>Y) hyperbola<br>Z) parabola",
+        "question_sanitized": "What type of conic section is represented by the following equation: 0 = x^2 + 2x − y^2 + 6y − 14? W) ellipse X) circle Y) hyperbola Z) parabola"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 10: 10) Chemistry – Short Answer Reaction A has the same change in Gibbs free energy per mole of reactants as reaction B. If 2 moles of electrons are transferred per mole of reactants in reaction A, and 3 moles of electrons are transferred per mole of reactants in reaction B, what is the ratio of the redox potential for reaction A to that of B? ANSWER:…"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 11: 11) Earth and Space – Multiple Choice The rate at which temperature decreases with increasing altitude is known as the: W) Temperature slope X) Lapse rate Y) Temperature sounding Z) Thermocline ANSWER: X) LAPSE RATE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 12: 12) Physics – Short Answer Identify all of the following three particles that would be deflected while traveling in a magnetic field: 1) Positron; 2) Neutrino; 3) Neutron. ANSWER: 1"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 13: 13) Biology – Multiple Choice Which of the following are examples of asexual reproduction? W) Fragmentation, budding, and binary fission X) Parthenocarpic [pahr-then-oh-car-pic] fruit development and budding Y) Binary fission and zygote formation Z) Fragmentation and sporogenesis ANSWER: W) FRAGMENTATION, BUDDING, AND BINARY FISSION"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 14: 14) Chemistry – Short Answer What scientist is credited with discovering electrons and calculating their mass to charge ratio? ANSWER: J.J. THOMSON"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 15: 15) Math – Multiple Choice A continuous function f has domain the closed interval from 1 to 25 and range the closed interval from 3 to 30. If f prime of x is less than 0 for all x in the closed interval from 1 to 25, what is f(25)? W) 1 X) 3 Y) 25 Z) 30 ANSWER: X) 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 17: 17) Physics – Short Answer What is the law that describes the relationship between the magnetic field contribution and its source current element? ANSWER: BIOT-SAVART LAW"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 18: 18) Chemistry – Multiple Choice Which of the following quantities increases with the addition of a catalyst? W) Gibbs free energy X) Activation energy Y) Reaction rate Z) Equilibrium constant ANSWER: Y) REACTION RATE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 19: 19) Energy – Short Answer What term describes the random motion of particles suspended in a fluid resulting from collisions with individual fluid atoms or molecules? ANSWER: BROWNIAN MOTION (ALSO ACCEPT “PEDESIS”)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 20: 20) Math – Short Answer You have some number of marbles of several different sizes and colors. For any set of 5 marbles, at least two of them will be the same size and at least two of them will be the same color. What is the maximum possible number of size-color combinations? ANSWER: 16"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 21: 21) Physics – Multiple Choice Which of the following statements most accurately describes Einstein’s first postulate of special relativity? W) The speed of light in a vacuum is the same in all inertial reference frames X) The laws of physics are the same in all inertial reference frames Y) It is impossible for an observer to travel at the speed of …"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 22: 22) Biology – Multiple Choice Which of the following methods was used to determine the 3D structure of hemoglobin? W) Circular dichroism [dye-croh-ism] X) X-ray crystallography Y) Protein NMR Z) Electrolysis ANSWER: X) X-RAY CRYSTALLOGRAPHY"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 1: 1) Biology – Short Answer Identify all of the following three organelles that are surrounded by a double membrane: 1) Nucleus; 2) Lysosome; 3) Ribosome. ANSWER: 1"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 3: 3) Math – Short Answer You have a sample of 30 values that correspond to the amount of money you spent on gas each month. You notice that the highest value was mistakenly recorded with an extra zero, but after correcting it, it remains the highest value. Identify all of the following three values that change after the correction: 1) Mean; 2) Median…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 4: 4) Chemistry – Multiple Choice Which of the following molecules has a tetrahedral molecular geometry? W) Sulfur tetrafluoride X) Xenon tetrafluoride Y) Carbon tetrafluoride Z) Bromine tetrafluoride anion ANSWER: Y) CARBON TETRAFLUORIDE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 5: 5) Earth and Space – Multiple Choice A total solar eclipse can occur only during what phase of the moon? W) Full moon X) New moon Y) First quarter Z) Last quarter ANSWER: X) NEW MOON"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 6: 6) Physics – Short Answer A spring with spring constant k = 200 newtons per meter with a 0.5 kilogram mass attached is released from rest at 0.02 meters from its equilibrium point. What is the magnitude, in meters per second, of the maximum velocity attained by the mass? ANSWER: 0.4"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 7: 7) Energy – Short Answer A gas expands by 1.2 liters at a constant pressure of 2.5 bar. During the expansion, 500 joules of heat is added. Given that 1 bar = 105 pascals, find the change, in joules, in the internal energy of the gas. ANSWER: 200 (ANSWER MUST BE POSITIVE)",
+      "before": {
+        "parts": [
+          "A gas expands by 1.2 liters at a constant pressure of 2.5 bar. During the 5 expansion, 500 joules of heat is added. Given that 1 bar = 10 pascals, find the change, in joules, in the internal energy of the gas."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A gas expands by 1.2 liters at a constant pressure of 2.5 bar. During the expansion, 500 joules of heat is added. Given that 1 bar = 10<sup>5</sup> pascals, find the change, in joules, in the internal energy of the gas."
+        ],
+        "parts_sanitized": [
+          "A gas expands by 1.2 liters at a constant pressure of 2.5 bar. During the expansion, 500 joules of heat is added. Given that 1 bar = 10^5 pascals, find the change, in joules, in the internal energy of the gas."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 9: 9) Math – Short Answer If the equations 2x + 8 = 4 and ax – 30 = -22 both have the same solution for x, what is the value of a? ANSWER: -4"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 10: 10) Chemistry – Multiple Choice Which of the following amino acids is present in collagen and is often called an imino acid? W) Cysteine [sis-teen] X) Serine Y) Glutamic acid Z) Proline ANSWER: Z) PROLINE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 12: 12) Physics – Multiple Choice An object sits in front of a spherical mirror with a focal length of 20 centimeters. The image produced by the mirror is upright and has a height one-third that of the original object. Which of the following is true? W) The image is real and the mirror is convex X) The image is real and the mirror is concave Y) The ima…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 13: 13) Biology – Multiple Choice Conifers often have needlelike leaves, which are an adaptation to arid conditions. The slopes of mountains, however, often have dense conifer populations and experience a large amount of rainfall each year. Which of the following correctly explains why trees with adaptations to arid climates flourish near mountains? W)…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 14: 14) Chemistry – Short Answer When computing freezing point depression and boiling point elevation most directly, what measure of solute concentration should be used, which has units of moles per kilogram? ANSWER: MOLALITY"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 15: 15) Math – Multiple Choice The two legs of a right triangle have lengths of 6 and 2 times the square root of 3. How long is the altitude to the hypotenuse? W) 2 X) 3 Y) 4 Z) 5 ANSWER: X) 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 16: 16) Earth and Space – Multiple Choice Compared with Earth, Mars has: W) A denser atmosphere X) A shorter year Y) More surface water Z) Lower average surface temperature ANSWER: Z) LOWER AVERAGE SURFACE TEMPERATURE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 17: 17) Physics – Short Answer The daylight color of the sky is most directly caused by which type of scattering? ANSWER: ELASTIC (ACCEPT: RAYLEIGH)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 18: 18) Chemistry – Multiple Choice Which of the following occurs when a dilute solution of ammonia is added to a solution containing iron(III) ions? W) Fe(NH 2 ) 3 precipitates X) Fe(OH) 3 precipitates Y) The solution turns from yellow to blue Z) Hydrogen gas is given off ANSWER: X) Fe(OH) 3 PRECIPITATES",
+      "before": {
+        "parts": [
+          "Which of the following occurs when a dilute solution of ammonia is added to a solution containing iron(III) ions?<br>W) Fe(NH<sub>2</sub> )<sub>3</sub> precipitates<br>X) Fe(OH)<sub>3</sub> precipitates<br>Y) The solution turns from yellow to blue<br>Z) Hydrogen gas is given off"
+        ],
+        "options": [
+          "W) Fe(NH<sub>2</sub> )<sub>3</sub> precipitates",
+          "X) Fe(OH)<sub>3</sub> precipitates",
+          "Y) The solution turns from yellow to blue",
+          "Z) Hydrogen gas is given off"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following occurs when a dilute solution of ammonia is added to a solution containing iron(III) ions?<br>W) Fe(NH<sub>2</sub>)<sub>3</sub> precipitates<br>X) Fe(OH)<sub>3</sub> precipitates<br>Y) The solution turns from yellow to blue<br>Z) Hydrogen gas is given off"
+        ],
+        "options": [
+          "W) Fe(NH<sub>2</sub>)<sub>3</sub> precipitates",
+          "X) Fe(OH)<sub>3</sub> precipitates",
+          "Y) The solution turns from yellow to blue",
+          "Z) Hydrogen gas is given off"
+        ],
+        "parts_sanitized": [
+          "Which of the following occurs when a dilute solution of ammonia is added to a solution containing iron(III) ions? W) Fe(NH2)3 precipitates X) Fe(OH)3 precipitates Y) The solution turns from yellow to blue Z) Hydrogen gas is given off"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 19: 19) Energy – Multiple Choice Which of the following is a disadvantage of using LEDs over incandescent light sources? W) Shorter lifespan X) Larger size Y) Higher energy consumption Z) Temperature dependence of performance quality ANSWER: Z) TEMPERATURE DEPENDENCE OF PERFORMANCE QUALITY"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 20: 20) Math – Short Answer Determine all values in the closed interval from zero to 2 times the square root of 3 that are prescribed by Rolle’s [Rolls] Theorem for f(x) = x3 – 12x. ANSWER: 2",
+      "before": {
+        "parts": [
+          "Determine all values in the closed interval from zero to 2 times the square root of 3 3 that are prescribed by Rolle’s [Rolls] Theorem for f(x) = x – 12x."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Determine all values in the closed interval from zero to 2 times the square root of 3 that are prescribed by Rolle’s [Rolls] Theorem for f(x) = x<sup>3</sup> − 12x."
+        ],
+        "parts_sanitized": [
+          "Determine all values in the closed interval from zero to 2 times the square root of 3 that are prescribed by Rolle’s [Rolls] Theorem for f(x) = x^3 − 12x."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 21: 21) Physics – Short Answer What phenomenon occurs in solid materials that results in a burst of light when the material is crushed or scratched? ANSWER: TRIBOLUMINESCENCE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 22: 22) Biology – Short Answer What common second messenger is released after epinephrine binds to liver GPCRs and was the subject of the 1994 Nobel Prize? ANSWER: CYCLIC AMP (ACCEPT: cAMP)"
+    }
+  ],
+  "packetIssues": []
+}

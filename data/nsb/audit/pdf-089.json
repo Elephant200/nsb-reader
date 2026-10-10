@@ -1,0 +1,559 @@
+{
+  "packetIndex": 89,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND8.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 to Round 8 page 1 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 to Round 8 page 1 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 to Round 8 page 2 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 to Round 8 page 2 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered page 3 prints the derivative as sec²u; restored the exponent.",
+      "before": {
+        "answer": "sec2u"
+      },
+      "changes": {
+        "answer": "sec<sup>2</sup>u",
+        "answer_sanitized": "sec^2 u"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 to Round 8 page 3 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 to Round 8 page 4 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 to Round 8 page 4 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 to Round 8 page 5 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 to Round 8 page 5 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 shows (x² + 2y³) to the twentieth power; restored exponents and preserved the spoken cue.",
+      "before": {
+        "question": "How many terms does the binomial expansion of (x2 + 2y3)20 [open parenthesis x squared plus 2 y cubed close parenthesis to the power of 20] contain?"
+      },
+      "changes": {
+        "question": "How many terms does the binomial expansion of (x<sup>2</sup> + 2y<sup>3</sup>)<sup>20</sup> [open parenthesis x squared plus 2 y cubed close parenthesis to the power of 20] contain?",
+        "question_sanitized": "How many terms does the binomial expansion of (x^2 + 2y^3)^20 [open parenthesis x squared plus 2 y cubed close parenthesis to the power of 20] contain?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 to Round 8 page 6 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 to Round 8 page 7 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 to Round 8 page 8 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 shows C₄H₈, C₃H₈, C₂H₂, and C₂H₅OH; restored all molecular subscripts in the embedded/separate choices and answer.",
+      "before": {
+        "question": "Which of the following molecules is an alkane?<br>W) C 4 H 8<br>X) C 3 H 8<br>Y) C 2 H 2<br>Z) C 2 H 5 OH",
+        "options": [
+          "W) C 4 H 8",
+          "X) C 3 H 8",
+          "Y) C 2 H 2",
+          "Z) C 2 H 5 OH"
+        ],
+        "answer": "X) C 3 H 8"
+      },
+      "changes": {
+        "question": "Which of the following molecules is an alkane?<br>W) C<sub>4</sub>H<sub>8</sub><br>X) C<sub>3</sub>H<sub>8</sub><br>Y) C<sub>2</sub>H<sub>2</sub><br>Z) C<sub>2</sub>H<sub>5</sub>OH",
+        "question_sanitized": "Which of the following molecules is an alkane?\nW) C4H8\nX) C3H8\nY) C2H2\nZ) C2H5OH",
+        "options": [
+          "W) C<sub>4</sub>H<sub>8</sub>",
+          "X) C<sub>3</sub>H<sub>8</sub>",
+          "Y) C<sub>2</sub>H<sub>2</sub>",
+          "Z) C<sub>2</sub>H<sub>5</sub>OH"
+        ],
+        "answer": "X) C<sub>3</sub>H<sub>8</sub>",
+        "answer_sanitized": "X) C3H8"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 to Round 8 page 9 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 to Round 8 page 10 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 to Round 8 page 10 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 to Round 8 page 11 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 to Round 8 page 11 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 to Round 8 page 12 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 to Round 8 page 12 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 to Round 8 page 13 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 to Round 8 page 1 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 to Round 8 page 1 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 to Round 8 page 2 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 to Round 8 page 2 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 to Round 8 page 3 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 to Round 8 page 3 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 to Round 8 page 4 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 to Round 8 page 4 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 to Round 8 page 5 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 to Round 8 page 5 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 shows the four rational functions with fifth-, fourth-, third-, and second-power terms and their spoken cues; restored fraction structure and powers in part, choices, and answer.",
+      "before": {
+        "parts": [
+          "Which of the following functions has an oblique asymptote?<br>W) f(x) = (x5 + 1)/(x4 + 3x2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]<br>X) f(x) = (x2 + 1)/(x3 - x2 - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]<br>Y) f(x) = (4x2 + x + 1)/x2 [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]<br>Z) f(x) = x5/(x2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+        ],
+        "options": [
+          "W) f(x) = (x5 + 1)/(x4 + 3x2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]",
+          "X) f(x) = (x2 + 1)/(x3 - x2 - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]",
+          "Y) f(x) = (4x2 + x + 1)/x2 [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]",
+          "Z) f(x) = x5/(x2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+        ],
+        "answers": [
+          "W) f(x) = (x5 + 1)/(x4 + 3x2 + 2)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following functions has an oblique asymptote?<br>W) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup> + 1</span><span>x<sup>4</sup> + 3x<sup>2</sup> + 2</span></span> [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]<br>X) f(x) = <span class=\"nsb-fraction\"><span>x<sup>2</sup> + 1</span><span>x<sup>3</sup> - x<sup>2</sup> - 1</span></span> [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]<br>Y) f(x) = <span class=\"nsb-fraction\"><span>4x<sup>2</sup> + x + 1</span><span>x<sup>2</sup></span></span> [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]<br>Z) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup></span><span>x<sup>2</sup> - 1</span></span> [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+        ],
+        "parts_sanitized": [
+          "Which of the following functions has an oblique asymptote?\nW) f(x) = (x^5 + 1)/(x^4 + 3x^2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]\nX) f(x) = (x^2 + 1)/(x^3 - x^2 - 1) [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]\nY) f(x) = (4x^2 + x + 1)/(x^2) [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]\nZ) f(x) = x^5/(x^2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+        ],
+        "options": [
+          "W) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup> + 1</span><span>x<sup>4</sup> + 3x<sup>2</sup> + 2</span></span> [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]",
+          "X) f(x) = <span class=\"nsb-fraction\"><span>x<sup>2</sup> + 1</span><span>x<sup>3</sup> - x<sup>2</sup> - 1</span></span> [f of x equals open parenthesis x squared plus 1 close parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis]",
+          "Y) f(x) = <span class=\"nsb-fraction\"><span>4x<sup>2</sup> + x + 1</span><span>x<sup>2</sup></span></span> [f of x equals open parenthesis 4 x squared plus x plus 1 close parenthesis over x squared]",
+          "Z) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup></span><span>x<sup>2</sup> - 1</span></span> [f of x equals x to the fifth over open parenthesis x squared minus 1 close parenthesis]"
+        ],
+        "answers": [
+          "W) f(x) = <span class=\"nsb-fraction\"><span>x<sup>5</sup> + 1</span><span>x<sup>4</sup> + 3x<sup>2</sup> + 2</span></span> [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]"
+        ],
+        "answers_sanitized": [
+          "W) f(x) = (x^5 + 1)/(x^4 + 3x^2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close parenthesis]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 to Round 8 page 6 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered page 7 shows g(b)=6b³−4b²+b+4b⁻¹ and derivative 18b²−8b+1−4b⁻², with accepted final term −4/b²; restored powers and reciprocal fraction.",
+      "before": {
+        "parts": [
+          "If g(b) = 6b3 – 4b2 + b + 4b -1 [g of b equals 6 b cubed minus 4 b squared plus b plus 4 b to the negative 1], what is g’(b) [g prime of b]?"
+        ],
+        "answers": [
+          "18b2 – 8b + 1 – 4b-2 (ACCEPT: 18b2 – 8b + 1 – )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If g(b) = 6b<sup>3</sup> – 4b<sup>2</sup> + b + 4b<sup>−1</sup> [g of b equals 6 b cubed minus 4 b squared plus b plus 4 b to the negative 1], what is g’(b) [g prime of b]?"
+        ],
+        "parts_sanitized": [
+          "If g(b) = 6b^3 – 4b^2 + b + 4b^-1 [g of b equals 6 b cubed minus 4 b squared plus b plus 4 b to the negative 1], what is g’(b) [g prime of b]?"
+        ],
+        "answers": [
+          "18b<sup>2</sup> – 8b + 1 – 4b<sup>−2</sup> (ACCEPT: 18b<sup>2</sup> – 8b + 1 – <span class=\"nsb-fraction\"><span>4</span><span>b<sup>2</sup></span></span>)"
+        ],
+        "answers_sanitized": [
+          "18b^2 – 8b + 1 – 4b^-2 (ACCEPT: 18b^2 – 8b + 1 – 4/b^2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 to Round 8 page 7 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 to Round 8 page 8 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 to Round 8 page 8 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 to Round 8 page 9 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 to Round 8 page 9 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 to Round 8 page 10 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 to Round 8 page 11 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 to Round 8 page 11 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 to Round 8 page 12 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 to Round 8 page 13 by printed number and wording; compared the full prompt/part, choices where present, and answer to the rendered page."
+    }
+  ],
+  "packetIssues": []
+}

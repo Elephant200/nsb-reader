@@ -12,17 +12,28 @@ function cleanText (value) {
 }
 
 function cleanSanitizedText (value, fallback) {
-  const text = (typeof value === 'string' && value.trim()) ? value : fallback;
+  let text = (typeof value === 'string' && value.trim()) ? value : fallback;
   const powers = { sup: '⁰¹²³⁴⁵⁶⁷⁸⁹', sub: '₀₁₂₃₄₅₆₇₈₉' };
   const symbols = { sup: { '+': '⁺', '-': '⁻', '=': '⁼', '(': '⁽', ')': '⁾' }, sub: { '+': '₊', '-': '₋', '=': '₌', '(': '₍', ')': '₎' } };
-  const convertPower = (value, type) => [...value].map(char => /\d/.test(char) ? powers[type][Number(char)] : (symbols[type][char] ?? char)).join('');
+  const convertPower = (value, type) => {
+    value = value.trim().replace(/−/g, '-');
+    if (!value) return '';
+    if (!/^[\d+\-=()]+$/.test(value)) return `${type === 'sup' ? '^' : '_'}(${value})`;
+    return [...value].map(char => /\d/.test(char) ? powers[type][Number(char)] : symbols[type][char]).join('');
+  };
+  // Work from inner to outer powers; flattening nested or fractional exponents
+  // would change their meaning in progressive reading and answer checking.
+  text = text.replace(/(\d)<sup>(st|nd|rd|th)<\/sup>/gi, '$1$2');
+  let previous;
+  do {
+    previous = text;
+    text = text.replace(/<(sup|sub)>([^<]*)<\/\1>/gi, (_, type, value) => convertPower(value, type.toLowerCase()));
+  } while (text !== previous);
   return unformatString(text
     .replace(/<br\s*\/?\s*>/gi, '\n')
     .replace(/<span class=["']nsb-fraction["']><span>([\s\S]*?)<\/span><span>([\s\S]*?)<\/span><\/span>/gi, '($1)/($2)')
-    .replace(/<sup>([^<]*)<\/sup>/gi, (_, value) => convertPower(value, 'sup'))
-    .replace(/<sub>([^<]*)<\/sub>/gi, (_, value) => convertPower(value, 'sub'))
     .replace(/<\/?(?:b|strong|em|i|sup|sub)\s*>/gi, '')
-    .replace(/&(?:amp|lt|gt|quot|#39);/gi, entity => ({ '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#39;': "'" }[entity.toLowerCase()])));
+    .replace(/&(?:amp|lt|gt|quot|#39);/gi, entity => ({ '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#39;': "'" }[entity.toLowerCase()])), { preserveMath: true });
 }
 
 function sourceNumber (item, index, kind) {

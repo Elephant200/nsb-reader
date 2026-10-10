@@ -16,3 +16,6 @@ audio/
 .cloudflare/
 .wrangler/
 .dev.vars*
+
+# Downloaded source PDFs and rendered pages for the NSB formatting audit
+/tmp/pdfs/nsb-audit/

@@ -1,0 +1,494 @@
+{
+  "packetIndex": 198,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-17.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 1) Earth and Space – Multiple Choice Which of the following ocean currents does NOT flow from higher latitudes toward the equator? W) The California Current X) ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints the equations y = 9x² + 3 and y = −27x + 3; restored the superscript on x².",
+      "before": {
+        "question": "What are the x-coordinates of the intersections of the graphs of the equations y = 9x 2 + 3 and y = –27x + 3?"
+      },
+      "changes": {
+        "question": "What are the x-coordinates of the intersections of the graphs of the equations y = 9x<sup>2</sup> + 3 and y = –27x + 3?",
+        "question_sanitized": "What are the x-coordinates of the intersections of the graphs of the equations y = 9x^2 + 3 and y = –27x + 3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 3) Chemistry – Multiple Choice A student wishes to convert an aldehyde to a secondary alcohol. Which of the following reagents would be most useful? W) Alkyl [A."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 4) Physics – Multiple Choice Planck resolved the ultraviolet catastrophe for black bodies by postulating the quantization of photon energies to derive an expres."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 5) Biology – Short Answer Identify all of the following four phyla [FYE-lah] that exhibit radial symmetry: 1) Porifera [poor-IH-fer-ah]; 2) Cnidaria [nye-DARE-e."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 6) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab recently captured images of a Type one-A supernova in a galaxy four billion light-years."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 7) Earth and Space – Multiple Choice Which of the following drainage patterns would likely be visible on jointed, rocky terrain? W) Dendritic [den-DRIH-dik] X) ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 8) Biology – Multiple Choice A patient is demonstrating loss in bone density. Which of the following hormones would be most useful in treating this symptom? W) ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 9) Energy – Multiple Choice DOE scientists are using the Advanced Light Source to study atmospheric reentry heat shields, including PICA [PEE-kah], the type cur."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 10) Math – Short Answer What is the product of the three different prime factors of 315? ANSWER: 105."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 11) Physics – Short Answer In terms of the elementary charge e, what is the electric charge of an up quark? ANSWER: POSITIVE (2/3)e (ACCEPT: (2/3)e, 2e/3)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 12) Chemistry – Multiple Choice The precipitation reaction caused by the addition of potassium chloride to aqueous [AY-kwee-us] silver nitrate is an example of ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 13) Biology – Short Answer The five-prime cap added to mRNA is a modified version of what nucleotide base? ANSWER: GUANINE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 14) Physics – Short Answer When looking at it through a plane mirror, a flagpole appears to be 10 centimeters tall. Given that the eye-to-mirror distance is 0.4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 15) Energy – Multiple Choice Lithium-ion batteries are generally built in the discharged state, then recharged after construction. Which of the following best e."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 16) Chemistry – Multiple Choice Which of the following substances is more soluble in toluene than in water? W) Carbon tetrachloride X) Sodium chloride Y) Acetic."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 17) Math – Short Answer What is the integral with respect to x from 9 to 64 of the derivative of the square root of x? ANSWER: 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 18) Earth and Space – Multiple Choice A soil sample is extracted from a soil monolith in a temperate forest environment. The sample contains a relatively high c."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 19) Physics – Short Answer What quantity, inversely related to compressibility, measures a material’s ability to resist pressures coming from all sides, such as."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints superscript 3 on x and 2 on y in the binomial; retained the source wording “open parenthesis” and “to 18th power.”",
+      "before": {
+        "question": "How many terms does the binomial expansion of open parenthesis 8x 3 + 5y 2 close parenthesis to 18 th power contain?"
+      },
+      "changes": {
+        "question": "How many terms does the binomial expansion of open parenthesis 8x<sup>3</sup> + 5y<sup>2</sup> close parenthesis to 18th power contain?",
+        "question_sanitized": "How many terms does the binomial expansion of open parenthesis 8x^3 + 5y^2 close parenthesis to 18th power contain?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 21) Biology – Short Answer What is the name of the jelly-like fluid that fills the human eye? ANSWER: VITREOUS HUMOR (ACCEPT: VITREOUS BODY)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 22) Chemistry – Short Answer Identify all of the following three statements that are true regarding the denticity of ligands [LIH-gundz]: 1) Bromine [BROH-meen]."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 23) Earth and Space – Short Answer What spectral class of stars possesses the strongest Balmer lines? ANSWER: A (ACCEPT: A-ZERO)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 1) Earth and Space – Multiple Choice Which of the following events occurred in the Late Mississippian? W) Breakup of Rodinia X) Collision of Gondwana with Laura."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 2) Math – Short Answer What is the cube of the complex number 3 + 5i? ANSWER: –198 + 10i."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 3) Chemistry – Short Answer Andrew synthesizes a compound that consists of a benzene ring with an alcohol group in the one position and a primary amine in the f."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 4) Physics – Short Answer A spinning dancer draws her arms inwards until she rotates at 3 times her original velocity. In terms of her original kinetic energy E."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 5) Biology – Short Answer In humans, circadian [sir-KAY-dee-an] rhythms are controlled by a specific group of neurons in the hypothalamus [high-poh-THAL-ah-mus]."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 6) Energy – Multiple Choice One of the most promising generation IV nuclear reactor designs involves the use of supercritical water as the coolant. What is the ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 7) Earth and Space – Short Answer Identify all of the following three latitudes that trade winds can be found in: 1) Between 60 and 30 degrees south; 2) Between."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 8) Biology – Short Answer Identify all of the following three statements that are true of nitrogenous [nye-TRAW-jen-us] waste excretion: 1) Ammonia excretion re."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 9) Energy – Multiple Choice Scientists at SLAC [slack] recently demonstrated that coating the gold tip of an electron gun with nanodiamonds resulted in a higher."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 10) Math – Short Answer What is the approximation for the sine of 2 that results from using the first three nonzero terms of the Taylor series for sine x center."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 11) Physics – Short Answer An excess charge is distributed over the surface of a solid metal sphere that has a radius of one meter. Identify all of the followin."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 12) Chemistry – Multiple Choice Copper (II) hydroxide is insoluble in water. However, upon the addition of excess ammonia, it dissolves and changes to a deep bl."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 13) Biology – Short Answer Identify all of the following three statements that are true regarding a neuron at rest: 1) Voltage-gated sodium channels are mostly ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 14) Physics – Short Answer A cannon fires several cannonballs at the same initial speed but at several different angles, the furthest landing 100 meters away. W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 15) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying how the El Nino Southern Oscillation, or ENSO is changing over time. Identif."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 16) Chemistry – Multiple Choice A physical chemist has determined the vapor pressure of a liquid at multiple temperatures and wants to determine the standard en."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 17) Math – Short Answer The graph of the polar equation r = 6 cosine theta is a circle. What are its radius and cartesian-coordinate center, respectively? ANSWE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 18) Earth and Space – Short Answer What is the name for a location on Earth that does not have tides? ANSWER: AMPHIDROMIC POINT (ACCEPT: TIDAL NODES)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 19) Physics – Short Answer Identify all of the following three quantities that are dimensionless: 1) Tensile [TEN-sile] stress; 2) Tensile strain; 3) Young’s Mo."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 20) Math – Short Answer What are the coordinates of the image of the point (–1, 4) when it is rotated about the point (3, 2) by 90 degrees counterclockwise? ANS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 21) Biology – Short Answer Identify all of the following three vitamins that are considered fat-soluble: 1) Biotin; 2) Cobalamin [koh-BALL-ah-min]; 3) Niacin. A."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints the formula C₄H₈O without spaces between atoms and subscripts; removed extraction-introduced spaces.",
+      "before": {
+        "parts": [
+          "Identify all of the following three molecules that have the chemical formula C<sub>4</sub> H<sub>8</sub> O: 1) Acetone; 2) Butanone; 3) Butyraldehyde."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three molecules that have the chemical formula C<sub>4</sub>H<sub>8</sub>O: 1) Acetone; 2) Butanone; 3) Butyraldehyde."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three molecules that have the chemical formula C4H8O: 1) Acetone; 2) Butanone; 3) Butyraldehyde."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 23) Earth and Space – Short Answer When a muon [MYOO-on]is created in a laboratory setting, it has a lifetime of approximately 2.2 microseconds. When muons are ."
+    }
+  ],
+  "packetIssues": []
+}

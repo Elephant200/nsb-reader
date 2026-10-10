@@ -1,0 +1,513 @@
+{
+  "packetIndex": 79,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round13.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by printed number and opening wording on Round 13 page 1; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by printed number and opening wording on Round 13 page 2; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by printed number and opening wording on Round 13 page 2; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by printed number and opening wording on Round 13 page 3; checked full prompt and answer, including displayed notation, against the page image.",
+      "before": {
+        "question": "If sin(2x) = 0.4, then what does (cosx + sinx) equal?"
+      },
+      "changes": {
+        "question": "If sin(2x) = 0.4, then what does (cos(x) + sin(x))<sup>2</sup> equal?",
+        "question_sanitized": "If sin(2x) = 0.4, then what does (cos(x) + sin(x))^2 equal?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by printed number and opening wording on Round 13 page 4; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by printed number and opening wording on Round 13 page 4; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 13 page 5; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by printed number and opening wording on Round 13 page 5; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by printed number and opening wording on Round 13 page 6; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by printed number and opening wording on Round 13 page 6; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by printed number and opening wording on Round 13 page 7; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 13 page 8; checked full prompt and answer, including displayed notation, against the page image.",
+      "before": {
+        "question": "What is the name of any material with the same type of crystal structure as calcium titanium oxide and a general chemical formula of ABX<sub>3</sub> , where A and B are two cations of very different sizes, and X is an anion that bonds to both?"
+      },
+      "changes": {
+        "question": "What is the name of any material with the same type of crystal structure as calcium titanium oxide and a general chemical formula of ABX<sub>3</sub>, where A and B are two cations of very different sizes, and X is an anion that bonds to both?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 13 page 8; checked full prompt and answer, including displayed notation, against the page image.",
+      "before": {
+        "question": "An annular ring with inner and outer radii r<sub>1</sub> and r<sub>2</sub> , respectively, is rolling without slipping with a uniform angular speed. What is the ratio of the centripetal forces f<sub>1</sub> /f<sub>2</sub> experienced at two points on the inner and outer parts of the ring?",
+        "answer": "r<sub>1</sub> /r<sub>2</sub>"
+      },
+      "changes": {
+        "question": "An annular ring with inner and outer radii r<sub>1</sub> and r<sub>2</sub>, respectively, is rolling without slipping with a uniform angular speed. What is the ratio of the centripetal forces f<sub>1</sub>/f<sub>2</sub> experienced at two points on the inner and outer parts of the ring?",
+        "answer": "r<sub>1</sub>/r<sub>2</sub>"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by printed number and opening wording on Round 13 page 9; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by printed number and opening wording on Round 13 page 10; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by printed number and opening wording on Round 13 page 10; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 13 page 11; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by printed number and opening wording on Round 13 page 11; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by printed number and opening wording on Round 13 page 12; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by printed number and opening wording on Round 13 page 12; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by printed number and opening wording on Round 13 page 13; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by printed number and opening wording on Round 13 page 1; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by printed number and opening wording on Round 13 page 1; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by printed number and opening wording on Round 13 page 2; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by printed number and opening wording on Round 13 page 3; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by printed number and opening wording on Round 13 page 3; checked full prompt and answer, including displayed notation, against the page image.",
+      "before": {
+        "parts": [
+          "Give the interval or intervals of values of x for which the graph of the 2 function f(x) = 5 – x is above the graph of g(x)= 2x – 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Give the interval or intervals of values of x for which the graph of the function f(x) = 5 − x<sup>2</sup> is above the graph of g(x) = 2x − 3?"
+        ],
+        "parts_sanitized": [
+          "Give the interval or intervals of values of x for which the graph of the function f(x) = 5 - x^2 is above the graph of g(x) = 2x - 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by printed number and opening wording on Round 13 page 4; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by printed number and opening wording on Round 13 page 4; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by printed number and opening wording on Round 13 page 5; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by printed number and opening wording on Round 13 page 5; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by printed number and opening wording on Round 13 page 6; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by printed number and opening wording on Round 13 page 6; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by printed number and opening wording on Round 13 page 7; checked full prompt and answer, including displayed notation, against the page image.",
+      "before": {
+        "parts": [
+          "A spring mass system is vibrating along a frictionless horizontal floor. The spring constant is 8 newtons per meter, the amplitude is 5 centimeters, and the period is 4 seconds. What is the mass of the system in newtons in terms of pi? 32"
+        ],
+        "answers": [
+          "π 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A spring-mass system is vibrating along a frictionless horizontal floor. The spring constant is 8 newtons per meter, the amplitude is 5 centimeters, and the period is 4 seconds. What is the mass of the system in newtons in terms of pi?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>32</span><span>π<sup>2</sup></span></span>"
+        ],
+        "answers_sanitized": [
+          "32/(pi^2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by printed number and opening wording on Round 13 page 7; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by printed number and opening wording on Round 13 page 8; checked full prompt and answer, including displayed notation, against the page image.",
+      "before": {
+        "parts": [
+          "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: → 2 2NO + O 2NO and given that the rate law of this reaction is k(NO) . (g) 2(g) 2(g)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O<sub>2</sub>(g) → 2NO<sub>2</sub>(g) and given that the rate law of this reaction is k(NO)<sup>2</sup>."
+        ],
+        "parts_sanitized": [
+          "Classify the order of each reagent and of the reaction overall between nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation: 2NO(g) + O2(g) -> 2NO2(g) and given that the rate law of this reaction is k(NO)^2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by printed number and opening wording on Round 13 page 8; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by printed number and opening wording on Round 13 page 9; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by printed number and opening wording on Round 13 page 10; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by printed number and opening wording on Round 13 page 10; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by printed number and opening wording on Round 13 page 11; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by printed number and opening wording on Round 13 page 11; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by printed number and opening wording on Round 13 page 12; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by printed number and opening wording on Round 13 page 12; checked full prompt and answer, including displayed notation, against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by printed number and opening wording on Round 13 page 13; checked full prompt and answer, including displayed notation, against the page image."
+    }
+  ],
+  "packetIssues": []
+}

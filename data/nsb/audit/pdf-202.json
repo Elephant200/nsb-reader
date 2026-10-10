@@ -1,0 +1,524 @@
+{
+  "packetIndex": 202,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-4A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: printed question begins ‘Physics – Short Answer What phenomenon is generated when an object propagates in a’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: printed question begins ‘Earth and Space – Multiple Choice Which of the following types of lifting mechanisms’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: printed question begins ‘Math – Short Answer A triangle has two sides of lengths 39 and 57. What is the largest’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source answer reads LE CHATELIER'S PRINCIPLE; prompt and answer alternatives match.",
+      "before": {
+        "answer": "COMMON ION EFFECT (ACCEPT: LE CHATELIER&amp;apos;S PRINCIPLE)"
+      },
+      "changes": {
+        "answer": "COMMON ION EFFECT (ACCEPT: LE CHATELIER'S PRINCIPLE)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: printed question begins ‘Energy – Short Answer Scientists at Ames Lab are developing new techniques to study’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: printed formula is N₂O₅ in the stem and every option; the four choices and answer retain that formula.",
+      "before": {
+        "question": "Consider the first-order decomposition of N O into nitrogen 2 5 dioxide and oxygen. In order to get a linear fit, which of the following parameters should be graphed against time?<br>W) Natural log of the concentration of N O 2 5<br>X) Concentration of N O 2 5<br>Y) Concentration of N O squared 2 5<br>Z) One over the concentration of N O 2 5",
+        "options": [
+          "W) Natural log of the concentration of N O 2 5",
+          "X) Concentration of N O 2 5",
+          "Y) Concentration of N O squared 2 5",
+          "Z) One over the concentration of N O 2 5"
+        ],
+        "answer": "W) NATURAL LOG OF THE CONCENTRATION OF N O 2 5"
+      },
+      "changes": {
+        "question": "Consider the first-order decomposition of N<sub>2</sub>O<sub>5</sub> into nitrogen dioxide and oxygen. In order to get a linear fit, which of the following parameters should be graphed against time?<br>W) Natural log of the concentration of N<sub>2</sub>O<sub>5</sub><br>X) Concentration of N<sub>2</sub>O<sub>5</sub><br>Y) Concentration of N<sub>2</sub>O<sub>5</sub> squared<br>Z) One over the concentration of N<sub>2</sub>O<sub>5</sub>",
+        "question_sanitized": "Consider the first-order decomposition of N₂O₅ into nitrogen dioxide and oxygen. In order to get a linear fit, which of the following parameters should be graphed against time? W) Natural log of the concentration of N₂O₅ X) Concentration of N₂O₅ Y) Concentration of N₂O₅ squared Z) One over the concentration of N₂O₅",
+        "options": [
+          "W) Natural log of the concentration of N<sub>2</sub>O<sub>5</sub>",
+          "X) Concentration of N<sub>2</sub>O<sub>5</sub>",
+          "Y) Concentration of N<sub>2</sub>O<sub>5</sub> squared",
+          "Z) One over the concentration of N<sub>2</sub>O<sub>5</sub>"
+        ],
+        "answer": "W) NATURAL LOG OF THE CONCENTRATION OF N<sub>2</sub>O<sub>5</sub>",
+        "answer_sanitized": "W) NATURAL LOG OF THE CONCENTRATION OF N₂O₅"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: printed question begins ‘Math – Multiple Choice Given that the function f of x has a zero at x = 6, at what x-value’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: printed question begins ‘Biology – Short Answer Order the following three stages of development chronologically:’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: printed question begins ‘Energy – Short Answer Scientists at Oak Ridge National Lab have been studying a’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: printed question begins ‘Earth and Space – Short Answer What is the adjective for a constellation that never’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: printed question begins ‘Physics – Short Answer Identify all of the following three physical quantities that are’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: printed question begins ‘Biology – Multiple Choice     Which of the following classes of macromolecules can be’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: printed question begins ‘Earth and Space – Multiple Choice Gabriela is studying a map showing rivers flowing’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: printed question begins ‘Energy – Short Answer Research by the Pacific Northwest National Laboratory and the’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: printed question begins ‘Chemistry – Multiple Choice Which of the following best describes the enthalpy and’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: printed question begins ‘Math – Short Answer What is 2 times 5 squared?’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source prints ‘Galileo's theory’; the full tossup and answer 1, 3, 2 match.",
+      "before": {
+        "question": "Galileo&amp;apos;s theory of gravity states that objects will fall at the same speed regardless of their weight. Due to the atmosphere, however, some objects fall faster than others. Rank the following three objects in increasing order of their speed one second after being dropped from a building: 1) One-gram feather; 2) One-gram solid-iron sphere; 3) One-gram solid-iron cube."
+      },
+      "changes": {
+        "question": "Galileo's theory of gravity states that objects will fall at the same speed regardless of their weight. Due to the atmosphere, however, some objects fall faster than others. Rank the following three objects in increasing order of their speed one second after being dropped from a building: 1) One-gram feather; 2) One-gram solid-iron sphere; 3) One-gram solid-iron cube."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: printed question begins ‘Biology – Short Answer Identify all of the following three functional groups that can be’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: printed question begins ‘Earth and Space – Short Answer What is the name of the largest canyon on the planet’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: printed question begins ‘Chemistry – Short Answer       Standard reduction potentials are reported using what type of’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: printed question begins ‘Physics – Short Answer What is the name of the distance from an uncharged, stationary’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: printed question begins ‘Math – Short Answer    In three-space, what is the distance from the point (1, 3, 6) to the’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: printed question begins ‘Physics – Short Answer To two significant figures and in meters, what is the wavelength of’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: printed question begins ‘Earth and Space – Short Answer Identify all of the following three characterisitcs that’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: printed question begins ‘Math – Short Answer The line with equation y = 3x + 2 is reflected across the line y = x.’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: printed question begins ‘Chemistry – Short Answer     If a rate constant is expressed in hertz, what order must the’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source prints the compound adjective ‘classically-forbidden’ across a line break; all wording and answer match.",
+      "before": {
+        "parts": [
+          "Scientists at Oak Ridge National Lab are developing techniques to prevent the leakage of information in future quantum computers. This information leakage occurs because of what quantum mechanical phenomenon in which a particle crosses classically- forbidden energy barriers?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Scientists at Oak Ridge National Lab are developing techniques to prevent the leakage of information in future quantum computers. This information leakage occurs because of what quantum mechanical phenomenon in which a particle crosses classically-forbidden energy barriers?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: printed question begins ‘Biology – Multiple Choice     Which of the following is the genetic material carried by HIV?’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: printed question begins ‘Chemistry – Short Answer Rank the following three elements in order of increasing’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: printed question begins ‘Math – Short Answer      Evaluate the integral from 0 to π/2 of sine 3x dx.’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: printed question begins ‘Biology – Multiple Choice Professional antigen-presenting cells such as macrophages and’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: printed question begins ‘Energy – Multiple Choice Scientists at Brookhaven National Lab are studying medical’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: printed question begins ‘Earth and Space – Short Answer Apollo 11 astronauts brought back primarily what type’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: printed question begins ‘Physics – Short Answer Identify all of the following three vectors that must be constant’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: printed question begins ‘Biology – Short Answer Holdfasts, stipes [sty-PEEZ], and blades are characteristic of’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source prints ‘world's total freshwater’; all rank items and answer 2, 1, 3 match.",
+      "before": {
+        "parts": [
+          "Rank the following three sources in increasing order of share of the world&amp;apos;s total freshwater: 1) Lakes and reservoirs; 2) Atmospheric water vapor; 3) Groundwater."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Rank the following three sources in increasing order of share of the world's total freshwater: 1) Lakes and reservoirs; 2) Atmospheric water vapor; 3) Groundwater."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: printed question begins ‘Energy – Multiple Choice Oak Ridge National Lab is developing a method to produce’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: printed question begins ‘Chemistry – Short Answer Rank the following three molecules in terms of increasing’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: printed question begins ‘Math – Short Answer       How many sides does a regular polygon have if each interior angle’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: printed question begins ‘Physics – Short Answer A pipe is carrying an incompressible liquid flowing at 8 meters’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: printed question begins ‘Biology – Multiple Choice    The estrus cycle in many mammals is responsible for which of’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: printed question begins ‘Earth and Space – Multiple Choice Moving from left to right on the H-R diagram’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: printed question begins ‘Chemistry – Short Answer Concentrated hydrochloric acid is sold as a 12-molar solution’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: printed question begins ‘Physics – Short Answer Andrew is designing a bird-strike-resistant nose cone for an’; complete wording, choices when present, and printed answer checked."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source equation is x³ + 2x² − 25x − 50 = 0; answer is −2 and −5 with both required.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x over the negative integers: x 3 + 2x 2 – 25x – 50 = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x over the negative integers: <i>x</i><sup>3</sup> + 2<i>x</i><sup>2</sup> − 25<i>x</i> − 50 = 0"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x over the negative integers: x³ + 2x² − 25x − 50 = 0"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

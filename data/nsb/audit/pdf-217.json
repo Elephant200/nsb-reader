@@ -1,0 +1,494 @@
+{
+  "packetIndex": 217,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: compared “Physics – Multiple Choice Which of the following is TRUE of the wave model ”; source answer “Z) ELECTRONS CAN ABSORB PHOTONS TO TRANSITION BETWEEN STATES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: visually checked the chert prompt and answer; source answer is SiO₂.",
+      "before": {
+        "answer": "SiO 2"
+      },
+      "changes": {
+        "answer": "SiO<sub>2</sub>",
+        "answer_sanitized": "SiO₂"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: compared “Math – Short Answer A new phone costs $1,000. Each month the value of the p”; source answer “729”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: compared “Biology – Multiple Choice Which of the following hormones is a steroid horm”; source answer “W) CORTISOL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: compared “Energy – Short Answer Princeton Plasma Physics Lab researchers are developi”; source answer “FUSION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: compared “Chemistry – Short Answer      What device is typically used to measure atmo”; source answer “BAROMETER”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: compared “Physics – Multiple Choice A cue ball moving due northeast strikes a station”; source answer “X) IT MOVES DUE NORTH”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: compared “Biology – Multiple Choice Which of the following organisms possesses a wate”; source answer “X) SEA CUCUMBER”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared “Earth & Space – Short Answer What law of astronomy states that the farther ”; source answer “HUBBLE’S LAW”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared “Math – Short Answer      If y varies directly with x and y = 96 when x = 8,”; source answer “360”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared “Chemistry – Short Answer Identify all of the following three types of data ”; source answer “2, 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared “Energy – Short Answer Researchers at the National Energy Technology Laborat”; source answer “ADSORPTION (DO NOT ACCEPT: ABSORPTION)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: compared “Physics – Short Answer In a system consisting of two bodies acting on each ”; source answer “SECOND (ACCEPT: LAW OF EQUAL AREAS IN EQUAL TIME)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: compared “Energy – Multiple Choice Researchers at Thomas Jefferson National Accelerat”; source answer “W) UP AND DOWN”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: compared “Chemistry – Multiple Choice Which of the following electron configurations ”; source answer “X) ARGON 4-S-ONE 3-D-5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: the polynomial is printed with powers 5, 4, and 2 in x⁵ − 2x⁴ + 4x² − 8; source answer is 5.",
+      "before": {
+        "question": "The polynomial x 5 – 2x 4 + 4x 2 – 8 has how many complex zeros?"
+      },
+      "changes": {
+        "question": "The polynomial x<sup>5</sup> – 2x<sup>4</sup> + 4x<sup>2</sup> – 8 has how many complex zeros?",
+        "question_sanitized": "The polynomial x⁵ – 2x⁴ + 4x² – 8 has how many complex zeros?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared “Math – Short Answer     What is the percent change from 225 to 270?”; source answer “20”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared “Physics – Multiple Choice Which of the following best describes the gravita”; source answer “Y) QUADRATICALLY INCREASING INSIDE THE BODY, AND PROPORTIONAL TO”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source answer accepts H₂ and dihydrogen; restored the subscript 2 and its position in the answer.",
+      "before": {
+        "answer": "HYDROGEN (ACCEPT: H , DIHYDROGEN) 2"
+      },
+      "changes": {
+        "answer": "HYDROGEN (ACCEPT: H<sub>2</sub>, DIHYDROGEN)",
+        "answer_sanitized": "HYDROGEN (ACCEPT: H₂, DIHYDROGEN)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: compared “Chemistry – Short Answer What state of matter has a definite shape and volu”; source answer “SOLID”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: compared “Biology – Short Answer   To which phylum [FYE-lum] do sea urchins belong?”; source answer “ECHINODERMATA (ACCEPT: ECHINODERMS)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: compared “Physics – Multiple Choice When honey is poured from a jar, the flowing hone”; source answer “X) FLOW RATE REMAINS CONSTANT BUT SPEED INCREASES WITH DISTANCE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: compared “Earth & Space – Multiple Choice A sedimentary sequence consists of layers A”; source answer “X) COMPRESSIONAL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: compared “Math – Multiple Choice     In which of the following intervals is the graph”; source answer “Z) PI TO 2 PI”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: compared “Biology – Short Answer Identify all of the following three structures that ”; source answer “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: compared “Energy – Short Answer Scientists at Berkeley National Laboratory are using ”; source answer “BOO”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: compared “Chemistry – Short Answer Identify all of the following three forces that pl”; source answer “1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source equation is x = ct²; restored superscript 2 in the prompt.",
+      "before": {
+        "parts": [
+          "The position x of a particle in one dimension can be calculated from the equation x = ct 2 , where t is time and c is a constant. Identify all of the following three quantities of the particle that MUST be constant for this equation to hold true for all times: 1) Position; 2) Velocity; 3) Acceleration."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The position x of a particle in one dimension can be calculated from the equation x = ct<sup>2</sup>, where t is time and c is a constant. Identify all of the following three quantities of the particle that MUST be constant for this equation to hold true for all times: 1) Position; 2) Velocity; 3) Acceleration."
+        ],
+        "parts_sanitized": [
+          "The position x of a particle in one dimension can be calculated from the equation x = ct², where t is time and c is a constant. Identify all of the following three quantities of the particle that MUST be constant for this equation to hold true for all times: 1) Position; 2) Velocity; 3) Acceleration."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: compared “Biology – Short Answer       In eukaryotic translation, the start codon enc”; source answer “METHIONINE (ACCEPT: MET, M; DO NOT ACCEPT: F-MET,”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared “Earth & Space – Short Answer Identify all of the following three stellar ob”; source answer “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: compared “Math – Short Answer      Solve the following system of two equations: 5x – ”; source answer “(2, 3) (ACCEPT: x = 2 AND y = 3)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared “Chemistry – Short Answer Rank the following three acids in order of increas”; source answer “2, 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: compared “Energy – Multiple Choice SLAC [slack] National Accelerator Lab scientists a”; source answer “X) 4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: compared “Physics – Short Answer On the moon, Neil throws a ball directly downward of”; source answer “11 (DO NOT ACCEPT: –11)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: compared “Energy – Short Answer Scientists at Lawrence Berkeley National Lab are usin”; source answer “1, 2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source answer accepts oxygen gas, O₂; restored subscript 2 and grouping within the answer.",
+      "before": {
+        "answers": [
+          "OXYGEN (ACCEPT: OXYGEN GAS, O ) 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "OXYGEN (ACCEPT: OXYGEN GAS, O<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "OXYGEN (ACCEPT: OXYGEN GAS, O₂)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: compared “Chemistry – Short Answer Rank the following three halo-carbons in terms of ”; source answer “3, 2, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: compared “Math – Short Answer Expressing your answer to the nearest hundredth, what i”; source answer “0.43”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: compared “Earth & Space – Short Answer Identify all of the following three statements”; source answer “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared “Math – Short Answer A closed loop of yarn exactly encloses a square with ar”; source answer “40/π”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: compared “Physics – Short Answer Rank the following three substances in order of incr”; source answer “3, 2, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: compared “Earth & Space – Multiple Choice Which of the following statements about com”; source answer “Y) COMETS ARE THOUGHT TO BE REGULARLY SUPPLIED FROM THE OUTER”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: compared “Chemistry – Short Answer Water has a boiling point elevation constant of 0.”; source answer “2.9”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: compared “Biology – Short Answer   What is the term for a plant growth response that ”; source answer “THERMOTROPISM”."
+    }
+  ],
+  "packetIssues": []
+}

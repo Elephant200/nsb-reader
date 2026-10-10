@@ -1,0 +1,599 @@
+{
+  "packetIndex": 78,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round12.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by printed number and opening wording on Round 12 page 1; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by printed number and opening wording on Round 12 page 1; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by printed number and opening wording on Round 12 page 2; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by printed number and opening wording on Round 12 page 2; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by printed number and opening wording on Round 12 page 3; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by printed number and opening wording on Round 12 page 4; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 12 page 5; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by printed number and opening wording on Round 12 page 5; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by printed number and opening wording on Round 12 page 6; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by printed number and opening wording on Round 12 page 7; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 by printed number and opening wording on Round 12 page 7; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 12 page 8; compared the full prompt, choices where present, and answer against the original PDF.",
+      "before": {
+        "question": "Which of the following ions is NOT directly involved in setting the voltage of a cell membrane? 2+<br>W) Ca +<br>X) K +<br>Y) Na 2+<br>Z) Mg 2+",
+        "options": [
+          "W) Ca +",
+          "X) K +",
+          "Y) Na 2+",
+          "Z) Mg 2+"
+        ],
+        "answer": "Z) Mg"
+      },
+      "changes": {
+        "question": "Which of the following ions is NOT directly involved in setting the voltage of a cell membrane?<br>W) Ca<sup>2+</sup><br>X) K<sup>+</sup><br>Y) Na<sup>+</sup><br>Z) Mg<sup>2+</sup>",
+        "question_sanitized": "Which of the following ions is NOT directly involved in setting the voltage of a cell membrane?<br>W) Ca^2+<br>X) K^+<br>Y) Na^+<br>Z) Mg^2+",
+        "options": [
+          "W) Ca<sup>2+</sup>",
+          "X) K<sup>+</sup>",
+          "Y) Na<sup>+</sup>",
+          "Z) Mg<sup>2+</sup>"
+        ],
+        "answer": "Z) Mg<sup>2+</sup>",
+        "answer_sanitized": "Z) Mg^2+"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered Round 12 page 8 shows f(x) = sin(x)/x²; restored the function expression from displaced OCR while keeping all four options.",
+      "before": {
+        "question": "Which of the following statements is TRUE about the function sin(x) f(x) = (read as: f of x equals sine of x over x squared)? x 2<br>W) The graph of the function passes through the origin<br>X) The function has a vertical asymptote<br>Y) The function does not have a horizontal asymptote<br>Z) The graph of the function is symmetric about the x-axis"
+      },
+      "changes": {
+        "question": "Which of the following statements is TRUE about the function f(x) = <span class=\"nsb-fraction\"><span>sin(x)</span><span>x<sup>2</sup></span></span> (read as: f of x equals sine of x over x squared)?<br>W) The graph of the function passes through the origin<br>X) The function has a vertical asymptote<br>Y) The function does not have a horizontal asymptote<br>Z) The graph of the function is symmetric about the x-axis",
+        "question_sanitized": "Which of the following statements is TRUE about the function f(x) = sin(x)/x^2 (read as: f of x equals sine of x over x squared)?\nW) The graph of the function passes through the origin\nX) The function has a vertical asymptote\nY) The function does not have a horizontal asymptote\nZ) The graph of the function is symmetric about the x-axis"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered Round 12 page 9 prints the spectator ions NO₃⁻ and Na⁺; restored nitrate’s subscript/charge and sodium’s charge in the answer.",
+      "before": {
+        "answer": "NO<sub>3</sub> AND Na (ACCEPT: NITRATE AND SODIUM) −"
+      },
+      "changes": {
+        "answer": "NO<sub>3</sub><sup>−</sup> AND Na<sup>+</sup> (ACCEPT: NITRATE AND SODIUM)",
+        "answer_sanitized": "NO₃⁻ AND Na⁺ (ACCEPT: NITRATE AND SODIUM)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by printed number and opening wording on Round 12 page 9; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered Round 12 page 10 lists CO, CO⁺, and CO²⁺; the printed answer is CO⁺ (accept: 2). Restored superscript charges in the question and answer.",
+      "before": {
+        "question": "By name or number, identify which of the following three + 2+ species is paramagnetic: 1) CO, 2) CO , 3) CO . +",
+        "answer": "CO (ACCEPT: 2)"
+      },
+      "changes": {
+        "question": "By name or number, identify which of the following three species is paramagnetic: 1) CO, 2) CO<sup>+</sup>, 3) CO<sup>2+</sup>.",
+        "question_sanitized": "By name or number, identify which of the following three species is paramagnetic: 1) CO, 2) CO+, 3) CO2+.",
+        "answer": "CO<sup>+</sup> (ACCEPT: 2)",
+        "answer_sanitized": "CO+ (ACCEPT: 2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by printed number and opening wording on Round 12 page 10; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 12 page 11; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered Round 12 page 11 prints the polar coordinates (4√2, 7π/4); restored the missing radical in the answer.",
+      "before": {
+        "answer": "(4 2, 7π/4)"
+      },
+      "changes": {
+        "answer": "(4√2, 7π/4)",
+        "answer_sanitized": "(4 sqrt(2), 7pi/4)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by printed number and opening wording on Round 12 page 12; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by printed number and opening wording on Round 12 page 13; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by printed number and opening wording on Round 12 page 1; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by printed number and opening wording on Round 12 page 1; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered Round 12 page 2 states 1 atmosphere is 1.01 × 10⁵ pascals and prints the answer 1.05 × 10⁵; restored both lost exponents.",
+      "before": {
+        "parts": [
+          "A bucket is filled with water to a depth of 20 centimeters. A layer of oil 30 centimeters thick with a specific gravity of 0.7 is poured on top of the water. Given that 1 × 5 atmosphere is 1.01 10 pascals and providing your answer in scientific notation with three significant digits, what is the absolute pressure, in pascals, at the bottom of the container? × 5"
+        ],
+        "answers": [
+          "1.05 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A bucket is filled with water to a depth of 20 centimeters. A layer of oil 30 centimeters thick with a specific gravity of 0.7 is poured on top of the water. Given that 1 atmosphere is 1.01 × 10<sup>5</sup> pascals and providing your answer in scientific notation with three significant digits, what is the absolute pressure, in pascals, at the bottom of the container?"
+        ],
+        "parts_sanitized": [
+          "A bucket is filled with water to a depth of 20 centimeters. A layer of oil 30 centimeters thick with a specific gravity of 0.7 is poured on top of the water. Given that 1 atmosphere is 1.01 × 10^5 pascals and providing your answer in scientific notation with three significant digits, what is the absolute pressure, in pascals, at the bottom of the container?"
+        ],
+        "answers": [
+          "1.05 × 10<sup>5</sup>"
+        ],
+        "answers_sanitized": [
+          "1.05 × 10^5"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by printed number and opening wording on Round 12 page 2; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered Round 12 page 3 shows the limit expression x sin(3x)/(1 − cos(x)); the source reading cue reads the quantity x sine of 3x over the quantity 1 minus cosine of x. Restored the fraction without altering the cue.",
+      "before": {
+        "parts": [
+          "What is the limit as x goes to 0 of (read as: the quantity x 1 - cos(x) sine of 3x over the quantity 1 minus cosine of x)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the limit as x goes to 0 of <span class=\"nsb-fraction\"><span>x sin(3x)</span><span>1 − cos(x)</span></span> (read as: the quantity x sine of 3x over the quantity 1 minus cosine of x)?"
+        ],
+        "parts_sanitized": [
+          "What is the limit as x goes to 0 of (x sin(3x))/(1 - cos(x)) (read as: the quantity x sine of 3x over the quantity 1 minus cosine of x)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by printed number and opening wording on Round 12 page 3; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by printed number and opening wording on Round 12 page 4; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by printed number and opening wording on Round 12 page 4; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by printed number and opening wording on Round 12 page 5; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by printed number and opening wording on Round 12 page 5; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by printed number and opening wording on Round 12 page 6; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by printed number and opening wording on Round 12 page 6; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by printed number and opening wording on Round 12 page 7; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by printed number and opening wording on Round 12 page 7; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by printed number and opening wording on Round 12 page 8; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by printed number and opening wording on Round 12 page 8; compared the full prompt, choices where present, and answer against the original PDF.",
+      "before": {
+        "parts": [
+          "Providing your answer in simplest radical form, what is the 2 2 (x 2) (y + 3) eccentricity of the hyperbola = 1 (read as: open parenthesis x minus 2 close 4 9 parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\">&lt;span&gt;13</span>&lt;span&gt;2</span></span>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer in simplest radical form, what is the eccentricity of the hyperbola <span class=\"nsb-fraction\"><span>(x − 2)<sup>2</sup></span><span>4</span></span> − <span class=\"nsb-fraction\"><span>(y + 3)<sup>2</sup></span><span>9</span></span> = 1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
+        ],
+        "parts_sanitized": [
+          "Providing your answer in simplest radical form, what is the eccentricity of the hyperbola ((x - 2)^2)/4 - ((y + 3)^2)/9 = 1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>√13</span><span>2</span></span>"
+        ],
+        "answers_sanitized": [
+          "sqrt(13)/2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by printed number and opening wording on Round 12 page 9; compared the full prompt, choices where present, and answer against the original PDF.",
+      "before": {
+        "parts": [
+          "Place the following molecules or ions in order of increasing 22 2+ stability: He<sub>2</sub> , O<sub>2</sub> , O , He , O<sub>2</sub> . − − 2+ 22"
+        ],
+        "answers": [
+          "He<sub>2</sub> , He , O , O<sub>2</sub> , AND O<sub>2</sub> (ACCEPT: 1, 4, 3, 5, 2) − −"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Place the following molecules or ions in order of increasing stability: He<sub>2</sub>, O<sub>2</sub>, O<sub>2</sub><sup>2−</sup>, He<sub>2</sub><sup>+</sup>, O<sub>2</sub><sup>−</sup>."
+        ],
+        "parts_sanitized": [
+          "Place the following molecules or ions in order of increasing stability: He2, O2, O2^2-, He2^+, O2^-."
+        ],
+        "answers": [
+          "He<sub>2</sub>, He<sub>2</sub><sup>+</sup>, O<sub>2</sub><sup>2−</sup>, O<sub>2</sub><sup>−</sup>, AND O<sub>2</sub> (ACCEPT: 1, 4, 3, 5, 2)"
+        ],
+        "answers_sanitized": [
+          "He2, He2^+, O2^2-, O2^-, AND O2 (ACCEPT: 1, 4, 3, 5, 2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by printed number and opening wording on Round 12 page 9; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by printed number and opening wording on Round 12 page 10; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by printed number and opening wording on Round 12 page 10; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by printed number and opening wording on Round 12 page 11; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by printed number and opening wording on Round 12 page 11; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by printed number and opening wording on Round 12 page 12; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by printed number and opening wording on Round 12 page 12; compared the full prompt, choices where present, and answer against the original PDF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by printed number and opening wording on Round 12 page 13; compared the full prompt, choices where present, and answer against the original PDF."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,640 @@
+{
+  "packetIndex": 16,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round17.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1: compared numbered source prompt and printed answer; source begins “1) CHEMISTRY Multiple Choice L-alanine and D-alanine are BEST classified a”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1: compared numbered source prompt and printed answer; source begins “2) BIOLOGY Multiple Choice Which of the following BEST explains how cyclic”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2: compared numbered source prompt and printed answer; source begins “3) PHYSICS Multiple Choice Which of the following BEST explains how a radi”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2: compared numbered source prompt and printed answer; source begins “4) MATH Multiple Choice Which of the following is TRUE about any two succe”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: compared numbered source prompt and printed answer; source begins “5) EARTH SCIENCE Multiple Choice Most terrestrial plants grow best in soil”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: compared numbered source prompt and printed answer; source begins “6) GENERAL SCIENCE Multiple Choice Which of the following best illustrates”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4: compared numbered source prompt and printed answer; source begins “7) ASTRONOMY Multiple Choice Which of the following would astronomers most”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF p.4: the prompt says 2nd order, and the options use exponents; the answer is X) M⁻¹s⁻¹.",
+      "before": {
+        "question": "Which of the following are the units of the rate constant for a nd 2 order reaction given that concentration is measured in molarity and time in seconds: –2 –1<br>W) M s –1 –1<br>X) M s –1<br>Y) Ms –2 –1<br>Z) M minutes –1 –1",
+        "answer": "X) M s 1–order –1",
+        "options": [
+          "W) M s –1 –1",
+          "X) M s –1",
+          "Y) Ms –2 –1",
+          "Z) M minutes –1 –1"
+        ],
+        "notes": [
+          "(Solution: units relationship is M × time )"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following are the units of the rate constant for a 2<sup>nd</sup> order reaction given that concentration is measured in molarity and time in seconds:<br>W) M<sup>-2</sup> s<sup>-1</sup><br>X) M<sup>-1</sup> s<sup>-1</sup><br>Y) M s<sup>-1</sup><br>Z) M<sup>-2</sup> minutes<sup>-1</sup>",
+        "question_sanitized": "Which of the following are the units of the rate constant for a 2nd order reaction given that concentration is measured in molarity and time in seconds: W) M^(-2) s^(-1); X) M^(-1) s^(-1); Y) M s^(-1); Z) M^(-2) minutes^(-1)",
+        "answer": "X) M<sup>-1</sup> s<sup>-1</sup>",
+        "answer_sanitized": "X) M^-1 s^-1",
+        "options": [
+          "W) M<sup>-2</sup> s<sup>-1</sup>",
+          "X) M<sup>-1</sup> s<sup>-1</sup>",
+          "Y) M s<sup>-1</sup>",
+          "Z) M<sup>-2</sup> minutes<sup>-1</sup>"
+        ],
+        "notes": [
+          "(Solution: units relationship is M^(1 - order) × time^-1)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: compared numbered source prompt and printed answer; source begins “9) BIOLOGY Multiple Choice Which of the following is the target tissue of ”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: compared numbered source prompt and printed answer; source begins “10) PHYSICS Short Answer Name all of the following 3 sub-atomic particles ”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6: source answer is W) y = 4x – 3; the remaining line equation belongs to the solution. The solution’s x³ has no space before the comma.",
+      "before": {
+        "answer": "W) y = 4x – 3 through (1, 1) so y – 1 = 4(x – 1))",
+        "notes": [
+          "(Solution: using the derivative, y’ = 4x<sup>3</sup> , the slope of the tangent line at x = 1 is 4. The line must pass"
+        ]
+      },
+      "changes": {
+        "answer": "W) y = 4x – 3",
+        "notes": [
+          "(Solution: using the derivative, y’ = 4x<sup>3</sup>, the slope of the tangent line at x = 1 is 4. The line must pass through (1, 1) so y – 1 = 4(x – 1))"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6: compared numbered source prompt and printed answer; source begins “12) EARTH SCIENCE Multiple Choice According to the discontinuous side of B”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7: compared numbered source prompt and printed answer; source begins “13) GENERAL SCIENCE Multiple Choice Which of the following age groups woul”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7: compared numbered source prompt and printed answer; source begins “14) ASTRONOMY Short Answer What element makes up the innermost core of a t”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8: compared numbered source prompt and printed answer; source begins “15) CHEMISTRY Multiple Choice Consider the following equilibrium reaction,”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8: compared numbered source prompt and printed answer; source begins “16) BIOLOGY Short Answer From what specific biological molecule are Barbar”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9: compared numbered source prompt and printed answer; source begins “17) PHYSICS Multiple Choice Which of the following BEST describes how one ”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF p.9: the denominator is 2; the interval is 0 ≤ x < 2π and follows the equation.",
+      "before": {
+        "question": "How many solutions are there for the equation, cosine 4x = <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;2</span></span> , for the ≤ &lt; 2π? interval 0 x"
+      },
+      "changes": {
+        "question": "How many solutions are there for the equation, cosine 4x = <span class=\"nsb-fraction\"><span>1</span><span>2</span></span>, for the interval 0 ≤ x &lt; 2π?",
+        "question_sanitized": "How many solutions are there for the equation, cosine 4x = 1/2, for the interval 0 ≤ x < 2π?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: compared numbered source prompt and printed answer; source begins “19) EARTH SCIENCE Short Answer In the southern hemisphere, Ekman transport”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: compared numbered source prompt and printed answer; source begins “20) GENERAL SCIENCE Multiple Choice Which of the following is NOT true reg”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11: compared numbered source prompt and printed answer; source begins “21) ASTRONOMY Short Answer From the LEAST to the MOST, what are the 3 most”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11: compared numbered source prompt and printed answer; source begins “22) BIOLOGY Short Answer What is the specific intermediate informational m”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12: compared numbered source prompt and printed answer; source begins “23) CHEMISTRY Short Answer What is the overall reaction order for the foll”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12: compared numbered source prompt and printed answer; source begins “24) PHYSICS Short Answer What boson is the only particle predicted by the ”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF p.1: the formula is contiguous CH₃CHCHCH₂CH₃; corpus inserted spaces after subscript tags.",
+      "before": {
+        "parts": [
+          "How many sigma and pi bonds, respectively, are there in a molecule with the following formula: [read slowly] CH<sub>3</sub> CHCHCH<sub>2</sub> CH<sub>3</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many sigma and pi bonds, respectively, are there in a molecule with the following formula: [read slowly] CH<sub>3</sub>CHCHCH<sub>2</sub>CH<sub>3</sub>"
+        ],
+        "parts_sanitized": [
+          "How many sigma and pi bonds, respectively, are there in a molecule with the following formula: [read slowly] CH3CHCHCH2CH3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1: compared numbered source prompt and printed answer; source begins “2) BIOLOGY Multiple Choice Which of the following BEST describes the funct”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2: compared numbered source prompt and printed answer; source begins “3) PHYSICS Multiple Choice Which of the following is probably the most sig”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 prints the inverse in two rows: 2/41, 5/41; 7/41, −3/41. The corpus had the numerator row embedded in the prompt and only detached denominators/signs in answers.",
+      "before": {
+        "parts": [
+          "Find the inverse of the 2-by-2 matrix whose rows are 3, 5 and 7, –2. Give your answer in rows. 2 5 7 3 −"
+        ],
+        "answers": [
+          ", , , 41 41 41 41"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the inverse of the 2-by-2 matrix whose rows are 3, 5 and 7, –2. Give your answer in rows."
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>2</span><span>41</span></span>, <span class=\"nsb-fraction\"><span>5</span><span>41</span></span>; <span class=\"nsb-fraction\"><span>7</span><span>41</span></span>, −<span class=\"nsb-fraction\"><span>3</span><span>41</span></span>"
+        ],
+        "answers_sanitized": [
+          "2/41, 5/41; 7/41, −3/41"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: compared numbered source prompt and printed answer; source begins “5) EARTH SCIENCE Multiple Choice Which of the following is a problem that ”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: compared numbered source prompt and printed answer; source begins “6) GENERAL SCIENCE Short Answer If it is 7:47 AM, Tuesday September 23rd i”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4: compared numbered source prompt and printed answer; source begins “7) ASTRONOMY Multiple Choice In which of the following locations would the”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF p.4: printed answer is 100; the remaining expression is the solution and was appended to the corpus answer.",
+      "before": {
+        "answers": [
+          "100 = 5.5º – 4.5º = 1.0ºC; m / K = 1.0º/5.0º = 0.2m or 0.2mol/kg; f f f (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+        ],
+        "notes": [
+          "(Solution: ΔT = ΔT"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "100"
+        ],
+        "notes": [
+          "(Solution: ΔT<sub>f</sub> = 5.5º – 4.5º = 1.0ºC; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0º/5.0º = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: compared numbered source prompt and printed answer; source begins “9) BIOLOGY Multiple Choice Which of the following types of fatty acids wou”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: compared numbered source prompt and printed answer; source begins “10) PHYSICS Short Answer Until the Large Hadron Collider came on-line at C”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6: compared numbered source prompt and printed answer; source begins “11) MATH Short Answer What are the coordinates of the hole in the graph of”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6: compared numbered source prompt and printed answer; source begins “12) EARTH SCIENCE Short Answer Of the 3 basic types of magma on Earth, whi”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7: compared numbered source prompt and printed answer; source begins “13) GENERAL SCIENCE Multiple Choice Which of the following physiological p”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Root visually checked PDF page 7: the answer ends after 500 TIMES). The displaced letters o and e are subscripts on F in the separate solution M = F_o ÷ F_e = 250/0.50 = 500, not part of the answer.",
+      "before": {
+        "answers": [
+          "500X (ACCEPT: 500 or 500 TIMES) o e"
+        ],
+        "notes": [
+          "(Solution: M = F ÷ F = 250/0.50 = 500)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "500X (ACCEPT: 500 or 500 TIMES)"
+        ],
+        "notes": [
+          "(Solution: M = F<sub>o</sub> ÷ F<sub>e</sub> = 250/0.50 = 500)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF p.8: the half-reaction is 2H₂O (liquid) → O₂ (gas) + 4H⁺ (aqueous) + 4e⁻.",
+      "before": {
+        "parts": [
+          "In the electrolysis of water, if a very small amount of sodium sulfate is added to the water, give the equation for the half reaction that occurs at the ANODE. Make sure to indicate proper charges and the state of each substance, such as solid, liquid, aqueous, or gas:  +(aqueous) –"
+        ],
+        "answers": [
+          "2H<sub>2</sub> O O + 4H + 4e (liquid) 2(gas)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In the electrolysis of water, if a very small amount of sodium sulfate is added to the water, give the equation for the half reaction that occurs at the ANODE. Make sure to indicate proper charges and the state of each substance, such as solid, liquid, aqueous, or gas:"
+        ],
+        "answers": [
+          "2H₂O (liquid) → O₂ (gas) + 4H⁺ (aqueous) + 4e⁻"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8: compared numbered source prompt and printed answer; source begins “16) BIOLOGY Short Answer Name all of the following 4 organisms in which tr”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9: compared numbered source prompt and printed answer; source begins “17) PHYSICS Short Answer Name all the leptons that are produced during bet”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9: compared numbered source prompt and printed answer; source begins “18) MATH Short Answer Cards numbered 1 through 10 lie on a table. If two c”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: compared numbered source prompt and printed answer; source begins “19) EARTH SCIENCE Multiple Choice Which of the following BEST describes an”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: compared numbered source prompt and printed answer; source begins “20) GENERAL SCIENCE Short Answer A physician orders 0.1 gram of a drug be ”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11: compared numbered source prompt and printed answer; source begins “21) ASTRONOMY Short Answer If a supernova with an apparent magnitude of –2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11: compared numbered source prompt and printed answer; source begins “22) BIOLOGY Short Answer Order the following 4 processes from the one to t”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Root source QA of PDF p. 12 confirms the answer ends before the separately labeled Solution paragraph. Restored the complete solution to notes and removed its continuation from the answer.",
+      "before": {
+        "answers": [
+          "0.07 (ACCEPT: 0.06) ΔT = K (m) = (2.0ºC/m)(0.033m) = 0.066ºC) b b"
+        ],
+        "notes": [
+          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m;"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "0.07 (ACCEPT: 0.06)"
+        ],
+        "notes": [
+          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12: compared numbered source prompt and printed answer; source begins “24) PHYSICS Short Answer Through what two particles is most of the energy ”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13: compared numbered source prompt and printed answer; source begins “25) BIOLOGY Short Answer What is the typical reported initial threshold va”."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,600 @@
+{
+  "packetIndex": 20,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round4.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the mathematical/chemical formatting and field boundary restored here.",
+      "before": {
+        "question": "Which of the following is the IUPAC name for the acid with the following formula: CH 3 CO 2 H?<br>W) Formic acid<br>X) Butyric acid [byoo-TIR-ik]<br>Y) Propionic acid [proh-pee-ON-ik]<br>Z) Ethanoic acid"
+      },
+      "changes": {
+        "question": "Which of the following is the IUPAC name for the acid with the following formula: CH<sub>3</sub>CO<sub>2</sub>H?<br>W) Formic acid<br>X) Butyric acid [byoo-TIR-ik]<br>Y) Propionic acid [proh-pee-ON-ik]<br>Z) Ethanoic acid"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the mathematical/chemical formatting and field boundary restored here.",
+      "before": {
+        "question": "What is the radian equivalent of 96⁰? 2𝜋𝜋<br>W) 15 4𝜋𝜋<br>X) 15 8𝜋𝜋<br>Y) 15 23𝜋𝜋<br>Z) 15 8𝜋𝜋",
+        "answer": "Y) 15",
+        "options": [
+          "W) 15 4𝜋𝜋",
+          "X) 15 8𝜋𝜋",
+          "Y) 15 23𝜋𝜋",
+          "Z) 15 8𝜋𝜋"
+        ]
+      },
+      "changes": {
+        "question": "What is the radian equivalent of 96°?<br>W) <span class=\"nsb-fraction\"><span>2π</span><span>15</span></span><br>X) <span class=\"nsb-fraction\"><span>4π</span><span>15</span></span><br>Y) <span class=\"nsb-fraction\"><span>8π</span><span>15</span></span><br>Z) <span class=\"nsb-fraction\"><span>23π</span><span>15</span></span>",
+        "question_sanitized": "What is the radian equivalent of 96°? W) 2π/15; X) 4π/15; Y) 8π/15; Z) 23π/15",
+        "answer": "Y) <span class=\"nsb-fraction\"><span>8π</span><span>15</span></span>",
+        "answer_sanitized": "Y) 8π/15",
+        "options": [
+          "W) <span class=\"nsb-fraction\"><span>2π</span><span>15</span></span>",
+          "X) <span class=\"nsb-fraction\"><span>4π</span><span>15</span></span>",
+          "Y) <span class=\"nsb-fraction\"><span>8π</span><span>15</span></span>",
+          "Z) <span class=\"nsb-fraction\"><span>23π</span><span>15</span></span>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the mathematical/chemical formatting and field boundary restored here.",
+      "before": {
+        "parts": [
+          "Which of the following is the energy in joules of a photon with a frequency of 1.00 x 106 gigahertz?<br>W) 6.63 x 10-19<br>X) 6.63 x 10-28<br>Y) 6.63 x 10-34<br>Z) 6.63 x 10-49"
+        ],
+        "answers": [
+          "W) 6.63 X 10-19"
+        ],
+        "options": [
+          "W) 6.63 x 10-19",
+          "X) 6.63 x 10-28",
+          "Y) 6.63 x 10-34",
+          "Z) 6.63 x 10-49"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the energy in joules of a photon with a frequency of 1.00 × 10<sup>6</sup> gigahertz?<br>W) 6.63 × 10<sup>-19</sup><br>X) 6.63 × 10<sup>-28</sup><br>Y) 6.63 × 10<sup>-34</sup><br>Z) 6.63 × 10<sup>-49</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the energy in joules of a photon with a frequency of 1.00 × 10^6 gigahertz? W) 6.63 × 10^(-19); X) 6.63 × 10^(-28); Y) 6.63 × 10^(-34); Z) 6.63 × 10^(-49)"
+        ],
+        "answers": [
+          "W) 6.63 × 10<sup>-19</sup>"
+        ],
+        "answers_sanitized": [
+          "W) 6.63 × 10^(-19)"
+        ],
+        "options": [
+          "W) 6.63 × 10<sup>-19</sup>",
+          "X) 6.63 × 10<sup>-28</sup>",
+          "Y) 6.63 × 10<sup>-34</sup>",
+          "Z) 6.63 × 10<sup>-49</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 confirms the mathematical/chemical formatting and field boundary restored here.",
+      "before": {
+        "parts": [
+          "A long wire is carrying 10 amperes of current. Providing your"
+        ],
+        "answers": [
+          "in scientific notation, what is the magnetic field in teslas due to the wire at a radial distance of 2 meters from the center of the wire? 1 x 10-6"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A long wire is carrying 10 amperes of current. Providing your answer in scientific notation, what is the magnetic field in teslas due to the wire at a radial distance of 2 meters from the center of the wire?"
+        ],
+        "answers": [
+          "1 × 10<sup>-6</sup>"
+        ],
+        "answers_sanitized": [
+          "1 × 10^(-6)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 confirms the mathematical/chemical formatting and field boundary restored here.",
+      "before": {
+        "parts": [
+          "Divide the polynomial x3 – x – 6 by x – 2."
+        ],
+        "answers": [
+          "x2 + 2x + 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Divide the polynomial x<sup>3</sup> − x − 6 by x − 2."
+        ],
+        "parts_sanitized": [
+          "Divide the polynomial x^3 - x - 6 by x - 2."
+        ],
+        "answers": [
+          "x<sup>2</sup> + 2x + 3"
+        ],
+        "answers_sanitized": [
+          "x^2 + 2x + 3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 confirms the mathematical/chemical formatting and field boundary restored here.",
+      "before": {
+        "parts": [
+          "A sample of an ideal gas is placed in a sealed container of fixed volume. The gas is heated from 25.0o Celsius to 45.0o Celsius. Identify all of the following four factors that will increase: 1) the pressure of the gas, 2) the average kinetic energy of the gas, 3) the density of the gas, 4) the intermolecular forces."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A sample of an ideal gas is placed in a sealed container of fixed volume. The gas is heated from 25.0° Celsius to 45.0° Celsius. Identify all of the following four factors that will increase: 1) the pressure of the gas, 2) the average kinetic energy of the gas, 3) the density of the gas, 4) the intermolecular forces."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 13."
+    }
+  ],
+  "packetIssues": []
+}

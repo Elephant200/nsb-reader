@@ -1,0 +1,434 @@
+{
+  "packetIndex": 169,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_5A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: full printed prompt/options and answer ‘Z) IODINE’ match tossup 1 (Biology – Multiple Choice A deficiency of what trace element can result in goiter?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: printed tossup 2 choices are 1, √e, e, and 10; source answer is Z) 10.",
+      "before": {
+        "question": "The natural log of which of the following is irrational?<br>W) 1 √e<br>X) <br>Y) e<br>Z) 10",
+        "options": [
+          "W) 1 √e",
+          "X) ",
+          "Y) e",
+          "Z) 10"
+        ]
+      },
+      "changes": {
+        "question": "The natural log of which of the following is irrational?<br>W) 1<br>X) √e<br>Y) e<br>Z) 10",
+        "question_sanitized": "The natural log of which of the following is irrational?\nW) 1\nX) √e\nY) e\nZ) 10",
+        "options": [
+          "W) 1",
+          "X) √e",
+          "Y) e",
+          "Z) 10"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full printed prompt/options and answer ‘Z) NUCLEAR’ match tossup 3 (Energy – Multiple Choice Which of the following energy sources produces the least carbon dioxid)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full printed prompt/options and answer ‘Y) IRON’ match tossup 4 (Chemistry – Multiple Choice Which of the following atoms is commonly found in a +3 oxidation st)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full printed prompt/options and answer ‘Y) RAYLEIGH WAVE’ match tossup 5 (Earth and Space – Multiple Choice What type of earthquake wave is associated with ground roll?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full printed prompt/options and answer ‘X) ACCELERATION’ match tossup 6 (Physics – Multiple Choice If a constant force is applied to an object, which of the following q)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source parabola equation is y = 6x² + 4x − 7; restored the raised 2.",
+      "before": {
+        "question": "What is the x-coordinate of the vertex of the parabola with equation y = 6x 2 + 4x – 7?"
+      },
+      "changes": {
+        "question": "What is the x-coordinate of the vertex of the parabola with equation y = 6x<sup>2</sup> + 4x – 7?",
+        "question_sanitized": "What is the x-coordinate of the vertex of the parabola with equation y = 6x² + 4x – 7?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full printed prompt/options and answer ‘18’ match tossup 8 (Physics – Short Answer A circuit contains a 6-volt battery and a 2-ohm resistor. What is the po)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full printed prompt/options and answer ‘W) OPPOSITE’ match tossup 10 (Biology – Multiple Choice Which of the following is the adjective for a leaf arrangement in whi)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full printed prompt/options and answer ‘OCTAHEDRAL’ match tossup 11 (Chemistry – Short Answer What is the shape of an isolated complex in which a metal ion is bonde)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full printed prompt/options and answer ‘Y) IT IS BETWEEN 5 LITERS AND 25 LITERS’ match tossup 13 (Chemistry – Multiple Choice Consider an ideal gas initially occupying a volume of 5 liters and )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: printed tossup 14 choices are 0, 10, 15, and 85 percent; answer is X) 10.",
+      "before": {
+        "question": "97% of US gasoline sold today contains what percentage of ethanol?<br>W) 0<br>X) <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;15</span></span><br>Y) <br>Z) 85",
+        "options": [
+          "W) 0",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;15</span></span>",
+          "Y) ",
+          "Z) 85"
+        ]
+      },
+      "changes": {
+        "question": "97% of US gasoline sold today contains what percentage of ethanol?<br>W) 0<br>X) 10<br>Y) 15<br>Z) 85",
+        "options": [
+          "W) 0",
+          "X) 10",
+          "Y) 15",
+          "Z) 85"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full printed prompt/options and answer ‘W) DESCRIBING HOW WAVEFUNCTIONS CHANGE OVER TIME’ match tossup 15 (Physics – Multiple Choice For which of the following is Erwin Schrodinger most famous?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full printed prompt/options and answer ‘21,025’ match tossup 18 (Math – Short Answer What is 145 squared?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full printed prompt/options and answer ‘1 AND 3’ match tossup 19 (Physics – Short Answer A hydraulic press has two ends that are level but have different areas. )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full printed prompt/options and answer ‘THAWING SOIL (ACCEPT: ANY VARIANT OF THAWING OR MELTING GROUND SURFACE)’ match tossup 20 (Earth and Space – Short Answer What causes the trees in Alaskan forests to start tilting in man)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full printed prompt/options and answer ‘1 AND 2’ match tossup 21 (Chemistry – Short Answer Identify all of the following three solutions that would be acidic: 1))."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full printed prompt/options and answer ‘900’ match tossup 22 (Math – Short Answer 3 is one-third percent of what number?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: full printed prompt/options and answer ‘Y) DECREASE IN THE AMOUNT OF URINE PRODUCTION’ match bonuse 1 (Biology – Multiple Choice Which of the following is NOT a symptom or sign of a person suffering)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: full printed prompt/options and answer ‘11 and 15 2017 Regional High School NSB®                                                                             PAGE 1’ match bonuse 2 (Math – Short Answer If two sides of a right triangle have lengths 13 and 7, then, rounded to th)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full printed prompt/options and answer ‘W) AS A GAS AT 8000 PSI’ match bonuse 3 (Energy – Multiple Choice      Fuel cell vehicles are commercially available in the U.S. How is )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full printed prompt/options and answer ‘1, 2, 3 (ACCEPT: ALL OF THEM) 2017 Regional High School NSB®                                                                                ’ match bonuse 4 (Chemistry – Short Answer Identify all of the following properties that are examples of state fu)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full printed prompt/options and answer ‘LEAD’ match bonuse 5 (Earth and Space – Short Answer Galena is an ore of what element?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full printed prompt/options and answer ‘450 2017 Regional High School NSB®                                                                                    PAGE 3’ match bonuse 6 (Physics – Short Answer A Carnot engine is operating between a hot reservoir at 125 degrees Cels)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full printed prompt/options and answer ‘47’ match bonuse 7 (Math – Short Answer During football season, a player catches passes for 687 yards and averages )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full printed prompt/options and answer ‘Y) SECOND EXCITED STATE TO FIRST EXCITED STATE 2017 Regional High School NSB®                                                               ’ match bonuse 8 (Physics – Multiple Choice If an electron in a hydrogen atom decays to emit a photon, which of t)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full printed prompt/options and answer ‘QUATERNARY 2017 Regional High School NSB®                                                                            PAGE 5’ match bonuse 10 (Biology – Short Answer What is the highest level of protein structure found in hemoglobin?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full printed prompt/options and answer ‘1, 2, 3’ match bonuse 11 (Chemistry – Short Answer Rank the boiling points of the following three hydrocarbons, from lowe)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full printed prompt/options and answer ‘ZEOLITES’ match bonuse 13 (Chemistry – Short Answer What class of microporous aluminosilicates [ah-lumin-oh-SILL-ih-kets] )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full printed prompt/options and answer ‘85 2017 Regional High School NSB®                                                                                PAGE 7’ match bonuse 14 (Energy – Short Answer        In the United States, what is the maximum percentage of ethanol up)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full printed prompt/options and answer ‘2 AND 3’ match bonuse 15 (Physics – Short Answer Identify all of the following three statements that are true of semicond)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full printed prompt/options and answer ‘Y) THE QUARTZITE LIKELY FORMED MORE THAN 3.2 BILLION YEARS AGO 2017 Regional High School NSB®                                               ’ match bonuse 16 (Earth and Space – Multiple Choice You find a chunk of granite that you conclude, via radiometri)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full printed prompt/options and answer ‘W) M’ match bonuse 17 (Biology – Multiple Choice When viewed under a microscope, a eukaryotic [YOU-care-ee-AW-tic] cel)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source fraction wording specifies numerator x² − 25 and denominator 3x² − 16x + 5; original prose retained and exponents restored.",
+      "before": {
+        "parts": [
+          "For what values of x does the function f of x = the fraction with numerator x 2 – 25 and denominator 3x 2 – 16x + 5 have a vertical asymptote?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For what values of x does the function f of x = the fraction with numerator x<sup>2</sup> – 25 and denominator 3x<sup>2</sup> – 16x + 5 have a vertical asymptote?"
+        ],
+        "parts_sanitized": [
+          "For what values of x does the function f of x = the fraction with numerator x² – 25 and denominator 3x² – 16x + 5 have a vertical asymptote?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full printed prompt/options and answer ‘1 AND 2’ match bonuse 19 (Physics – Short Answer Identify all of the following 3 classes of levers that are capable of pr)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full printed prompt/options and answer ‘4.5’ match bonuse 21 (Chemistry – Short Answer The compound sulfurous [sul-FYUR-us] acid has a first pKa of approxima)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full printed prompt/options and answer ‘9/4 (ACCEPT: 2¼ , 2.25) 2017 Regional High School NSB®                                                                                  PAGE’ match bonuse 22 (Math – Short Answer For real numbers a and b, define the binary operation “star” by)."
+    }
+  ],
+  "packetIssues": []
+}

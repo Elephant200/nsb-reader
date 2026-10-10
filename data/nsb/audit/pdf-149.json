@@ -1,0 +1,465 @@
+{
+  "packetIndex": 149,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/2A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2; printed answer is X) NITROGEN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 3; printed answer is SUPERPOSITION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4; printed answer is W) AEROBIC RESPIRATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 5; printed answer is W) STRONG ACID.",
+      "before": {
+        "question": "In dilute aqueous solution, H2SO4 is classified as which of the following?<br>W) Strong acid<br>X) Weak acid<br>Y) Strong base<br>Z) Weak base"
+      },
+      "changes": {
+        "question": "In dilute aqueous solution, H<sub>2</sub>SO<sub>4</sub> is classified as which of the following?<br>W) Strong acid<br>X) Weak acid<br>Y) Strong base<br>Z) Weak base",
+        "question_sanitized": "In dilute aqueous solution, H₂SO₄ is classified as which of the following? W) Strong acid; X) Weak acid; Y) Strong base; Z) Weak base"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6; printed answer is 36.",
+      "before": {
+        "question": "What is the second derivative with respect to x of 2x3 – 12 evaluated at x = 3?"
+      },
+      "changes": {
+        "question": "What is the second derivative with respect to x of 2x<sup>3</sup> − 12 evaluated at x = 3?",
+        "question_sanitized": "What is the second derivative with respect to x of 2x^3 − 12 evaluated at x = 3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7; printed answer is NITROGEN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8; printed answer is W) CYCLIC ELECTRON FLOW."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9; printed answer is DRAG (ACCEPT: AIR RESISTANCE, FRICTION)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is Y) n IS EVEN.",
+      "before": {
+        "question": "If n is an integer, and xn is positive for all nonzero real numbers x, which of the following must be true about n?<br>W) n is greater than zero<br>X) n does not equal zero<br>Y) n is even<br>Z) n is odd"
+      },
+      "changes": {
+        "question": "If n is an integer, and x<sup>n</sup> is positive for all nonzero real numbers x, which of the following must be true about n?<br>W) n is greater than zero<br>X) n does not equal zero<br>Y) n is even<br>Z) n is odd",
+        "question_sanitized": "If n is an integer, and x^n is positive for all nonzero real numbers x, which of the following must be true about n? W) n is greater than zero; X) n does not equal zero; Y) n is even; Z) n is odd"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is Y) ALKENE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13; printed answer is Z) GAP JUNCTION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 14; printed answer is Y) RIGHT-HAND RULE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15; printed answer is MOLALITY (DO NOT ACCEPT: MOLARITY, NORMALITY)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16; printed answer is W) CHEMICAL WEATHERING."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17; printed answer is MULTIMETER."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18; printed answer is W) ROTATIONAL KINETIC ENERGY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20; printed answer is 0 (ACCEPT: NONE).",
+      "before": {
+        "question": "How many points of intersection do the graphs of the functions f(x) = –x2 and g(x) = 2 raised to the x power have?"
+      },
+      "changes": {
+        "question": "How many points of intersection do the graphs of the functions f(x) = −x<sup>2</sup> and g(x) = 2 raised to the x power have?",
+        "question_sanitized": "How many points of intersection do the graphs of the functions f(x) = −x^2 and g(x) = 2 raised to the x power have?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21; printed answer is 50% (ACCEPT: 0.5, 1/2)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 22; printed answer is 1, 2 AND 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23; printed answer is PHANEROZOIC."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1; printed answer is W) 2,2,4-TRIMETHYLPENTANE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2; printed answer is EXOPLANETS (ACCEPT: EXTRASOLAR PLANETS, PLANETS)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3; printed answer is HELMHOLTZ FREE ENERGY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; printed answer is W) IT CONTAINS A PROPHAGE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5; printed answer is Y) NEGATIVE, POSITIVE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6; printed answer is 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7; printed answer is X) RELATIVISTIC HEAVY ION COLLIDER."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8; printed answer is 4, 1, 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9; printed answer is 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10; printed answer is Z) (8, 2)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11; printed answer is 2 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12; printed answer is ELECTRONS (ACCEPT: ELECTRON PAIR, NEGATIVE CHARGES)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13; printed answer is Y) PLASMA CELLS SECRETE ANTIBODIES AGAINST A PATHOGEN, CYTOTOXIC T-CELLS KILL VIRUS-INFECTED CELLS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14; printed answer is –7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15; printed answer is W) METHANOL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16; printed answer is 44.7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is 49."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18; printed answer is GRAPHITE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20; printed answer is SINE = –15/17, TANGENT = –15/8 (ACCEPT: –1 7/8)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 21; printed answer is 267."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 22; printed answer is CARBON DIOXIDE (ACCEPT: CARBON DIOXIDE GAS or CO2 or CO2 GAS)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23; printed answer is X) REDUCED SNOW COVER ALLOWS MORE SOLAR RADIATION TO WARM THE GROUND."
+    }
+  ],
+  "packetIssues": []
+}

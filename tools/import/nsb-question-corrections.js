@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import applyNsbStructuralCorrections from './apply-nsb-structural-corrections.js';
 
 const corrections = JSON.parse(fs.readFileSync(new URL('./nsb-question-corrections.json', import.meta.url), 'utf8'));
 
@@ -9,6 +10,7 @@ const corrections = JSON.parse(fs.readFileSync(new URL('./nsb-question-correctio
  * @returns {{tossups: Object[], bonuses: Object[]}}
  */
 export function applyNsbQuestionCorrections (sourceUrl, packet) {
+  packet = applyNsbStructuralCorrections(sourceUrl, packet);
   const correction = corrections[sourceUrl];
   if (!correction) return packet;
 

@@ -1,0 +1,455 @@
+{
+  "packetIndex": 233,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-1-HS-2021.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints the Fermi meson prompt and the key “PIONS (ACCEPT: PI MESONS)”; the corpus wording, short-answer type, and answer alternatives match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 shows all four factor-exponent choices W through Z and key W) EVEN; each matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints the water-volume question with four choices labeled W) through Z), including 0 to 100 degrees Celsius in W); key Z matches. Replaced extraction corruption in the prompt and options.",
+      "before": {
+        "question": "Which of the following best describes the volume of a 10-gram sample of water as a function of temperature?<br>W) Linearly increasing from to degrees Celsius <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span> <span class=\"nsb-fraction\">&lt;span&gt;100</span>&lt;span&gt;100</span></span><br>X) Linearly decreasing from to degrees Celsius<br>Y) Non-linear with a local maximum at 4 degrees Celsius<br>Z) Non-linear with a local minimum at 4 degrees Celsius",
+        "options": [
+          "W) Linearly increasing from to degrees Celsius <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span> <span class=\"nsb-fraction\">&lt;span&gt;100</span>&lt;span&gt;100</span></span>",
+          "X) Linearly decreasing from to degrees Celsius",
+          "Y) Non-linear with a local maximum at 4 degrees Celsius",
+          "Z) Non-linear with a local minimum at 4 degrees Celsius"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following best describes the volume of a 10-gram sample of water as a function of temperature?<br>W) Linearly increasing from 0 to 100 degrees Celsius<br>X) Linearly decreasing from 0 to 100 degrees Celsius<br>Y) Non-linear with a local maximum at 4 degrees Celsius<br>Z) Non-linear with a local minimum at 4 degrees Celsius",
+        "options": [
+          "W) Linearly increasing from 0 to 100 degrees Celsius",
+          "X) Linearly decreasing from 0 to 100 degrees Celsius",
+          "Y) Non-linear with a local maximum at 4 degrees Celsius",
+          "Z) Non-linear with a local minimum at 4 degrees Celsius"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists vitamin K and the full acceptance list (phylloquinone, menaquinone, phytomenadione, K1, K2); the corpus answer matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks when ΔG is zero and gives K (ACCEPT: equilibrium constant); the corpus preserves the answer and alternative."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks for the jet-stream boundary in Earth's atmosphere and answers TROPOPAUSE; restored the source apostrophe from the doubly escaped entity.",
+      "before": {
+        "question": "Jet streams are located at what boundary in Earth&amp;apos;s atmosphere?"
+      },
+      "changes": {
+        "question": "Jet streams are located at what boundary in Earth's atmosphere?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks for carbon hybridization in carbon fiber and gives SP2; the source keeps 2 baseline and the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 states the integral from 4 to 8 is 24 and asks for average value; key 6 and the corpus wording match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks which cathode-ray particles Thomson measured and keys ELECTRONS; wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks which cellular process involves BMP4 and Gremlin in duck/chicken webbing; the key is APOPTOSIS and the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 shows the inert-gas plot prompt, all temperature choices W) 250, X) 500, Y) 1000, Z) 1500, and key Z; replaced the corrupted fraction markup.",
+      "before": {
+        "question": "Kate is performing an experiment where she has a chamber containing an inert gas. The chamber is at a fixed temperature and she varies the pressure of the chamber. She generates a curve by plotting pressure on the x-axis and PV over RT on the y-axis. At which of the following fixed chamber temperatures, in kelvins, would this curve be the MOST linear?<br>W) 250<br>X) <span class=\"nsb-fraction\">&lt;span&gt;500</span>&lt;span&gt;1000</span></span><br>Y) <br>Z) 1500",
+        "options": [
+          "W) 250",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;500</span>&lt;span&gt;1000</span></span>",
+          "Y) ",
+          "Z) 1500"
+        ]
+      },
+      "changes": {
+        "question": "Kate is performing an experiment where she has a chamber containing an inert gas. The chamber is at a fixed temperature and she varies the pressure of the chamber. She generates a curve by plotting pressure on the x-axis and PV over RT on the y-axis. At which of the following fixed chamber temperatures, in kelvins, would this curve be the MOST linear?<br>W) 250<br>X) 500<br>Y) 1000<br>Z) 1500",
+        "options": [
+          "W) 250",
+          "X) 500",
+          "Y) 1000",
+          "Z) 1500"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks for the gap between Saturn’s A and B rings and keys CASSINI DIVISION (ACCEPT: CASSINI); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints Cu₂O in both photocatalyst mentions and the [EYE-you-pack] cue; restored both subscripts while retaining the full prompt.",
+      "before": {
+        "question": "Argonne National Lab researchers are studying photocatalysts made of Cu O to reduce carbon dioxide into 2 methanol. What is the IUPAC [EYE-you-pack] name for Cu O? 2"
+      },
+      "changes": {
+        "question": "Argonne National Lab researchers are studying photocatalysts made of Cu<sub>2</sub>O to reduce carbon dioxide into methanol. What is the IUPAC [EYE-you-pack] name for Cu<sub>2</sub>O?",
+        "question_sanitized": "Argonne National Lab researchers are studying photocatalysts made of Cu2O to reduce carbon dioxide into methanol. What is the IUPAC [EYE-you-pack] name for Cu2O?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 prints the discriminand as 8x² + 7x − 2 and key 113; restored the superscript that extraction placed at baseline.",
+      "before": {
+        "question": "What is the discriminant of the quadratic polynomial 8x 2 + 7x – 2?"
+      },
+      "changes": {
+        "question": "What is the discriminant of the quadratic polynomial 8x<sup>2</sup> + 7x – 2?",
+        "question_sanitized": "What is the discriminant of the quadratic polynomial 8x^2 + 7x - 2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 lists joules, newtons per kelvin, watts, joules per kelvin; key Z) Joules per kelvin matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 asks for the shared quantum-number principle and keys PAULI EXCLUSION PRINCIPLE; the short-answer record matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 asks the lunar phase at noon moonrise and keys FIRST QUARTER; wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists the three El Niño consequences, including India soil moisture, western-Pacific pressure, and Peru sea temperature; the key is 2 AND 3, matching the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives the cylinder’s height 15, diameter 18, and key 432π; the prompt and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks for thunder travel time over 3 km and gives key 9 seconds; wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 shows the positive-sense single-stranded RNA prompt, all four labeled processing choices, the [pah-LIM-er-ace] cue in W, and key X; they match the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists boric acid, potassium, and cesium; the keyed colors are green, purple, blue with the same acceptance text as the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 spells the cave-deposit cue [SPEEL-ee-o-them] and keys LIMESTONE; the corpus retains both."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks for the methanol starting material and keys METHANE; the prompt and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 gives cos x times sin x as −1/6, preserves the spoken parentheses-and-squared cue, and keys 4/3 (ACCEPT: 1 1/3); the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 gives both velocity components as 5 m/s and keys 5√2 m/s; the radical and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists testosterone, cortisol, and retinol as the three candidates; the key is 1, 2, matching the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints CH₃COOH and H₃PO₄ with subscripts in the four weak-acid examples; restored their subscripts, retaining every example and answer ALL.",
+      "before": {
+        "parts": [
+          "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH COOH; 3) HCN; 3 4) H PO . 3 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH<sub>3</sub>COOH; 3) HCN; 4) H<sub>3</sub>PO<sub>4</sub>."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH3COOH; 3) HCN; 4) H3PO4."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 shows Earth’s radiative-equilibrium question and choices 100, 250, 300, 350 K, with key X) 250; replaced the extraction-corrupted choice list.",
+      "before": {
+        "parts": [
+          "In kelvins, which of the following is closest to the radiative equilibrium temperature of Earth?<br>W) 100<br>X) <span class=\"nsb-fraction\">&lt;span&gt;250</span>&lt;span&gt;300</span></span><br>Y) <br>Z) 350"
+        ],
+        "options": [
+          "W) 100",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;250</span>&lt;span&gt;300</span></span>",
+          "Y) ",
+          "Z) 350"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In kelvins, which of the following is closest to the radiative equilibrium temperature of Earth?<br>W) 100<br>X) 250<br>Y) 300<br>Z) 350"
+        ],
+        "options": [
+          "W) 100",
+          "X) 250",
+          "Y) 300",
+          "Z) 350"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 shows all three opsin statements and the [REHT-nul] cue on retinal; key ALL and the corpus match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 gives the teacher’s operation and Lloyd’s altered operation ending in 124; the key is 58 and the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 states acceleration 16 m/s² and travel distance one-half meter, then keys 4 m/s; corpus wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 presents all four electron-transport actions and keys Z) pumping protons into the intermembrane space; each choice and key match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 shows all four voltaic/electrolytic E-cell and ΔG combinations; key X is positive E-cell and negative ΔG, matching the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 retains the [loo-min-AW-sih-tee] cue, all four dwarf-star choices, and key Y) WHITE DWARFS; the corpus matches."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        18
+      ],
+      "evidence": "The rendered answer line for the red-dwarf luminosity question is clipped at the left edge and visibly begins “SWER: Y) WHITE DWARFS”; the PDF text extraction shows the full key label and the answer itself is legible."
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "packetIndex": 52,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round3.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 shows y = 36 × 7ˣ and matching read-as wording; restored multiplication and variable exponent formatting.",
+      "before": {
+        "question": "What type of growth does y = 36 7 (read as: y equals 36 times 7 to the power of x) represent?"
+      },
+      "changes": {
+        "question": "What type of growth does y = 36 × 7<sup>x</sup> (read as: y equals 36 times 7 to the power of x) represent?",
+        "question_sanitized": "What type of growth does y = 36 * 7^x (read as: y equals 36 times 7 to the power of x) represent?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints ax² + bx + c = 0; restored the squared exponent.",
+      "before": {
+        "question": "When the discriminant of a quadratic function ax + bx + c = 0 is greater than 0, how many x intercepts does the graph have?"
+      },
+      "changes": {
+        "question": "When the discriminant of a quadratic function ax<sup>2</sup> + bx + c = 0 is greater than 0, how many x intercepts does the graph have?",
+        "question_sanitized": "When the discriminant of a quadratic function ax^2 + bx + c = 0 is greater than 0, how many x intercepts does the graph have?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints Earth's with an apostrophe; replaced the double-escaped entity.",
+      "before": {
+        "question": "Approximately what percentage of the Earth&amp;apos;s surface is covered by ocean?<br>W) 50%<br>X) 70%<br>Y) 90%<br>Z) 99%"
+      },
+      "changes": {
+        "question": "Approximately what percentage of the Earth's surface is covered by ocean?<br>W) 50%<br>X) 70%<br>Y) 90%<br>Z) 99%"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 9; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 2; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 3; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 4; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 5; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 6; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints h² + 3h = -2; restored the squared exponent.",
+      "before": {
+        "parts": [
+          "Give all solutions for h in the following equation: h + 3h = - 2."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Give all solutions for h in the following equation: h<sup>2</sup> + 3h = -2."
+        ],
+        "parts_sanitized": [
+          "Give all solutions for h in the following equation: h^2 + 3h = -2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 7; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 8; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints the answer with its asterisk footnote marker followed by a separate bracketed note; separated the note into the notes field.",
+      "before": {
+        "answers": [
+          "W) PURCHASE A DRYER MODEL THAT HAS AN ENERGY STAR LABEL* [*NOTE: THERE ARE NO ENERGY STAR DRYERS- SEE WWW.ENERGYSTAR.GOV]"
+        ],
+        "notes": []
+      },
+      "changes": {
+        "answers": [
+          "W) PURCHASE A DRYER MODEL THAT HAS AN ENERGY STAR LABEL*"
+        ],
+        "notes": [
+          "[*NOTE: THERE ARE NO ENERGY STAR DRYERS- SEE WWW.ENERGYSTAR.GOV]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Root visual recheck of PDF page 10 confirms the source labels bonus 19 Short Answer but presents four W/X/Y/Z choices and keys Z. Normalize the play-format metadata to Multiple Choice so the reader announces the format actually used by this question. This explicitly repairs an inconsistent source heading; all source question, choice, and answer wording is retained.",
+      "before": {
+        "type": "Short Answer"
+      },
+      "changes": {
+        "type": "Multiple Choice"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 10; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 11; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 12; source text and formatting agree with the corpus record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 5x² + 4x³ + 12; restored both exponents and preserved the read-as wording.",
+      "before": {
+        "parts": [
+          "Evaluate y = 5x + 4x + 12 (read as: 5x squared plus 4 x cubed plus 12) when x = -2."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate y = 5x<sup>2</sup> + 4x<sup>3</sup> + 12 (read as: 5x squared plus 4 x cubed plus 12) when x = -2."
+        ],
+        "parts_sanitized": [
+          "Evaluate y = 5x^2 + 4x^3 + 12 (read as: 5x squared plus 4 x cubed plus 12) when x = -2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 13; source text and formatting agree with the corpus record."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Bonus 19 is labeled Short Answer in the source PDF even though it includes four W–Z choices and keys Z. The play-format metadata is explicitly normalized to Multiple Choice in the bonus 19 correction; source wording and the printed answer remain unchanged."
+    }
+  ]
+}

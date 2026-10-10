@@ -1,0 +1,443 @@
+{
+  "packetIndex": 250,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-8.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: the outer-membrane option visibly wraps as “lipo-poly- / saccharides”; I joined the line-wrap while retaining the printed hyphen. Key is Y) LIGNIN IS THE PRIMARY COMPONENT OF GRAM-NEGATIVE BACTERIAL CELL WALLS.",
+      "before": {
+        "question": "Which of the following statements about bacterial cell walls is NOT correct?<br>W) Gram-positive bacteria have a thick peptidoglycan cell wall<br>X) Beta-lactam antibiotics inhibit cell wall synthesis<br>Y) Lignin is the primary component of Gram-negative bacterial cell walls<br>Z) The outer membrane of Gram-negative bacteria contains lipo-poly- saccharides",
+        "options": [
+          "W) Gram-positive bacteria have a thick peptidoglycan cell wall",
+          "X) Beta-lactam antibiotics inhibit cell wall synthesis",
+          "Y) Lignin is the primary component of Gram-negative bacterial cell walls",
+          "Z) The outer membrane of Gram-negative bacteria contains lipo-poly- saccharides"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following statements about bacterial cell walls is NOT correct?<br>W) Gram-positive bacteria have a thick peptidoglycan cell wall<br>X) Beta-lactam antibiotics inhibit cell wall synthesis<br>Y) Lignin is the primary component of Gram-negative bacterial cell walls<br>Z) The outer membrane of Gram-negative bacteria contains lipo-poly-saccharides",
+        "options": [
+          "W) Gram-positive bacteria have a thick peptidoglycan cell wall",
+          "X) Beta-lactam antibiotics inhibit cell wall synthesis",
+          "Y) Lignin is the primary component of Gram-negative bacterial cell walls",
+          "Z) The outer membrane of Gram-negative bacteria contains lipo-poly-saccharides"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: the de Broglie question asks for the momentum power; printed key is NEGATIVE ONE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: decompression melting occurs when the solidus crosses the thermodynamic boundary named in the key, GEOTHERM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: the orthorhombic calcium-titanate mineral question prints PEROVSKITE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: the GCD condition is gcd(240, k)=15 and the requested least common multiple is in terms of k; printed answer is 16k."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: the Lorentz-force choices and key are complete; the source marks Z about speed change in an inhomogeneous magnetic field as the false statement."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: the caspase-function choices include peptide-bond cleavage; printed key is X) CATALYZE PEPTIDE BOND CLEAVAGE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: the chalcogen question states 1:1 stoichiometry; all four groups are present and key is X) ALKALINE EARTH METALS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: the Oort Cloud mass choices are the Sun, Jupiter, all inner planets, Mercury; key is Y) ALL OF THE INNER PLANETS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: the layered liquid-crystal phase with layers sliding over one another is keyed SMECTIC."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: differentiating the product of x + 3 and x − 7, the printed key is 2x − 4; the variable is lowercase x.",
+      "before": {
+        "answer": "2X – 4"
+      },
+      "changes": {
+        "answer": "2x – 4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: the disk-to-ring moment-of-inertia answer is printed ½, accepting 0.5 and 1 to 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13 at high resolution: the accepted ion is printed Ca with superscript 2+; key spells CALCIUM TWO PLUS.",
+      "before": {
+        "answer": "CALCIUM TWO PLUS (ACCEPT: CA 2+ )"
+      },
+      "changes": {
+        "answer": "CALCIUM TWO PLUS (ACCEPT: CA<sup>2+</sup>)",
+        "answer_sanitized": "CALCIUM TWO PLUS (ACCEPT: CA^2+)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: all Bayer-process options are present; key is Y) PURIFICATION OF ALUMINA FROM BAUXITE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: T Tauri radiation choices are proton-proton chain, CNO cycle, nuclear fission, Kelvin–Helmholtz mechanism; key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: lightning as an insulator failing to block current is keyed DIELECTRIC BREAKDOWN, accepting ELECTRIC BREAKDOWN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: the plane speed is 575 miles per hour and the answer for one mile to the nearest second is 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18: Carnot reservoirs are 450 K and 200 K, with 90 J absorbed in the first half-cycle; printed work answer is 50 J."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Viewed p.1: the virus choices include coronavirus, orthomyxovirus, pico-RNA-virus, and herpesvirus; key is Z) HERPESVIRUS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Viewed p.2: all three kinetic-gas statements are printed; the answer key selects 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Viewed p.3: the Antarctic ozone-hole seasonal question prints SPRING."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Viewed p.4: all perovskite-solar-cell alternatives are present; source key selects higher efficiencies (W)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Viewed p.5: the Fibonacci-type sequence has fourth term 17 and seventh term 71; printed ninth term is 186."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Viewed p.6: the light passes through 45-degree then horizontal polarizers; key is 4 (accept 4 to 1)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Viewed p.7: root-pressure statements 1–3 are all printed; key is 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Viewed p.8: the source prints oxoacid choices IO(OH)5, IOH, and NOOH, with the 5 immediately after the first parenthesized group; key is NONE.",
+      "before": {
+        "parts": [
+          "Identify all of the following three oxoacids that are considered strong acids: 1) IO(OH) ; 2) IOH; 3) 5 NOOH."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three oxoacids that are considered strong acids: 1) IO(OH)5; 2) IOH; 3) NOOH."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Viewed p.9: the three galaxy-merger consequences are all present; printed key is 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Viewed p.10: the green-algae statements cover mitochondria, chlorophyll a and b, and flagella; key is 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Viewed p.11: the circumscribed-circle area asks for the nearest integer for a right triangle with legs 1 and 5; printed answer is 20."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed p.12: electron rest mass is 0.5 MeV and the collision is with another electron; printed minimum photon energy is 1 MeV.",
+      "before": {
+        "parts": [
+          "Given that the rest mass of an electron is 0.5 mega-electron-volts, what is the minimal energy in mega- electron-volts of a photon that can be converted into an electron- positron pair after colliding with another electron?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that the rest mass of an electron is 0.5 mega-electron-volts, what is the minimal energy in mega-electron-volts of a photon that can be converted into an electron-positron pair after colliding with another electron?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Viewed p.13: the listed macromolecules are starches, proteins, and nucleic acids; printed sulfhydryl-group answer is 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Viewed p.14: freezing enthalpy is −6007 J/mol at 0 °C and standard pressure; printed entropy-change answer is −22 J/(mol K)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Viewed p.15: the cycles are 25,000, 45,000, and 100,000 years; printed combined period is 900,000 years."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Viewed p.16: the chalcogen choices are Tellurium, Selenium, and Arsenic; printed key is 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Viewed p.17: the sum of squares asks for the first 16 positive integers; printed answer is 1496."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Viewed p.18 at high resolution: planet mass is printed 3 × 10²² kg, radius 8000 km; choices are 100, 300, 500, 700 m/s and key Z) 700.",
+      "before": {
+        "parts": [
+          "Which of the following is closest to the escape speed, in meters per second, from the surface of a planet of mass 3 times 10 22 kilograms and radius 8000 kilometers?<br>W) 100<br>X) <span class=\"nsb-fraction\">&lt;span&gt;300</span>&lt;span&gt;500</span></span><br>Y) <br>Z) 700"
+        ],
+        "options": [
+          "W) 100",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;300</span>&lt;span&gt;500</span></span>",
+          "Y) ",
+          "Z) 700"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is closest to the escape speed, in meters per second, from the surface of a planet of mass 3 times 10<sup>22</sup> kilograms and radius 8000 kilometers?<br>W) 100<br>X) 300<br>Y) 500<br>Z) 700"
+        ],
+        "parts_sanitized": [
+          "Which of the following is closest to the escape speed, in meters per second, from the surface of a planet of mass 3 times 10^22 kilograms and radius 8000 kilometers?<br>W) 100<br>X) 300<br>Y) 500<br>Z) 700"
+        ],
+        "options": [
+          "W) 100",
+          "X) 300",
+          "Y) 500",
+          "Z) 700"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

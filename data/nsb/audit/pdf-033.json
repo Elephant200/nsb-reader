@@ -1,0 +1,527 @@
+{
+  "packetIndex": 33,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-2C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows O₂ and H₂O with subscripts and no spaces before the comma or within H₂O.",
+      "before": {
+        "answer": "OXYGEN; WATER (ACCEPT: O<sub>2</sub> , H<sub>2</sub> O)"
+      },
+      "changes": {
+        "answer": "OXYGEN; WATER (ACCEPT: O<sub>2</sub>, H<sub>2</sub>O)",
+        "answer_sanitized": "OXYGEN; WATER (ACCEPT: O2, H2O)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows (2.0 × 10⁻⁶)⁴ and gives 1.6 × 10⁻²³.",
+      "before": {
+        "question": "Simplify the following, giving your answer in proper scientific notation: -6 4 (2.0 × 10 ) -23",
+        "answer": "1.6 × 10"
+      },
+      "changes": {
+        "question": "Simplify the following, giving your answer in proper scientific notation: (2.0 × 10<sup>-6</sup>)<sup>4</sup>",
+        "question_sanitized": "Simplify the following, giving your answer in proper scientific notation: (2.0 × 10^-6)^4",
+        "answer": "1.6 × 10<sup>-23</sup>",
+        "answer_sanitized": "1.6 × 10^-23"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows 5√3 − √75; the corpus lost both radical signs and their grouping.",
+      "before": {
+        "question": "Evaluate the following radical expression: 5 3 75 −"
+      },
+      "changes": {
+        "question": "Evaluate the following radical expression: 5√3 − √75",
+        "question_sanitized": "Evaluate the following radical expression: 5 times the square root of 3 minus the square root of 75."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows Al₂(SO₄)₃ without spaces inside the chemical formula.",
+      "before": {
+        "parts": [
+          "How many atoms of each element are in the following molecule: Al<sub>2</sub> (SO<sub>4</sub> )<sub>3</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many atoms of each element are in the following molecule: Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>"
+        ],
+        "parts_sanitized": [
+          "How many atoms of each element are in the following molecule: Al2(SO4)3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows H₂O and H₂S; the corpus inserted spaces after the formulas’ subscripts.",
+      "before": {
+        "parts": [
+          "What type of interaction occurs between molecules of H<sub>2</sub> O that causes it to have a higher boiling point than H<sub>2</sub> S?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What type of interaction occurs between molecules of H<sub>2</sub>O that causes it to have a higher boiling point than H<sub>2</sub>S?"
+        ],
+        "parts_sanitized": [
+          "What type of interaction occurs between molecules of H2O that causes it to have a higher boiling point than H2S?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared its formula notation, and the corpus wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows the exponents in the solution; the corpus dropped them. The source’s intermediate equality is preserved as printed.",
+      "before": {
+        "notes": [
+          "(Solution: n = a(r) ; 10,000 = 1r = 100; 100 × 100 = 10,000)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: n<sup>th</sup> = a(r)<sup>n-1</sup>; 10,000 = 1r<sup>3-1</sup> = 100; 100 × 100 = 10,000)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; visually compared its formula notation, and the corpus wording and answer match."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "sourcePages": [
+        9
+      ],
+      "issue": "The printed solution states “10,000 = 1r^(3-1) = 100” and then “100 × 100 = 10,000”; the intermediate equality is internally inconsistent in the original PDF and is preserved without repair."
+    }
+  ]
+}

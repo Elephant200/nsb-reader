@@ -1,0 +1,680 @@
+{
+  "packetIndex": 99,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-3.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 includes the source read-as cue “log base 10 of 100 to the power of 2x equals 2” and the question ending “what is the value of x?”",
+      "before": {
+        "question": "If 𝑙𝑙𝑙1002𝑥 = 2 [log base 10 of 100 to the power of 2x equals 2], what P is the value of x? 1",
+        "answer": "(ACCEPT: 0.5) 2"
+      },
+      "changes": {
+        "question": "If log 100<sup>2x</sup> = 2 [log base 10 of 100 to the power of 2x equals 2], what is the value of x?",
+        "question_sanitized": "If log base 10 of 100^(2x) equals 2 [log base 10 of 100 to the power of 2x equals 2], what is the value of x?",
+        "answer": "<span class=\"nsb-fraction\"><span>1</span><span>2</span></span> (ACCEPT: 0.5)",
+        "answer_sanitized": "1/2 (ACCEPT: 0.5)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints chromium orbital occupancies with raised 2, 6, 1, and 5 throughout the answer and accepted shorthand.",
+      "before": {
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s1 3d5 (ACCEPT: [Ar (argon)] 4s1 3d5)"
+      },
+      "changes": {
+        "answer": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>1</sup> 3d<sup>5</sup> (ACCEPT: [Ar (argon)] 4s<sup>1</sup> 3d<sup>5</sup>)",
+        "answer_sanitized": "1s^2 2s^2 2p^6 3s^2 3p^6 4s^1 3d^5 (ACCEPT: [Ar (argon)] 4s^1 3d^5)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visually confirms question 3: A box is sitting on a ramp with a coefficient of static friction of 0.7.; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visually confirms question 4: Which of the following is closest to the percentage of; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visually confirms question 5: Eukaryotic [yoo-KAR-ee-oh-tik] genes are composed of introns; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visually confirms question 6: Which of the following has long been considered the upper; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visually confirms question 7: What is the probability that at least one head appears in 4 tosses of a; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visually confirms question 8: Which of the following is true of spontaneous processes at; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visually confirms question 9: In order to play a low C followed by a high C, one octave up, on a; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visually confirms question 10: Most solar radiation is emitted in short wavelengths.; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visually confirms question 11: During which phase of interphase does expression of proteins; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visually confirms question 12: In an isothermal system, what is one way that one can increase the; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 includes the differential-equation wording, the cue “[dy dx equals 2x plus 1],” and choices W) through Z) with x-squared notation.",
+      "before": {
+        "question": "What is the general solution to the differential equation: dy/dx = 2x + 1 [dy dx equals 2x plus 1]?<br>W) y = x2 + x + c<br>X) y = ½ x2 + c<br>Y) y = 2 + c<br>Z) y = 2x + c",
+        "answer": "W) y = x2 + x + c",
+        "options": [
+          "W) y = x2 + x + c",
+          "X) y = ½ x2 + c",
+          "Y) y = 2 + c",
+          "Z) y = 2x + c"
+        ]
+      },
+      "changes": {
+        "question": "What is the general solution to the differential equation: dy/dx = 2x + 1 [dy dx equals 2x plus 1]?<br>W) y = x<sup>2</sup> + x + c<br>X) y = ½ x<sup>2</sup> + c<br>Y) y = 2 + c<br>Z) y = 2x + c",
+        "answer": "W) y = x<sup>2</sup> + x + c",
+        "question_sanitized": "What is the general solution to the differential equation: dy/dx = 2x + 1 [dy dx equals 2x plus 1]? W) y = x^2 + x + c X) y = ½ x^2 + c Y) y = 2 + c Z) y = 2x + c",
+        "answer_sanitized": "W) y = x^2 + x + c",
+        "options": [
+          "W) y = x<sup>2</sup> + x + c",
+          "X) y = ½ x<sup>2</sup> + c",
+          "Y) y = 2 + c",
+          "Z) y = 2x + c"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visually confirms question 14: In lab, you have patented the creation of a metallic radioactive; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints subscripts 1 and 2 on both masses and velocities, with m₁ = 4m₂ and ratio v₁/v₂; all choices and X) 1 key match.",
+      "before": {
+        "question": "Two satellites of masses m 1 and m 2 , where m 1 = 4m 2 , are deployed in circular orbits of the same radius in the gravitational field of Earth. What is the ratio of their linear speeds v 1 /v 2 ?<br>W) 1/4<br>X) 1<br>Y) 2<br>Z) 4"
+      },
+      "changes": {
+        "question": "Two satellites of masses m<sub>1</sub> and m<sub>2</sub>, where m<sub>1</sub> = 4m<sub>2</sub>, are deployed in circular orbits of the same radius in the gravitational field of Earth. What is the ratio of their linear speeds v<sub>1</sub>/v<sub>2</sub>?<br>W) 1/4<br>X) 1<br>Y) 2<br>Z) 4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visually confirms question 16: What type of front travels at about 30 miles per hour and; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visually confirms question 17: A type of albinism in the Hopi Native American population is; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visually confirms question 18: In order to see a full height image of your body, the vertical size; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 gives the source reading cue “[y equals 3x plus 1 quantity squared]” after the parenthesized-square expression and lists the four derivative choices.",
+      "before": {
+        "question": "What is the derivative of y = (3x + 1)2 [y equals 3x plus 1 quantity squared]?<br>W) 18x + 6<br>X) 18x<br>Y) 6x + 1<br>Z) 6x + 2"
+      },
+      "changes": {
+        "question": "What is the derivative of y = (3x + 1)<sup>2</sup> [y equals 3x plus 1 quantity squared]?<br>W) 18x + 6<br>X) 18x<br>Y) 6x + 1<br>Z) 6x + 2",
+        "question_sanitized": "What is the derivative of y = (3x + 1)^2 [y equals 3x plus 1 quantity squared]? W) 18x + 6 X) 18x Y) 6x + 1 Z) 6x + 2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 includes N₂ and O₂, the equilibrium pronunciation cue, the full prompt, and all four helium/catalyst/temperature/oxygen choices.",
+      "before": {
+        "question": "At high temperatures, nitrogen (N 2 ) and oxygen (O 2 ) gases react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three compounds form an equilibrium [ee-kwuh-LIB-ree-uhm]. Which of the following changes to the vessel will result in the production of more NO?<br>W) Addition of helium at constant volume<br>X) Adding a catalyst<br>Y) Increasing the temperature of the vessel<br>Z) Removing oxygen from the vessel"
+      },
+      "changes": {
+        "question": "At high temperatures, nitrogen (N<sub>2</sub>) and oxygen (O<sub>2</sub>) gases react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three compounds form an equilibrium [ee-kwuh-LIB-ree-uhm]. Which of the following changes to the vessel will result in the production of more NO?<br>W) Addition of helium at constant volume<br>X) Adding a catalyst<br>Y) Increasing the temperature of the vessel<br>Z) Removing oxygen from the vessel",
+        "question_sanitized": "At high temperatures, nitrogen (N2) and oxygen (O2) gases react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three compounds form an equilibrium [ee-kwuh-LIB-ree-uhm]. Which of the following changes to the vessel will result in the production of more NO? W) Addition of helium at constant volume X) Adding a catalyst Y) Increasing the temperature of the vessel Z) Removing oxygen from the vessel"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints the keyed relationship as v₃ < v₂ AND v₄ < v₁.",
+      "before": {
+        "question": "A light ray passes from air (n 1 = 1.00) to three layers of the human eye: cornea (n 2 = 1.33), lens (n 3 = 1.41), and vitreous humor (n 4 = 1.33). The speeds of light in these mediums are, respectively, v 1 , v 2 , v 3 , v 4 . Which of the following must be true about the relationships between the speeds of light in the different media?<br>W) v 1 &lt; v 2 &lt; v 3 &lt; v 4<br>X) v 4 &lt; v 3 &lt; v 2 &lt; v 1<br>Y) v 3 &lt; v 2 and v 4 &lt; v 1<br>Z) v 2 &lt; v 3 and v 1 &lt; v 4",
+        "answer": "Y) v 3 &lt; v 2 AND v 4 &lt; v 1",
+        "options": [
+          "W) v 1 &lt; v 2 &lt; v 3 &lt; v 4",
+          "X) v 4 &lt; v 3 &lt; v 2 &lt; v 1",
+          "Y) v 3 &lt; v 2 and v 4 &lt; v 1",
+          "Z) v 2 &lt; v 3 and v 1 &lt; v 4"
+        ]
+      },
+      "changes": {
+        "question": "A light ray passes from air (n<sub>1</sub> = 1.00) to three layers of the human eye: cornea (n<sub>2</sub> = 1.33), lens (n<sub>3</sub> = 1.41), and vitreous humor (n<sub>4</sub> = 1.33). The speeds of light in these mediums are, respectively, v<sub>1</sub>, v<sub>2</sub>, v<sub>3</sub>, v<sub>4</sub>. Which of the following must be true about the relationships between the speeds of light in the different media?<br>W) v<sub>1</sub> &lt; v<sub>2</sub> &lt; v<sub>3</sub> &lt; v<sub>4</sub><br>X) v<sub>4</sub> &lt; v<sub>3</sub> &lt; v<sub>2</sub> &lt; v<sub>1</sub><br>Y) v<sub>3</sub> &lt; v<sub>2</sub> and v<sub>4</sub> &lt; v<sub>1</sub><br>Z) v<sub>2</sub> &lt; v<sub>3</sub> and v<sub>1</sub> &lt; v<sub>4</sub>",
+        "answer": "Y) v<sub>3</sub> &lt; v<sub>2</sub> AND v<sub>4</sub> &lt; v<sub>1</sub>",
+        "question_sanitized": "A light ray passes from air (n1 = 1.00) to three layers of the human eye: cornea (n2 = 1.33), lens (n3 = 1.41), and vitreous humor (n4 = 1.33). The speeds of light in these mediums are, respectively, v1, v2, v3, v4. Which of the following must be true about the relationships between the speeds of light in the different media? W) v1 < v2 < v3 < v4 X) v4 < v3 < v2 < v1 Y) v3 < v2 and v4 < v1 Z) v2 < v3 and v1 < v4",
+        "answer_sanitized": "Y) v3 < v2 AND v4 < v1",
+        "options": [
+          "W) v<sub>1</sub> &lt; v<sub>2</sub> &lt; v<sub>3</sub> &lt; v<sub>4</sub>",
+          "X) v<sub>4</sub> &lt; v<sub>3</sub> &lt; v<sub>2</sub> &lt; v<sub>1</sub>",
+          "Y) v<sub>3</sub> &lt; v<sub>2</sub> and v<sub>4</sub> &lt; v<sub>1</sub>",
+          "Z) v<sub>2</sub> &lt; v<sub>3</sub> and v<sub>1</sub> &lt; v<sub>4</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visually confirms question 22: What international agreement, initially drafted in 1987,; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 confirms B and b case cues and allele frequencies 0.4 and answer 0.6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visually confirms question 24: The Bakken Oil/Gas field is estimated to contain up to 24 billion; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13 visually confirms question 25: Which of the following animals would have the highest levels of; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1’s full read-as cue is “[secant squared of 3 pi over 4 minus cosecant squared of pi over 4 minus cosine squared of 4 pi].”",
+      "before": {
+        "parts": [
+          "Simplify the following expression: sec 2 − csc 2 − cos 2 4𝜋 [secant 4 4 squared of 3 pi over 4 minus cosecant squared of pi over 4 minus cosine squared of 4 pi]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify the following expression: sec<sup>2</sup>(3π/4) − csc<sup>2</sup>(π/4) − cos<sup>2</sup>(4π) [secant squared of 3 pi over 4 minus cosecant squared of pi over 4 minus cosine squared of 4 pi]."
+        ],
+        "parts_sanitized": [
+          "Simplify the following expression: secant squared of (3 pi over 4) minus cosecant squared of (pi over 4) minus cosine squared of (4 pi) [secant squared of 3 pi over 4 minus cosecant squared of pi over 4 minus cosine squared of 4 pi]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visually confirms question 2: Baeyer-Villiger oxidation is used to transform a ketone into what; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints the 1-atmosphere conversion, density, 10.8 pressure factor, depth wording, all W–Z choices, and answer X.",
+      "before": {
+        "parts": [
+          "Assuming that 1 atmosphere = 1.01 × 105 pascals and the density of water is 1000 kilograms per cubic meter, at what depth of water will the absolute pressure be 10.8 times the atmospheric pressure?<br>W) 10.1 meters<br>X) 101 meters<br>Y) 1,010 meters<br>Z) 10.1 kilometers"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming that 1 atmosphere = 1.01 × 10<sup>5</sup> pascals and the density of water is 1000 kilograms per cubic meter, at what depth of water will the absolute pressure be 10.8 times the atmospheric pressure?<br>W) 10.1 meters<br>X) 101 meters<br>Y) 1,010 meters<br>Z) 10.1 kilometers"
+        ],
+        "parts_sanitized": [
+          "Assuming that 1 atmosphere = 1.01 × 10^5 pascals and the density of water is 1000 kilograms per cubic meter, at what depth of water will the absolute pressure be 10.8 times the atmospheric pressure? W) 10.1 meters X) 101 meters Y) 1,010 meters Z) 10.1 kilometers"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visually confirms question 4: In which of the following silicate groups of minerals; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visually confirms question 5: In the production of mammalian proteins, the first amino acid in the; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visually confirms question 6: What property of hydrogen makes water a good neutron; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visually confirms question 7: What is the inner product of the vectors -4i +3j +5k and 3i – 6j +7k?; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visually confirms question 8: Identify, respectively, the dominant intermolecular force that has; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visually confirms question 9: A large water rocket is in the process of taking off. It is noted that; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visually confirms question 12: If yellow light has a wavelength of 550 nanometers, which of the; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 includes all three “to the power of one half” phrases in the math read-as cue and answer 2x.",
+      "before": {
+        "parts": [
+          "Simplify: x1/2 (x1/2 + x1/2) [x to the power of one half times open parenthesis x to the power of one half plus x to the power of one half close parenthesis]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify: x<sup>1/2</sup> (x<sup>1/2</sup> + x<sup>1/2</sup>) [x to the power of one half times open parenthesis x to the power of one half plus x to the power of one half close parenthesis]."
+        ],
+        "parts_sanitized": [
+          "Simplify: x^(1/2) (x^(1/2) + x^(1/2)) [x to the power of one half times open parenthesis x to the power of one half plus x to the power of one half close parenthesis]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visually confirms question 14: What is the bond order of the nitrogen-oxygen bond in the; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints h = 6.63 × 10⁻³⁴ joule seconds, the 1000-nanometer beam question, all four energy choices with powers of ten, and answer W.",
+      "before": {
+        "parts": [
+          "Assuming h = 6.63 x 10-34 joule seconds, what is the approximate energy of a photon in joules in a 1000 nanometer light beam?<br>W) 2 × 10-19<br>X) 2 × 10-18<br>Y) 2 × 10-17<br>Z) 4 × 10-18"
+        ],
+        "answers": [
+          "W) 2 × 10-19"
+        ],
+        "options": [
+          "W) 2 × 10-19",
+          "X) 2 × 10-18",
+          "Y) 2 × 10-17",
+          "Z) 4 × 10-18"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming h = 6.63 × 10<sup>-34</sup> joule seconds, what is the approximate energy of a photon in joules in a 1000 nanometer light beam?<br>W) 2 × 10<sup>-19</sup><br>X) 2 × 10<sup>-18</sup><br>Y) 2 × 10<sup>-17</sup><br>Z) 4 × 10<sup>-18</sup>"
+        ],
+        "parts_sanitized": [
+          "Assuming h = 6.63 × 10^-34 joule seconds, what is the approximate energy of a photon in joules in a 1000 nanometer light beam? W) 2 × 10^-19 X) 2 × 10^-18 Y) 2 × 10^-17 Z) 4 × 10^-18"
+        ],
+        "answers": [
+          "W) 2 × 10<sup>−19</sup>"
+        ],
+        "answers_sanitized": [
+          "W) 2 × 10^-19"
+        ],
+        "options": [
+          "W) 2 × 10<sup>-19</sup>",
+          "X) 2 × 10<sup>-18</sup>",
+          "Y) 2 × 10<sup>-17</sup>",
+          "Z) 4 × 10<sup>-18</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visually confirms question 17: Identify all of the following five choices that are diploid: 1); checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 includes the 0.2-newton magnetic field, 3.0 × 10⁵ volts per meter, full ion-speed question, all W–Z choices, and keyed Z.",
+      "before": {
+        "parts": [
+          "A mass spectrometry experiment is performed with a magnetic field of 0.2 newtons per ampere meter and an electric field of 3.0 × 105 volts per meter. What is the speed of the ions?<br>W) 750 meters per second<br>X) 1500 meters per second<br>Y) 150 kilometers per second<br>Z) 1500 kilometers per second"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A mass spectrometry experiment is performed with a magnetic field of 0.2 newtons per ampere meter and an electric field of 3.0 × 10<sup>5</sup> volts per meter. What is the speed of the ions?<br>W) 750 meters per second<br>X) 1500 meters per second<br>Y) 150 kilometers per second<br>Z) 1500 kilometers per second"
+        ],
+        "parts_sanitized": [
+          "A mass spectrometry experiment is performed with a magnetic field of 0.2 newtons per ampere meter and an electric field of 3.0 × 10^5 volts per meter. What is the speed of the ions? W) 750 meters per second X) 1500 meters per second Y) 150 kilometers per second Z) 1500 kilometers per second"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visually confirms question 19: What is the equation, in slope-intercept form, of the perpendicular; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints the dinitrogen tetroxide point group as D₂h.",
+      "before": {
+        "answers": [
+          "D 2h"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "D<sub>2h</sub>"
+        ],
+        "answers_sanitized": [
+          "D2h"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 includes the complete circular-orbit sentence, r₁ = 4r₂, the period-ratio question T₁/T₂, and answer 8.",
+      "before": {
+        "parts": [
+          "Two satellites are orbiting in circular orbits of radii r 1 and r 2 around a planet, where r 1 = 4r 2 . What is the ratio of their periods of revolutions T 1 /T 2 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Two satellites are orbiting in circular orbits of radii r<sub>1</sub> and r<sub>2</sub> around a planet, where r<sub>1</sub> = 4r<sub>2</sub>. What is the ratio of their periods of revolutions T<sub>1</sub>/T<sub>2</sub>?"
+        ],
+        "parts_sanitized": [
+          "Two satellites are orbiting in circular orbits of radii r1 and r2 around a planet, where r1 = 4r2. What is the ratio of their periods of revolutions T1/T2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 shows carbon-14 as plain hyphenated isotope wording, all four zooplankton options and answer X) Foraminifera match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visually confirms question 23: Arrange the following four groups from the taxa containing the; checked the complete prompt, choices where present, and printed answer against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 separates option X) 15% with a space; corpus has X)15%, while remaining percentages and keyed Z) 50% match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13 shows the virions pronunciation split across a line as VY-ree-ons and confirms all four choices and keyed Y) segmented genome.",
+      "before": {
+        "parts": [
+          "Some virus species can infect an individual host more than once because they change the shape of molecules exposed on the surface of their virions [VY-ree- ons] so that they are no longer recognized by the host’s immunological memory. The influenza virus can make sudden and drastic changes in these molecules due to a phenomenon called reassortment. Which of the following contributes to the process of reassortment?<br>W) Widely varying strains of influenza<br>X) The diversity of animals infected by influenza<br>Y) The segmented genome found in influenza<br>Z) The lack of effective antivirals against influenza until recently"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Some virus species can infect an individual host more than once because they change the shape of molecules exposed on the surface of their virions [VY-ree-ons] so that they are no longer recognized by the host’s immunological memory. The influenza virus can make sudden and drastic changes in these molecules due to a phenomenon called reassortment. Which of the following contributes to the process of reassortment?<br>W) Widely varying strains of influenza<br>X) The diversity of animals infected by influenza<br>Y) The segmented genome found in influenza<br>Z) The lack of effective antivirals against influenza until recently"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

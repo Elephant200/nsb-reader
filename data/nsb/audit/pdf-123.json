@@ -1,0 +1,530 @@
+{
+  "packetIndex": 123,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-10-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “Rank the following three acids from strongest to weakest: iodous [eye-OH-duhs] acid, bromic acid, br”; printed key BROMIC ACID, BROMOUS ACID, IODOUS ACID matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “What is the absolute value of the difference between the arithmetic mean and the positive geometric ”; printed key 8 matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “A stone is dropped out of a horizontally moving train. Which of the following is the shape of the pa” and choices W–Z; each choice and key Z) PARABOLIC match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “Which of the following metamorphic products forms from impact metamorphism? W) Stishovite [STISH-uh-” and choices W–Z; each choice and key W) STISHOVITE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “Which of the following fatty acids has the highest melting point? W) Capric X) Stearic [stee-AR-ik] ” and choices W–Z; each choice and key X) STEARIC match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “During which two months is the apparent motion of the Sun in the sky greatest?”; printed key DECEMBER AND JANUARY matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints Set Q and smallest element of Q; corpus omitted both Q labels.",
+      "before": {
+        "question": "Set contains all positive integers that are the differences of squares of consecutive prime numbers. What is the smallest element of that is greater than or equal to 10?"
+      },
+      "changes": {
+        "question": "Set <i>Q</i> contains all positive integers that are the differences of squares of consecutive prime numbers. What is the smallest element of <i>Q</i> that is greater than or equal to 10?",
+        "question_sanitized": "Set Q contains all positive integers that are the differences of squares of consecutive prime numbers. What is the smallest element of Q that is greater than or equal to 10?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints NADH to NAD⁺ with superscript plus; corpus separates the plus from NAD.",
+      "before": {
+        "question": "Which of the following is NOT true when comparing the 4 steps of aerobic respiration to the 2 steps of anaerobic respiration?<br>W) Both utilize compounds other than glucose, such as lipids, for energy<br>X) Both recycle NADH [N-A-D-H] to NAD + [N-A-D plus]<br>Y) Both have steps occurring in the cytoplasm<br>Z) Only one produces pyruvate [py-ROO-vayt]",
+        "options": [
+          "W) Both utilize compounds other than glucose, such as lipids, for energy",
+          "X) Both recycle NADH [N-A-D-H] to NAD + [N-A-D plus]",
+          "Y) Both have steps occurring in the cytoplasm",
+          "Z) Only one produces pyruvate [py-ROO-vayt]"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT true when comparing the 4 steps of aerobic respiration to the 2 steps of anaerobic respiration?<br>W) Both utilize compounds other than glucose, such as lipids, for energy<br>X) Both recycle NADH [N-A-D-H] to NAD<sup>+</sup> [N-A-D plus]<br>Y) Both have steps occurring in the cytoplasm<br>Z) Only one produces pyruvate [py-ROO-vayt]",
+        "options": [
+          "W) Both utilize compounds other than glucose, such as lipids, for energy",
+          "X) Both recycle NADH [N-A-D-H] to NAD<sup>+</sup> [N-A-D plus]",
+          "Y) Both have steps occurring in the cytoplasm",
+          "Z) Only one produces pyruvate [py-ROO-vayt]"
+        ],
+        "question_sanitized": "Which of the following is NOT true when comparing the 4 steps of aerobic respiration to the 2 steps of anaerobic respiration? W) Both utilize compounds other than glucose, such as lipids, for energy X) Both recycle NADH [N-A-D-H] to NAD+ [N-A-D plus] Y) Both have steps occurring in the cytoplasm Z) Only one produces pyruvate [py-ROO-vayt]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “The most accurate Lewis structure of phosphoric acid had one hydrogen atom bonded directly to the ce” and choices W–Z; each choice and key X) DIPROTIC match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “12) Physics Multiple Choice What is the magnitude of the force, in newtons, experienced by a 1 coulo” and choices W–Z; each choice and key W) 0.5 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “What kind of tectonic setting created the Ural Mountains [YOOR-uhl]? CONTINENT CONVERGENT BOUNDARY O”; printed key CONTINENT-CONTINENT CONVERGENT MARGIN (ACCEPT: CONTINENT- CONTINENT CONVERGENT BOUNDARY OR CONTINENT-CONTINENT CONVERGENCE) matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “In photosynthesis, where do electrons derived from water first enter the process? W) Photosystem II ” and choices W–Z; each choice and key W) PHOTOSYSTEM II REACTION CENTER match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Which of the following instruments would most likely be used in a lab to measure the concentration o” and choices W–Z; each choice and key Y) SPECTROPHOTOMETER match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Converting a power generating plant from coal to natural gas will reduce sulfur emissions by approxi” and choices W–Z; each choice and key X) 50% match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints a² − 2b² + c² and matching full read-as cue; corpus notation is corrupted.",
+      "before": {
+        "question": "The value of 2 2 2 [a squared minus two b squared plus c a – 2b + c squared], where a, b, and c are consecutive odd integers in increasing order, is a constant. What is it?"
+      },
+      "changes": {
+        "question": "The value of a<sup>2</sup> − 2b<sup>2</sup> + c<sup>2</sup> [a squared minus two b squared plus c squared], where a, b, and c are consecutive odd integers in increasing order, is a constant. What is it?",
+        "question_sanitized": "The value of a^2 - 2b^2 + c^2 [a squared minus two b squared plus c squared], where a, b, and c are consecutive odd integers in increasing order, is a constant. What is it?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints “In the spring of 2013 a group of researchers from the University of Alberta were able to revive an o” and choices W–Z; each choice and key Y) A BRYOPHYTE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “What type of radiation, also known as braking radiation, is emitted whenever a charged particle is d”; printed key BREMSSTRAHLUNG RADIATION matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Often, investors in energy projects will use a discount rate to evaluate the net present value of fu” and choices W–Z; each choice and key W) DECREASE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints x² − 2Kx + 9 = 0 and the complete cue; corpus lost the exponent and equation.",
+      "before": {
+        "question": "If the equation 2 [x squared minus two K x plus nine x – 2Kx + 9 = 0 equals zero] has two equal roots, which of the following is a possible value of K?<br>W) -3<br>X) -1<br>Y) 2<br>Z) 4"
+      },
+      "changes": {
+        "question": "If the equation x<sup>2</sup> − 2Kx + 9 = 0 [x squared minus two K x plus nine equals zero] has two equal roots, which of the following is a possible value of K?<br>W) -3<br>X) -1<br>Y) 2<br>Z) 4",
+        "question_sanitized": "If the equation x^2 - 2Kx + 9 = 0 [x squared minus two K x plus nine equals zero] has two equal roots, which of the following is a possible value of K? W) -3 X) -1 Y) 2 Z) 4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “Which of the following pairs does NOT correctly match the raw material and feedstock with its primar” and choices W–Z; each choice and key Y) PROPANE WITH CYCLOPROPANE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints “A decrease in which of the following would NOT result in a decrease in blood pressure? W) Heart rate” and choices W–Z; each choice and key X) DIAMETER OF ARTERIOLES match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visually prints N₂, H₂S, CO₂, CH₄ and keyed X) H₂S; corpus inserts a space in H₂ S.",
+      "before": {
+        "parts": [
+          "Like many thermodynamic quantities, the critical temperature of a substance is strongly dependent on the intermolecular forces present. Which of the following compounds has the highest boiling point?<br>W) N<sub>2</sub><br>X) H<sub>2</sub> S<br>Y) CO<sub>2</sub><br>Z) CH<sub>4</sub>"
+        ],
+        "options": [
+          "W) N<sub>2</sub>",
+          "X) H<sub>2</sub> S",
+          "Y) CO<sub>2</sub>",
+          "Z) CH<sub>4</sub>"
+        ],
+        "answers": [
+          "X) H<sub>2</sub> S"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Like many thermodynamic quantities, the critical temperature of a substance is strongly dependent on the intermolecular forces present. Which of the following compounds has the highest boiling point?<br>W) N<sub>2</sub><br>X) H<sub>2</sub>S<br>Y) CO<sub>2</sub><br>Z) CH<sub>4</sub>"
+        ],
+        "options": [
+          "W) N<sub>2</sub>",
+          "X) H<sub>2</sub>S",
+          "Y) CO<sub>2</sub>",
+          "Z) CH<sub>4</sub>"
+        ],
+        "answers": [
+          "X) H<sub>2</sub>S"
+        ],
+        "parts_sanitized": [
+          "Like many thermodynamic quantities, the critical temperature of a substance is strongly dependent on the intermolecular forces present. Which of the following compounds has the highest boiling point? W) N2 X) H2S Y) CO2 Z) CH4"
+        ],
+        "answers_sanitized": [
+          "X) H2S"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “In a collection of red, blue, and green marbles, there are 25% more red marbles than blue marbles, a”; printed key 170 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “If in a given DC circuit we double the voltage and halve the resistance, by what factor will the pow”; printed key 8 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “An unknown gas effuses through a tiny hole at a rate half that of methane. The molar mass of methane”; printed key 64 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “Which of the following techniques would you use to determine the 3-D structure of a protein? W) Mass” and choices W–Z; each choice and key Y) X-RAY CRYSTALLOGRAPHY match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “Rank in descending order the coercive force typical for the following three materials: 1) pure iron;”; printed key RARE EARTH MAGNET, HARD STEEL, PURE IRON (ACCEPT: 2, 3, 1) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “Which of the following environments would form foliated metamorphic rock? W) At a passive margin X) ” and choices W–Z; each choice and key Z) IN THE ACCRETIONARY WEDGE ABOVE A SUBDUCTING PLATE match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly shows y = 1/2 x + 5, matching the read-as cue; corpus omitted the fraction bar.",
+      "before": {
+        "parts": [
+          "If the line y = x + 5 [y equals half x plus five] is rotated 270 degrees clockwise around its x-intercept, what is the equation of its image?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the line y = <span class=\"nsb-fraction\"><span>1</span><span>2</span></span>x + 5 [y equals half x plus five] is rotated 270 degrees clockwise around its x-intercept, what is the equation of its image?"
+        ],
+        "parts_sanitized": [
+          "If the line y = (1/2)x + 5 [y equals half x plus five] is rotated 270 degrees clockwise around its x-intercept, what is the equation of its image?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “Identify all of the following four choices that would NOT be visible under a standard laboratory lig”; printed key 2 (ACCEPT: mRNA) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “Identify all of the following compounds that will dissolve in water in an endothermic fashion: 1) am”; printed key 1 (ACCEPT: AMMONIUM NITRATE) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “Indicate, by number, all of the following three statements that explain why the actual acceleration ”; printed key 1, 2, 3 (ACCEPT: ALL OF THEM) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “What location in a seed is equivalent to the embryonic leaf? W) Radicle X) Cotyledon [kat-uhl-EED-uh” and choices W–Z; each choice and key X) COTYLEDON match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visually prints Zn²⁺ and Ni²⁺ throughout, with a separating space before each pronunciation cue; corpus used flat digits and omitted these spaces.",
+      "before": {
+        "parts": [
+          "In a standard cell, a zinc electrode placed in a 1 molar Zn2+ solution is connected to a nickel electrode placed in a 1 molar Ni2+ solution. The 2 solutions are connected with a salt bridge. The standard reduction potential of Zn 2+ [Z-N two plus] is -0.76 Volts. If the standard electromotive force of this cell is +0.48 Volts, what is the standard reduction potential of Ni 2+ [N-i two plus] in volts?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In a standard cell, a zinc electrode placed in a 1 molar Zn<sup>2+</sup> solution is connected to a nickel electrode placed in a 1 molar Ni<sup>2+</sup> solution. The 2 solutions are connected with a salt bridge. The standard reduction potential of Zn<sup>2+</sup> [Z-N two plus] is -0.76 Volts. If the standard electromotive force of this cell is +0.48 Volts, what is the standard reduction potential of Ni<sup>2+</sup> [N-i two plus] in volts?"
+        ],
+        "parts_sanitized": [
+          "In a standard cell, a zinc electrode placed in a 1 molar Zn²⁺ solution is connected to a nickel electrode placed in a 1 molar Ni²⁺ solution. The 2 solutions are connected with a salt bridge. The standard reduction potential of Zn²⁺ [Z-N two plus] is -0.76 Volts. If the standard electromotive force of this cell is +0.48 Volts, what is the standard reduction potential of Ni²⁺ [N-i two plus] in volts?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Identify all of the following four compounds that can be metabolized by humans to produce ATP: 1) ma”; printed key 1, 3 AND 4 (ACCEPT: MALTOSE, GLUTAMINE AND PALMITATE) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints 5²⁰¹⁴ + 5²⁰¹⁵ + 5²⁰¹⁶; corpus lost all three bases and exponents.",
+      "before": {
+        "parts": [
+          "What is the largest prime factor of the quantity [five to the power of two thousand and fourteen plus five to the power of two thousand and fifteen plus five to the power of two thousand and sixteen]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the largest prime factor of the quantity 5<sup>2014</sup> + 5<sup>2015</sup> + 5<sup>2016</sup> [five to the power of two thousand and fourteen plus five to the power of two thousand and fifteen plus five to the power of two thousand and sixteen]?"
+        ],
+        "parts_sanitized": [
+          "What is the largest prime factor of the quantity 5^(2014) + 5^(2015) + 5^(2016) [five to the power of two thousand and fourteen plus five to the power of two thousand and fifteen plus five to the power of two thousand and sixteen]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints “Chemoautotrophs [kee-moh-AW-tuh-trofs] produce energy by oxidizing inorganic substances in their sur”; printed key BACTERIA AND ARCHAEA matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Which of the following was the cause of the collapse of the Tacoma Narrows suspension bridge in 1940” and choices W–Z; each choice and key W) AEROELASTIC FLUTTER CAUSING STANDING WAVE OSCILLATIONS match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “Consider the number 144 written in base x, where x is a positive integer. Indicate all of the follow”; printed key 5, 8,12 (ACCEPT: ALL OF THEM) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “An ideal gas is confined to an airtight piston that allows the gas to expand and contract but preven”; printed key 4 liters matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints “Which of the following is true regarding the major difference between cellulose and glycogen [GLY-ku” and choices W–Z; each choice and key Y) CELLULOSE CONSISTS OF BETA GLYCOSIDIC LINKAGES, WHILE GLYCOGEN CONSISTS OF ALPHA GLYCOSIDIC LINKAGES match."
+    }
+  ],
+  "packetIssues": []
+}

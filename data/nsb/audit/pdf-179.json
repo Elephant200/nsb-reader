@@ -1,0 +1,500 @@
+{
+  "packetIndex": 179,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_15A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “Which of the following ligands induces the largest electronic d orbital splitting in a transition me” and answer “Y) CYANO”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints the radial dependencies as 1/r² for a monopole and 1/r³ for a dipole; the import flattened both exponents.",
+      "before": {
+        "question": "If the radial dependence of the electric field of a monopole is 1/r2, what is the long range radial dependence of an electric dipole?",
+        "answer": "1/r3"
+      },
+      "changes": {
+        "question": "If the radial dependence of the electric field of a monopole is 1/r<sup>2</sup>, what is the long range radial dependence of an electric dipole?",
+        "answer": "1/r<sup>3</sup>",
+        "question_sanitized": "If the radial dependence of the electric field of a monopole is 1/r^2, what is the long range radial dependence of an electric dipole?",
+        "answer_sanitized": "1/r^3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Which of the following cell types is associated with haversian [ha-VER-zhen] canals? W) Osteocytes [” and answer “W) OSTEOCYTES”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 prints “CARBON DIOXIDE (ACCEPT: CO₂)”; add the subscript to the accepted chemical formula.",
+      "before": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO2)"
+      },
+      "changes": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)",
+        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “If 6 dice are rolled and the numbers on the top faces are added together, how many different sums ar” and answer “31”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “The Advanced Light Source can be used to identify elements in batteries and fuel cells. Which of the” and answer “X) X-RAY ABSORPTION SPECTROSCOPY”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Compton scattering is the scattering of X-ray photons from what particle?” and answer “ELECTRON”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “In fluidized bed combustors used for clean coal, what is added to the coal to keep pollutants in che” and answer “LIMESTONE (ACCEPT: CALCIUM CARBONATE)”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “Consider the hypothetical reaction 2A, aqueous, plus 2B, gaseous, yields 3C, aqueous, plus D, gaseou” and answer “Y) INCREASING THE PRESSURE”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “In the integers mod 12, what is 5 times 8?” and answer “4”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “What is the genus [JEE-nus] of the harmless gut bacterium that can be transformed by a bacteriophage” and answer “VIBRIO”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “According to the Stefan-Boltzmann law, a star with surface temperature in kelvins that is three time” and answer “81”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “What viral reproductive cycle kills the infected host cell while the virus is dividing?” and answer “LYTIC CYCLE”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “Brookhaven National Lab scientists recently made strides on understanding the nature of Cooper pairs” and answer “X) SUPERCONDUCTOR PHYSICS”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Identify all of the following three statements that are true of the inner planets: 1) Mercury has an” and answer “2”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “By what phenomenon can materials emit electrons in response to incident light?” and answer “PHOTOELECTRIC EFFECT”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Rank the following three elements in terms of increasing electron affinities: 1) Carbon; 2) Nitrogen” and answer “2, 1, 3”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “What is the volume of a circular cylinder formed by rotating a 5 by 6 rectangular region about one o” and answer “180π”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “What type of extrusive igneous rock is considered intermediate between basalt and dacite and possess” and answer “ANDESITE”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “If exactly 10 diagonals of a particular convex polygon contain the same vertex, how many total sides” and answer “13”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “The Ti (tie) plasmid can be used to stably transfect some plants with recombinant DNA. What is the g” and answer “AGROBACTERIUM”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “Identify all of the following three particles that, according to the standard model, can be affected” and answer “1 AND 2”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “What is the IUPAC name for the cyclic saturated hydrocarbon containing four carbon atoms?” and answer “CYCLOBUTANE”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints the chemical formula C₁₂H₁₆O₂ and the read-as cue “[C twelve H sixteen O two].” The import separated the element symbols and subscripts; restore formula layout and retain the complete cue.",
+      "before": {
+        "parts": [
+          "Consider an organic compound with no rings in its structure, and with the chemical formula C 12 H 16 O 2 [C twelve H sixteen O two]. What is the number of double bonds in its structure?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider an organic compound with no rings in its structure, and with the chemical formula C<sub>12</sub>H<sub>16</sub>O<sub>2</sub> [C twelve H sixteen O two]. What is the number of double bonds in its structure?"
+        ],
+        "parts_sanitized": [
+          "Consider an organic compound with no rings in its structure, and with the chemical formula C12H16O2 [C twelve H sixteen O two]. What is the number of double bonds in its structure?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “A weight is sinking in a fluid. The drag force on the weight is equal to a constant times its veloci” and answer “METERS SQUARED”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Identify all of the following four plants that have evolved mechanisms to reduce bio-energetically w” and answer “1”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “To the nearest power of ten, how many times as intense is the light we receive from a star with appa” and answer “100”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 prints the quantity 4²⁰¹⁴ + 4²⁰¹⁵ + 4²⁰¹⁶ + 4²⁰¹⁷; the import flattened all four exponents.",
+      "before": {
+        "parts": [
+          "What is the largest prime factor of the quantity 42014 + 42015 + 42016 + 42017?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the largest prime factor of the quantity 4<sup>2014</sup> + 4<sup>2015</sup> + 4<sup>2016</sup> + 4<sup>2017</sup>?"
+        ],
+        "parts_sanitized": [
+          "What is the largest prime factor of the quantity 4^2014 + 4^2015 + 4^2016 + 4^2017?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Researchers at the Joint Genome [JEE-nome] Institute have been using new types of fungi [fun-ji] to ” and answer “Y) ANIMAL GUTS”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Which of the following is closest to the half-life of a free neutron? W) 1 second X) 10 minutes Y) 1” and answer “X) 10 MINUTES”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “Which of the following solvents would most accelerate an SN2 reaction? W) Hexane X) Dichloromethane ” and answer “Y) DMSO”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “f of x is a twice differentiable function such that f prime of x and f double prime of x are both le” and answer “3”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “A disease-linked, spontaneous, congenital [kon-GEH-nih-tul] germ line mutation creates a restriction” and answer “Y) EITHER THE MATERNAL OR THE PATERNAL CHROMOSOME HAS THE POINT MUTATI”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “The closed universe is a solution of Einstein's equations of general relativity in which the mass de” and answer “CRITICAL DENSITY”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “What is the number of cells present in a mature male angiosperm gametophyte?” and answer “3”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “Scientists at Argonne National Lab are using x-rays to probe porosity in 3D-printed titanium alloys.” and answer “W) POROSITY DECREASES RESISTANCE TO FATIGUE”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Which of the following is most directly responsible for ocean water downwelling in the mid-ocean gyr” and answer “W) EKMAN TRANSPORT”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “CPT symmetry is a fundamental concept of nuclear science and theoretical physics. What do the C, P, ” and answer “CHARGE CONJUGATION (ACCEPT: CHARGE), PARITY INVERSION (ACCEPT: PARITY)”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “What effect, which applies to the chemistry of real gases and is exploited in the liquefaction of ai” and answer “JOULE-THOMSON EFFECT (ACCEPT: JOULE-THOMSON EXPANSION, JOULE-KELVIN EF”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “The sums of three whole numbers taken in pairs are 11, 13, and 14. What is the product of these thre” and answer “240”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “What ocean water mass has the oldest carbon-14 age, meaning it has spent the most time isolated from” and answer “Y) NORTH PACIFIC DEEP WATER”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “In a particular year, if April 15 is on a Wednesday, on what day of the week is December 25?” and answer “FRIDAY”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “Identify all of the following four cell types involved in plant transport physiology that are non-li” and answer “2 AND 4”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “In fluorescence microscopy, energy from absorbed photons is re-emitted as new photons. If the new ph” and answer “1.5 (ACCEPT: 3/2, 1 ½, 3 TO 2)”; compared complete source prompt, choices when present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “Identify all of the following three functional groups that commonly participate in addition reaction” and answer “1 AND 2”; compared complete source prompt, choices when present, and answer."
+    }
+  ],
+  "packetIssues": []
+}

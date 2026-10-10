@@ -1,0 +1,472 @@
+{
+  "packetIndex": 143,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_13A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2; printed answer is METHANE CLATHRATE (ACCEPT: METHANE HYDRATE, HYDROMETHANE, METHANE ICE, FIRE ICE, NATURAL GAS HYDRATE, AND GAS HYDRATE)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 3; printed answer is SUPPLEMENTARY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4; printed answer is X) INCREASING THE TEMPERATURE OF THE REACTION VESSEL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 5; printed answer is X) THE CHROMOSPHERE IS HOTTER THAN THE PHOTOSPHERE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6; printed answer is THOMAS YOUNG."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7; printed answer is W) CARBON MONOXIDE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8; printed answer is Y) SDS-POLYACRYLAMIDE GEL ELECTROPHORESIS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9; printed answer is 1 AND 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is Y) IT HAS AN UNCOUNTABLY INFINITE NUMBER OF ELEMENTS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 11; printed answer is Z) CEPHEID VARIABLES.",
+      "before": {
+        "question": "What stars provide a distance scale to the galaxies?<br>W) Quasars<br>Y) Pulsars<br>Y) Red Giants<br>Z) Cepheid Variables",
+        "options": [
+          "W) Quasars",
+          "Y) Pulsars",
+          "Y) Red Giants",
+          "Z) Cepheid Variables"
+        ]
+      },
+      "changes": {
+        "question": "What stars provide a distance scale to the galaxies?<br>W) Quasars<br>X) Pulsars<br>Y) Red Giants<br>Z) Cepheid Variables",
+        "options": [
+          "W) Quasars",
+          "X) Pulsars",
+          "Y) Red Giants",
+          "Z) Cepheid Variables"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is BRAGG’S LAW."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15; printed answer is 0.5 (ACCEPT: IT STAYS THE SAME)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16; printed answer is Z) THE SQUARE OF THE PRINCIPAL QUANTUM NUMBER."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17; printed answer is NO-HAIR THEOREM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 19; printed answer is W) SHALE GAS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20; printed answer is W) -6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21; printed answer is 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23; printed answer is BISMUTH."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1; printed answer is X) HYPOSECRETION OF TSH."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2; printed answer is MERCURY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 prints f(x) = 0.5x² + x and g(x) = 0.5x² − x; the source line has readable exponents on both x terms and lists four choices W through Z.",
+      "before": {
+        "parts": [
+          "What transformation occurs in going from the graph of f(x) = 0.5x + x to the 2 graph of g(x) = 0.5x – x?<br>W) Horizontal shift right by 1 unit<br>X) Horizontal shift left by 1 unit<br>Y) Horizontal shift right by 2 units<br>Z) Horizontal shift left by 2 units"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What transformation occurs in going from the graph of f(x) = 0.5x<sup>2</sup> + x to the graph of g(x) = 0.5x<sup>2</sup> − x?<br>W) Horizontal shift right by 1 unit<br>X) Horizontal shift left by 1 unit<br>Y) Horizontal shift right by 2 units<br>Z) Horizontal shift left by 2 units"
+        ],
+        "parts_sanitized": [
+          "What transformation occurs in going from the graph of f(x) = 0.5x^2 + x to the graph of g(x) = 0.5x^2 − x? W) Horizontal shift right by 1 unit; X) Horizontal shift left by 1 unit; Y) Horizontal shift right by 2 units; Z) Horizontal shift left by 2 units"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; printed answer is W) INCREASING ION SIZE WILL PRODUCE A LARGER LATTICE ENTHALPY."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5; printed answer is Z) NUCLEAR FORCES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6; printed answer is 36."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7; printed answer is Y) NATURAL GAS RELEASES MORE CARBON DIOXIDE PER KILOWATT-HOUR THAN COAL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8; printed answer is X) CNIDARIANS USUALLY HAVE A MOTILE MEDUSA FORM AND A NON-MOTILE POLYP FORM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9; printed answer is Z) CONFORMATIONAL ISOMERISM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10; printed answer is W) THE JURY MADE THE RIGHT DECISION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11; printed answer is W) NO CONDENSATION NUCLEI."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12; printed answer is 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13; printed answer is Y) DIFFERENCES IN GENETIC CODE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15; printed answer is cos x.",
+      "before": {
+        "parts": [
+          "Simplify cosine open parenthesis x close parenthesis + sine open + π/6 parenthesis x close parenthesis."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify cosine open parenthesis x + <span class=\"nsb-fraction\"><span>π</span><span>3</span></span> close parenthesis + sine open parenthesis x + <span class=\"nsb-fraction\"><span>π</span><span>6</span></span> close parenthesis."
+        ],
+        "parts_sanitized": [
+          "Simplify cosine open parenthesis x + π/3 close parenthesis + sine open parenthesis x + π/6 close parenthesis."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16; printed answer is W) THE HOMO OF N INTERACTS WITH THE LUMO OF E."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is 0.1%.",
+      "before": {
+        "parts": [
+          "The Young&amp;apos;s modulus for bone is 9 x 10 newtons per meters squared. What is the percent change in length of a tibia with a cross sectional area of 6 centimeters squared, if it experiences a 3 compressive force of 5.4 x 10 newtons?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The Young's modulus for bone is 9 × 10<sup>9</sup> newtons per meters squared. What is the percent change in length of a tibia with a cross sectional area of 6 centimeters squared, if it experiences a compressive force of 5.4 × 10<sup>3</sup> newtons?"
+        ],
+        "parts_sanitized": [
+          "The Young's modulus for bone is 9 × 10⁹ newtons per meters squared. What is the percent change in length of a tibia with a cross sectional area of 6 centimeters squared, if it experiences a compressive force of 5.4 × 10³ newtons?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 19; printed answer is W) PROTON-PROTON CHAIN."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20; printed answer is e."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 21; printed answer is 2 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23; printed answer is 2, 1,.",
+      "before": {
+        "parts": [
+          "Order the following three species from the lowest to highest bond order in MO theory: 1) B , 2) B<sub>2</sub> +, 3) B<sub>2</sub> – . <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span>"
+        ],
+        "answers": [
+          "2, 1,"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Order the following three species from the lowest to highest bond order in MO theory: 1) B, 2) B<sub>2</sub><sup>+</sup>, 3) B<sub>2</sub><sup>−</sup>."
+        ],
+        "parts_sanitized": [
+          "Order the following three species from the lowest to highest bond order in MO theory: 1) B, 2) B₂⁺, 3) B₂⁻."
+        ],
+        "answers": [
+          "2, 1, 3"
+        ]
+      }
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "sourcePages": [6],
+      "evidence": "PDF page 6 prints the four stars options with labels W, Y, Y, Z: Pulsars and Red Giants both appear as Y.",
+      "proposedRepair": "Change the Pulsars choice label from Y to X, preserving option order and the answer Z) Cepheid Variables."
+    }
+  ]
+}

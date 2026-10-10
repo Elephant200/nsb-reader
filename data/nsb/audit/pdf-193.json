@@ -1,0 +1,505 @@
+{
+  "packetIndex": 193,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-12.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks the stable points relative to two massive bodies; answer Lagrangian points with L points accepted."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists Paper, Silver, Rabbit fur, PVC plastic and keys 4,2,1,3 with the alternate order."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks Bose-Einstein condensate quasiparticles and includes the Bose cue; answer phonon."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks phosphorus pentachloride molecular geometry with cue; answer trigonal bipyramidal."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints line-equation choices perpendicular to 4x−5y=20 and keys Z; all coefficients and signs match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists ocean acidification, increased atmospheric O₂, increased surface temperature, and upwelling; key X. Restored subscript in option and keyed answer.",
+      "before": {
+        "question": "Sustained periods of organic carbon burial over geologic time will most likely lead to which of the following?<br>W) Ocean acidification [ah-SID-ih-fih-KAY-shun]<br>X) Increased atmospheric O 2<br>Y) Increased surface temperature<br>Z) Increased ocean upwelling",
+        "options": [
+          "W) Ocean acidification [ah-SID-ih-fih-KAY-shun]",
+          "X) Increased atmospheric O 2",
+          "Y) Increased surface temperature",
+          "Z) Increased ocean upwelling"
+        ],
+        "answer": "X) INCREASED ATMOSPHERIC O 2"
+      },
+      "changes": {
+        "question": "Sustained periods of organic carbon burial over geologic time will most likely lead to which of the following?<br>W) Ocean acidification [ah-SID-ih-fih-KAY-shun]<br>X) Increased atmospheric O<sub>2</sub><br>Y) Increased surface temperature<br>Z) Increased ocean upwelling",
+        "question_sanitized": "Sustained periods of organic carbon burial over geologic time will most likely lead to which of the following? W) Ocean acidification [ah-SID-ih-fih-KAY-shun]; X) Increased atmospheric O2; Y) Increased surface temperature; Z) Increased ocean upwelling",
+        "options": [
+          "W) Ocean acidification [ah-SID-ih-fih-KAY-shun]",
+          "X) Increased atmospheric O<sub>2</sub>",
+          "Y) Increased surface temperature",
+          "Z) Increased ocean upwelling"
+        ],
+        "answer": "X) INCREASED ATMOSPHERIC O<sub>2</sub>",
+        "answer_sanitized": "X) INCREASED ATMOSPHERIC O2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks which dwarf-galaxy statements are true; answer 1 AND 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists real/upright, real/inverted, virtual/upright, virtual/inverted; key X."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 gives f(4)=5, f′(4)=0, f″(4)=−6 in read-as wording and keys local maximum."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks electrolysis of aqueous sodium chloride and the strong base product; answer sodium hydroxide, accept NaOH."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks the gradient substance driving ATP production; answer protons, accept H+.",
+      "before": {
+        "answer": "PROTONS (ACCEPT: H+)"
+      },
+      "changes": {
+        "answer": "PROTONS (ACCEPT: H<sup>+</sup>)",
+        "answer_sanitized": "PROTONS (ACCEPT: H+)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists four cosmic microwave background distributions; key blackbody."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks implications of negative standard Gibbs free energy; key K greater than one."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 gives three primary lithium-cell statements; answer 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks probability phone belongs to junior among 25+35+28 students; answer 7/22."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks the transitional rock between igneous and metamorphic; answer migmatite."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks proteins around which chromatin DNA is wrapped; answer histones."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 gives an adjacent exterior angle of 124° in an isosceles triangle; vertex angle answer 68°."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks moon phase when setting around midnight; answer first quarter."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks term for continuous segments in copolymers and gives pronunciation cue; answer block polymer (accept block copolymer)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks the virtual particle mediating beta-plus decay and preserves positron/neutrino cues; answer W plus boson."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists dsDNA, ssDNA, dsRNA viral genetic material; answer ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 orders paper, silver, rabbit fur, PVC by triboelectric charge affinity and gives both accepted orders."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives all radar/sonar/vehicle/submersible altimeter choices; key W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 describes a genome-wide map of cis-acting elements; answer enhancers."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists terminal-alkyne, alpha-to-ketone, and tri-substituted-alkene hydrogens with read-as cues; answer 1 AND 2. Joined the line-wrapped gaseous cue.",
+      "before": {},
+      "changes": {
+        "parts_sanitized": [
+          "Identify all of the following three hydrogen atoms that could be deprotonated [dee-PRO-tuh-nated] by sodium amide [AM-ide]: 1) Hydrogen on terminal alkyne; 2) Hydrogen alpha to ketone [KEE-tone]; 3) Hydrogen on tri-substituted alkene."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 gives triangle sides 17,12,11 and answer 12√30."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists heavy, intermediate, light DNA weights after replication; answer 2 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks valley-formation statements; answer 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks the electricity-from-waste-heat effect; key Seebeck effect."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 gives 10 N force, 180-g ball, speed 30 m/s; answer 0.54 s (27/50)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 gives cube dimension changes +3,−3,unchanged and new volume 45 less; answer 125."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 ranks first ionization energy for Be, B, C and includes cues; answer 2,1,3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks the CNS glial immune cell and gives cue; answer microglia."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives a 5-kg block on a 30-degree plane at impending slip; answer friction coefficient 0.6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists ether, alcohol, thiol with thiol cue; answer 1 and 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 gives SLAC dark-matter evidence and WIMPs cue; answer dark matter with WIMP alternative."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks the sixteenth power of 1+i; answer 256 (accept 256+0i), visually confirmed."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists ferrihydrite, magnetite, goethite with cues; answer 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks which lobe contains the somatosensory cortex; answer parietal."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints (2x³+5x²−6x+2)/(x+3); answer 11. Restored both polynomial exponents.",
+      "before": {
+        "parts": [
+          "What is the remainder when 2x3 + 5x2 – 6x + 2 is divided by the binomial x + 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the remainder when 2x<sup>3</sup> + 5x<sup>2</sup> – 6x + 2 is divided by the binomial x + 3?"
+        ],
+        "parts_sanitized": [
+          "What is the remainder when 2x^3 + 5x^2 – 6x + 2 is divided by the binomial x + 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks common ratio in Ganymede/Europa/Io orbital periods; answer ½ (accept 0.5)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 scales osmotic pressure from 0.5 M to 2 M; answer 48 atm."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 gives opposite 1-C charges and 22.5-N attraction; answer 20,000 m."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists alpha, beta, gamma phosphate locations in dNTP; answer 1."
+    }
+  ],
+  "packetIssues": []
+}

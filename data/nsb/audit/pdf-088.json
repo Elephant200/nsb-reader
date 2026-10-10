@@ -1,0 +1,516 @@
+{
+  "packetIndex": 88,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND7.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 to Round 7 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 to Round 7 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 to Round 7 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 confirms the original question embeds its four choices and printed equation -mx + 1 = 13 − 4(x + 3); preserved every choice and the reading cue while normalizing spacing.",
+      "before": {
+        "question": "The equation -mx + 1 = 13 – 4(x + 3) [negative m x plus 1 equals 13 minus 4 times the quantity x plus 3] is an identity if m equals which of the following?<br>W) -4<br>X) -1<br>Y) 1<br>Z) 4"
+      },
+      "changes": {
+        "question": "The equation -mx + 1 = 13 – 4(x + 3) [negative m x plus 1 equals 13 minus 4 times the quantity x plus 3] is an identity if m equals which of the following?<br>W) -4<br>X) -1<br>Y) 1<br>Z) 4",
+        "question_sanitized": "The equation -mx + 1 = 13 – 4(x + 3) [negative m x plus 1 equals 13 minus 4 times the quantity x plus 3] is an identity if m equals which of the following?\nW) -4\nX) -1\nY) 1\nZ) 4"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 to Round 7 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 to Round 7 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered page 5 shows (x−1) squared ≤ 0; restored the exponent and preserved the printed spoken cue.",
+      "before": {
+        "question": "What is the solution set of the inequality (x – 1) 2 ≤ 0 [the quantity x minus one squared is less than or equal to zero]?"
+      },
+      "changes": {
+        "question": "What is the solution set of the inequality (x – 1)<sup>2</sup> ≤ 0 [the quantity x minus one squared is less than or equal to zero]?",
+        "question_sanitized": "What is the solution set of the inequality (x – 1)^2 <= 0 [the quantity x minus one squared is less than or equal to zero]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 to Round 7 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 to Round 7 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 to Round 7 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 to Round 7 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 to Round 7 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 to Round 7 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 to Round 7 page 11 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered page 11 shows i to the fourth power; restored the exponent.",
+      "before": {
+        "question": "What is the value of i4?"
+      },
+      "changes": {
+        "question": "What is the value of i<sup>4</sup>?",
+        "question_sanitized": "What is the value of i^4?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 to Round 7 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 to Round 7 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 to Round 7 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 to Round 7 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 shows f(x)=−2x²+8x−4 and the four embedded choices; restored the lost square and preserved the choices.",
+      "before": {
+        "parts": [
+          "If f(x) = -2x2 + 8x – 4, which of the following is true?<br>W) f is not a one to one function<br>X) The graph of f opens upward<br>Y) The graph of f has no x-intercept<br>Z) The maximum value of f(x) is -4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) = -2x<sup>2</sup> + 8x – 4, which of the following is true?<br>W) f is not a one to one function<br>X) The graph of f opens upward<br>Y) The graph of f has no x-intercept<br>Z) The maximum value of f(x) is -4"
+        ],
+        "parts_sanitized": [
+          "If f(x) = -2x^2 + 8x – 4, which of the following is true?\nW) f is not a one to one function\nX) The graph of f opens upward\nY) The graph of f has no x-intercept\nZ) The maximum value of f(x) is -4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 to Round 7 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 to Round 7 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered page 5 displays (4x²−12x)/(x²−9), followed by the same spoken reading and four options; restored the numerator, denominator, and fraction layout.",
+      "before": {
+        "parts": [
+          "If function f is defined by f(x) = (4x2 – 12x)/(x2 – 9) [f of x equals a fraction with numerator 4 x squared minus 12 x and denominator x squared minus 9], then at x = 3, which of the following is true?<br>W) The graph of f has a vertical asymptote<br>X) The graph of f has a hole on the x axis<br>Y) The graph of f has a hole at (3, 2)<br>Z) f(x) = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If function f is defined by f(x) = <span class=\"nsb-fraction\"><span>4x<sup>2</sup> – 12x</span><span>x<sup>2</sup> – 9</span></span> [f of x equals a fraction with numerator 4 x squared minus 12 x and denominator x squared minus 9], then at x = 3, which of the following is true?<br>W) The graph of f has a vertical asymptote<br>X) The graph of f has a hole on the x axis<br>Y) The graph of f has a hole at (3, 2)<br>Z) f(x) = 0"
+        ],
+        "parts_sanitized": [
+          "If function f is defined by f(x) = (4x^2 – 12x)/(x^2 – 9) [f of x equals a fraction with numerator 4 x squared minus 12 x and denominator x squared minus 9], then at x = 3, which of the following is true?\nW) The graph of f has a vertical asymptote\nX) The graph of f has a hole on the x axis\nY) The graph of f has a hole at (3, 2)\nZ) f(x) = 0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 to Round 7 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 to Round 7 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 to Round 7 page 7 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 to Round 7 page 7 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered page 8 prints ICl₄⁻; restored the chlorine subscript and ion charge, retaining the spoken reading cue.",
+      "before": {
+        "parts": [
+          "What is the electron-pair geometry for ICl 4 - [eye C L 4 minus]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the electron-pair geometry for ICl<sub>4</sub><sup>−</sup> [eye C L 4 minus]?"
+        ],
+        "parts_sanitized": [
+          "What is the electron-pair geometry for ICl₄⁻ [eye C L 4 minus]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered page 8 shows y=12x²−5x−2; restored the exponent.",
+      "before": {
+        "parts": [
+          "Providing your answers as fractions in lowest terms, what are the x- intercepts of the graph of y = 12x2 – 5x – 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answers as fractions in lowest terms, what are the x-intercepts of the graph of y = 12x<sup>2</sup> – 5x – 2?"
+        ],
+        "parts_sanitized": [
+          "Providing your answers as fractions in lowest terms, what are the x-intercepts of the graph of y = 12x^2 – 5x – 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 to Round 7 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 to Round 7 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 to Round 7 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 to Round 7 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered page 11 prints the wavelength 3×10⁻¹⁰ m, speed 1.1×10⁷ m/s, and answer 2×10⁻³¹; restored the scientific-notation exponents.",
+      "before": {
+        "parts": [
+          "A particle has a de Broglie [duh broh-GLEE] wavelength of 3 x 10-10 meters when it is traveling at 1.1 x 107 meters per second. Expressing your answer in kilograms and in scientific notation to one significant figure, what is its approximate mass?"
+        ],
+        "answers": [
+          "2 X 10-31"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A particle has a de Broglie [duh broh-GLEE] wavelength of 3 × 10<sup>−10</sup> meters when it is traveling at 1.1 × 10<sup>7</sup> meters per second. Expressing your answer in kilograms and in scientific notation to one significant figure, what is its approximate mass?"
+        ],
+        "parts_sanitized": [
+          "A particle has a de Broglie [duh broh-GLEE] wavelength of 3 × 10^-10 meters when it is traveling at 1.1 × 10^7 meters per second. Expressing your answer in kilograms and in scientific notation to one significant figure, what is its approximate mass?"
+        ],
+        "answers": [
+          "2 × 10<sup>−31</sup>"
+        ],
+        "answers_sanitized": [
+          "2 × 10^-31"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered page 11 shows y²/25 − x²/36 = 1; the four options distinguish orientations and slopes ±5/6 or ±6/5. Restored the equation, every embedded/separate choice, and answer X (opens up/down, asymptotes ±5/6 x).",
+      "before": {
+        "parts": [
+          "The hyperbola with equation = 1 possesses which of the following characteristics?<br>W) It opens left and right and has asymptotes y = x and y = x<br>X) It opens up and down and has asymptotes y = x and y = x<br>Y) It opens left and right and has asymptotes y = x and y = x<br>Z) It opens up and down and has asymptotes y = x and y = x"
+        ],
+        "options": [
+          "W) It opens left and right and has asymptotes y = x and y = x",
+          "X) It opens up and down and has asymptotes y = x and y = x",
+          "Y) It opens left and right and has asymptotes y = x and y = x",
+          "Z) It opens up and down and has asymptotes y = x and y = x"
+        ],
+        "answers": [
+          "X) IT OPENS UP AND DOWN AND HAS ASYMPTOTES y = x AND y = x"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The hyperbola with equation <span class=\"nsb-fraction\"><span>y<sup>2</sup></span><span>25</span></span> − <span class=\"nsb-fraction\"><span>x<sup>2</sup></span><span>36</span></span> = 1 possesses which of the following characteristics?<br>W) It opens left and right and has asymptotes y = <span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x and y = −<span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x<br>X) It opens up and down and has asymptotes y = <span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x and y = −<span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x<br>Y) It opens left and right and has asymptotes y = <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x and y = −<span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x<br>Z) It opens up and down and has asymptotes y = <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x and y = −<span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x"
+        ],
+        "parts_sanitized": [
+          "The hyperbola with equation (y^2)/25 - (x^2)/36 = 1 possesses which of the following characteristics?\nW) It opens left and right and has asymptotes y = (5/6)x and y = -(5/6)x\nX) It opens up and down and has asymptotes y = (5/6)x and y = -(5/6)x\nY) It opens left and right and has asymptotes y = (6/5)x and y = -(6/5)x\nZ) It opens up and down and has asymptotes y = (6/5)x and y = -(6/5)x"
+        ],
+        "options": [
+          "W) It opens left and right and has asymptotes y = <span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x and y = −<span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x",
+          "X) It opens up and down and has asymptotes y = <span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x and y = −<span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x",
+          "Y) It opens left and right and has asymptotes y = <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x and y = −<span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x",
+          "Z) It opens up and down and has asymptotes y = <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x and y = −<span class=\"nsb-fraction\"><span>6</span><span>5</span></span>x"
+        ],
+        "answers": [
+          "X) IT OPENS UP AND DOWN AND HAS ASYMPTOTES y = <span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x AND y = −<span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x"
+        ],
+        "answers_sanitized": [
+          "X) IT OPENS UP AND DOWN AND HAS ASYMPTOTES y = (5/6)x AND y = -(5/6)x"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 to Round 7 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 to Round 7 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 to Round 7 page 13 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    }
+  ],
+  "packetIssues": []
+}

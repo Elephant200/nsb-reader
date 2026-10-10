@@ -1,0 +1,643 @@
+{
+  "packetIndex": 95,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 1 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 2 section on source page 1, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered toss-up 3 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered toss-up 4 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered toss-up 5 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 shows x raised to x in the limit expression; the captured question omitted the expression.",
+      "before": {
+        "question": "What is the limit of as x approaches 0?"
+      },
+      "changes": {
+        "question": "What is the limit of x<sup>x</sup> as x approaches 0?",
+        "question_sanitized": "What is the limit of x^x as x approaches 0?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 7 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 9 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 10 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 11 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 12 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 15 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 16 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 17 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 18 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 19 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 gives (2/3)πr³, accepting 2πr³/3; the captured answer flattened the exponents and duplicated a colon.",
+      "before": {
+        "answer": "(2/3) πr3 (ALSO ACCEPT:: 2πr3/3)"
+      },
+      "changes": {
+        "answer": "(2/3) πr<sup>3</sup> (ALSO ACCEPT: 2πr<sup>3</sup>/3)",
+        "answer_sanitized": "(2/3) πr^3 (ALSO ACCEPT: 2πr^3/3)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 21 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 22 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 23 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 24 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered toss-up 25 section on source page 13, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 shows [Ar] 4s² 3d¹⁰ 4p⁵, accepting [Ar] 3d¹⁰ 4s² 4p⁵; the captured powers and closing parenthesis were missing.",
+      "before": {
+        "answers": [
+          "[Ar] 4s2 3d10 4p5 (ACCEPT: [Ar] 3d10 4s2 4p5"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "[Ar] 4s<sup>2</sup> 3d<sup>10</sup> 4p<sup>5</sup> (ACCEPT: [Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>5</sup>)"
+        ],
+        "answers_sanitized": [
+          "[Ar] 4s^2 3d^10 4p^5 (ACCEPT: [Ar] 3d^10 4s^2 4p^5)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 3 section on source page 2, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 gives the probability as 15/128; represented the quotient as an explicit fraction.",
+      "before": {
+        "answers": [
+          "15/128"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>15</span><span>128</span></span>"
+        ],
+        "answers_sanitized": [
+          "15/128"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered bonus 5 section on source page 3, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 shows 9x² and 4y²; the captured equation flattened both exponents.",
+      "before": {
+        "parts": [
+          "Given the equation 9x2 + 4y2 + 54x – 8y + 49 = 0, what kind of shape is its graph, and what are the coordinates of its center?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given the equation 9x<sup>2</sup> + 4y<sup>2</sup> + 54x − 8y + 49 = 0, what kind of shape is its graph, and what are the coordinates of its center?"
+        ],
+        "parts_sanitized": [
+          "Given the equation 9x^2 + 4y^2 + 54x - 8y + 49 = 0, what kind of shape is its graph, and what are the coordinates of its center?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered source page 4 prints hybridization sp³d²; the captured answer flattened both superscripts.",
+      "before": {
+        "answers": [
+          "sp3d2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "sp<sup>3</sup>d<sup>2</sup>"
+        ],
+        "answers_sanitized": [
+          "sp^3d^2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 8 section on source page 4, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 9 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 10 section on source page 5, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered bonus 11 section on source page 6, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered source page 6 shows y = (x³ − 8)/(x − 2); added the fraction structure while retaining the full read-as cue.",
+      "before": {
+        "parts": [
+          "Expressing your answer in simplest form, find the derivative with respect to x of y = [the fraction with numerator x cubed minus 8 and denominator x minus 2] for all values for which y is defined."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Expressing your answer in simplest form, find the derivative with respect to x of y = <span class=\"nsb-fraction\"><span>x<sup>3</sup> − 8</span><span>x − 2</span></span> [the fraction with numerator x cubed minus 8 and denominator x minus 2] for all values for which y is defined."
+        ],
+        "parts_sanitized": [
+          "Expressing your answer in simplest form, find the derivative with respect to x of y = (x^3 - 8)/(x - 2) [the fraction with numerator x cubed minus 8 and denominator x minus 2] for all values for which y is defined."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 13 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered bonus 14 section on source page 7, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered source page 8 shows the hybridization superscripts in every option and answer; the captured fields flattened them.",
+      "before": {
+        "parts": [
+          "Which of the following is true about benzene?<br>W) The carbons are alternately sp2 and sp3 hybridized<br>X) The carbon atoms are all sp2 hybridized with an unhybridized p orbital<br>Y) Some of the carbon atoms exhibit tetrahedral geometries<br>Z) The carbon atoms are all sp3 hybridized"
+        ],
+        "options": [
+          "W) The carbons are alternately sp2 and sp3 hybridized",
+          "X) The carbon atoms are all sp2 hybridized with an unhybridized p orbital",
+          "Y) Some of the carbon atoms exhibit tetrahedral geometries",
+          "Z) The carbon atoms are all sp3 hybridized"
+        ],
+        "answers": [
+          "X) THE CARBON ATOMS ARE ALL SP2 HYBRIDIZED WITH AN UNHYBRIDIZED P ORBITAL"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is true about benzene?<br>W) The carbons are alternately sp<sup>2</sup> and sp<sup>3</sup> hybridized<br>X) The carbon atoms are all sp<sup>2</sup> hybridized with an unhybridized p orbital<br>Y) Some of the carbon atoms exhibit tetrahedral geometries<br>Z) The carbon atoms are all sp<sup>3</sup> hybridized"
+        ],
+        "parts_sanitized": [
+          "Which of the following is true about benzene?\nW) The carbons are alternately sp^2 and sp^3 hybridized\nX) The carbon atoms are all sp^2 hybridized with an unhybridized p orbital\nY) Some of the carbon atoms exhibit tetrahedral geometries\nZ) The carbon atoms are all sp^3 hybridized"
+        ],
+        "options": [
+          "W) The carbons are alternately sp<sup>2</sup> and sp<sup>3</sup> hybridized",
+          "X) The carbon atoms are all sp<sup>2</sup> hybridized with an unhybridized p orbital",
+          "Y) Some of the carbon atoms exhibit tetrahedral geometries",
+          "Z) The carbon atoms are all sp<sup>3</sup> hybridized"
+        ],
+        "answers": [
+          "X) THE CARBON ATOMS ARE ALL sp<sup>2</sup> HYBRIDIZED WITH AN UNHYBRIDIZED P ORBITAL"
+        ],
+        "answers_sanitized": [
+          "X) THE CARBON ATOMS ARE ALL sp^2 HYBRIDIZED WITH AN UNHYBRIDIZED P ORBITAL"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 16 section on source page 8, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 17 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 18 section on source page 9, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered bonus 19 section on source page 10, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 shows the semicircle y = √(16 − (x − 4)²) with the complete read-as cue; added the radical and exponent structure to the prompt.",
+      "before": {
+        "parts": [
+          "Which of the following is the volume of the solid created by revolving the area bounded by semicircle [y equals the square root of open bracket 16 minus open parenthesis x minus 4 close parenthesis squared close brackets] and the x-axis around the x-axis?<br>W) 16π<br>X) 64π/3<br>Y) 64π<br>Z) 256π/3"
+        ],
+        "options": [
+          "W) 16π",
+          "X) 64π/3",
+          "Y) 64π",
+          "Z) 256π/3"
+        ],
+        "answers": [
+          "Z) 256π/3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the volume of the solid created by revolving the area bounded by semicircle y = √(16 − (x − 4)<sup>2</sup>) [y equals the square root of open bracket 16 minus open parenthesis x minus 4 close parenthesis squared close brackets] and the x-axis around the x-axis?<br>W) 16π<br>X) 64π/3<br>Y) 64π<br>Z) 256π/3"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the volume of the solid created by revolving the area bounded by semicircle y = sqrt(16 - (x - 4)^2) [y equals the square root of open bracket 16 minus open parenthesis x minus 4 close parenthesis squared close brackets] and the x-axis around the x-axis?\nW) 16π\nX) 64π/3\nY) 64π\nZ) 256π/3"
+        ],
+        "options": [
+          "W) 16π",
+          "X) 64π/3",
+          "Y) 64π",
+          "Z) 256π/3"
+        ],
+        "answers": [
+          "Z) 256π/3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 shows 6 × 10⁻⁴ and 1.7 × 10⁻¹¹, plus subscripted CH₃/H₂ species and superscript charges; the captured formula flattened all of that notation.",
+      "before": {
+        "parts": [
+          "The equilibrium constant K for the following reaction is 6 x 10-4: (CH 3 ) 2 NH + H 2 O →*(CH 3 ) 2 NH 2 + + OH- [CH 3 2 NH plus H 2 O yields star C H 3 2 N H 2 plus plus O H minus]. Providing your answer in scientific notation, find K for the reaction (CH 3 ) 2 NH 2 + →*(CH 3 ) 2 NH + H+ [C H 3 2 N H 2 plus yields star C H 3 2 N H plus H plus]."
+        ],
+        "answers": [
+          "1.7 x 10-11"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The equilibrium constant K for the following reaction is 6 × 10<sup>-4</sup>: (CH<sub>3</sub>)<sub>2</sub>NH + H<sub>2</sub>O →*(CH<sub>3</sub>)<sub>2</sub>NH<sub>2</sub><sup>+</sup> + OH<sup>−</sup> [CH 3 2 NH plus H 2 O yields star C H 3 2 N H 2 plus plus O H minus]. Providing your answer in scientific notation, find K for the reaction (CH<sub>3</sub>)<sub>2</sub>NH<sub>2</sub><sup>+</sup> →*(CH<sub>3</sub>)<sub>2</sub>NH + H<sup>+</sup> [C H 3 2 N H 2 plus yields star C H 3 2 N H plus H plus]."
+        ],
+        "parts_sanitized": [
+          "The equilibrium constant K for the following reaction is 6 x 10^-4: (CH3)2NH + H2O ->*(CH3)2NH2+ + OH- [CH 3 2 NH plus H 2 O yields star C H 3 2 N H 2 plus plus O H minus]. Providing your answer in scientific notation, find K for the reaction (CH3)2NH2+ ->*(CH3)2NH + H+ [C H 3 2 N H 2 plus yields star C H 3 2 N H plus H plus]."
+        ],
+        "answers": [
+          "1.7 × 10<sup>-11</sup>"
+        ],
+        "answers_sanitized": [
+          "1.7 x 10^-11"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered bonus 22 section on source page 11, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 23 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 24 section on source page 12, including prompt, choices where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered bonus 25 section on source page 13, including prompt, choices where present, and answer."
+    }
+  ],
+  "packetIssues": []
+}

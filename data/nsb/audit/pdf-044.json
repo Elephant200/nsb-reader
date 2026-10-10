@@ -1,0 +1,615 @@
+{
+  "packetIndex": 44,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-13C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; the radical covers −144/49, and the answer is the stacked fraction 12/7 followed by i. Corpus had malformed fraction markup and displaced radical glyph.",
+      "before": {
+        "question": "Simplify the following radical expression, giving your answer in ! standard bi form: <span class=\"nsb-fraction\">&lt;span&gt;144</span>&lt;span&gt;49</span></span> 12",
+        "answer": "i 7"
+      },
+      "changes": {
+        "question": "Simplify the following radical expression, giving your answer in standard bi form: √(−144/49)",
+        "question_sanitized": "Simplify the following radical expression, giving your answer in standard bi form: square root of negative 144/49.",
+        "answer": "<span class=\"nsb-fraction\"><span>12</span><span>7</span></span>i",
+        "answer_sanitized": "(12/7)i"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7; prompt ends after “energy?” with no trailing 4. Key reads 16 (ACCEPT: 2⁴); corpus displaced the exponent 4 into the prompt and lost the exponent markup in the key.",
+      "before": {
+        "question": "If the temperature of an object is doubled, and all other things remain the same, how many times as fast will it radiate energy? 4",
+        "answer": "16 (ACCEPT: 2 )"
+      },
+      "changes": {
+        "question": "If the temperature of an object is doubled, and all other things remain the same, how many times as fast will it radiate energy?",
+        "answer": "16 (ACCEPT: 2<sup>4</sup>)",
+        "answer_sanitized": "16 (ACCEPT: 2^4)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; key ends after “3 and –1)”. The solution continues “the log(-1) does not exist in the real number system)”; corpus appended that tail to the answer and truncated the note.",
+      "before": {
+        "answers": [
+          "3 (DO NOT ACCEPT 3 and –1) real number system)"
+        ],
+        "notes": [
+          "(Solution: 2x – 1 = (x + 2)(x – 2); (x – 3)(x + 1) = 0; x = 3, x ≠ -1 – the log(-1) does not exist in the"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "3 (DO NOT ACCEPT 3 and –1)"
+        ],
+        "notes": [
+          "(Solution: 2x – 1 = (x + 2)(x – 2); (x – 3)(x + 1) = 0; x = 3, x ≠ -1 – the log(-1) does not exist in the real number system)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; both factors contain √2, with radicals over 2; key is 8 + √2 i (ACCEPT: 8 + i√2). Corpus dropped both radical signs.",
+      "before": {
+        "parts": [
+          "Multiply the following complex numbers, giving your answer in standard form: (2 + i 2 )(3 – i 2 )"
+        ],
+        "answers": [
+          "8 + 2 i (ACCEPT: 8 + i 2 )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Multiply the following complex numbers, giving your answer in standard form: (2 + i√2)(3 – i√2)"
+        ],
+        "parts_sanitized": [
+          "Multiply the following complex numbers, giving your answer in standard form: (2 + i√2)(3 – i√2)."
+        ],
+        "answers": [
+          "8 + √2 i (ACCEPT: 8 + i√2)"
+        ],
+        "answers_sanitized": [
+          "8 + √2 i (ACCEPT: 8 + i√2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; the prompt shows x³ and the solution substitutes 3³. Corpus detached the exponents into the answer and omitted them from the function and solution.",
+      "before": {
+        "parts": [
+          "Given the function f(x) = x + 3x – k and f(3) = 31, solve for k:"
+        ],
+        "notes": [
+          "(Solution: 31 = 3 + 3(3) – k; k = 5)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given the function f(x) = x<sup>3</sup> + 3x – k and f(3) = 31, solve for k:"
+        ],
+        "parts_sanitized": [
+          "Given the function f(x) = x^3 + 3x – k and f(3) = 31, solve for k:"
+        ],
+        "notes": [
+          "(Solution: 31 = 3<sup>3</sup> + 3(3) – k; k = 5)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Root visual QA of PDF p. 10 confirms the source omits the closing acceptance parenthesis; added only the missing delimiter, preserving all printed answer text.",
+      "before": {
+        "answers": [
+          "1 AND 4 (ACCEPT: 1 - LOW HEMATOCRIT; 4 - INCREASED TRANSFERRIN LEVEL"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1 AND 4 (ACCEPT: 1 - LOW HEMATOCRIT; 4 - INCREASED TRANSFERRIN LEVEL)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; all formulas are contiguous HBrO₃, HBrO₂, HBrO in the prompt and key, without spaces before semicolons.",
+      "before": {
+        "parts": [
+          "Arrange the following 3 oxoacids or oxyacids in order of INCREASING acid strength: HBrO<sub>3</sub> ; HBrO<sub>2</sub> ; HBrO"
+        ],
+        "answers": [
+          "HBrO; HBrO<sub>2</sub> ; HBrO<sub>3</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Arrange the following 3 oxoacids or oxyacids in order of INCREASING acid strength: HBrO<sub>3</sub>; HBrO<sub>2</sub>; HBrO"
+        ],
+        "answers": [
+          "HBrO; HBrO<sub>2</sub>; HBrO<sub>3</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; answer is 134. Solution has v² = vE² + vN² and squares both velocity terms; corpus flattened superscripts/subscripts into the answer and note.",
+      "before": {
+        "answers": [
+          "134 2 2E 2N 2E 2N 2 2"
+        ],
+        "notes": [
+          "(Solution: v = v + v ; KE = ½ m(v + v ) = ½ (3kg)[(5m/s) + (8 m/s) ] = 133.5J)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "134"
+        ],
+        "notes": [
+          "(Solution: v<sup>2</sup> = v<sub>E</sub><sup>2</sup> + v<sub>N</sub><sup>2</sup>; KE = ½ m(v<sub>E</sub><sup>2</sup> + v<sub>N</sub><sup>2</sup>) = ½ (3kg)[(5m/s)<sup>2</sup> + (8m/s)<sup>2</sup>] = 133.5J)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; compared the complete prompt and key, including options and notes. Source and corpus agree on the flagged number or notation."
+    }
+  ],
+  "packetIssues": []
+}

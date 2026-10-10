@@ -1,0 +1,551 @@
+{
+  "packetIndex": 8,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Root visual QA of page 1: answer is Z) 720 only. The right arrow belongs in the solution between solid and vapor, not in the answer.",
+      "before": {
+        "answer": "Z) 720 ",
+        "notes": [
+          "(Solution: sublimation is solid vapor; 80 cal + 100 cal + 540 cal = 720 cal)"
+        ]
+      },
+      "changes": {
+        "answer": "Z) 720",
+        "notes": [
+          "(Solution: sublimation is solid → vapor; 80 cal + 100 cal + 540 cal = 720 cal)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows e^(x/5) = 30; the corpus omitted the exponent and its grouping.",
+      "before": {
+        "question": "If e 5 = 30, which of the following is the value of x, assuming that the natural log of 2 = 0.7, and the natural log of 15 = 2.7:<br>W) 15<br>X) 16<br>Y) 17<br>Z) 18"
+      },
+      "changes": {
+        "question": "If e<sup>x/5</sup> = 30, which of the following is the value of x, assuming that the natural log of 2 = 0.7, and the natural log of 15 = 2.7:<br>W) 15<br>X) 16<br>Y) 17<br>Z) 18",
+        "question_sanitized": "If e^(x/5) = 30, which of the following is the value of x, assuming that the natural log of 2 = 0.7, and the natural log of 15 = 2.7:; W) 15; X) 16; Y) 17; Z) 18"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows the arrow and formula subscripts as printed; the corpus omitted the arrow and separated the S from Na₂.",
+      "before": {
+        "question": "The reaction CuCl<sub>2</sub> + Na<sub>2</sub> S CuS + 2NaCl<sub>2</sub> , is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition"
+      },
+      "changes": {
+        "question": "The reaction CuCl<sub>2</sub> + Na<sub>2</sub>S → CuS + 2NaCl<sub>2</sub>, is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows O₂¹⁻, O₂²⁻, SO₂, CO; the odd-electron answer is O₂¹⁻. Corpus charges were displaced in the prompt and answer.",
+      "before": {
+        "parts": [
+          "Name all of the following 4 species that contain an odd number 21– 22– of electrons: O ; O ; SO<sub>2</sub> ; CO 21–"
+        ],
+        "answers": [
+          "O"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Name all of the following 4 species that contain an odd number of electrons: O<sub>2</sub><sup>1−</sup>; O<sub>2</sub><sup>2−</sup>; SO<sub>2</sub>; CO"
+        ],
+        "answers": [
+          "O<sub>2</sub><sup>1−</sup>"
+        ],
+        "parts_sanitized": [
+          "Name all of the following 4 species that contain an odd number of electrons: O_2^(1−); O_2^(2−); SO_2; CO"
+        ],
+        "answers_sanitized": [
+          "O_2^(1−)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        8
+      ],
+      "evidence": "The source prints CuCl₂ + Na₂S → CuS + 2NaCl₂. The sodium chloride product is printed with subscript 2, leaving the source equation chemically unbalanced; preserved as printed."
+    }
+  ]
+}

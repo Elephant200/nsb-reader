@@ -1,0 +1,473 @@
+{
+  "packetIndex": 136,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_6A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed toss-up 2: 2) Biology – Multiple Choice Which of the following does not play a role in protein digestion? W) Trypsin X) Pepsin Y) Carboxypeptidase [car-box-ee-pep-tih-days] Z) Dextrinase [dex-trih-nays] ANSWER: Z) DEXTRINASE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 3: 3) Math – Short Answer If a 52 foot-long wire is bent to form a square, what is the length of the square’s diagonal? Answer: 13 times the square root of 2"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed toss-up 4: 4) Energy – Short Answer If an electron is excited to the n = 4 energy level in hydrogen, what is the maximum number of emission lines you would observe? ANSWER: 6"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 5: 5) Chemistry – Short Answer What is the electronic geometry of a molecule with sp3 hybridization at its central atom? ANSWER: TETRAHEDRAL (ACCEPT: TETRAHEDRAL GEOMETRY)",
+      "before": {
+        "question": "What is the electronic geometry of a molecule with sp hybridization at its central atom?"
+      },
+      "changes": {
+        "question": "What is the electronic geometry of a molecule with sp<sup>3</sup> hybridization at its central atom?",
+        "question_sanitized": "What is the electronic geometry of a molecule with sp^3 hybridization at its central atom?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed toss-up 6: 6) Physics – Multiple Choice After combing your hair, the comb becomes electrically charged. You then use the comb to pick up electrically neutral bits of paper, without making contact between the comb and the paper. What process allowed you to pick up the paper bits? W) Conduction X) Insulation Y) Magnetization Z) Polarization …"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 7: 7) Earth and Space – Multiple Choice An outflow of charged particles from the sun that escapes the sun’s outer atmosphere is called: W) Solar discharge X) Solar flare Y) Solar wind Z) Solar gust ANSWER: Y) SOLAR WIND"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed toss-up 8: 8) Biology – Multiple Choice Which of the following phases is typically the longest in a normal cell’s life cycle? W) Interphase X) Metaphase Y) Prophase Z) Anaphase ANSWER: W) INTERPHASE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 9: 9) Energy – Short Answer Lithium-ion batteries are finding use in replacing what type of battery, often found in automobiles? ANSWER: LEAD-ACID BATTERY"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed toss-up 10: 10) Math – Short Answer Find the modulus of the complex conjugate of 3 – 4i. ANSWER: 5"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 11: 11) Chemistry – Short Answer Identify all of the following three quantities that are considered state functions: 1) Enthalpy; 2) Heat; 3) Volume. ANSWER: 1 AND 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed toss-up 12: 12) Physics – Multiple Choice The electromotive force is defined as: W) The maximum electric potential energy stored within a battery X) The maximum potential difference between the terminals of a battery Y) The force that accelerates electrons through a wire when a battery is connected to it Z) The maximum capacitance between t…"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed toss-up 14: 14) Math – Short Answer If 1/x – 1/y = 1/z, what does z equal in terms of x and y? ANSWER: (xy)/(y – x) (ACCEPT: (-yx)/(x – y))",
+      "before": {
+        "question": "If /x – /y = /z, what does z equal in terms of x and y?",
+        "answer": "(xy)/(y – x) (ACCEPT: (-yx)/(x – y))"
+      },
+      "changes": {
+        "question": "If <span class=\"nsb-fraction\"><span>1</span><span>x</span></span> − <span class=\"nsb-fraction\"><span>1</span><span>y</span></span> = <span class=\"nsb-fraction\"><span>1</span><span>z</span></span>, what does z equal in terms of x and y?",
+        "question_sanitized": "If 1/x − 1/y = 1/z, what does z equal in terms of x and y?",
+        "answer": "<span class=\"nsb-fraction\"><span>xy</span><span>y − x</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>−yx</span><span>x − y</span></span>)",
+        "answer_sanitized": "(xy)/(y − x) (ACCEPT: (−yx)/(x − y))"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 15: 15) Chemistry – Multiple Choice Which of the following quantum numbers describes the shape of the orbital? W) Principal X) Azimuthal Y) Magnetic Z) Spin ANSWER: X) AZIMUTHAL"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed toss-up 16: 16) Biology – Multiple Choice What human body cells contain H bands, Z disks and I bands? W) Neurons X) Adipocytes [uh-dip-oh-sights] Y) Skeletal muscle Z) Osteocytes [os-tee-oh-sights] ANSWER: Y) SKELETAL MUSCLE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 17: 17) Energy – Short Answer Identify all of the following three values that can never be negative: 1) Entropy; 2) Change in entropy; 3) Bond enthalpy for breaking a bond. ANSWER: 1, 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed toss-up 18: 18) PHYSICS – Multiple Choice Which of the following components of a car provides the best example of a damped oscillator? W) Brakes X) Shock absorbers Y) Rack-and-pinion steering column Z) Differential ANSWER: X) SHOCK ABSORBERS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed toss-up 20: 20) Biology – Multiple Choice Which of the following hormones is derived from cholesterol? W) Substance P X) Indoleacetic acid Y) Testosterone Z) Prolactin ANSWER: Y) TESTOSTERONE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 21: 21) Math – Short Answer A basketball player makes 6 baskets during a game, each worth 2 or 3 points. How many different possible values exist for the total points scored by the player? ANSWER: 7"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed toss-up 22: 22) Chemistry – Short Answer Identify all of the following three compounds that would form a solid state composed of molecules interacting through hydrogen bonds: 1) Water; 2) Acetone; 3) Silicon dioxide. ANSWER: 1"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed toss-up 23: 23) Physics – Short Answer What particles did Rutherford fire at gold foil in order to discover the nuclear model of the atom? ANSWER: ALPHA PARTICLES"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 confirms printed bonus 1: 1) Earth and Space – Short Answer The red or pink color commonly seen in quartzite is due to oxides of what element? ANSWER: IRON"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 3: 3) Math – Short Answer Robert is asked by his teacher to subtract 3 from a number and divide the result by 9. Instead, he subtracts 9 and then divides the result by 3, giving him 43. What is the correct answer to the teacher’s question? ANSWER: 15"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 confirms printed bonus 4: 4) Energy – Short Answer Most photosynthetically active radiation occurs in what 2 zones of the electromagnetic spectrum? ANSWER: VISIBLE AND INFRARED"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 5: 5) Chemistry – Short Answer What chemical law predicts the response of a system at equilibrium to a perturbation in temperature, concentration, volume, or pressure by stating that the equilibrium shifts to counteract the change? ANSWER: LE CHATELIER'S PRINCIPLE",
+      "before": {
+        "answers": [
+          "LE CHATELIER&amp;apos;S PRINCIPLE"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "LE CHATELIER'S PRINCIPLE"
+        ],
+        "answers_sanitized": [
+          "LE CHATELIER'S PRINCIPLE"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 confirms printed bonus 6: 6) Physics – Short Answer What classic experiment used a squeeze-bulb atomizer to spray a mist of charged oil droplets between parallel plate electrodes? ANSWER: MILLIKAN OIL-DROP EXPERIMENT (ACCEPT: OIL DROP EXPERIMENT)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 confirms printed bonus 7: 7) Earth and Space – Multiple Choice When the air is saturated with moisture, which of the following statements is false? W) Relative humidity is equal to 100% X) Air temperature is equal to the dew point temperature Y) Air temperature is equal to the wet bulb temperature Z) An increase in temperature will produce condensation A…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 9: 9) Energy – Short Answer What form of renewable energy is responsible for producing the most electricity worldwide? ANSWER: HYDROELECTRICITY"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 confirms printed bonus 10: 10) Math – Multiple Choice If you flip a coin five times, what is the probability that you will get at least two heads? W) 31/32 X) 13/16 Y) 25/32 Z) 9/16 ANSWER: X) 13/16"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 11: 11) Chemistry – Multiple Choice Which of the following solutions, when mixed one-to-one, will exhibit the smallest deviation from Raoult's [rah-oolt’s] law? W) Pentane and water X) Pentane and hexane Y) Chloroform and acetone Z) Water and ethanol ANSWER: X) PENTANE AND HEXANE",
+      "before": {
+        "parts": [
+          "Which of the following solutions, when mixed one-to-one, will exhibit the smallest deviation from Raoult&amp;apos;s [rah-oolt’s] law?<br>W) Pentane and water<br>X) Pentane and hexane<br>Y) Chloroform and acetone<br>Z) Water and ethanol"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following solutions, when mixed one-to-one, will exhibit the smallest deviation from Raoult's [rah-oolt’s] law?<br>W) Pentane and water<br>X) Pentane and hexane<br>Y) Chloroform and acetone<br>Z) Water and ethanol"
+        ],
+        "parts_sanitized": [
+          "Which of the following solutions, when mixed one-to-one, will exhibit the smallest deviation from Raoult's [rah-oolt’s] law? W) Pentane and water X) Pentane and hexane Y) Chloroform and acetone Z) Water and ethanol"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 confirms printed bonus 12: 12) Physics – Short Answer On a large violin with strings that have a length of 0.5 meters between fixed points, a string has a linear mass density of 40 grams per meter and a fundamental frequency of 20 hertz. Calculate the frequency, in hertz, and wavelength, in centimeters rounded to the nearest integer, of the second overton…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 13: 13) Earth and Space – Multiple Choice What determines when a tropical depression or storm is given hurricane status? W) Wind speed X) Central pressure Y) Diameter Z) Movement velocity ANSWER: W) WIND SPEED"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 confirms printed bonus 14: 14) Math – Short Answer Identify all of the following three numbers that are evenly divisible by eight: 1) 1,256,424; 2) 1,216; 3) 662,322. ANSWER: 1, 2"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 15: 15) Chemistry – Multiple Choice Which of the following is correct regarding a process that follows first- order kinetics? W) Reactant concentrations are constant with time X) Reactant concentrations decrease linearly with time Y) Reactant concentrations decrease quadratically with time Z) Reactant concentrations decrease exponen…"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 confirms printed bonus 16: 16) Biology – Short Answer In 1961, it was demonstrated that fibroblast cells can only divide about 50 times in culture, at which point the cell cycle halts before DNA replication. The reason for this limit on cell division, also called the Hayflick limit, is due to the loss of what chromosomal caps? ANSWER: TELOMERES"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 17: 17) Energy – Short Answer In a photovoltaic cell, what is generally the positive charge carrier? ANSWER: HOLE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 confirms printed bonus 18: 18) Physics – Short Answer What is the change in potential energy, to the nearest one hundred joules, associated with a 100 kilogram rollercoaster descending 20.0 meters? ANSWER: 19600"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 19: 19) Earth and Space – Multiple Choice When is a strong temperature inversion most likely to form? W) On a warm, windy night X) On a cool, windy night Y) On a rainy night with light winds Z) On a clear night with light winds ANSWER: Z) ON A CLEAR NIGHT WITH LIGHT WINDS"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 confirms printed bonus 20: 20) Biology – Short Answer Cadherins [kuh-deer-ins] are components of what type of cell junction? ANSWER: ADHERENS JUNCTIONS"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 21: 21) Math – Short Answer How many positive integral factors exist for 1800? ANSWER: 36"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 confirms printed bonus 22: 22) Chemistry – Short Answer Identify all of the following three statements concerning beryllium that are true: 1) Beryllium has a higher melting point than both magnesium and calcium; 2) Beryllium chloride has a higher ionic character than magnesium chloride; 3) Beryllium has a filled 2s subshell. ANSWER: 1 AND 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 confirms printed bonus 23: 23) Physics – Short Answer A skateboarder is travelling down a quarter-circle curved ramp, where the whole circle has a perimeter of 20π meters. Ignoring the spinning of the skateboard’s wheels, what is the skateboarder’s speed, in meters per second and to the nearest whole number, at the bottom of the ramp? ANSWER: 14",
+      "before": {
+        "parts": [
+          "A skateboarder is travelling down a quarter-circle curved ramp, where the 20π whole circle has a perimeter of meters. Ignoring the spinning of the skateboard’s wheels, what is the skateboarder’s speed, in meters per second and to the nearest whole number, at the bottom of the ramp?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A skateboarder is travelling down a quarter-circle curved ramp, where the whole circle has a perimeter of 20π meters. Ignoring the spinning of the skateboard’s wheels, what is the skateboarder’s speed, in meters per second and to the nearest whole number, at the bottom of the ramp?"
+        ],
+        "parts_sanitized": [
+          "A skateboarder is travelling down a quarter-circle curved ramp, where the whole circle has a perimeter of 20π meters. Ignoring the spinning of the skateboard’s wheels, what is the skateboarder’s speed, in meters per second and to the nearest whole number, at the bottom of the ramp?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,734 @@
+{
+  "packetIndex": 38,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-7C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows ns²np⁵ in choice Y and the answer; stray “2 6” digits in choice X came from the lost superscripts.",
+      "before": {
+        "question": "Which of the following is NOT true of halogens:<br>W) iodine is the least reactive of the stable halogens<br>X) elemental halogens exist as diatomic molecules containing single covalent bonds 2 6<br>Y) their outermost electron configuration is represented by ns np<br>Z) halides of typical metals are ionic",
+        "answer": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY 2 6 NS NP",
+        "options": [
+          "W) iodine is the least reactive of the stable halogens",
+          "X) elemental halogens exist as diatomic molecules containing single covalent bonds 2 6",
+          "Y) their outermost electron configuration is represented by ns np",
+          "Z) halides of typical metals are ionic"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT true of halogens:<br>W) iodine is the least reactive of the stable halogens<br>X) elemental halogens exist as diatomic molecules containing single covalent bonds<br>Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>5</sup><br>Z) halides of typical metals are ionic",
+        "answer": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS<sup>2</sup>NP<sup>5</sup>",
+        "answer_sanitized": "Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS^2NP^5",
+        "options": [
+          "W) iodine is the least reactive of the stable halogens",
+          "X) elemental halogens exist as diatomic molecules containing single covalent bonds",
+          "Y) their outermost electron configuration is represented by ns<sup>2</sup>np<sup>5</sup>",
+          "Z) halides of typical metals are ionic"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows the powered numerator over 2x⁻³y⁻⁴z⁻⁵, with result x³y⁴z⁵/2 (accepting ½x³y⁴z⁵); the corpus detached all exponents and fraction layout.",
+      "before": {
+        "question": "Remove all negative exponents and simplify the following expression ( 2 x 2 y ! 1 z 3 ) 0 for all non-zero values of x, y, and z: ( 2 x ! 3 y ! 4 z ! 5 ) x 3 y 4 z 5",
+        "answer": "(ACCEPT: x 3 y 4 z 5 ) <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;2</span></span> 2"
+      },
+      "changes": {
+        "question": "Remove all negative exponents and simplify the following expression for all non-zero values of x, y, and z: <span class=\"nsb-fraction\"><span>(2x<sup>2</sup>y<sup>-1</sup>z<sup>3</sup>)<sup>0</sup></span><span>2x<sup>-3</sup>y<sup>-4</sup>z<sup>-5</sup></span></span>",
+        "question_sanitized": "Remove all negative exponents and simplify the following expression for all non-zero values of x, y, and z: ((2x^2 y^-1 z^3)^0)/(2x^-3 y^-4 z^-5)",
+        "answer": "<span class=\"nsb-fraction\"><span>x<sup>3</sup>y<sup>4</sup>z<sup>5</sup></span><span>2</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>1</span><span>2</span></span>x<sup>3</sup>y<sup>4</sup>z<sup>5</sup>)",
+        "answer_sanitized": "(x^3 y^4 z^5)/2 (ACCEPT: (1/2)x^3 y^4 z^5)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows Fe²⁺; the corpus omitted its charge.",
+      "before": {
+        "question": "When iron becomes the ion Fe , it<br>W) loses two, 3d electrons<br>X) loses two, 4s electrons<br>Y) gains two, 3d electrons<br>Z) gains two, 4s electrons"
+      },
+      "changes": {
+        "question": "When iron becomes the ion Fe<sup>2+</sup>, it<br>W) loses two, 3d electrons<br>X) loses two, 4s electrons<br>Y) gains two, 3d electrons<br>Z) gains two, 4s electrons",
+        "question_sanitized": "When iron becomes the ion Fe2+, it<br>W) loses two, 3d electrons<br>X) loses two, 4s electrons<br>Y) gains two, 3d electrons<br>Z) gains two, 4s electrons"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows (−32x⁵)^(−2/5) and the answer 1/(4x²); the corpus lost the grouped fractional exponent and denominator layout.",
+      "before": {
+        "question": "Remove all negative exponents and simplify the following expression −<sup>2</sup><sub>5</sub> for all non-zero values of x: ( 32 x 5 ) − 1",
+        "answer": "4 x 2"
+      },
+      "changes": {
+        "question": "Remove all negative exponents and simplify the following expression for all non-zero values of x: (−32x<sup>5</sup>)<sup>-2/5</sup>",
+        "question_sanitized": "Remove all negative exponents and simplify the following expression for all non-zero values of x: (-32x^5)^(-2/5)",
+        "answer": "<span class=\"nsb-fraction\"><span>1</span><span>4x<sup>2</sup></span></span>",
+        "answer_sanitized": "1/(4x^2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows CH₂O and C₂H₄O₂ with contiguous formula subscripts; the corpus inserted spaces after them.",
+      "before": {
+        "answers": [
+          "CH<sub>2</sub> O"
+        ],
+        "notes": [
+          "(Solution: C<sub>2</sub> H<sub>4</sub> O<sub>2</sub> in 1:2:1 ratio)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "CH<sub>2</sub>O"
+        ],
+        "answers_sanitized": [
+          "CH2O"
+        ],
+        "notes": [
+          "(Solution: C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> in 1:2:1 ratio)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 gives 7 lb/in² and uses 200 in² and lb/in² in the solution; the corpus detached the powers.",
+      "before": {
+        "answers": [
+          "7 2 2"
+        ],
+        "notes": [
+          "(Solution: P = F/A; 1400lbs/200in = 7 lb/in )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "7"
+        ],
+        "notes": [
+          "(Solution: P = F/A; 1400lbs/200in<sup>2</sup> = 7 lb/in<sup>2</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows the equation (x + 9)/(x + 10) = 20/18; the corpus lost the fraction layout and parts of both sides.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x: <span class=\"nsb-fraction\">&lt;span&gt;20</span>&lt;span&gt;18</span></span> = ( x 10 ) +"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x: <span class=\"nsb-fraction\"><span>x + 9</span><span>x + 10</span></span> = <span class=\"nsb-fraction\"><span>20</span><span>18</span></span>"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x: (x + 9)/(x + 10) = 20/18"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows X) 1.10 × 10⁶ and Y) 1.55 × 10⁸; W and Z are stated as 70 million and 600 million. The corpus detached or omitted exponents.",
+      "before": {
+        "parts": [
+          "The length of the longest side of a U.S. dollar bill is about how many nanometers in length:<br>W) 70 million 6<br>X) 1.10 × 10 8<br>Y) 1.55 × 10<br>Z) 600 million 8"
+        ],
+        "options": [
+          "W) 70 million 6",
+          "X) 1.10 × 10 8",
+          "Y) 1.55 × 10",
+          "Z) 600 million 8"
+        ],
+        "answers": [
+          "Y) 1.55 × 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The length of the longest side of a U.S. dollar bill is about how many nanometers in length:<br>W) 70 million<br>X) 1.10 × 10<sup>6</sup><br>Y) 1.55 × 10<sup>8</sup><br>Z) 600 million"
+        ],
+        "parts_sanitized": [
+          "The length of the longest side of a U.S. dollar bill is about how many nanometers in length:<br>W) 70 million<br>X) 1.10 × 10^6<br>Y) 1.55 × 10^8<br>Z) 600 million"
+        ],
+        "options": [
+          "W) 70 million",
+          "X) 1.10 × 10<sup>6</sup>",
+          "Y) 1.55 × 10<sup>8</sup>",
+          "Z) 600 million"
+        ],
+        "answers": [
+          "Y) 1.55 × 10<sup>8</sup>"
+        ],
+        "answers_sanitized": [
+          "Y) 1.55 × 10^8"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 gives 7.2 and labels mole fractions with O and total-mole subscripts; the corpus retained stray subscript letters in the answer and lost the note subscripts.",
+      "before": {
+        "answers": [
+          "7.2 O O t O"
+        ],
+        "notes": [
+          "(Solution: X = n /n ; 0.6 = n /12 mol = 7.2 mol)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "7.2"
+        ],
+        "notes": [
+          "(Solution: X<sub>O</sub> = n<sub>O</sub>/n<sub>t</sub>; 0.6 = n<sub>O</sub>/12 mol = 7.2 mol)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 has no trailing 11 in the prompt and gives y = (2/3)x − 11/3.",
+      "before": {
+        "parts": [
+          "What is the slope-intercept equation of the line that passes through the point (4, -1) and is parallel to the line with equation 2x – 3y = 9? 11"
+        ],
+        "answers": [
+          "y = <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span> x – 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the slope-intercept equation of the line that passes through the point (4, -1) and is parallel to the line with equation 2x − 3y = 9?"
+        ],
+        "answers": [
+          "y = <span class=\"nsb-fraction\"><span>2</span><span>3</span></span>x − <span class=\"nsb-fraction\"><span>11</span><span>3</span></span>"
+        ],
+        "answers_sanitized": [
+          "y = (2/3)x - 11/3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows x² in each polynomial; the corpus moved the exponents to the ends of options.",
+      "before": {
+        "parts": [
+          "Which of the following is a prime polynomial over the integers: 2<br>W) 5x – 8x + 2 2<br>X) 4x – 4x – 8 2<br>Y) 3x – 4x – 4 2 2<br>Z) 3x – 10x + 3x 2"
+        ],
+        "options": [
+          "W) 5x – 8x + 2 2",
+          "X) 4x – 4x – 8 2",
+          "Y) 3x – 4x – 4 2 2",
+          "Z) 3x – 10x + 3x 2"
+        ],
+        "answers": [
+          "W) 5x – 8x + 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is a prime polynomial over the integers:<br>W) 5x<sup>2</sup> − 8x + 2<br>X) 4x<sup>2</sup> − 4x − 8<br>Y) 3x<sup>2</sup> − 4x − 4<br>Z) 3x<sup>2</sup> − 10x + 3x"
+        ],
+        "parts_sanitized": [
+          "Which of the following is a prime polynomial over the integers:<br>W) 5x^2 - 8x + 2<br>X) 4x^2 - 4x - 8<br>Y) 3x^2 - 4x - 4<br>Z) 3x^2 - 10x + 3x"
+        ],
+        "options": [
+          "W) 5x<sup>2</sup> − 8x + 2",
+          "X) 4x<sup>2</sup> − 4x − 8",
+          "Y) 3x<sup>2</sup> − 4x − 4",
+          "Z) 3x<sup>2</sup> − 10x + 3x"
+        ],
+        "answers": [
+          "W) 5x<sup>2</sup> − 8x + 2"
+        ],
+        "answers_sanitized": [
+          "W) 5x^2 - 8x + 2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows hematite’s formula Fe₂O₃ without spaces inside the subscripted formula.",
+      "before": {
+        "notes": [
+          "(Solution: Fe<sub>2</sub> O<sub>3</sub> )"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: Fe<sub>2</sub>O<sub>3</sub>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10; visually compared its scientific notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 11; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows CH₄, N₂, BaCl₂, and NH₃, accepting CH₄ and N₂; the corpus spaces formula subscripts away from their elements.",
+      "before": {
+        "parts": [
+          "Name all of the following compounds that exhibit ONLY London forces: CH<sub>4</sub> ; N<sub>2</sub> ; BaCl<sub>2</sub> ; NH<sub>3</sub>"
+        ],
+        "answers": [
+          "CH<sub>4</sub> ; N<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Name all of the following compounds that exhibit ONLY London forces: CH<sub>4</sub>; N<sub>2</sub>; BaCl<sub>2</sub>; NH<sub>3</sub>"
+        ],
+        "parts_sanitized": [
+          "Name all of the following compounds that exhibit ONLY London forces: CH4; N2; BaCl2; NH3"
+        ],
+        "answers": [
+          "CH<sub>4</sub>; N<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "CH4; N2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 gives 39.2 N and uses m/s² in the solution; the corpus appended 2 to the answer and lost the exponent in the note.",
+      "before": {
+        "answers": [
+          "39.2 2"
+        ],
+        "notes": [
+          "(Solution: w = mg = (4kg)(9.8m/s ) = 39.2N)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "39.2"
+        ],
+        "notes": [
+          "(Solution: w = mg = (4kg)(9.8m/s<sup>2</sup>) = 39.2N)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    }
+  ],
+  "packetIssues": []
+}

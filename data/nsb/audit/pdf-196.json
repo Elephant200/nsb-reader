@@ -1,0 +1,503 @@
+{
+  "packetIndex": 196,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-15.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists acetone, benzene, pentane, ethanol for Raoult-law behavior in hexane; key pentane."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks the second constant for vacuum light speed; answer permeability of free space with μ₀ alternatives."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives olivine, calcium-rich plagioclase, augite and phaneritic texture; key gabbro."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints x³y² and answer 3x²y²; restored all powers in prompt and answer.",
+      "before": {
+        "question": "What is the partial derivative with respect to x of the expression x3y2?",
+        "answer": "3x2y2"
+      },
+      "changes": {
+        "question": "What is the partial derivative with respect to x of the expression x<sup>3</sup>y<sup>2</sup>?",
+        "question_sanitized": "What is the partial derivative with respect to x of the expression x^3y^2?",
+        "answer": "3x<sup>2</sup>y<sup>2</sup>",
+        "answer_sanitized": "3x^2y^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks oxygen-storing protein in Weddell seal muscles; answer myoglobin."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists tungsten, nickel, chromium, titanium; key tungsten."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists ionic, dative, nonpolar covalent, polar covalent bonds; key polar covalent."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives 880 Hz tone and asks period in ms; answer 1.1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 gives 4-ft arc over 0.8 radians; pendulum length answer 5 ft."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks meninges closest to cerebral cortex; answer pia mater."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists nuclear properties for doubly-magic nuclei; key nucleon binding energy."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks how many planets have atmospheric hydrogen as most abundant gas; answer four."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists basal, magnoliids, monocots, eudicots; key eudicots."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists observations supporting liquid-drop model; key similar densities of all nuclei."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists amide, acid chloride, ester, anhydride for nucleophilic reactivity; key acid chloride."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks product of merging galaxies with central black holes; key quasar."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks integer part of log base 5 of 1000; answer 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks same-row period-6 metal alternative to lead perovskite; answer bismuth, accept Bi."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks coarse desert surface layer from deflation; answer desert pavement."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks functional group before carboxylic acid from primary alcohol oxidation; answer aldehyde."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 gives mirror radius 54 cm; focal length answer 27 cm."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 reflects (3,−5) across x-axis then translates 4 down; answer (3,1) with coordinate acceptance."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks polymer in crystal-violet retention by bacterial walls; answer peptidoglycan with cue."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists nitrile, alcohol, aldehyde, ether for 10.5-ppm proton NMR peak; key aldehyde."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives photon/neutron/alpha-particle momentum and kinetic-energy claims; answer 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks how layer ages change from anticline hinge to limb; answer layers get younger."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives best-of-three with win probability 3/5 per game; answer 81/125 with decimal and percentage alternatives."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists transmembrane, cytosolic, peripheral, lysosomal; key peripheral membrane."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists three proposed LCLS-II laser claims; answer 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists ester, amide, anhydride, chloride; key ester."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives 25-cm cylindrical rod, 1-ppm extension, 1000 N; answer 5×10⁹ Pa.",
+      "before": {
+        "answers": [
+          "5 TIMES 109"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "5 TIMES 10<sup>9</sup>"
+        ],
+        "answers_sanitized": [
+          "5 TIMES 10^9"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks distance between polar points (4,120°) and (6,0°); answer 2√19."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks product of pyruvate decarboxylation in fermentation; answer acetaldehyde with alternatives."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists external stimuli affecting nickel microparticle self-assembly; key changing magnetic field."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives solar disk and Jupiter sizes/temperatures for transit dimming; answer 1%."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists estrogen, luteinizing hormone, progesterone, prostaglandin; key progesterone."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives 3-m square in 2-T field at 45°; answer flux 13 Wb."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks carbon orbital accepting methylamine donation in 1-bromobutane; key C-Br sigma antibonding."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists Europa, Ganymede, Io by distance; answer 3, 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 gives equilateral triangle circumradius 6; answer area 27√3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists PUREX uses; key nuclear-fuel reprocessing."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists P-wave and S-wave shadow-zone claims; answer 2 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks which ligand in cobalt solution absorbs shortest-wavelength light; answer cyanide."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists three gas-thermodynamics statements; printed key is 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks sum of first six terms for increasing geometric sequence with first term 4 and third 36; answer 1456."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks what parathyroid hormone controls in blood; answer calcium, accepting Ca²⁺.",
+      "before": {
+        "answers": [
+          "CALCIUM (ACCEPT: Ca2+)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "CALCIUM (ACCEPT: Ca<sup>2+</sup>)"
+        ],
+        "answers_sanitized": [
+          "CALCIUM (ACCEPT: Ca^2+)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

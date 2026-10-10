@@ -1,0 +1,14 @@
+{
+  "method": "Read all 258 cached PDF layout-text files and count numbered question headings containing Short Answer, Multiple Choice, or the individually inspected source typos Short, Muliple Choice, and Multiple Choic. Compare the per-packet multiset of printed numbers with original corpus records.",
+  "sourceHeadingCount": 12024,
+  "originalCorpusRecords": 12023,
+  "difference": {
+    "packetIndex": 180,
+    "number": 5,
+    "sourceCount": 2,
+    "corpusCount": 1,
+    "resolution": "Toss-up 5 is recovered by the source-backed structural correction on PDF page 3."
+  },
+  "remainingCountDifferences": 0,
+  "limitation": "Heading-count agreement does not prove correct classification, mathematical transcription, or complete field boundaries. Independent visual source review is still required for every question."
+}

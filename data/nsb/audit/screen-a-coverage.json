@@ -1,0 +1,14 @@
+{
+  "packetIndexRange": [0, 85],
+  "recordCount": 4250,
+  "model": "gpt-6-luna",
+  "modelReviewedRecordCount": 4250,
+  "modelReviewedRecordIndexes": [[0, 4249]],
+  "flaggedCount": 4017,
+  "unflaggedCount": 233,
+  "method": "Luna reported full-text inspection of every prompt, answer, notes, and options in batches of 100. Options already present in the prompt were displayed once. Candidate exclusions were separately inspected; five semantic multiplicity cases were added. The parent independently verified every ledger identity against the corpus arrays.",
+  "limitations": [
+    "This is model review of extracted question text, not human review or PDF comparison.",
+    "Conservative flags are review candidates, not confirmed defects."
+  ]
+}

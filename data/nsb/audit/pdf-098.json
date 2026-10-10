@@ -1,0 +1,608 @@
+{
+  "packetIndex": 98,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Visually compared source p.1: PHYSICS Multiple Choice If the viscous force acting on an object moving through a liquid or gas is modeled as F = -bv, where F is the resistive force, v is the velocity, and b is a constant, which of the following types of equation will nee; ANSWER: X) DIFFERENTIAL"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Visually compared source p.1: ENERGY Short Answer Line losses vary linearly with what physical characteristic of power lines?; ANSWER: RESISTANCE (ACCEPT: RESISTIVITY)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Visually compared source p.2: CHEMISTRY Multiple Choice Which of the following functional group pairs corresponds to those constituting a hemiaminal? W) Thiol [THY-ol] and nitrile [NY-tril] X) Halogen and alkyl [AL-kuhl] Y) Amine [uh-MEEN] and hydroxyl Z) Azide and alko; ANSWER: Y) AMINE AND HYDROXYL"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Visually compared source p.2: BIOLOGY Short Answer What gene, sometimes called the guardian of the genome, has a central role in cell cycle checkpoints and is the most frequently mutated gene in human cancers?; ANSWER: P53 (ACCEPT: TUMOR SUPPRESSOR P53, PROTEIN 53, TUMOR PROTEIN 53, TUMOR ANTIGEN P53, TRP53, TRANSFORMATION RELATED PROTEIN 53)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Visually compared source p.3: MATH Short Answer What is the derivative with respect to x of xe2 [x times e squared]?; ANSWER: e2",
+      "before": {
+        "question": "What is the derivative with respect to x of 2 [x times e squared]? xe e",
+        "answer": "2"
+      },
+      "changes": {
+        "question": "What is the derivative with respect to x of xe<sup>2</sup> [x times e squared]?",
+        "answer": "e<sup>2</sup>",
+        "question_sanitized": "What is the derivative with respect to x of x e^2 [x times e squared]?",
+        "answer_sanitized": "e^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Visually compared source p.4: PHYSICS Multiple Choice You are at a party where the sound level is 70 decibels. Someone turns up the radio and the sound level suddenly increases to 100 decibels. By what factor has the sound intensity been multiplied? W) 30 X) 100 Y) 1000; ANSWER: Y) 1000"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Visually compared source p.4: CHEMISTRY Multiple Choice Which of the following is NOT true when writing electron configurations? W) Atomic orbitals can accommodate two electrons X) Electrons pair in degenerate orbitals when possible Y) Electrons will populate orbitals t; ANSWER: X) ELECTRONS PAIR IN DEGENERATE ORBITALS WHEN POSSIBLE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Visually compared source p.5: BIOLOGY Short Answer In eukaryotes [yoo-KAR-ee-ohts], the spliceosome [SPLY-see-uh- sohm] is an RNA-protein complex important for RNA processing. What does this complex remove?; ANSWER: INTRONS"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Visually compared source p.5: MATH Multiple Choice If the line y = 2 is reflected over the y-axis, what is the equation of the image? W) x = -2 X) y = -2 Y) x= 2 Z) y = 2; ANSWER: Z) y = 2",
+      "before": {
+        "question": "If the line y is reflected over the y-axis, what is the equation of the image? = -2<br>W) x = -2<br>X) y 2<br>Y) x= = 2<br>Z) y = 2",
+        "options": [
+          "W) x = -2",
+          "X) y 2",
+          "Y) x= = 2",
+          "Z) y = 2"
+        ],
+        "answer": "Z) y"
+      },
+      "changes": {
+        "question": "If the line y = 2 is reflected over the y-axis, what is the equation of the image?<br>W) x = -2<br>X) y = -2<br>Y) x = 2<br>Z) y = 2",
+        "options": [
+          "W) x = -2",
+          "X) y = -2",
+          "Y) x = 2",
+          "Z) y = 2"
+        ],
+        "answer": "Z) y = 2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Visually compared source p.6: PHYSICS Multiple Choice What is the main difference between transverse and longitudinal waves? W) Wavelength X) Frequency Y) Direction of the medium displacement with respect to the direction of wave propagation Z) Phase difference; ANSWER: Y) DIRECTION OF THE MEDIUM DISPLACEMENT WITH RESPECT TO THE DIRECTION OF WAVE PROPAGATION"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Visually compared source p.7: ENERGY Multiple Choice Which of the following equations best represents the conservation of energy in fluid systems? W) Laplace X) Bernoulli Y) Navier-Stokes Z) Euler; ANSWER: X) BERNOULLI"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Visually compared source p.7: CHEMISTRY Short Answer When a peptide bond is formed between two amino acids, water is removed as a byproduct. Which group contributes the OH to form water, and which group contributes the hydrogen?; ANSWER: CONTRIBUTES OH = CARBOXYL GROUP (ACCEPT: CARBOXYL, COOH, OR COOH GROUP); CONTRIBUTES HYDROGEN = AMINO GROUP (ACCEPT: AMINO, NH 2 , OR NH 2 GROUP)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Visually compared source p.8: MATH Short Answer What are the coordinates of the point where the graph of x2y + 3x – 4y – 24 = 0 [x squared y plus 3 x minus 4 y minus 24 equals zero] crosses the x- axis?; ANSWER: (8, 0) (DO NOT ACCEPT: 8 ALONE, X = 8)",
+      "before": {
+        "question": "What are the coordinates of the point where the graph of 2 + 3x – 4y – 24 = 0 x y [x squared y plus 3 x minus 4 y minus 24 equals zero] crosses the x- axis?"
+      },
+      "changes": {
+        "question": "What are the coordinates of the point where the graph of x<sup>2</sup>y + 3x – 4y – 24 = 0 [x squared y plus 3 x minus 4 y minus 24 equals zero] crosses the x-axis?",
+        "question_sanitized": "What are the coordinates of the point where the graph of x^2 y + 3x - 4y - 24 = 0 [x squared y plus 3 x minus 4 y minus 24 equals zero] crosses the x-axis?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Visually compared source p.9: EARTH AND SPACE Multiple Choice Based on current scientific data, the most widely accepted cause of past ice ages is which of the following? W) Volcanic aerosols in the atmosphere from major eruptions X) Increased absorption of carbon dioxi; ANSWER: Z) MILANKOVITCH CYCLES"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Visually compared source p.9: BIOLOGY Multiple Choice G-protein coupled receptors regulate various cell signaling events in a cell. How many transmembrane segments are typically found in these receptors? W) 5 X) 6 Y) 7 Z) 9; ANSWER: Y) 7"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Visually compared source p.10: PHYSICS Multiple Choice The number of lines per centimeter in a transmission grating is 10,000. What is the distance in meters between the lines of the grating? W) 10-3 X) 10-4 Y) 10-5 Z) 10-6; ANSWER: Z) 10-6",
+      "before": {
+        "question": "The number of lines per centimeter in a transmission grating is 10,000. What is the distance in meters between the lines of the grating? -3<br>W) 10 -4<br>X) 10 -5<br>Y) 10 -6<br>Z) 10 -6",
+        "options": [
+          "W) 10 -4",
+          "X) 10 -5",
+          "Y) 10 -6",
+          "Z) 10 -6"
+        ],
+        "answer": "Z) 10"
+      },
+      "changes": {
+        "question": "The number of lines per centimeter in a transmission grating is 10,000. What is the distance in meters between the lines of the grating?<br>W) 10<sup>-3</sup><br>X) 10<sup>-4</sup><br>Y) 10<sup>-5</sup><br>Z) 10<sup>-6</sup>",
+        "options": [
+          "W) 10<sup>-3</sup>",
+          "X) 10<sup>-4</sup>",
+          "Y) 10<sup>-5</sup>",
+          "Z) 10<sup>-6</sup>"
+        ],
+        "answer": "Z) 10<sup>-6</sup>",
+        "question_sanitized": "The number of lines per centimeter in a transmission grating is 10,000. What is the distance in meters between the lines of the grating? W) 10⁻³ X) 10⁻⁴ Y) 10⁻⁵ Z) 10⁻⁶",
+        "answer_sanitized": "Z) 10⁻⁶"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Visually compared source p.11: CHEMISTRY Multiple Choice With regard to crystalline solids, which of the following most aptly describes a covalent network? W) Low melting point, soft, excellent thermal conductor X) Low to high melting point, hard, moderate electrical con; ANSWER: Z) HIGH MELTING POINT, HARD, POOR THERMAL CONDUCTOR"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Visually compared source p.11: BIOLOGY Multiple Choice Which of the following bacterial gene transfer mechanisms requires the involvement of a bacteriophage [bak-TEER-ee-uh-fayj]? W) Conjugation X) Transduction Y) Horizontal gene transfer Z) Bacterial transformation; ANSWER: X) TRANSDUCTION"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Visually compared source p.12: MATH Short Answer Find the magnitude of the vector 5i – 12j.; ANSWER: 13"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Visually compared source p.12: EARTH AND SPACE Multiple Choice Which of the following is NOT a feature produced by wave erosion? W) Sea cave X) Sea stack Y) Sea arch Z) Shoal; ANSWER: Z) SHOAL"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Visually compared source p.13: PHYSICS Multiple Choice A top is spinning at a rate of 2π radians per second when it slows uniformly to a stop in 15 seconds. Through how many revolutions did the top turn before stopping? W) 7.5 X) 7.5π Y) 15 Z) 15π; ANSWER: W) 7.5"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Visually compared source p.1: PHYSICS Multiple Choice Two objects of masses m 1 and m 2 with speeds v 1 and v 2 , where v 2 = 0, suffer collision, stick together, and move off with speed V. Which of the following equals the ratio v 1 /V? W) 1 + m 2 /m 1 X) 1 + m 1 /m 2 ; ANSWER: W) 1 + m 2 /m 1"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Visually compared source p.1: ENERGY Short Answer Arrange the following four sectors based on the number of tons of greenhouse gases released from smallest to largest: 1) Agriculture, 2) Residential, 3) Commercial, 4) Transportation.; ANSWER: 1, 2, 3, 4 (ACCEPT: AGRICULTURE, RESIDENTIAL, COMMERCIAL, TRANSPORTATION)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Visually compared source p.2: CHEMISTRY Short Answer Providing your answer as a decimal to the nearest hundredth, what is the reduced mass of an oscillator made up of a hydrogen and a fluorine atom?; ANSWER: 0.95 (ACCEPT: 0.96)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Visually compared source p.2: BIOLOGY Short Answer Amino acids are joined to one another in linear polymers that fold to form proteins. What is the name of the chemical bond that joins the amino terminus of one amino acid to the carboxyl terminus of the next amino acid ; ANSWER: PEPTIDE BOND (ACCEPT: PEPTIDE, AMINE BOND)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Visually compared source p.3: MATH Short Answer Solve for x: 2x+1 = 4x+3[2 raised to the quantity x+1 equals 4 raised to the quantity x+3].; ANSWER: -5",
+      "before": {
+        "parts": [
+          "Solve for x: 2 = 4 [2 raised to the quantity x+1 equals 4 raised to the quantity x+3]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve for x: 2<sup>x+1</sup> = 4<sup>x+3</sup> [2 raised to the quantity x+1 equals 4 raised to the quantity x+3]."
+        ],
+        "parts_sanitized": [
+          "Solve for x: 2^(x+1) = 4^(x+3) [2 raised to the quantity x+1 equals 4 raised to the quantity x+3]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Visually compared source p.4: PHYSICS Short Answer After running for 20 minutes, a person’s diastolic blood pressure is 100 millimeters of mercury. Providing your answer to two significant figures, what is the equivalent height in centimeters of a column of water, assum; ANSWER: 140"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Visually compared source p.4: CHEMISTRY Short Answer Which quantum number is allowed values ranging from 0 to n -1 and is associated with atomic orbital shape?; ANSWER: ANGULAR MOMENTUM QUANTUM NUMBER (ACCEPT: l, AZIMUTHAL, SUBSIDIARY)"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Visually compared source p.5: BIOLOGY Short Answer In the standard genetic code, how many of the 64 codons signal for stop of translation?; ANSWER: 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 includes the integral notation and the complete read-as cue “[the integral from negative 2 to 2 of the absolute value of x dx].”",
+      "before": {
+        "parts": [
+          "What is [the integral from negative 2 to 2 of the absolute −2 value of x dx]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is ∫<sub>-2</sub><sup>2</sup>|x| dx [the integral from negative 2 to 2 of the absolute value of x dx]?"
+        ],
+        "parts_sanitized": [
+          "What is the integral from -2 to 2 of the absolute value of x dx [the integral from negative 2 to 2 of the absolute value of x dx]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Visually compared source p.6: EARTH AND SPACE Short Answer What is the second hottest spectral class?; ANSWER: B"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Visually compared source p.6: 3.33 × 10⁻¹⁸ seconds; options 1, 3, 6, 9 nm and answer W) 1.",
+      "before": {
+        "parts": [
+          "What is the wavelength in nanometers of a photon of period 3.33 -18 × 10 seconds?<br>W) 1<br>X) 3<br>Y) 6<br>Z) 9"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the wavelength in nanometers of a photon of period 3.33 × 10<sup>-18</sup> seconds?<br>W) 1<br>X) 3<br>Y) 6<br>Z) 9"
+        ],
+        "parts_sanitized": [
+          "What is the wavelength in nanometers of a photon of period 3.33 × 10⁻¹⁸ seconds? W) 1 X) 3 Y) 6 Z) 9"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Visually compared source p.7: ENERGY Multiple Choice How many BTUs are required to raise 5 pounds of water from 40° Fahrenheit to 120° Fahrenheit with a stove that is 80% efficient? W) 320 X) 400 Y) 450 Z) 500; ANSWER: Z) 500"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Visually compared source p.7: CHEMISTRY Short Answer In the Haber reaction, where diatomic hydrogen and diatomic nitrogen react to form ammonia, how many moles of ammonia could be formed if one starts with 0.75 moles of hydrogen?; ANSWER: 0.50"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Visually compared source p.8: BIOLOGY Multiple Choice Which of the following cellular phenomena uses double-stranded RNA with the same or similar sequence to a gene to target that gene for inhibition of transcription and translation? W) RNA interference X) Transposition; ANSWER: W) RNA INTERFERENCE"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Visually compared source p.8: MATH Multiple Choice Which of the following represents a simplification of: (𝐴2 + 𝐴2 )2 [open parenthesis a to the power of one half plus a to the power of one half close parenthesis squared]? W) A2 X) 4A Y) 2A Z) √𝐴; ANSWER: X) 4A",
+      "before": {
+        "parts": [
+          "Which of the following represents a simplification of: 2 2 [open parenthesis a to the power of one half plus a to the power of one half close parenthesis squared]? A<br>W) 2 4 A<br>X) 2 A<br>Y) √𝐴<br>Z) 4 A"
+        ],
+        "options": [
+          "W) 2 4 A",
+          "X) 2 A",
+          "Y) √𝐴",
+          "Z) 4 A"
+        ],
+        "answers": [
+          "X) 2 A"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following represents a simplification of: (A<sup>1/2</sup> + A<sup>1/2</sup>)<sup>2</sup> [open parenthesis a to the power of one half plus a to the power of one half close parenthesis squared]?<br>W) A<sup>2</sup><br>X) 4A<br>Y) 2A<br>Z) √A"
+        ],
+        "options": [
+          "W) A<sup>2</sup>",
+          "X) 4A",
+          "Y) 2A",
+          "Z) √A"
+        ],
+        "answers": [
+          "X) 4A"
+        ],
+        "parts_sanitized": [
+          "Which of the following represents a simplification of: (A^(1/2) + A^(1/2))^2 [open parenthesis a to the power of one half plus a to the power of one half close parenthesis squared]? W) A^2 X) 4A Y) 2A Z) square root of A"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Visually compared source p.9: EARTH AND SPACE Multiple Choice Some quasars exhibit multiple images. What phenomenon explains this observation? W) Structure doubling X) Faraday rotation Y) Wormholes Z) Gravitational lensing; ANSWER: Z) GRAVITATIONAL LENSING"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Visually compared source p.9: BIOLOGY Multiple Choice An ecologist uses seven foot tall mist nets to capture birds. In which of these habitats would the number of captures most likely underestimate the actual number of birds present? W) Tundra X) Temperate grassland Y) ; ANSWER: Z) TEMPERATE FOREST"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Visually compared source p.10: PHYSICS Short Answer A proton is travelling with a speed of 300,000 meters per second to the east in a region where there is a magnetic field of 4 teslas pointing to the north. What is the magnitude and direction of the electric field in ne; ANSWER: 1,200,000, DOWN"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Visually compared source p.10: ENERGY Multiple Choice When photons strike a photovoltaic cell, which of the following must occur to generate electricity? W) Absorption X) Reflection Y) Refraction Z) Resection; ANSWER: W) ABSORPTION"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Visually compared source p.11: CHEMISTRY Short Answer Identify, respectively, the isotopes created by the emission of one beta minus particle from the following three isotopes: 1) cesium-137, 2) phosphorus-32, 3) carbon-14.; ANSWER: 1) BARIUM-137, 2) SULFUR-32, 3) NITROGEN-14"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Visually compared source p.11: BIOLOGY Multiple Choice Plasmids are autonomously replicating circles of DNA containing one or a few genes. How many plasmids may a single bacterium carry? W) 0 X) 1 Y) 2 Z) No fixed limit; ANSWER: Z) NO FIXED LIMIT"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints the full prompt equation kx² + 7x − 5 = 0; the readable counterpart retains the exponent and complete prompt.",
+      "before": {
+        "parts": [
+          "Find the nonzero value of k that will result in exactly one real solution + 7x – 5 = 0. to the equation kx<sup>2</sup> 9 = -49/20 -2"
+        ],
+        "answers": [
+          "k (ACCEPT: OR -2.45) 20"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the nonzero value of k that will result in exactly one real solution to the equation kx<sup>2</sup> + 7x – 5 = 0."
+        ],
+        "answers": [
+          "k = -49/20 (ACCEPT: -2 <span class=\"nsb-fraction\"><span>9</span><span>20</span></span> OR -2.45)"
+        ],
+        "answers_sanitized": [
+          "k = -49/20 (ACCEPT: -2 9/20 OR -2.45)"
+        ],
+        "parts_sanitized": [
+          "Find the nonzero value of k that will result in exactly one real solution to the equation kx^2 + 7x - 5 = 0."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Visually compared source p.12: EARTH AND SPACE Multiple Choice While most scientists believe global warming will cause soils of northern latitudes to emit more carbon dioxide, one recent study predicted they would sequester more carbon in the future. Which of the followi; ANSWER: X) WARMER TEMPERATURES PROMOTE VEGETATION GROWTH, WHICH FIXES MORE CARBON"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Visually compared source p.13: PHYSICS Short Answer A 100 microfarad parallel plate capacitor with air between the plates is connected to a 1.5 volt battery and becomes fully charged. The battery is disconnected from the capacitor and a dielectric with a dielectric const; ANSWER: 150"
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,523 @@
+{
+  "packetIndex": 57,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round8.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this question and its answer against page 1 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "before": {
+        "question": "A molecule having a chemical formula of CH<sub>3</sub> CCCH<sub>3</sub> would be classified by which of the following?<br>W) Alkyne<br>X) Alkene<br>Y) Alkane<br>Z) Aldehyde (read as: AHL-deh-hyd)"
+      },
+      "changes": {
+        "question": "A molecule having a chemical formula of CH<sub>3</sub>CCCH<sub>3</sub> would be classified by which of the following?<br>W) Alkyne<br>X) Alkene<br>Y) Alkane<br>Z) Aldehyde (read as: AHL-deh-hyd)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 2 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 2 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 3 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 3 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 4 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 5 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 5 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 6 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this question and its answer against page 6 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "before": {
+        "question": "If x = 4 and y = 2, which of the following expressions is undefined?<br>W) 3x +<br>X) 2y + 4x 2<br>Y) xy – x<br>Z) x +",
+        "options": [
+          "W) 3x +",
+          "X) 2y + 4x 2",
+          "Y) xy – x",
+          "Z) x +"
+        ],
+        "answer": "W) 3x +"
+      },
+      "changes": {
+        "question": "If x = 4 and y = 2, which of the following expressions is undefined?<br>W) 3x + <span class=\"nsb-fraction\"><span>7</span><span>4 − 2y</span></span><br>X) 2y + 4x<br>Y) xy − x<sup>2</sup><br>Z) x + <span class=\"nsb-fraction\"><span>y − 4</span><span>2</span></span>",
+        "options": [
+          "W) 3x + <span class=\"nsb-fraction\"><span>7</span><span>4 − 2y</span></span>",
+          "X) 2y + 4x",
+          "Y) xy − x<sup>2</sup>",
+          "Z) x + <span class=\"nsb-fraction\"><span>y − 4</span><span>2</span></span>"
+        ],
+        "answer": "W) 3x + <span class=\"nsb-fraction\"><span>7</span><span>4 − 2y</span></span>",
+        "question_sanitized": "If x = 4 and y = 2, which of the following expressions is undefined? W) 3x + 7/(4 - 2y); X) 2y + 4x; Y) xy - x^2; Z) x + (y - 4)/2",
+        "answer_sanitized": "W) 3x + 7/(4 - 2y)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 7 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this question and its answer against page 7 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "before": {
+        "answer": "6"
+      },
+      "changes": {
+        "answer": "6√2",
+        "answer_sanitized": "6 sqrt(2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 8 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 8 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 9 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 9 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 11 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 11 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this question and its answer against page 12 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "before": {
+        "answer": "36"
+      },
+      "changes": {
+        "answer": "<span class=\"nsb-fraction\"><span>1</span><span>36</span></span>",
+        "answer_sanitized": "1/36"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared this question and its answer against page 13 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "before": {
+        "question": "Determine the oxidation state of each of the elements in the 42- polyatomic ion C<sub>2</sub> O ."
+      },
+      "changes": {
+        "question": "Determine the oxidation state of each of the elements in the polyatomic ion C<sub>2</sub>O<sub>4</sub><sup>2−</sup>.",
+        "question_sanitized": "Determine the oxidation state of each of the elements in the polyatomic ion C2O4^2-."
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 1 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 1 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 2 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 3 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 3 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this question and its answer against page 4 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "before": {
+        "parts": [
+          "A mineral with the chemical formula Ca<sub>2</sub> Mg<sub>5</sub> Si<sub>8</sub> O<sub>2</sub> 2(OH)<sub>2</sub> belongs to which of the following mineral groups?<br>W) Serpentines<br>X) Amphiboles<br>Y) Olivines (read as: OH-li-veens)<br>Z) Pyroxenes (read as: py-ROHK-seens)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A mineral with the chemical formula Ca<sub>2</sub>Mg<sub>5</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> belongs to which of the following mineral groups?<br>W) Serpentines<br>X) Amphiboles<br>Y) Olivines (read as: OH-li-veens)<br>Z) Pyroxenes (read as: py-ROHK-seens)"
+        ],
+        "parts_sanitized": [
+          "A mineral with the chemical formula Ca2Mg5Si8O22(OH)2 belongs to which of the following mineral groups? W) Serpentines; X) Amphiboles; Y) Olivines (read as: OH-li-veens); Z) Pyroxenes (read as: py-ROHK-seens)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 4 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 5 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 5 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 6 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this question and its answer against page 6 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "before": {
+        "parts": [
+          "Which of the following functions is continuous at x = -1?<br>W) <br>X) <br>Y) <br>Z) "
+        ],
+        "options": [
+          "W) ",
+          "X) ",
+          "Y) ",
+          "Z) "
+        ],
+        "answers": [
+          "Y) "
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following functions is continuous at x = −1?<br>W) <span class=\"nsb-fraction\"><span>x + 1</span><span>x<sup>3</sup> + 1</span></span><br>X) <span class=\"nsb-fraction\"><span>15</span><span>x + 1</span></span><br>Y) <span class=\"nsb-fraction\"><span>x<sup>2</sup> + 3x + 5</span><span>x<sup>2</sup> + 3x − 4</span></span><br>Z) <span class=\"nsb-fraction\"><span>35x</span><span>x<sup>2</sup> − 2x − 3</span></span>"
+        ],
+        "options": [
+          "W) <span class=\"nsb-fraction\"><span>x + 1</span><span>x<sup>3</sup> + 1</span></span>",
+          "X) <span class=\"nsb-fraction\"><span>15</span><span>x + 1</span></span>",
+          "Y) <span class=\"nsb-fraction\"><span>x<sup>2</sup> + 3x + 5</span><span>x<sup>2</sup> + 3x − 4</span></span>",
+          "Z) <span class=\"nsb-fraction\"><span>35x</span><span>x<sup>2</sup> − 2x − 3</span></span>"
+        ],
+        "answers": [
+          "Y) <span class=\"nsb-fraction\"><span>x<sup>2</sup> + 3x + 5</span><span>x<sup>2</sup> + 3x − 4</span></span>"
+        ],
+        "parts_sanitized": [
+          "Which of the following functions is continuous at x = -1? W) (x + 1)/(x^3 + 1); X) 15/(x + 1); Y) (x^2 + 3x + 5)/(x^2 + 3x - 4); Z) 35x/(x^2 - 2x - 3)"
+        ],
+        "answers_sanitized": [
+          "Y) (x^2 + 3x + 5)/(x^2 + 3x - 4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 7 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 8 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 8 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 9 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 9 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 10 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 10 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 11 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 11 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 12 of packet 057; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 13 of packet 057; the source agrees with the corpus."
+    }
+  ],
+  "packetIssues": []
+}

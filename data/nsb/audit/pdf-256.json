@@ -1,0 +1,370 @@
+{
+  "packetIndex": 256,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists capacitor, transistor, relay, and integrated circuit; key W is capacitor."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks the cyclobutane degree of unsaturation and prints 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 retains the Leonid pronunciation cue, all four month choices, and key Z, November."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists four descriptions of a critical point and keys Z, the phase-equilibrium curve ends."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks for the minimum distance using four different prime coordinates and prints √5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 retains Thevenin and Kirchhoff pronunciation cues, four circuit-law choices, and key Y, Kirchhoff’s junction law."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists the four salts and keys W, aluminum nitrate."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists contact, shock, burial, and low-grade metamorphism; key X is shock."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 retains the split-line hexokinase pronunciation cue and identifies glycolysis."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 spells out the integral’s bounds 36 and 64 and square-root derivative, with answer 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 lists water, iron, and gold in mercury and answers 1, 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 asks for the oxygen-binding protein in slow-twitch muscle and answers MYOGLOBIN."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 asks which functional group makes sugars reducing and preserves the listed accepted answers."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 retains Cepheid, luminosities, and nebulae pronunciation cues; four choices and key W match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists Argon-39, Carbon-14, Hydrogen-3, and Oxygen-18 and keys W, Argon-39."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 asks for the 3/5 power of −32 and prints −8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 describes the square-root-distance versus time graph and prints slope 2.2 to two significant figures."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 retains the 2PG-to-PEP glycolysis wording, glycolysis and isomerization pronunciation cues, all four reaction choices, and key Z, carbon-oxygen bond-cleaving."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 preserves amines and alkynes pronunciation cues and keys the hydrocarbon list 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 preserves the T Tauri cue, all three numbered stellar phases, and chronological answer 1, 3, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks for the 60-carbon PAH and prints Buckminsterfullerene with C60 fullerene and Buckyball accepted."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives the increasing arithmetic sequence beginning 10, 13 and first 60 terms; answer is 5910."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 states the 200-kilogram, 2-meter, 16-second forklift lift and answer 245 watts."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists the four bird-flight adaptations and keys Z, solitary testis in males."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 retains the pentanoic-acid, dipropyl-ether, and pentanol pronunciation cues; key X is pentanoic acid."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists chert, limestone, and phosphorite as the three numbered organism-formed sedimentary rocks; answer ALL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks which molecule receives fluorine-18 in PET imaging; glucose and fluorodeoxyglucose are listed."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 gives side lengths 31 and 24 for the obtuse triangle and answer 19."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 lists stationary charge, moving charge, and current-carrying wire in a uniform field; answer 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 preserves the stomata pronunciation cue and the three indole-3-acetic-acid responses; answer is 1, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 retains both lanthanum and neodymium pronunciation cues and answers 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 gives Earth’s solar flux of about 1,000 W/m² and Jupiter at 5 AU, with answer 40 W/m²."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 asks the exciton’s charge as a multiple of the electron charge and prints ZERO."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 prints y = x² − x³ and y = 0; answer is π/10 with both accepted forms, followed by distinct green-highlighted scorekeeper/closing footer text.",
+      "before": {
+        "parts": [
+          "What is the volume of the solid obtained by rotating about the y-axis the region bounded by the graphs of y = x 2 – x 3 and y = 0?"
+        ],
+        "answers": [
+          "π/10 (ACCEPT: (1/10)π, 0.1π) Before we leave, let’s confirm the team’s score. What score does the Official Scorekeeper have? And what is the final score in the Chat Box? Does anyone disagree? I’d like to remind the Scorekeeper to submit the official scoresheet. Best of luck to the team and thanks for competing in today’s event."
+        ],
+        "notes": []
+      },
+      "changes": {
+        "parts": [
+          "What is the volume of the solid obtained by rotating about the y-axis the region bounded by the graphs of y = x<sup>2</sup> − x<sup>3</sup> and y = 0?"
+        ],
+        "parts_sanitized": [
+          "What is the volume of the solid obtained by rotating about the y-axis the region bounded by the graphs of y = x^2 − x^3 and y = 0?"
+        ],
+        "answers": [
+          "π/10 (ACCEPT: (1/10)π, 0.1π)"
+        ],
+        "notes": [
+          "Before we leave, let’s confirm the team’s score. What score does the Official Scorekeeper have? And what is the final score in the Chat Box? Does anyone disagree? I’d like to remind the Scorekeeper to submit the official scoresheet. Best of luck to the team and thanks for competing in today’s event."
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,504 @@
+{
+  "packetIndex": 119,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-6-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 toss-up 1 shows Biology MC prompt about finding an osmoconformer, the pronunciation [oz-moh-kuhn-FOHR-mer], all four options W Marine environment/X High desert/Y Fresh water lakes and streams/Z Damp tropical forest, and answer W) Marine environment; wording and cues match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 toss-up 2 asks the property of a substance with non-superimposable mirror images; answer is CHIRALITY (ACCEPT: OPTICAL ACTIVITY), matching the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 shows the lower and upper integral bounds 2 and 5 in both expressions, first integral equal to 18 and second integrand (f(x)+4); choices 18, 22, 25, 30 and answer Z) 30. Corpus dropped/reordered the integrals and spliced choices into the prompt, so restored grouping from the visible source.",
+      "before": {
+        "question": ". If [the integral from 2 to 5 of f of x dx equals 18], 4 then [the integral from 2 to 5 of the quantity f of x plus 4 dx equals]<br>W) 18<br>X) 22<br>Y) 25<br>Z) 30"
+      },
+      "changes": {
+        "question": "If ∫<sub>2</sub><sup>5</sup> f(x) dx = 18 [the integral from 2 to 5 of f of x dx equals 18], then ∫<sub>2</sub><sup>5</sup> (f(x) + 4) dx equals [the integral from 2 to 5 of the quantity f of x plus 4 dx equals]<br>W) 18<br>X) 22<br>Y) 25<br>Z) 30",
+        "question_sanitized": "If integral from 2 to 5 of f(x) dx = 18 [the integral from 2 to 5 of f of x dx equals 18], then integral from 2 to 5 of (f(x) + 4) dx equals [the integral from 2 to 5 of the quantity f of x plus 4 dx equals] W) 18 X) 22 Y) 25 Z) 30"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 toss-up 4 asks for the process exchanging no heat with environment; answer ADIABATIC, matching the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 toss-up 5 presents four state rankings from highest to lowest earthquake frequency; answer W) Alaska, California, Nevada, Oregon, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 toss-up 6 asks which of sodium chloride, carbon dioxide, silicon dioxide are network solids; answer 3 (accept silicon dioxide), matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 toss-up 7 asks which hormone promotes fruit ripening; options Auxins, Cytokinins, Gibberellins, Ethylene include pronunciation cues for first four as printed; answer Z) Ethylene, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 toss-up 8 describes lighting hue and ideal black-body temperature rating; answer Color temperature, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 toss-up 10 asks true property of a nonzero matrix in reduced row echelon form, includes ESH-uh-lon cue and four choices; answer Z) there is a leading 1, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 11 lists NADPH, O₂, Rubisco [roo-BIS-koh], ATP; asks what is not a direct light-reaction product; answer Y) Rubisco, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 12 asks electron-pair geometry for square-planar molecular geometry per VSEPR [ves-per]; answer octahedral, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 toss-up 13 asks which constant bounds the product of position and momentum uncertainties; answer Planck constant, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 toss-up 14 lists four North Atlantic Deep Water characteristics and asks which is not notable; answer W) vertical temperature minimum, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 toss-up 15 asks expected outcome of disruptive selection on monkey tail length; answer X) few monkeys have medium tails, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly shows x²+y²=25; choices (3,4), (4,-3), (4,2√2), (4,3√2) with spoken cues on the equation and radical coordinates; answer Y) (4,2√2). Corpus has detached exponents, displaced parentheses/choices and a mismatched answer, so restored grouping and all labels from the page.",
+      "before": {
+        "question": "Which of the following points lies inside the circle defined by the equation 2 2 [x squared plus y squared equals twenty-five]? x + y = 25<br>W) (3, 4)<br>X) (4, -3) 4, 2√2)<br>Y) [four, two times the square root of two] 4, 3 √2)<br>Z) [four, three times the square root of two] 4, 2√2)",
+        "options": [
+          "W) (3, 4)",
+          "X) (4, -3) 4, 2√2)",
+          "Y) [four, two times the square root of two] 4, 3 √2)",
+          "Z) [four, three times the square root of two] 4, 2√2)"
+        ],
+        "answer": "Y) [four, two times the square root of two] 4, 3 √2)"
+      },
+      "changes": {
+        "question": "Which of the following points lies inside the circle defined by the equation x<sup>2</sup> + y<sup>2</sup> = 25 [x squared plus y squared equals twenty-five]?<br>W) (3, 4)<br>X) (4, -3)<br>Y) (4, 2√2) [four, two times the square root of two]<br>Z) (4, 3√2) [four, three times the square root of two]",
+        "question_sanitized": "Which of the following points lies inside the circle defined by the equation x² + y² = 25 [x squared plus y squared equals twenty-five]? W) (3, 4) X) (4, -3) Y) (4, 2√2) [four, two times the square root of two] Z) (4, 3√2) [four, three times the square root of two]",
+        "options": [
+          "W) (3, 4)",
+          "X) (4, -3)",
+          "Y) (4, 2√2) [four, two times the square root of two]",
+          "Z) (4, 3√2) [four, three times the square root of two]"
+        ],
+        "answer": "Y) (4, 2√2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 toss-up 17 describes methane sources and fermentation in domesticated-animal rumens; includes anthropogenic pronunciation cue; answer Y) Fermentation, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 toss-up 18 asks which ion causes iodine-starch color; answer triiodide, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 toss-up 19 lists four obesity consequences and asks exception; answer W) decreased lipid storage in liver, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 toss-up 20 gives a rollercoaster loop radius 20 meters and asks minimum speed to nearest m/s; answer 28, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 toss-up 21 lists 10%, 25%, 50%, 90% declines in ambient sulfate concentration since 1990; answer Y) 50%, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 shows x ≤ 0 [x less than or equal to zero], followed by inequality x + 1 < x² + 1 [x plus one is less than x squared plus one]; answer x = 0 (accept 0). Corpus has detached variables/exponents and lost the actual inequality, so restored the source grouping.",
+      "before": {
+        "question": ". For [x less than or equal to zero], for what values of x does the 1 1 inequality [x plus one is less than x squared plus one] not hold? 0",
+        "answer": "(ACCEPT: 0)"
+      },
+      "changes": {
+        "question": "For x ≤ 0 [x less than or equal to zero], for what values of x does the inequality x + 1 < x<sup>2</sup> + 1 [x plus one is less than x squared plus one] not hold?",
+        "question_sanitized": "For x ≤ 0 [x less than or equal to zero], for what values of x does the inequality x + 1 < x² + 1 [x plus one is less than x squared plus one] not hold?",
+        "answer": "x = 0 (ACCEPT: 0)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 toss-up 23 asks which statement is not a tenet of Valence Bond Theory; all four full choices match corpus; answer W) bond involving p/d electrons orients to minimize overlap."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 1 shows six large-intestine parts prompt with cecum pronunciation [SEE-kuhm], and answer listing ascending, transverse, descending, sigmoid colon with both flexure exclusions; wording and answer match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 2 gives principal quantum number 4 and asks for an allowed orbital angular momentum quantum l; options are -2, 0, 1/2, 4 and answer X) 0, matching the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 bonus 3 gives bottom ladder movement 6 feet and top movement 2 feet down; asks ladder height; answer 10, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 bonus 4 specifies constant acceleration, 5 meters in 3 seconds, initial velocity zero and total 12 seconds; answer 80, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Root compared PDF text on page 3: Birkhoff's uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "parts": [
+          "According to Birkhoff&amp;apos;s theorem, what is the only static, spherically symmetric solution to the Einstein field equations?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "According to Birkhoff's theorem, what is the only static, spherically symmetric solution to the Einstein field equations?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 bonus 6 lists atomic radius, environmental conditions, atomic mass and electronegativity magnitude; answer Z) magnitude of electronegativities, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 bonus 7 states lethal BB genotype and identical AaBb parents, includes four ratio options with all read-as cues; answer Z) 3:1, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 bonus 8 asks country with highest electricity share from nuclear power; options Japan, France, U.S., Russia; answer X) France, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 bonus 9 asks distance where a star's absolute and apparent magnitudes equal; answer 10 parsecs, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 bonus 10 gives f(x) tangent at (1,3) through (-2,-6), asks derivative at x=1; answer 3, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 bonus 11 asks maximum ATP molecules synthesized by NAD and FADH2 respectively; both name and mitochondrial pronunciation cue match; answer 3 and 2, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 bonus 12 gives hydrogen electron transition n=2 to n=3 and choices infrared, visible, ultraviolet, X-ray; answer X) visible, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 bonus 13 gives spring constant 200 N/m, mass 0.5 kg, release x=0.02m and asks maximum speed; answer 0.4 (accept 2/5), matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 bonus 14 lists shearing fault, volcanic deposits, folded orogenies [oh-ROJ-uh-nees], blueschist metamorphism [BLOO-shist]; answer X) volcanic deposits, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 bonus 15 asks which glia occur only in peripheral nervous system; cues for oligodendrocytes and ependymal cells and all four choices present; answer Y) Schwann cells, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 bonus 16 gives right triangle side 14 inches opposite 30 degrees and asks circumscribed-circle diameter; answer 28, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 bonus 17 asks which U.S. body regulates nuclear power; answer U.S. Nuclear Regulatory Commission (accept Nuclear Regulatory Commission or NRC), matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 bonus 18 asks molecule produced by Monsanto process; options sulfuric, hydrochloric, acetic, nitric acid; answer Y) acetic acid, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 19 asks cells unable to receive adequate oxygen; all four blood-cell options and pronunciation cues match corpus; answer X) erythrocytes."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 20 lists four entropy statements and asks which is not true; answer Z) entropy can only be defined macroscopically, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 bonus 21 specifies 1.0 mole ideal gas, isobaric expansion 273 to 373 K, R=8.314 J/mol K and nearest tenth; answer 831.4 J, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 bonus 22 gives 100 entrants, 28 first-round byes, then successive pairings and asks matches in first 3 rounds; answer 84, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 bonus 23 gives 35 liters neon at 77°C cooled at constant pressure to 10 liters and asks final °C; answer -173 degrees Celsius, matching corpus."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>NSB corrections — running log</title>
+  <style>
+    :root { color-scheme: light dark; --bg: light-dark(#f7f8fa,#15181d); --panel: light-dark(#fff,#20242b); --text: light-dark(#202630,#e9edf3); --muted: light-dark(#586576,#aeb9c8); --line: light-dark(#d9dfe7,#424b58); --accent: light-dark(#175d91,#8cc9f8); }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 system-ui,sans-serif; }
+    main { max-width: 1200px; margin: auto; padding: 28px; }
+    h1 { font-size: 28px; margin: 0 0 6px; font-weight: 650; }
+    .muted { color: var(--muted); }
+    .intro { margin: 0 0 22px; }
+    .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; }
+    label { display: flex; flex-direction: column; gap: 4px; font-size: 14px; }
+    .search { flex: 1 1 280px; }
+    input[type=search],select,button { font: inherit; color: inherit; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 9px 12px; }
+    button { cursor: pointer; }
+    button:disabled { opacity: .5; cursor: default; }
+    .checks { display: flex; flex-wrap: wrap; gap: 22px; margin: 14px 0; }
+    .checks label { display: inline-flex; flex-direction: row; align-items: center; }
+    .summary { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin: 20px 0; }
+    .entry { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 20px; margin: 18px 0; scroll-margin-top: 15px; }
+    .entry h2 { font-size: 18px; margin: 0 0 5px; }
+    .meta { display: flex; gap: 14px; flex-wrap: wrap; font-size: 14px; }
+    a { color: var(--accent); }
+    .evidence { font-size: 14px; margin: 14px 0; }
+    .field { margin-top: 18px; }
+    .field h3 { font-size: 14px; font-weight: 650; margin: 0 0 8px; }
+    .comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+    .comparison section { min-width: 0; overflow-wrap: anywhere; }
+    .caption { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 8px; }
+    .copy { white-space: normal; }
+    .raw { white-space: pre-wrap; font: 13px/1.5 ui-monospace,monospace; }
+    .nsb-fraction { display: inline-flex; vertical-align: middle; flex-direction: column; text-align: center; margin: 0 .2em; line-height: 1.3; }
+    .nsb-fraction > span:first-child { border-bottom: 1px solid currentColor; padding: 0 .15em; }
+    .nsb-fraction > span:last-child { padding: 0 .15em; }
+    .paging { display: flex; align-items: center; justify-content: center; gap: 16px; padding: 20px 0; }
+    .error { color: light-dark(#a51d23,#ffadb1); }
+    @media(max-width:700px) { main { padding: 16px; } .comparison { grid-template-columns: 1fr; gap: 16px; } .entry { padding: 16px; } }
+  </style>
+</head>
+<body>
+<main>
+  <h1>NSB corrections</h1>
+  <p class="intro muted">Running before-and-after log · Original PDF evidence · Local application status</p>
+  <p id="progress" class="muted" aria-live="polite"></p>
+  <div class="controls">
+    <label class="search">Find a correction<input id="search" type="search" placeholder="Question text, formula, category, or question number"></label>
+    <label>Sample set<select id="set"><option value="">All sets</option></select></label>
+    <label>Status<select id="status"><option value="">All corrections</option><option value="applied">Applied locally</option><option value="pending">Awaiting validation or application</option></select></label>
+  </div>
+  <div class="checks">
+    <label><input id="reading" type="checkbox">Include reading text</label>
+    <label><input id="raw" type="checkbox">Show exact stored text</label>
+    <label><input id="live" type="checkbox" checked>Live updates</label>
+  </div>
+  <div class="summary"><strong id="count">Loading…</strong><span id="updated" class="muted"></span></div>
+  <div id="errors" class="error" role="status"></div>
+  <div id="entries"></div>
+  <nav class="paging" aria-label="Correction pages"><button id="previous" type="button">Previous</button><span id="page"></span><button id="next" type="button">Next</button></nav>
+</main>
+<script>
+  const controls = Object.fromEntries(['search','set','status','reading','raw','live','count','updated','errors','entries','previous','next','page','progress'].map(id => [id, document.getElementById(id)]));
+  let data = { records: [] };
+  let page = 0;
+  const pageSize = 20;
+
+  function element(tag, text, className) {
+    const node = document.createElement(tag);
+    if (text !== undefined) node.textContent = text;
+    if (className) node.className = className;
+    return node;
+  }
+
+  function render() {
+    const search = controls.search.value.toLowerCase().trim();
+    const matching = data.records.filter(record => {
+      if (controls.set.value && String(record.set) !== controls.set.value) return false;
+      if (controls.status.value === 'applied' && !record.applied) return false;
+      if (controls.status.value === 'pending' && record.applied) return false;
+      return !search || [record.category,record.kind,record.number,record.evidence,...record.fields.flatMap(field => [field.before,field.after])].join(' ').toLowerCase().includes(search);
+    });
+    const pages = Math.max(1, Math.ceil(matching.length / pageSize));
+    page = Math.min(page, pages - 1);
+    controls.count.textContent = `${matching.length} of ${data.records.length} corrections · ${data.records.filter(record => record.applied).length} applied locally`;
+    controls.page.textContent = `Page ${page + 1} of ${pages}`;
+    controls.previous.disabled = page === 0;
+    controls.next.disabled = page + 1 === pages;
+    const fragment = document.createDocumentFragment();
+    for (const record of matching.slice(page * pageSize, (page + 1) * pageSize)) {
+      const entry = element('article', undefined, 'entry');
+      entry.id = record.id;
+      entry.append(element('h2', `Set ${record.set} · Round ${record.round} · ${record.kind} ${record.number}`));
+      const meta = element('div', undefined, 'meta muted');
+      meta.append(element('span', `${record.year ?? 'Year unknown'} · ${record.category} · ${typeof record.pass === 'string' ? record.pass : `Pass ${record.pass ?? 1}`}`), element('span', record.statusLabel ?? (record.superseded ? 'Applied, then refined in pass 2' : record.applied ? 'Applied locally' : 'Awaiting validation or application')));
+      for (const pageNumber of record.sourcePages) {
+        const link = element('a', `PDF page ${pageNumber}`);
+        link.href = `${record.sourceUrl}#page=${pageNumber}`;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        meta.append(link);
+      }
+      entry.append(meta, element('p', record.evidence, 'evidence'));
+      const fields = record.fields.filter(field => controls.reading.checked || !field.reading);
+      if (!fields.length) entry.append(element('p', 'Reading-text correction. Enable “Include reading text” to inspect it.', 'muted'));
+      for (const field of fields) {
+        const group = element('div', undefined, 'field');
+        group.append(element('h3', field.label + (field.reading ? ' — reading text' : '')));
+        const comparison = element('div', undefined, 'comparison');
+        for (const side of ['before','after']) {
+          const section = element('section');
+          section.append(element('div', side === 'before' ? 'Before' : 'After', 'caption'));
+          const copy = element('div', undefined, controls.raw.checked ? 'raw' : 'copy');
+          if (side === 'before' && field.added) copy.append(element('em', 'Not stored separately', 'muted'));
+          else if (controls.raw.checked) copy.textContent = field[side];
+          else copy.innerHTML = field[side + 'Html'];
+          section.append(copy);
+          comparison.append(section);
+        }
+        group.append(comparison);
+        entry.append(group);
+      }
+      fragment.append(entry);
+    }
+    controls.entries.replaceChildren(fragment);
+  }
+
+  async function refresh() {
+    try {
+      const response = await fetch('corrections.json', { cache: 'no-store' });
+      if (!response.ok) throw new Error(`Unable to load corrections (${response.status})`);
+      const next = await response.json();
+      if (next.version === data.version) return;
+      data = next;
+      const selected = controls.set.value;
+      controls.set.replaceChildren(new Option('All sets', ''), ...[...new Set(data.records.map(record => record.set))].sort((a,b) => a-b).map(set => new Option(`Set ${set}`, set)));
+      controls.set.value = selected;
+      controls.updated.textContent = `Updated ${new Date(data.updatedAt).toLocaleString()}`;
+      if (data.audit) controls.progress.textContent = `PDF review: ${data.audit.reviewed.toLocaleString()} of ${data.audit.flagged.toLocaleString()} flagged questions reviewed · ${(data.audit.flagged - data.audit.reviewed).toLocaleString()} still pending` + (data.audit.unresolved ? ` · ${data.audit.unresolved} unresolved` : '');
+      if (data.audit?.secondPass) controls.progress.textContent += ` · Independent second pass: ${data.audit.secondPass.reviewed.toLocaleString()} of ${data.audit.secondPass.total.toLocaleString()} questions reviewed`;
+      controls.errors.textContent = '';
+      render();
+    } catch (error) { controls.errors.textContent = error.message; }
+  }
+
+  for (const id of ['search','set','status','reading','raw']) controls[id].addEventListener('input', () => { page = 0; render(); });
+  controls.previous.addEventListener('click', () => { page--; render(); window.scrollTo({ top: 0 }); });
+  controls.next.addEventListener('click', () => { page++; render(); window.scrollTo({ top: 0 }); });
+  controls.live.addEventListener('change', () => { if (controls.live.checked) refresh(); });
+  refresh();
+  setInterval(() => { if (controls.live.checked) refresh(); }, 15000);
+</script>
+</body>
+</html>

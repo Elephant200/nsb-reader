@@ -1,0 +1,446 @@
+{
+  "packetIndex": 115,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-2-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1: checked “In proteins, a beta sheet is an example of what type of structure? W) Primary X) Secondary Y) Tertiary Z) Quaternary”; source key/answer reads “X) SECONDARY”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1: checked “A group of butterflies occurs in many color patterns. The butterflies can interbreed and the offspring are fertile. What is the most ap”; source key/answer reads “SPECIES”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2: checked “Named after its inventor, what battery powered the earliest telegraphs?”; source key/answer reads “DANIELL CELL (ACCEPT: GROVE CELL)”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3 prints (2x − 9)² = 81 and the read-as cue says quantity squared equals 81; the answer gives both x = 0 and x = 9.",
+      "before": {
+        "question": "Solve for in 2 [two x minus 9 quantity squared equals x (2x – 9) = 81 81]"
+      },
+      "changes": {
+        "question": "Solve for x in (2x − 9)<sup>2</sup> = 81 [two x minus 9 quantity squared equals 81]",
+        "question_sanitized": "Solve for x in (2x − 9) squared = 81 [two x minus 9 quantity squared equals 81]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3: checked “Mistletoe is a vascular plant that imbeds root-like structures into the limbs of a tree, robbing it of moisture and nutrients. The mist”; source key/answer reads “Z) PARASITISM”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “Which of the following is not one of the characteristics of indirect coulometry [koo-LOM-i-tree]? W) Utilizes a constant current source”; source key/answer reads “Y) REQUIRES THE USE OF STANDARDS EVEN IF THE CURRENT EFFICIENCY IS KNOWN”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “What type of electrical circuit component can be used to store energy electrostatically?”; source key/answer reads “CAPACITOR”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5: checked “The geologic eras are separated by what sort of major biological event?”; source key/answer reads “MASS EXTINCTION (ACCEPT: MASS EXTINCTION EVENTS)”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5: checked “Which of the following visual disorders results in large pressure increases within the eye? W) Glaucoma X) Astigmatism Y) Macular degen”; source key/answer reads “W) GLAUCOMA”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6: checked “A man buys candies for x cents per dozen and sells them for x over 9 cents per candy. If he buys the candies for $1.08 per dozen, what ”; source key/answer reads “X) 3 CENTS”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6: checked “Which of the following countries has the highest percentage of its electricity production from geothermal energy? W) United States X) P”; source key/answer reads “Z) ICELAND”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7: checked “Which of the following elements would be most likely to violate the octet rule? W) Boron X) Carbon Y) Nitrogen Z) Oxygen”; source key/answer reads “W) BORON”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7: checked “Which of the following is the most similar to the ecosystem type that would be found at 4000m elevation in the Andes? W) Tundra X) Broa”; source key/answer reads “W) TUNDRA”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8: checked “Which of the following values refers to the maximum amount of non-expansion work that can be extracted from a closed system? W) Enthalp”; source key/answer reads “Z) GIBBS FREE ENERGY”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9: checked “Consider two sets, A and B, that show a correlation coefficient R equal to 0.6. If all the members of set A are multiplied by 3 and all”; source key/answer reads “0.6 (ACCEPT: IT STAYS THE SAME)”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9: checked “Identify all of the following three quantities that are constant for a body in uniform circular motion: 1) kinetic energy; 2) speed; 3)”; source key/answer reads “1, 2, AND 3 (ACCEPT: KINETIC ENERGY, SPEED, AND ANGULAR VELOCITY OR ALL OF THEM)”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10: checked “Which of the following neurotransmitters typically has a fast excitation response? W) Aminobutyric acid [uh-MEE-noh-byoo-TIR-ik] X) Ace”; source key/answer reads “X) ACETYLCHOLINE”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10: checked “What law gives the solubility of a gaseous species as a linear function of its partial pressure about a liquid solvent?”; source key/answer reads “HENRY’S LAW”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “The bob on a pendulum swings through an arc 3 feet long when the string swings through an angle of 0.5 radians. What is the length of t”; source key/answer reads “Y) 6”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “The idea that energy is quantized in order to explain the observed black-body radiation was first postulated by what German scientist?”; source key/answer reads “MAX PLANCK”, matching the record."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12: checked “In which of the following climates is chemical weathering generally most effective? W) Temperate X) Hot and arid Y) Tropical Z) Arctic”; source key/answer reads “Y) TROPICAL”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p. 1: checked “On a phase diagram, what is the name for the one point in phase space where gas, liquid, and solid phases all coexist in equilibrium [e”; source key/answer reads “TRIPLE POINT”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2: checked “What valuable co-product of the water-gas-shift reaction is left when the resultant CO 2 [C –O- two] is removed?”; source key/answer reads “HYDROGEN”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p. 2: checked “NOAA’s 2008-2017 Tsunami Programs Strategic Plan aims to minimize loss of life and disruption to economically vital coastal communities”; source key/answer reads “Z) IMPROVED PREDICTIVE MODELING CAPABILITIES TO TREAT TSUNAMIS AS A SINGLE GIANT WAVE”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3: checked “Which of the following pizzas has the greatest area on its top? W) A rectangular pizza, 18” by 12” [ eighteen inches by twelve inches] ”; source key/answer reads “X) A SQUARE PIZZA, 15” BY 15””, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p. 3: checked “Which of the following glands contributes to thermoregulation by adjusting the resting metabolic rate? W) Pancreas X) Thyroid Y) Anteri”; source key/answer reads “X) THYROID”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “Bronze and brass are both alloys that are made by combining copper and another substance. What other substances are most typically used”; source key/answer reads “TIN: BRONZE; ZINC: BRASS”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p. 4: checked “Indicate, by number, all of the following three forces that would act on a rock as it slides along the ground after being kicked: 1) gr”; source key/answer reads “1, 2, AND 3 (ACCEPT: ALL OF THEM)”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p. 5: checked “Which of the following is nearest the percentage of the South American continent drained by the Amazon River? W) 15% X) 40% Y) 60% Z) 7”; source key/answer reads “X) 40%”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered physical page 6 shows numerator 6x²+4x−2, denominator 4x−12x², the full bracketed read-as cue and the answer −(x+1)/(2x). The reading text now retains both formula and cue.",
+      "before": {
+        "parts": [
+          "Simplify the following fraction for values of x for which it is defined: [the fraction with numerator six x squared plus four x minus two and denominator four x minus twelve x squared]."
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify the following fraction for values of x for which it is defined: <span class=\"nsb-fraction\"><span>6x<sup>2</sup> + 4x − 2</span><span>4x − 12x<sup>2</sup></span></span> [the fraction with numerator six x squared plus four x minus two and denominator four x minus twelve x squared]."
+        ],
+        "parts_sanitized": [
+          "Simplify the following fraction for values of x for which it is defined: (6x^2 + 4x − 2)/(4x − 12x^2) [the fraction with numerator six x squared plus four x minus two and denominator four x minus twelve x squared]."
+        ],
+        "answers": [
+          "−<span class=\"nsb-fraction\"><span>x + 1</span><span>2x</span></span>"
+        ],
+        "answers_sanitized": [
+          "negative (x + 1) over (2x)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p. 6: checked “Order the following four sources of energy from least to greatest in terms of the percentage share of total electricity generation in t”; source key/answer reads “3, 4, 2, 1 (ACCEPT: PETROLEUM, HYDROPOWER, NUCLEAR, COAL)”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7: checked “Identify all of the following three statements that characterize pi bonds: 1) They have maximum electron density on the internuclear ax”; source key/answer reads “2 ONLY (ACCEPT: THEY ARE GENERALLY LESS STABLE THAN SIGMA BONDS)”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p. 7: checked “What is the name of the genus of the early hominid Lucy? W) Ardipithecus [ahr-de-PITH-i-cuhs] X) Homo Y) Australopithecus [aw-stray-loh”; source key/answer reads “Y) AUSTRALOPITHECUS”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8: checked “The addition of 2.0 moles of sulfur dioxide to 1.0 mole of diatomic oxygen forms 2.0 moles of sulfur trioxide at a constant pressure an”; source key/answer reads “-198 (DO NOT ACCEPT: 198)”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9: checked “How many roots satisfy the equation [square root of quantity six minus x equals x times the square root of quantity six minus x]? W) 0 ”; source key/answer reads “Y) 2”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p. 9: checked “Indicate, by number, all of the following three optical properties that are involved in the production of rainbows: 1) dispersion; 2) a”; source key/answer reads “1 AND 3”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10: checked “What is the primary force that holds the antiparallel stands of a DNA helix together?”; source key/answer reads “HYDROGEN BOND”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10: checked “Match the four acids with their proper IUPAC [I-U- pak] names: 1) HClO [H-C-L-O]; 2) HClO 2 [H-C-L-O two]; 3) HClO 3 [H-C-L-O three]; 4”; source key/answer reads “1-C, 2-D, 3-A, 4-B (HCLO – HYPOCHLOROUS ACID; HCLO 2 – CHLOROUS ACID; HCLO 3 – CHLORI”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “You have a sample of 30 values that correspond to the amounts of money you spent on gas in each of 30 months. You notice that the highe”; source key/answer reads “1, 4 (ACCEPT: MEAN AND RANGE)”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p. 11: checked “What scientist first described the wave mechanics of quantum particles with his namesake wave function?”; source key/answer reads “ERWIN SCHRODINGER”, matching the record."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p. 12: checked “The reasons why the earth’s core is believed to be largely molten iron do NOT include which of following? W) Density of iron X) Conduct”; source key/answer reads “Y) MAGNETIC PROPERTIES OF IRON”, matching the record."
+    }
+  ],
+  "packetIssues": []
+}

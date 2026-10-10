@@ -1,0 +1,583 @@
+{
+  "packetIndex": 9,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints the chemical formulas H₂C₂O₄, H₃PO₄, HCl, and HNO₂ without spaces within the formulas; corpus split formulas after the subscripts.",
+      "before": {
+        "question": "Which of the following is a diprotic acid:<br>W) H<sub>2</sub> C<sub>2</sub> O<sub>4</sub><br>X) H<sub>3</sub> PO<sub>4</sub><br>Y) HCl<br>Z) HNO<sub>2</sub>",
+        "answer": "W) H<sub>2</sub> C<sub>2</sub> O<sub>4</sub>",
+        "options": [
+          "W) H<sub>2</sub> C<sub>2</sub> O<sub>4</sub>",
+          "X) H<sub>3</sub> PO<sub>4</sub>",
+          "Y) HCl",
+          "Z) HNO<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is a diprotic acid:<br>W) H<sub>2</sub>C<sub>2</sub>O<sub>4</sub><br>X) H<sub>3</sub>PO<sub>4</sub><br>Y) HCl<br>Z) HNO<sub>2</sub>",
+        "answer": "W) H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+        "options": [
+          "W) H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>",
+          "X) H<sub>3</sub>PO<sub>4</sub>",
+          "Y) HCl",
+          "Z) HNO<sub>2</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p. 10 prints the correct answer text under a conflicting letter W. The same answer text uniquely matches choice Z; corrected only the answer label to agree with the printed choices, preserving answer text.",
+      "before": {
+        "answer": "W) WINDS"
+      },
+      "changes": {
+        "answer": "Z) WINDS"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 marks Y) (3, 0) and gives the distance calculation √((3 − 1)² + (0 − (−2))²) = √8; corpus answer and solution contain displaced symbols.",
+      "before": {
+        "answers": [
+          "Y) (3, 0) − + − − + − − 2 2 2 2"
+        ],
+        "notes": [
+          "(Solution: d = ( x<sub>2</sub> x<sub>1</sub> ) ( y<sub>2</sub> y<sub>1</sub> ) ; ( 3 1 ) ( 0 ( 2 )) = 8)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "Y) (3, 0)"
+        ],
+        "notes": [
+          "(Solution: d = √((x₂ − x₁)² + (y₂ − y₁)²); √((3 − 1)² + (0 − (−2))²) = √8)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 3; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 5; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows sin = 12/13, cos = −5/13, tan = −12/5; the corpus question lost its opening clause and fraction values were misordered.",
+      "before": {
+        "parts": [
+          "through the point (–5, 12). Find the sine, cosine and tangent, in fractional form: − − 5"
+        ],
+        "answers": [
+          "SIN = <span class=\"nsb-fraction\">&lt;span&gt;12</span>&lt;span&gt;13</span></span> ; COS = ; TAN = <span class=\"nsb-fraction\">&lt;span&gt;12</span>&lt;span&gt;5</span></span> 13"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The terminal side of angle θ (read as: theta) in standard position passes through the point (−5, 12). Find the sine, cosine and tangent, in fractional form:"
+        ],
+        "answers": [
+          "SIN = <span class=\"nsb-fraction\"><span>12</span><span>13</span></span>; COS = −<span class=\"nsb-fraction\"><span>5</span><span>13</span></span>; TAN = −<span class=\"nsb-fraction\"><span>12</span><span>5</span></span>"
+        ],
+        "parts_sanitized": [
+          "The terminal side of angle θ (read as: theta) in standard position passes through the point (−5, 12). Find the sine, cosine and tangent, in fractional form:"
+        ],
+        "answers_sanitized": [
+          "SIN = (12)/(13); COS = −(5)/(13); TAN = −(12)/(5)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 7; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 visually separates the answer −392 and its acceptance instructions from the complete solution equation; restored the equation to notes.",
+      "before": {
+        "answers": [
+          "–392 (must give negative value) (ACCEPT: 392 JOULES LESS) × 9.8 × (–4) = –392 joules)"
+        ],
+        "notes": [
+          "(Solution: E = mgΔh = 10kg"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "–392 (must give negative value) (ACCEPT: 392 JOULES LESS)"
+        ],
+        "notes": [
+          "(Solution: E = mgΔh = 10kg × 9.8 × (–4) = –392 joules)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 10; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 11; source text and notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 visually shows adjacent pressure and volume factors; removed extraction-only spaces after subscripts and before punctuation.",
+      "before": {
+        "notes": [
+          "(Solution: P<sub>1</sub> V<sub>1</sub> = P<sub>2</sub> V<sub>2</sub> ; (120 kPa)(2L) = (P<sub>2</sub> )(8L); = 30 kPa)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>; (120 kPa)(2L) = (P<sub>2</sub>)(8L); = 30 kPa)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 shows the multiplication sign between 0.6 and 12 in the solution, not after the answer; restored that boundary.",
+      "before": {
+        "answers": [
+          "338 METERS PER SECOND (must give units) ×"
+        ],
+        "notes": [
+          "(Solution: 0.6 12 + 331 = 338.2 m/s)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "338 METERS PER SECOND (must give units)"
+        ],
+        "notes": [
+          "(Solution: 0.6 × 12 + 331 = 338.2 m/s)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 13; source text and notation agree with the corpus."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,23 @@
+{
+  "packetIndex": 252,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [6],
+      "evidence": "Viewed p.6: mammalian thermoregulation part-of-brain answer is HYPOTHALAMUS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [6],
+      "evidence": "Viewed p.6: mammalian eye lens primary germ layer answer is ECTODERM."
+    }
+  ],
+  "packetIssues": []
+}

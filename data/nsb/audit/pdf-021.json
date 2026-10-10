@@ -1,0 +1,578 @@
+{
+  "packetIndex": 21,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 confirms the notation or field boundary restored in the replacement.",
+      "before": {
+        "question": "Which of the following conjugate acid-base pairs will NOT function as a buffer?<br>W) HNO 3 and NO 3 -<br>X) NH 3 and NH 4 +<br>Y) CH 3 COOH and CH 3 COO-<br>Z) HF and F-",
+        "answer": "W) HNO 3 AND NO 3 -",
+        "options": [
+          "W) HNO 3 and NO 3 -",
+          "X) NH 3 and NH 4 +",
+          "Y) CH 3 COOH and CH 3 COO-",
+          "Z) HF and F-"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following conjugate acid-base pairs will NOT function as a buffer?<br>W) HNO<sub>3</sub> and NO<sub>3</sub><sup>-</sup><br>X) NH<sub>3</sub> and NH<sub>4</sub><sup>+</sup><br>Y) CH<sub>3</sub>COOH and CH<sub>3</sub>COO<sup>-</sup><br>Z) HF and F<sup>-</sup>",
+        "answer": "W) HNO<sub>3</sub> AND NO<sub>3</sub><sup>-</sup>",
+        "options": [
+          "W) HNO<sub>3</sub> and NO<sub>3</sub><sup>-</sup>",
+          "X) NH<sub>3</sub> and NH<sub>4</sub><sup>+</sup>",
+          "Y) CH<sub>3</sub>COOH and CH<sub>3</sub>COO<sup>-</sup>",
+          "Z) HF and F<sup>-</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Root visual recheck of PDF page 2 shows both digits 25 on the baseline, followed by a raised log with subscript base 5 and argument 8. The bold reading cue explicitly says 25 to the power of the log base 5 of 8. The previous review incorrectly raised the 5 in 25 and incorrectly reported a source-answer inconsistency. The answer Y) 64 agrees with the printed expression.",
+      "before": {
+        "question": "Which of the following is equivalent to 25log5 8 [25 to the power of the log base 5 of 8]?<br>W) 8<br>X) 16<br>Y) 64<br>Z) 128"
+      },
+      "changes": {
+        "question": "Which of the following is equivalent to 25<sup>log<sub>5</sub>8</sup> [25 to the power of the log base 5 of 8]?<br>W) 8<br>X) 16<br>Y) 64<br>Z) 128",
+        "question_sanitized": "Which of the following is equivalent to 25^(log_5 8) [25 to the power of the log base 5 of 8]? W) 8; X) 16; Y) 64; Z) 128"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 12."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 confirms the notation or field boundary restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "If the two alleles for color sensitivity are Xb [X-little-B] = color- blind, and XB [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual?<br>W) XBXb [X-big-B-X-little-B]<br>X) XBXB [X-big-B-X-big-B]<br>Y) XbY [X-little-B-Y]<br>Z) XBY [X-big-B-Y]",
+        "answer": "Y) XbY",
+        "options": [
+          "W) XBXb [X-big-B-X-little-B]",
+          "X) XBXB [X-big-B-X-big-B]",
+          "Y) XbY [X-little-B-Y]",
+          "Z) XBY [X-big-B-Y]"
+        ]
+      },
+      "changes": {
+        "question": "If the two alleles for color sensitivity are X<sup>b</sup> [X-little-B] = color-blind, and X<sup>B</sup> [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual?<br>W) X<sup>B</sup>X<sup>b</sup> [X-big-B-X-little-B]<br>X) X<sup>B</sup>X<sup>B</sup> [X-big-B-X-big-B]<br>Y) X<sup>b</sup>Y [X-little-B-Y]<br>Z) X<sup>B</sup>Y [X-big-B-Y]",
+        "question_sanitized": "If the two alleles for color sensitivity are X^b [X-little-B] = color-blind, and X^B [X-big-B] = color-sensitive, which of the following genotypes corresponds to a color-blind individual? W) X^B X^b [X-big-B-X-little-B]; X) X^B X^B [X-big-B-X-big-B]; Y) X^bY [X-little-B-Y]; Z) X^BY [X-big-B-Y].",
+        "answer": "Y) X<sup>b</sup>Y",
+        "answer_sanitized": "Y) X^bY",
+        "options": [
+          "W) X<sup>B</sup>X<sup>b</sup> [X-big-B-X-little-B]",
+          "X) X<sup>B</sup>X<sup>B</sup> [X-big-B-X-big-B]",
+          "Y) X<sup>b</sup>Y [X-little-B-Y]",
+          "Z) X<sup>B</sup>Y [X-big-B-Y]"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 13."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered source page 2 confirms the notation or field boundary restored in the replacement.",
+      "before": {
+        "parts": [
+          "Suppose 2 woodchucks can chuck 1 cords of wood in 1 hours; 2 4 5 providing your answer as a fraction in simplest form, how many cords of wood can 1 woodchuck chuck in 1 hour?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Suppose 2 <span class=\"nsb-fraction\"><span>1</span><span>2</span></span> woodchucks can chuck 1 <span class=\"nsb-fraction\"><span>1</span><span>4</span></span> cords of wood in 1 <span class=\"nsb-fraction\"><span>1</span><span>5</span></span> hours; providing your answer as a fraction in simplest form, how many cords of wood can 1 woodchuck chuck in 1 hour?"
+        ],
+        "parts_sanitized": [
+          "Suppose 2 1/2 woodchucks can chuck 1 1/4 cords of wood in 1 1/5 hours; providing your answer as a fraction in simplest form, how many cords of wood can 1 woodchuck chuck in 1 hour?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 confirms the notation or field boundary restored in the replacement.",
+      "before": {
+        "parts": [
+          "If the position of a moving object in meters is given by s(t) = 4t 3 -6Int [s of t equals 4 t cubed minus 6 natural log of t], what is its velocity in meters per second at t = 3 seconds?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the position of a moving object in meters is given by s(t) = 4t<sup>3</sup> − 6 ln(t) [s of t equals 4 t cubed minus 6 natural log of t], what is its velocity in meters per second at t = 3 seconds?"
+        ],
+        "parts_sanitized": [
+          "If the position of a moving object in meters is given by s(t) = 4t^3 - 6 ln(t) [s of t equals 4 t cubed minus 6 natural log of t], what is its velocity in meters per second at t = 3 seconds?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 prints the ion charges as Fe²⁺, Sn⁴⁺, and P³⁻. The corpus preserved the formulas but flattened all three charge superscripts.",
+      "before": {
+        "parts": [
+          "In the following three ions, what are the highest energy sublevels, respectively, that contain electrons: 1) Fe2+, 2) Sn4+, 3) P3-?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In the following three ions, what are the highest energy sublevels, respectively, that contain electrons: 1) Fe<sup>2+</sup>, 2) Sn<sup>4+</sup>, 3) P<sup>3−</sup>?"
+        ],
+        "parts_sanitized": [
+          "In the following three ions, what are the highest energy sublevels, respectively, that contain electrons: 1) Fe^(2+), 2) Sn^(4+), 3) P^(3−)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 confirms the notation or field boundary restored in the replacement.",
+      "before": {
+        "parts": [
+          "Providing your answer as a fraction in simplest form, what is the slope of the tangent line to the curve 𝑦𝑦 = √𝑥𝑥 2 − 3𝑥𝑥 [y equals the square root of the quantity x squared minus 3 x] at the point (4, 2)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer as a fraction in simplest form, what is the slope of the tangent line to the curve y = √(x<sup>2</sup> − 3x) [y equals the square root of the quantity x squared minus 3x] at the point (4, 2)?"
+        ],
+        "parts_sanitized": [
+          "Providing your answer as a fraction in simplest form, what is the slope of the tangent line to the curve y = square root of (x^2 - 3x) [y equals the square root of the quantity x squared minus 3x] at the point (4, 2)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 13."
+    }
+  ],
+  "packetIssues": []
+}

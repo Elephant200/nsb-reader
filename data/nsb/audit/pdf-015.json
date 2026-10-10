@@ -1,0 +1,710 @@
+{
+  "packetIndex": 15,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round16.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1: source question 1 and printed answer were compared; source begins “BIOLOGY Multiple Choice In which of the following wavelengths does DNA absorb ”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF p.1: source formula is SF₆ immediately followed by a colon; corpus inserted a space before the colon.",
+      "before": {
+        "question": "Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF<sub>6</sub> :"
+      },
+      "changes": {
+        "question": "Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF<sub>6</sub>:",
+        "question_sanitized": "Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF6:"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2: source question 3 and printed answer were compared; source begins “PHYSICS Short Answer By words or numbers, identify all of the following 4 choi”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2: source question 4 and printed answer were compared; source begins “MATH Short Answer If a point has polar coordinates (3, π), what are the rectan”.",
+      "before": {
+        "question": "If a point has polar coordinates coordinates?",
+        "answer": "(–3, 0) = 3 cos π = = 3 sin π = 0)",
+        "notes": [
+          "(Solution: x –3 and y"
+        ]
+      },
+      "changes": {
+        "question": "If a point has polar coordinates (3, π), what are the rectangular coordinates?",
+        "answer": "(–3, 0)",
+        "notes": [
+          "(Solution: x = 3 cos π = –3 and y = 3 sin π = 0)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: source question 5 and printed answer were compared; source begins “EARTH SCIENCE Multiple Choice Which of the following is a coarse-grained igneo”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: source question 6 and printed answer were compared; source begins “GENERAL SCIENCE Multiple Choice Which of the following is the source of alpha ”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4: source question 7 and printed answer were compared; source begins “ASTRONOMY Short Answer Order the following 3 stages from the EARLIEST to the L”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4: source question 8 and printed answer were compared; source begins “BIOLOGY Short Answer What reduced coenzyme donates its electrons to complex-on”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: source question 9 and printed answer were compared; source begins “CHEMISTRY Short Answer What is the bond order for each oxygen-oxygen bond in t”.",
+      "before": {
+        "answer": "<span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;2</span></span> (ACCEPT: 1.5)"
+      },
+      "changes": {
+        "answer": "<span class=\"nsb-fraction\"><span>3</span><span>2</span></span> (ACCEPT: 1.5)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: source question 10 and printed answer were compared; source begins “PHYSICS Multiple Choice Which of the following best describes why the optical ”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6: source question 11 and printed answer were compared; source begins “MATH Multiple Choice At x = −1/2, the graph of y = x3 is: ANSWER: X) INCREASIN”.",
+      "before": {
+        "question": "At x = <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;2</span></span> , the graph of y = x<sup>3</sup> is:<br>W) increasing and concave up<br>X) increasing and concave down<br>Y) decreasing and concave up<br>Z) decreasing and concave down",
+        "answer": "X) INCREASING AND CONCAVE DOWN st nd derivative is negative (implying concave down))",
+        "notes": [
+          "(Solution: at the indicated value the 1 derivative is positive (implying increasing) and the 2"
+        ]
+      },
+      "changes": {
+        "question": "At x = −<span class=\"nsb-fraction\"><span>1</span><span>2</span></span>, the graph of y = x<sup>3</sup> is:<br>W) increasing and concave up<br>X) increasing and concave down<br>Y) decreasing and concave up<br>Z) decreasing and concave down",
+        "question_sanitized": "At x = -(1/2), the graph of y = x^3 is: W) increasing and concave up; X) increasing and concave down; Y) decreasing and concave up; Z) decreasing and concave down",
+        "answer": "X) INCREASING AND CONCAVE DOWN",
+        "notes": [
+          "(Solution: at the indicated value the 1st derivative is positive (implying increasing) and the 2nd derivative is negative (implying concave down))"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6: source question 12 and printed answer were compared; source begins “GENERAL SCIENCE Multiple Choice According to EPA nationwide emission trends fo”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7: source question 13 and printed answer were compared; source begins “EARTH SCIENCE Short Answer In what layer of Earth’s atmosphere do most meteors”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF p.7: the first and 29th are printed with superscript ordinal suffixes; choices and answer wording otherwise match.",
+      "before": {
+        "question": "Which of the following is LEAST likely to occur when viewed from mid-northern latitudes in the month of August:<br>W) Venus passing within 2º of Saturn<br>X) Neptune at opposition st th<br>Y) the Moon at apogee on the 1 of the month and perigee at the 29 of the month<br>Z) the Moon passing within 5º of Uranus ST",
+        "answer": "Y) THE MOON AT APOGEE ON THE 1 OF THE MONTH AND PERIGEE AT TH THE 29 OF THE MONTH",
+        "options": [
+          "W) Venus passing within 2º of Saturn",
+          "X) Neptune at opposition st th",
+          "Y) the Moon at apogee on the 1 of the month and perigee at the 29 of the month",
+          "Z) the Moon passing within 5º of Uranus ST"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is LEAST likely to occur when viewed from mid-northern latitudes in the month of August:<br>W) Venus passing within 2º of Saturn<br>X) Neptune at opposition<br>Y) the Moon at apogee on the 1st of the month and perigee at the 29th of the month<br>Z) the Moon passing within 5º of Uranus",
+        "answer": "Y) THE MOON AT APOGEE ON THE 1ST OF THE MONTH AND PERIGEE AT THE 29TH OF THE MONTH",
+        "options": [
+          "W) Venus passing within 2º of Saturn",
+          "X) Neptune at opposition",
+          "Y) the Moon at apogee on the 1st of the month and perigee at the 29th of the month",
+          "Z) the Moon passing within 5º of Uranus"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8: source question 15 and printed answer were compared; source begins “BIOLOGY Short Answer What is the primary calcium-binding protein in eukaryotic”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8: source asks whether the change in enthalpy or ΔSº is positive or negative; the corpus moved ‘enthalpy’ after the parenthetical reading.",
+      "before": {
+        "question": "For the following 3 processes, predict whether the change in ∆Sº (read as: delta S naught), is positive or negative, enthalpy, or respectively: 1) decomposition of ammonium nitrate 2) sublimation of dry ice 3) condensation of gaseous iodine to liquid iodine"
+      },
+      "changes": {
+        "question": "For the following 3 processes, predict whether the change in enthalpy, or ∆Sº (read as: delta S naught), is positive or negative, respectively: 1) decomposition of ammonium nitrate 2) sublimation of dry ice 3) condensation of gaseous iodine to liquid iodine"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9: source question 17 and printed answer were compared; source begins “PHYSICS Short Answer During beta minus decay, what nucleon type is reduced by ”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: source question 19 and printed answer were compared; source begins “EARTH SCIENCE Multiple Choice During the past 500,000 years, there have been h”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: source question 20 and printed answer were compared; source begins “MATH Short Answer Of the following 5 functions identify all that are NOT diffe”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11: source question 21 and printed answer were compared; source begins “ASTRONOMY Short Answer What 3 elements are most prominent in the carbon fusion”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11: source question 22 and printed answer were compared; source begins “BIOLOGY Short Answer What cell type is MOST directly responsible for secreting”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12: source question 23 and printed answer were compared; source begins “CHEMISTRY Short Answer Of the following 5 alkanes, which one has the LEAST com”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12: source question 24 and printed answer were compared; source begins “PHYSICS Short Answer What is the name of the universal constant that relates a”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13: source question 25 and printed answer were compared; source begins “BIOLOGY Short Answer Intestinal absorption of what vitamin is most directly de”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Root source QA of PDF p. 1 confirms the answer ends before the separately labeled Solution paragraph. Restored the complete solution to notes and removed its continuation from the answer.",
+      "before": {
+        "answers": [
+          "X) 60 NANOMETERS transported molecules)"
+        ],
+        "notes": [
+          "(Solution: this is the only logical size considering the average plant cell size and the size of"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "X) 60 NANOMETERS"
+        ],
+        "notes": [
+          "(Solution: this is the only logical size considering the average plant cell size and the size of transported molecules)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1: printed answer is 0.05; the trailing equation belongs to the solution and is already partly in notes.",
+      "before": {
+        "parts": [
+          "In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)<sub>2</sub> , solution to neutralize 40 milliliters of a nitric acid, or HNO<sub>3</sub> , solution to the equivalence point. Calculate the molarity of HNO<sub>3</sub> , rounded to the second decimal place:"
+        ],
+        "answers": [
+          "0.05 = 0.05M)"
+        ],
+        "notes": [
+          "(Solution: 0.05 mol Ba(OH)<sub>2</sub> /L × 0.02L = 0.001 mol Ba(OH)<sub>2</sub> × 2 = 0.002 mol; 0.002 mol ÷ 0.04L"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)<sub>2</sub>, solution to neutralize 40 milliliters of a nitric acid, or HNO<sub>3</sub>, solution to the equivalence point. Calculate the molarity of HNO<sub>3</sub>, rounded to the second decimal place:"
+        ],
+        "parts_sanitized": [
+          "In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)2, solution to neutralize 40 milliliters of a nitric acid, or HNO3, solution to the equivalence point. Calculate the molarity of HNO3, rounded to the second decimal place:"
+        ],
+        "answers": [
+          "0.05"
+        ],
+        "notes": [
+          "(Solution: 0.05 mol Ba(OH)<sub>2</sub>/L × 0.02 L = 0.001 mol Ba(OH)<sub>2</sub> × 2 = 0.002 mol; 0.002 mol ÷ 0.04 L = 0.05 M)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2: source bonus 3 and printed answer were compared; source begins “PHYSICS Short Answer How many kilojoules of thermal energy, rounded to the fir”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2: source bonus 4 and printed answer were compared; source begins “MATH Short Answer The graph of the polar equation, r = 5 – 5 cosine θ, is a ca”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: source bonus 5 and printed answer were compared; source begins “EARTH SCIENCE Short Answer Of the 3 basic types of magma on Earth, which one g”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3: source bonus 6 and printed answer were compared; source begins “GENERAL SCIENCE Short Answer Calculate the heating degree day in the U.S. if t”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4: source bonus 7 and printed answer were compared; source begins “ASTRONOMY Short Answer If a star has a surface temperature of 3,000 degrees ke”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4: source bonus 8 and printed answer were compared; source begins “BIOLOGY Multiple Choice In a double reciprocal plot of Michaelis-Menton kineti”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: source bonus 9 and printed answer were compared; source begins “CHEMISTRY Multiple Choice Hydrogen gas effuses through a pinhole opening from ”.",
+      "before": {
+        "answers": [
+          "X) 3.7-TIMES r 28 g / mol = H <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> r 2 g / mol N"
+        ],
+        "notes": [
+          "(Solution: = 3.7)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "X) 3.7-TIMES"
+        ],
+        "notes": [
+          "(Solution: rH₂/rN₂ = √((28 g/mol)/(2 g/mol)) = 3.7)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5: source bonus 10 and printed answer were compared; source begins “PHYSICS Multiple Choice Which of the following BEST describes one of Maxwell’s”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF p.6: answer is (10, 3); superscript ordinal suffixes and the arrow belong in the solution note.",
+      "before": {
+        "answers": [
+          "(10, 3) st  nd"
+        ],
+        "notes": [
+          "(Solution: the 1 reflection (3,10); 2 reflection interchanges the x and y coordinates)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "(10, 3)"
+        ],
+        "notes": [
+          "(Solution: the 1st reflection → (3,10); 2nd reflection interchanges the x and y coordinates)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6: source bonus 12 and printed answer were compared; source begins “GENERAL SCIENCE Short Answer Without leap days every 4 years, the winter solst”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7: source bonus 13 and printed answer were compared; source begins “EARTH SCIENCE Short Answer Name all of the following 4 layers of the atmospher”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7: source bonus 14 and printed answer were compared; source begins “ASTRONOMY Multiple Choice Which of the following was seen from mid-northern la”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8: source bonus 15 and printed answer were compared; source begins “BIOLOGY Multiple Choice Which of the following is the RNA complementary sequen”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF p.8: source shows PCl₅ ⇌ PCl₃ + Cl₂ and equilibrium constant 5 × 10⁻²; current corpus interleaves subscripts and exponents with surrounding text.",
+      "before": {
+        "parts": [
+          "Consider the following equilibrium reaction, ↔ PCl PCl + Cl . If a 1-liter flask contains 0.02 moles of PCl<sub>3</sub> and 0.02 moles of Cl<sub>2</sub> at 5(gas) 3(gas) 2(gas) –2 equilibrium, how many moles of PCl<sub>5</sub> are in the flask. Assume the equilibrium constant is 5 × 10 . –3"
+        ],
+        "answers": [
+          "8 × 10 (ACCEPT: 0.008) c"
+        ],
+        "notes": [
+          "(Solution: K = [PCl<sub>3</sub> ][Cl<sub>2</sub> ]/[PCl<sub>5</sub> ] = (0.02)(0.02)/(0.05) = 0.008 moles)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider the following equilibrium reaction, PCl<sub>5</sub>(gas) ↔ PCl<sub>3</sub>(gas) + Cl<sub>2</sub>(gas). If a 1-liter flask contains 0.02 moles of PCl<sub>3</sub> and 0.02 moles of Cl<sub>2</sub> at equilibrium, how many moles of PCl<sub>5</sub> are in the flask. Assume the equilibrium constant is 5 × 10<sup>-2</sup>."
+        ],
+        "parts_sanitized": [
+          "Consider the following equilibrium reaction, PCl5(gas) ↔ PCl3(gas) + Cl2(gas). If a 1-liter flask contains 0.02 moles of PCl3 and 0.02 moles of Cl2 at equilibrium, how many moles of PCl5 are in the flask. Assume the equilibrium constant is 5 × 10^-2."
+        ],
+        "answers": [
+          "8 × 10<sup>-3</sup> (ACCEPT: 0.008)"
+        ],
+        "answers_sanitized": [
+          "8 × 10^-3 (ACCEPT: 0.008)"
+        ],
+        "notes": [
+          "(Solution: K = [PCl<sub>3</sub>][Cl<sub>2</sub>]/[PCl<sub>5</sub>] = (0.02)(0.02)/(0.05) = 0.008 moles)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9: source bonus 17 and printed answer were compared; source begins “PHYSICS Multiple Choice Which of the following is NOT true of the Hall effect:”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9: source bonus 18 and printed answer were compared; source begins “GENERAL SCIENCE Multiple Choice During the winter solstice in the northern hem”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: source bonus 19 and printed answer were compared; source begins “EARTH SCIENCE Multiple Choice A rising parcel of air reaches the lifting conde”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10: source bonus 20 and printed answer were compared; source begins “MATH Short Answer The curve defined by the equation, Ax2 + Bx + Cy2 + Dy + E =”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF p.11: printed answer is 200; the solution begins λₘₐₓ = 3 × 10⁶ / 15,000 K = 200 nm.",
+      "before": {
+        "answers": [
+          "200 λ max"
+        ],
+        "notes": [
+          "(Solution: = 3 × 10<sup>6</sup> /15,000 K = 200 nm)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "200"
+        ],
+        "notes": [
+          "(Solution: λ<sub>max</sub> = 3 × 10<sup>6</sup>/15,000 K = 200 nm)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11: source bonus 22 and printed answer were compared; source begins “BIOLOGY Short Answer What specific human bone cell is antagonistic to osteobla”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12: source bonus 23 and printed answer were compared; source begins “CHEMISTRY Short Answer What is the most common name for the conformation that ”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered source page 12 prints the gravitational constant and answer as 6.67 × 10⁻¹¹; the corpus dropped the superscript from the constant, split the exponent in the answer, and appended it to the question. The printed solution also uses 10⁻¹¹.",
+      "before": {
+        "parts": [
+          "Assuming the universal gravitational constant is 6.67 × 10 newton-meters squared per kilogram squared, what is the gravitational attraction, in newtons, between two, 10-kilogram perfectly uniform spheres separated by a center-to-center distance of 10 meters? –11"
+        ],
+        "answers": [
+          "6.67 × 10 -11 -11"
+        ],
+        "notes": [
+          "(Solution: F = [(6.67 × 10 )(10)(10)]/10<sup>2</sup> = 6.67 × 10 NEWTONS)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming the universal gravitational constant is 6.67 × 10<sup>−11</sup> newton-meters squared per kilogram squared, what is the gravitational attraction, in newtons, between two, 10-kilogram perfectly uniform spheres separated by a center-to-center distance of 10 meters?"
+        ],
+        "parts_sanitized": [
+          "Assuming the universal gravitational constant is 6.67 × 10^(−11) newton-meters squared per kilogram squared, what is the gravitational attraction, in newtons, between two, 10-kilogram perfectly uniform spheres separated by a center-to-center distance of 10 meters?"
+        ],
+        "answers": [
+          "6.67 × 10<sup>−11</sup>"
+        ],
+        "answers_sanitized": [
+          "6.67 × 10^(−11)"
+        ],
+        "notes": [
+          "(Solution: F = [(6.67 × 10<sup>−11</sup>)(10)(10)]/10<sup>2</sup> = 6.67 × 10<sup>−11</sup> NEWTONS)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13: source bonus 25 and printed answer were compared; source begins “BIOLOGY Short Answer What plant hormone is primarily responsible for apical do”."
+    }
+  ],
+  "packetIssues": []
+}

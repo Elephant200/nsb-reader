@@ -1,0 +1,620 @@
+{
+  "packetIndex": 63,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged item with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged item with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged item with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged item with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged item with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged item with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged item with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged item with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged item with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged item with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged item with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged item with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged item with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged item with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged item with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged item with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged item with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged item with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged item with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared original PDF page 10 text and notation with the corpus; restored formula layout or charges.",
+      "before": {
+        "question": "Which of the following ions are NOT isoelectronic with an argon atom? +<br>W) K 2+<br>X) Ti 2-<br>Y) S 2+<br>Z) Ca 2+",
+        "options": [
+          "W) K 2+",
+          "X) Ti 2-",
+          "Y) S 2+",
+          "Z) Ca 2+"
+        ],
+        "answer": "X) Ti"
+      },
+      "changes": {
+        "question": "Which of the following ions are NOT isoelectronic with an argon atom?<br>W) K<sup>+</sup><br>X) Ti<sup>2+</sup><br>Y) S<sup>2−</sup><br>Z) Ca<sup>2+</sup>",
+        "options": [
+          "W) K<sup>+</sup>",
+          "X) Ti<sup>2+</sup>",
+          "Y) S<sup>2−</sup>",
+          "Z) Ca<sup>2+</sup>"
+        ],
+        "answer": "X) Ti<sup>2+</sup>"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged item with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged item with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged item with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged item with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged item with original PDF page 13; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged item with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged item with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged item with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged item with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged item with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared original PDF page 3 text and notation with the corpus; restored formula layout or charges.",
+      "before": {
+        "answers": [
+          "q q AND q<sub>3</sub> (ACCEPT: 1, 2, 3, OR ALL) 1, 2,"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "q<sub>1</sub>, q<sub>2</sub>, AND q<sub>3</sub> (ACCEPT: 1, 2, 3, OR ALL)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared original PDF page 4 text and notation with the corpus; restored formula layout or charges.",
+      "before": {
+        "parts": [
+          "Which choice represents the electron configuration for the magnesium 2+ ion? 2 2 6 2<br>W) 1s 2s 2p 3s 2 2 6 2 2<br>X) 1s 2s 2p 3s 3p 2 2 6 1<br>Y) 1s 2s 2p 3s 2 2 6<br>Z) 1s 2s 2p 2 2 6"
+        ],
+        "options": [
+          "W) 1s 2s 2p 3s 2 2 6 2 2",
+          "X) 1s 2s 2p 3s 3p 2 2 6 1",
+          "Y) 1s 2s 2p 3s 2 2 6",
+          "Z) 1s 2s 2p 2 2 6"
+        ],
+        "answers": [
+          "Z) 1s 2s 2p"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which choice represents the electron configuration for the magnesium 2+ ion?<br>W) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup><br>X) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup><br>Y) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup><br>Z) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>"
+        ],
+        "parts_sanitized": [
+          "Which choice represents the electron configuration for the magnesium 2+ ion?; W) 1s^2 2s^2 2p^6 3s^2; X) 1s^2 2s^2 2p^6 3s^2 3p^2; Y) 1s^2 2s^2 2p^6 3s^1; Z) 1s^2 2s^2 2p^6"
+        ],
+        "options": [
+          "W) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup>",
+          "X) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup>",
+          "Y) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>1</sup>",
+          "Z) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>"
+        ],
+        "answers": [
+          "Z) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>"
+        ],
+        "answers_sanitized": [
+          "Z) 1s^2 2s^2 2p^6"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared original PDF page 4 text and notation with the corpus; restored formula layout or charges.",
+      "before": {
+        "parts": [
+          "If the sine of an angle is 0.3, which of the following is a possible cosine of that angle?<br>W) .09<br>X) .7<br>Y) .7<br>Z) .91"
+        ],
+        "options": [
+          "W) .09",
+          "X) .7",
+          "Y) .7",
+          "Z) .91"
+        ],
+        "answers": [
+          "Z) .91"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the sine of an angle is 0.3, which of the following is a possible cosine of that angle?<br>W) 0.09<br>X) 0.7<br>Y) √0.7<br>Z) √0.91"
+        ],
+        "options": [
+          "W) 0.09",
+          "X) 0.7",
+          "Y) √0.7",
+          "Z) √0.91"
+        ],
+        "answers": [
+          "Z) √0.91"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared original PDF page 5 text and notation with the corpus; restored formula layout or charges.",
+      "before": {
+        "parts": [
+          "Which of the following is the strongest reducing agent yielding the most ATP per molecule during oxidative phosphorylation?<br>W) FADH<sub>2</sub> +<br>X) FAD<br>Y) NADH +<br>Z) NAD"
+        ],
+        "options": [
+          "W) FADH<sub>2</sub> +",
+          "X) FAD",
+          "Y) NADH +",
+          "Z) NAD"
+        ],
+        "answers": [
+          "Y) NADH"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the strongest reducing agent, yielding the most ATP per molecule during oxidative phosphorylation?<br>W) FADH<sub>2</sub><br>X) FAD<sup>+</sup><br>Y) NADH<br>Z) NAD<sup>+</sup>"
+        ],
+        "options": [
+          "W) FADH<sub>2</sub>",
+          "X) FAD<sup>+</sup>",
+          "Y) NADH",
+          "Z) NAD<sup>+</sup>"
+        ],
+        "answers": [
+          "Y) NADH"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged item with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged item with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged item with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared original PDF page 7 text and notation with the corpus; restored formula layout or charges.",
+      "before": {
+        "parts": [
+          "What is the derivative of cos ( + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the derivative of cos(π/2 + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared flagged item with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged item with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged item with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "The source page prints x cubed in the numerator; the corpus had lost the exponent.",
+      "before": {
+        "parts": [
+          "Find the limit as x approaches -2 of (x + 8)/(2x + 4) (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the limit as x approaches −2 of <span class=\"nsb-fraction\"><span>x<sup>3</sup> + 8</span><span>2x + 4</span></span> (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
+        ],
+        "parts_sanitized": [
+          "Find the limit as x approaches −2 of (x^3 + 8)/(2x + 4) (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged item with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged item with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged item with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged item with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged item with original PDF page 13; wording, answer/options, and notation agree."
+    }
+  ],
+  "packetIssues": []
+}

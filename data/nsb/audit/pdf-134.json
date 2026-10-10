@@ -1,0 +1,433 @@
+{
+  "packetIndex": 134,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_4A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks which Standard Model particle group includes electrons and neutrinos; answer LEPTONS with FERMIONS also accepted matches the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 shows the minus sign before i and 25 as a superscript on i: −i²⁵; answer −i matches i²⁵=i.",
+      "before": {
+        "question": "Evaluate the following expression: –i ."
+      },
+      "changes": {
+        "question": "Evaluate the following expression: −i<sup>25</sup>.",
+        "question_sanitized": "Evaluate the following expression: -i^25."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 3 reads “The cost of generating electricity has many different components. Fuel, maintenance, and transmission are exam”; choices are W) Variable | X) Fixed | Y) Environmental | Z) Corporate; answer reads “W) VARIABLE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 5 reads “The nucleus is enveloped by a net-like array of protein filaments that maintain the shape of the nucleus. What”; answer reads “NUCLEAR LAMINA”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 6 reads “What type of solid, examples of which include thin films, gels, and glasses, is characterized by only short to”; answer reads “AMORPHOUS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 7 reads “Rank the masses of the following 4 particles in increasing order: 1) alpha particle; 2) proton; 3) neutron; 4)”; answer reads “4, 2, 3, 1”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints the binomial raised to the fifth power and the term x³y²; the stored prompt placed the 3 and 2 before ‘what’ and detached them from x and y.",
+      "before": {
+        "question": "In the expansion of open parenthesis 2x – y close parenthesis to the 5th power, 3 2 what is the coefficient of the term that contains x y ?<br>W) -80<br>X) -8<br>Y) 8<br>Z) 80"
+      },
+      "changes": {
+        "question": "In the expansion of open parenthesis 2x – y close parenthesis to the 5th power, what is the coefficient of the term that contains x<sup>3</sup>y<sup>2</sup>?<br>W) -80<br>X) -8<br>Y) 8<br>Z) 80",
+        "question_sanitized": "In the expansion of open parenthesis 2x - y close parenthesis to the 5th power, what is the coefficient of the term that contains x^3 y^2? W) -80; X) -8; Y) 8; Z) 80"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 9 reads “GABA [gab-a], glycine, and acetylcholine are all examples of what group of signaling molecules?”; answer reads “NEUROTRANSMITTERS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 10 reads “For each of the following three situations, identify whether the collision is elastic or inelastic: 1) Molecul”; answer reads “1 – ELASTIC; 2- INELASTIC; 3- INELASTIC”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 11 reads “An elastic collision conserves which of the following? W) Momentum but not kinetic energy X) Kinetic energy bu”; choices are W) Momentum but not kinetic energy | X) Kinetic energy but not momentum | Y) Both momentum and kinetic energy | Z) Neither momentum nor kinetic energy; answer reads “Y) BOTH MOMENTUM AND KINETIC ENERGY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “According to molecular orbital theory, which of the following diatomic molecules is paramagnetic? W) Dicarbon ”; choices are W) Dicarbon | X) Dinitrogen | Y) Dioxygen | Z) Difluorine; answer reads “Y) DIOXYGEN”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 15 reads “What is the name given to ions, such as the sulfate ion in the reaction of aluminum sulfate and sodium hydroxi”; answer reads “SPECTATOR IONS (ACCEPT: SPECTATORS)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “Determine all of the prime factors of 111.”; answer reads “3 and 37”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 18 reads “In electricity transmission, at consistent current and resistance, which of the following changes over long di”; choices are W) Ohms | X) Energy | Y) Charge | Z) Voltage; answer reads “Z) VOLTAGE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 19 reads “Which of the following organisms would use the highest percentage of its energy budget for homeostatic regulat”; choices are W) Marine hydra | X) Desert bird | Y) Desert insect | Z) Marine jellyfish; answer reads “X) DESERT BIRD”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 20 reads “You have just crystallized a new compound. You shine light through it and observe the internal reflection as t”; choices are W) Square root of 2 | X) ½ times square root of 2 | Y) 2 | Z) 2 times square root of 2; answer reads “W) SQUARE ROOT OF 2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 21 reads “Identify all of the following three statements concerning second order reactions that are true: 1) The reactio”; answer reads “2 AND 3”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 22 reads “Planetary nebulae expand with what range of speeds? W) 1-3 centimeters per second X) 1-3 meters per second Y) ”; choices are W) 1-3 centimeters per second | X) 1-3 meters per second | Y) 10-30 kilometers per second | Z) 1000-3000 kilometers per second; answer reads “Y) 10-30 KILOMETERS PER SECOND”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: PDF question 23 reads “Consider the set of all positive integers that are the differences of the squares of two positive integers. Wh”; answer reads “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 1 reads “What particle was first proposed by Wolfgang Pauli as a means to resolve the apparent violation of the law of ”; answer reads “NEUTRINOS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 2 reads “A wire, 36 centimeters long, is bent into the shape of a regular hexagon. What is the area of the hexagon in s”; answer reads “54 times the square root of 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 4 reads “During an El Niño event, what wind pattern falters, causing cold, nutrient-rich water to be trapped underneath”; choices are W) Jet stream | X) Horse latitudes | Y) Trade winds | Z) Westerlies; answer reads “Y) TRADE WINDS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 5 reads “Which of the following structures does dynein [dye-neen] travel along? W) Actin filaments X) Keratin filaments”; choices are W) Actin filaments | X) Keratin filaments | Y) Myosin filaments | Z) Microtubules; answer reads “Z) MICROTUBULES”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints sp³d³ as the hybridization answer with both 3s superscripted; the stored stem and answer dropped those powers.",
+      "before": {
+        "parts": [
+          "What is the VSEPR [vesper]-predicted hybridization of the xenon atom in xenon hexafluoride? 3 3"
+        ],
+        "answers": [
+          "sp d"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the VSEPR [vesper]-predicted hybridization of the xenon atom in xenon hexafluoride?"
+        ],
+        "parts_sanitized": [
+          "What is the VSEPR [vesper]-predicted hybridization of the xenon atom in xenon hexafluoride?"
+        ],
+        "answers": [
+          "sp<sup>3</sup>d<sup>3</sup>"
+        ],
+        "answers_sanitized": [
+          "sp^3d^3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 7 reads “A closed cube with a height of 20 centimeters is immersed in a uniform electric field of 18 volts per meter. W”; answer reads “ZERO”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 8 reads “Consider a basketball tournament in which 100 teams enter. In the first round, 28 teams are given a bye and th”; choices are W) 84 | X) 88 | Y) 92 | Z) 99; answer reads “W) 84”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 10 reads “The reason you are safe in your car during a lightning storm is because the body of the car forms an enclosure”; answer reads “FARADAY CAGE (DO NOT ACCEPT: SHIELDING)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 11 reads “What uranium isotope is the primary fuel component for a nuclear power plant? W) U-235 X) U-237 Y) U-238 Z) U-”; choices are W) U-235 | X) U-237 | Y) U-238 | Z) U-234; answer reads “W) U-235”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “Which of the following fluoride salts is insoluble in water at STP? W) Potassium fluoride X) Silver fluoride Y”; choices are W) Potassium fluoride | X) Silver fluoride | Y) Beryllium fluoride | Z) Calcium fluoride; answer reads “Z) CALCIUM FLUORIDE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 13 reads “Which of the following processes created the volcano Mount Nyiragongo [nee-ira-gong-oh] in the Democratic Repu”; choices are W) Subduction | X) Hot spot | Y) Sea floor spreading | Z) Continental rifting; answer reads “Z) CONTINENTAL RIFTING”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 15 reads “Maple tree sap has a density of 1.010 grams per centimeter cubed and is approximately 3.0% sucrose by mass in ”; choices are W) 0.074 | X) 0.089 | Y) 0.101 | Z) 0.890; answer reads “X) 0.089”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “In a collection of red, blue, and green marbles, there are 25% more red marbles than blue marbles, and there a”; answer reads “170”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 17 reads “Which of the following gases is released when calcite effervesces with acid? W) Hydrogen gas X) Oxygen gas Y) ”; choices are W) Hydrogen gas | X) Oxygen gas | Y) Carbon dioxide | Z) Carbon monoxide; answer reads “Y) CARBON DIOXIDE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 18 reads “Which of the following is true regarding light bulbs? W) Incandescent bulbs have about one-tenth of the lifesp”; choices are W) Incandescent bulbs have about one-tenth of the lifespan as compact fluorescent lamps | X) Compact fluorescent lamps produce light by exciting argon gas | Y) The cost to buy a single incandescent bulb is generally higher than the cost to buy an equivalent CFL | Z) LED lamps are highly stable at high temperatures; answer reads “W) INCANDESCENT BULBS HAVE ABOUT ONE-TENTH OF THE LIFESPAN AS COMPACT FLUORESCENT LAMPS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 19 reads “Identify all of the following three structures that are examples of convergent evolution: 1) Whale flippers an”; answer reads “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 20 reads “A rock is thrown horizontally off a cliff at 15 meters per second. The cliff is 200 meters above a river. How ”; answer reads “6”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 21 reads “Which of the following lattices is an example of cubic closest packing? W) Hexagonal unit cell X) Body centere”; choices are W) Hexagonal unit cell | X) Body centered cubic unit cell | Y) Simple cubic unit cell | Z) Face centered cubic unit cell; answer reads “Z) FACE CENTERED CUBIC UNIT CELL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 22 reads “Most ocean shore areas have how many tidal extremes per day?”; answer reads “4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: PDF question 23 reads “In a 30-60-90 right triangle, the 60 degree angle is bisected. What is the ratio of the lengths of the segment”; answer reads “ONE HALF (Accept: 2, 1:2, 2:1)”."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,478 @@
+{
+  "packetIndex": 243,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 retains vestibular [ves-TIB-u-lar] and keys SEMICIRCULAR CANALS (accept: SEMICIRCULAR DUCTS)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 gives nitrate as NO₃⁻; corpus answer splits the subscript 3 from the ion and leaves extra spaces.",
+      "before": {
+        "answer": "NITRATE (ACCEPT: NO 3- )"
+      },
+      "changes": {
+        "answer": "NITRATE (ACCEPT: NO<sub>3</sub><sup>−</sup>)",
+        "answer_sanitized": "NITRATE (ACCEPT: NO3 minus)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists tropical depression, tropical storm, monsoon, typhoon for a <61-km/h precursor; key W) Tropical depression matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists ethanol, propanol, methanol, butanol for the plant-leaf single-carbon alcohol; key Y) Methanol matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists ellipse, line, hyperbola, parabola as curve choices; key W) Ellipse matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists four volume/density changes when halving speed at constant kinetic energy; key Y) double both matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks for inherited features shared by two or more species; key W) Orthologous matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints ions Cl⁻, CN⁻, CO₃²⁻, and OH⁻, keying Y) CO₃²⁻; corpus spacing and superscript extraction are malformed in all choices and the key.",
+      "before": {
+        "question": "Which of the following species has the largest number of reasonable resonance structures?<br>W) Cl –<br>X) CN –<br>Y) CO 32–<br>Z) OH –",
+        "options": [
+          "W) Cl –",
+          "X) CN –",
+          "Y) CO 32–",
+          "Z) OH –"
+        ],
+        "answer": "Y) CO 32–"
+      },
+      "changes": {
+        "question": "Which of the following species has the largest number of reasonable resonance structures?<br>W) Cl<sup>−</sup><br>X) CN<sup>−</sup><br>Y) CO<sub>3</sub><sup>2−</sup><br>Z) OH<sup>−</sup>",
+        "question_sanitized": "Which of the following species has the largest number of reasonable resonance structures? W) Cl minus X) CN minus Y) CO3 two minus Z) OH minus",
+        "options": [
+          "W) Cl<sup>−</sup>",
+          "X) CN<sup>−</sup>",
+          "Y) CO<sub>3</sub><sup>2−</sup>",
+          "Z) OH<sup>−</sup>"
+        ],
+        "answer": "Y) CO<sub>3</sub><sup>2−</sup>",
+        "answer_sanitized": "Y) CO3 two minus"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 keys PLATINUM (accept: Pt) for the precious fuel-cell catalyst metal."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 gives points (0, 2) and (3, 3); distance √10 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists longitudinal, Rayleigh, standing, and transverse waves; key W) Longitudinal matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 lists snail, oyster, slug, and limpet; key X) Oyster matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 shows orbital-count choices W) 5, X) 4, Y) 3, Z) 2; corpus nested fraction spans have displaced 4 and 3.",
+      "before": {
+        "question": "How many orbitals can have a principal quantum number of four and angular momentum quantum number of two?<br>W) 5<br>X) <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;3</span></span><br>Y) <br>Z) 2",
+        "options": [
+          "W) 5",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;3</span></span>",
+          "Y) ",
+          "Z) 2"
+        ]
+      },
+      "changes": {
+        "question": "How many orbitals can have a principal quantum number of four and angular momentum quantum number of two?<br>W) 5<br>X) 4<br>Y) 3<br>Z) 2",
+        "question_sanitized": "How many orbitals can have a principal quantum number of four and angular momentum quantum number of two? W) 5 X) 4 Y) 3 Z) 2",
+        "options": [
+          "W) 5",
+          "X) 4",
+          "Y) 3",
+          "Z) 2"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 lists regional, contact, shock, and burial metamorphism after stated pressure/temperature conditions; key Z) Burial metamorphism matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 prints exhaust choices O₂, H₂, H₂O, O₃ and keys Y) H₂O; corpus broke subscripts and corrupted the option values and answer.",
+      "before": {
+        "question": "A consortium of Department of Energy labs is working to create carbon-free hydrogen fuel cells for heavy-duty vehicles. These fuel cells produce what chemical byproduct as exhaust?<br>W) O 2<br>X) H<br>Y) H <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> O<br>Z) O 3",
+        "options": [
+          "W) O 2",
+          "X) H",
+          "Y) H <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> O",
+          "Z) O 3"
+        ],
+        "answer": "Y) H O 2"
+      },
+      "changes": {
+        "question": "A consortium of Department of Energy labs is working to create carbon-free hydrogen fuel cells for heavy-duty vehicles. These fuel cells produce what chemical byproduct as exhaust?<br>W) O<sub>2</sub><br>X) H<sub>2</sub><br>Y) H<sub>2</sub>O<br>Z) O<sub>3</sub>",
+        "question_sanitized": "A consortium of Department of Energy labs is working to create carbon-free hydrogen fuel cells for heavy-duty vehicles. These fuel cells produce what chemical byproduct as exhaust? W) O2 X) H2 Y) H2O Z) O3",
+        "options": [
+          "W) O<sub>2</sub>",
+          "X) H<sub>2</sub>",
+          "Y) H<sub>2</sub>O",
+          "Z) O<sub>3</sub>"
+        ],
+        "answer": "Y) H<sub>2</sub>O",
+        "answer_sanitized": "Y) H2O"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 gives a 40-element universal set and a 27-element subset; complement answer 13 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 retains all four thermodynamic process choices and [ad-ee-ah-BAT-ik], [eye-soh-BARE-ik], [eye-soh-KOR-ik]; key Z) Isochoric matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 keys RUBISCO and retains the accepted full enzyme name ribulose 1,5-bisphosphate carboxylase/oxygenase."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 ranks silicon, nitrogen, and phosphorus by electronegativity; key 1, 3, 2 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 defines streamlines parallel to the channel; key LAMINAR matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints aerosol-size choices 1 nanometer, 100 nanometers, 10 microns, 1 millimeter, with key X) 100 nanometers; corpus lost two values in malformed spans.",
+      "before": {
+        "parts": [
+          "Oak Ridge National Lab researchers are developing better N95 respirators by testing the permeability of masks made of different materials. To test the permeability to SARS- CoV-2 virus particles, they used aerosols of sodium chloride with particle sizes closest to which of the following?<br>W) 1 nanometer<br>X) nanometers <span class=\"nsb-fraction\">&lt;span&gt;100</span>&lt;span&gt;10</span></span><br>Y) microns<br>Z) 1 millimeter"
+        ],
+        "options": [
+          "W) 1 nanometer",
+          "X) nanometers <span class=\"nsb-fraction\">&lt;span&gt;100</span>&lt;span&gt;10</span></span>",
+          "Y) microns",
+          "Z) 1 millimeter"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Oak Ridge National Lab researchers are developing better N95 respirators by testing the permeability of masks made of different materials. To test the permeability to SARS-CoV-2 virus particles, they used aerosols of sodium chloride with particle sizes closest to which of the following?<br>W) 1 nanometer<br>X) 100 nanometers<br>Y) 10 microns<br>Z) 1 millimeter"
+        ],
+        "parts_sanitized": [
+          "Oak Ridge National Lab researchers are developing better N95 respirators by testing the permeability of masks made of different materials. To test the permeability to SARS-CoV-2 virus particles, they used aerosols of sodium chloride with particle sizes closest to which of the following? W) 1 nanometer X) 100 nanometers Y) 10 microns Z) 1 millimeter"
+        ],
+        "options": [
+          "W) 1 nanometer",
+          "X) 100 nanometers",
+          "Y) 10 microns",
+          "Z) 1 millimeter"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks for the smallest four-digit number with three 5 digits divisible by 9; key 3,555 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives northward 0.8 m/s for 30 minutes; displacement 1440 m matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 specifies x-axis temperature, y-axis metabolic rate, interval 10–20°C, and all four animals; key Y) Iguana matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists surface tension, electronegativity, boiling point, and freezing point; key W) Surface tension matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks what Jocelyn Bell discovered in 1967 and says not to accept neutron star; PULSAR matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists A, O, B, R horizons for unweathered bedrock; key Z) R matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 gives trapezoid angles 64° and 107°; other angles 73 and 116 in either order match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 compares the 9-W LED to the 60-W bulb over 10 minutes; key 67 minutes matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 retains [THIGH-meen] and keys ADENINE (accept: A) for thymine’s DNA pair."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 prints the accepted molecular formula N₂O₃ for dinitrogen trioxide; corpus has separated both subscripts into baseline fragments.",
+      "before": {
+        "answers": [
+          "N O (ACCEPT: DINITROGEN TRIOXIDE) 2 3"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "N<sub>2</sub>O<sub>3</sub> (ACCEPT: DINITROGEN TRIOXIDE)"
+        ],
+        "answers_sanitized": [
+          "N2O3 (ACCEPT: DINITROGEN TRIOXIDE)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 lists sulfur dioxide, nitrogen dioxide, hydrogen sulfide, and dihydrogen; key Y) Hydrogen sulfide matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 retains [poly-feh-NOH-lik] and [GWYE-cole], and all four paper-byproduct choices; key Y) Lignin matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 visibly prints x² + 28x − 17; corpus flattened the superscript 2 into a separated baseline digit.",
+      "before": {
+        "parts": [
+          "What value of x minimizes the function f of x equals x 2 + 28x – 17?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What value of x minimizes the function f of x equals x<sup>2</sup> + 28x − 17?"
+        ],
+        "parts_sanitized": [
+          "What value of x minimizes the function f of x equals x squared + 28x − 17?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 gives rest, 5 seconds, and 50 meters for constant acceleration; key 4 m/s² matches."
+    }
+  ],
+  "packetIssues": []
+}

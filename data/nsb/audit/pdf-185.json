@@ -1,0 +1,573 @@
+{
+  "packetIndex": 185,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-4.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 185 PDF page 1 shows toss-up 1 beginning “During a Science Bowl study session, the team captain pushed a textboo”; checked its full wording and answer “2.7” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 185 PDF page 1 shows toss-up 2 beginning “What type of volcano is characterized by gentle eruptions and large, g”; checked its full wording, all choices, and answer “Z) SHIELD” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 185 PDF page 2 shows toss-up 3 beginning “An artist creates the background for a painting by placing a circle in”; checked its full wording and answer “96” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 185 PDF page 2 shows toss-up 4 beginning “How many electrons does the beryllium [beh-RILL-ee-um] two plus cation”; checked its full wording and answer “TWO” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 185 PDF page 3 shows toss-up 5 beginning “Fermilab’s [FUR-mee-labs] MicroBooNE collaboration is currently operat”; checked its full wording and answer “NEUTRINO” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 185 PDF page 3 shows toss-up 6 beginning “Bacteria at deep sea vents obtain energy by oxidizing hydrogen sulfide”; checked its full wording, all choices, and answer “X) CHEMOAUTOTROPHIC” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 185 PDF page 4 shows toss-up 7 beginning “How many aluminum atoms are in one formula unit of the compound alumin”; checked its full wording and answer “2” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 185 PDF page 4 shows toss-up 8 beginning “A segment has its midpoint at (4, 2) and one endpoint at (1, 7). What ”; checked its full wording and answer “(7, –3) (ACCEPT: x = 7 AND y = –3)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 185 PDF page 5 shows toss-up 9 beginning “What is the function of the operculum [oh-PURR-kyoo-lum] in fish?<br>W”; checked its full wording, all choices, and answer “X) PROTECTION OF GILLS” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 185 PDF page 5 shows toss-up 10 beginning “Lead-acid batteries are commonly found in cars. In these batteries, wh”; checked its full wording and answer “SULFURIC ACID (ACCEPT: H<sub>2</sub> SO<sub>4</sub> )” against the source.",
+      "before": {
+        "answer": "SULFURIC ACID (ACCEPT: H<sub>2</sub> SO<sub>4</sub> )"
+      },
+      "changes": {
+        "answer": "SULFURIC ACID (ACCEPT: H<sub>2</sub>SO<sub>4</sub>)",
+        "answer_sanitized": "SULFURIC ACID (ACCEPT: H2SO4)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 185 PDF page 6 shows toss-up 11 beginning “The Dalton minimum and Modern maximum all correspond to the occurence ”; checked its full wording and answer “SUNSPOTS” against the source.",
+      "before": {
+        "question": "The Dalton minimum and Modern maximum all correspond to the occurence of what?"
+      },
+      "changes": {
+        "question": "The Dalton minimum and Modern maximum all correspond to the occurrence of what?",
+        "question_sanitized": "The Dalton minimum and Modern maximum all correspond to the occurrence of what?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 185 PDF page 6 shows toss-up 12 beginning “What scientist is famous for discovering X-rays?”; checked its full wording and answer “WILHELM ROENTGEN (ACCEPT: ROENTGEN)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 185 PDF page 7 shows toss-up 13 beginning “What animal phylum [FYE-lum] has the greatest number of identified spe”; checked its full wording and answer “ARTHROPODA” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 185 PDF page 7 shows toss-up 14 beginning “What is the term for the steady downhill flow of soil?”; checked its full wording and answer “CREEP” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 185 PDF page 8 shows toss-up 15 beginning “Researchers at the Advanced Photon Source have been studying a class o”; checked its full wording and answer “CURIE TEMPERATURE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 185 PDF page 8 shows toss-up 16 beginning “According to Boyle&amp;apos;s Law, the volume of a gas is linearly rel”; checked its full wording, all choices, and answer “Y) ONE OVER PRESSURE” against the source.",
+      "before": {
+        "question": "According to Boyle&amp;apos;s Law, the volume of a gas is linearly related to what quantity?<br>W) Pressure<br>X) Pressure squared<br>Y) One over pressure<br>Z) One over pressure squared"
+      },
+      "changes": {
+        "question": "According to Boyle&apos;s Law, the volume of a gas is linearly related to what quantity?<br>W) Pressure<br>X) Pressure squared<br>Y) One over pressure<br>Z) One over pressure squared",
+        "question_sanitized": "According to Boyle's Law, the volume of a gas is linearly related to what quantity? W) Pressure X) Pressure squared Y) One over pressure Z) One over pressure squared"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 185 PDF page 9 shows toss-up 17 beginning “What is the second derivative with respect to x of 6x 2 – 15 evaluated”; checked its full wording and answer “12” against the source.",
+      "before": {
+        "question": "What is the second derivative with respect to x of 6x 2 – 15 evaluated at x = 7?"
+      },
+      "changes": {
+        "question": "What is the second derivative with respect to x of 6x<sup>2</sup> – 15 evaluated at x = 7?",
+        "question_sanitized": "What is the second derivative with respect to x of 6x squared – 15 evaluated at x = 7?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 185 PDF page 9 shows toss-up 18 beginning “Which of the following is an example of an action that demonstrates ne”; checked its full wording, all choices, and answer “Z) GENTLY LOWERING A BOOK TO THE GROUND” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 185 PDF page 10 shows toss-up 19 beginning “Mast cells are responsible for releasing what important signaling mole”; checked its full wording and answer “HISTAMINE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 185 PDF page 10 shows toss-up 20 beginning “How many known objects in our solar system have a radius that is large”; checked its full wording and answer “FIVE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 185 PDF page 11 shows toss-up 21 beginning “In the Clemmensen reduction, zinc amalgam is used to reduce ketones [K”; checked its full wording and answer “MERCURY” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 185 PDF page 11 shows toss-up 22 beginning “Hubble’s law states that there is a direct correlation between the dis”; checked its full wording, all choices, and answer “W) RECESSIONAL VELOCITY” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 185 PDF page 12 shows toss-up 23 beginning “Solve the following equation for x: the absolute value of open parenth”; checked its full wording and answer “–2 AND 8” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 185 PDF page 1 shows bonus 1 beginning “A 15-kilogram fish is swimming at 2 meters per second and eats a small”; checked its full wording and answer “1.5” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 185 PDF page 1 shows bonus 2 beginning “Order the following three cloud types in increasing order of elevation”; checked its full wording and answer “3, 1, 2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 185 PDF page 2 shows bonus 3 beginning “Solve the following equation for x over the real numbers: 32 to the po”; checked its full wording and answer “–1/3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 185 PDF page 2 shows bonus 4 beginning “What element is formed when nitrogen-13 decays by positron emission?”; checked its full wording and answer “CARBON” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 185 PDF page 3 shows bonus 5 beginning “Scientists at Los Alamos National Lab are currently using computationa”; checked its full wording and answer “3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 185 PDF page 3 shows bonus 6 beginning “Human vision occurs due to the photoisomerization [photo-eye-saw-mer-i”; checked its full wording and answer “RETINAL (ACCEPT: RETINALDEHYDE, DO NOT ACCEPT: RETINOL – if you can tell the difference)” against the source.",
+      "before": {
+        "parts": [
+          "Human vision occurs due to the photoisomerization [photo-eye-saw-mer-ih- ZAY-shun] of what molecule?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Human vision occurs due to the photoisomerization [photo-eye-saw-mer-ih-ZAY-shun] of what molecule?"
+        ],
+        "parts_sanitized": [
+          "Human vision occurs due to the photoisomerization [photo-eye-saw-mer-ih-ZAY-shun] of what molecule?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 185 PDF page 4 shows bonus 7 beginning “Which of the following statements concerning pressure-temperature phas”; checked its full wording, all choices, and answer “W) THE SLOPE OF THE LIQUID-SOLID COEXISTENCE CURVE IS POSITIVE IF THE SOLID FLOATS ON THE LIQUID” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 185 PDF page 4 shows bonus 8 beginning “What is the sum from n = 1 to 6 of 3n 2 ?”; checked its full wording and answer “273” against the source.",
+      "before": {
+        "parts": [
+          "What is the sum from n = 1 to 6 of 3n 2 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the sum from n = 1 to 6 of 3n<sup>2</sup>?"
+        ],
+        "parts_sanitized": [
+          "What is the sum from n = 1 to 6 of 3n squared?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 185 PDF page 5 shows bonus 9 beginning “What is the percent probability that a child inherits a mitochondrial ”; checked its full wording and answer “0” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 185 PDF page 5 shows bonus 10 beginning “The Fermilab PICO [PEE-koh] collaboration is currently studying the hy”; checked its full wording and answer “3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 185 PDF page 6 shows bonus 11 beginning “What is the term for a spherically-shaped, dense group of up to a mill”; checked its full wording and answer “GLOBULAR CLUSTER” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 185 PDF page 6 shows bonus 12 beginning “A meteor strikes the Earth and ejects a rock to a final speed of 8 kil”; checked its full wording and answer “6,400” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 185 PDF page 7 shows bonus 13 beginning “Which of the following is not a characteristic of paedomorphic [ped-oh”; checked its full wording, all choices, and answer “W) DELAYED SEXUAL MATURITY” against the source.",
+      "before": {
+        "parts": [
+          "Which of the following is not a characteristic of paedomorphic [ped-oh- MOOR-fik] amphibians?<br>W) Delayed sexual maturity<br>X) Aquatic life<br>Y) External gills<br>Z) Tadpole-like tail"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is not a characteristic of paedomorphic [ped-oh-MOOR-fik] amphibians?<br>W) Delayed sexual maturity<br>X) Aquatic life<br>Y) External gills<br>Z) Tadpole-like tail"
+        ],
+        "parts_sanitized": [
+          "Which of the following is not a characteristic of paedomorphic [ped-oh-MOOR-fik] amphibians? W) Delayed sexual maturity X) Aquatic life Y) External gills Z) Tadpole-like tail"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 185 PDF page 7 shows bonus 14 beginning “What is the name for the area of low pressure encircling Earth near th”; checked its full wording and answer “INTERTROPICAL CONVERGENCE ZONE (ACCEPT ITCZ)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 185 PDF page 8 shows bonus 15 beginning “Researchers at Ames Lab have made a double salt consisting of two anio”; checked its full wording and answer “CESIUM [SEEZ-ee-um]” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 185 PDF page 8 shows bonus 16 beginning “Which of the following statements is the best explanation for why the ”; checked its full wording, all choices, and answer “X) INCREASE IN EFFECTIVE NUCLEAR CHARGE AT THE VALENCE SHELL” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 185 PDF page 9 shows bonus 17 beginning “How many points of intersection are there for the graphs of y = 3 and ”; checked its full wording and answer “1” against the source.",
+      "before": {
+        "parts": [
+          "How many points of intersection are there for the graphs of y = 3 and y = x 2 – 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many points of intersection are there for the graphs of y = 3<sup>x</sup> and y = x<sup>2</sup> – 3?"
+        ],
+        "parts_sanitized": [
+          "How many points of intersection are there for the graphs of y = 3^x and y = x^2 – 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 185 PDF page 9 shows bonus 18 beginning “A hunter fires a bullet at 300 meters per second at an angle 30 degree”; checked its full wording and answer “15” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 185 PDF page 10 shows bonus 19 beginning “In order for an animal to be classified as a coelomate [SEEL-oh-mate],”; checked its full wording and answer “MESODERM” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 185 PDF page 10 shows bonus 20 beginning “Identify all of the following three types of objects that could be con”; checked its full wording and answer “ALL” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 185 PDF page 11 shows bonus 21 beginning “Identify all of the following three statements that are true regarding”; checked its full wording and answer “1” against the source.",
+      "before": {
+        "parts": [
+          "Identify all of the following three statements that are true regarding enthalpies of reaction: 1) For the formation of water from oxygen and hydrogen, the enthalpy [EN-thul- pee] change depends on the final phase of the water; 2) For the combustion of methane, the forward reaction and the reverse reaction have the same enthalpy; 3) Enthalpy is an intensive property."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three statements that are true regarding enthalpies of reaction: 1) For the formation of water from oxygen and hydrogen, the enthalpy [EN-thul-pee] change depends on the final phase of the water; 2) For the combustion of methane, the forward reaction and the reverse reaction have the same enthalpy; 3) Enthalpy is an intensive property."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three statements that are true regarding enthalpies of reaction: 1) For the formation of water from oxygen and hydrogen, the enthalpy [EN-thul-pee] change depends on the final phase of the water; 2) For the combustion of methane, the forward reaction and the reverse reaction have the same enthalpy; 3) Enthalpy is an intensive property."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 185 PDF page 11 shows bonus 22 beginning “A track star runs exactly one lap around a circular track at a constan”; checked its full wording and answer “1” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 185 PDF page 12 shows bonus 23 beginning “What is the derivative evaluated at x = 5 of the fraction with numerat”; checked its full wording and answer “12” against the source.",
+      "before": {
+        "parts": [
+          "What is the derivative evaluated at x = 5 of the fraction with numerator x 3 – 8 and denominator x – 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the derivative evaluated at x = 5 of the fraction with numerator x<sup>3</sup> – 8 and denominator x – 2?"
+        ],
+        "parts_sanitized": [
+          "What is the derivative evaluated at x = 5 of the fraction with numerator x cubed – 8 and denominator x – 2?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

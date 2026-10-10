@@ -1,0 +1,505 @@
+{
+  "packetIndex": 159,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/12A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Physics – Short Answer Consider a simple parallel RL circuit connected to an AC power; ANSWER: 40 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Earth and Space – Multiple Choice Why was the 2010 Haiti earthquake registered so high on; ANSWER: Z) HAITI HAS A POORLY DEVELOPED INFRASTRUCTURE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Energy – Short Answer After a nuclear reactor is shut down and fission stops, the fuel; ANSWER: DECAY HEAT matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 equation is x² + 10x + y² + 16 = 0; both 2s are superscript and all four options/answer W match.",
+      "before": {
+        "question": "Which of the following best describes the type of conic section represented by the equation x2 + 10x + y2 + 16 equals zero?<br>W) Circle<br>X) Ellipse<br>Y) Hyperbola<br>Z) Parabola"
+      },
+      "changes": {
+        "question": "Which of the following best describes the type of conic section represented by the equation x<sup>2</sup> + 10x + y<sup>2</sup> + 16 = 0?<br>W) Circle<br>X) Ellipse<br>Y) Hyperbola<br>Z) Parabola",
+        "question_sanitized": "Which of the following best describes the type of conic section represented by the equation x² + 10x + y² + 16 = 0? W) Circle X) Ellipse Y) Hyperbola Z) Parabola"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Chemistry – Short Answer What class of molecules is characterized by the functional group; ANSWER: CARBOXYLIC ACID (DO NOT ACCEPT: ORGANIC ACID) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Physics – Short Answer What is the effect by which a material with a small positive magnetic; ANSWER: PARAMAGNETISM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Short Answer What heteroatom is characteristically found in thiols [THIGH-; ANSWER: SULFUR matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 prints the product cosine 56° cosine 23° minus sine 23° sine 56°; product grouping is explicit in the repaired text, and answer is Z) cosine 79°.",
+      "before": {
+        "question": "Which of the following is equivalent to cosine56°cosine23° – sine23°sine56°?<br>W) sine 33°<br>X) cosine 33°<br>Y) sine 79°<br>Z) cosine 79°"
+      },
+      "changes": {
+        "question": "Which of the following is equivalent to cosine 56° × cosine 23° − sine 23° × sine 56°?<br>W) sine 33°<br>X) cosine 33°<br>Y) sine 79°<br>Z) cosine 79°",
+        "question_sanitized": "Which of the following is equivalent to cosine 56° × cosine 23° − sine 23° × sine 56°? W) sine 33° X) cosine 33° Y) sine 79° Z) cosine 79°"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Earth and Space – Short Answer What fast-flowing, narrow currents form above sharp air; ANSWER: JET STREAMS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Biology – Short Answer Identify all of the following three structures that can be found in; ANSWER: NONE OF THEM matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Energy – Multiple Choice Which of the following experimental batteries is able to charge in; ANSWER: Y) ALUMINUM ION matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Earth and Space – Multiple Choice Which of the following is NOT true of the lunar maria?;  matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Energy – Short Answer The Oak Ridge National Laboratory revealed an electric vehicle,; ANSWER: 3D PRINTING (ACCEPT: ADDITIVE MANUFACTURING, ADDITIVE PROCESS) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Physics – Short Answer A car is traveling at 30 meters per second. After having traveled 160; ANSWER: 5 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Chemistry – Multiple Choice Which of the following is TRUE concerning the hydroxide ion; ANSWER: X) HYDROSULFIDE IS MORE POLARIZABLE AND LESS BASIC THAN matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Biology – Short Answer Order the following three parts of the digestive tract from first to; ANSWER: 3, 1, 2 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Math – Short Answer If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS-; ANSWER: 84 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Physics – Multiple Choice In a DC/DC converter, the electrical energy is stored in which; ANSWER: W) CAPACITORS AND INDUCTORS matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Biology – Multiple Choice p53 is a protein associated with which of the following; ANSWER: W) CELL CYCLE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Chemistry – Short Answer How many valence electrons does atomic silicon have?; ANSWER: FOUR matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Math – Short Answer What is the 4th term of the geometric series with first term 400 and; ANSWER: 10.8 (ACCEPT: 10 4/5, 54/5) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Earth and Space – Multiple Choice Which of the following metamorphic rocks cannot; ANSWER: W) ANTHRACITE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Physics – Multiple Choice An object is thrown vertically upward at time t = 0, at a speed of 40; ANSWER: Y) 10 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p.1 confirms Earth and Space – Short Answer Phosphorus is an essential nutrient for phytoplankton.; ANSWER: 1 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p.2 confirms Biology – Short Answer The products of the reaction catalyzed by pancreatic lipase are fatty; ANSWER: GLYCEROL (ACCEPT: MONOACYLGLYCEROL, MONOGLYCERIDE, matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 confirms Math – Short Answer If the third derivative of a position function can be described by the; ANSWER: 1/6 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p.3 prints the equilibrium constant as 5 × 10⁻² at 700 kelvins; −2 is superscript.",
+      "before": {
+        "parts": [
+          "The reaction of 1 mole of nitrogen gas with 3 moles of hydrogen gas to form two moles of ammonia has an equilibrium constant of 5 x 10-2 at 700 kelvins. What is the equilibrium constant of the decomposition reaction of 4 moles of ammonia to form 6 moles of hydrogen gas and 2 moles of nitrogen gas, at the same temperature and volume?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The reaction of 1 mole of nitrogen gas with 3 moles of hydrogen gas to form two moles of ammonia has an equilibrium constant of 5 × 10<sup>−2</sup> at 700 kelvins. What is the equilibrium constant of the decomposition reaction of 4 moles of ammonia to form 6 moles of hydrogen gas and 2 moles of nitrogen gas, at the same temperature and volume?"
+        ],
+        "parts_sanitized": [
+          "The reaction of 1 mole of nitrogen gas with 3 moles of hydrogen gas to form two moles of ammonia has an equilibrium constant of 5 × 10⁻² at 700 kelvins. What is the equilibrium constant of the decomposition reaction of 4 moles of ammonia to form 6 moles of hydrogen gas and 2 moles of nitrogen gas, at the same temperature and volume?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Physics – Short Answer Also known as braking radiation, what effect occurs when a charged; ANSWER: BREMSSTRAHLUNG matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p.4 confirms Chemistry – Short Answer How many orbitals are in subshells with the; ANSWER: ONE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p.5 confirms Math – Short Answer What are the mean and the median, respectively, of the prime numbers; ANSWER: MEAN 100/9 (ACCEPT: 11 1/9), MEDIAN 11 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Biology – Short Answer What vitamin, essential to humans, is involved in collagen; ANSWER: VITAMIN C (ACCEPT: ASCORBATE, ASCORBIC ACID) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p.6 confirms Energy – Multiple Choice The Montreal Protocol effectively reduced the use of CFCs that; ANSWER: W) HFCs matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 confirms Earth and Space – Short Answer Order the following three groups of photosynthetic; ANSWER: 1, 3, 2 (CYANOBACTERIA, FERNS, C4 PLANTS) matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p.7 prints CO₂ with subscript 2 in each occurrence; options and answer Y) oil recovery match.",
+      "before": {
+        "parts": [
+          "Instead of simply storing CO2 via carbon capture and storage projects, engineers have developed a use for the captured CO2. How is the captured CO2 being used?<br>W) Generation of electricity<br>X) Heating of homes<br>Y) Oil recovery from mature wells<br>Z) Plant growth in greenhouses"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Instead of simply storing CO<sub>2</sub> via carbon capture and storage projects, engineers have developed a use for the captured CO<sub>2</sub>. How is the captured CO<sub>2</sub> being used?<br>W) Generation of electricity<br>X) Heating of homes<br>Y) Oil recovery from mature wells<br>Z) Plant growth in greenhouses"
+        ],
+        "parts_sanitized": [
+          "Instead of simply storing CO₂ via carbon capture and storage projects, engineers have developed a use for the captured CO₂. How is the captured CO₂ being used? W) Generation of electricity X) Heating of homes Y) Oil recovery from mature wells Z) Plant growth in greenhouses"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Physics – Multiple Choice Eddy currents are circular electric currents induced by a changing; ANSWER: Z) DETECTING COUNTERFEIT BILLS IN VENDING MACHINES matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p.8 confirms Chemistry – Short Answer Assume that a 0.1 molar solution of a certain weak acid has a pH; ANSWER: 7 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 confirms Biology – Short Answer What amino acid possesses a secondary amine functionality and as a; ANSWER: PROLINE matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p.9 prints x³ − 2x² + x − 2 = 0; powers and four options, including ½, match the source.",
+      "before": {
+        "parts": [
+          "According to the rational root theorem, which of the following is NOT a possible solution to the equation x3 – 2x2 + x – 2 = 0?<br>W) –1<br>X) ½<br>Y) 1<br>Z) 2"
+        ],
+        "options": [
+          "W) –1",
+          "X) ½",
+          "Y) 1",
+          "Z) 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "According to the rational root theorem, which of the following is NOT a possible solution to the equation x<sup>3</sup> − 2x<sup>2</sup> + x − 2 = 0?<br>W) −1<br>X) ½<br>Y) 1<br>Z) 2"
+        ],
+        "parts_sanitized": [
+          "According to the rational root theorem, which of the following is NOT a possible solution to the equation x³ − 2x² + x − 2 = 0? W) −1 X) ½ Y) 1 Z) 2"
+        ],
+        "options": [
+          "W) −1",
+          "X) ½",
+          "Y) 1",
+          "Z) 2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p.10 confirms Physics – Multiple Choice What is the equivalent resistance, to the nearest tenth of an ohm,; ANSWER: X) 1.4 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 confirms Chemistry – Short Answer Identify all of the following three quantities that increase when; ANSWER: 1 AND 3 matches the print after reviewing the complete prompt/options."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p.11 expression has i², i³, and i⁴; all three powers are superscript and answer is 2 − 2i.",
+      "before": {
+        "parts": [
+          "Simplify the following expression involving the complex number i: i + 2i2 + 3i3 + 4i4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify the following expression involving the complex number i: i + 2i<sup>2</sup> + 3i<sup>3</sup> + 4i<sup>4</sup>"
+        ],
+        "parts_sanitized": [
+          "Simplify the following expression involving the complex number i: i + 2i² + 3i³ + 4i⁴"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p.12 confirms Earth and Space – Multiple Choice Approximately how many meters would global average; ANSWER: Y) 70 matches the print after reviewing the complete prompt/options."
+    }
+  ],
+  "packetIssues": []
+}

@@ -80,3 +80,22 @@ test('sanitized text retains mathematical comparison signs as text', () => {
   assert.equal(packet.tossups[0].question_sanitized, 'Is x < 3 and y > 5?');
   assert.equal(packet.bonuses[0].parts_sanitized[0], 'x < 3 and y > 5');
 });
+
+test('sanitized math preserves fractional and nested powers, charges, dots, and primes', () => {
+  const packet = normalizePacketJson({
+    setName: 'Sample Set 1',
+    packetName: 'Round 1',
+    packetNumber: 1,
+    difficulty: 0,
+    data: {
+      tossups: [{
+        question: 'a<sup>b<sup>2</sup> + b</sup> (4 × 10<sup>4</sup>)<sup>1/2</sup> OH<sup>−</sup> f″ x⋅y 5<sup>th</sup>',
+        answer: 'x<sub>n+1</sub>',
+        category: 'Math'
+      }],
+      bonuses: []
+    }
+  });
+  assert.equal(packet.tossups[0].question_sanitized, 'a^(b² + b) (4 × 10⁴)^(1/2) OH⁻ f″ x⋅y 5th');
+  assert.equal(packet.tossups[0].answer_sanitized, 'x_(n+1)');
+});

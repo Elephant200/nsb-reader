@@ -1,0 +1,504 @@
+{
+  "packetIndex": 201,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-3A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: full source prompt/options and answer ‘SOLENOID’ match tossup 1 (Energy – Short Answer Scientists at Fermi National Accelerator Lab are upgrading the)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full source prompt/options and answer ‘SATURATED (ACCEPT: ALKANE)’ match tossup 4 (Chemistry – Short Answer     What term is used to describe a hydrocarbon that only possess)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full source prompt/options and answer ‘13.6’ match tossup 5 (Physics – Short Answer Jan drops a football off a cliff and notes that it takes 4 seconds )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full source prompt/options and answer ‘10/9 (ACCEPT: 1 1/9)’ match tossup 6 (Math – Short Answer What is 4/15 divided by 6/25?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source prints Raoult's [rah-OOLZ] law; all four choices and W) WATER AND ACETONE match.",
+      "before": {
+        "question": "Which of the following mixtures of solvents would have a negative deviation from Raoult&amp;apos;s [rah-OOLZ] law?<br>W) Water and acetone<br>X) Water and ethanol<br>Y) Hexane and acetone<br>Z) Hexane and pentane"
+      },
+      "changes": {
+        "question": "Which of the following mixtures of solvents would have a negative deviation from Raoult's [rah-OOLZ] law?<br>W) Water and acetone<br>X) Water and ethanol<br>Y) Hexane and acetone<br>Z) Hexane and pentane"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source prompt/options and answer ‘3’ match tossup 9 (Physics – Short Answer Identify all of the following three statements that are true of)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source prompt/options and answer ‘Z) CENOZOIC’ match tossup 10 (Earth and Space – Multiple Choice Which of the following is NOT a geologic period?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full source prompt/options and answer ‘4 (ACCEPT: FOURTH)’ match tossup 11 (Math – Short Answer The graph of the equation y = 4x + 5 has points in all quadrants)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full source prompt/options and answer ‘THERMOPHILES’ match tossup 12 (Energy – Short Answer Researchers at the Joint BioEnergy Institute are searching for)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full source prompt/options and answer ‘SALT BRIDGE (ACCEPT: POROUS DISK)’ match tossup 13 (Chemistry – Short Answer What part of a galvanic [gal-VAN-ik] cell allows ions to flow)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source derivative prompt prints 2x³ + 4x − 7; restored the raised power.",
+      "before": {
+        "question": "What is the second derivative with respect to x of 2x 3 + 4x – 7?"
+      },
+      "changes": {
+        "question": "What is the second derivative with respect to x of 2x<sup>3</sup> + 4x – 7?",
+        "question_sanitized": "What is the second derivative with respect to x of 2x³ + 4x – 7?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source prompt/options and answer ‘ONE (ACCEPT: ONE TO ONE)’ match tossup 15 (Energy – Short Answer Observations made with the Laser)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source prompt/options and answer ‘1, 2’ match tossup 16 (Physics – Short Answer Identify all of the following three statements that are true about)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full source prompt/options and answer ‘Z) LATERAL CONTINUITY’ match tossup 17 (Earth and Space – Multiple Choice What principle of geology states that sedimentary beds)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10 prints ‘ANSWER: (−7, 4) (ACCEPT: x = −7 AND y = 4))’ with an extra terminal close parenthesis. Remove only that mechanical extra delimiter while preserving the keyed coordinate and both accepted alternatives.",
+      "before": {
+        "answer": "(–7, 4) (ACCEPT: x = –7 AND y = 4))"
+      },
+      "changes": {
+        "answer": "(−7, 4) (ACCEPT: x = −7 AND y = 4)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full source prompt/options and answer ‘√3 (ACCEPT: √3 TO ONE)’ match tossup 21 (Physics – Short Answer Planet X has the same mass as Earth but one-third of its surface)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full source prompt/options and answer ‘ELECTROPHILE’ match tossup 22 (Chemistry – Short Answer In organic chemistry, what is the term for a species with empty)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source acceptance prints O₂ with subscript 2; corrected the space-separated extraction while preserving the oxygen answer.",
+      "before": {
+        "answers": [
+          "OXYGEN (ACCEPT: O ) 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "OXYGEN (ACCEPT: O<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "OXYGEN (ACCEPT: O₂)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: full source prompt/options and answer ‘13 2019 Regional Science Bowl – Round 3A                                                        Page 1’ match bonuse 2 (Earth and Space – Short Answer Through how many constellations of the night sky does)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full source prompt/options and answer ‘PARTHENOGENESIS’ match bonuse 3 (Biology – Short Answer Rotifers can reproduce asexually by having a female organism)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: molecular formula answer visibly prints P₄O₆; corrected the extraction order/spaces and retained exact atom counts.",
+      "before": {
+        "answers": [
+          "P O 4 6"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "P<sub>4</sub>O<sub>6</sub>"
+        ],
+        "answers_sanitized": [
+          "P₄O₆"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full source prompt/options and answer ‘100’ match bonuse 5 (Physics – Short Answer A disk is spinning at 950 rotations per minute. To the nearest ten)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source proportionality is to y³; the given values and answer 64/9 with accepted 7 1/9 match.",
+      "before": {
+        "parts": [
+          "If x is inversely proportional to y 3 and if x = 3 when y = 4, what is the value of x when y = 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If x is inversely proportional to y<sup>3</sup> and if x = 3 when y = 4, what is the value of x when y = 3?"
+        ],
+        "parts_sanitized": [
+          "If x is inversely proportional to y³ and if x = 3 when y = 4, what is the value of x when y = 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full source prompt/options and answer ‘Z) EPINEPHRINE’ match bonuse 7 (Biology – Multiple Choice Alpha- and beta-adrenergic agonists are medications whose)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full source prompt/options and answer ‘2, 1, 3 2019 Regional Science Bowl – Round 3A                                                  Page 4’ match bonuse 8 (Chemistry – Short Answer Rank the following three alkanes in increasing order of their)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source prompt/options and answer ‘300’ match bonuse 9 (Physics – Short Answer Kate pushes a box 3 meters horizontally by applying a 200-newton)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source prompt/options and answer ‘Y) B 2019 Regional Science Bowl – Round 3A                                                        Page 5’ match bonuse 10 (Earth and Space – Multiple Choice Which soil horizon typically contains clay transported)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source writes the ordinal ‘66th’ with ‘th’ raised after 66; restored the superscript cue and kept the sentence.",
+      "before": {
+        "parts": [
+          "What is the units digit of 9 to the 66 th power?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the units digit of 9 to the 66<sup>th</sup> power?"
+        ],
+        "parts_sanitized": [
+          "What is the units digit of 9 to the 66ᵗʰ power?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source acceptance prints H₂O with subscript 2; corrected spaces in the formula while retaining the acceptance wording.",
+      "before": {
+        "answers": [
+          "WATER (ACCEPT: H O) 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "WATER (ACCEPT: H<sub>2</sub>O)"
+        ],
+        "answers_sanitized": [
+          "WATER (ACCEPT: H₂O)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full source prompt/options and answer ‘3’ match bonuse 13 (Chemistry – Short Answer    How many radial nodes are in a 5p orbital?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full source prompt/options and answer ‘5040 2019 Regional Science Bowl – Round 3A                                                   Page 7’ match bonuse 14 (Math – Short Answer A class of 10 students selects a different student of the month each)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source prompt/options and answer ‘Y) XENON’ match bonuse 15 (Energy – Multiple Choice In a nuclear reactor, the consumption of uranium fuel results in)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source prompt/options and answer ‘3 2019 Regional Science Bowl – Round 3A                                                        Page 8’ match bonuse 16 (Physics – Short Answer Identify all of the following three quantities associated with a te)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full source prompt/options and answer ‘2’ match bonuse 17 (Earth and Space – Short Answer Identify all of the following three types of storms that ar)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full source prompt/options and answer ‘CHITIN 2019 Regional Science Bowl – Round 3A                                                    Page 9’ match bonuse 18 (Biology – Short Answer     Chytrid [KIH-trid] cell walls are supported by what polymer?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source numerator is x² − 49 and denominator is 2x² + 9x − 35; full prose fraction wording preserved with powers restored.",
+      "before": {
+        "parts": [
+          "For what values of c is x = c a vertical asymptote for the function f of x = the fraction with numerator x 2 – 49 and denominator 2x 2 + 9x – 35?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For what values of c is x = c a vertical asymptote for the function f of x = the fraction with numerator x<sup>2</sup> – 49 and denominator 2x<sup>2</sup> + 9x – 35?"
+        ],
+        "parts_sanitized": [
+          "For what values of c is x = c a vertical asymptote for the function f of x = the fraction with numerator x² – 49 and denominator 2x² + 9x – 35?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full source prompt/options and answer ‘3, 2, 1 2019 Regional Science Bowl – Round 3A                                                    Page 10’ match bonuse 20 (Biology – Short Answer Place the following three structures in the order in which air)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full source prompt/options and answer ‘ALL OF THEM’ match bonuse 21 (Physics – Short Answer Identify all of the following three statements that are true of)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full source prompt/options and answer ‘1, 2, 3 2019 Regional Science Bowl – Round 3A                                                          Page 11’ match bonuse 22 (Chemistry – Short Answer Rank the following three isotopes in terms of increasing)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: full source prompt/options and answer ‘POLARIS (ACCEPT: NORTH STAR, ALPHA URSAE MINORIS) 2019 Regional Science Bowl – Round 3A                                                     Page ’ match bonuse 23 (Earth and Space – Short Answer What prominent star in the night sky has the)."
+    }
+  ],
+  "packetIssues": []
+}

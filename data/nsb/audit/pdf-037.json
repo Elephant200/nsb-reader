@@ -1,0 +1,636 @@
+{
+  "packetIndex": 37,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-6C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows log₄(53) converted to log(53)/log(4), accepting log₁₀(53)/log₁₀(4); the corpus mixed question and answer fragments.",
+      "before": {
+        "question": "Convert log base 4 of 53 into a base 10 expression: log 53 log<sub>10</sub> 53",
+        "answer": "(ACCEPT: ) log 4 log<sub>10</sub> 4"
+      },
+      "changes": {
+        "question": "Convert log base 4 of 53 into a base 10 expression:",
+        "answer": "<span class=\"nsb-fraction\"><span>log 53</span><span>log 4</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>log<sub>10</sub> 53</span><span>log<sub>10</sub> 4</span></span>)",
+        "answer_sanitized": "(log 53)/(log 4) (ACCEPT: (log_10 53)/(log_10 4))"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows x² − 20x + 19 = 0; the corpus omitted the exponent 2.",
+      "before": {
+        "question": "Solve the following equation for x: 2 x – 20x + 19 = 0"
+      },
+      "changes": {
+        "question": "Solve the following equation for x: x<sup>2</sup> − 20x + 19 = 0",
+        "question_sanitized": "Solve the following equation for x: x^2 - 20x + 19 = 0"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows 1 × 10⁶ or 10⁶ as accepted forms; stray exponent digits in the corpus were detached.",
+      "before": {
+        "question": "One metric ton equals how many grams? 6 6",
+        "answer": "ONE MILLION (ACCEPT: 1 × 10 or 10 )"
+      },
+      "changes": {
+        "question": "One metric ton equals how many grams?",
+        "answer": "ONE MILLION (ACCEPT: 1 × 10<sup>6</sup> or 10<sup>6</sup>)",
+        "answer_sanitized": "ONE MILLION (ACCEPT: 1 × 10^6 or 10^6)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “20th century”; the corpus detached the superscript ordinal from the text. The preceding source wording reads “was widely used.”",
+      "before": {
+        "question": "What substance made of several fibrous materials was th widely used in the 20 century for its heat resistant properties but is now banned because it can cause lung cancer when inhaled?"
+      },
+      "changes": {
+        "question": "What substance made of several fibrous materials was <sup>th</sup> widely used in the 20<sup>th</sup> century for its heat resistant properties but is now banned because it can cause lung cancer when inhaled?",
+        "question_sanitized": "What substance made of several fibrous materials was widely used in the 20th century for its heat resistant properties but is now banned because it can cause lung cancer when inhaled?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows no trailing 5 in the prompt, gives 5.4 × 10⁵ as the accepted notation, and prints “lat heat” with vap as a subscript.",
+      "before": {
+        "parts": [
+          "If you were to evaporate 1 liter or kilogram of water, how many calories of latent heat are stored in the vapor? 5"
+        ],
+        "answers": [
+          "540,000 (ACCEPT: 5.4 × 10 ) vap"
+        ],
+        "notes": [
+          "(Solution: lat heat = 540cal/g)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If you were to evaporate 1 liter or kilogram of water, how many calories of latent heat are stored in the vapor?"
+        ],
+        "answers": [
+          "540,000 (ACCEPT: 5.4 × 10<sup>5</sup>)"
+        ],
+        "answers_sanitized": [
+          "540,000 (ACCEPT: 5.4 × 10^5)"
+        ],
+        "notes": [
+          "(Solution: lat heat<sub>vap</sub> = 540cal/g)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows −2√(80a²b⁴c³) and simplifies it to −8ab²c√(5c); the corpus lost radical signs and exponent layout.",
+      "before": {
+        "parts": [
+          "Express the following radical in its simplest radical form: 2 ( 80 a 2 b 4 c 3 ) !"
+        ],
+        "answers": [
+          "8 ab 2 c 5 c !"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Express the following radical in its simplest radical form: −2√(80a<sup>2</sup>b<sup>4</sup>c<sup>3</sup>)"
+        ],
+        "parts_sanitized": [
+          "Express the following radical in its simplest radical form: -2 times the square root of 80a^2b^4c^3"
+        ],
+        "answers": [
+          "−8ab<sup>2</sup>c√(5c)"
+        ],
+        "answers_sanitized": [
+          "-8ab^2c times the square root of (5c)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows (1/3)x + 2/3 < (5/6)x − 2 and x > 16/3, accepting x > 5 1/3.",
+      "before": {
+        "parts": [
+          "Solve the following inequality for x, giving your answer in fractional form: <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;3</span></span> x <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span> <span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;6</span></span> x 2 + &lt; ! 16"
+        ],
+        "answers": [
+          "x &gt; (ACCEPT: x &gt; 5 <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;3</span></span> ) 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following inequality for x, giving your answer in fractional form: <span class=\"nsb-fraction\"><span>1</span><span>3</span></span>x + <span class=\"nsb-fraction\"><span>2</span><span>3</span></span> &lt; <span class=\"nsb-fraction\"><span>5</span><span>6</span></span>x − 2"
+        ],
+        "parts_sanitized": [
+          "Solve the following inequality for x, giving your answer in fractional form: (1/3)x + 2/3 < (5/6)x - 2"
+        ],
+        "answers": [
+          "x &gt; <span class=\"nsb-fraction\"><span>16</span><span>3</span></span> (ACCEPT: x &gt; 5 <span class=\"nsb-fraction\"><span>1</span><span>3</span></span>)"
+        ],
+        "answers_sanitized": [
+          "x > 16/3 (ACCEPT: x > 5 1/3)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually compared its mathematical or chemical notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 gives answer 490 and uses m/s² in the solution; the corpus appended 2 to the answer and lost the exponent in the note.",
+      "before": {
+        "answers": [
+          "490 2"
+        ],
+        "notes": [
+          "(Solution: 0.1 × 500kg × 9.8m/s = 490N)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "490"
+        ],
+        "notes": [
+          "(Solution: 0.1 × 500kg × 9.8m/s<sup>2</sup> = 490N)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13 shows Na⁺ and configurations 1s²2s²2p⁶, accepting the equivalent with 3s⁰; the corpus flattened the charge and powers.",
+      "before": {
+        "parts": [
+          "In standard chemical nomenclature, what is the complete electron + configuration for the sodium ion, Na ? 2 2 6 2 2 6 0"
+        ],
+        "answers": [
+          "1s 2s 2p (ACCEPT: 1s 2s 2p 3s )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In standard chemical nomenclature, what is the complete electron configuration for the sodium ion, Na<sup>+</sup>?"
+        ],
+        "parts_sanitized": [
+          "In standard chemical nomenclature, what is the complete electron configuration for the sodium ion, Na+?"
+        ],
+        "answers": [
+          "1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup> (ACCEPT: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>0</sup>)"
+        ],
+        "answers_sanitized": [
+          "1s^2 2s^2 2p^6 (ACCEPT: 1s^2 2s^2 2p^6 3s^0)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,465 @@
+{
+  "packetIndex": 121,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-8-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly shows y − 2x = −2, y + x = 4, followed by exact cue [y minus two x equals negative two and y plus x equals four]; all four verbal choices and answer X) consistent, independent match. Corpus has an ambiguous spaced negative sign, so normalized the symbols and retained cue.",
+      "before": {
+        "question": "Which of the following best describes the system of linear equations: y – 2x = - 2, y + x = 4 [y minus two x equals negative two and y plus x equals four]?<br>W) Consistent, Dependent<br>X) Consistent, Independent<br>Y) Inconsistent, Dependent<br>Z) Inconsistent, Independent"
+      },
+      "changes": {
+        "question": "Which of the following best describes the system of linear equations: y − 2x = −2, y + x = 4 [y minus two x equals negative two and y plus x equals four]?<br>W) Consistent, Dependent<br>X) Consistent, Independent<br>Y) Inconsistent, Dependent<br>Z) Inconsistent, Independent",
+        "question_sanitized": "Which of the following best describes the system of linear equations: y − 2x = −2, y + x = 4 [y minus two x equals negative two and y plus x equals four]? W) Consistent, Dependent X) Consistent, Independent Y) Inconsistent, Dependent Z) Inconsistent, Independent"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints BF₃, NH₃, SF₄, and NO; the first three have exact B-F three, N-H three, and S-F four cues. Four options match source and answer X) NH₃. Corpus lost subscript grouping in all three formula choices and the answer, so restored each field from the page.",
+      "before": {
+        "question": "Which of the following molecules is NOT an exception to the octet rule?<br>W) BF 3 [B-F three]<br>X) NH 3 [N-H three]<br>Y) SF 4 [S-F four]<br>Z) NO [N-O]",
+        "options": [
+          "W) BF 3 [B-F three]",
+          "X) NH 3 [N-H three]",
+          "Y) SF 4 [S-F four]",
+          "Z) NO [N-O]"
+        ],
+        "answer": "X) NH 3"
+      },
+      "changes": {
+        "question": "Which of the following molecules is NOT an exception to the octet rule?<br>W) BF<sub>3</sub> [B-F three]<br>X) NH<sub>3</sub> [N-H three]<br>Y) SF<sub>4</sub> [S-F four]<br>Z) NO [N-O]",
+        "question_sanitized": "Which of the following molecules is NOT an exception to the octet rule? W) BF₃ [B-F three] X) NH₃ [N-H three] Y) SF₄ [S-F four] Z) NO [N-O]",
+        "options": [
+          "W) BF<sub>3</sub> [B-F three]",
+          "X) NH<sub>3</sub> [N-H three]",
+          "Y) SF<sub>4</sub> [S-F four]",
+          "Z) NO [N-O]"
+        ],
+        "answer": "X) NH<sub>3</sub>",
+        "answer_sanitized": "X) NH₃"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 toss-up 4 asks Millikan oil-drop experiment value; answer charge of electron (accept charge-to-mass ratio), matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 toss-up 5 asks element fused by Sun and product element; answer hydrogen to form helium, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 toss-up 6 asks kidney part composed of Bowman's capsule and glomerulus [gloh-MER-yuh-luhs]; answer Malpighian body with listed accepts/reject, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 toss-up 7 lists capacity-factor claims any number, above 1, between 1 and 0, below 0; answer Y) always between 1 and 0, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 shows l = 3 and the magnetic quantum number m_l [M-L], asking minimum and maximum values; choices 1/infinity, 0/2, -3/3, -1/2/1/2, answer Y) -3, 3. Corpus split the subscripted symbol into spaced pieces, so restored m_l and retained cue.",
+      "before": {
+        "question": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m l ) [M-L], respectively?<br>W) 1, infinity<br>X) 0, 2<br>Y) -3, 3<br>Z) -½, ½"
+      },
+      "changes": {
+        "question": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m<sub>l</sub>) [M-L], respectively?<br>W) 1, infinity<br>X) 0, 2<br>Y) -3, 3<br>Z) -½, ½",
+        "question_sanitized": "If l = 3, what are the minimum and maximum allowed values of the magnetic quantum number (m_l) [M-L], respectively? W) 1, infinity X) 0, 2 Y) -3, 3 Z) -½, ½"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 toss-up 9 gives convex lens object at 20 cm and focal length 10 cm; choices 2,5,10,20; answer Z) 20 cm, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 toss-up 10 asks which level decreases in vertebrate stress response; options cortisol, glucagon [GLOO-kuh-gon], insulin, epinephrine [e-puh-NE-frin]; answer Y) insulin."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 11 gives CO2-driven warming of 6°C and asks eras of Great Dying; answer Paleozoic and Mesozoic, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 12 asks relative ionic radii for magnesium and oxygen; choices larger/smaller pairs; answer Y) smaller and larger, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly shows 1/x − 1/y = 1/z followed by [one over x minus one over y equals one over z]; the printed answer is fraction xy over y−x. Corpus lost formula grouping and doubled glyphs in the answer, so restored both from the source page.",
+      "before": {
+        "question": "If − = , [one over x minus one over y equals one over z] what 𝑥𝑥 𝑦𝑦 𝑧𝑧 does z equal in terms of x and y? 𝑥𝑥𝑥𝑥",
+        "answer": "𝑦𝑦−𝑥𝑥"
+      },
+      "changes": {
+        "question": "If <span class=\"nsb-fraction\"><span>1</span><span>x</span></span> − <span class=\"nsb-fraction\"><span>1</span><span>y</span></span> = <span class=\"nsb-fraction\"><span>1</span><span>z</span></span> [one over x minus one over y equals one over z], what does z equal in terms of x and y?",
+        "question_sanitized": "If 1/x − 1/y = 1/z [one over x minus one over y equals one over z], what does z equal in terms of x and y?",
+        "answer": "<span class=\"nsb-fraction\"><span>xy</span><span>y − x</span></span>",
+        "answer_sanitized": "xy/(y − x)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 toss-up 14 asks physical quantity limiting Carnot efficiency; choices pressure, entropy, flow rate, temperature; answer Z) temperature, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 toss-up 16 asks VSEPR [ves-per] bond angle in sulfur dioxide; answer 120, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 toss-up 17 visibly gives 2x−3y=5 and x=1.5y+2 with full spoken cue; asks number of intersections; answer zero, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 toss-up 18 describes horizontal polarization, +x travel and electric field in −z; asks magnetic-field direction; answer positive y, matching source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 toss-up 19 asks what material is most of universe's matter by mass; options cosmic rays, dark matter, luminous matter, black holes; answer X) dark matter."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 toss-up 20 asks false Fischer-projection statement; chiral [KY-ruhl] cue and all four choices match; answer W) structure may be rotated by 90° or 180°."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 toss-up 21 asks most important trace nutrient for cytochrome c [SY-tuh-krohm C]; options magnesium, copper, iron, chromium; answer Y) iron."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 toss-up 22 asks duration to burn one pound at 500-calorie daily deficit; options 1 day, week, month, year; answer X) 1 week."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 1 asks largest possible digit sum on a 12-hour digital clock displaying hours/minutes; answer 23, matching source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 2 describes incomplete dominance in dragon flame color, with alleles [uh-LEELS], homozygous [hoh-muh-ZY-guhs] cues and four probability options; answer Y) 25% yellow flame."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 bonus 3 asks process at cadmium electrode in nickel-cadmium battery; answer oxidation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 bonus 4 lists four rotation statements; answer Z) conservation of angular momentum explains why pulsars will never stop spinning."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 bonus 6 asks protein making intermediate filaments; choices actin, myosin [MY-uh-sin], tubulin, keratin; answer Z) keratin."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 bonus 8 asks which of Gibbs free energy, enthalpy, entropy increases when water boils at 100°C and atmospheric pressure; answer 2 and 3 with expanded acceptance, matching source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 bonus 9 gives two people applying 10N and 12N in same direction to 22kg box over frictionless 8m; asks final speed; answer 4 m/s, matching source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 bonus 10 asks food to stop consuming if parietal [puh-RAY-i-tl] cells stop functioning; options soda, steak, bread, salad; answer X) steak."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 bonus 11 asks implication of red shift in spectral lines from other galaxies; options rotation, moving farther apart, red giants, closer together; answer X) moving farther apart."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 bonus 12 gives acetic acid pKa 4.8 and acid:acetate ratio 10:1 [ten to one]; asks pH to one decimal; answer 3.8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly shows f(x) = 2/(x − 1) and cue [f of x equals two divided by quantity x minus one]; the printed inverse is f⁻¹(x) = (2+x)/x with accepted equivalents (2+x)/x and 1+2/x. Corpus lost denominator grouping and inverse-function notation in answer, so restored source math, cue, and every accepted form.",
+      "before": {
+        "parts": [
+          "Find the inverse of the function f(x) = 2⁄(𝑥𝑥 − 1) [f of x equals two divided by quantity x minus one]."
+        ],
+        "answers": [
+          "𝑓𝑓 −1 (𝑥𝑥) = (2 + 𝑥𝑥)⁄𝑥𝑥 (ACCEPT: (2+x)/x, 1 + 2/x)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the inverse of the function f(x) = <span class=\"nsb-fraction\"><span>2</span><span>(x − 1)</span></span> [f of x equals two divided by quantity x minus one]."
+        ],
+        "parts_sanitized": [
+          "Find the inverse of the function f(x) = 2/(x − 1) [f of x equals two divided by quantity x minus one]."
+        ],
+        "answers": [
+          "f<sup>−1</sup>(x) = <span class=\"nsb-fraction\"><span>2 + x</span><span>x</span></span> (ACCEPT: (2+x)/x, 1 + 2/x)"
+        ],
+        "answers_sanitized": [
+          "f⁻¹(x) = (2 + x)/x (ACCEPT: (2+x)/x, 1 + 2/x)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 bonus 15 gives Duchenne [duh-SHEEN] disease allele [uh-LEEL] on X chromosome and four inheritance statements; answer X) mothers can pass allele equally to sons or daughters."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 bonus 16 says doubling L quadruples rate, halving M has no effect, halving N reduces rate to 1/8; asks orders and overall; answer L:2, M:0, N:3, overall 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 bonus 17 gives percentages and scores for 20 students (70,80,85,90; remainder 95) and choices 80,82,84,86; answer Z) 86."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 bonus 18 asks which of three effects occur for observer watching a spaceship at 99% light speed; answer 2, with the clock-on-ship wording accepted."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 19 asks objects in Hulse-Taylor binary; answer neutron stars (accept pulsars)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 20 asks strain for antiperiplanar and synclinal [sin-KLYN-l] butane conformations; answer antiperiplanar none; synclinal steric."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 bonus 21 asks mammalian group without placenta; all four groups and pronunciation cues match; answer X) monotremes."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 bonus 22 asks magnetic-material permeability; four definitions match corpus; answer W) degree of magnetization obtained in response to applied magnetic field."
+    }
+  ],
+  "packetIssues": []
+}

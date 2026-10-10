@@ -1,0 +1,465 @@
+{
+  "packetIndex": 239,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-7-HS-2021.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks for the thickest solar layer; all four W–Z choices and key Z) Radiation zone match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 retains [DOO-tur-ate], [doo-TEER-ee-um], and all cycloalkene choices; key Y) Cyclohexene matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints hypotenuse segments 7 and 8 and answer 2√14; both match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks for speed at t = 2 from x of t equals 1 over t squared; key one-fourth (0.25) matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks which kingdom has a dikaryon and keys FUNGI (accept: FUNGUS); wording and key match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives five-electron/+1.5 V and two-electron/+1.6 V reductions; key 0.1 (accept: 1/10) matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists surface, P, and S waves in that order and keys detection sequence 2, 3, 1; matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks which group 12 metal is used in quantum dots and keys CADMIUM (accept: Cd); matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks for the fourth-largest integer factor of 1600, counting itself; key 320 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints the planet’s orbit question and key 14; corpus contained the double-escaped amp;apos; entity in the possessive.",
+      "before": {
+        "question": "A planet is orbiting its star in a circular orbit with an orbital speed of 10 kilometers per second. To the nearest kilometer per second, what is the escape velocity from the star at the radius of the planet&amp;apos;s orbit?"
+      },
+      "changes": {
+        "question": "A planet is orbiting its star in a circular orbit with an orbital speed of 10 kilometers per second. To the nearest kilometer per second, what is the escape velocity from the star at the radius of the planet's orbit?",
+        "question_sanitized": "A planet is orbiting its star in a circular orbit with an orbital speed of 10 kilometers per second. To the nearest kilometer per second, what is the escape velocity from the star at the radius of the planet's orbit?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 retains [lack] and [lack-EYE], all four molecule choices, and key Y) Allolactose; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 retains the [EYE-you-pack] pronunciation cue and keys the four-carbon IUPAC stem BUT (accept: BUT-); the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “Triton's retrograde orbit” and the four W–Z hypotheses; key Y) It was a captured moon matches; the corpus had double-escaped amp;apos; in Triton's.",
+      "before": {
+        "question": "Triton&amp;apos;s retrograde orbit provides the strongest evidence for which of the following hypotheses?<br>W) It has a deep subsurface ocean<br>X) It generates an intrinsic magnetic field<br>Y) It was a captured moon<br>Z) It formed from a collision with another planet"
+      },
+      "changes": {
+        "question": "Triton's retrograde orbit provides the strongest evidence for which of the following hypotheses?<br>W) It has a deep subsurface ocean<br>X) It generates an intrinsic magnetic field<br>Y) It was a captured moon<br>Z) It formed from a collision with another planet",
+        "question_sanitized": "Triton's retrograde orbit provides the strongest evidence for which of the following hypotheses? W) It has a deep subsurface ocean X) It generates an intrinsic magnetic field Y) It was a captured moon Z) It formed from a collision with another planet"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 describes raindrop reflectivity from particles much smaller than light’s wavelength and keys RAYLEIGH; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 visibly prints 6x³ – 9x² – 10 = 0; corpus split the superscript 3 and 2 into baseline digits. The keyed smallest 1/6 and largest 10 match.",
+      "before": {
+        "question": "According to the rational root theorem, what are the smallest and the largest possible positive rational roots of the equation 6x 3 – 9x 2 – 10 = 0?"
+      },
+      "changes": {
+        "question": "According to the rational root theorem, what are the smallest and the largest possible positive rational roots of the equation 6x³ – 9x² – 10 = 0?",
+        "question_sanitized": "According to the rational root theorem, what are the smallest and the largest possible positive rational roots of the equation 6x cubed – 9x squared – 10 = 0?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 gives a 2-electron-volt photon, all four spectrum choices, and key X) Visible; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists stabilizing, directional, disruptive, and purifying selection; key Y) Disruptive matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 lists sucrose, sodium chloride, silicon dioxide, and hexane; key W) Sucrose matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 names Mars, Jupiter, and Saturn as the three planets to identify and keys ALL; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 retains the enzyme-class question, all four enzyme choices and pronunciation cues, and key X) Transpeptidase; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks for trailing zeroes in 90P40 and keys 9; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 shows choices W) 60, X) 40, Y) 30, Z) 10 and key X) 40; corpus has malformed nested spans for X and an empty Y choice.",
+      "before": {
+        "parts": [
+          "A dam is holding back a lake that has a water level of 80 meters. A large crack forms at the base of the dam. In meters per second, which of the following is closest to the water speed through the crack?<br>W) 60<br>X) <span class=\"nsb-fraction\">&lt;span&gt;40</span>&lt;span&gt;30</span></span><br>Y) <br>Z) 10"
+        ],
+        "options": [
+          "W) 60",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;40</span>&lt;span&gt;30</span></span>",
+          "Y) ",
+          "Z) 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A dam is holding back a lake that has a water level of 80 meters. A large crack forms at the base of the dam. In meters per second, which of the following is closest to the water speed through the crack?<br>W) 60<br>X) 40<br>Y) 30<br>Z) 10"
+        ],
+        "parts_sanitized": [
+          "A dam is holding back a lake that has a water level of 80 meters. A large crack forms at the base of the dam. In meters per second, which of the following is closest to the water speed through the crack? W) 60 X) 40 Y) 30 Z) 10"
+        ],
+        "options": [
+          "W) 60",
+          "X) 40",
+          "Y) 30",
+          "Z) 10"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 retains [rem-DES-ih-veer] and [pah-LIM-er-aces], all four virus choices, and key Z) Human immunodeficiency virus; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 retains [byoo-tan-OH-ik] and [byoo-ta-NAL] for butanoic acid and butanal, lists butane third, and keys 1, 2, 3; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists all three El Niño effects and keys 1, 2; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 retains [ad-ah-MAN-tayn] for adamantane and keys DIAMOND CUBIC (accept: DIAMOND); the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 visibly prints x² + y² = 25 and point (4, 3); corpus flattened both superscript 2s into spaced baseline digits. Key 25/3 (accept: 8 1/3) matches.",
+      "before": {
+        "parts": [
+          "What is the y-coordinate of the y-intercept of the line tangent to the circle x 2 + y 2 = 25 at the point (4, 3)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the y-coordinate of the y-intercept of the line tangent to the circle x² + y² = 25 at the point (4, 3)?"
+        ],
+        "parts_sanitized": [
+          "What is the y-coordinate of the y-intercept of the line tangent to the circle x squared + y squared = 25 at the point (4, 3)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 gives 400 K, 20 kJ, and a 100 K reservoir; key 15 kJ matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 keys NITRATE and visibly gives the accepted ion NO₃⁻; corpus misplaced the subscript 3 after the closing parenthesis and separated the charge.",
+      "before": {
+        "answers": [
+          "NITRATE (ACCEPT: NO -) 3"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "NITRATE (ACCEPT: NO<sub>3</sub><sup>−</sup>)"
+        ],
+        "answers_sanitized": [
+          "NITRATE (ACCEPT: NO3 minus)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 answer is [Co(NH₃)₆]³⁺; corpus extraction split the two subscripts and superscript charge into baseline fragments.",
+      "before": {
+        "answers": [
+          "[Co(NH ) ] 3+ 3 6"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
+        ],
+        "answers_sanitized": [
+          "[Co(NH3)6]3+"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 retains [ort] and [KYE-pur], all four outer-solar-system choices, and key W) Oort cloud; the corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 retains [VEER-yoo-lent] and asks for the anthrax-toxin genus; key BACILLUS matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 specifies four distinct buckets and seven indistinguishable marbles; key 120 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 compares 140- and 120-decibel sound intensities in watts per square meter; key 99 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 retains [TROH-poh-nin] and all three muscle-contraction events; chronological key 2, 3, 1 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 prints C₂H₇N and accepts formulas including CH₃CH₂NH₂ and C₂H₅NH₂; corpus extraction separated the formula digits and mangled the first alternative with a fraction span.",
+      "before": {
+        "answers": [
+          "C H N (accept formula in any order of elements, 7 including CH <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span> CH NH and C H NH ) 2 2 2 5 2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "C<sub>2</sub>H<sub>7</sub>N (accept formula in any order of elements, including CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub> and C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "C2H7N (accept formula in any order of elements, including CH3CH2NH2 and C2H5NH2)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

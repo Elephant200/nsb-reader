@@ -1,0 +1,647 @@
+{
+  "packetIndex": 47,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-16C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 2; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 and compared the full stem, answer, choices, and notes to corpus item 4; corrected source-visible notation and transcription.",
+      "before": {
+        "question": "Differentiate the following trigonometric function: f(x) = sin x 2",
+        "answer": "2x cos x"
+      },
+      "changes": {
+        "question": "Differentiate the following trigonometric function: f(x) = sin x<sup>2</sup>",
+        "answer": "2x cos x<sup>2</sup>",
+        "question_sanitized": "Differentiate the following trigonometric function: f(x) = sin(x^2)",
+        "answer_sanitized": "2x cos(x^2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 and compared the full stem, answer, choices, and notes to corpus item 11; corrected source-visible notation and transcription. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Which of the following is NOT true:<br>W) a function’s graph may intersect one of its horizontal asymptotes<br>X) a function’s graph may intersect one of its vertical asymptotes<br>Y) the identity function f(x) = x is its own inverse<br>Z) the function f(x) = is its own inverse −x",
+        "options": [
+          "W) a function’s graph may intersect one of its horizontal asymptotes",
+          "X) a function’s graph may intersect one of its vertical asymptotes",
+          "Y) the identity function f(x) = x is its own inverse",
+          "Z) the function f(x) = is its own inverse −x"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT true:<br>W) a function’s graph may intersect one of its horizontal asymptotes<br>X) a function’s graph may intersect one of its vertical asymptotes<br>Y) the identity function f(x) = x is its own inverse<br>Z) the function f(x) = −x is its own inverse",
+        "options": [
+          "W) a function’s graph may intersect one of its horizontal asymptotes",
+          "X) a function’s graph may intersect one of its vertical asymptotes",
+          "Y) the identity function f(x) = x is its own inverse",
+          "Z) the function f(x) = −x is its own inverse"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 6; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 8; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered page 8 and compared the full stem, answer, choices, and notes to corpus item 16; corrected source-visible notation and transcription.",
+      "before": {
+        "question": "In which of the following reversible gas reactions does the value of K = K (read as: K sub P equal K sub C): p c<br>W) A + B ↔ C (read as: A plus B, double arrow, yields C)<br>X) 2A + B ↔ C + D<br>Y) A + B ↔ C + D<br>Z) A ↔ B + C"
+      },
+      "changes": {
+        "question": "In which of the following reversible gas reactions does the value of K<sub>p</sub> = K<sub>c</sub> (read as: K sub P equal K sub C):<br>W) A + B ↔ C (read as: A plus B, double arrow, yields C)<br>X) 2A + B ↔ C + D<br>Y) A + B ↔ C + D<br>Z) A ↔ B + C"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 9; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 and compared the full stem, answer, choices, and notes to corpus item 18; corrected source-visible notation and transcription.",
+      "before": {
+        "question": "Giving your answer as up, down, left, or right, if a &gt; 0, which way does 2 the parabola given by the equation, x = –a(y – k) + h open:"
+      },
+      "changes": {
+        "question": "Giving your answer as up, down, left, or right, if a &gt; 0, which way does the parabola given by the equation, x = −a(y − k)<sup>2</sup> + h open:",
+        "question_sanitized": "Giving your answer as up, down, left, or right, if a > 0, which way does the parabola given by the equation, x = -a(y - k)^2 + h open:"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 and compared the full stem, answer, choices, and notes to corpus item 23; corrected source-visible notation and transcription.",
+      "before": {
+        "question": "Identify, by chemical formula, the oxidizing agent and the reducing agent, respectively, for the following reaction: SiCl<sub>4</sub> + 2Mg à 2MgCl<sub>2</sub> + Si",
+        "answer": "OXIDIZING AGENT = SiCl<sub>4</sub> ; REDUCING AGENT = Mg"
+      },
+      "changes": {
+        "question": "Identify, by chemical formula, the oxidizing agent and the reducing agent, respectively, for the following reaction: SiCl<sub>4</sub> + 2Mg → 2MgCl<sub>2</sub> + Si",
+        "answer": "OXIDIZING AGENT = SiCl<sub>4</sub>; REDUCING AGENT = Mg"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 and compared the full stem, answer, choices, and notes to corpus item 24; corrected source-visible notation and transcription.",
+      "before": {
+        "answer": "980 2",
+        "notes": [
+          "(Solution: P = mgd/t = [(100kg)(10m/s )(9.8m)]/10s = 980W)"
+        ]
+      },
+      "changes": {
+        "answer": "980",
+        "notes": [
+          "(Solution: P = mgd/t = [(100 kg)(10 m/s<sup>2</sup>)(9.8 m)]/10 s = 980 W)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 13; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 2; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 and compared the full stem, answer, choices, and notes to corpus item 4; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "W) 57 − − − = − − − 3200 = 56.6)"
+        ],
+        "notes": [
+          "(Solution: s = (10+12+18)/2; K = s ( s a )( s b )( s c ) 20 ( 20 10 )( 20 12 )( 20 18 ) ="
+        ]
+      },
+      "changes": {
+        "answers": [
+          "W) 57"
+        ],
+        "notes": [
+          "(Solution: s = (10 + 12 + 18)/2; K = √(s(s − a)(s − b)(s − c)) = √(20(20 − 10)(20 − 12)(20 − 18)) = √3200 = 56.6)"
+        ],
+        "answers_sanitized": [
+          "W) 57"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered page 5 and compared the full stem, answer, choices, and notes to corpus item 9; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "200 3 3"
+        ],
+        "notes": [
+          "(Solution: 90g acid × 100g soln/30g acid × 1cm /1.5 g soln = 200 cm = 200 ml)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "200"
+        ],
+        "notes": [
+          "(Solution: 90 g acid × 100 g soln/30 g acid × 1 cm<sup>3</sup>/1.5 g soln = 200 cm<sup>3</sup> = 200 ml)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 and compared the full stem, answer, choices, and notes to corpus item 11; corrected source-visible notation and transcription.",
+      "before": {
+        "parts": [
+          "If the 1 term of an arithmetic sequence is 4 and the 20 term is 156, what are the first five terms in the sequence:"
+        ],
+        "notes": [
+          "(Solution: a<sub>20</sub> = a<sub>1</sub> + (n – 1)d; 156 = 4 + (20 – 1)d, d = 8)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the 1<sup>st</sup> term of an arithmetic sequence is 4 and the 20<sup>th</sup> term is 156, what are the first five terms in the sequence:"
+        ],
+        "notes": [
+          "(Solution: a<sub>20</sub> = a<sub>1</sub> + (n − 1)d; 156 = 4 + (20 − 1)d, d = 8)"
+        ],
+        "parts_sanitized": [
+          "If the 1st term of an arithmetic sequence is 4 and the 20th term is 156, what are the first five terms in the sequence:"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 6; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 8; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered page 8 and compared the full stem, answer, choices, and notes to corpus item 16; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "100 0.01 mol HCl × L/0.1 mol = 0.100L = 100ml)"
+        ],
+        "notes": [
+          "(Solution: (0.05L)(0.1mol/L) = 0.005 M Sr(OH)<sub>2</sub> × 2HCl/1Sr(OH)<sub>2</sub> = 0.01 mol HCl;"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "100"
+        ],
+        "notes": [
+          "(Solution: (0.05 L)(0.1 mol/L) = 0.005 M Sr(OH)<sub>2</sub> × 2 HCl/1 Sr(OH)<sub>2</sub> = 0.01 mol HCl; 0.01 mol HCl × L/0.1 mol = 0.100 L = 100 ml)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 9; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 and compared the full stem, answer, choices, and notes to corpus item 18; corrected source-visible notation and transcription.",
+      "before": {
+        "parts": [
+          "Find the following indefinite integral: ( 3 sin x 5 cos x ) dx (read as: the ! + integral of 3 sine x + 5 cosine x, dx)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the following indefinite integral: ∫(3 sin x + 5 cos x) dx (read as: the integral of 3 sine x + 5 cosine x, dx)"
+        ],
+        "parts_sanitized": [
+          "Find the following indefinite integral: integral of (3 sin x + 5 cos x) dx (read as: the integral of 3 sine x + 5 cosine x, dx)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source page 11 names C4 plants, CAM plants, and C3 plants as plain pathway labels; their digits are not powers, and the printed answer C4; CAM PLANTS matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 12; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 and compared the full stem, answer, choices, and notes to corpus item 24; corrected source-visible notation and transcription.",
+      "before": {
+        "answers": [
+          "3.3 AND UP (ACCEPT: 3.2 AND UP) net g1<sub>2</sub> g2 9.8N/3kg = 3.27 m/s )"
+        ],
+        "notes": [
+          "(Solution: F = F – F = m<sub>1</sub> g<sub>1</sub> = m<sub>2</sub> g<sub>2</sub> = (2 kg)(9.8m/s) – (1kg)(9.8m/s) = 9.8N; a = F/m ="
+        ]
+      },
+      "changes": {
+        "answers": [
+          "3.3 AND UP (ACCEPT: 3.2 AND UP)"
+        ],
+        "notes": [
+          "(Solution: F<sub>net</sub> = F<sub>g1</sub> − F<sub>g2</sub> = m<sub>1</sub>g<sub>1</sub> = m<sub>2</sub>g<sub>2</sub> = (2 kg)(9.8 m/s) − (1 kg)(9.8 m/s) = 9.8 N; a = F/m = 9.8 N/3 kg = 3.27 m/s<sup>2</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 13; the corpus record agrees."
+    }
+  ],
+  "packetIssues": []
+}

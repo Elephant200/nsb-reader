@@ -1,0 +1,531 @@
+{
+  "packetIndex": 101,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “You are given a particular polymer to study, and you notice that it can endure an extremely high amo”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) TOUGH FIBER) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 shows f(x) = x² − 1 and g(x) = x − 1, followed by f(g(x)) [f of g of x]; the printed key is x² − 2x.",
+      "before": {
+        "question": "If 2 and what is the composite function [f of x x g of x]? 2 - 2x",
+        "answer": "x"
+      },
+      "changes": {
+        "question": "If f(x) = x<sup>2</sup> - 1 and g(x) = x - 1, what is the composite function f(g(x)) [f of g of x]?",
+        "question_sanitized": "If f(x) = x² − 1 and g(x) = x − 1, what is the composite function f(g(x)) [f of g of x]?",
+        "answer": "x<sup>2</sup> - 2x",
+        "answer_sanitized": "x² − 2x"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “Which law of physics explains how a changing magnetic field can produce an electric current?”; I compared its complete wording, all choices where present, significant numbers, and answer key (FARADAY’S (ACCEPT: FARADAY’S LAW OF INDUCTION)) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “Which of the following is the least promising method of large-scale oil extraction in the next sever”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) ACQUIRING OIL FROM WHALES) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “The taxonomic class Myxini [MIK-suh-nee] contains which of the following fish? W) Wolf eels X) Hagfi”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) HAGFISH) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints C₂ᵥ symmetry and answer a₁; the corpus had separated the subscript 2v from C and the subscript 1 from a.",
+      "before": {
+        "question": "What is the irreducible representation for the atomic orbital s for a molecule with C symmetry? 2v"
+      },
+      "changes": {
+        "question": "What is the irreducible representation for the atomic orbital s for a molecule with C<sub>2v</sub> symmetry?",
+        "question_sanitized": "What is the irreducible representation for the atomic orbital s for a molecule with C₂ᵥ symmetry?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints “How many subsets are there of a set whose elements are the composite numbers less than 9?”; I compared its complete wording, all choices where present, significant numbers, and answer key (8) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “Which of the following minerals has four planes of cleavage? W) Fluorite X) Calcite Y) Augite [AW-jy”; I compared its complete wording, all choices where present, significant numbers, and answer key (W) FLUORITE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “A slingshot stretched by a distance x gives a pebble speed v. What is the speed of the same pebble i”; I compared its complete wording, all choices where present, significant numbers, and answer key (Y) 2v) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “Which of the following statements about ferrimagnetic solids is true? W) Magnetic moments are on dif”; I compared its complete wording, all choices where present, significant numbers, and answer key (W) MAGNETIC MOMENTS ARE ON DIFFERENT SUBLATTICES AND ARE ANTIPARALLEL) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “A particle is constrained to move in one dimension according to the relation x = 3t 3 [x equals 3 t ”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) 126) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “What is the next number in the arithmetic sequence that has first three terms of 17, 31, and 45?”; I compared its complete wording, all choices where present, significant numbers, and answer key (59) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “In which of the following locations is it possible to find an esker formed during the Pleistocene [P”; I compared its complete wording, all choices where present, significant numbers, and answer key (Z) IOWA) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “Bond energy measures the strength of a chemical bond. Providing your answer in kilojoules per mole, ”; I compared its complete wording, all choices where present, significant numbers, and answer key (400) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “A 1 kilogram object is travelling to the left at 3 meters per second when it explodes into 2 equal p”; I compared its complete wording, all choices where present, significant numbers, and answer key (W) 1 TO THE RIGHT) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “Bacteria are classified as Gram positive or Gram negative based on several characteristics, includin”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) CELL WALL STRUCTURE) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “Carbon dioxide has a boiling point of -57° Celsius, whereas sulfur dioxide has a boiling point of -1”; I compared its complete wording, all choices where present, significant numbers, and answer key (DIPOLE-DIPOLE (ACCEPT: DIPOLE FORCES)) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “A graph has symmetry with respect to the origin and passes through the point (-2, 3). What other poi”; I compared its complete wording, all choices where present, significant numbers, and answer key ((2, -3)) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “Approximately how often is the entire stomach lining in a human replaced? W) Every three days X) Eve”; I compared its complete wording, all choices where present, significant numbers, and answer key (W) EVERY THREE DAYS) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “Thermohaline [thuhr-moh-HAY-lyn] circulation in the ocean is controlled most by which of the followi”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) TEMPERATURE AND SALINITY) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints “An electron is travelling due north when it experiences a magnetic field that is pointing vertically”; I compared its complete wording, all choices where present, significant numbers, and answer key (Z) WEST) against the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “The 2011 Nobel Prize in Physiology or Medicine was awarded to three researchers, including Jules Hof”; I compared its complete wording, all choices where present, significant numbers, and answer key (W) RECOGNIZING PATHOGENS IN THE IMMUNE SYSTEM) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “The measured bond angle in ammonia is 107.3°, whereas the bond angles in phosphine [FOS-feen] are 93”; I compared its complete wording, all choices where present, significant numbers, and answer key (Z) THE PHOSPHORUS ATOM IS MUCH LARGER THAN THE NITROGEN ATOM) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 displays A = [[1, 3], [2, 1]] and B = [[3, 4], [1, 0]], with spoken row-by-row cues; the determinant answer is 20.",
+      "before": {
+        "parts": [
+          "Given 2 two by two matrices [row one: 1, 3; row 2: 2, 1] 2 1 1T2T 3 4 B = � � and [row 1: 3, 4; row 2: 1, 0]. Find the determinant of the product AB. 1 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given two 2 by 2 matrices A = [1, 3; 2, 1] [row one: 1, 3; row 2: 2, 1] and B = [3, 4; 1, 0] [row 1: 3, 4; row 2: 1, 0]. Find the determinant of the product AB."
+        ],
+        "parts_sanitized": [
+          "Given two 2 by 2 matrices A = [[1, 3], [2, 1]] [row one: 1, 3; row 2: 2, 1] and B = [[3, 4], [1, 0]] [row 1: 3, 4; row 2: 1, 0]. Find the determinant of the product AB."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “Which of the following scenarios could strengthen a hurricane? W) It travels over Hispaniola X) It m”; I compared its complete wording, all choices where present, significant numbers, and answer key (Y) IT PASSES OVER AN AREA OF WARM SURFACE WATERS) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints “A wireless router transmits an 802.11a Wi-Fi radio signal at 5 megahertz with a speed up to 54 megab”; I compared its complete wording, all choices where present, significant numbers, and answer key (Y) 60) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “In fruit flies, one gene called fruitless is responsible for male courtship behavior. The gene is tr”; I compared its complete wording, all choices where present, significant numbers, and answer key (ALTERNATIVE SPLICING (ACCEPT: ALTERNATIVE RNA PROCESSING OR SPLICING)) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints “For 680 milligrams of tannic acid, which has a molar mass of 1700 grams per mole, dissolved in water”; I compared its complete wording, all choices where present, significant numbers, and answer key (25) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints “A balloon is being filled with water. Its volume in gallons is given by the V(r) = r /10 r function ”; I compared its complete wording, all choices where present, significant numbers, and answer key (X) 0.7) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints “Free neutrons decay to protons, electrons, and antineutrinos. What fundamental force is responsible ”; I compared its complete wording, all choices where present, significant numbers, and answer key (W) WEAK NUCLEAR) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “Which of the following terms indicates centromere [SEN-truh- meer] placement at the end of the chrom”; I compared its complete wording, all choices where present, significant numbers, and answer key (Y) TELOCENTRIC) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints “What is the major product formed at the conclusion of the following two-step reaction sequence: Step”; I compared its complete wording, all choices where present, significant numbers, and answer key (ETHYL N-PROPYL ETHER (ACCEPT: 1-ethoxy-propan;Ether, ethyl propyl;ether,ethylpropyl;n-C3H7OC2H5;propane,1-ethoxy-;Propyl ethyl ether;ETHYL PROPYL ETHER)) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists resonance choices W) 1/(8π), X) 1/4, Y) 4, Z) 8π and keys W) 1/(8π); the corpus had shifted each choice value.",
+      "before": {
+        "parts": [
+          "An RLC circuit consists of a 2 henry inductor, a 1000 ohm resistor, an 8 farad capacitor, and a power supply in series. With what frequency in hertz must the power supply operate in order to establish resonance in the circuit? 1/8π<br>W) 1/4<br>X) 4<br>Y) 8π<br>Z) 1/8π"
+        ],
+        "options": [
+          "W) 1/4",
+          "X) 4",
+          "Y) 8π",
+          "Z) 1/8π"
+        ],
+        "answers": [
+          "W) 1/4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "An RLC circuit consists of a 2 henry inductor, a 1000 ohm resistor, an 8 farad capacitor, and a power supply in series. With what frequency in hertz must the power supply operate in order to establish resonance in the circuit?<br>W) 1/8π<br>X) 1/4<br>Y) 4<br>Z) 8π"
+        ],
+        "parts_sanitized": [
+          "An RLC circuit consists of a 2 henry inductor, a 1000 ohm resistor, an 8 farad capacitor, and a power supply in series. With what frequency in hertz must the power supply operate in order to establish resonance in the circuit? W) 1/(8π); X) 1/4; Y) 4; Z) 8π."
+        ],
+        "options": [
+          "W) 1/8π",
+          "X) 1/4",
+          "Y) 4",
+          "Z) 8π"
+        ],
+        "answers": [
+          "W) 1/8π"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints “A card is drawn at random from a standard deck of 52 cards. Given that the card drawn is a face card”; I compared its complete wording, all choices where present, significant numbers, and answer key (1/3) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “Why do tornadoes occur with the lowest frequency near dawn? W) The ground surface is moist, cooling ”; I compared its complete wording, all choices where present, significant numbers, and answer key (Z) AIR TEMPERATURE IS LOWEST AND RADIATION DEFICITS ARE HIGHEST) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints “Organisms are sometimes assigned fractional trophic levels. Which of the following factors is least ”; I compared its complete wording, all choices where present, significant numbers, and answer key (Z) GORILLAS EAT BOTH BAMBOO AND FRUIT) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “What is the root mean square voltage of a power supply that outputs a sinusoidal voltage with a freq”; I compared its complete wording, all choices where present, significant numbers, and answer key (85) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “Which actin-associated motor protein generates the force for muscle contraction?”; I compared its complete wording, all choices where present, significant numbers, and answer key (MYOSIN) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “The family of olefin metathesis catalysts developed by Grubbs employs which metallic element?”; I compared its complete wording, all choices where present, significant numbers, and answer key (RUTHENIUM) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints “A line in parametric mode is given by the equations: x 2 = 2 t and y . What is the slope of this lin”; I compared its complete wording, all choices where present, significant numbers, and answer key (4) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “Polymerase [POL-uh-muh-rays] chain reaction (PCR) is a widely used method to rapidly clone pieces of”; I compared its complete wording, all choices where present, significant numbers, and answer key (2, 1, 3 (ACCEPT: DENATURATION, ANNEALING, ELONGATION)) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “Why did Charles Keeling’s carbon dioxide graphs show an up and down pattern each year? W) More carbo”; I compared its complete wording, all choices where present, significant numbers, and answer key (Y) CARBON DIOXIDE IS ABSORBED DURING THE GROWTH SEASON AND RELEASED THROUGH DECAY DURING THE FALL AND WINTER) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 shows 35.4 × 10⁻¹¹ coulombs and ε₀ = 8.85 × 10⁻¹² farads per meter; the source answer is 40. The ledger had flattened both powers into the question text.",
+      "before": {
+        "parts": [
+          "A 35.4 x 10 coulomb charge is placed into a spherical Gaussian -12 [GOUS-ee-uhn] surface with a radius of 5 meters. Given that epsilon naught is 8.85 x 10 farads per meter, what is the electric flux through this surface in newton meters squared per coulomb?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A 35.4 × 10<sup>−11</sup> coulomb charge is placed into a spherical Gaussian [GOUS-ee-uhn] surface with a radius of 5 meters. Given that epsilon naught is 8.85 × 10<sup>−12</sup> farads per meter, what is the electric flux through this surface in newton meters squared per coulomb?"
+        ],
+        "parts_sanitized": [
+          "A 35.4 x 10^-11 coulomb charge is placed into a spherical Gaussian [GOUS-ee-uhn] surface with a radius of 5 meters. Given that epsilon naught is 8.85 x 10^-12 farads per meter, what is the electric flux through this surface in newton meters squared per coulomb?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints “Although coal formed throughout many geological periods, coal from the Lower Triassic period is quit”; I compared its complete wording, all choices where present, significant numbers, and answer key (Y) A MASS EXTINCTION OCCURRED) against the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “Assume you would like to isolate a specific membrane protein from a cell. How could you best remove ”; I compared its complete wording, all choices where present, significant numbers, and answer key (W) DISRUPT THE LIPID BILAYER WITH DETERGENTS) against the corpus."
+    }
+  ],
+  "packetIssues": []
+}

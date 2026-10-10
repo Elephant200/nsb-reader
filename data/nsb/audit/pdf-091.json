@@ -1,0 +1,608 @@
+{
+  "packetIndex": 91,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 shows f(x) = (3/2) sin(x/2); the captured equation was missing the coefficient and argument.",
+      "before": {
+        "question": "In the graph of the function f(x) = sin ( ) [f of x equals three halves the sine of the quantity x over 2], at which of the following x coordinates would f(x) = 0?<br>W) π/2<br>X) π<br>Y) 2π<br>Z) 3π/2"
+      },
+      "changes": {
+        "question": "In the graph of the function f(x) = <span class=\"nsb-fraction\"><span>3</span><span>2</span></span> sin (<span class=\"nsb-fraction\"><span>x</span><span>2</span></span>) [f of x equals three halves the sine of the quantity x over 2], at which of the following x coordinates would f(x) = 0?<br>W) π/2<br>X) π<br>Y) 2π<br>Z) 3π/2",
+        "question_sanitized": "In the graph of the function f(x) = (3/2) sin (x/2) [f of x equals three halves the sine of the quantity x over 2], at which of the following x coordinates would f(x) = 0?\nW) π/2\nX) π\nY) 2π\nZ) 3π/2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered toss-up 2 section on source page 1, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered toss-up 3 section on source page 2, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered toss-up 5 section on source page 3, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 shows the stated limit with numerator ax⁵ − x³ + x and denominator x − x³ + 2x⁵, equal to 3; the source equation is now represented explicitly.",
+      "before": {
+        "question": "Find a value for a such that the [limit as x approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x and denominator x minus x cubed plus 2 x to the fifth equals 3]."
+      },
+      "changes": {
+        "question": "Find a value for a such that lim<sub>x→∞</sub> <span class=\"nsb-fraction\"><span>ax<sup>5</sup> − x<sup>3</sup> + x</span><span>x − x<sup>3</sup> + 2x<sup>5</sup></span></span> = 3 [limit as x approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x and denominator x minus x cubed plus 2 x to the fifth equals 3].",
+        "question_sanitized": "Find a value for a such that lim (x→∞) ((ax^5 - x^3 + x)/(x - x^3 + 2x^5)) = 3 [limit as x approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x and denominator x minus x cubed plus 2 x to the fifth equals 3]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 7 section on source page 4, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered toss-up 8 section on source page 4, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered toss-up 9 section on source page 5, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 11 section on source page 6, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered toss-up 12 section on source page 6, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete numbered toss-up 13 section on source page 7, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 shows 2 raised to t in every option; the choices, embedded options, and answer had flattened exponents.",
+      "before": {
+        "question": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?<br>W) y = 100 + 2t [y equals 100 plus 2 to the power of t]<br>X) y = 100(2t) [y equals 100 times the quantity 2 to the power of t]<br>Y) y = 2t [y equals 2 to the power of t]<br>Z) y = 200(2t) [y equals 200 times the quantity 2 to the power of t]",
+        "answer": "X) y = 100(2t)",
+        "options": [
+          "W) y = 100 + 2t [y equals 100 plus 2 to the power of t]",
+          "X) y = 100(2t) [y equals 100 times the quantity 2 to the power of t]",
+          "Y) y = 2t [y equals 2 to the power of t]",
+          "Z) y = 200(2t) [y equals 200 times the quantity 2 to the power of t]"
+        ]
+      },
+      "changes": {
+        "question": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?<br>W) y = 100 + 2<sup>t</sup> [y equals 100 plus 2 to the power of t]<br>X) y = 100(2<sup>t</sup>) [y equals 100 times the quantity 2 to the power of t]<br>Y) y = 2<sup>t</sup> [y equals 2 to the power of t]<br>Z) y = 200(2<sup>t</sup>) [y equals 200 times the quantity 2 to the power of t]",
+        "question_sanitized": "Bacteria in a culture are growing exponentially, such that on day 0, there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria. Which of the following equations expresses the number of bacteria, y, present at any time t?\nW) y = 100 + 2^t [y equals 100 plus 2 to the power of t]\nX) y = 100(2^t) [y equals 100 times the quantity 2 to the power of t]\nY) y = 2^t [y equals 2 to the power of t]\nZ) y = 200(2^t) [y equals 200 times the quantity 2 to the power of t]",
+        "options": [
+          "W) y = 100 + 2<sup>t</sup> [y equals 100 plus 2 to the power of t]",
+          "X) y = 100(2<sup>t</sup>) [y equals 100 times the quantity 2 to the power of t]",
+          "Y) y = 2<sup>t</sup> [y equals 2 to the power of t]",
+          "Z) y = 200(2<sup>t</sup>) [y equals 200 times the quantity 2 to the power of t]"
+        ],
+        "answer": "X) y = 100(2<sup>t</sup>)",
+        "answer_sanitized": "X) y = 100(2^t)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 15 section on source page 8, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered toss-up 16 section on source page 8, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 17 section on source page 9, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered toss-up 18 section on source page 9, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 19 section on source page 10, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete numbered toss-up 20 section on source page 10, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 21 section on source page 11, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered toss-up 22 section on source page 11, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered toss-up 23 section on source page 12, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete numbered toss-up 25 section on source page 13, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered source page 1 gives 3/8 < r < 2 7/8, accepting 3/8 < r < 23/8; the captured accepted bound was absent.",
+      "before": {
+        "parts": [
+          "Expressing the answer in simplest form, solve [the absolute value of the quantity 2r minus 13 fourths is less than 5 halves]."
+        ],
+        "answers": [
+          "3/8 &lt; r &lt; (ACCEPT: 3/8 &lt; r &lt; )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Expressing the answer in simplest form, solve |2r − <span class=\"nsb-fraction\"><span>13</span><span>4</span></span>| &lt; <span class=\"nsb-fraction\"><span>5</span><span>2</span></span> [the absolute value of the quantity 2r minus 13 fourths is less than 5 halves]."
+        ],
+        "parts_sanitized": [
+          "Expressing the answer in simplest form, solve |2r - (13/4)| < (5/2) [the absolute value of the quantity 2r minus 13 fourths is less than 5 halves]."
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>3</span><span>8</span></span> &lt; r &lt; 2 <span class=\"nsb-fraction\"><span>7</span><span>8</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>3</span><span>8</span></span> &lt; r &lt; <span class=\"nsb-fraction\"><span>23</span><span>8</span></span>)"
+        ],
+        "answers_sanitized": [
+          "(3/8) < r < 2 (7/8) (ACCEPT: (3/8) < r < (23/8))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete numbered bonus 2 section on source page 1, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 3 section on source page 2, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete numbered bonus 4 section on source page 2, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete numbered bonus 5 section on source page 3, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered source page 3 shows the rejected alternative as −cos²x sin x; the captured answer flattened the exponent.",
+      "before": {
+        "answers": [
+          "-cos(cos x)sinx [ACCEPT: cos (cos x)(-sin x) or –sinx cos(cos(x)); DO NOT ACCEPT: -cos2x sinx]"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "−cos(cos x)sin x [ACCEPT: cos (cos x)(−sin x) or −sin x cos(cos(x)); DO NOT ACCEPT: −cos<sup>2</sup>x sin x]"
+        ],
+        "answers_sanitized": [
+          "-cos(cos x)sin x [ACCEPT: cos (cos x)(-sin x) or -sin x cos(cos(x)); DO NOT ACCEPT: -cos^2 x sin x]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 7 section on source page 4, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete numbered bonus 8 section on source page 4, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete numbered bonus 9 section on source page 5, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered bonus 11 section on source page 6, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete numbered bonus 12 section on source page 6, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered source page 7 shows polynomial powers 6, 5, and 3; the captured prompt flattened all three exponents.",
+      "before": {
+        "parts": [
+          "Find the remainder when f(x) = x6 + 5x5 – x3 + x – 6 is divided by (x + 1)."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the remainder when f(x) = x<sup>6</sup> + 5x<sup>5</sup> − x<sup>3</sup> + x − 6 is divided by (x + 1)."
+        ],
+        "parts_sanitized": [
+          "Find the remainder when f(x) = x^6 + 5x^5 - x^3 + x - 6 is divided by (x + 1)."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 15 section on source page 8, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete numbered bonus 16 section on source page 8, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 17 section on source page 9, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete numbered bonus 18 section on source page 9, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 prints the accepted formula as CO₂; the captured answer spaced the 2 at baseline.",
+      "before": {
+        "answers": [
+          "CARBON DIOXIDE (ACCEPT: CO 2 )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "CARBON DIOXIDE (ACCEPT: CO2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered source page 10 shows 2x⁴ − x² + 3x − 4 divided by x + 3; the captured prompt omitted the entire expression.",
+      "before": {
+        "parts": [
+          "What is the remainder when is divided by ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the remainder when 2x<sup>4</sup> − x<sup>2</sup> + 3x − 4 is divided by x + 3?"
+        ],
+        "parts_sanitized": [
+          "What is the remainder when 2x^4 - x^2 + 3x - 4 is divided by x + 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered source page 11 shows the codon and all choices with hyphen-separated bases and no stray space in the source sequence.",
+      "before": {
+        "parts": [
+          "The mRNA codon for methionine [meh-THY-uh-neen] is 5’-A- U-G-3’. From 5 prime to 3 prime, which of the following would be the anticodon present in the cognate tRNA?<br>W) 5’-UAC-3’<br>X) 5’-GUA-3’<br>Y) 5’-CAU-3’<br>Z) 5’-AUG-3’"
+        ],
+        "options": [
+          "W) 5’-UAC-3’",
+          "X) 5’-GUA-3’",
+          "Y) 5’-CAU-3’",
+          "Z) 5’-AUG-3’"
+        ],
+        "answers": [
+          "Y) 5’-CAU-3’ [NOTE: 3’ = THREE PRIME and 5’ = FIVE PRIME]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The mRNA codon for methionine [meh-THY-uh-neen] is 5’-A-U-G-3’. From 5 prime to 3 prime, which of the following would be the anticodon present in the cognate tRNA?<br>W) 5’-U-A-C-3’<br>X) 5’-G-U-A-3’<br>Y) 5’-C-A-U-3’<br>Z) 5’-A-U-G-3’"
+        ],
+        "options": [
+          "W) 5’-U-A-C-3’",
+          "X) 5’-G-U-A-3’",
+          "Y) 5’-C-A-U-3’",
+          "Z) 5’-A-U-G-3’"
+        ],
+        "answers": [
+          "Y) 5’-C-A-U-3’ [NOTE: 3’ = THREE PRIME and 5’ = FIVE PRIME]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete numbered bonus 22 section on source page 11, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 23 section on source page 12, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete numbered bonus 24 section on source page 12, including prompt, options where present, and answer."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 shows CaCO₃ (s) → CaO (s) + CO₂ (g); the captured formula had spaces before both subscripts.",
+      "before": {
+        "parts": [
+          "Given that the standard enthalpy [EN-thal-pee] of formation for solid calcium carbonate is -1200 kilojoules per mole, for solid calcium oxide is -600 kilojoules per mole, and for gaseous carbon dioxide is -400 kilojoules per mole, which of the following is the standard enthalpy change in kilojoules per mole for the reaction: CaCO 3 (s) [yields] CaO (s) + CO 2 (g) ?<br>W) -400<br>X) -200<br>Y) 200<br>Z) 600"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that the standard enthalpy [EN-thal-pee] of formation for solid calcium carbonate is -1200 kilojoules per mole, for solid calcium oxide is -600 kilojoules per mole, and for gaseous carbon dioxide is -400 kilojoules per mole, which of the following is the standard enthalpy change in kilojoules per mole for the reaction: CaCO<sub>3</sub> (s) → [yields] CaO (s) + CO<sub>2</sub> (g)?<br>W) -400<br>X) -200<br>Y) 200<br>Z) 600"
+        ],
+        "parts_sanitized": [
+          "Given that the standard enthalpy [EN-thal-pee] of formation for solid calcium carbonate is -1200 kilojoules per mole, for solid calcium oxide is -600 kilojoules per mole, and for gaseous carbon dioxide is -400 kilojoules per mole, which of the following is the standard enthalpy change in kilojoules per mole for the reaction: CaCO3 (s) -> [yields] CaO (s) + CO2 (g)?\nW) -400\nX) -200\nY) 200\nZ) 600"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

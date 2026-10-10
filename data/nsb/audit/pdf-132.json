@@ -1,0 +1,418 @@
+{
+  "packetIndex": 132,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_2.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 breaks ‘1-mile’ across a line after the hyphen; the phrase remains the compound adjective ‘1-mile long train’. The corpus inserted a space after that hyphen.",
+      "before": {
+        "question": "While waiting at a train crossing, Gayle decided to time how long it took for a 1- mile long train to pass her directly. If it took exactly 75 seconds for the train to pass, at how many miles per hour was the train traveling?"
+      },
+      "changes": {
+        "question": "While waiting at a train crossing, Gayle decided to time how long it took for a 1-mile long train to pass her directly. If it took exactly 75 seconds for the train to pass, at how many miles per hour was the train traveling?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 2 reads “What is the equivalent capacitance in microfarads of four capacitors C1= 3 microfarads, C2= 5 microfarads, C3=”; answer reads “22”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 4 reads “In the Arrhenius equation, the exponential term is multiplied by a quantity, A, originally introduced as a fud”; answer reads “FREQUENCY FACTOR (Accept: PREEXPONENTIAL FACTOR)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 5 reads “The nervous system consists of neurons and what other type of cell that is responsible for nourishing neurons?”; answer reads “GLIAL [GLEE-AL] CELL (ACCEPT: GLIA)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 6 reads “What thermodynamic potential, symbolized by the letter U, is the sum of the heat added to a system and the wor”; answer reads “INTERNAL ENERGY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 7 reads “Identify all of the following four operations that are NOT closed over the set of all positive real numbers: 1”; answer reads “2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 8 reads “What is the resistance, in ohms, of a resistor that has a 20 milliampere current when connected across the ter”; answer reads “75”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 line wraps the compound name dodecyl-sulfate after its hyphen; there is no space after the hyphen in the word. The pronunciation cue and remainder of the question match.",
+      "before": {
+        "question": "What term can apply to the compounds 1-octanol and sodium dodecyl- sulfate [doh-dek-ihl sulfate], as well as transmembrane proteins, phospholipids, and surfactants, characterizing molecules that contain both fat-soluble and water-soluble components?"
+      },
+      "changes": {
+        "question": "What term can apply to the compounds 1-octanol and sodium dodecyl-sulfate [doh-dek-ihl sulfate], as well as transmembrane proteins, phospholipids, and surfactants, characterizing molecules that contain both fat-soluble and water-soluble components?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “A right triangle with one angle of 45º is inscribed in a circle of radius 10. What is the area of the triangle”; choices are W) 50 | X) 50 times the square root of 2 | Y) 100 | Z) 100 times the square root of 2; answer reads “Y) 100”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 13 reads “In the excitation of metal ions by light, light of a high enough frequency can cause the excited electrons to ”; answer reads “PHOTOELECTRIC EFFECT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 15 reads “What type of rechargeable battery, often used in cell phones and laptop computers, includes a lithium-cobalt o”; answer reads “LITHIUM-ION BATTERY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “Which of the following best describes the kinetics of radioactive decay? W) It is a zeroth order process X) It”; choices are W) It is a zeroth order process | X) It is a first order process | Y) It is a second order process | Z) It is a third order process; answer reads “X) IT IS A FIRST ORDER PROCESS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints “after the 2nd marble is selected” with nd in superscript; the stored field displaced ‘nd’ before ‘2’.",
+      "before": {
+        "question": "Consider a bag of five marbles, 3 red and 2 white. You draw marbles from the bag until you draw the last white marble, at which point you stop. What is the probability you stop drawing nd after the 2 marble is selected?"
+      },
+      "changes": {
+        "question": "Consider a bag of five marbles, 3 red and 2 white. You draw marbles from the bag until you draw the last white marble, at which point you stop. What is the probability you stop drawing after the 2<sup>nd</sup> marble is selected?",
+        "question_sanitized": "Consider a bag of five marbles, 3 red and 2 white. You draw marbles from the bag until you draw the last white marble, at which point you stop. What is the probability you stop drawing after the second marble is selected?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 18 reads “Penicillin inhibits the cross-linking of which structural molecule in bacteria?”; answer reads “PEPTIDOGLYCAN”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 19 reads “What subatomic particle was discovered by J.J. Thomson in a series of experiments involving cathode rays?”; answer reads “Electrons”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 20 reads “What is the term used to describe for an HVAC device that transfers energy in the opposite direction of its na”; answer reads “HEAT PUMP”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 22 reads “What term describes the change of direction in a wave as it enters shallower water?”; answer reads “REFRACTION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: PDF question 23 reads “What reaction, that can be catalyzed by Adams’s catalyst, Wilkinson’s catalyst, Raney nickel, or alloys of pla”; answer reads “HYDROGENATION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 1 reads “What is the inverse function of y = 1 over open parenthesis x + 3 close parenthesis? W) y = open parenthesis 1”; choices are W) y = open parenthesis 1 – 3x close parenthesis divided by x | X) y = x – 3 | Y) y = 3 – 1/x | Z) y = 3x – 1; answer reads “W) y = OPEN PARENTHESIS 1 – 3x CLOSE PARENTHESIS DIVIDED BY x”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 2 reads “Which of the following statements is true regarding entropy? W) The first law of thermodynamics defines entrop”; choices are W) The first law of thermodynamics defines entropy | X) Entropy is a function of state and obeys Hess’s Law | Y) Completely reversible processes increase entropy | Z) Entropy can only be defined macroscopically; answer reads “X) ENTROPY IS A FUNCTION OF STATE AND OBEYS HESS’S LAW”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 3 reads “What two layers of the atmosphere have the least influence over weather? W) Troposphere and tropopause X) Meso”; choices are W) Troposphere and tropopause | X) Mesosphere and thermosphere | Y) Stratosphere and troposphere | Z) Stratosphere and thermosphere; answer reads “X) MESOSPHERE AND THERMOSPHERE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 4 reads “A sealed vessel contains 8 grams of oxygen gas and 12 grams of methane. If no other gases are present and the ”; answer reads “200”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 7 reads “Which of the following ratios represents the ratio of the diagonal of a cube to a diagonal of one of the faces”; choices are W) 2 to the square root of 3 | X) the square root of 3 to the square root of 2 | Y) the square root of 3 to 1 | Z) the square root of 6 to the square root of 3; answer reads “X) THE SQUARE ROOT OF 3 TO THE SQUARE ROOT OF 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 8 reads “A 2 kilogram box is sliding across a frictionless surface at 4 meters per second to the north. A 6 newton forc”; answer reads “2; SOUTH”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 9 reads “The Galápagos Islands consist of a single active volcano among volcanic islands whose ages increase westward. ”; choices are W) Subduction | X) Hot spot | Y) Sea floor spreading | Z) Continental rifting; answer reads “X) HOT SPOT”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 10 reads “A gas phase reaction is conducted in a cylinder with a moveable piston. If the reaction releases 320 joules of”; answer reads “-470”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 11 reads “What structures, composed of nine sets of triplet microtubules arranged in a ring, play a role in eukaryotic c”; answer reads “CENTRIOLES”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “For real numbers a and b, define the binary operation “star” by a “star” b is equal to open parenthesis a + b ”; answer reads “-72”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 13 reads “An 80 kilogram hockey player is skating towards the blue line at a speed of 4.5 meters/second. He briefly look”; answer reads “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 15 reads “An LED has a forward voltage drop of 3.1 volts. How many LEDs can be driven in series by a 12 volt power sourc”; answer reads “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “Rank the following four atoms from the smallest atomic radius to the largest atomic radius: 1) Oxygen; 2) Fluo”; answer reads “2, 1, 4, 3 (ACCEPT: FLOURINE, OXYGEN, CHLORINE, SULFUR)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 4r²−πr² (accept r²(4−π)); the original rich record lost the exponents and split parts of both expressions across the prompt and answer fields.",
+      "before": {
+        "parts": [
+          "Four coplanar circles of radius r have their centers arranged to form the vertices of a square of side length 2r. What is the area of the region enclosed in the square, but not enclosed in any of the four circles? πr π)) 2 2 2"
+        ],
+        "answers": [
+          "4r – (ACCEPT: r (4 –"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Four coplanar circles of radius r have their centers arranged to form the vertices of a square of side length 2r. What is the area of the region enclosed in the square, but not enclosed in any of the four circles?"
+        ],
+        "answers": [
+          "4r<sup>2</sup> − πr<sup>2</sup> (ACCEPT: r<sup>2</sup>(4 − π))"
+        ],
+        "answers_sanitized": [
+          "4r^2 - πr^2 (ACCEPT: r^2(4 - π))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 18 reads “Cholesterol and testosterone are examples of what type of lipid that contains four cycloalkane [sigh-kloh-al-c”; answer reads “STEROID”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 19 reads “Identify all of the following three statements that are true regarding pendulums: 1) Changing the length of th”; answer reads “1, 2, AND 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 20 reads “Which of the following types of electromagnetic radiation possesses the greatest amount of energy per photon? ”; choices are W) Microwave | X) Ultraviolet | Y) Infrared | Z) X-Ray; answer reads “Z) X-RAY”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 visibly prints M₂O₃ with subscripts 2 and 3; the stored rich answer put a space between M₂ and O₃.",
+      "before": {
+        "answers": [
+          "M<sub>2</sub> O<sub>3</sub>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "M<sub>2</sub>O<sub>3</sub>"
+        ],
+        "answers_sanitized": [
+          "M₂O₃"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

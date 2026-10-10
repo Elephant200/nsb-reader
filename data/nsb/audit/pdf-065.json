@@ -1,0 +1,588 @@
+{
+  "packetIndex": 65,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round16.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared flagged record with original PDF page 5; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p. 8 heading says Multiple Choice, but the question provides no choices and asks for a temperature, keyed 4. Normalized the playable type to Short Answer; no prompt or answer changed.",
+      "before": {
+        "type": "Multiple Choice"
+      },
+      "changes": {
+        "type": "Short Answer"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the original PDF page 9 visually with the corpus; restored damaged formula text or notation.",
+      "before": {
+        "question": "Expressing your answer in simplest radical form; evaluate (read as: sine of the quantity 7 pi over 4).",
+        "answer": ""
+      },
+      "changes": {
+        "question": "Expressing your answer in simplest radical form, evaluate sin(<span class=\"nsb-fraction\"><span>7π</span><span>4</span></span>) (read as: sine of the quantity 7 pi over 4).",
+        "question_sanitized": "Expressing your answer in simplest radical form, evaluate sin((7π)/(4)) (read as: sine of the quantity 7 pi over 4).",
+        "answer": "<span class=\"nsb-fraction\"><span>−√2</span><span>2</span></span>",
+        "answer_sanitized": "(−√2)/(2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the original PDF page 13 visually with the corpus; restored damaged formula text or notation. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "before": {
+        "question": "Evaluate log (read as: log of the quantity 10 to the x times 100 over 10 thousand)<br>W) 2 - x<br>X) x - 2<br>Y) x + 3<br>Z) 10x",
+        "options": [
+          "W) 2 - x",
+          "X) x - 2",
+          "Y) x + 3",
+          "Z) 10x"
+        ]
+      },
+      "changes": {
+        "question": "Evaluate log(<span class=\"nsb-fraction\"><span>10<sup>x</sup> × 100</span><span>10,000</span></span>) (read as: log of the quantity 10 to the x times 100 over 10 thousand).<br>W) 2 − x<br>X) x − 2<br>Y) x + 3<br>Z) 10x",
+        "question_sanitized": "Evaluate log((10^(x) × 100)/(10,000)) (read as: log of the quantity 10 to the x times 100 over 10 thousand).; W) 2 − x; X) x − 2; Y) x + 3; Z) 10x",
+        "options": [
+          "W) 2 − x",
+          "X) x − 2",
+          "Y) x + 3",
+          "Z) 10x"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Compared flagged record with original PDF page 13; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared flagged record with original PDF page 1; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared flagged record with original PDF page 2; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the original PDF page 4 visually with the corpus; restored damaged formula text or notation.",
+      "before": {
+        "parts": [
+          "Evaluate the following expression: (read as: the summation from -1 to 4 of 3 k squared).<br>W) 31<br>X) 87<br>Y) 93<br>Z) 243"
+        ],
+        "options": [
+          "W) 31",
+          "X) 87",
+          "Y) 93",
+          "Z) 243"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the following expression: ∑<sub>k=−1</sub><sup>4</sup> 3k<sup>2</sup> (read as: the summation from −1 to 4 of 3 k squared).<br>W) 31<br>X) 87<br>Y) 93<br>Z) 243"
+        ],
+        "parts_sanitized": [
+          "Evaluate the following expression: ∑_k=−1^4 3k^2 (read as: the summation from −1 to 4 of 3 k squared).; W) 31; X) 87; Y) 93; Z) 243"
+        ],
+        "options": [
+          "W) 31",
+          "X) 87",
+          "Y) 93",
+          "Z) 243"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared flagged record with original PDF page 4; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the original PDF page 5 visually with the corpus; restored damaged formula text or notation.",
+      "before": {
+        "parts": [
+          "What power of 10 is closest to 2 ? 16"
+        ],
+        "answers": [
+          "10 (ACCEPT: 16)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What power of 10 is closest to 2<sup>55</sup>?"
+        ],
+        "parts_sanitized": [
+          "What power of 10 is closest to 2^55?"
+        ],
+        "answers": [
+          "10<sup>16</sup> (ACCEPT: 16)"
+        ],
+        "answers_sanitized": [
+          "10^16 (ACCEPT: 16)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the original PDF page 5 visually with the corpus; restored damaged formula text or notation.",
+      "before": {
+        "parts": [
+          "In a sulfuric acid solution, which of the following will be present + 41- 42- 1- in the highest concentration: H , H<sub>2</sub> SO<sub>4</sub> , HSO , SO , or OH . +"
+        ],
+        "answers": [
+          "H"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In a sulfuric acid solution, which of the following will be present in the highest concentration: H<sup>+</sup>, H<sub>2</sub>SO<sub>4</sub>, HSO<sub>4</sub><sup>−</sup>, SO<sub>4</sub><sup>2−</sup>, or OH<sup>−</sup>?"
+        ],
+        "answers": [
+          "H<sup>+</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared flagged record with original PDF page 7; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared flagged record with original PDF page 8; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared flagged record with original PDF page 9; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared flagged record with original PDF page 10; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared flagged record with original PDF page 11; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Viewed original PDF page 12; the infrared spectroscopy question and CARBONYL answer match the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the original PDF page 12 visually with the corpus; restored damaged formula text or notation.",
+      "before": {
+        "answers": [
+          "x – 4x +13"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "x<sup>2</sup> − 4x + 13"
+        ],
+        "answers_sanitized": [
+          "x^2 − 4x + 13"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared flagged record with original PDF page 12; wording, answer/options, and notation agree."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Compared flagged record with original PDF page 13; wording, answer/options, and notation agree."
+    }
+  ],
+  "packetIssues": []
+}

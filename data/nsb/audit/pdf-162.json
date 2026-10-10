@@ -1,0 +1,468 @@
+{
+  "packetIndex": 162,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/15A_HS_Reg_2016.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source heading and complete printed prompt/options read; answer reads Z) 11 and matches this tossup 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source heading and complete printed prompt/options read; answer reads W) MAGNETIC CONFINEMENT and matches this tossup 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source heading and complete printed prompt/options read; answer reads W) PALYNOLOGY and matches this tossup 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete biology prompt and answer 1, 2, AND 4 match; the printed pronunciation cue breaks after ‘dez-’ at line end and continues ‘MAH-tah’, so the internal line-wrap space is removed.",
+      "before": {
+        "question": "Identify all of the following four cellular attachments that can be found in animal cells: 1) Tight junction; 2) Desmosome; 3) Plasmodesmata [plazz-moh-dez- MAH-tah]; 4) Adherens junction."
+      },
+      "changes": {
+        "question": "Identify all of the following four cellular attachments that can be found in animal cells: 1) Tight junction; 2) Desmosome; 3) Plasmodesmata [plazz-moh-dez-MAH-tah]; 4) Adherens junction."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source heading and complete printed prompt/options read; answer reads Z) IF NOT Q, THEN NOT P and matches this tossup 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source prints SOCl₂ with the 2 lowered as a subscript; geometry answer and rejection criteria match.",
+      "before": {
+        "question": "What is the molecular geometry of SOCl2?"
+      },
+      "changes": {
+        "question": "What is the molecular geometry of SOCl<sub>2</sub>?",
+        "question_sanitized": "What is the molecular geometry of SOCl₂?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source heading and complete printed prompt/options read; answer reads -12/13 and matches this tossup 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source acceptance reads m sub s (m with subscript s); complete spin answer and acceptance alternatives match.",
+      "before": {
+        "answer": "SPIN (ACCEPT: ms OR “m sub s”)"
+      },
+      "changes": {
+        "answer": "SPIN (ACCEPT: m<sub>s</sub> OR “m sub s”)",
+        "answer_sanitized": "SPIN (ACCEPT: mₛ OR “m sub s”)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source heading and complete printed prompt/options read; answer reads MICROTUBULES and matches this tossup 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source heading and complete printed prompt/options read; answer reads W) REVERSE OSMOSIS and matches this tossup 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete four-option biotin prompt and answer match; printed cue is directly attached to methylmalonyl and its terminal hyphen continues into CoA, with no post-hyphen space.",
+      "before": {
+        "question": "Which of the following reactions does NOT require biotin?<br>W) Conversion of pyruvate to oxaloacetate [ox-aa-loh-ASS-ah-tate]<br>X) Conversion of acetyl-CoA to malonyl [MAL-uh-nihl]-CoA<br>Y) Conversion of propionyl [PRO-pee-on-il]-CoA to methylmalonyl[meh-thil-MAL-uh-nil]- CoA<br>Z) Conversion of oxaloacetate [ox-aa-loh-ASS-ah-tate] to succinate",
+        "options": [
+          "W) Conversion of pyruvate to oxaloacetate [ox-aa-loh-ASS-ah-tate]",
+          "X) Conversion of acetyl-CoA to malonyl [MAL-uh-nihl]-CoA",
+          "Y) Conversion of propionyl [PRO-pee-on-il]-CoA to methylmalonyl[meh-thil-MAL-uh-nil]- CoA",
+          "Z) Conversion of oxaloacetate [ox-aa-loh-ASS-ah-tate] to succinate"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following reactions does NOT require biotin?<br>W) Conversion of pyruvate to oxaloacetate [ox-aa-loh-ASS-ah-tate]<br>X) Conversion of acetyl-CoA to malonyl [MAL-uh-nihl]-CoA<br>Y) Conversion of propionyl [PRO-pee-on-il]-CoA to methylmalonyl[meh-thil-MAL-uh-nil]-CoA<br>Z) Conversion of oxaloacetate [ox-aa-loh-ASS-ah-tate] to succinate",
+        "options": [
+          "W) Conversion of pyruvate to oxaloacetate [ox-aa-loh-ASS-ah-tate]",
+          "X) Conversion of acetyl-CoA to malonyl [MAL-uh-nihl]-CoA",
+          "Y) Conversion of propionyl [PRO-pee-on-il]-CoA to methylmalonyl[meh-thil-MAL-uh-nil]-CoA",
+          "Z) Conversion of oxaloacetate [ox-aa-loh-ASS-ah-tate] to succinate"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source heading and complete printed prompt/options read; answer reads SULFURIC and matches this tossup 13."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source heading and complete printed prompt/options read; answer reads BOLTZMANN CONSTANT and matches this tossup 16."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source heading and complete printed prompt/options read; answer reads SODIUM and matches this tossup 17."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source heading and complete printed prompt/options read; answer reads y = 48 and matches this tossup 18."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source heading and complete printed prompt/options read; answer reads OBJECTIVE WORKING DISTANCE (ACCEPT: WORKING DISTANCE.) and matches this tossup 19."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source heading and complete printed prompt/options read; answer reads W) ALKYL GROUPS ELEVATE THE ENERGY OF NITROGEN'S NONBONDING HOMO and matches this tossup 20."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source heading and complete printed prompt/options read; answer reads PULSARS and matches this tossup 21."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source heading and complete printed prompt/options read; answer reads –18 and matches this tossup 22."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "p. 13: source heading and complete printed prompt/options read; answer reads Y) HIGH THERMAL NEUTRON CAPTURE CROSS-SECTION and matches this tossup 23."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source heading and complete printed prompt/options read; answer reads X) FARADAY’S LAW and matches this bonuse 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source heading and complete printed prompt/options read; answer reads GLYCERIN (ACCEPT: GLYCEROL) 2016 NSB® Regional High School Questions                                            Page 2 and matches this bonuse 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source heading and complete printed prompt/options read; answer reads 2.5 and matches this bonuse 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source heading and complete printed prompt/options read; answer reads 1 AND 3 (ACCEPT: GRAM NEGATIVE; ROD SHAPED) 2016 NSB® Regional High School Questions                                                    Page 3 and matches this bonuse 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source heading and complete printed prompt/options read; answer reads 4√21 and matches this bonuse 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source heading and complete printed prompt/options read; answer reads BORN-HABER CYCLE 2016 NSB® Regional High School Questions                                                      Page 4 and matches this bonuse 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source heading and complete printed prompt/options read; answer reads –5/17 – (14/17)i and matches this bonuse 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source heading and complete printed prompt/options read; answer reads √3/3 [SQUARE ROOT OF 3 OVER 3] 2016 NSB® Regional High School Questions                                                  Page 5 and matches this bonuse 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source heading and complete printed prompt/options read; answer reads Y) METHIONINE and matches this bonuse 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source heading and complete printed prompt/options read; answer reads X) 59.3 2016 NSB® Regional High School Questions                                               Page 6 and matches this bonuse 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source heading and complete printed prompt/options read; answer reads 2 AND 3 and matches this bonuse 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: source heading and complete printed prompt/options read; answer reads W) OSCULUM 2016 NSB® Regional High School Questions                                                      Page 7 and matches this bonuse 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source heading and complete printed prompt/options read; answer reads PI BACKBONDING (ACCEPT: PI BACKDONATION) and matches this bonuse 13."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source heading and complete printed prompt/options read; answer reads W) THEY FORMED AT DIFFERENT PRESSURES AND TEMPERATURES 2016 NSB® Regional High School Questions                                                   Page and matches this bonuse 14."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source heading and complete printed prompt/options read; answer reads Y) REPAIRING DOUBLE STRANDED BREAKS and matches this bonuse 15."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source heading and complete printed prompt/options read; answer reads TRIGONAL PYRAMIDAL (ACCEPT: TRIPOD; DO NOT ACCEPT: PYRAMIDAL, TETRAHEDRAL) 2016 NSB® Regional High School Questions                                    and matches this bonuse 16."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: source heading and complete printed prompt/options read; answer reads SQUARE ROOT OF 33 2016 NSB® Regional High School Questions                                                   Page 10 and matches this bonuse 18."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source heading and complete printed prompt/options read; answer reads OSBORNE REYNOLDS (ACCEPT: REYNOLDS) and matches this bonuse 19."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source heading and complete printed prompt/options read; answer reads HARD-SOFT ACID BASE (ACCEPT: HSAB OR PEARSON ACID BASE CONCEPT) 2016 NSB® Regional High School Questions                                               and matches this bonuse 20."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source equation is y = x − x⁴ and y = 0, with 4 raised; answer prints π/3.",
+      "before": {
+        "parts": [
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x – x4 and y = 0."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x – x<sup>4</sup> and y = 0."
+        ],
+        "parts_sanitized": [
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x – x⁴ and y = 0."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "p. 13: source heading and complete printed prompt/options read; answer reads 11/61 2016 NSB® Regional High School Questions                                              Page 13 and matches this bonuse 23."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,24 @@
+{
+  "firstPass": {
+    "scope": "Every one of the 11215 flagged question records, including prompts, choices, answers, notes and reading text.",
+    "completionRule": "Each exact corpus identity must have actual source comparison evidence; pending and missing ledgers never count as reviewed."
+  },
+  "secondPass": {
+    "required": false,
+    "scope": "All 12023 original question records, including the 808 excluded during broad screening, plus the separately recovered missing toss-up (12024 source questions in total). Independently confirm both structural import repairs.",
+    "reason": "Independent QA found missed exponents, displaced solution subscripts, an electron-configuration power, and five malformed multiple-choice blocks in previously verified entries. Parent review also corrected misinterpreted fraction arguments, omitted choices in proposed fixes, and inaccurate claims about printed source labels. These recurring errors require full independent source review rather than a spot check.",
+    "method": "Fresh Luna reviewers compare each final record with its original PDF without relying on the first-pass status. Render and inspect all mathematical and chemical notation; compare every answer and option, preserved reading cues, units, signs and grouping. Record a separate second-pass ledger with exact identities and findings.",
+    "status": "skipped-at-user-request",
+    "decision": "The user explicitly requested skipping the full second pass on October 4, 2026. Finish first-pass corrections, resolve known findings, and perform final automated and targeted gameplay validation; do not claim independent second-pass coverage."
+  },
+  "finalValidation": [
+    "No missing first-pass flagged identities; the full second pass is excluded at the user's request.",
+    "Resolve all audit-generated errors and explicitly record genuine source inconsistencies.",
+    "Corpus and source-keyed correction manifest produce identical import plans.",
+    "Inspect every skipped import pair and source question sequence; repair missing or misclassified records with explicit source evidence, without silently dropping questions.",
+    "Validate rich markup, stored versus embedded choices, complete reading text, and answer-checking regressions.",
+    "Reject reviewed records with empty or malformed multiple-choice options, unbalanced rich markup, or double-escaped entities; these checks gate correction application and audit completion.",
+    "Build, lint, tests, and actual local gameplay checks pass.",
+    "Refresh local preview question data and verify mathematical rendering visually."
+  ]
+}

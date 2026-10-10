@@ -1,0 +1,553 @@
+{
+  "packetIndex": 205,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-15A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked all wording and answer ‘36’ for ‘Chemistry – Short Answer A gas tank contains 82 liters of helium at 2.7 atmospheres of’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked all wording and answer ‘54’ for ‘Physics – Short Answer Two resistors of 12 ohms each are connected in parallel to’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording and answer ‘X) 1’ for ‘Earth and Space – Multiple Choice Which of the following best describes the mass of’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording and answer ‘W) IT IS TRUE REGARDLESS OF THE TRUTH VALUE OF A’ for ‘Math – Multiple Choice A and B are statements, and B is true. Which of the following is’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording and answer ‘INTRINSIC FACTOR (ACCEPT: GASTRIC INTRINSIC FACTOR)’ for ‘Biology – Short Answer What substance, which is produced by parietal [pah-RYE-eht-ul]’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording and answer ‘Z) TERMOLECULAR REACTIONS ARE STATISTICALLY UNLIKELY TO OCCUR’ for ‘Energy – Multiple Choice Department of Energy and Argonne National Lab researchers’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: all four diatomics are printed with subscript 2: N₂, Cl₂, F₂, O₂; answer order is 1, 4, 3, 2.",
+      "before": {
+        "question": "Arrange the following four diatomic molecules in order of increasing bond length: 1) N ; 2) Cl ; 3) F ; 4) O . 2 2 2 2"
+      },
+      "changes": {
+        "question": "Arrange the following four diatomic molecules in order of increasing bond length: 1) N<sub>2</sub>; 2) Cl<sub>2</sub>; 3) F<sub>2</sub>; 4) O<sub>2</sub>.",
+        "question_sanitized": "Arrange the following four diatomic molecules in order of increasing bond length: 1) N₂; 2) Cl₂; 3) F₂; 4) O₂."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked all wording and answer ‘X) THE VOLTAGE BETWEEN THE PLATES IS MULTIPLIED BY A FACTOR OF 1/10’ for ‘Physics – Multiple Choice Suppose a capacitor holds a charge Q and voltage V but is’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: vector components are 3i − 2j + k and 4i − j; printed answer is 14.",
+      "before": {
+        "question": "What is the dot product of the vectors 3i – 2j + k and 4i – j?"
+      },
+      "changes": {
+        "question": "What is the dot product of the vectors 3<i>i</i> − 2<i>j</i> + <i>k</i> and 4<i>i</i> − <i>j</i>?",
+        "question_sanitized": "What is the dot product of the vectors 3i − 2j + k and 4i − j?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked all wording and answer ‘BLASTULA’ for ‘Biology – Short Answer What stage of embryonic development that follows the morula’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked all wording and answer ‘W) HIGH-ENERGY PROTONS COLLIDE WITH A NUCLEUS, WHICH THEN EMITS NEUTRONS’ for ‘Energy – Multiple Choice The Spallation Neutron Source at Oak Ridge National Lab is’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked all wording and answer ‘W) ISOCHRON’ for ‘Earth and Space – Multiple Choice On a map of the magnetic anomalies recorded in the’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording and answer ‘X) MALARIA’ for ‘Biology – Multiple Choice Which of the following diseases is caused by an apicomplexan’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording and answer ‘NEGATIVE y-AXIS’ for ‘Physics – Short Answer A light wave is propagating along the x-axis in the positive’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: formulas are BrF₅ and CCl₄; hybridization is d²sp³. The complete four choices and answer X match.",
+      "before": {
+        "question": "According to VSEPR [VESS-pur] theory, which of the following statements is TRUE concerning the trigonal [TRIH-gunul] bipyramidal [BYE-peer-ah-MID-ul] geometry?<br>W) The molecular geometry of BrF is trigonal bipyramidal 5<br>X) Lone pairs occupy equatorial positions<br>Y) The associated central-atom hybridization is d 2 sp 3<br>Z) The electron-pair geometry of CCl is trigonal bipyramidal 4",
+        "options": [
+          "W) The molecular geometry of BrF is trigonal bipyramidal 5",
+          "X) Lone pairs occupy equatorial positions",
+          "Y) The associated central-atom hybridization is d 2 sp 3",
+          "Z) The electron-pair geometry of CCl is trigonal bipyramidal 4"
+        ]
+      },
+      "changes": {
+        "question": "According to VSEPR [VESS-pur] theory, which of the following statements is TRUE concerning the trigonal [TRIH-gunul] bipyramidal [BYE-peer-ah-MID-ul] geometry?<br>W) The molecular geometry of BrF<sub>5</sub> is trigonal bipyramidal<br>X) Lone pairs occupy equatorial positions<br>Y) The associated central-atom hybridization is d<sup>2</sup>sp<sup>3</sup><br>Z) The electron-pair geometry of CCl<sub>4</sub> is trigonal bipyramidal",
+        "options": [
+          "W) The molecular geometry of BrF<sub>5</sub> is trigonal bipyramidal",
+          "X) Lone pairs occupy equatorial positions",
+          "Y) The associated central-atom hybridization is d<sup>2</sup>sp<sup>3</sup>",
+          "Z) The electron-pair geometry of CCl<sub>4</sub> is trigonal bipyramidal"
+        ],
+        "question_sanitized": "According to VSEPR [VESS-pur] theory, which of the following statements is TRUE concerning the trigonal [TRIH-gunul] bipyramidal [BYE-peer-ah-MID-ul] geometry? W) The molecular geometry of BrF₅ is trigonal bipyramidal X) Lone pairs occupy equatorial positions Y) The associated central-atom hybridization is d²sp³ Z) The electron-pair geometry of CCl₄ is trigonal bipyramidal"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked all wording and answer ‘X) LESS-MASSIVE STARS HAVE LONGER LIFETIMES THAN MORE- MASSIVE STARS’ for ‘Earth and Space – Multiple Choice Which of the following statements is true of main’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source numerator is x² − 9 and denominator x³ − 27; wording is a spoken fraction description and answer 4/13.",
+      "before": {
+        "question": "What is the limit as x approaches one of the fraction with numerator x 2 – 9 and denominator x 3 – 27?"
+      },
+      "changes": {
+        "question": "What is the limit as <i>x</i> approaches one of the fraction with numerator <i>x</i><sup>2</sup> − 9 and denominator <i>x</i><sup>3</sup> − 27?",
+        "question_sanitized": "What is the limit as x approaches one of the fraction with numerator x² − 9 and denominator x³ − 27?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked all wording and answer ‘ANTARCTIC CIRCUMPOLAR CURRENT (ACCEPT: ACC)’ for ‘Energy – Short Answer Scientists at Los Alamos National Lab are studying upwelling in’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked all wording and answer ‘MAGNESIUM (ACCEPT: Mg)’ for ‘Earth and Space – Short Answer What chemical element is in the chemical formula for’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked all wording and answer ‘Z) IT IS RARE FOR ANY GIVEN MOLECULE TO HAVE MORE THAN ONE CARBON-13 ATOM’ for ‘Chemistry – Multiple Choice When comparing carbon-13 NMR to proton NMR, which of’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked all wording and answer ‘GAUSS’S LAW FOR MAGNETISM (DO NOT ACCEPT: GAUSS’S LAW)’ for ‘Physics – Short Answer Which of Maxwell’s equations directly enforces the postulate that’ against source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source polynomial is 2x³ + 11x² + 2x − 16; answer −11/2 and alternatives match.",
+      "before": {
+        "question": "What is the sum of the zeroes of the polynomial 2x 3 + 11x 2 + 2x – 16?"
+      },
+      "changes": {
+        "question": "What is the sum of the zeroes of the polynomial 2<i>x</i><sup>3</sup> + 11<i>x</i><sup>2</sup> + 2<i>x</i> − 16?",
+        "question_sanitized": "What is the sum of the zeroes of the polynomial 2x³ + 11x² + 2x − 16?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked all wording and answer ‘600 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Chemistry – Short Answer A particular reaction doubles in rate when the temperature is’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked all wording and answer ‘ALL OF THEM 2019 Regional Science Bowl – Round 15A Page 1’ for ‘Physics – Short Answer Identify all of the following three physical quantities that are’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording and answer ‘Y) THE STAR HAS AN EXOPLANET ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Earth and Space – Multiple Choice A star is consistently observed to have a 1% dip in’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked all wording and answer ‘22 2019 Regional Science Bowl – Round 15A Page 2’ for ‘Math – Short Answer Triangle ABC has all angles with integral degree measures, and the’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording and answer ‘2, 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Biology – Short Answer Identify all of the following three surface receptors whose’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked all wording and answer ‘Z) PHOTON 2019 Regional Science Bowl – Round 15A Page 3’ for ‘Energy – Multiple Choice DOE researchers recently detected the simultaneous arrival on’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: source species are H₂⁺, H₂⁻, and H₂²⁻; the charges are superscripts and answer is 1, 2.",
+      "before": {
+        "parts": [
+          "Identify all of the following three diatomic species that have non-zero bond order: 1) H + ; 2) H – ; 3) H 2– . 2 2 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three diatomic species that have non-zero bond order: 1) H<sub>2</sub><sup>+</sup>; 2) H<sub>2</sub><sup>−</sup>; 3) H<sub>2</sub><sup>2−</sup>."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three diatomic species that have non-zero bond order: 1) H₂⁺; 2) H₂⁻; 3) H₂²⁻."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked all wording and answer ‘1, 2 2019 Regional Science Bowl – Round 15A Page 4’ for ‘Physics – Short Answer Identify all of the following three observations that are consistent’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked all wording and answer ‘THURSDAY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Math – Short Answer In a particular year, if June 6 is on a Tuesday, on what day of the’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked all wording and answer ‘2, 3 2019 Regional Science Bowl – Round 15A Page 5’ for ‘Biology – Short Answer Identify all of the following three features that all chordates’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked all wording and answer ‘PEROVSKITE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Energy – Short Answer Scientists at SLAC National Accelerator Lab are studying the’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source reads ‘Earth's inner core’; four choices and answer Y match.",
+      "before": {
+        "parts": [
+          "Seismologists believe that Earth&amp;apos;s inner core rotates faster than the rest of the planet. What evidence do they cite?<br>W) The fastest route for s-waves is shifting eastward over time<br>X) The fastest route for s-waves is shifting westward over time<br>Y) The fastest route for p-waves is shifting eastward over time<br>Z) The fastest route for p-waves is shifting westward over time"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Seismologists believe that Earth's inner core rotates faster than the rest of the planet. What evidence do they cite?<br>W) The fastest route for s-waves is shifting eastward over time<br>X) The fastest route for s-waves is shifting westward over time<br>Y) The fastest route for p-waves is shifting eastward over time<br>Z) The fastest route for p-waves is shifting westward over time"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording and answer ‘300 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Biology – Short Answer D5W is a solution found in IV bags that is 5% glucose by weight.’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked all wording and answer ‘Z) CARBON DIOXIDE 2019 Regional Science Bowl – Round 15A Page 7’ for ‘Physics – Multiple Choice For real gases, the difference between their molar heat’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked all wording and answer ‘3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Chemistry – Short Answer Identify all of the following three statements that describe the’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked all wording and answer ‘SODIUM 2019 Regional Science Bowl – Round 15A Page 8’ for ‘Earth and Space – Short Answer A doublet of strong yellow D lines in the spectrum of the’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked all wording and answer ‘45π ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Math – Short Answer A right circular cone with height 8 and radius 6 is sliced halfway’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked all wording and answer ‘POTASSIUM (ACCEPT: K) 2019 Regional Science Bowl – Round 15A Page 9’ for ‘Energy – Short Answer The ICARUS [IH-kah-rus] detector has been moved to the Fermi’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked all wording and answer ‘GLACIER (ACCEPT: ICE, ICE SHEET) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ for ‘Earth and Space – Short Answer An erratic, such as Big Rock in Alberta, Canada, is a’ against source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: the constants are printed Kₚ and K꜀ in the prompt; all reaction choices and answer W match.",
+      "before": {
+        "parts": [
+          "For which of the following reactions does Kp, the pressure equilibrium constant, equal Kc, the concentration equilibrium constant?<br>W) Hydrogen (gas) + chlorine (gas) yields 2 hydrogen chloride (gas)<br>X) 2 hydrogen (gas) + oxygen (gas) yields 2 water (gas)<br>Y) Nitrogen (gas) + 2 oxygen (gas) yields 2 nitrogen dioxide (gas)<br>Z) Dinitrogen tetroxide (gas) yields 2 nitrogen dioxide (gas)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For which of the following reactions does K<sub>p</sub>, the pressure equilibrium constant, equal K<sub>c</sub>, the concentration equilibrium constant?<br>W) Hydrogen (gas) + chlorine (gas) yields 2 hydrogen chloride (gas)<br>X) 2 hydrogen (gas) + oxygen (gas) yields 2 water (gas)<br>Y) Nitrogen (gas) + 2 oxygen (gas) yields 2 nitrogen dioxide (gas)<br>Z) Dinitrogen tetroxide (gas) yields 2 nitrogen dioxide (gas)"
+        ],
+        "parts_sanitized": [
+          "For which of the following reactions does K_(p), the pressure equilibrium constant, equal K_(c), the concentration equilibrium constant? W) Hydrogen (gas) + chlorine (gas) yields 2 hydrogen chloride (gas) X) 2 hydrogen (gas) + oxygen (gas) yields 2 water (gas) Y) Nitrogen (gas) + 2 oxygen (gas) yields 2 nitrogen dioxide (gas) Z) Dinitrogen tetroxide (gas) yields 2 nitrogen dioxide (gas)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source phrases the velocity as ‘3 times the exponential of −2t’ with −2t on the baseline; the full prompt and answer are already correct."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source quantity is 5²⁰¹⁶ + 5²⁰¹⁷ + 5²⁰¹⁸ + 5²⁰¹⁹; answer is 13.",
+      "before": {
+        "parts": [
+          "What is the largest prime factor of the quantity 5 2016 + 5 2017 + 5 2018 + 5 2019 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the largest prime factor of the quantity 5<sup>2016</sup> + 5<sup>2017</sup> + 5<sup>2018</sup> + 5<sup>2019</sup>?"
+        ],
+        "parts_sanitized": [
+          "What is the largest prime factor of the quantity 5²⁰¹⁶ + 5²⁰¹⁷ + 5²⁰¹⁸ + 5²⁰¹⁹?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked all wording and answer ‘1, 2 2019 Regional Science Bowl – Round 15A Page 12’ for ‘Biology – Short Answer Identify all of the following three classes of’ against source."
+    }
+  ],
+  "packetIssues": []
+}

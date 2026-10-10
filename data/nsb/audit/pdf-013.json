@@ -1,0 +1,642 @@
+{
+  "packetIndex": 13,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round14.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the original PDF page 1 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "question": "Name the elements in the following reaction that have been  oxidized and reduced, respectively: Zn + CuSO ZnSO + Cu (solid) 4(aqueous) 4(aqueous) (solid)"
+      },
+      "changes": {
+        "question": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO<sub>4</sub>(aqueous) → ZnSO<sub>4</sub>(aqueous) + Cu(solid)",
+        "question_sanitized": "Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn(solid) + CuSO_4(aqueous) → ZnSO_4(aqueous) + Cu(solid)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 1; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 2; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the original PDF page 2 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "question": "Which of the following represents the inverse function of f(x) = x<sup>3</sup> + 5:<br>W) (x – 5)<sup>3</sup><br>X) x<sup>3</sup> – 5 1 −<br>Y) ( x 5 ) 3   1  <sup>3</sup><br>Z)  −  x 5 1 −",
+        "options": [
+          "W) (x – 5)<sup>3</sup>",
+          "X) x<sup>3</sup> – 5 1 −",
+          "Y) ( x 5 ) 3   1  <sup>3</sup>",
+          "Z)  −  x 5 1 −"
+        ],
+        "answer": "Y) ( x 5 ) 3"
+      },
+      "changes": {
+        "question": "Which of the following represents the inverse function of f(x) = x<sup>3</sup> + 5:<br>W) (x − 5)<sup>3</sup><br>X) x<sup>3</sup> − 5<br>Y) (x − 5)<sup>1/3</sup><br>Z) (1/(x − 5))<sup>3</sup>",
+        "question_sanitized": "Which of the following represents the inverse function of f(x) = x^3 + 5:; W) (x − 5)^3; X) x^3 − 5; Y) (x − 5)^(1/3); Z) (1/(x − 5))^3",
+        "options": [
+          "W) (x − 5)<sup>3</sup>",
+          "X) x<sup>3</sup> − 5",
+          "Y) (x − 5)<sup>1/3</sup>",
+          "Z) (1/(x − 5))<sup>3</sup>"
+        ],
+        "answer": "Y) (x − 5)<sup>1/3</sup>",
+        "answer_sanitized": "Y) (x − 5)^(1/3)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+    "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source page 3 prints the uppercase hexadecimal values 3E8, BB8, and 1F4; the solution converts them to 1000, 3000, and 500, matching the corpus order and answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 7; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 7; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 8; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 8; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 9; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 9; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+    "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 12; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 12; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 13; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the original PDF page 1 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "parts": [
+          "Which of the following is closest to the pK of an acid whose a –4 K = 5.0 × 10 : a<br>W) 2.3<br>X) 3.3<br>Y) 4.0<br>Z) 5.0"
+        ],
+        "answers": [
+          "X) 3.3 a a"
+        ],
+        "notes": [
+          "(Solution: pK = –log<sub>10</sub> K = 3.3)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is closest to the pKa of an acid whose Ka = 5.0 × 10<sup>−4</sup>:<br>W) 2.3<br>X) 3.3<br>Y) 4.0<br>Z) 5.0"
+        ],
+        "parts_sanitized": [
+          "Which of the following is closest to the pKa of an acid whose Ka = 5.0 × 10^(−4):; W) 2.3; X) 3.3; Y) 4.0; Z) 5.0"
+        ],
+        "answers": [
+          "X) 3.3"
+        ],
+        "notes": [
+          "(Solution: pKa = −log<sub>10</sub> Ka = 3.3)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 1; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 2; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the original PDF page 2 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "answers": [
+          "36 base"
+        ],
+        "notes": [
+          "(Solution: 3:4:5; P = 3+4+5 = 12m; A = ½bh = 6 m<sup>2</sup> ; TA = LA + 2B = (12)(2) + 2(6) = 36 m<sup>2</sup> )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "36"
+        ],
+        "notes": [
+          "(Solution: 3:4:5; P<sub>base</sub> = 3 + 4 + 5 = 12 m; A = ½bh = 6 m<sup>2</sup>; TA = LA + 2B = (12)(2) + 2(6) = 36 m<sup>2</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the original PDF page 7 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "answers": [
+          "384,000 × × ×"
+        ],
+        "notes": [
+          "(Solution: E = I<sup>2</sup> R T = (8A)<sup>2</sup> 20 ohms 300 s = 384,000 joules)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "384,000"
+        ],
+        "notes": [
+          "(Solution: E = I<sup>2</sup>RT = (8 A)<sup>2</sup> × 20 ohms × 300 s = 384,000 joules)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 7; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 8; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 8; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 9; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the original PDF page 9 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "parts": [
+          "Add the following rational expressions and give your answer in fully x 4 x + factored form: + − ( x 2 ) ( x 6 ) + + x ( x 2 ) x ( 5 x 2 )"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\">&lt;span&gt;5</span>&lt;span&gt;6</span></span> (ACCEPT: ) − + + − ( x )( x 2 ) ( x 2 )( x 6 )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Add the following rational expressions and give your answer in fully factored form: <span class=\"nsb-fraction\"><span>x</span><span>x + 2</span></span> + <span class=\"nsb-fraction\"><span>4x</span><span>x − 6</span></span>"
+        ],
+        "parts_sanitized": [
+          "Add the following rational expressions and give your answer in fully factored form: (x)/(x + 2) + (4x)/(x − 6)"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>x(5x + 2)</span><span>(x − 6)(x + 2)</span></span> (ACCEPT: <span class=\"nsb-fraction\"><span>x(5x + 2)</span><span>(x + 2)(x − 6)</span></span>)"
+        ],
+        "answers_sanitized": [
+          "(x(5x + 2))/((x − 6)(x + 2)) (ACCEPT: (x(5x + 2))/((x + 2)(x − 6)))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source page 11 prints the protein name as P53 in the answer; the digits are part of the protein name derived from its molecular weight, not an exponent."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the original PDF page 12 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "parts": [
+          "Consider a hypothetical reaction, A + B C + D. At zero time, the concentration of A = 1 molar, after 30 seconds A = 0.5 molar, and after 50 seconds A = 0.3 molar. Calculate the average rate of disappearance of A over the time interval 30 seconds to 50 seconds, in molarity per second: –2"
+        ],
+        "answers": [
+          "1 × 10 (ACCEPT: 0.01) = (0.3"
+        ],
+        "notes": [
+          "(Solution: ave rate = –∆A/∆t – 0.5M)/(50 – 30s) = 0.010 M/s)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider a hypothetical reaction, A + B → C + D. At zero time, the concentration of A = 1 molar, after 30 seconds A = 0.5 molar, and after 50 seconds A = 0.3 molar. Calculate the average rate of disappearance of A over the time interval 30 seconds to 50 seconds, in molarity per second:"
+        ],
+        "answers": [
+          "1 × 10<sup>−2</sup> (ACCEPT: 0.01)"
+        ],
+        "answers_sanitized": [
+          "1 × 10^(−2) (ACCEPT: 0.01)"
+        ],
+        "notes": [
+          "(Solution: average rate = −Δ[A]/Δt = −(0.3 − 0.5 M)/(50 − 30 s) = 0.010 M/s)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 12; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 13; source wording, answer, options and visible notation agree with the corpus."
+    }
+  ],
+  "packetIssues": [
+    "Round 14 toss-up 11 prints “9x² − 30x² + 25 = 0” while its solution says x = 5/3; this source inconsistency is preserved rather than silently corrected."
+  ]
+}

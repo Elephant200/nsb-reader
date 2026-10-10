@@ -1,0 +1,477 @@
+{
+  "packetIndex": 188,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-7.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 188 PDF page 1 shows toss-up 2, “Earth and Space – Short Answer What is the term for areas of the ocean floor that are relatively flat”; checked its complete wording and full answer “ABYSSAL PLAINS” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 188 PDF page 2 shows toss-up 3, “Energy – Short Answer Scientists at the National Energy Technology Lab have been working with”; checked its complete wording and full answer “CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )” against the source.",
+      "before": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )"
+      },
+      "changes": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)",
+        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 188 PDF page 2 shows toss-up 4, “Chemistry – Multiple Choice Which of the following elements is LEAST likely to violate the octet”; checked its complete wording, all choices, and full answer “W) CARBON” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 188 PDF page 3 shows toss-up 5, “Physics – Short Answer What principle of quantum mechanics states that two electrons cannot have”; checked its complete wording and full answer “PAULI EXCLUSION PRINCIPLE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 188 PDF page 3 shows toss-up 6, “Math – Short Answer A pair of ten-sided dice, each with the numbers one through 10 printed on the”; checked its complete wording and full answer “9/10 (ACCEPT: 0.9, 90%)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 188 PDF page 4 shows toss-up 7, “Earth and Space – Multiple Choice The Richter scale is a base-10 logarithmic scale. What feature of”; checked its complete wording, all choices, and full answer “Y) SEISMIC WAVE AMPLITUDE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 188 PDF page 4 shows toss-up 8, “Biology – Multiple Choice    Chlorophyll a and b most strongly absorb which of the following colors of”; checked its complete wording, all choices, and full answer “Z) BLUE” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 188 PDF page 5 shows toss-up 9, “Physics – Short Answer What mechanical property of a material characterizes its stiffness as a ratio of”; checked its complete wording and full answer “YOUNG’S MODULUS (ACCEPT: ELASTIC MODULUS)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 188 PDF page 5 shows toss-up 10, “Math – Short Answer If a universal set contains 24 elements, how many elements are in the”; checked its complete wording and full answer “15” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 188 PDF page 6 shows toss-up 11, “Chemistry – Short Answer What is the name for the functional group in organic chemistry that”; checked its complete wording and full answer “CARBONYL [carboh-NEEL]” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 188 PDF page 6 shows toss-up 12, “Energy – Short Answer Berkeley lab scientists are studying “gateway” proteins associated with the”; checked its complete wording and full answer “MESSENGER RNA (ACCEPT: mRNA)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 188 PDF page 7 shows toss-up 13, “Earth and Space – Multiple Choice Which of the following is closest to the average length of time an”; checked its complete wording, all choices, and full answer “X) 50 DAYS” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 188 PDF page 7 shows toss-up 14, “Chemistry – Short Answer In the Lewis structure of the cyanide anion [AN-eye-on], how many”; checked its complete wording and full answer “TWO” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 188 PDF page 8 shows toss-up 15, “Math – Short Answer What is the cosine of 240 degrees?”; checked its complete wording and full answer “–1/2 (ACCEPT: –0.5)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 188 PDF page 8 shows toss-up 16, “Physics – Short Answer A 60-kilogram sprinter accelerates horizontally off the starting block at 18”; checked its complete wording and full answer “1080” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 188 PDF page 9 shows toss-up 17, “Biology – Short Answer What is the term for paired chromosomes that carry genes controlling the”; checked its complete wording and full answer “HOMOLOGS (ACCEPT: HOMOLOGOUS)” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 188 PDF page 9 shows toss-up 18, “Energy – Multiple Choice Scientists at Brookhaven National Lab have developed a method to”; checked its complete wording, all choices, and full answer “W) BIOFUEL” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 188 PDF page 10 shows toss-up 19, “Math – Short Answer What is the limit as x approaches 3 of the absolute value of open parenthesis”; checked its complete wording and full answer “7” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 188 PDF page 10 shows toss-up 20, “Physics – Short Answer A 70-kilogram Olympic athlete jumps 55 centimeters into the air. What is”; checked its complete wording and full answer “380” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 188 PDF page 11 shows toss-up 21, “Chemistry – Short Answer Rank the following three elements in increasing order of electron affinity:”; checked its complete wording and full answer “1, 3, 2” against the source."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 188 PDF page 11 shows toss-up 22, “Earth and Space – Short Answer    Neptune appears a shade of blue because of what atmospheric gas”; checked its complete wording and full answer “METHANE (ACCEPT: CH<sub>4</sub> )” against the source.",
+      "before": {
+        "answer": "METHANE (ACCEPT: CH<sub>4</sub> )"
+      },
+      "changes": {
+        "answer": "METHANE (ACCEPT: CH<sub>4</sub>)",
+        "answer_sanitized": "METHANE (ACCEPT: CH4)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered packet 188 PDF page 12 shows toss-up 23, “Biology – Short Answer Sickle cell anemia is an example of heterozygote [hetero-ZYE-goat]”; checked its complete wording and full answer “MALARIA” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered packet 188 PDF page 1 shows bonus 2, “Earth and Space – Multiple Choice If a metamorphic rock was subjected to high temperature and”; checked its complete wording, all choices, and full answer “X) MINERALOGICAL ANALYSIS” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 188 PDF page 2 shows bonus 3, “Energy – Short Answer Scientists at Oak Ridge National Lab are working on a novel accelerated”; checked its complete wording and full answer “CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )” against the source.",
+      "before": {
+        "answers": [
+          "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "CARBON DIOXIDE (ACCEPT: CO2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered packet 188 PDF page 2 shows bonus 4, “Chemistry – Short Answer A chemist prepares a 10%-by-mass aqueous [AY-kwee-us] solution of a”; checked its complete wording and full answer “0.56” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 188 PDF page 3 shows bonus 5, “Physics – Short Answer A 1-kilogram block slides down a straight ramp. If the normal force on the”; checked its complete wording and full answer “8” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered packet 188 PDF page 3 shows bonus 6, “Math – Short Answer What number must be ADDED to both the numerator and denominator of 4/9 to”; checked its complete wording and full answer “–12” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 188 PDF page 4 shows bonus 7, “Earth and Space – Short Answer Identify all of the following three minerals that possess two planes of”; checked its complete wording and full answer “2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered packet 188 PDF page 4 shows bonus 8, “Biology – Short Answer Identify all of the following three groups of plants that have nitrogen-fixing”; checked its complete wording and full answer “ALL” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 188 PDF page 5 shows bonus 9, “Physics – Short Answer Light travels 1.8 times as fast in a vacuum as in a given material. If the”; checked its complete wording and full answer “711” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered packet 188 PDF page 5 shows bonus 10, “Math – Short Answer Evaluate 122 + 222 + 322.”; checked its complete wording and full answer “1652” against the source.",
+      "before": {
+        "parts": [
+          "Evaluate 12 2 + 22 2 + 32 2 ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate 12<sup>2</sup> + 22<sup>2</sup> + 32<sup>2</sup>."
+        ],
+        "parts_sanitized": [
+          "Evaluate 12^2 + 22^2 + 32^2."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 188 PDF page 6 shows bonus 11, “Chemistry – Short Answer Identify all of the following three atoms that have a higher first ionization”; checked its complete wording and full answer “2 AND 3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered packet 188 PDF page 6 shows bonus 12, “Energy – Short Answer Scientists at SLAC [slack] recently used the SSRL to study the protein”; checked its complete wording and full answer “CRISPR (ACCEPT: CLUSTERED REGULARLY INTERSPACED SHORT PALINDROMIC REPEATS)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 188 PDF page 7 shows bonus 13, “Earth and Space – Multiple Choice Which of the following most accurately describes the strength of”; checked its complete wording, all choices, and full answer “Y) ABOUT ONE-HUNDRETH THAT OF THE EARTH” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered packet 188 PDF page 7 shows bonus 14, “Chemistry – Short Answer Identify all of the following three compounds that have a hybridization”; checked its complete wording and full answer “1 AND 3” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 188 PDF page 8 shows bonus 15, “Math – Short Answer The shortest side of a 3-4-5 right triangle lies on the x-axis. If the triangle is”; checked its complete wording and full answer “16π” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered packet 188 PDF page 8 shows bonus 16, “Physics – Short Answer A 9-kilogram ball traveling at 5 meters per second undergoes an elastic”; checked its complete wording and full answer “108” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 188 PDF page 9 shows bonus 17, “Biology – Short Answer Calcitonin [kal-sih-TOE-nin] and CGRP are different proteins that”; checked its complete wording and full answer “SPLICING (ACCEPT: mRNA SPLICING)” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered packet 188 PDF page 9 shows bonus 18, “Energy – Short Answer At the present, the negative electrode in most commercial lithium-ion”; checked its complete wording and full answer “CARBON” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 188 PDF page 10 shows bonus 19, “Math – Short Answer In a coordinate plane, identify all of the following four properties that are”; checked its complete wording and full answer “1, 2, AND 4” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered packet 188 PDF page 10 shows bonus 20, “Physics – Short Answer A 70-kilogram electrician places a ladder against a wall, such that it makes a”; checked its complete wording and full answer “686” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 188 PDF page 11 shows bonus 21, “Chemistry – Short Answer Rank the following three elements in increasing order of first ionization”; checked its complete wording and full answer “1, 3, 2” against the source."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered packet 188 PDF page 11 shows bonus 22, “Earth and Space – Short Answer Place the following three layers of the Sun’s atmosphere in order of”; checked its complete wording and full answer “2, 3, 1” against the source."
+    }
+  ],
+  "packetIssues": []
+}

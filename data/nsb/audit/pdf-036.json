@@ -1,0 +1,657 @@
+{
+  "packetIndex": 36,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-5C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Root source QA of PDF p. 1 confirms the answer ends before the separately labeled Solution paragraph. Restored the complete solution to notes and removed its continuation from the answer.",
+      "before": {
+        "answer": "WHITE give white light; complementary color pairs are one primary color and one secondary color, e.g. blue and yellow, red and cyan, or green and magenta.)",
+        "notes": [
+          "(Solution: adding a primary color to the proper secondary color (called complementary colors) will"
+        ]
+      },
+      "changes": {
+        "answer": "WHITE",
+        "notes": [
+          "(Solution: adding a primary color to the proper secondary color (called complementary colors) will give white light; complementary color pairs are one primary color and one secondary color, e.g. blue and yellow, red and cyan, or green and magenta.)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows x² + (2/5)x + c and the answer 1/25, accepting 0.04 or 4/100.",
+      "before": {
+        "question": "Give the value of c that completes the square of the following 2 expression: x + <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;5</span></span> x + c 1 4",
+        "answer": "(ACCEPT: 0.04 or ) 25 100"
+      },
+      "changes": {
+        "question": "Give the value of c that completes the square of the following expression: x<sup>2</sup> + <span class=\"nsb-fraction\"><span>2</span><span>5</span></span>x + c",
+        "question_sanitized": "Give the value of c that completes the square of the following expression: x^2 + (2/5)x + c",
+        "answer": "<span class=\"nsb-fraction\"><span>1</span><span>25</span></span> (ACCEPT: 0.04 or <span class=\"nsb-fraction\"><span>4</span><span>100</span></span>)",
+        "answer_sanitized": "1/25 (ACCEPT: 0.04 or 4/100)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows C₆H₆ with no spaces between element symbols and subscripts.",
+      "before": {
+        "question": "C<sub>6</sub> H<sub>6</sub> is the molecular formula for what aromatic hydrocarbon?"
+      },
+      "changes": {
+        "question": "C<sub>6</sub>H<sub>6</sub> is the molecular formula for what aromatic hydrocarbon?",
+        "question_sanitized": "C6H6 is the molecular formula for what aromatic hydrocarbon?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows C₄H₈O₂ and C₆H₁₄ with contiguous element symbols and subscripts; corpus inserted spaces between them.",
+      "before": {
+        "parts": [
+          "If a substance has a molecular weight of 88, which of the following will it be:<br>W) KCl<br>X) C<sub>4</sub> H<sub>8</sub> O<sub>2</sub><br>Y) RbF<br>Z) C<sub>6</sub> H<sub>14</sub>"
+        ],
+        "answers": [
+          "X) C<sub>4</sub> H<sub>8</sub> O<sub>2</sub>"
+        ],
+        "options": [
+          "W) KCl",
+          "X) C<sub>4</sub> H<sub>8</sub> O<sub>2</sub>",
+          "Y) RbF",
+          "Z) C<sub>6</sub> H<sub>14</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If a substance has a molecular weight of 88, which of the following will it be:<br>W) KCl<br>X) C<sub>4</sub>H<sub>8</sub>O<sub>2</sub><br>Y) RbF<br>Z) C<sub>6</sub>H<sub>14</sub>"
+        ],
+        "parts_sanitized": [
+          "If a substance has a molecular weight of 88, which of the following will it be:<br>W) KCl<br>X) C4H8O2<br>Y) RbF<br>Z) C6H14"
+        ],
+        "answers": [
+          "X) C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>"
+        ],
+        "answers_sanitized": [
+          "X) C4H8O2"
+        ],
+        "options": [
+          "W) KCl",
+          "X) C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>",
+          "Y) RbF",
+          "Z) C<sub>6</sub>H<sub>14</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 has no trailing “100” in the prompt, shows 100/π as a stacked fraction, and uses r² and (10/π)² in the solution.",
+      "before": {
+        "parts": [
+          "Giving your answer in terms of pi, what is the area of a circle whose circumference is 20? 100"
+        ],
+        "answers": [
+          "π 2 2"
+        ],
+        "notes": [
+          "(Solution: C = πd; A = πr = π(10/π) = 100/π)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Giving your answer in terms of pi, what is the area of a circle whose circumference is 20?"
+        ],
+        "parts_sanitized": [
+          "Giving your answer in terms of pi, what is the area of a circle whose circumference is 20?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>100</span><span>π</span></span>"
+        ],
+        "answers_sanitized": [
+          "100/π"
+        ],
+        "notes": [
+          "(Solution: C = πd; A = πr<sup>2</sup> = π(10/π)<sup>2</sup> = 100/π)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows glucose formula C₆H₁₂O₆; the corpus has spaces between each element and subscript.",
+      "before": {
+        "parts": [
+          "Which of the following is NOT true of glucose:<br>W) when glucose joins with galactose, fructose is formed<br>X) it is also called dextrose<br>Y) cellulose is a polymer of glucose molecules<br>Z) its formula is C<sub>6</sub> H<sub>12</sub> O<sub>6</sub>"
+        ],
+        "options": [
+          "W) when glucose joins with galactose, fructose is formed",
+          "X) it is also called dextrose",
+          "Y) cellulose is a polymer of glucose molecules",
+          "Z) its formula is C<sub>6</sub> H<sub>12</sub> O<sub>6</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is NOT true of glucose:<br>W) when glucose joins with galactose, fructose is formed<br>X) it is also called dextrose<br>Y) cellulose is a polymer of glucose molecules<br>Z) its formula is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>"
+        ],
+        "parts_sanitized": [
+          "Which of the following is NOT true of glucose:<br>W) when glucose joins with galactose, fructose is formed<br>X) it is also called dextrose<br>Y) cellulose is a polymer of glucose molecules<br>Z) its formula is C6H12O6"
+        ],
+        "options": [
+          "W) when glucose joins with galactose, fructose is formed",
+          "X) it is also called dextrose",
+          "Y) cellulose is a polymer of glucose molecules",
+          "Z) its formula is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “NH₃,” with the comma immediately following the formula; the corpus inserted a space before the comma.",
+      "before": {
+        "parts": [
+          "What is the formal charge of nitrogen in the ammonia, or NH<sub>3</sub> , molecule?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the formal charge of nitrogen in the ammonia, or NH<sub>3</sub>, molecule?"
+        ],
+        "parts_sanitized": [
+          "What is the formal charge of nitrogen in the ammonia, or NH3, molecule?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows the accepted calcium ion as 2+ and Ca²⁺, with the charge raised; the corpus lost the ion symbols and charge formatting.",
+      "before": {
+        "parts": [
+          "What specific ion is most central to muscle contraction in striated human muscle? + 2+"
+        ],
+        "answers": [
+          "CALCIUM (ACCEPT: CALCIUM 2 or Ca )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What specific ion is most central to muscle contraction in striated human muscle?"
+        ],
+        "answers": [
+          "CALCIUM (ACCEPT: CALCIUM 2<sup>+</sup> or Ca<sup>2+</sup>)"
+        ],
+        "answers_sanitized": [
+          "CALCIUM (ACCEPT: CALCIUM 2+ or Ca2+)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows a square root over a cube root of 225 and gives the cube root of 15; the corpus lost the radical symbols and index layout.",
+      "before": {
+        "parts": [
+          "Reduce the following radical expression to its simplest radical form: 2 3 225 (read as: the square root of the cube root of 225)"
+        ],
+        "answers": [
+          "3 15"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Reduce the following radical expression to its simplest radical form: √(∛225) (read as: the square root of the cube root of 225)"
+        ],
+        "parts_sanitized": [
+          "Reduce the following radical expression to its simplest radical form: the square root of the cube root of 225."
+        ],
+        "answers": [
+          "∛15"
+        ],
+        "answers_sanitized": [
+          "the cube root of 15"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually compared the science notation, and the corpus fields match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    }
+  ],
+  "packetIssues": []
+}

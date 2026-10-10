@@ -1,0 +1,520 @@
+{
+  "packetIndex": 200,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-2A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 1) Chemistry – Multiple Choice If a barometer were constructed using water instead of mercury, by what factor would the height of the mercury barometer be multi."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 2) Physics – Short Answer If a sound wave traveling in air has a frequency of 5,000 hertz, how far, in centimeters, does the wave travel in a single period? ANS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 3) Energy – Short Answer Fermi National Accelerator Lab scientists, as a part of the SENSEI [SEN-say] collaboration, are trying to detect dark matter particles ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 4) Biology – Short Answer What is the general term for metabolic reactions that release energy by breaking down complex molecules? ANSWER: CATABOLIC (ACCEPT: CA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 5) Math – Multiple Choice Which of the following cannot be the rightmost two digits, in order, of the square of an integer? W) 24 X) 27 Y) 56 Z) 89 ANSWER: X) 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 6) Earth and Space – Multiple Choice Which of the following tectonic plates is largest? W) African X) Arabian Y) Eurasian Z) Pacific ANSWER: Z) PACIFIC."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 7) Chemistry – Short Answer Identify all of the following three compounds that contain both covalent and ionic bonds: 1) Phosphorus oxychloride; 2) Ammonium sul."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 8) Physics – Short Answer If the half-life of a radioisotope is 25,000 years, what fraction of an original sample will remain after 100,000 years? ANSWER: ONE S."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 9) Energy – Short Answer Scientists at Lawrence Berkeley National Lab have been studying a silencer protein known as PRC2. PRC2 silences genes by chemically mod."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 10) Math – Multiple Choice The function y = f of x has zeroes at 4 and 12. If its graph is vertically stretched using a factor of 2, what are the zeroes of the ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 key accepts CO₂ for carbon dioxide; restored the subscript in the chemical formula.",
+      "before": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO2)"
+      },
+      "changes": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)",
+        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 12) Biology – Multiple Choice What phylum [FYE- lum] of animals contains organisms that do not possess tissues? W) Cnidaria [nye-DARE-ee-ah] X) Porifera Y) Nema."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 13) Math – Short Answer Two cars leave from the same spot, driving directly away from each other on a straight road, at 20 and 30 miles per hour, respectively. ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 14) Physics – Multiple Choice Which of the following conditions is sufficient for describing a system in unstable equilibrium? W) Net force is zero X) Net force."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 15) Energy – Multiple Choice Scientists at SLAC National Lab recently began construction on the Deep Underground Neutrino Experiment, or DUNE, in South Dakota. ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 16) Earth and Space – Multiple Choice What is the term for minerals that are indicators of the metamorphic environment in which the rock was formed? W) Grade mi."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 17) Chemistry – Short Answer What is the primary industrial ore of aluminum? ANSWER: BAUXITE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 18) Biology – Multiple Choice Which of the following best describes how a serine protease catalyzes amide-bond-breaking reactions? W) The enzyme stabilizes the ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 3x² − x + 2; restored the superscript while retaining the printed “f prime” wording.",
+      "before": {
+        "question": "If f of x equals 3x 2 – x + 2, what is f prime of 3?"
+      },
+      "changes": {
+        "question": "If f of x equals 3x<sup>2</sup> – x + 2, what is f prime of 3?",
+        "question_sanitized": "If f of x equals 3x^2 – x + 2, what is f prime of 3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 20) Physics – Multiple Choice Kepler’s second law states that each planet moves so that a line from the sun to the planet sweeps out equal areas in equal period."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 21) Earth and Space – Short Answer The Saros cycle describes the period of time between successive alignments of what three solar system bodies? ANSWER: EARTH, ."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 22) Biology – Short Answer Mature plant cells have the ability to de-differentiate and then give rise to all of the cell types found in the adult organism. What."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 23) Chemistry – Short Answer Aldehydes [AL-deh-hides] and ketones have what functional group in common? ANSWER: CARBONYL."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 1) Chemistry – Short Answer To the nearest degree Celsius, what is the boiling point at standard pressure of a 2-molal [moh-LAHL] solution of urea in water? ANS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints 2) Physics – Short Answer Consider a solid spherical conductor that has a small spherical cavity in its center. You place an excess charge on the conductor and ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints alumina as Al₂O₃; restored both element subscripts and removed spaces.",
+      "before": {
+        "answers": [
+          "Al O 2 3"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "Al<sub>2</sub>O<sub>3</sub>"
+        ],
+        "answers_sanitized": [
+          "Al2O3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints 4) Biology – Short Answer What plant ground tissue type performs a majority of the metabolic functions of a plant and plays a relatively small role in structura."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 5) Math – Short Answer What is the average of the first 10 prime numbers? ANSWER: 12.9 (ACCEPT: 129/10, 12 9/10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 6) Earth and Space – Short Answer An atom of uranium-238 undergoes two beta-minus decays and four alpha decays. What is the mass number of the product? ANSWER: ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints Kₐ with a subscript a; extraction split the subscript into the following sentence, so restored the full prompt.",
+      "before": {
+        "parts": [
+          "A weak acid has a K of 1.6 times ten to the negative fifth. a Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A weak acid has a K<sub>a</sub> of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
+        ],
+        "parts_sanitized": [
+          "A weak acid has a K_a of 1.6 times ten to the negative fifth. Assuming that dissociation is small, what is the percent dissociation of a one-molar solution of this acid in water?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 prints 8) Physics – Short Answer At a bottling factory, a robotic arm automatically raises a 4000- newton palette up 6 meters to load it into a canning machine every 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 9) Energy – Short Answer Scientists at Oak Ridge National Lab are studying alloys composed of rare-earth elements. Identify all of the following three metals th."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints 10) Math – Short Answer What is the ratio of the volume of a sphere of diameter π to the volume of a cube with edge length π? ANSWER: π/6 (ACCEPT: (1/6)π) 2019 ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 11) Earth and Space – Short Answer Neutron stars are generally created as remnants of what type of supernovae [super-NOH-vee]? ANSWER: TYPE TWO (ACCEPT: TWO, ON."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints 12) Biology – Short Answer Pterosaurs [TERR-oh-sores] were the first tetrapods to evolve what key characteristic of their clade? ANSWER: FLIGHT (ACCEPT: POWERED."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 13) Math – Short Answer If f of x equals the natural log of cosine x, what is f prime of π/3? ANSWER: –√3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints 14) Physics – Short Answer The acceleration function for a particle’s motion is differentiable [dif-ur-EN-sha-bul] and integrable [IN-tah-grah-bul] everywhere. ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 16) Earth and Space – Short Answer Identify all of the following three rocks that can have a glassy texture: 1) Coal; 2) Obsidian; 3) Pumice. ANSWER: 2, 3 2019 ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints molecular formula C₅H₈; restored subscripts and removed extraction spaces.",
+      "before": {
+        "parts": [
+          "What is the name of a molecule with a 5-membered ring and the molecular formula C H ? 5 8"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the name of a molecule with a 5-membered ring and the molecular formula C<sub>5</sub>H<sub>8</sub>?"
+        ],
+        "parts_sanitized": [
+          "What is the name of a molecule with a 5-membered ring and the molecular formula C5H8?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 prints 18) Biology – Multiple Choice The organisms that form truffles are predominantly part of what group of fungi? W) Chytrids [KIH-trids] X) Glomeromycetes [glo-mai."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 19) Math – Short Answer If the product of cosine x and sine x is 2/9, what is the value of open parenthesis cosine x minus sine x close parenthesis squared? ANS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints 20) Physics – Short Answer Consider a spring-mass system that has an angular frequency of 6 radians per second. If the mass is 2 kilograms, then in newtons per ."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints 21) Earth and Space – Short Answer In stellar fusion, what isotope is the primary product of the proton-proton chain? ANSWER: HELIUM-4 ~~~~~~~~~~~~~~~~~~~~~~~~~."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints “mother’s body”; restored the apostrophe entity in the prompt.",
+      "before": {
+        "parts": [
+          "What is the adjective for organisms that lay eggs that hatch outside the mother&amp;apos;s body?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the adjective for organisms that lay eggs that hatch outside the mother's body?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 23) Chemistry – Short Answer Identify all of the following three elements that are considered nonmetals: 1) Radon; 2) Europium; 3) Americium. ANSWER: 1 2019 Reg."
+    }
+  ],
+  "packetIssues": []
+}

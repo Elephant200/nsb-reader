@@ -1,0 +1,603 @@
+{
+  "packetIndex": 192,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives 50 kg, initial 5.25 m/s, and 3.5-second stopping time; friction force answer 75 N."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks the Berkeley Lab infrared-light user facility; answer ALS with Advanced Light Source acceptance."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks which molecule fermentation reduces pyruvate to; answer lactate with lactic acid acceptance."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints bromine trifluoride hybridization and answer SP3D (accept DSP3), matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints 8x³−2x²+x−12=0 and choices 2, 4, 6, 8; key Z. Restored exponents in the equation.",
+      "before": {
+        "question": "According to the rational root theorem, which of the following is NOT a possible solution to the equation 8x 3 – 2x 2 + x – 12 = 0?<br>W) 2<br>X) 4<br>Y) 6<br>Z) 8"
+      },
+      "changes": {
+        "question": "According to the rational root theorem, which of the following is NOT a possible solution to the equation 8x<sup>3</sup> – 2x<sup>2</sup> + x – 12 = 0?<br>W) 2<br>X) 4<br>Y) 6<br>Z) 8",
+        "question_sanitized": "According to the rational root theorem, which of the following is NOT a possible solution to the equation 8x^3 – 2x^2 + x – 12 = 0? W) 2; X) 4; Y) 6; Z) 8"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks isotope at about 7 parts per trillion; answer helium-3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks maximum antenna separation at 30 kHz without destructive interference; answer 5 km."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 spells out ion charges in all four choices and keys aluminum three plus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 includes the molecular read-as cue and four polymer choices; key X, polyphenylene vinylene. Joined the line-wrapped pronunciation cue.",
+      "before": {
+        "question": "Scientists at Brookhaven National Lab are studying molecular [moh-LEK- yoo-lur] wires as a potential polymeric replacement for silicon-based technologies. Which of the following polymers could behave as a molecular wire without any other functional groups?<br>W) Polyester<br>X) Polyphenylene [polly-FEH-nil-een] vinylene<br>Y) Polyamide [polly-AM-ide]<br>Z) Polystyrene [polly-STYE-reen]"
+      },
+      "changes": {
+        "question": "Scientists at Brookhaven National Lab are studying molecular [moh-LEK-yoo-lur] wires as a potential polymeric replacement for silicon-based technologies. Which of the following polymers could behave as a molecular wire without any other functional groups?<br>W) Polyester<br>X) Polyphenylene [polly-FEH-nil-een] vinylene<br>Y) Polyamide [polly-AM-ide]<br>Z) Polystyrene [polly-STYE-reen]",
+        "question_sanitized": "Scientists at Brookhaven National Lab are studying molecular [moh-LEK-yoo-lur] wires as a potential polymeric replacement for silicon-based technologies. Which of the following polymers could behave as a molecular wire without any other functional groups? W) Polyester; X) Polyphenylene [polly-FEH-nil-een] vinylene; Y) Polyamide [polly-AM-ide]; Z) Polystyrene [polly-STYE-reen]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks which part of a myelinated neuron has myelin sheaths; answer axon."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks which planet’s core is the largest fraction of its volume; answer Mercury."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives fourth term 9 and ninth term 29; common difference answer 4."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 asks neutron momentum fraction after collision with stationary deuterium; answer 1/3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 prints (x−6)/(x²−36) as x approaches 6; answer 1/12. Restored superscript 2.",
+      "before": {
+        "question": "What is the limit as x approaches 6 of the function with numerator x – 6 and denominator x 2 – 36?"
+      },
+      "changes": {
+        "question": "What is the limit as x approaches 6 of the function with numerator x – 6 and denominator x<sup>2</sup> – 36?",
+        "question_sanitized": "What is the limit as x approaches 6 of the function with numerator x – 6 and denominator x^2 – 36?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists four outcomes for adding 12-molar hydrochloric acid to saturated sodium chloride; key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists frozen fog deposit, clockwise tornado, high-altitude lightning, and out-of-season hurricane; key W."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists bees, wind, butterflies, moths for dandelion pollination; key W."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks the membrane location for pore complexes blocking mRNA; answer nuclear membrane with nuclear lamin acceptance."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks the conjugate of −7i; answer 7i with 0+7i acceptance."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks the entropy factor when multiplicity grows from 10 to 1000; answer 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints Octans and both accepted Latin names for the South Pole constellation."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints K₂[Cu(CN)₄] with formula subscripts and the potassium tetracyanocuprate(II) [TWO] answer; removed extraction-added spaces.",
+      "before": {
+        "question": "What is the IUPAC name for the compound with the chemical formula K<sub>2</sub> [Cu(CN)<sub>4</sub> ]?"
+      },
+      "changes": {
+        "question": "What is the IUPAC name for the compound with the chemical formula K<sub>2</sub>[Cu(CN)<sub>4</sub>]?",
+        "question_sanitized": "What is the IUPAC name for the compound with the chemical formula K2[Cu(CN)4]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 shows four plant-organ choices for star-shaped xylem; key Y, dicot root."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives 50-mm glass slide, refractive index 1.2, overhead view; answer 42 mm."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 describes polymeric compounds of porous carbon scaffolds that ligate metal ions; answer metal-organic framework, accept MOF."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks flexible amino acid in collagen triple helix; answer glycine."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints all three equilibrium changes for graphite combustion and keys NONE; restored intact gaseous [gah-shus] cue.",
+      "before": {
+        "parts": [
+          "Consider the combustion reaction of solid graphite with gaseous [gah- shus] oxygen to generate gaseous carbon monoxide. Identify all of the following three changes that would shift the equilibrium of this reaction to the right: 1) Adding more solid carbon; 2) Increasing the temperature; 3) Compressing the reaction vessel."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider the combustion reaction of solid graphite with gaseous [gah-shus] oxygen to generate gaseous carbon monoxide. Identify all of the following three changes that would shift the equilibrium of this reaction to the right: 1) Adding more solid carbon; 2) Increasing the temperature; 3) Compressing the reaction vessel."
+        ],
+        "parts_sanitized": [
+          "Consider the combustion reaction of solid graphite with gaseous [gah-shus] oxygen to generate gaseous carbon monoxide. Identify all of the following three changes that would shift the equilibrium of this reaction to the right: 1) Adding more solid carbon; 2) Increasing the temperature; 3) Compressing the reaction vessel."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks maximum number of lines among two sets of five and four points; answer 22."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists calcite, galena [gah-LEE-nah], and mica; answer 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives 7.2 kg, 3 m/s, and 8,000 N/m spring; compression 0.09 m."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists 4d-xy, 5p-x, and 3s orbitals; answer 2 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks which particle has CP-violating decays studied by BaBar; answer B meson, accept B particle."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks the element released after inositol triphosphate; answer calcium."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks what star can fuse deuterium and lithium but not hydrogen; answer brown dwarf."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 prints x congruent to 3 mod 7 and asks x⁷; answer 3. Restored exponent.",
+      "before": {
+        "parts": [
+          "Suppose that x is congruent to 3 mod 7. In the integers mod 7, what is x 7 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Suppose that x is congruent to 3 mod 7. In the integers mod 7, what is x<sup>7</sup>?"
+        ],
+        "parts_sanitized": [
+          "Suppose that x is congruent to 3 mod 7. In the integers mod 7, what is x^7?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives 600-nm wavelength and refractive index 1.333; answer 450 nm."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 source prints the complete logarithm prompt through the answer area; restored text-field boundary and answer 1.653.",
+      "before": {
+        "parts": [
+          "Given that log base 10 of 2 is 0.301 and log base 10 of 3 is 0.477. Giving your"
+        ],
+        "answers": [
+          "to three decimal places, what is log base 10 of 45? 1.653"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that log base 10 of 2 is 0.301 and log base 10 of 3 is 0.477. Giving your answer to three decimal places, what is log base 10 of 45?"
+        ],
+        "answers": [
+          "1.653"
+        ],
+        "parts_sanitized": [
+          "Given that log base 10 of 2 is 0.301 and log base 10 of 3 is 0.477. Giving your answer to three decimal places, what is log base 10 of 45?"
+        ],
+        "answers_sanitized": [
+          "1.653"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists four convex-meniscus explanations; key Z. Repaired double-escaped apostrophe in choice and answer.",
+      "before": {
+        "parts": [
+          "Which of the following best explains why mercury in a glass tube forms a convex meniscus?<br>W) Mercury is repelled by the negatively-charged glass surface<br>X) Mercury is more polar than the glass surface<br>Y) Mercury is highly viscous<br>Z) Mercury&amp;apos;s cohesive forces are stronger than its adhesive forces"
+        ],
+        "options": [
+          "W) Mercury is repelled by the negatively-charged glass surface",
+          "X) Mercury is more polar than the glass surface",
+          "Y) Mercury is highly viscous",
+          "Z) Mercury&amp;apos;s cohesive forces are stronger than its adhesive forces"
+        ],
+        "answers": [
+          "Z) MERCURY&amp;apos;S COHESIVE FORCES ARE STRONGER THAN ITS ADHESIVE FORCES"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following best explains why mercury in a glass tube forms a convex meniscus?<br>W) Mercury is repelled by the negatively-charged glass surface<br>X) Mercury is more polar than the glass surface<br>Y) Mercury is highly viscous<br>Z) Mercury’s cohesive forces are stronger than its adhesive forces"
+        ],
+        "parts_sanitized": [
+          "Which of the following best explains why mercury in a glass tube forms a convex meniscus? W) Mercury is repelled by the negatively-charged glass surface; X) Mercury is more polar than the glass surface; Y) Mercury is highly viscous; Z) Mercury's cohesive forces are stronger than its adhesive forces"
+        ],
+        "options": [
+          "W) Mercury is repelled by the negatively-charged glass surface",
+          "X) Mercury is more polar than the glass surface",
+          "Y) Mercury is highly viscous",
+          "Z) Mercury’s cohesive forces are stronger than its adhesive forces"
+        ],
+        "answers": [
+          "Z) MERCURY’S COHESIVE FORCES ARE STRONGER THAN ITS ADHESIVE FORCES"
+        ],
+        "answers_sanitized": [
+          "Z) MERCURY'S COHESIVE FORCES ARE STRONGER THAN ITS ADHESIVE FORCES"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists Iceland, Canary Islands, Southern Florida, Manitoba; key Z. Removed extraction-added space before punctuation.",
+      "before": {
+        "parts": [
+          "In which of the following locations could a paleontologist hope to find sedimentary rocks containing trilobites ?<br>W) Iceland<br>X) The Canary Islands<br>Y) Southern Florida<br>Z) Manitoba"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In which of the following locations could a paleontologist hope to find sedimentary rocks containing trilobites?<br>W) Iceland<br>X) The Canary Islands<br>Y) Southern Florida<br>Z) Manitoba"
+        ],
+        "parts_sanitized": [
+          "In which of the following locations could a paleontologist hope to find sedimentary rocks containing trilobites? W) Iceland; X) The Canary Islands; Y) Southern Florida; Z) Manitoba"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists white blood cells, glia, and protein; answer 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks for high-energy leptons used for subsurface imaging; answer muons."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints rate π cubic centimeters per second and radius 3 cm; answer 1/36. Restored omitted π.",
+      "before": {
+        "parts": [
+          "If a spherical balloon is inflated at a rate of cubic centimeters per second, at what rate in centimeters per second is the radius changing when the radius is 3 centimeters?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If a spherical balloon is inflated at a rate of π cubic centimeters per second, at what rate in centimeters per second is the radius changing when the radius is 3 centimeters?"
+        ],
+        "parts_sanitized": [
+          "If a spherical balloon is inflated at a rate of pi cubic centimeters per second, at what rate in centimeters per second is the radius changing when the radius is 3 centimeters?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 gives 50-kg person, 10-kg rock, 15 m/s at 45°; answer 2 m/s."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 ranks Mars, Jupiter, Earth by equatorial magnetic field; answer 1, 3, 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 gives 10 bonding and 5 antibonding electrons; bond order answer 2.5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks which phosphate remains after DNA incorporation; answer alpha phosphate, choice 1."
+    }
+  ],
+  "packetIssues": []
+}

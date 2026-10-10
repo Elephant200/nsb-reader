@@ -1,0 +1,638 @@
+{
+  "packetIndex": 81,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round15.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by number and opening text on Round 15 page 1; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by number and opening text on Round 15 page 1; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by number and opening text on Round 15 page 2; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by number and opening text on Round 15 page 2; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by number and opening text on Round 15 page 3; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by number and opening text on Round 15 page 3; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by number and opening text on Round 15 page 4; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by number and opening text on Round 15 page 5; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by number and opening text on Round 15 page 5; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by number and opening text on Round 15 page 6; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by number and opening text on Round 15 page 6; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 by number and opening text on Round 15 page 7; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "question": "How many lone pairs of electrons are on the phosphorus atom in PF<sub>3</sub> ?"
+      },
+      "changes": {
+        "question": "How many lone pairs of electrons are on the phosphorus atom in PF<sub>3</sub>?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by number and opening text on Round 15 page 8; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "question": "Which of the following molecules contains only one non- bonding pair of valence electrons?<br>W) HCN 4+<br>X) NH<br>Y) C<sub>2</sub> H<sub>4</sub><br>Z) N<sub>2</sub>",
+        "options": [
+          "W) HCN 4+",
+          "X) NH",
+          "Y) C<sub>2</sub> H<sub>4</sub>",
+          "Z) N<sub>2</sub>"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following molecules contains only one non-bonding pair of valence electrons?<br>W) HCN<br>X) NH<sub>4</sub><sup>+</sup><br>Y) C<sub>2</sub>H<sub>4</sub><br>Z) N<sub>2</sub>",
+        "question_sanitized": "Which of the following molecules contains only one non-bonding pair of valence electrons?<br>W) HCN<br>X) NH4^+<br>Y) C2H4<br>Z) N2",
+        "options": [
+          "W) HCN",
+          "X) NH<sub>4</sub><sup>+</sup>",
+          "Y) C<sub>2</sub>H<sub>4</sub>",
+          "Z) N<sub>2</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by number and opening text on Round 15 page 9; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by number and opening text on Round 15 page 9; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by number and opening text on Round 15 page 10; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by number and opening text on Round 15 page 10; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "question": "What is the hybridization of the xenon atom in xenon tetrafluoride? 3 2",
+        "answer": "sp d"
+      },
+      "changes": {
+        "question": "What is the hybridization of the xenon atom in xenon tetrafluoride?",
+        "answer": "sp<sup>3</sup>d<sup>2</sup>",
+        "answer_sanitized": "sp^3d^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by number and opening text on Round 15 page 11; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by number and opening text on Round 15 page 12; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by number and opening text on Round 15 page 12; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by number and opening text on Round 15 page 13; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by number and opening text on Round 15 page 1; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by number and opening text on Round 15 page 1; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by number and opening text on Round 15 page 2; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by number and opening text on Round 15 page 2; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by number and opening text on Round 15 page 3; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by number and opening text on Round 15 page 3; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "parts": [
+          "The sum of the squares of reciprocals of all positive integers equals which of the following?<br>W) π<br>X) π/3 2<br>Y) π /6 3<br>Z) π /12 2"
+        ],
+        "options": [
+          "W) π",
+          "X) π/3 2",
+          "Y) π /6 3",
+          "Z) π /12 2"
+        ],
+        "answers": [
+          "Y) π /6"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The sum of the squares of reciprocals of all positive integers equals which of the following?<br>W) √π<br>X) π/3<br>Y) π<sup>2</sup>/6<br>Z) π<sup>3</sup>/12"
+        ],
+        "parts_sanitized": [
+          "The sum of the squares of reciprocals of all positive integers equals which of the following?<br>W) sqrt(pi)<br>X) pi/3<br>Y) pi^2/6<br>Z) pi^3/12"
+        ],
+        "options": [
+          "W) √π",
+          "X) π/3",
+          "Y) π<sup>2</sup>/6",
+          "Z) π<sup>3</sup>/12"
+        ],
+        "answers": [
+          "Y) π<sup>2</sup>/6"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by number and opening text on Round 15 page 4; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by number and opening text on Round 15 page 4; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered Round 15 page 5 shows Planck constant h = 6.6 × 10⁻³⁴ joule seconds and electron mass 9.1 × 10⁻³¹ kilograms; the printed answer is 1.2 × 10⁵ m/s. Restored all three flattened powers.",
+      "before": {
+        "parts": [
+          "An electron microscope enables observation of detail on a virus down to 6 nanometers. Given h as 6.6 x 10 joule seconds and the mass of the electron as 9.1 −<sup>34</sup> x 10 kilograms, providing your answer in scientific notation with two significant digits, how fast, −<sup>31</sup> in meters per second, must an electron in the microscope be moving to observe detail of this size? × 5"
+        ],
+        "answers": [
+          "1.2 10"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "An electron microscope enables observation of detail on a virus down to 6 nanometers. Given h as 6.6 × 10<sup>−34</sup> joule seconds and the mass of the electron as 9.1 × 10<sup>−31</sup> kilograms, providing your answer in scientific notation with two significant digits, how fast, in meters per second, must an electron in the microscope be moving to observe detail of this size?"
+        ],
+        "parts_sanitized": [
+          "An electron microscope enables observation of detail on a virus down to 6 nanometers. Given h as 6.6 × 10^-34 joule seconds and the mass of the electron as 9.1 × 10^-31 kilograms, providing your answer in scientific notation with two significant digits, how fast, in meters per second, must an electron in the microscope be moving to observe detail of this size?"
+        ],
+        "answers": [
+          "1.2 × 10<sup>5</sup>"
+        ],
+        "answers_sanitized": [
+          "1.2 × 10^5"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by number and opening text on Round 15 page 5; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by number and opening text on Round 15 page 6; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "answers": [
+          "2 70"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "2√70"
+        ],
+        "answers_sanitized": [
+          "2sqrt(70)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by number and opening text on Round 15 page 6; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "parts": [
+          "Given that the balanced chemical equation for the reaction of oxygen and ethane is: 2C<sub>2</sub> H + 7O → 4CO + 6H<sub>2</sub> O , if 16 grams of O<sub>2</sub> react with excess 6(g) 2(g) 2(g) (g) C<sub>2</sub> H<sub>6</sub> , to the nearest gram, how many grams of CO<sub>2</sub> will be formed?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that the balanced chemical equation for the reaction of oxygen and ethane is: 2C<sub>2</sub>H<sub>6</sub>(g) + 7O<sub>2</sub>(g) → 4CO<sub>2</sub>(g) + 6H<sub>2</sub>O(g), if 16 grams of O<sub>2</sub> react with excess C<sub>2</sub>H<sub>6</sub>, to the nearest gram, how many grams of CO<sub>2</sub> will be formed?"
+        ],
+        "parts_sanitized": [
+          "Given that the balanced chemical equation for the reaction of oxygen and ethane is: 2C2H6(g) + 7O2(g) -> 4CO2(g) + 6H2O(g), if 16 grams of O2 react with excess C2H6, to the nearest gram, how many grams of CO2 will be formed?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by number and opening text on Round 15 page 7; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by number and opening text on Round 15 page 7; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "parts": [
+          "Given the balanced chemical equation: H SO + 2NaOH → Na<sub>2</sub> SO + 2H<sub>2</sub> O , in an acid-base titration, 25 milliliters of 0.2 molar 4(aq) (aq) 4(aq) ( l ) <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> H SO<sub>4</sub> were required to neutralize 100 milliliters of NaOH solution. Providing your answer as a decimal to the nearest tenth, what is the molarity of the NaOH solution?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given the balanced chemical equation: H<sub>2</sub>SO<sub>4</sub>(aq) + 2NaOH(aq) → Na<sub>2</sub>SO<sub>4</sub>(aq) + 2H<sub>2</sub>O(l), in an acid-base titration, 25 milliliters of 0.2 molar H<sub>2</sub>SO<sub>4</sub> were required to neutralize 100 milliliters of NaOH solution. Providing your answer as a decimal to the nearest tenth, what is the molarity of the NaOH solution?"
+        ],
+        "parts_sanitized": [
+          "Given the balanced chemical equation: H2SO4(aq) + 2NaOH(aq) -> Na2SO4(aq) + 2H2O(l), in an acid-base titration, 25 milliliters of 0.2 molar H2SO4 were required to neutralize 100 milliliters of NaOH solution. Providing your answer as a decimal to the nearest tenth, what is the molarity of the NaOH solution?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by number and opening text on Round 15 page 8; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by number and opening text on Round 15 page 8; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "parts": [
+          "Given the balanced equation: 2C<sub>4</sub> H + 13O → 8CO + 10(g) 2(g) 2(g) 10H<sub>2</sub> O , what is the percent yield of water if 15 moles of water is obtained when 4 moles of (g) butane is burned in excess oxygen?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given the balanced equation: 2C<sub>4</sub>H<sub>10</sub>(g) + 13O<sub>2</sub>(g) → 8CO<sub>2</sub>(g) + 10H<sub>2</sub>O(g), what is the percent yield of water if 15 moles of water is obtained when 4 moles of butane is burned in excess oxygen?"
+        ],
+        "parts_sanitized": [
+          "Given the balanced equation: 2C4H10(g) + 13O2(g) -> 8CO2(g) + 10H2O(g), what is the percent yield of water if 15 moles of water is obtained when 4 moles of butane is burned in excess oxygen?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by number and opening text on Round 15 page 9; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by number and opening text on Round 15 page 9; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by number and opening text on Round 15 page 10; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by number and opening text on Round 15 page 10; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by number and opening text on Round 15 page 11; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by number and opening text on Round 15 page 11; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered Round 15 page 12 prints the car’s de Broglie wavelength as 1 × 10⁻³⁸ meters; restored the negative exponent in the answer.",
+      "before": {
+        "answers": [
+          "1 × 10 −<sup>38</sup>"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1 × 10<sup>−38</sup>"
+        ],
+        "answers_sanitized": [
+          "1 × 10^-38"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by number and opening text on Round 15 page 12; checked the complete item and mathematical/chemical notation against the page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by number and opening text on Round 15 page 13; checked the complete item and mathematical/chemical notation against the page image.",
+      "before": {
+        "parts": [
+          "Water flows at 10 cubic feet per minute into a cylinder with a radius of 5 feet and height of 12 feet. Providing your answer as a fraction in simplest form in terms of π, how fast is the water rising in feet per minute when the height is 4 feet? 2"
+        ],
+        "answers": [
+          "5π"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Water flows at 10 cubic feet per minute into a cylinder with a radius of 5 feet and height of 12 feet. Providing your answer as a fraction in simplest form in terms of π, how fast is the water rising in feet per minute when the height is 4 feet?"
+        ],
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>2</span><span>5π</span></span>"
+        ],
+        "answers_sanitized": [
+          "2/(5pi)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

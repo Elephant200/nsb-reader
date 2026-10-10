@@ -1,0 +1,454 @@
+{
+  "packetIndex": 129,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-16-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 blood-brain-barrier question, four glial cell choices including the oligodendrocyte cue, and answer W) Astrocytes match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 all three acetic-acid analysis methods and accepted answer Titration and potentiostat match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 shows the limit fraction (x²−9)/(x⁴−81), four numeric answer choices with stacked fractions, and answer Y) 1/18.",
+      "before": {
+        "question": "What is the limit as x approaches 3 of [open parenthesis x ሺ௫ ర ି଼ଵሻ squared minus nine close parenthesis divided by open parenthesis x to the fourth minus eighty-one close parenthesis]?<br>W) 1 ଵ<br>X) ଽ ଵ<br>Y) ଵ଼ ଵ<br>Z) ଶ଻ ଵ",
+        "options": [
+          "W) 1 ଵ",
+          "X) ଽ ଵ",
+          "Y) ଵ଼ ଵ",
+          "Z) ଶ଻ ଵ"
+        ],
+        "answer": "Y) ଵ଼"
+      },
+      "changes": {
+        "question": "What is the limit as x approaches 3 of <span class=\"nsb-fraction\"><span>x<sup>2</sup> − 9</span><span>x<sup>4</sup> − 81</span></span> [open parenthesis x squared minus nine close parenthesis divided by open parenthesis x to the fourth minus eighty-one close parenthesis]?<br>W) 1<br>X) <span class=\"nsb-fraction\"><span>1</span><span>9</span></span><br>Y) <span class=\"nsb-fraction\"><span>1</span><span>18</span></span><br>Z) <span class=\"nsb-fraction\"><span>1</span><span>27</span></span>",
+        "options": [
+          "W) 1",
+          "X) <span class=\"nsb-fraction\"><span>1</span><span>9</span></span>",
+          "Y) <span class=\"nsb-fraction\"><span>1</span><span>18</span></span>",
+          "Z) <span class=\"nsb-fraction\"><span>1</span><span>27</span></span>"
+        ],
+        "answer": "Y) <span class=\"nsb-fraction\"><span>1</span><span>18</span></span>",
+        "question_sanitized": "What is the limit as x approaches 3 of (x^2 - 9)/(x^4 - 81) [open parenthesis x squared minus nine close parenthesis divided by open parenthesis x to the fourth minus eighty-one close parenthesis]? W) 1 X) 1/9 Y) 1/18 Z) 1/27",
+        "answer_sanitized": "Y) 1/18"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 semiconductor doping prompt and answer P-N junction match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 Tibet altitude prompt, four percentage options, and answer X) 50% match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 ΔG/ΔH/ΔS signs in all four options and answer Z) match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 vitamin solubility choices, pronunciation cues, and answer Y) Biotin match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 fox-fur variation question, four selection/drift options, and answer W) Directional selection match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints subscripts in BF₃, NF₃, ClF₃ and SO₃; choice Y and the answer both read ClF₃ with cue [C-L-F three].",
+      "before": {
+        "question": "Which of the following molecules has T-shaped molecular geometry?<br>W) BF3<br>X) NF3<br>Y) ClF3 [C-L-F three]<br>Z) SO3",
+        "options": [
+          "W) BF3",
+          "X) NF3",
+          "Y) ClF3 [C-L-F three]",
+          "Z) SO3"
+        ],
+        "answer": "Y) ClF3"
+      },
+      "changes": {
+        "question": "Which of the following molecules has T-shaped molecular geometry?<br>W) BF<sub>3</sub><br>X) NF<sub>3</sub><br>Y) ClF<sub>3</sub> [C-L-F three]<br>Z) SO<sub>3</sub>",
+        "options": [
+          "W) BF<sub>3</sub>",
+          "X) NF<sub>3</sub>",
+          "Y) ClF<sub>3</sub> [C-L-F three]",
+          "Z) SO<sub>3</sub>"
+        ],
+        "answer": "Y) ClF<sub>3</sub>",
+        "question_sanitized": "Which of the following molecules has T-shaped molecular geometry? W) BF₃ X) NF₃ Y) ClF₃ [C-L-F three] Z) SO₃",
+        "answer_sanitized": "Y) ClF₃"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 Cherenkov-radiation definition and accepted Vavilov-Cherenkov/radiation light forms match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 lava modern-analog choices and answer W) Komatiite with its pronunciation cue match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 amniotic structures/functions and answer Z) Allantois connects yolk to embryo match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 room/college/male counts and answer 2 women not in college match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 renewable-grid battery-role choices and answer W) Frequency modulation match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 drift/diffusion examples and answer Y) electrons moving to the anode match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 plant-synthesized orange hydrocarbons prompt and answer Carotenes match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 biodiesel catalyst options and answer X) Lye match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 Boltzmann-distribution statements and answer X) exponential increase prediction match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 dopamine/norepinephrine/epinephrine wording, both pronunciation cues, and answer Tyrosine match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 second-order kinetics prompt, four graph choices, and answer X) reciprocal concentration versus time match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints 2x² − 3x + c = 0 with a superscript 2; the candidate values and answer −1 AND −3 match.",
+      "before": {
+        "parts": [
+          "Indicate all of the following three possible values for c so that the equation 2x2 – 3x + c = 0 [two x squared minus three x plus c equals zero] has roots that are irrational: -1, -2, -3."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Indicate all of the following three possible values for c so that the equation 2x<sup>2</sup> − 3x + c = 0 [two x squared minus three x plus c equals zero] has roots that are irrational: -1, -2, -3."
+        ],
+        "parts_sanitized": [
+          "Indicate all of the following three possible values for c so that the equation 2x^2 - 3x + c = 0 [two x squared minus three x plus c equals zero] has roots that are irrational: -1, -2, -3."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 J-scale fixed points, Fahrenheit conversion prompt, and answer −58 match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 crystal-face terminology options with cues and answer X) Idioblastic match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 calorimetry/heating-curve options and answer Y) phase-change regions are flat match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 RuBisCO question, all four stated reasons, and answer Y) inhibition by carbon dioxide match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 spectroscopy principle question and answer Franck-Condon principle match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 30-60-90 triangle bisector prompt and answer ONE HALF (ACCEPT: 2) match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 plant ground-tissue question and answer Parenchyma match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 helium expansion chamber volumes/pressures and answer 15 mL match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 rocket accelerates 50 m/s² for 5 s, coasts 3 s, then decelerates 2 m/s²; answer 16,000 meters match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 albumin question, pronunciation cues, options, and answer W) Osmotic pressure match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 set A integer restriction and answer 74 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 path-independent thermodynamic quantities prompt and accepted state-function answer variants match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 titanium dichloride/tetrachloride comparison, Ti-Cl options, and answer W) more covalent character match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 parenchyma/collenchyma/sclerenchyma choices with cues and answer Y) most lignified match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 tennis-ball velocities, same impact speed, g=10 m/s², and answer 11 meters match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 Born-Oppenheimer approximation description and answer match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 digit-cube recurrence and 100th-term answer 370 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 calcium-nitrate solution boiling-point data and answer 103°C match corpus."
+    }
+  ],
+  "packetIssues": []
+}

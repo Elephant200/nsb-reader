@@ -1,0 +1,665 @@
+{
+  "packetIndex": 41,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-10C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “1/3rd” and “1/9th” with ordinal suffixes raised, including the keyed option.",
+      "before": {
+        "question": "Two-thirds of the charge is removed from a capacitor without changing its capacitance. The stored energy in the capacitor is now what multiple of the original:<br>W) 1/3rd<br>X) 1/9th<br>Y) 3<br>Z) 9",
+        "answer": "X) 1/9th",
+        "options": [
+          "W) 1/3rd",
+          "X) 1/9th",
+          "Y) 3",
+          "Z) 9"
+        ]
+      },
+      "changes": {
+        "question": "Two-thirds of the charge is removed from a capacitor without changing its capacitance. The stored energy in the capacitor is now what multiple of the original:<br>W) 1/3<sup>rd</sup><br>X) 1/9<sup>th</sup><br>Y) 3<br>Z) 9",
+        "question_sanitized": "Two-thirds of the charge is removed from a capacitor without changing its capacitance. The stored energy in the capacitor is now what multiple of the original:<br>W) 1/3rd<br>X) 1/9th<br>Y) 3<br>Z) 9",
+        "answer": "X) 1/9<sup>th</sup>",
+        "answer_sanitized": "X) 1/9th",
+        "options": [
+          "W) 1/3<sup>rd</sup>",
+          "X) 1/9<sup>th</sup>",
+          "Y) 3",
+          "Z) 9"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Root visually checked PDF page 3: prompt (6x + 3y)² and answer 36x² + 36xy + 9y² have raised powers; the source wording says standard binomial form and is retained.",
+      "before": {
+        "question": "Expand the following expression, giving your answer in standard binomial form: (6x + 3y)2",
+        "answer": "36x2 + 36xy + 9y2"
+      },
+      "changes": {
+        "question": "Expand the following expression, giving your answer in standard binomial form: (6x + 3y)<sup>2</sup>",
+        "answer": "36x<sup>2</sup> + 36xy + 9y<sup>2</sup>",
+        "question_sanitized": "Expand the following expression, giving your answer in standard binomial form: (6x + 3y)²",
+        "answer_sanitized": "36x² + 36xy + 9y²"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows 49x² − 169y⁴ and factors (7x + 13y²)(7x − 13y²).",
+      "before": {
+        "question": "Factor the following expression: 49x2 – 169y4",
+        "answer": "(7x + 13y2)( 7x – 13y2)"
+      },
+      "changes": {
+        "question": "Factor the following expression: 49x<sup>2</sup> − 169y<sup>4</sup>",
+        "question_sanitized": "Factor the following expression: 49x^2 - 169y^4",
+        "answer": "(7x + 13y<sup>2</sup>)(7x − 13y<sup>2</sup>)",
+        "answer_sanitized": "(7x + 13y^2)(7x - 13y^2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows sp²; the corpus left the exponent on the baseline.",
+      "before": {
+        "question": "The hybridization of one ‘s’ (read as: one &lt;pause&gt; s) orbital and two ‘p’ (read as: two &lt;pause&gt; p) orbitals creates how many sp2 hybrid orbitals?"
+      },
+      "changes": {
+        "question": "The hybridization of one ‘s’ (read as: one &lt;pause&gt; s) orbital and two ‘p’ (read as: two &lt;pause&gt; p) orbitals creates how many sp<sup>2</sup> hybrid orbitals?",
+        "question_sanitized": "The hybridization of one ‘s’ (read as: one <pause> s) orbital and two ‘p’ (read as: two <pause> p) orbitals creates how many sp^2 hybrid orbitals?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 shows W as 30, 6, 6/5…, X as a², a³b, a⁴b²…, Y as 6, 13, 20…, and Z as 3/2, 3/4, 3/8…. The corpus interleaved stacked fractions and flattened powers.",
+      "before": {
+        "question": "Which of the following is NOT a geometric sequence: 6<br>W) 30, 6, … 5<br>X) a2, a3b, a4b2…<br>Y) 6, 13, 20… 3 3 3<br>Z) , , … 2 4 8",
+        "options": [
+          "W) 30, 6, … 5",
+          "X) a2, a3b, a4b2…",
+          "Y) 6, 13, 20… 3 3 3",
+          "Z) , , … 2 4 8"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT a geometric sequence:<br>W) 30, 6, <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>…<br>X) a<sup>2</sup>, a<sup>3</sup>b, a<sup>4</sup>b<sup>2</sup>…<br>Y) 6, 13, 20…<br>Z) <span class=\"nsb-fraction\"><span>3</span><span>2</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>4</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>8</span></span>…",
+        "question_sanitized": "Which of the following is NOT a geometric sequence:; W) 30, 6, 6/5…; X) a^2, a^3b, a^4b^2…; Y) 6, 13, 20…; Z) 3/2, 3/4, 3/8…",
+        "options": [
+          "W) 30, 6, <span class=\"nsb-fraction\"><span>6</span><span>5</span></span>…",
+          "X) a<sup>2</sup>, a<sup>3</sup>b, a<sup>4</sup>b<sup>2</sup>…",
+          "Y) 6, 13, 20…",
+          "Z) <span class=\"nsb-fraction\"><span>3</span><span>2</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>4</span></span>, <span class=\"nsb-fraction\"><span>3</span><span>8</span></span>…"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows O₂ as the accepted molecular oxygen form; the corpus flattened the subscript.",
+      "before": {
+        "answer": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O2)"
+      },
+      "changes": {
+        "answer": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O<sub>2</sub>)",
+        "answer_sanitized": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows the charges raised on Mg²⁺, Rb⁺, Al³⁺, and Na⁺ in the prompt and ordering.",
+      "before": {
+        "parts": [
+          "Arrange the following 4 cations in order of increasing ionic radii: Mg2+; Rb+; Al3+; Na+"
+        ],
+        "answers": [
+          "Al3+; Mg2+; Na+; Rb+"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Arrange the following 4 cations in order of increasing ionic radii: Mg<sup>2+</sup>; Rb<sup>+</sup>; Al<sup>3+</sup>; Na<sup>+</sup>"
+        ],
+        "parts_sanitized": [
+          "Arrange the following 4 cations in order of increasing ionic radii: Mg2+; Rb+; Al3+; Na+"
+        ],
+        "answers": [
+          "Al<sup>3+</sup>; Mg<sup>2+</sup>; Na<sup>+</sup>; Rb<sup>+</sup>"
+        ],
+        "answers_sanitized": [
+          "Al3+; Mg2+; Na+; Rb+"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Root visually checked PDF page 3: the full prompt and answer 86 match, but the separate solution prints raised 2 in 20², πr², and cm². Restore those three flattened powers.",
+      "before": {
+        "notes": [
+          "(Solution: A square = 202 = 400; A circle = πr2 = 100π = 314; 400 – 314 = 86cm2)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: A square = 20<sup>2</sup> = 400; A circle = πr<sup>2</sup> = 100π = 314; 400 – 314 = 86cm<sup>2</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 5; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered source page 5 prints the answer and solution result as 4.8 × 10⁻⁴ J and the intermediate charge as 60 × 10⁻⁶ C; corpus flattened powers in its answer and solution note.",
+      "before": {
+        "answers": [
+          "4.8 × 10-4"
+        ],
+        "notes": [
+          "(Solution: (60 × 10-6)(8.0 J/C) = 4.8 × 10-4J)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "4.8 × 10<sup>−4</sup>"
+        ],
+        "answers_sanitized": [
+          "4.8 × 10^(−4)"
+        ],
+        "notes": [
+          "(Solution: (60 × 10<sup>−6</sup>)(8.0 J/C) = 4.8 × 10<sup>−4</sup> J)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows exponents nt and (2×1) in the compound-interest solution; the corpus left both on the baseline.",
+      "before": {
+        "notes": [
+          "(Solution: A = P[1 + (r/n)]nt; = $1,000[1 + (0.06/2)](2x1) = $1060.90)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: A = P[1 + (r/n)]<sup>nt</sup>; = $1,000[1 + (0.06/2)]<sup>(2×1)</sup> = $1060.90)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered source page 9 prints (x⁻² + y)(x² − y⁻²) and answer 1 − 1/(x²y²) + x²y − 1/y; the corpus flattened powers and the stacked fractions.",
+      "before": {
+        "parts": [
+          "Find the product of the following, giving your answer without negative exponents: (x-2 + y)(x2 – y-2) 1 1"
+        ],
+        "answers": [
+          "1 ! 2 2 + x2 y ! (Note: the terms can be given in any order) x y y"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the product of the following, giving your answer without negative exponents: (x<sup>−2</sup> + y)(x<sup>2</sup> − y<sup>−2</sup>)"
+        ],
+        "parts_sanitized": [
+          "Find the product of the following, giving your answer without negative exponents: (x^(−2) + y)(x^2 − y^(−2))"
+        ],
+        "answers": [
+          "1 − <span class=\"nsb-fraction\"><span>1</span><span>x<sup>2</sup>y<sup>2</sup></span></span> + x<sup>2</sup>y − <span class=\"nsb-fraction\"><span>1</span><span>y</span></span> (Note: the terms can be given in any order)"
+        ],
+        "answers_sanitized": [
+          "1 − 1/(x^2y^2) + x^2y − 1/y (Note: the terms can be given in any order)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; visually checked notation and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+    }
+  ],
+  "packetIssues": []
+}

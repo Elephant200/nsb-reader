@@ -1,0 +1,491 @@
+{
+  "packetIndex": 120,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-7-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 toss-up 1 asks which reagent precipitates only in barium chloride versus magnesium chloride; options sodium sulfate, sodium carbonate, silver nitrate, ammonium chloride; answer W) sodium sulfate, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 toss-up 2 asks what ribulose bisphosphate carboxylase binds instead of CO2 in photorespiration; pronunciation cue for enzyme present; answer oxygen, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 toss-up 3 asks SI unit for capacitance and includes [S-I] cue; answer farad, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 toss-up 4 asks Earth rotation angle over 720 minutes; answer 180 degrees, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 toss-up 5 asks minimum sum of positive number and reciprocal; answer 2, matching corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 toss-up 7 asks which compound gives a long broad IR absorption just below 3000 cm⁻¹; choices nonane, methylcyclopentane, hexene, pentanol with pronunciation cues on first two; answer Z) pentanol."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 toss-up 8 gives a 9 V battery, 6-ohm resistor and 8 seconds; asks dissipated energy; answer 108 J."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 toss-up 9 asks which kaolinite statement is true; source includes pronunciation cues for kaolinite, inosilicate and cation exchange; answer Z) non-expanding clay."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 toss-up 10 asks animal junction most similar in function to plant plasmodesmata; includes plasmodesmata pronunciation cue and four choices; answer W) gap junction."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 11 visibly shows lim as x→0 of fraction (x+1)/x; cue says limit as x approaches zero of quantity x plus one divided by x. Corpus dropped the variables and fraction, so restored grouping; answer wording and source's NON-EXISTANT spelling are retained.",
+      "before": {
+        "question": ". Determine . [the limit as x approaches zero of quantity x → plus one divided by x]"
+      },
+      "changes": {
+        "question": "Determine lim<sub>x→0</sub> <span class=\"nsb-fraction\"><span>x + 1</span><span>x</span></span> [the limit as x approaches zero of quantity x plus one divided by x].",
+        "question_sanitized": "Determine lim as x→0 (x + 1)/x [the limit as x approaches zero of quantity x plus one divided by x]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 toss-up 12 gives 6 A through 2Ω and 6Ω parallel resistors; asks power; options 40,54,66,70 watts; answer X) 54 watts."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 toss-up 13 asks best S_N2 leaving group and includes SN2 and trifluoromethanesulfonate pronunciation cues; answer X) O-trifluoromethanesulfonate."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 toss-up 14 asks which animal transfers oxygen to blood via countercurrent exchange; answer W) goldfish."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 toss-up 15 asks cause of polar-region auroras among moon, low temperatures, geomagnetic field, equatorial bulge; answer Y) geomagnetic field."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 toss-up 16 asks heat-flow direction in an adiabatic process and gives [ad-ee-uh-BAT-ik] cue; four choices present; answer Y) no heat flow into or out of the system."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 toss-up 17 specifies westward 60 mph for 3 hours and same return distance in 2 hours; answer 90 miles per hour."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 toss-up 18 asks what is not conserved in a perfectly inelastic collision; choices kinetic energy, momentum, potential energy, total energy; answer W) kinetic energy."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 toss-up 19 asks disadvantage of introns/exons for eukaryotes and includes eukaryotes cue; choices about proteins, stability, error, mutation detection; answer Z) mutations are harder to detect."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 toss-up 20 asks named reagent for lithium dialkylcuprates, includes pronunciation cue; options Grignard, Gilman, Wittig, Birch; answer X) Gilman."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Root viewed PDF p. 11: the expression x/|x| appears after the colon following “provided x is not 0”; restored the fraction without rearranging the source sentence.",
+      "before": {
+        "question": "Differentiate the following expression with respect to , provided x is not 0: [ x over the quantity the absolute value of x]. | |"
+      },
+      "changes": {
+        "question": "Differentiate the following expression with respect to x, provided x is not 0: <span class=\"nsb-fraction\"><span>x</span><span>|x|</span></span> [x over the quantity the absolute value of x].",
+        "question_sanitized": "Differentiate the following expression with respect to x, provided x is not 0: x/|x| [x over the quantity the absolute value of x]."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 toss-up 22 asks principle underlying wavefront points acting as secondary-wavelet sources; answer Huygens principle (accept Huygens-Fresnel principle)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 toss-up 23 asks true statement about Labrador Sea Water; four choices match corpus; answer X) travels south along the western edge of the North Atlantic Basin."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 1 asks ranking of ozonide, peroxide, oxygen gas by oxygen oxidation state; answer 3, 1, 2 with expanded accepted ordering, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 bonus 2 lists fasting/starvation effects including ketone bodies, plasma fatty acids, glycogen and ATP production; includes glycogen pronunciation cue; answer X) decrease in plasma fatty acid levels, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 bonus 3 lists rabbit meat, celery cell wall, apple pericarp, butter; answer Z) butter churned from milk, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly shows a² − 2ab + b² = x with the read-as cue [A squared minus two A B plus B squared equals x], and asks about x for odd a/even b; all four choices match corpus and answer Z) x is an odd perfect square. Corpus lost superscripts and rearranged expression, so restored the exact grouping.",
+      "before": {
+        "parts": [
+          "If 2 2 [A squared minus two A B plus B squared a – 2ab + b = x, equals x] where a is an odd integer and b is an even integer, which of the following MUST be true about x?<br>W) x is a prime number<br>X) x is divisible by 3<br>Y) x is an even perfect square<br>Z) x is an odd perfect square"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If a<sup>2</sup> - 2ab + b<sup>2</sup> = x [A squared minus two A B plus B squared equals x] where a is an odd integer and b is an even integer, which of the following MUST be true about x?<br>W) x is a prime number<br>X) x is divisible by 3<br>Y) x is an even perfect square<br>Z) x is an odd perfect square"
+        ],
+        "parts_sanitized": [
+          "If a² − 2ab + b² = x [A squared minus two A B plus B squared equals x] where a is an odd integer and b is an even integer, which of the following MUST be true about x? W) x is a prime number X) x is divisible by 3 Y) x is an even perfect square Z) x is an odd perfect square"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 bonus 6 asks which steroid hormone is precursor to the other choices; options estrone, testosterone, progesterone, and androstenedione [an-druh-steen-DY-ohn]; answer Y) progesterone, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 bonus 7 lists nitrogen trifluoride, trichloride, tribromide and triiodide; answer Z) nitrogen triiodide."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 bonus 8 asks what a body becomes if its radius is smaller than its Schwarzschild radius; answer black hole."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 bonus 10 describes Luke Skywalker blood type A and mother AB, asks possible father blood types; answer A, B, O, AB with note that 'types' is unnecessary."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 bonus 11 asks area of outer circle with square inscribed and smaller circle inside, inner circumference 12π; choices 64π, 72π, 88π, 96π; answer X) 72π."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 bonus 12 asks Carnot efficiency scaling when both reservoir Kelvin temperatures double; pronunciation cue for reservoirs present; answer one."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 bonus 13 asks difference between electrolytic and galvanic cells; all four statements appear in source and answer X) galvanic cells spontaneously produce current while external voltage must be applied to electrolytic cell, matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 bonus 16 asks mirror configuration in a solar power tower that focuses sunlight onto a pipe at a focal line; answer parabolic trough."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly shows numerator log base b of (b^a)^b and denominator log base a of (a^b)^a, with read-as cue naming both bases and nested powers; answer 1. Corpus lost both grouped power expressions, so restored using explicit parentheses and exponent nesting.",
+      "before": {
+        "parts": [
+          ". Simplify: . [quantity log in base b of b raised to the power of a raised to the power of b divided by quantity log in base a of a raised to the power of b, raised to the power of a]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify: <span class=\"nsb-fraction\"><span>log<sub>b</sub>((b<sup>a</sup>)<sup>b</sup>)</span><span>log<sub>a</sub>((a<sup>b</sup>)<sup>a</sup>)</span></span> [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
+        ],
+        "parts_sanitized": [
+          "Simplify: log_b((b^a)^b)/log_a((a^b)^a) [quantity log in base b of b raised to the power of a, raised to the power of b, divided by quantity log in base a of a raised to the power of b, raised to the power of a]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 bonus 18 gives Carnot engine heat input 2000 J at 500 K and sink at 300 K, includes Carnot/reservoir pronunciation cues; answer 1200 J, with -1200 rejected."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 19 describes mountain range separating squirrel populations; options anagenesis/cladogenesis with allopatric/sympatric speciation and two pronunciation cues; answer X) cladogenesis and allopatric speciation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 bonus 20 asks enzyme cleaving first peptide bond at C-terminal end and its synthesis organ; answer carboxypeptidase; pancreas."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Root viewed PDF p. 11: source option Z and answer use (1/x) f(1/x), with stacked fractions for both reciprocals. Restored that exact product form and kept the full option cue; answer itself has no read-as cue.",
+      "before": {
+        "parts": [
+          "If f(x) = [f of x equals the fraction with numerator one plus x and denominator x], which of the following is equivalent to f(x)?<br>W) f (-x) [f of negative x]<br>X) f ( ) [f of the quantity one divided by x]<br>Y) f ( ) [f of the quantity negative one divided by x]<br>Z) [the fraction with numerator f of the quantity one divided by x and denominator x]"
+        ],
+        "options": [
+          "W) f (-x) [f of negative x]",
+          "X) f ( ) [f of the quantity one divided by x]",
+          "Y) f ( ) [f of the quantity negative one divided by x]",
+          "Z) [the fraction with numerator f of the quantity one divided by x and denominator x]"
+        ],
+        "answers": [
+          "Z) [the fraction with numerator f of the quantity one divided by x and denominator x]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) = <span class=\"nsb-fraction\"><span>1 + x</span><span>x</span></span> [f of x equals the fraction with numerator one plus x and denominator x], which of the following is equivalent to f(x)?<br>W) f(-x) [f of negative x]<br>X) f(1/x) [f of the quantity one divided by x]<br>Y) f(-1/x) [f of the quantity negative one divided by x]<br>Z) <span class=\"nsb-fraction\"><span>1</span><span>x</span></span> f(<span class=\"nsb-fraction\"><span>1</span><span>x</span></span>) [the fraction with numerator f of the quantity one divided by x and denominator x]"
+        ],
+        "parts_sanitized": [
+          "If f(x) = (1 + x)/x [f of x equals the fraction with numerator one plus x and denominator x], which of the following is equivalent to f(x)? W) f(-x) [f of negative x] X) f(1/x) [f of the quantity one divided by x] Y) f(-1/x) [f of the quantity negative one divided by x] Z) (1/x) f(1/x) [the fraction with numerator f of the quantity one divided by x and denominator x]"
+        ],
+        "options": [
+          "W) f(-x) [f of negative x]",
+          "X) f(1/x) [f of the quantity one divided by x]",
+          "Y) f(-1/x) [f of the quantity negative one divided by x]",
+          "Z) <span class=\"nsb-fraction\"><span>1</span><span>x</span></span> f(<span class=\"nsb-fraction\"><span>1</span><span>x</span></span>) [the fraction with numerator f of the quantity one divided by x and denominator x]"
+        ],
+        "answers": [
+          "Z) <span class=\"nsb-fraction\"><span>1</span><span>x</span></span> f(<span class=\"nsb-fraction\"><span>1</span><span>x</span></span>)"
+        ],
+        "answers_sanitized": [
+          "Z) (1/x) f(1/x)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 bonus 22 lists three cosmic microwave background statements about black-body temperature and spectrum regions; answer 1 and 3 with expanded acceptance text matching corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 bonus 23 gives Mount Nyiragongo [nee-ir-uh-GON-goh] in 1977 and asks volcanic hazard; W choice has pyroclastic pronunciation cue; answer X) draining of a lava lake."
+    }
+  ],
+  "packetIssues": []
+}

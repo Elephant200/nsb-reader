@@ -1,0 +1,470 @@
+{
+  "packetIndex": 165,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete source prompt/options and answer ‘W) BERNOULLI’ match tossup 1 (Physics – Multiple Choice A famous principle of fluid mechanics, traditionally attributed )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete source prompt/options and answer ‘1/9’ match tossup 2 (Math – Short Answer A geometric sequence has third term 1 and fourth term –3. What is its )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source prompt/options and answer ‘Y) LIPID’ match tossup 3 (Biology – Multiple Choice     Steroids can be classified as which of the following types o)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source prompt/options and answer ‘Z) METHANE’ match tossup 4 (Energy – Multiple Choice What gas is produced by bacterial decay in landfills?)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source choices are 10⁸, 10³, 10⁷, and 10² with each exponent visibly raised; answer W is 10⁸ nanometers.",
+      "before": {
+        "question": "Which of the following is equivalent to 10 centimeters?<br>W) 108 nanometers<br>X) 103 millimeters<br>Y) 107 micrometers<br>Z) 102 decimeters",
+        "options": [
+          "W) 108 nanometers",
+          "X) 103 millimeters",
+          "Y) 107 micrometers",
+          "Z) 102 decimeters"
+        ],
+        "answer": "W) 108 NANOMETERS"
+      },
+      "changes": {
+        "question": "Which of the following is equivalent to 10 centimeters?<br>W) 10<sup>8</sup> nanometers<br>X) 10<sup>3</sup> millimeters<br>Y) 10<sup>7</sup> micrometers<br>Z) 10<sup>2</sup> decimeters",
+        "question_sanitized": "Which of the following is equivalent to 10 centimeters?\nW) 10⁸ nanometers\nX) 10³ millimeters\nY) 10⁷ micrometers\nZ) 10² decimeters",
+        "options": [
+          "W) 10<sup>8</sup> nanometers",
+          "X) 10<sup>3</sup> millimeters",
+          "Y) 10<sup>7</sup> micrometers",
+          "Z) 10<sup>2</sup> decimeters"
+        ],
+        "answer": "W) 10<sup>8</sup> NANOMETERS",
+        "answer_sanitized": "W) 10⁸ NANOMETERS"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source prompt/options and answer ‘DATIVE (ACCEPT: DIPOLAR OR COORDINATE)’ match tossup 8 (Chemistry – Short Answer What type of covalent bond, found in amine [ah-MEEN] oxides, is f)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source prompt/options and answer ‘ISOBARIC’ match tossup 9 (Physics – Short Answer What is the adjective for a process that occurs at constant pressur)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source prompt/options and answer ‘Y) 99’ match tossup 10 (Math – Multiple Choice Which of the following numbers has a remainder of 1 when it is divi)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source prompt/options and answer ‘Z) HIGH TEMPERATURE SUPERCONDUCTORS’ match tossup 11 (Energy – Multiple Choice Iridates and cuprates [KYU-prayts] are being studied at Argonne N)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source prompt/options and answer ‘W) FROST HEAVE’ match tossup 12 (Earth and Space – Multiple Choice What is the name for the type of mass wasting in which p)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source prompt/options and answer ‘1, 2, 3 (ACCEPT: ALL OF THEM)’ match tossup 13 (Energy – Short Answer Scientists at Oak Ridge National Lab are using the Titan supercomput)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘X) PERPENDICULAR’ match tossup 15 (Math – Multiple Choice Which of the following best describes the relationship between the )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘HELIUM’ match tossup 16 (Physics – Short Answer The liquefaction of what gas was recognized in the 1913 Nobel Prize)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: subscript x is represented by Unicode, but the other orbital subscripts are Latin y and z; use explicit p_(y)/p_(z) in sanitized reading rather than Unicode gamma or unsupported glyphs.",
+      "before": {
+        "question": "Consider the covalent bonding in the molecule acetylene [ah-SET-ihl-een], and assume that the carbon-carbon axis is the x-axis. What two orbitals on each carbon atom participate in pi bonding?<br>W) 1s and 2s<br>X) 2p x and 2p y<br>Y) 2s and 2p x<br>Z) 2p y and 2p z",
+        "options": [
+          "W) 1s and 2s",
+          "X) 2p x and 2p y",
+          "Y) 2s and 2p x",
+          "Z) 2p y and 2p z"
+        ],
+        "answer": "Z) 2P Y AND 2P Z"
+      },
+      "changes": {
+        "question": "Consider the covalent bonding in the molecule acetylene [ah-SET-ihl-een], and assume that the carbon-carbon axis is the x-axis. What two orbitals on each carbon atom participate in pi bonding?<br>W) 1s and 2s<br>X) 2p<sub>x</sub> and 2p<sub>y</sub><br>Y) 2s and 2p<sub>x</sub><br>Z) 2p<sub>y</sub> and 2p<sub>z</sub>",
+        "question_sanitized": "Consider the covalent bonding in the molecule acetylene [ah-SET-ihl-een], and assume that the carbon-carbon axis is the x-axis. What two orbitals on each carbon atom participate in pi bonding?\nW) 1s and 2s\nX) 2pₓ and 2p_(y)\nY) 2s and 2pₓ\nZ) 2p_(y) and 2p_(z)",
+        "options": [
+          "W) 1s and 2s",
+          "X) 2p<sub>x</sub> and 2p<sub>y</sub>",
+          "Y) 2s and 2p<sub>x</sub>",
+          "Z) 2p<sub>y</sub> and 2p<sub>z</sub>"
+        ],
+        "answer": "Z) 2P<sub>Y</sub> AND 2P<sub>Z</sub>",
+        "answer_sanitized": "Z) 2P_(Y) AND 2P_(Z)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘NONE’ match tossup 19 (Physics – Short Answer Identify all of the following 3 forms of heat transfer for which th)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘STREPTOCOCCUS’ match tossup 20 (Biology – Short Answer       Dental cavities in humans are primarily caused by what genus )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source prompt/options and answer ‘2 (ACCEPT: BORON)’ match tossup 22 (Chemistry – Short Answer Identify all of the following three elements that, when inserted )."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete source prompt/options and answer ‘9’ match tossup 23 (Math – Short Answer The mean of a set of 5 numbers is 5. Four of the numbers are 1, 2, 5, )."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: the moment of inertia is printed 5.0 x 10⁻³ kilogram meters squared; the full prompt retains the joules pronunciation cue and answer 60.",
+      "before": {
+        "parts": [
+          "A metal disk has a moment of inertia of 5.0 x 10 –3 kilogram meters squared. If the disk is rotating with 9 joules [jools] of kinetic energy, what is the angular speed, in radians per second, of a point on its rim?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A metal disk has a moment of inertia of 5.0 x 10<sup>-3</sup> kilogram meters squared. If the disk is rotating with 9 joules [jools] of kinetic energy, what is the angular speed, in radians per second, of a point on its rim?"
+        ],
+        "parts_sanitized": [
+          "A metal disk has a moment of inertia of 5.0 x 10⁻³ kilogram meters squared. If the disk is rotating with 9 joules [jools] of kinetic energy, what is the angular speed, in radians per second, of a point on its rim?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: complete source prompt/options and answer ‘2 2017 Regional High School NSB®                                                                                  PAGE 1’ match bonuse 2 (Math – Short Answer If theta equals the arcsine of 0.8, what is the sum of the cotangent o)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source acceptance is O₂ (oxygen with subscript 2); complete mitochondrial electron-transport prompt and answer retained.",
+      "before": {
+        "answers": [
+          "OXYGEN (ACCEPT: O 2 )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "OXYGEN (ACCEPT: O<sub>2</sub>)"
+        ],
+        "answers_sanitized": [
+          "OXYGEN (ACCEPT: O₂)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: complete source prompt/options and answer ‘Y) ADVANCED PHOTON SOURCE 2017 Regional High School NSB®                                                                          ’ match bonuse 4 (Energy – Multiple Choice Researchers at Argonne National Lab used high-energy x-rays to co)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: complete source prompt/options and answer ‘Y) INCREASING THE VOLUME 2017 Regional High School NSB®                                                                           ’ match bonuse 6 (Physics – Multiple Choice Which of the following will increase the entropy [EN-troh-pee] o)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source prompt/options and answer ‘X) THEY WALKED UPRIGHT’ match bonuse 7 (Biology – Multiple Choice Which of the following is definitely known about)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: complete source prompt/options and answer ‘2 2017 Regional High School NSB®                                                                              PAGE 4’ match bonuse 8 (Chemistry – Short Answer Identify all of the following three statements that are TRUE of a)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: complete source prompt/options and answer ‘X) 40’ match bonuse 9 (Physics – Multiple Choice Tim blows into a hollow cylinder that is open on both ends. It e)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: source says ‘the fraction with numerator x² – 5x + 6 and denominator x² – 9’; all prose retained and the raised powers restored.",
+      "before": {
+        "parts": [
+          "The graph of f(x) = the fraction with numerator x2 – 5x + 6 and denominator x2 – 9 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f(x)?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The graph of f(x) = the fraction with numerator x<sup>2</sup> – 5x + 6 and denominator x<sup>2</sup> – 9 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f(x)?"
+        ],
+        "parts_sanitized": [
+          "The graph of f(x) = the fraction with numerator x² – 5x + 6 and denominator x² – 9 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f(x)?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source prompt/options and answer ‘Y) EBOLA VIRUS’ match bonuse 11 (Energy – Multiple Choice DOE researchers are studying how hemmorhagic [heh-more-AJ-ik] fev)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: complete source prompt/options and answer ‘G 2017 Regional High School NSB®                                                                          PAGE 6’ match bonuse 12 (Earth and Space – Short Answer Which of the seven spectral classes includes our Sun?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: complete source prompt/options and answer ‘ANTINEUTRINO’ match bonuse 13 (Energy – Short Answer DOE researchers, as part of the Daya [DIE-ah] Bay Collaboration, use)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘96√3’ match bonuse 15 (Math – Short Answer A regular hexagon is inscribed in a circle of diameter 16. What is the)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: complete source prompt/options and answer ‘18 2017 Regional High School NSB®                                                                               PAGE 8’ match bonuse 16 (Physics – Short Answer A 2-liter container is filled with 3 moles of an ideal gas at 150 k)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: complete source prompt/options and answer ‘2, 3, 1’ match bonuse 17 (Chemistry – Short Answer Rank the following three barium salts in terms of increasing wate)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: complete source prompt/options and answer ‘Z) TRAPEZIUS 2017 Regional High School NSB®                                                                             PAGE 9’ match bonuse 18 (Biology – Multiple Choice Which of the following muscles adducts and rotates the scapula a)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘NONE’ match bonuse 19 (Physics – Short Answer A pool of water and the surrounding air are at thermal equillibrium)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: complete source prompt/options and answer ‘CILIUM (ACCEPT: CILIA) 2017 Regional High School NSB®                                                                             ’ match bonuse 20 (Biology – Short Answer What structure does Paramecium [para-MEE-see-um] use for motility?)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: complete source prompt/options and answer ‘1 AND 2 2017 Regional High School NSB®                                                                             PAGE 11’ match bonuse 22 (Chemistry – Short Answer Identify all of the following three statements that are true of b)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: complete source prompt/options and answer ‘9 2017 Regional High School NSB®                                                                            PAGE 12’ match bonuse 23 (Math – Short Answer A task takes a single computer processor 10 days to complete. For this)."
+    }
+  ],
+  "packetIssues": []
+}

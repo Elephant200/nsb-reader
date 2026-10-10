@@ -1,0 +1,497 @@
+{
+  "packetIndex": 142,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_12A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1; printed answer is ¼."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2; printed answer is X) REVERSIBLE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4; printed answer is Y) IT CONTAINS THREE OXYGEN ATOMS PER MOLECULE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 5; printed answer is Y) RADIAL SYMMETRY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7; printed answer is INTEGERS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8; printed answer is Y) 140."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9; printed answer is ALBEDO."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is Z) RAOULT’S LAW IS OBEYED."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 11; printed answer is 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is -2.",
+      "before": {
+        "question": "For what values of x does the function f(x) = the fraction with numerator x – 2 and denominator x2 – 4 have a vertical asymptote?"
+      },
+      "changes": {
+        "question": "For what values of x does the function f(x) = the fraction with numerator x – 2 and denominator x<sup>2</sup> – 4 have a vertical asymptote?",
+        "question_sanitized": "For what values of x does the function f(x) = the fraction with numerator x – 2 and denominator x^2 – 4 have a vertical asymptote?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13; printed answer is CYCLOTRON."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 14; printed answer is INFLATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15; printed answer is BAND GAP (ACCEPT: ENERGY GAP)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16; printed answer is Y) CHANGE IN GIBBS FREE ENERGY IS ZERO."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17; printed answer is 15."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18; printed answer is VITAMIN B-12 (Accept: COBALAMIN)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 19; printed answer is 1, 2, AND 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20; printed answer is GLUCOSE-1-PHOSPHATE (ACCEPT: ALPHA-D-GLUCOSE-1-PHOSPHATE)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21; printed answer is MUSHROOMS (ACCEPT: BASIDIOCARPS)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 22; printed answer is PYROCLASTIC FLOW (ACCEPT: NUÉE ARDENTE)."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23; printed answer is CARBON."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1; printed answer is ½ arctan e2x (ACCEPT: ½ arctan e2x + C for any constant C).",
+      "before": {
+        "parts": [
+          "Find an antiderivative with respect to x for the fraction with numerator e2x and denominator 1 + e4x."
+        ],
+        "answers": [
+          "½ arctan e2x (ACCEPT: ½ arctan e2x + C for any constant C)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find an antiderivative with respect to x for the fraction with numerator e<sup>2x</sup> and denominator 1 + e<sup>4x</sup>."
+        ],
+        "parts_sanitized": [
+          "Find an antiderivative with respect to x for the fraction with numerator e^(2x) and denominator 1 + e^(4x)."
+        ],
+        "answers": [
+          "½ arctan(e<sup>2x</sup>) (ACCEPT: ½ arctan(e<sup>2x</sup>) + C for any constant C)"
+        ],
+        "answers_sanitized": [
+          "½ arctan(e^(2x)) (ACCEPT: ½ arctan(e^(2x)) + C for any constant C)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2; printed answer is 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3; printed answer is Y) TEMPERATURE CONTRASTS ARE GREATER."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; printed answer is 2.5 × 109.",
+      "before": {
+        "parts": [
+          "If the equilibrium constant, K, for the reaction A yields B is 2.0 x 10-5, then what is the equilibrium constant for the reaction 2B yields 2A?"
+        ],
+        "answers": [
+          "2.5 × 109"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the equilibrium constant, K, for the reaction A yields B is 2.0 × 10<sup>−5</sup>, then what is the equilibrium constant for the reaction 2B yields 2A?"
+        ],
+        "parts_sanitized": [
+          "If the equilibrium constant, K, for the reaction A yields B is 2.0 × 10⁻⁵, then what is the equilibrium constant for the reaction 2B yields 2A?"
+        ],
+        "answers": [
+          "2.5 × 10<sup>9</sup>"
+        ],
+        "answers_sanitized": [
+          "2.5 × 10⁹"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7; printed answer is π/4, 3π/4, 5π/4, 7π/4.",
+      "before": {
+        "parts": [
+          "If x is measured in radians, find all values of x between zero and 2π that satisfy the equation sin2x = 2 cos4x."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If x is measured in radians, find all values of x between zero and 2π that satisfy the equation sin<sup>2</sup>x = 2 cos<sup>4</sup>x."
+        ],
+        "parts_sanitized": [
+          "If x is measured in radians, find all values of x between zero and 2π that satisfy the equation sin^2 x = 2 cos^4 x."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8; printed answer is DARK MATTER."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9; printed answer is W) CONTINENTAL SHELVES GENERALLY OVERLAY OCEANIC CRUST."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10; printed answer is W) ONE OVER MOLARITY OF X."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11; printed answer is Y) PARAMECIUM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12; printed answer is (9π)/4 (ACCEPT: 2.25π).",
+      "before": {
+        "parts": [
+          "Evaluate the following definite integral: the integral from x = -3 to 0 of the square root of open parenthesis 9 – x2 close parenthesis dx."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the following definite integral: the integral from x = −3 to 0 of the square root of open parenthesis 9 – x<sup>2</sup> close parenthesis dx."
+        ],
+        "parts_sanitized": [
+          "Evaluate the following definite integral: the integral from x = −3 to 0 of the square root of open parenthesis 9 – x^2 close parenthesis dx."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13; printed answer is 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14; printed answer is W) ROTATION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16; printed answer is 100.9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is 7.",
+      "before": {
+        "parts": [
+          "What is the largest prime factor of the quantity 42013 + 42014 + 42015?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the largest prime factor of the quantity 420<sup>13</sup> + 420<sup>14</sup> + 420<sup>15</sup>?"
+        ],
+        "parts_sanitized": [
+          "What is the largest prime factor of the quantity 420^13 + 420^14 + 420^15?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18; printed answer is 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 19; printed answer is 2.5R."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20; printed answer is Z) THE CITRIC ACID CYCLE PRODUCES 4 NADH AND 1 FADH2 PER TURN."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 21; printed answer is VAGUS NERVE (ACCEPT: CN X, CRANIAL NERVE TEN)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23; printed answer is 1 AND 3."
+    }
+  ],
+  "packetIssues": []
+}

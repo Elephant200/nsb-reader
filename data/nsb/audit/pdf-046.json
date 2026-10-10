@@ -1,0 +1,678 @@
+{
+  "packetIndex": 46,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-15C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered page 1 and compared the complete printed stem, answer, options, and notes with corpus item 2; corrected source-visible formatting and transcription.",
+      "before": {
+        "question": "What is the electronic pair geometry and the molecular geometry typical of the molecule with the general formula AB<sub>4</sub> U, where A represents the central atom, B represent the bonded atoms, and U represent the unbonded electron pair:<br>W) tetrahedral and angular<br>X) trigonal bipyramidal and seesaw<br>Y) octahedral and square pyramidal<br>Z) octahedral and square planar"
+      },
+      "changes": {
+        "question": "What is the electronic pair geometry and the molecular geometry typical of the molecule with the general formula AB4U, where A represents the central atom, B represent the bonded atoms, and U represent the unbonded electron pair:<br>W) tetrahedral and angular<br>X) trigonal bipyramidal and seesaw<br>Y) octahedral and square pyramidal<br>Z) octahedral and square planar"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 and compared the complete printed stem, answer, options, and notes with corpus item 3; corrected source-visible formatting and transcription.",
+      "before": {
+        "question": "What elemental ion is MOST commonly excreted in large amounts if the human adrenals are producing low levels of corticosteroid? +",
+        "answer": "SODIUM (ACCEPT: Na )"
+      },
+      "changes": {
+        "question": "What elemental ion is MOST commonly excreted in large amounts if the human adrenals are producing low levels of corticosteroid?",
+        "answer": "SODIUM (ACCEPT: Na<sup>+</sup>)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 and compared the complete printed stem, answer, options, and notes with corpus item 4; corrected source-visible formatting and transcription.",
+      "before": {
+        "question": "Solve the following trigonometric equation for x, giving your answer in 2 radians such that 0 ≤ x &lt; 2π: sin x + sin x – 2 = 0 π",
+        "answer": "2"
+      },
+      "changes": {
+        "question": "Solve the following trigonometric equation for x, giving your answer in radians such that 0 ≤ x &lt; 2π: sin<sup>2</sup> x + sin x − 2 = 0",
+        "answer": "<span class=\"nsb-fraction\"><span>π</span><span>2</span></span>",
+        "question_sanitized": "Solve the following trigonometric equation for x, giving your answer in radians such that 0 ≤ x < 2π: sin^2 x + sin x - 2 = 0",
+        "answer_sanitized": "π/2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 and compared the complete printed stem, answer, options, and notes with corpus item 11; corrected source-visible formatting and transcription.",
+      "before": {
+        "question": "Giving your answer in standard form, give the equation of a circle with center at (12, 7) and a radius of 4: 2 2",
+        "answer": "(x – 12) + (y – 7) = 16"
+      },
+      "changes": {
+        "question": "Giving your answer in standard form, give the equation of a circle with center at (12, 7) and a radius of 4:",
+        "answer": "(x − 12)<sup>2</sup> + (y − 7)<sup>2</sup> = 16",
+        "question_sanitized": "Giving your answer in standard form, give the equation of a circle with center at (12, 7) and a radius of 4:",
+        "answer_sanitized": "(x - 12)^2 + (y - 7)^2 = 16"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 6; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 8; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 9; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 9; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 12; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 12; the corpus record agrees."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 13; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 1; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered page 1 and compared the complete printed stem, answer, options, and notes with corpus item 2; corrected source-visible formatting and transcription.",
+      "before": {
+        "parts": [
+          "Give the net ionic equation that occurs when aqueous solutions of ammonium sulfate and barium nitrate are mixed: 2+ 42–"
+        ],
+        "answers": [
+          "Ba + SO à BaSO<sub>4</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Give the net ionic equation that occurs when aqueous solutions of ammonium sulfate and barium nitrate are mixed:"
+        ],
+        "answers": [
+          "Ba<sup>2+</sup> + SO<sub>4</sub><sup>2−</sup> → BaSO<sub>4</sub>"
+        ],
+        "parts_sanitized": [
+          "Give the net ionic equation that occurs when aqueous solutions of ammonium sulfate and barium nitrate are mixed:"
+        ],
+        "answers_sanitized": [
+          "Ba^2+ + SO4^2- -> BaSO4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 2; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered page 2 and compared the complete printed stem, answer, options, and notes with corpus item 4; corrected source-visible formatting and transcription.",
+      "before": {
+        "parts": [
+          "Simplify the following trigonometric expression completely: sec cos θ − θ tan θ"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Simplify the following trigonometric expression completely: <span class=\"nsb-fraction\"><span>sec θ − cos θ</span><span>tan θ</span></span>"
+        ],
+        "parts_sanitized": [
+          "Simplify the following trigonometric expression completely: (sec theta - cos theta)/tan theta"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 3; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 4; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 5; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered page 6 and compared the complete printed stem, answer, options, and notes with corpus item 11; corrected source-visible formatting and transcription.",
+      "before": {
+        "parts": [
+          "Find every value of k such that the following equation has exactly one 2 real number root: 16x + kx + 9 = 0"
+        ],
+        "answers": [
+          "24 AND –24 2 2 2"
+        ],
+        "notes": [
+          "(Solution: b - 4ac = 0; k – 4(16)(9) = 0; k = 576; k = 24, -24)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find every value of k such that the following equation has exactly one real number root: 16x<sup>2</sup> + kx + 9 = 0"
+        ],
+        "answers": [
+          "24 AND −24"
+        ],
+        "notes": [
+          "(Solution: b<sup>2</sup> − 4ac = 0; k<sup>2</sup> − 4(16)(9) = 0; k<sup>2</sup> = 576; k = 24, −24)"
+        ],
+        "parts_sanitized": [
+          "Find every value of k such that the following equation has exactly one real number root: 16x^2 + kx + 9 = 0"
+        ],
+        "answers_sanitized": [
+          "24 and -24"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 6; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 7; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 8; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered page 8 and compared the complete printed stem, answer, options, and notes with corpus item 16; corrected source-visible formatting and transcription.",
+      "before": {
+        "parts": [
+          "Which of the following is NOT an example of a weak base:<br>W) NH<sub>3</sub> 4+<br>X) NH<br>Y) CH<sub>3</sub> NH<sub>2</sub><br>Z) C<sub>6</sub> H<sub>5</sub> NH<sub>2</sub> 4+"
+        ],
+        "options": [
+          "W) NH<sub>3</sub> 4+",
+          "X) NH",
+          "Y) CH<sub>3</sub> NH<sub>2</sub>",
+          "Z) C<sub>6</sub> H<sub>5</sub> NH<sub>2</sub> 4+"
+        ],
+        "answers": [
+          "X) NH"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is NOT an example of a weak base:<br>W) NH<sub>3</sub><br>X) NH<sub>4</sub><sup>+</sup><br>Y) CH<sub>3</sub>NH<sub>2</sub><br>Z) C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>"
+        ],
+        "options": [
+          "W) NH<sub>3</sub>",
+          "X) NH<sub>4</sub><sup>+</sup>",
+          "Y) CH<sub>3</sub>NH<sub>2</sub>",
+          "Z) C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>"
+        ],
+        "answers": [
+          "X) NH<sub>4</sub><sup>+</sup>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 and compared the complete printed stem, answer, options, and notes with corpus item 17; corrected source-visible formatting and transcription.",
+      "before": {
+        "parts": [
+          "Give the center and radius of the following equation of a circle: 2 2 x + y + 8x – 2y + 13 = 0"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Give the center and radius of the following equation of a circle: x<sup>2</sup> + y<sup>2</sup> + 8x − 2y + 13 = 0"
+        ],
+        "parts_sanitized": [
+          "Give the center and radius of the following equation of a circle: x^2 + y^2 + 8x - 2y + 13 = 0"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 9; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 10; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 11; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 and compared the complete printed stem, answer, options, and notes with corpus item 23; corrected source-visible formatting and transcription.",
+      "before": {
+        "parts": [
+          "Knowing that gallium is in group 13 and Period 4, give the simplified ground-state electron configuration, starting with the last filled noble gas configuration of argon: 2 10 1 10 2 1 2 10 1 10 2 1"
+        ],
+        "answers": [
+          "[Ar]4s 3d 4p (ACCEPT: [Ar]3d 4s 4p or 4s 3d 4p or 3d 4s 4p )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Knowing that gallium is in group 13 and Period 4, give the simplified ground-state electron configuration, starting with the last filled noble gas configuration of argon:"
+        ],
+        "answers": [
+          "[Ar]4s<sup>2</sup>3d<sup>10</sup>4p<sup>1</sup> (ACCEPT: [Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>1</sup> or 4s<sup>2</sup>3d<sup>10</sup>4p<sup>1</sup> or 3d<sup>10</sup>4s<sup>2</sup>4p<sup>1</sup>)"
+        ],
+        "parts_sanitized": [
+          "Knowing that gallium is in group 13 and Period 4, give the simplified ground-state electron configuration, starting with the last filled noble gas configuration of argon:"
+        ],
+        "answers_sanitized": [
+          "[Ar] 4s^2 3d^10 4p^1 (accept: [Ar] 3d^10 4s^2 4p^1 or 4s^2 3d^10 4p^1 or 3d^10 4s^2 4p^1)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete printed stem, answer, options where present, and notes on source page 12; the corpus record agrees."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered page 13 and compared the complete printed stem, answer, options, and notes with corpus item 25; corrected source-visible formatting and transcription.",
+      "before": {
+        "answers": [
+          "22 N2 O2 total = 18 + 4 = 22atm)"
+        ],
+        "notes": [
+          "(Solution: P<sub>1</sub> V<sub>1</sub> = P<sub>2</sub> V<sub>2</sub> ; (24atm)(6L) = (P )(8L) = 18atm; (16atm)(2L) = (P )(8L) = 4atm; P"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "22"
+        ],
+        "notes": [
+          "(Solution: P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>; (24 atm)(6 L) = (P<sub>N2</sub>)(8 L) = 18 atm; (16 atm)(2 L) = (P<sub>O2</sub>)(8 L) = 4 atm; P<sub>total</sub> = 18 + 4 = 22 atm)"
+        ]
+      }
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "evidence": "The printed source spells the disease answer “SHISTOSOMIASIS.”",
+      "proposedData": "The likely intended spelling is SCHISTOSOMIASIS, but the source spelling is preserved."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "evidence": "The printed source says “drill holes though a series of ... joists.”",
+      "proposedData": "Preserve the source’s “though” wording; “through” may have been intended."
+    }
+  ]
+}

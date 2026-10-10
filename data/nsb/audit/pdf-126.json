@@ -1,0 +1,513 @@
+{
+  "packetIndex": 126,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-13-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visually prints “January 1st” with st raised in both occurrences; corpus separated st.",
+      "before": {
+        "question": "In 2014, January 1 st fell on a Wednesday. What is the next year that January 1 st will fall on a Wednesday?<br>W) 2015<br>X) 2019<br>Y) 2020<br>Z) 2025"
+      },
+      "changes": {
+        "question": "In 2014, January 1<sup>st</sup> fell on a Wednesday. What is the next year that January 1<sup>st</sup> will fall on a Wednesday?<br>W) 2015<br>X) 2019<br>Y) 2020<br>Z) 2025",
+        "question_sanitized": "In 2014, January 1st fell on a Wednesday. What is the next year that January 1st will fall on a Wednesday? W) 2015 X) 2019 Y) 2020 Z) 2025"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “During which of the following phases of an action potential do voltage-gated sodium channels be” with choices W–Z; each option and key X) FALLING PHASE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “Halogenation [hal-uh-juh-NAY-shuhn] will occur fastest between methane and the radical of which” with choices W–Z; each option and key Y) FLUORINE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “An antihydrogen atom is made of what two components? W) An antiproton and a positron X) An anti” with choices W–Z; each option and key W) AN ANTIPROTON AND A POSITRON match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “At a latitude of 45 degrees, which of the following is closest to the percentage of astronomica” with choices W–Z; each option and key X) 30% match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “Which of the following phases of meiosis [my-OH-sis] is longest? W) Prophase I X) Prophase II Y” with choices W–Z; each option and key W) PROPHASE I match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “What major rock type is the medium for fracking? W) Schist [SHIST] X) Shale Y) Basalt Z) Limest” with choices W–Z; each option and key X) SHALE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “Which of the following is the full list of products produced by the mild heating of sodium bica” with choices W–Z; each option and key Y) SODIUM CARBONATE, WATER, AND CARBON DIOXIDE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “Which of the following does not interact with a magnetic field? W) A magnet at rest X) Moving e” with choices W–Z; each option and key Z) ELECTRIC CHARGES AT REST match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “Which of the following structures would have been most likely absent from the last shared commo” with choices W–Z; each option and key Z) SWIM BLADDER match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “Which of the following composes most of the insoluble residues of limestones? W) Calcite matrix” with choices W–Z; each option and key Y) CHERT NODULES match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “The van der Waals equation is an equation of state for real gases that contains two gas-depende”; printed key PRESSURE (ACCEPT: P) matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 shows 2x/3 − x/6 with stacked fractions and all four options; the corpus omitted the fractions.",
+      "before": {
+        "question": "If [ two x divided by three minus x divided by six] is an integer, which of the following MUST be true regarding x?<br>W) x is negative<br>X) x is a multiple of two<br>Y) x is a multiple of three<br>Z) x is odd"
+      },
+      "changes": {
+        "question": "If <span class=\"nsb-fraction\"><span>2x</span><span>3</span></span> − <span class=\"nsb-fraction\"><span>x</span><span>6</span></span> [two x divided by three minus x divided by six] is an integer, which of the following MUST be true regarding x?<br>W) x is negative<br>X) x is a multiple of two<br>Y) x is a multiple of three<br>Z) x is odd",
+        "question_sanitized": "If (2x/3) - (x/6) [two x divided by three minus x divided by six] is an integer, which of the following MUST be true regarding x? W) x is negative X) x is a multiple of two Y) x is a multiple of three Z) x is odd"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “A 100 mile 765 kilovolt line carrying 1000 megawatts of energy can have losses ranging from 1.1” with choices W–Z; each option and key Y) 4/1 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Identify all of the following three neurotransmitters that are considered to have only excitato”; printed key 3 (ACCEPT: GLUTAMATE) matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints sp² with the cue [s-p-2]; corpus separates the exponent from sp.",
+      "before": {
+        "question": "Which of the following organic functional groups does NOT exhibit sp 2 [s-p-2] hybridization?<br>W) Ketones<br>X) Aldehydes [AL-duh-hyds]<br>Y) Amides<br>Z) Amines"
+      },
+      "changes": {
+        "question": "Which of the following organic functional groups does NOT exhibit sp<sup>2</sup> [s-p-2] hybridization?<br>W) Ketones<br>X) Aldehydes [AL-duh-hyds]<br>Y) Amides<br>Z) Amines",
+        "question_sanitized": "Which of the following organic functional groups does NOT exhibit sp^2 [s-p-2] hybridization? W) Ketones X) Aldehydes [AL-duh-hyds] Y) Amides Z) Amines"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints −7, Euler’s formula, and log(−a) in their own choices; OCR displaced symbols and choice text.",
+      "before": {
+        "question": "Which of the following statements is TRUE? 7<br>W) is not a prime number<br>X) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]<br>Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other log<br>Z) There is no number such that [log of negative a] exists. 7",
+        "options": [
+          "W) is not a prime number",
+          "X) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]",
+          "Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other log",
+          "Z) There is no number such that [log of negative a] exists. 7"
+        ],
+        "answer": "W) IS NOT A PRIME NUMBER"
+      },
+      "changes": {
+        "question": "Which of the following statements is TRUE?<br>W) −7 is not a prime number<br>X) e<sup>iπ</sup> = −e<sup>−iπ</sup> [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]<br>Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other<br>Z) There is no number a such that log(−a) [log of negative a] exists.",
+        "options": [
+          "W) −7 is not a prime number",
+          "X) e<sup>iπ</sup> = −e<sup>−iπ</sup> [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi]",
+          "Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other",
+          "Z) There is no number a such that log(−a) [log of negative a] exists."
+        ],
+        "answer": "W) −7 IS NOT A PRIME NUMBER",
+        "question_sanitized": "Which of the following statements is TRUE? W) -7 is not a prime number X) e^(i pi) = -e^(-i pi) [e to the power of quantity I times pi equals negative e to the power of quantity negative I times pi] Y) All pairs of perpendicular lines in the Cartesian plane have slopes that are negative reciprocals of each other Z) There is no number a such that log(-a) [log of negative a] exists.",
+        "answer_sanitized": "W) -7 IS NOT A PRIME NUMBER"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints “Assuming the heat of fusion for water is 80 calories per gram, what is the increase in entropy,”; printed key 80 matches the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “What will occur if a white dwarf in a binary exceeds its Roche [ROSH] lobe? W) Its companion wi” with choices W–Z; each option and key Z) IT WILL TRANSFER MATTER TO ITS COMPANION UNTIL IT SHRINKS BELOW ITS ROCHE LOBE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Which of the following best describes the elementary kinetic step where a proton is transferred” with choices W–Z; each option and key X) BIMOLECULAR match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “Which of the following vitamin deficiencies causes the condition known as “Pellagra”? W) Vitami” with choices W–Z; each option and key W) VITAMIN B3 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “Energy radiates from a surface as a function of temperature to what power? W) 1 X) 3 Y) 2 Z) 4” with choices W–Z; each option and key Z) 4 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints Jupiter's with an ordinary apostrophe; corpus contains the double-escaped entity.",
+      "before": {
+        "question": "A torus of sulfur and sodium has been detected along the orbit of which of Jupiter&amp;apos;s moons?"
+      },
+      "changes": {
+        "question": "A torus of sulfur and sodium has been detected along the orbit of which of Jupiter's moons?",
+        "question_sanitized": "A torus of sulfur and sodium has been detected along the orbit of which of Jupiter's moons?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “The sums of three whole numbers taken in pairs are 11, 13, and 16. What is the product of these”; printed key 252 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints the inline answer 5/2 R (ACCEPT: 2.5 R), matching the corpus exactly."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “A capillary tube with an inner radius of 0.1 millimeter is partially dipped in a liquid with a ” with choices W–Z; each option and key Y) 20 cm match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “A poikiloblastic [poi-kil-uh-BLAS-tik] texture is characterized by which of the following? W) I” with choices W–Z; each option and key Z) INCLUSIONS FROM OTHER MINERALS ENVELOPED DURING PORPHYROBLAST GROWTH match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “Arrange the following three steps of cell respiration from lowest to highest in terms of net NA”; printed key 2, 1, 3 (ACCEPT: ELECTRON TRANSPORT CHAIN, GLYCOLYSIS, KREBS CYCLE) matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “What rule is used to predict the aromaticity of conjugated alkenes?”; printed key HUCKEL’S RULE matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “The closest distance at which Gina can properly focus is 100 cm from her eye. The distance of n” with choices W–Z; each option and key Z) 3 match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “Place the following four animals in order of lowest to highest energy cost per unit body weight”; printed key PYTHON, HUMAN, POODLE, CANARY matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “Which of the following statements concerning the particle-in- a-box model is false? W) The pote” with choices W–Z; each option and key X) THE GROUND STATE ENERGY INCREASES WITH THE LENGTH OF THE BOX match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “What is the smallest positive integer that can be added to 2500 to get a perfect square?”; printed key 101 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “If a single electric distribution line has a resistance of 1 ohm per 1000 meters and current at”; printed key 500 matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “What specific cell type in the stomach is responsible for production of hydrochloric acid in re”; printed key PARIETAL CELLS matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints “Which of the following statements is true regarding the chemistry of the alkaline earth element” with choices W–Z; each option and key W) COMPOUNDS OF BERYLLIUM HAVE THE MOST COVALENT CHARACTER match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints the circle divided into 8 sectors with central angles in an arithmetic sequence starting at 3; answer is 12."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints α, 10⁵ kV, and Kα/Kp; extracted corpus misplaced the alpha and exponent.",
+      "before": {
+        "parts": [
+          "An [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10 5 kilovolts. Find the ratio (K /K ) [k alpha  p over k proton] of their final kinetic energies.<br>W) 1/4<br>X) 1/2<br>Y) 2<br>Z) 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "An α-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10<sup>5</sup> kilovolts. Find the ratio (K<sub>α</sub>/K<sub>p</sub>) [k alpha over k proton] of their final kinetic energies.<br>W) 1/4<br>X) 1/2<br>Y) 2<br>Z) 4"
+        ],
+        "parts_sanitized": [
+          "An alpha-particle [alpha particle] and a proton, both initially at rest, are accelerated through a potential difference of 10^5 kilovolts. Find the ratio (K_alpha/K_p) [k alpha over k proton] of their final kinetic energies? W) 1/4 X) 1/2 Y) 2 Z) 4"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “Which of the following describes the carbonate compensation depth (CCD)? W) Occurring between 2” with choices W–Z; each option and key X) VARYING BY LATITUDE: DEEPER NEAR THE EQUATOR, SHALLOWER NEAR THE POLES match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints the answer as 1.2 x 10⁻¹², using a lowercase x and superscript exponent.",
+      "before": {
+        "answers": [
+          "1.2 x 10 -12"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "1.2 x 10<sup>−12</sup>"
+        ],
+        "answers_sanitized": [
+          "1.2 x 10^(-12)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “How many molecules of ATP are needed to synthesize two glucose molecules in the Calvin cycle?”; printed key 36 ATP matches the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “Which of the following rare earth elements is used to produce magnets for wind turbines? W) Eur” with choices W–Z; each option and key Z) NEODYMIUM match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints “Telescope A has an aperture with diameter 1 meter and telescope B has an aperture with diameter” with choices W–Z; each option and key W) SMALLEST RESOLVED ANGLE OF A IS TWICE THAT OF B AND INTEGRATION TIME IS FOUR TIMES THAT OF B match."
+    }
+  ],
+  "packetIssues": []
+}

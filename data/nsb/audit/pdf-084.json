@@ -1,0 +1,569 @@
+{
+  "packetIndex": 84,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND3.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by number and opening wording on Round 3 page 1; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by number and opening wording on Round 3 page 1; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by number and opening wording on Round 3 page 2; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by number and opening wording on Round 3 page 2; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by number and opening wording on Round 3 page 3; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by number and opening wording on Round 3 page 3; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by number and opening wording on Round 3 page 4; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by number and opening wording on Round 3 page 4; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by number and opening wording on Round 3 page 5; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by number and opening wording on Round 3 page 6; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Root compared PDF text on page 6: car's uses an apostrophe, not a literal HTML entity. Decoded the double-escaped apostrophe without altering wording.",
+      "before": {
+        "question": "Which of the following uses stored electricity and is required to get a gasoline-powered car&amp;apos;s engine going?<br>W) Catalytic converter<br>X) Starter motor<br>Y) Fuel rail<br>Z) Alternator"
+      },
+      "changes": {
+        "question": "Which of the following uses stored electricity and is required to get a gasoline-powered car's engine going?<br>W) Catalytic converter<br>X) Starter motor<br>Y) Fuel rail<br>Z) Alternator"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by number and opening wording on Round 3 page 7; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 by number and opening wording on Round 3 page 7; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 by number and opening wording on Round 3 page 8; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by number and opening wording on Round 3 page 8; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by number and opening wording on Round 3 page 9; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by number and opening wording on Round 3 page 9; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Root visual QA of PDF p. 10 confirms the full bracketed fraction read-as cue after f(x); restored it in both rich and reading text, retaining the corrected displayed fraction.",
+      "before": {
+        "question": "For what values of x is the function [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
+      },
+      "changes": {
+        "question": "For what values of x is the function f(x) = <span class=\"nsb-fraction\"><span>x<sup>2</sup></span><span>x<sup>2</sup> − 4x + 4</span></span> [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?",
+        "question_sanitized": "For what values of x is the function f(x) = x^2/(x^2 - 4x + 4) [f of x equals the fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT defined?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by number and opening wording on Round 3 page 11; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by number and opening wording on Round 3 page 11; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by number and opening wording on Round 3 page 12; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by number and opening wording on Round 3 page 12; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by number and opening wording on Round 3 page 13; compared the complete prompt, choices, and answer to the printed page.",
+      "before": {
+        "question": "If ln [natural log of the quantity x cubed equals 6], what is ln [the natural log of the quantity x squared]?"
+      },
+      "changes": {
+        "question": "If ln(x<sup>3</sup>) = 6 [natural log of the quantity x cubed equals 6], what is ln(x<sup>2</sup>) [the natural log of the quantity x squared]?",
+        "question_sanitized": "If ln(x^3) = 6 [natural log of the quantity x cubed equals 6], what is ln(x^2) [the natural log of the quantity x squared]?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by number and opening wording on Round 3 page 1; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by number and opening wording on Round 3 page 1; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by number and opening wording on Round 3 page 2; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by number and opening wording on Round 3 page 2; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by number and opening wording on Round 3 page 3; compared the complete prompt, choices, and answer to the printed page.",
+      "before": {
+        "parts": [
+          "The polynomial 4 3 2 has a zero at Factor x x completely. – 2)(x + 3)(x + 4)"
+        ],
+        "answers": [
+          "x(x [NOTE: EXPRESSIONS IN ANSWER CAN BE IN ANY ORDER]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The polynomial p(x) = x<sup>4</sup> + 5x<sup>3</sup> − 2x<sup>2</sup> − 24x has a zero at x = 2. Factor p completely."
+        ],
+        "parts_sanitized": [
+          "The polynomial p(x) = x^4 + 5x^3 - 2x^2 - 24x has a zero at x = 2. Factor p completely."
+        ],
+        "answers": [
+          "x(x − 2)(x + 3)(x + 4) [NOTE: EXPRESSIONS IN ANSWER CAN BE IN ANY ORDER]"
+        ],
+        "answers_sanitized": [
+          "x(x - 2)(x + 3)(x + 4) [NOTE: EXPRESSIONS IN ANSWER CAN BE IN ANY ORDER]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by number and opening wording on Round 3 page 3; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by number and opening wording on Round 3 page 4; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by number and opening wording on Round 3 page 5; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by number and opening wording on Round 3 page 5; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by number and opening wording on Round 3 page 6; compared the complete prompt, choices, and answer to the printed page.",
+      "before": {
+        "parts": [
+          "In terms of x and in standard polynomial form, what is the volume of a (x + 4), (x + 1), + 6)? right rectangular prism with dimensions and (x 3 + 11x 2 + 34x + 24"
+        ],
+        "answers": [
+          "x"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In terms of x and in standard polynomial form, what is the volume of a right rectangular prism with dimensions (x + 4), (x + 1), and (x + 6)?"
+        ],
+        "answers": [
+          "x<sup>3</sup> + 11x<sup>2</sup> + 34x + 24"
+        ],
+        "answers_sanitized": [
+          "x^3 + 11x^2 + 34x + 24"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by number and opening wording on Round 3 page 6; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by number and opening wording on Round 3 page 7; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by number and opening wording on Round 3 page 7; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by number and opening wording on Round 3 page 8; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by number and opening wording on Round 3 page 8; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by number and opening wording on Round 3 page 9; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by number and opening wording on Round 3 page 9; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by number and opening wording on Round 3 page 10; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by number and opening wording on Round 3 page 10; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by number and opening wording on Round 3 page 11; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 by number and opening wording on Round 3 page 11; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by number and opening wording on Round 3 page 12; compared the complete prompt, choices, and answer to the printed page.",
+      "before": {
+        "parts": [
+          "Which of the following is the formula for n-Octadecanoic acid?<br>W) C<sub>6</sub> H<sub>12</sub> O<sub>6</sub><br>X) C<sub>18</sub> H<sub>36</sub> COOH<br>Y) C<sub>17</sub> H<sub>35</sub> COOH<br>Z) C<sub>16</sub> H<sub>32</sub> COOH"
+        ],
+        "options": [
+          "W) C<sub>6</sub> H<sub>12</sub> O<sub>6</sub>",
+          "X) C<sub>18</sub> H<sub>36</sub> COOH",
+          "Y) C<sub>17</sub> H<sub>35</sub> COOH",
+          "Z) C<sub>16</sub> H<sub>32</sub> COOH"
+        ],
+        "answers": [
+          "Y) C<sub>17</sub> H<sub>35</sub> COOH"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the formula for n-octadecanoic acid?<br>W) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub><br>X) C<sub>18</sub>H<sub>36</sub>COOH<br>Y) C<sub>17</sub>H<sub>35</sub>COOH<br>Z) C<sub>16</sub>H<sub>32</sub>COOH"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the formula for n-octadecanoic acid?<br>W) C6H12O6<br>X) C18H36COOH<br>Y) C17H35COOH<br>Z) C16H32COOH"
+        ],
+        "options": [
+          "W) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+          "X) C<sub>18</sub>H<sub>36</sub>COOH",
+          "Y) C<sub>17</sub>H<sub>35</sub>COOH",
+          "Z) C<sub>16</sub>H<sub>32</sub>COOH"
+        ],
+        "answers": [
+          "Y) C<sub>17</sub>H<sub>35</sub>COOH"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by number and opening wording on Round 3 page 12; compared the complete prompt, choices, and answer to the printed page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by number and opening wording on Round 3 page 13; compared the complete prompt, choices, and answer to the printed page."
+    }
+  ],
+  "packetIssues": []
+}

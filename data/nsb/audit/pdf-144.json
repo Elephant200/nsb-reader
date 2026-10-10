@@ -1,0 +1,456 @@
+{
+  "packetIndex": 144,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_14A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1; printed answer is RESONANCE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 2; printed answer is 14/3 ACCEPT: FOUR AND TWO THIRDS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4; printed answer is Y) EARTH&amp;apos;S AXIAL PRECESSION.",
+      "before": {
+        "question": "In about twelve thousand years, the star Vega will be the North Star, not Polaris, due to which of the following:<br>W) Jupiter&amp;apos;s gravity<br>X) Earth&amp;apos;s tilted axis<br>Y) Earth&amp;apos;s axial precession<br>Z) Earth&amp;apos;s nutation",
+        "options": [
+          "W) Jupiter&amp;apos;s gravity",
+          "X) Earth&amp;apos;s tilted axis",
+          "Y) Earth&amp;apos;s axial precession",
+          "Z) Earth&amp;apos;s nutation"
+        ],
+        "answer": "Y) EARTH&amp;apos;S AXIAL PRECESSION"
+      },
+      "changes": {
+        "question": "In about twelve thousand years, the star Vega will be the North Star, not Polaris, due to which of the following:<br>W) Jupiter’s gravity<br>X) Earth’s tilted axis<br>Y) Earth’s axial precession<br>Z) Earth’s nutation",
+        "question_sanitized": "In about twelve thousand years, the star Vega will be the North Star, not Polaris, due to which of the following: W) Jupiter’s gravity; X) Earth’s tilted axis; Y) Earth’s axial precession; Z) Earth’s nutation",
+        "options": [
+          "W) Jupiter’s gravity",
+          "X) Earth’s tilted axis",
+          "Y) Earth’s axial precession",
+          "Z) Earth’s nutation"
+        ],
+        "answer": "Y) EARTH’S AXIAL PRECESSION"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 5; printed answer is TOBACCO MOSAIC VIRUS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6; printed answer is OSTWALD PROCESS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7; printed answer is PLANCK’S CONSTANT."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8; printed answer is y = 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is 2 AND 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 11; printed answer is W) ORGANIC LED DISPLAYS REQUIRE BACKLIGHTS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12; printed answer is W) AMMONIA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13; printed answer is HELIOPAUSE.",
+      "before": {
+        "question": "What term refers to the outer limit of the Sun&amp;apos;s electromagnetic influence?"
+      },
+      "changes": {
+        "question": "What term refers to the outer limit of the Sun’s electromagnetic influence?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 14; printed answer is Z) ALTERNATION OF MULTICELLULAR GENERATIONS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15; printed answer is 1, 2, 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16; printed answer is 3 times the square root of 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17; printed answer is Y) DECAY TIME."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20; printed answer is LEIDENFROST EFFECT.",
+      "before": {
+        "question": "Name the phenomenon in which a liquid, in near contact with a mass significantly hotter than the liquid&amp;apos;s boiling point, produces an insulating vapor layer keeping that liquid from boiling rapidly?"
+      },
+      "changes": {
+        "question": "Name the phenomenon in which a liquid, in near contact with a mass significantly hotter than the liquid’s boiling point, produces an insulating vapor layer keeping that liquid from boiling rapidly?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21; printed answer is Z) ALL AMINO ACIDS ARE NET NEUTRAL AT A pH OF 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23; printed answer is 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1; printed answer is CIRCLE (DO NOT ACCEPT: HELICAL)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 2; printed answer is -6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3; printed answer is X) IN A DANIELL CELL, COPPER IS OXIDIZED."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 4; printed answer is Z) EYEWALL REPLACEMENT CYCLES ARE COMMON WHEN A HURRICANE REACHES A CATEGORY 5 STATUS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5; printed answer is VAGUS NERVE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6; printed answer is X) THE REACTION WILL PRODUCE MORE AMMONIA.",
+      "before": {
+        "parts": [
+          "For the reaction N<sub>2</sub> + 3H<sub>2</sub> in equilibrium with 2NH<sub>3</sub> , with a negative change in enthalpy, which of the following events is least likely to occur when the temperature of the reaction is increased?<br>W) The gas particles will speed up<br>X) The reaction will produce more ammonia<br>Y) The reaction will reverse<br>Z) The entropy of the system will increase"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For the reaction N<sub>2</sub> + 3H<sub>2</sub> in equilibrium with 2NH<sub>3</sub>, with a negative change in enthalpy, which of the following events is least likely to occur when the temperature of the reaction is increased?<br>W) The gas particles will speed up<br>X) The reaction will produce more ammonia<br>Y) The reaction will reverse<br>Z) The entropy of the system will increase"
+        ],
+        "parts_sanitized": [
+          "For the reaction N₂ + 3H₂ in equilibrium with 2NH₃, with a negative change in enthalpy, which of the following events is least likely to occur when the temperature of the reaction is increased? W) The gas particles will speed up; X) The reaction will produce more ammonia; Y) The reaction will reverse; Z) The entropy of the system will increase"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7; printed answer is 2 AMPERES, 28 VOLTS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8; printed answer is 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9; printed answer is 1 AND 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10; printed answer is HANS CHRISTIAN OERSTED (ACCEPT: OERSTED)."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 11; printed answer is 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12; printed answer is 1, 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14; printed answer is X) COOMASSIE BLUE."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15; printed answer is X) CARBON DIOXIDE AND HYDROGEN ARE PRODUCED FROM CARBON MONOXIDE AND STEAM."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16; printed answer is 17/13.",
+      "before": {
+        "parts": [
+          "If A is an acute angle and sin A times cos A = 60/169, find the numerical value of sin A + cos A."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If A is an acute angle and sin A times cos A = <span class=\"nsb-fraction\"><span>60</span><span>169</span></span>, find the numerical value of sin A + cos A."
+        ],
+        "parts_sanitized": [
+          "If A is an acute angle and sin A times cos A = 60/169, find the numerical value of sin A + cos A."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is Y) BERGERON PROCESS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18; printed answer is 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20; printed answer is 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 21; printed answer is 1 AND 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23; printed answer is (1, 3, 3)."
+    }
+  ],
+  "packetIssues": []
+}

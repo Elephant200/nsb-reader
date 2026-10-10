@@ -1,0 +1,594 @@
+{
+  "packetIndex": 106,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-10.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 1 (tossups) beginning “What is the most reduced symmetry operation symbol for a molecule that has a rotation”; its printed answer “C 3 2” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "answer": "C 3 2"
+      },
+      "changes": {
+        "answer": "C<sub>3</sub><sup>2</sup>",
+        "answer_sanitized": "C3 squared"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 2 (tossups) beginning “Find the sum of the two solutions for the quadratic equation: 2x2 – 4x + 8 = 0.”; its printed answer “2” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "question": "Find the sum of the two solutions for the quadratic equation: 2x2 – 4x + 8 = 0."
+      },
+      "changes": {
+        "question": "Find the sum of the two solutions for the quadratic equation: 2x<sup>2</sup> − 4x + 8 = 0.",
+        "question_sanitized": "Find the sum of the two solutions for the quadratic equation: 2x squared minus 4x plus 8 equals 0."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 3 (tossups) beginning “Which of the following is nearest the percentage of the Earth’s surface that is cover”; its printed answer “Y) 10%” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 4 (tossups) beginning “If it takes 60 pounds-force to loosen a lug nut with a 5 inch wrench, how much force ”; its printed answer “25” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 6 (tossups) beginning “What is the process by which bacterial genes can be transferred from one bacterium to”; its printed answer “TRANSDUCTION” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 7 (tossups) beginning “Which of the following statements about visible energy transitions in electronic spec”; its printed answer “Z) THEY OCCUR BETWEEN LIGAND ORBITALS” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 8 (tossups) beginning “Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, th”; its printed answer “(-4, 4)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 9 (tossups) beginning “The San Andreas Fault and collision of India with Asia occurred in what geologic peri”; its printed answer “Z) OLIGOCENE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 10 (tossups) beginning “The messenger particles of weak interaction are which of the following? W) Z bosons o”; its printed answer “Y) Z, W+, AND W- BOSONS” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 11 (tossups) beginning “The following four terms would apply to what group of organisms: primaries, axillars,”; its printed answer “BIRDS” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 12 (tossups) beginning “Providing your answer as a whole number, what is the overall order of the reaction go”; its printed answer “3 (ACCEPT: THIRD OR THIRD ORDER)” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "question": "Providing your answer as a whole number, what is the overall order of the reaction governed by the rate law R = k[NO 2 ]2[Br 2 ] [R equals k times the concentration of N-O-2 squared times the concentration of bromine]?"
+      },
+      "changes": {
+        "question": "Providing your answer as a whole number, what is the overall order of the reaction governed by the rate law R = k[NO<sub>2</sub>]<sup>2</sup>[Br<sub>2</sub>] [R equals k times the concentration of N-O-2 squared times the concentration of bromine]?",
+        "question_sanitized": "Providing your answer as a whole number, what is the overall order of the reaction governed by the rate law R = k[NO2] squared [Br2] [R equals k times the concentration of N-O-2 squared times the concentration of bromine]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 13 (tossups) beginning “If object A and object B are in thermal equilibrium, and object B and object C are in”; its printed answer “W) ZEROTH” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 14 (tossups) beginning “What is the area of the region bounded by the curve: y = sinx [y equals sine of x] an”; its printed answer “2” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "question": "What is the area of the region bounded by the curve: y = sinx [y equals sine of x] and the x-axis from x = 0 to x = π?"
+      },
+      "changes": {
+        "question": "What is the area of the region bounded by the curve: y = sin x [y equals sine of x] and the x-axis from x = 0 to x = π?",
+        "question_sanitized": "What is the area of the region bounded by the curve: y = sine of x [y equals sine of x] and the x-axis from x = 0 to x = pi?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 15 (tossups) beginning “The Volcanic Explosivity Index rated the Toba eruption as an 8, the highest rating. W”; its printed answer “X) SUBDUCTION ZONE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 17 (tossups) beginning “Fluid pressure is caused by which of the following? W) Gravitational interactions amo”; its printed answer “X) COLLISIONS OF FAST MOVING ATOMS AND MOLECULES OF THE FLUID” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 18 (tossups) beginning “In what taxonomic phylum [FY-luhm] can you find an indeterminate species in the genus”; its printed answer “HEPATOPHYTA” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 19 (tossups) beginning “Which of the following gases would deviate most from ideal gas behavior? W) Helium X)”; its printed answer “Y) OXYGEN” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 20 (tossups) beginning “What is ∫ 𝑡 2 𝑑𝑑 [the derivative with respect to x of the integral 𝑑𝑑 4 from 4 t”; its printed answer “W) x2” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "question": "What is ∫ 𝑡 2 𝑑𝑑 [the derivative with respect to x of the integral 𝑑𝑑 4 from 4 to x of t squared dt]?<br>W) x2<br>X) (1/3)x3<br>Y) (64/3)x<br>Z) 16x2",
+        "options": [
+          "W) x2",
+          "X) (1/3)x3",
+          "Y) (64/3)x",
+          "Z) 16x2"
+        ],
+        "answer": "W) x2"
+      },
+      "changes": {
+        "question": "What is <span>d</span>/<span>dx</span> ∫<sub>4</sub><sup>x</sup> t<sup>2</sup> dt [the derivative with respect to x of the integral from 4 to x of t squared dt]?<br>W) x<sup>2</sup><br>X) (1/3)x<sup>3</sup><br>Y) (64/3)x<br>Z) 16x<sup>2</sup>",
+        "question_sanitized": "What is the derivative with respect to x of the integral from 4 to x of t squared dt [the derivative with respect to x of the integral from 4 to x of t squared dt]? W) x squared X) (1/3)x cubed Y) (64/3)x Z) 16x squared",
+        "options": [
+          "W) x<sup>2</sup>",
+          "X) (1/3)x<sup>3</sup>",
+          "Y) (64/3)x",
+          "Z) 16x<sup>2</sup>"
+        ],
+        "answer": "W) x<sup>2</sup>",
+        "answer_sanitized": "W) x squared"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 23 (tossups) beginning “A proton initially at rest is accelerated through a potential difference of 1 megavol”; its printed answer “Y) 106” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "question": "A proton initially at rest is accelerated through a potential difference of 1 megavolt. What is its final kinetic energy in electronvolts?<br>W) 103<br>X) 1.6 × 106<br>Y) 106<br>Z) 1.6 × 106",
+        "options": [
+          "W) 103",
+          "X) 1.6 × 106",
+          "Y) 106",
+          "Z) 1.6 × 106"
+        ],
+        "answer": "Y) 106"
+      },
+      "changes": {
+        "question": "A proton initially at rest is accelerated through a potential difference of 1 megavolt. What is its final kinetic energy in electronvolts?<br>W) 10<sup>3</sup><br>X) 1.6 × 10<sup>6</sup><br>Y) 10<sup>6</sup><br>Z) 1.6 × 10<sup>6</sup>",
+        "question_sanitized": "A proton initially at rest is accelerated through a potential difference of 1 megavolt. What is its final kinetic energy in electronvolts? W) 10 to the 3 X) 1.6 times 10 to the 6 Y) 10 to the 6 Z) 1.6 times 10 to the 6",
+        "options": [
+          "W) 10<sup>3</sup>",
+          "X) 1.6 × 10<sup>6</sup>",
+          "Y) 10<sup>6</sup>",
+          "Z) 1.6 × 10<sup>6</sup>"
+        ],
+        "answer": "Y) 10<sup>6</sup>",
+        "answer_sanitized": "Y) 10 to the 6"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 1 (bonuses) beginning “How many translational, rotational, and vibrational modes, respectively, are there fo”; its printed answer “TRANSLATIONAL = 3; ROTATIONAL = 2; VIBRATIONAL = 4” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 visibly prints question 2 (bonuses) beginning “Find the following limit: lim𝑥→2 4 [the limit as x approaches 2 of 𝑥 − 16 the fract”; its printed answer “5/2 (ACCEPT: 2 ½ OR 2.5)” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "parts": [
+          "Find the following limit: lim𝑥→2 4 [the limit as x approaches 2 of 𝑥 − 16 the fraction with numerator x to the fifth minus 32 and denominator x to the fourth minus 16]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the following limit: lim<sub>x→2</sub> <span class=\"nsb-fraction\"><span>x<sup>5</sup> − 32</span><span>x<sup>4</sup> − 16</span></span> [the limit as x approaches 2 of the fraction with numerator x to the fifth minus 32 and denominator x to the fourth minus 16]."
+        ],
+        "parts_sanitized": [
+          "Find the following limit: the limit as x approaches 2 of the fraction with numerator x to the fifth minus 32 and denominator x to the fourth minus 16 [the limit as x approaches 2 of the fraction with numerator x to the fifth minus 32 and denominator x to the fourth minus 16]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 3 (bonuses) beginning “Which of the following organisms was NOT present in the Jurassic? W) Triceratops X) I”; its printed answer “W) TRICERATOPS” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visibly prints question 4 (bonuses) beginning “On a sunny clear day, the sky seems to be bluer directly overhead than it does toward”; its printed answer “W) LIGHT FROM THE SUN UNDERGOES MORE SCATTERING WITH DISTANCE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 5 (bonuses) beginning “What property of water allows it to have surface tension, and what is the intermolecu”; its printed answer “COHESION AND HYDROGEN BONDING” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 visibly prints question 6 (bonuses) beginning “In Labrador retrievers, coat color is determined by two sets of genes on different lo”; its printed answer “Bbee (ACCEPT: bBee)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 visibly prints question 7 (bonuses) beginning “Propranolol [proh-PRAN-uh-lol] hydrochloride is a stable solid that belongs to a clas”; its printed answer “X) IT IS OPTICALLY PURE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Root visually checked PDF page 4: every z₁/z₂ digit is subscript, while i³ has a superscript 3. The source answer is −25 i. Earlier verification copied flattened extraction instead of preserving script positions.",
+      "before": {
+        "parts": [
+          "If z 1 = 4 + 3i and z 2 = i3, find the product of z 1 , z 2 , and the conjugate of z1."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If z<sub>1</sub> = 4 + 3i and z<sub>2</sub> = i<sup>3</sup>, find the product of z<sub>1</sub>, z<sub>2</sub>, and the conjugate of z<sub>1</sub>."
+        ],
+        "parts_sanitized": [
+          "If z₁ = 4 + 3i and z₂ = i³, find the product of z₁, z₂, and the conjugate of z₁."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 9 (bonuses) beginning “What is the name of the largest aquifer [AK-wuh-fer] in the United States that underl”; its printed answer “OGALLALA AQUIFER” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 visibly prints question 10 (bonuses) beginning “A transformer has a primary coil with 10 loops and a secondary coil with 100 loops. I”; its printed answer “Y) 1000” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 11 (bonuses) beginning “When a gene is duplicated within an organism to generate a second copy of that gene, ”; its printed answer “W) PARALOGOUS” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 visibly prints question 12 (bonuses) beginning “Hydrogen and chlorine are reacted in a 500 milliliter flask to form hydrogen chloride”; its printed answer “RATE OF CONVERSION = 0.0625; RATE OF REACTION = 0.125” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 13 (bonuses) beginning “Which of the following is nearest escape velocity on the surface of the Earth, in mil”; its printed answer “X) 25,000” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 visibly prints question 14 (bonuses) beginning “What is the largest possible real domain for the function 𝑓(𝑥) = (4𝑥 2 )/√4 − 𝑥 2”; its printed answer “(-2, 2) (ACCEPT: -2 &lt; x &lt; 2)” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "parts": [
+          "What is the largest possible real domain for the function 𝑓(𝑥) = (4𝑥 2 )/√4 − 𝑥 2 [f of x equals the fraction with numerator 4 x squared and denominator the square root of the quantity 4 minus x squared]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the largest possible real domain for the function f(x) = (4x<sup>2</sup>)/√(4 − x<sup>2</sup>) [f of x equals the fraction with numerator 4 x squared and denominator the square root of the quantity 4 minus x squared]?"
+        ],
+        "parts_sanitized": [
+          "What is the largest possible real domain for the function f(x) = (4x squared) over the square root of the quantity 4 minus x squared [f of x equals the fraction with numerator 4 x squared and denominator the square root of the quantity 4 minus x squared]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 15 (bonuses) beginning “Which of the following minerals is NOT a polymorph of Al 2 SiO 5 ? W) Andalusite [an-”; its printed answer “X) ARAGONITE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "before": {
+        "parts": [
+          "Which of the following minerals is NOT a polymorph of Al 2 SiO 5 ?<br>W) Andalusite [an-dl-OO-syt]<br>X) Aragonite [uh-RAG-uh-nyt]<br>Y) Sillimanite [SIL-uh-muh-nyt]<br>Z) Kyanite [KAY-uh-nyt]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following minerals is NOT a polymorph of Al<sub>2</sub>SiO<sub>5</sub>?<br>W) Andalusite [an-dl-OO-syt]<br>X) Aragonite [uh-RAG-uh-nyt]<br>Y) Sillimanite [SIL-uh-muh-nyt]<br>Z) Kyanite [KAY-uh-nyt]"
+        ],
+        "parts_sanitized": [
+          "Which of the following minerals is NOT a polymorph of Al2SiO5? W) Andalusite [an-dl-OO-syt] X) Aragonite [uh-RAG-uh-nyt] Y) Sillimanite [SIL-uh-muh-nyt] Z) Kyanite [KAY-uh-nyt]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 visibly prints question 16 (bonuses) beginning “Solvent-based techniques best capture carbon dioxide under which of the following rel”; its printed answer “Y) LOW TEMPERATURE, HIGH PRESSURE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 17 (bonuses) beginning “A projectile is launched with a speed of 10 meters per second from the top of a 30 me”; its printed answer “3” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 visibly prints question 18 (bonuses) beginning “For a DNA template that reads 3’ [3 prime] TAC AAA ATC 5’ [5 prime], give the sequenc”; its printed answer “5’ AUG UUU UAG 3’” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 19 (bonuses) beginning “How many different structural isomers are there for heptane?”; its printed answer “NINE” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visibly prints question 20 (bonuses) beginning “What are the vertical and horizontal asymptotes, respectively, of f(x) = (x2 - √3)/(x”; its printed answer “VERTICAL: x = -3, x = 5; HORIZONTAL: y = 1” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "parts": [
+          "What are the vertical and horizontal asymptotes, respectively, of f(x) = (x2 - √3)/(x2 – 2x - 15) [f of x equals the fraction with numerator x squared minus the square root of 3 and denominator x squared minus 2x minus 15]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the vertical and horizontal asymptotes, respectively, of f(x) = <span class=\"nsb-fraction\"><span>x<sup>2</sup> − √3</span><span>x<sup>2</sup> − 2x − 15</span></span> [f of x equals the fraction with numerator x squared minus the square root of 3 and denominator x squared minus 2x minus 15]?"
+        ],
+        "parts_sanitized": [
+          "What are the vertical and horizontal asymptotes, respectively, of f(x) = (x squared minus square root of 3) over (x squared minus 2x minus 15) [f of x equals the fraction with numerator x squared minus the square root of 3 and denominator x squared minus 2x minus 15]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 21 (bonuses) beginning “During the early stages of the Human Genome Project, fragments of human DNA were plac”; its printed answer “LIGASE (ACCEPT: DNA LIGASE)” matches the corpus. The printed response and surrounding wording were compared."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 visibly prints question 22 (bonuses) beginning “Which of the following types of terrace is carved into bedrock? W) Fill X) Strath Y) ”; its printed answer “X) STRATH” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 visibly prints question 23 (bonuses) beginning “A 2 kilogram ball experiences a force according to the relation 𝐹 = 6𝑡 2 , where F ”; its printed answer “125” matches the corpus. The printed response and surrounding wording were compared.",
+      "before": {
+        "parts": [
+          "A 2 kilogram ball experiences a force according to the relation 𝐹 = 6𝑡 2 , where F is the force in newtons and t is the time in seconds. Assuming that the ball started from rest, how fast in meters per second is the ball moving after experiencing this force for 5 seconds?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A 2 kilogram ball experiences a force according to the relation F = 6t<sup>2</sup>, where F is the force in newtons and t is the time in seconds. Assuming that the ball started from rest, how fast in meters per second is the ball moving after experiencing this force for 5 seconds?"
+        ],
+        "parts_sanitized": [
+          "A 2 kilogram ball experiences a force according to the relation F = 6t squared, where F is the force in newtons and t is the time in seconds. Assuming that the ball started from rest, how fast in meters per second is the ball moving after experiencing this force for 5 seconds?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF p.13 visibly prints question 25 (bonuses) beginning “At a 4th of July picnic, Uncle Vernon was munching down on his ear of yellow corn whe”; its printed answer “X) TRANSPOSITION OF A JUMPING GENE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF page 12, toss-up 23, prints X) 1.6 × 10⁶ and Z) 1.6 × 10⁶ as duplicate choices, while the keyed answer is Y) 10⁶. The duplicate source choices are retained."
+    }
+  ]
+}

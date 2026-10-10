@@ -1,0 +1,518 @@
+{
+  "packetIndex": 100,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-4.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints four geologic-period choices and marks X) Triassic as the answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints the averages of a, b, x and (b + 1), with answer −2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 lists egg, larva, pupa, adult; source key is X) Larva."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints ester/alcohol, acyl chloride/aldehyde, amide/amine, ketone/alkane; key is X."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 includes the full source sentence and all W–Z choices; the notation uses n₁, n₂, and n₃.",
+      "before": {
+        "question": "A human eye has three layers with refractive indices n 1 , n 2 , and n 3 , where n 1 &lt; n 2 and n 1 = n 3 . Which of the following properties of a light ray is the same in all layers?<br>W) Frequency only<br>X) Speed only<br>Y) Wavelength only<br>Z) Frequency and speed"
+      },
+      "changes": {
+        "question": "A human eye has three layers with refractive indices n<sub>1</sub>, n<sub>2</sub>, and n<sub>3</sub>, where n<sub>1</sub> &lt; n<sub>2</sub> and n<sub>1</sub> = n<sub>3</sub>. Which of the following properties of a light ray is the same in all layers?<br>W) Frequency only<br>X) Speed only<br>Y) Wavelength only<br>Z) Frequency and speed",
+        "question_sanitized": "A human eye has three layers with refractive indices n1, n2, and n3, where n1 < n2 and n1 = n3. Which of the following properties of a light ray is the same in all layers? W) Frequency only X) Speed only Y) Wavelength only Z) Frequency and speed"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 gives the smallest odd integer as 2m − 1 and source answer 8m + 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists superconducting magnet, heater, stove, incandescent bulb; key W."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists four salt/acid pairs; source key Y) potassium sulfide and copper (II) sulfate."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 states 0 to 30 m/s in 3 seconds; answer 45 meters."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 choice Y says E. coli moves away from concentrated acetate; source key Y."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints density 19,300 kg/m³, volume 0.3 m³, g = 10, water density 1000; key W) 54,900 N."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 prints 60° and 45° arcs and area-ratio choices; key X) 9:16."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 contrasts diffusion and effusion; key Y states same total pressure versus high-to-low pressure."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 specifies axes 1, 2, 3 and source ranking is 2, 3, 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 prints colchicine/tubulin context and mitosis choice X as answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists four proposed continental-motion causes; key Y) spinning of the Earth."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 gives 5 required classes, fixed English, 2 choices, 3 choices and six offerings; key X) 90."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 names sulfides, hydrogen and ammonia as inorganic energy sources; key chemolithotrophy."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 specifies XXY and sexual immaturity; answer Klinefelter."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks effect of decreasing temperature on molecular-speed distribution; source key Y, fewer molecules at higher speeds."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered source page 13 places −5 above the baseline after 10 in the expansion coefficient 1.7 × 10⁻⁵; the corpus flattened it to 10-5. The remaining values 10.0, 20°, 30°, and answer 1.7 agree.",
+      "before": {
+        "question": "A metal rod with coefficient of linear expansion 1.7 x 10-5 per degree Celsius and length 10.0 meters is at 20° Celsius. What is the increase in length in millimeters when it is heated to 30° Celsius?"
+      },
+      "changes": {
+        "question": "A metal rod with coefficient of linear expansion 1.7 × 10<sup>-5</sup> per degree Celsius and length 10.0 meters is at 20° Celsius. What is the increase in length in millimeters when it is heated to 30° Celsius?",
+        "question_sanitized": "A metal rod with coefficient of linear expansion 1.7 × 10⁻⁵ per degree Celsius and length 10.0 meters is at 20° Celsius. What is the increase in length in millimeters when it is heated to 30° Celsius?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 asks Bowen’s mineral-association series and prints BOWEN’S REACTION SERIES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 lists four RNA choices; key Y) pre-messenger RNA."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 answer is (2/5) − (1/5)i with decimal equivalent 0.4 − 0.2i."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 enumerates melting point, radius, length, temperature; answer 1 and 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints the water-gas shift equilibrium and asks volume decrease; answer unchanged."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 gives area 3 m², thickness 4 cm, conductivity 0.10 W/(m·K), ΔT 10 K; answer 75 W."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 choice Y describes evaporative cloud formation reflecting sunlight and cooling; key Y."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 choices specify C:H:O ratios 1:2:1 and 2:1:2; key X, organic 1:2:1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows parenthesized factors (2ˣ)(3ʸ)(5ᶻ), the full bracketed reading cue, and answer 12.",
+      "before": {
+        "parts": [
+          "Given (2x)(3y)(5z) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given (2<sup>x</sup>)(3<sup>y</sup>)(5<sup>z</sup>) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
+        ],
+        "parts_sanitized": [
+          "Given (2^x)(3^y)(5^z) = 2700 [2 to the power of x times 3 to the power of y times 5 to the power of z equals 2700], find the product xyz."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks for the two elements with two half-filled subshells; answer chromium and molybdenum."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives 5g, g = 10 m/s², radius 8 m; answer 20 m/s."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists four dune types; W) Barchan is the keyed crescent dune."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists the five steps as ingestion, digestion, absorption, assimilation, egestion."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 states apparent weight is 3× weight, g = 10, loop diameter 20 m; answer 14 m/s."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 describes four coin turns over four blocks and choices 1/8, 1/4, 1/3, 1/2; key X) 1/4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks relation between molar mass and average gas speed; printed answer “inverse square.”"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 gives four labeled transfer types and situations; source key pairs A=1, B=4, C=3, D=2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 asks cell junctions; answer plasmodemata (plasmodesma accepted) and gap/communicating junction."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists four water-property choices; source key W, attraction of molecular charges to other atoms."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 prints sides m, m+n, m+2n with n positive; answer ratio 3:1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks elements whose oxides comprise acid rain; printed answer nitrogen and sulfur."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 lists mushroom, nightshade, Nepenthes, Datura; keyed choice Y) Nepenthes."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 ranks argon, helium, oxygen, chlorine by increasing effusion; answer 4,1,3,2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13 shows all four parenthesized ratio powers and their read-as cues; the keyed W ratio also has surrounding parentheses before its fourth power.",
+      "before": {
+        "parts": [
+          "Two pipes of diameters 𝑑1 and 𝑑2 are connected. What is the ratio of kinetic energy per unit volume (k 1 /k 2 ) of water flowing through these pipes? 𝑑 4<br>W) � 2 � [open parenthesis d2 over d1 close parenthesis to the power of 4] 𝑑1 𝑑 2<br>X) � 2 � [open parenthesis d2 over d1 close parenthesis to the power of 2] 𝑑1 𝑑 4<br>Y) � 1 � [open parenthesis d1 over d2 close parenthesis to the power of 4] 𝑑2 𝑑1 2<br>Z) � � [open parenthesis d1 over d2 close parenthesis to the power of 2] 𝑑2 𝑑 4"
+        ],
+        "options": [
+          "W) � 2 � [open parenthesis d2 over d1 close parenthesis to the power of 4] 𝑑1 𝑑 2",
+          "X) � 2 � [open parenthesis d2 over d1 close parenthesis to the power of 2] 𝑑1 𝑑 4",
+          "Y) � 1 � [open parenthesis d1 over d2 close parenthesis to the power of 4] 𝑑2 𝑑1 2",
+          "Z) � � [open parenthesis d1 over d2 close parenthesis to the power of 2] 𝑑2 𝑑 4"
+        ],
+        "answers": [
+          "W) � 2 � 𝑑1"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Two pipes of diameters d<sub>1</sub> and d<sub>2</sub> are connected. What is the ratio of kinetic energy per unit volume (k<sub>1</sub>/k<sub>2</sub>) of water flowing through these pipes?<br>W) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>4</sup> [open parenthesis d2 over d1 close parenthesis to the power of 4]<br>X) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>2</sup> [open parenthesis d2 over d1 close parenthesis to the power of 2]<br>Y) (<span class=\"nsb-fraction\"><span>d<sub>1</sub></span><span>d<sub>2</sub></span></span>)<sup>4</sup> [open parenthesis d1 over d2 close parenthesis to the power of 4]<br>Z) (<span class=\"nsb-fraction\"><span>d<sub>1</sub></span><span>d<sub>2</sub></span></span>)<sup>2</sup> [open parenthesis d1 over d2 close parenthesis to the power of 2]"
+        ],
+        "parts_sanitized": [
+          "Two pipes of diameters d1 and d2 are connected. What is the ratio of kinetic energy per unit volume (k1/k2) of water flowing through these pipes? W) (d2/d1)^4 [open parenthesis d2 over d1 close parenthesis to the power of 4] X) (d2/d1)^2 [open parenthesis d2 over d1 close parenthesis to the power of 2] Y) (d1/d2)^4 [open parenthesis d1 over d2 close parenthesis to the power of 4] Z) (d1/d2)^2 [open parenthesis d1 over d2 close parenthesis to the power of 2]"
+        ],
+        "options": [
+          "W) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>4</sup> [open parenthesis d2 over d1 close parenthesis to the power of 4]",
+          "X) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>2</sup> [open parenthesis d2 over d1 close parenthesis to the power of 2]",
+          "Y) (<span class=\"nsb-fraction\"><span>d<sub>1</sub></span><span>d<sub>2</sub></span></span>)<sup>4</sup> [open parenthesis d1 over d2 close parenthesis to the power of 4]",
+          "Z) (<span class=\"nsb-fraction\"><span>d<sub>1</sub></span><span>d<sub>2</sub></span></span>)<sup>2</sup> [open parenthesis d1 over d2 close parenthesis to the power of 2]"
+        ],
+        "answers": [
+          "W) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>4</sup>"
+        ],
+        "answers_sanitized": [
+          "W) (d2/d1)^4"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

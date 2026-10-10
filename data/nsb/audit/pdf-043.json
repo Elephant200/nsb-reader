@@ -1,0 +1,595 @@
+{
+  "packetIndex": 43,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-12C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows NH₄Cl and NaC₂H₃O₂ with contiguous subscripts in the options and key; the corpus inserted spaces between element symbols and subscripts.",
+      "before": {
+        "question": "Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:<br>W) NH<sub>4</sub> Cl<br>X) NaC<sub>2</sub> H<sub>3</sub> O<sub>2</sub><br>Y) KCl<br>Z) LiBr",
+        "answer": "W) NH<sub>4</sub> Cl",
+        "options": [
+          "W) NH<sub>4</sub> Cl",
+          "X) NaC<sub>2</sub> H<sub>3</sub> O<sub>2</sub>",
+          "Y) KCl",
+          "Z) LiBr"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:<br>W) NH<sub>4</sub>Cl<br>X) NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub><br>Y) KCl<br>Z) LiBr",
+        "question_sanitized": "Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:<br>W) NH4Cl<br>X) NaC2H3O2<br>Y) KCl<br>Z) LiBr",
+        "answer": "W) NH<sub>4</sub>Cl",
+        "answer_sanitized": "W) NH4Cl",
+        "options": [
+          "W) NH<sub>4</sub>Cl",
+          "X) NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
+          "Y) KCl",
+          "Z) LiBr"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows the question without a trailing 4 and accepts 3⁴ as an alternate answer.",
+      "before": {
+        "question": "If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release? 4",
+        "answer": "81 (ACCEPT: 3 )"
+      },
+      "changes": {
+        "question": "If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release?",
+        "answer": "81 (ACCEPT: 3<sup>4</sup>)",
+        "answer_sanitized": "81 (ACCEPT: 3^4)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows sp³d; the corpus split the 3 away from the hybridization notation.",
+      "before": {
+        "question": "The hybridization of one ‘s’ (read as: one &lt;pause&gt; s) orbital and 3 ‘p’ (read as: three &lt;pause&gt; p) orbitals and one ‘d’ (read as: one &lt;pause&gt; d) orbital creates how 3 many sp d hybrid orbitals?"
+      },
+      "changes": {
+        "question": "The hybridization of one ‘s’ (read as: one &lt;pause&gt; s) orbital and 3 ‘p’ (read as: three &lt;pause&gt; p) orbitals and one ‘d’ (read as: one &lt;pause&gt; d) orbital creates how many sp<sup>3</sup>d hybrid orbitals?",
+        "question_sanitized": "The hybridization of one ‘s’ (read as: one <pause> s) orbital and 3 ‘p’ (read as: three <pause> p) orbitals and one ‘d’ (read as: one <pause> d) orbital creates how many sp^3d hybrid orbitals?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows CH₄, H₂S, NH₃, and CH₃OH; the answer is NH₃ and CH₃OH. The corpus introduced spaces around the subscripts.",
+      "before": {
+        "parts": [
+          "Name all of the following 4 compounds that exhibit hydrogen bonding: CH<sub>4</sub> ; H<sub>2</sub> S; NH<sub>3</sub> ; CH<sub>3</sub> OH"
+        ],
+        "answers": [
+          "NH<sub>3</sub> ; CH<sub>3</sub> OH"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Name all of the following 4 compounds that exhibit hydrogen bonding: CH<sub>4</sub>; H<sub>2</sub>S; NH<sub>3</sub>; CH<sub>3</sub>OH"
+        ],
+        "parts_sanitized": [
+          "Name all of the following 4 compounds that exhibit hydrogen bonding: CH4; H2S; NH3; CH3OH"
+        ],
+        "answers": [
+          "NH<sub>3</sub>; CH<sub>3</sub>OH"
+        ],
+        "answers_sanitized": [
+          "NH3; CH3OH"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows MgCO₃ with the 3 attached to oxygen; the original corpus notes already retain this notation."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows x⁴ − 9x² + 8 = 0 with solutions ±2√2 and ±1; the corpus lost the powers and radical layout.",
+      "before": {
+        "parts": [
+          "Solve the following equation for x, expressing your answer in simplest 4 2 radical form over the real numbers: x – 9x + 8 = 0"
+        ],
+        "answers": [
+          "2 2 AND ±1 (ACCEPT ALL: 2 2 , 2 2 , +1, -1) ± + −"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the following equation for x, expressing your answer in simplest radical form over the real numbers: x<sup>4</sup> − 9x<sup>2</sup> + 8 = 0"
+        ],
+        "parts_sanitized": [
+          "Solve the following equation for x, expressing your answer in simplest radical form over the real numbers: x^4 - 9x^2 + 8 = 0"
+        ],
+        "answers": [
+          "±2√2 AND ±1 (ACCEPT ALL: +2√2, −2√2, +1, −1)"
+        ],
+        "answers_sanitized": [
+          "plus or minus 2 times the square root of 2 AND plus or minus 1 (ACCEPT ALL: +2sqrt(2), -2sqrt(2), +1, -1)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 10; wording matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 gives 0.08, with no trailing −1 in the answer, and shows mol⁻¹ in the solution units.",
+      "before": {
+        "answers": [
+          "0.08 (DO NOT ACCEPT 8.0%) -1"
+        ],
+        "notes": [
+          "(Solution: 100g/18 g mol = 5.56 moles; 0.5 mol/(5.56 + 0.5) = 0.0825)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "0.08 (DO NOT ACCEPT 8.0%)"
+        ],
+        "notes": [
+          "(Solution: 100g/18 g mol<sup>-1</sup> = 5.56 moles; 0.5 mol/(5.56 + 0.5) = 0.0825)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12; checked the relevant formula or powers and compared the full item."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Rendered PDF page 13; checked the relevant formula or powers and compared the full item."
+    }
+  ],
+  "packetIssues": []
+}

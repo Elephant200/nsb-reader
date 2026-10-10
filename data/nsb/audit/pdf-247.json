@@ -1,0 +1,421 @@
+{
+  "packetIndex": 247,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints x³y⁴ in the derivative prompt and 4x³y³, rejecting x³4y³; the extracted powers are baseline.",
+      "before": {
+        "question": "What is the partial derivative with respect to y of x 3 y 4 ?",
+        "answer": "4x 3 y 3 (DO NOT ACCEPT: x 3 4y 3 )"
+      },
+      "changes": {
+        "question": "What is the partial derivative with respect to y of x<sup>3</sup>y<sup>4</sup>?",
+        "question_sanitized": "What is the partial derivative with respect to y of x^3y^4?",
+        "answer": "4x<sup>3</sup>y<sup>3</sup> (DO NOT ACCEPT: x<sup>3</sup>4y<sup>3</sup>)",
+        "answer_sanitized": "4x^3y^3 (DO NOT ACCEPT: x^3 4y^3)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks the conservation quantity behind Kepler’s second law and keys ANGULAR MOMENTUM."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 asks for the ecological term and keys POPULATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 asks for conversion of one stereoisomer into an equal mixture and keys RACEMIZATION."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks which planet is closest to 2 AU and keys MARS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 asks what astronomical objects host accretion producing non-stellar radiation and keys BLACK HOLE, accepting SUPERMASSIVE BLACK HOLE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives 4 − 9i and its conjugate and keys 97."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 lists linear, exponential, linear-envelope, and exponential-envelope graph descriptions; key Z."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists polymerase, restriction enzymes, nucleotides, and primers and keys X) RESTRICTION ENZYMES."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 keys SOLVATION SHELL and accepts HYDRATION SPHERE."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 asks for a tide with one high and low per 24 hours and keys DIURNAL."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks how deuterium and tritium differ and keys NEUTRONS."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 gives a 20-by-30 tiled wall and keys 551 remaining tiles."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 asks what theory unified special relativity with gravity and keys GENERAL RELATIVITY."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 lists four gene classes and keys Y) HOMEOTIC GENES."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists alpha, beta, gamma, and neutrino radiation and keys X) BETA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists Bournite, Graphite, Sphalerite, and Galena and keys Z) GALENA."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 asks for the most-common plant lipid class and keys TRIGLYCERIDES, accepting TRIACYLGLYCEROLS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives three independent sandwich choices among 12 and keys probability 11/48."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 prints powers 10¹¹, 10²⁰, 10³⁴, and 10⁴², keys Z) 10⁴²; extracted choice markup loses/reshuffles exponents.",
+      "before": {
+        "parts": [
+          "Which of the following is closest to the ratio between the magnitude of the electric and gravitational forces between two electrons held at a fixed distance?<br>W) 10 11<br>X) <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span> <span class=\"nsb-fraction\">&lt;span&gt;20</span>&lt;span&gt;34</span></span><br>Y) <br>Z) 10 42"
+        ],
+        "options": [
+          "W) 10 11",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span> <span class=\"nsb-fraction\">&lt;span&gt;20</span>&lt;span&gt;34</span></span>",
+          "Y) ",
+          "Z) 10 42"
+        ],
+        "answers": [
+          "Z) 10 42"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is closest to the ratio between the magnitude of the electric and gravitational forces between two electrons held at a fixed distance?<br>W) 10<sup>11</sup><br>X) 10<sup>20</sup><br>Y) 10<sup>34</sup><br>Z) 10<sup>42</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following is closest to the ratio between the magnitude of the electric and gravitational forces between two electrons held at a fixed distance?\\nW) 10^11\\nX) 10^20\\nY) 10^34\\nZ) 10^42"
+        ],
+        "options": [
+          "W) 10<sup>11</sup>",
+          "X) 10<sup>20</sup>",
+          "Y) 10<sup>34</sup>",
+          "Z) 10<sup>42</sup>"
+        ],
+        "answers": [
+          "Z) 10<sup>42</sup>"
+        ],
+        "answers_sanitized": [
+          "Z) 10^42"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists CAU, UAC, AUC, and CUA for the anticodon question; key W) CAU."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists the four first-order reaction statements and keys X about constant percentage change."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 asks for the Stefan-Boltzmann temperature power and keys 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 lists four Standard Model phenomena and keys pion decay to a muon and anti-muon neutrino; source key’s line-break hyphen joins the compound.",
+      "before": {
+        "answers": [
+          "W) PION DECAY INTO A MUON AND AN ANTI- MUON NEUTRINO"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "W) PION DECAY INTO A MUON AND ANTI-MUON NEUTRINO"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives fuel efficiencies 20, 25, 40 and equal distances; keys 26 combined miles per gallon."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 asks for the photoelectric-effect minimum energy and keys WORK FUNCTION."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 lists four potential causes of a heart murmur and keys blood traveling the wrong direction through a valve."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists four Leclanche/alkaline battery differences and keys X) THEY HAVE DIFFERENT ELECTROLYTES."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists Iceland, Mount Fuji, Mount Saint Helens, and the Andean volcanic belt and keys W) Iceland."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 asks which fission-reactor component uses boron and keys X) CONTROL RODS."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 gives rhombus diagonals 14 and 18 and keys perimeter 46."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 lists translational momentum, kinetic energy, rotational energy, and torque; key Z."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 lists potato, apple, corn, and mustard and keys Y) CORN."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 orders phosphorus, sulfur, chlorine by first ionization energy as 1, 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 identifies extratropical-cyclone locations and keys 2, 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 orders Alnico, Ceramic, Neodymium by increasing strength as 2, 1, 3."
+    }
+  ],
+  "packetIssues": []
+}

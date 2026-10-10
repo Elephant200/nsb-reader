@@ -1,0 +1,23 @@
+{
+  "packetIndex": 32,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-1C.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Root compared source page 4: comet's has an ordinary apostrophe. The extraction double-escaped it; the complete prompt and answer THE SOLAR WIND otherwise match.",
+      "before": {
+        "question": "What is the most common term for the celestial phenomenon that causes a comet&amp;apos;s tail in our solar system to point away from the Sun?"
+      },
+      "changes": {
+        "question": "What is the most common term for the celestial phenomenon that causes a comet's tail in our solar system to point away from the Sun?"
+      }
+    }
+  ],
+  "packetIssues": []
+}

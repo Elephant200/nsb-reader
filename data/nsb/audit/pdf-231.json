@@ -1,0 +1,508 @@
+{
+  "packetIndex": 231,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd16.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3; restored the visibly printed mathematical or scientific notation.",
+      "before": {
+        "question": "What is the slope of the positively-sloped asymptote of the hyperbola with equation 9x 2 – 4y 2 – 72x – 24y + 72 = 0?"
+      },
+      "changes": {
+        "question": "What is the slope of the positively-sloped asymptote of the hyperbola with equation 9x<sup>2</sup> − 4y<sup>2</sup> − 72x − 24y + 72 = 0?",
+        "question_sanitized": "What is the slope of the positively-sloped asymptote of the hyperbola with equation 9x^2 - 4y^2 - 72x - 24y + 72 = 0?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4; restored the visibly printed mathematical or scientific notation.",
+      "before": {
+        "answer": "MAGNESIUM (ACCEPT: MAGNESIUM 2+, Mg 2+ )"
+      },
+      "changes": {
+        "answer": "MAGNESIUM (ACCEPT: MAGNESIUM 2+, Mg<sup>2+</sup>)",
+        "answer_sanitized": "MAGNESIUM (ACCEPT: MAGNESIUM 2+, Mg²⁺)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4; restored the visibly printed mathematical or scientific notation.",
+      "before": {
+        "question": "What is the systematic IUPAC name of the primary alcohol that has formula C H O? 4 10<br>W) Butan-1-ol<br>X) n-Butanol<br>Y) Butyric alcohol<br>Z) Butyl alcohol"
+      },
+      "changes": {
+        "question": "What is the systematic IUPAC name of the primary alcohol that has formula C<sub>4</sub>H<sub>10</sub>O?<br>W) Butan-1-ol<br>X) n-Butanol<br>Y) Butyric alcohol<br>Z) Butyl alcohol",
+        "question_sanitized": "What is the systematic IUPAC name of the primary alcohol that has formula C4H10O? W) Butan-1-ol X) n-Butanol Y) Butyric alcohol Z) Butyl alcohol"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5; restored the visibly printed mathematical or scientific notation.",
+      "before": {
+        "question": "Consider a circuit that is experiencing a magnetic flux phi that can be described by the equation phi = 3t 2 , where t represents time. In SI base units, what is the magnitude of the EMF induced in the circuit by the magnetic field at t = 3?"
+      },
+      "changes": {
+        "question": "Consider a circuit that is experiencing a magnetic flux φ that can be described by the equation φ = 3t<sup>2</sup>, where t represents time. In SI base units, what is the magnitude of the EMF induced in the circuit by the magnetic field at t = 3?",
+        "question_sanitized": "Consider a circuit that is experiencing a magnetic flux phi that can be described by the equation phi = 3t^2, where t represents time. In SI base units, what is the magnitude of the EMF induced in the circuit by the magnetic field at t = 3?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8; restored the visibly printed mathematical or scientific notation.",
+      "before": {
+        "question": "One of Maxwell&amp;apos;s equations states that the divergence of any magnetic field is zero. Which of the following statements is a direct corollary to this expression?<br>W) When traveling at relativistic speeds, some part of a magnetic field will appear as an electric field<br>X) Any moving electric charge induces a magnetic field<br>Y) Any changing magnetic field induces an electric field<br>Z) No magnetic field lines have endpoints"
+      },
+      "changes": {
+        "question": "One of Maxwell's equations states that the divergence of any magnetic field is zero. Which of the following statements is a direct corollary to this expression?<br>W) When traveling at relativistic speeds, some part of a magnetic field will appear as an electric field<br>X) Any moving electric charge induces a magnetic field<br>Y) Any changing magnetic field induces an electric field<br>Z) No magnetic field lines have endpoints",
+        "question_sanitized": "One of Maxwell's equations states that the divergence of any magnetic field is zero. Which of the following statements is a direct corollary to this expression? W) When traveling at relativistic speeds, some part of a magnetic field will appear as an electric field X) Any moving electric charge induces a magnetic field Y) Any changing magnetic field induces an electric field Z) No magnetic field lines have endpoints"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 9."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 1."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 3; restored the visibly printed mathematical or scientific notation.",
+      "before": {
+        "parts": [
+          "What is the approximation for e 2 that results from using the first four nonzero terms of the Taylor series for e to the x centered at 0?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the approximation for e<sup>2</sup> that results from using the first four nonzero terms of the Taylor series for e<sup>x</sup> centered at 0?"
+        ],
+        "parts_sanitized": [
+          "What is the approximation for e^2 that results from using the first four nonzero terms of the Taylor series for e^x centered at 0?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 5."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 6."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 7; restored the visibly printed mathematical or scientific notation.",
+      "before": {
+        "parts": [
+          "Given that cosine of one equals 0.5403, and expressing your answer to two decimal places, what is the integral from 0 to 1 of x 2 sine of open parenthesis x 3 close parenthesis dx?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that cosine of one equals 0.5403, and expressing your answer to two decimal places, what is the integral from 0 to 1 of x<sup>2</sup> sin(x<sup>3</sup>) dx?"
+        ],
+        "parts_sanitized": [
+          "Given that cosine of one equals 0.5403, and expressing your answer to two decimal places, what is the integral from 0 to 1 of x^2 sin(x^3) dx?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 8."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 9."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 10."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 11."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 12."
+    }
+  ],
+  "packetIssues": []
+}

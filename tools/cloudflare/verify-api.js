@@ -8,7 +8,7 @@ async function get (path, params = {}) {
 }
 const sets = await get('/api/set-list', { expand: true, includeCounts: true });
 assert.equal(sets.setList.length, 17);
-assert.equal(sets.setList.reduce((n, set) => n + set.tossupsCount, 0), 5984);
+assert.equal(sets.setList.reduce((n, set) => n + set.tossupsCount, 0), 6012);
 const set = sets.setList.find(set => set.setName === '2009 NSB Sample Set 1');
 const packets = await get('/api/packet-list', { set_id: set._id, expand: true });
 assert.ok(packets.packetList.length > 0);

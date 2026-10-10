@@ -1,0 +1,564 @@
+{
+  "packetIndex": 175,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_11A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows toss-up 1. Printed prompt, choices where present, and answer: 1) Energy – Short Answer     E10 fuel can produce what low atmosphere pollutant that serves as a UV protectant in the upper atmosphere? ANSWER: OZONE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints the stem with source spelling “intereference” and the answer as “HUYGEN’S PRINCIPLE.” The answer’s apostrophe was double-escaped in the imported text; the source spelling of the stem is retained.",
+      "before": {
+        "answer": "HUYGEN&amp;apos;S PRINCIPLE"
+      },
+      "changes": {
+        "answer": "HUYGEN&apos;S PRINCIPLE",
+        "answer_sanitized": "HUYGEN’S PRINCIPLE"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 3. Printed prompt, choices where present, and answer: 3) Earth and Space – Multiple Choice The Black Hills of South Dakota is a large dome that has been exposed due to upwarping followed by erosion. Which of the following rocks would we expect to find in the innermost core of the Black Hills? W) Shale X) Gypsum Y) Pegmatite Z) Limestone ANSWER: Y) PEGMATITE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows toss-up 4. Printed prompt, choices where present, and answer: 4) Biology – Multiple Choice     Which of the following correctly explains why fish cannot breathe outside of water? W) Air contains less oxygen than water X) Their gas exchange systems are tuned to dissolved oxygen Y) In air, their gills collapse Z) Air provides more structural support to the fish ANSWER: Y) IN AIR, THEIR GILLS COLLAPSE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 5. Printed prompt, choices where present, and answer: 5) Chemistry – Multiple Choice Which of the following is the most plausible first step in the solvolysis [sawl-VAWL- eh-sis] of tert-butyl [turt-BYU-til] iodide in water? W) Concerted substitution X) Attack of water to form a pentavalent [penta-VAY-lent] intermediate Y) Decomposition to form positively-charged intermediate Z) Decomposition to form negatively-charged intermediate ANSWER: Y) DECOMPOSITION TO FORM POSITIVELY-CHARGED INTERMEDIATE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows toss-up 6. Printed prompt, choices where present, and answer: 6) Math – Short Answer    What is the area of a kite with diagonals of lengths 5 and 8? ANSWER: 20"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 7. Printed prompt, choices where present, and answer: 7) Biology – Multiple Choice     Which of the following is an example of a Chrysophytan [Cris-AW-fih-tan]? W) Amoeba [ah-MEE-bah] X) Trypanoma [trih-pan-OH-ma] Y) Plasmodium [plazz-MOH-dee-um] Z) Diatom [DYE-ah-tom] ANSWER: Z) DIATOM"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows toss-up 8. Printed prompt, choices where present, and answer: 8) Math – Multiple Choice The graph of a continuous function f contains the points (4, –5) and (7, –1). The intermediate value theorem guarantees an x-value such that f of x equals which of the following? W) –6 X) –2 Y) 2 Z) 6 ANSWER: X) –2"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows toss-up 9. Printed prompt, choices where present, and answer: 9) Chemistry – Multiple Choice     Which of the following compounds has the lowest boiling point? W) Water X) Hydrogen sulfide Y) Hydrogen selenide [SELL-en-ide] Z) Hydrogen telluride [TELL-ur-ide] ANSWER: X) HYDROGEN SULFIDE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints satellite-signal choices W) 2 | X) 3 | Y) 4 | Z) 6; answer Y) 4. The imported X choice contained malformed fraction markup and Y was empty.",
+      "before": {
+        "question": "The Global Positioning System consists of several operational satellites in spatially separated orbits around the earth. How many different satellite signals are required for accurate position, velocity, and time data?<br>W) 2<br>X) <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;4</span></span><br>Y) <br>Z) 6",
+        "options": [
+          "W) 2",
+          "X) <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;4</span></span>",
+          "Y) ",
+          "Z) 6"
+        ]
+      },
+      "changes": {
+        "question": "The Global Positioning System consists of several operational satellites in spatially separated orbits around the earth. How many different satellite signals are required for accurate position, velocity, and time data?<br>W) 2<br>X) 3<br>Y) 4<br>Z) 6",
+        "options": [
+          "W) 2",
+          "X) 3",
+          "Y) 4",
+          "Z) 6"
+        ],
+        "question_sanitized": "The Global Positioning System consists of several operational satellites in spatially separated orbits around the earth. How many different satellite signals are required for accurate position, velocity, and time data? W) 2 X) 3 Y) 4 Z) 6"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 11. Printed prompt, choices where present, and answer: 11) Energy – Short Answer     Renewable diesel is produced via multiple methods. Biodiesel, however, is only produced via what chemical process? ANSWER: TRANSESTERIFICATION (ACCEPT: METHANOLYSIS)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows toss-up 12. Printed prompt, choices where present, and answer: 12) Math – Short Answer What is the dot product of the vectors 4i – 2j + k and 3i – k? ANSWER: 11"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 13. Printed prompt, choices where present, and answer: 13) Physics – Short Answer What dimensionless physical constant is equal to the square of the ratio of the charge of the electron to the Planck charge? ANSWER: FINE STRUCTURE CONSTANT"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows toss-up 14. Printed prompt, choices where present, and answer: 14) Energy – Short Answer DOE scientists at Brookhaven National Lab are using the Relativistic Heavy Ion Collider to study color confinement within protons. What group of elementary particles are they studying? ANSWER: QUARKS (ACCEPT: GLUONS AND QUARKS)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 15. Printed prompt, choices where present, and answer: 15) Chemistry – Multiple Choice       Which of the following titrations would have an equivalence point with a pH closest to 9? W) Titration of sodium hydroxide with hydrochloric acid X) Titration of hydrochloric acid with ammonia Y) Titration of acetic acid with sodium hydroxide Z) Titration of barium hydroxide with sulfuric acid ANSWER: Y) TITRATION OF ACETIC [ah-SEE-tik] ACID WITH SODIUM HYDROXIDE"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows toss-up 16. Printed prompt, choices where present, and answer: 16) Biology – Short Answer       What structural molecule do Gram positive bacteria possess in large quantities? ANSWER: PEPTIDOGLYCAN"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 17. Printed prompt, choices where present, and answer: 17) Earth and Space – Multiple Choice    What arises in space, thought to be from particle pairs that blink into existence and promptly annihilate? W) Gravitational potential energy X) Vacuum energy Y) Cherenkov radiation Z) Bremsstrahlung radiation ANSWER: X) VACUUM ENERGY"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows toss-up 18. Printed prompt, choices where present, and answer: 18) Physics – Short Answer An ideal ammeter is connected to a 1.5-volt battery and it reads 2 amps. How much power, in watts, is dissipated by the internal resistence of the battery? ANSWER: 3"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints “Titan’s atmosphere” in choice W; answer X) TITAN IS SIGNIFICANTLY COLDER THAN GANYMEDE, PREVENTING ITS ATMOSPHERE FROM ESCAPING. The possessive was double-escaped in the import.",
+      "before": {
+        "question": "Ganymede is more massive than Titan, but only Titan has an atmosphere. Which of the following correctly explains this?<br>W) Titan&amp;apos;s atmosphere is mostly made of heavy gases, like sulfur dioxide, which cannot escape its gravitational pull<br>X) Titan is significantly colder than Ganymede, preventing its atmosphere from escaping<br>Y) Titan actively replenishes its atmosphere, while Ganymede does not<br>Z) Titan absorbs atmospheric gases from Saturn, while Ganymede does not absorb gases from Jupiter",
+        "options": [
+          "W) Titan&amp;apos;s atmosphere is mostly made of heavy gases, like sulfur dioxide, which cannot escape its gravitational pull",
+          "X) Titan is significantly colder than Ganymede, preventing its atmosphere from escaping",
+          "Y) Titan actively replenishes its atmosphere, while Ganymede does not",
+          "Z) Titan absorbs atmospheric gases from Saturn, while Ganymede does not absorb gases from Jupiter"
+        ]
+      },
+      "changes": {
+        "question": "Ganymede is more massive than Titan, but only Titan has an atmosphere. Which of the following correctly explains this?<br>W) Titan&apos;s atmosphere is mostly made of heavy gases, like sulfur dioxide, which cannot escape its gravitational pull<br>X) Titan is significantly colder than Ganymede, preventing its atmosphere from escaping<br>Y) Titan actively replenishes its atmosphere, while Ganymede does not<br>Z) Titan absorbs atmospheric gases from Saturn, while Ganymede does not absorb gases from Jupiter",
+        "options": [
+          "W) Titan&apos;s atmosphere is mostly made of heavy gases, like sulfur dioxide, which cannot escape its gravitational pull",
+          "X) Titan is significantly colder than Ganymede, preventing its atmosphere from escaping",
+          "Y) Titan actively replenishes its atmosphere, while Ganymede does not",
+          "Z) Titan absorbs atmospheric gases from Saturn, while Ganymede does not absorb gases from Jupiter"
+        ],
+        "question_sanitized": "Ganymede is more massive than Titan, but only Titan has an atmosphere. Which of the following correctly explains this? W) Titan’s atmosphere is mostly made of heavy gases, like sulfur dioxide, which cannot escape its gravitational pull X) Titan is significantly colder than Ganymede, preventing its atmosphere from escaping Y) Titan actively replenishes its atmosphere, while Ganymede does not Z) Titan absorbs atmospheric gases from Saturn, while Ganymede does not absorb gases from Jupiter"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows toss-up 20. Printed prompt, choices where present, and answer: 20) Physics – Multiple Choice     Which of the following circuits with two components will behave as an electrical resonator? W) resistor and capacitor X) resistor and inductor Y) capacitor and inductor Z) capacitor and capacitor ANSWER: Y) CAPACITOR AND INDUCTOR"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 21. Printed prompt, choices where present, and answer: 21) Chemistry – Short Answer Identify all of the following three compounds that are a stronger base than sodium hydride: 1) T-butyl [t-byu-til] lithium; 2) Ammonia; 3) Sodium tert-butoxide [tert-byu-tox-eyed]. ANSWER: JUST 1"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows toss-up 22. Printed prompt, choices where present, and answer: 22) Biology – Short Answer       In the spinal cord, cell bodies of sensory neurons are grouped together to form what structures? ANSWER: DORSAL ROOT GANGLIA (ACCEPT: DORSAL ROOTS)"
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows toss-up 23. Printed prompt, choices where present, and answer: 23) Math – Short Answer    If the difference between two prime numbers is 27, what is their sum? ANSWER: 31"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows bonus 1. Printed prompt, choices where present, and answer: 1) Energy – Short Answer The Daya [DIE-ah] Bay Collaboration is currently on the hunt for a hypothetical type of neutrino [new-TREE-no] that does not interact with other particles except through gravity. What is the term for this neutrino? ANSWER: STERILE NEUTRINO (ACCEPT: INERT NEUTRINO) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints the answer “HUND’S RULE”; the imported answer has a double-escaped apostrophe.",
+      "before": {
+        "answers": [
+          "HUND&amp;apos;S RULE"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "HUND&apos;S RULE"
+        ],
+        "answers_sanitized": [
+          "HUND’S RULE"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows bonus 3. Printed prompt, choices where present, and answer: 3) Earth and Space – Short Answer     How many times greater, in terms of energy, is a magnitude 6 earthquake than a magnitude 4 earthquake? ANSWER: 961 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 prints the answer choice exactly as “[you-GLEE-nids].” without a space before the period; answer JUST 2 (ACCEPT: AMOEBA).",
+      "before": {
+        "parts": [
+          "Identify all of the following three items that are considered rhizopods: 1) Kelp; 2) Amoeba; 3) Euglenid [you-GLEE-nids] ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three items that are considered rhizopods: 1) Kelp; 2) Amoeba; 3) Euglenid [you-GLEE-nids]."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three items that are considered rhizopods: 1) Kelp; 2) Amoeba; 3) Euglenid [you-GLEE-nids]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 5. Printed prompt, choices where present, and answer: 5) Chemistry – Short Answer Rank the following three acids in terms of increasing pKa: 1) Chlorous [KLOR-us] acid; 2) Hydroiodic [HIGH-droh-eye-AW-dik] acid; 3) Acetic [ah-SEE-tik] acid. ANSWER: 2, 1, 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows bonus 6. Printed prompt, choices where present, and answer: 6) Math – Short Answer    If a sub one = 3 and, for n greater than one, a sub n = 2 a sub n–1 minus 1, what is the value of a sub five? ANSWER: 33 2017 Regional High School NSB®                                                                              PAGE 3"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 7. Printed prompt, choices where present, and answer: 7) Biology – Short Answer Given that hemoglobin is 144 amino acids long, identify all of the following three numbers of nucleotides that can be in the primary mRNA transcript of hemoglobin at different stages of processing: 1) 144; 2) 432; 3) 1356. ANSWER: JUST 3 (ACCEPT: 1356) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows bonus 8. Printed prompt, choices where present, and answer: 8) Math – Short Answer    How many positive integral factors does 936 have? ANSWER: 24 2017 Regional High School NSB®                                                                            PAGE 4"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 9. Printed prompt, choices where present, and answer: 9) Chemistry – Short Answer Identify all of the following three statements that are TRUE of the Nernst equation: 1) The equation does not use the Faraday constant; 2) The standard redox [REE-dox] potential for a concentration cell is negative; 3) The Nernst equation accounts for overpotential. ANSWER: NONE OF THEM ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows bonus 10. Printed prompt, choices where present, and answer: 10) Earth and Space – Multiple Choice Kepler’s second law states that in any given period of time, a planet will have what orbital property stay constant? W) Distance traveled X) Angular distance traveled Y) Area swept Z) Number of rotations ANSWER: Y) AREA SWEPT 2017 Regional High School NSB®                                                                                PAGE 5"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints the acceptance formula as CH₄; answer METHANE (ACCEPT: CH₄). The imported answer has an extra space before the closing parenthesis.",
+      "before": {
+        "answers": [
+          "METHANE (ACCEPT: CH<sub>4</sub> )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "METHANE (ACCEPT: CH<sub>4</sub>)"
+        ],
+        "answers_sanitized": [
+          "METHANE (ACCEPT: CH_4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows bonus 12. Printed prompt, choices where present, and answer: 12) Math – Short Answer An isosceles trapezoid with integer side lengths has bases of length 12 and 26. What is the minimum length of its shortest side? ANSWER: 8 2017 Regional High School NSB®                                                                             PAGE 6"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 13. Printed prompt, choices where present, and answer: 13) Physics – Short Answer A cyclist is decelerating at 2.5 meters per second squared. If at point A, she is traveling at 8 meters per second and at point B, she is traveling at 5 meters per second, how long, in seconds, did it take her to travel from point A to B? ANSWER: 1.2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows bonus 14. Printed prompt, choices where present, and answer: 14) Energy – Short Answer Many redox [REE-dox] flow batteries use acidic electrolytes. Electrodes in these devices must necessarily be immune to acid attack as well as electronically conductive. What element is used for almost all flow battery electrodes? ANSWER: CARBON (ACCEPT: CARBON FIBER) 2017 Regional High School NSB®                                                                                PAGE 7"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 15. Printed prompt, choices where present, and answer: 15) Chemistry – Short Answer Identify all of the following three statements that are TRUE of the permanganate [pur-MAYNG-en-ate] ion: 1) It is reduced to Mn2+ in neutral solution; 2) It contains manganese [MAYN-gan-eez]in the +7 oxidation state; 3) It can be used as an indicator and titrant [TIE-trant] in a potentiometric [poh-ten-shee-oh-MEH-tric] titration [tie-TRAY-shun]. ANSWER: 2 AND 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows bonus 16. Printed prompt, choices where present, and answer: 16) Biology – Short Answer Identify all of the following three types of ion channels that are open during the falling phase of the action potential: 1) Voltage gated sodium; 2) Voltage gated potassium; 3) Ligand[LIH-gund] gated sodium. ANSWER: JUST 2 2017 Regional High School NSB®                                                                                PAGE 8"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 17. Printed prompt, choices where present, and answer: 17) Earth and Space – Short Answer     What type of stellar object lies fully within its own Schwarschild radius? ANSWER: BLACK HOLE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows bonus 18. Printed prompt, choices where present, and answer: 18) Physics – Short Answer    How much more power does a 40-decibel sound deliver than a 20-decibel sound? ANSWER: 100 2017 Regional High School NSB®                                                                                PAGE 9"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 19. Printed prompt, choices where present, and answer: 19) Earth and Space – Multiple Choice The eruption of El Chicon had a greater effect on global temperatures than the eruption of Mount Saint Helens despite being a smaller eruption. Which of the following best explains why? W) El Chicon emitted much more sulfur dioxide X) El Chicon deposited more heavy ash Y) El Chicon was located more centrally in the hemisphere Z) El Chicon was a more prolonged eruption ANSWER: W) EL CHICON EMITTED MUCH MORE SULFUR DIOXIDE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows bonus 20. Printed prompt, choices where present, and answer: 20) Physics – Short Answer The temperature is 27 degrees Celsius outdoors and 17 degrees Celsius indoors. To the nearest whole number, what is the maximal coefficient of performance that could be attained by an ideal air conditioner? ANSWER: 30 2017 Regional High School NSB®                                                                              PAGE 10"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 prints the read-as cues immediately followed by semicolons and the final period, without intervening spaces; answer 1 AND 3.",
+      "before": {
+        "parts": [
+          "Identify all of the following three compounds that are most likely to undergo electrophilic [ee-lektroh-FILL-ik] aromatic substitution at the meta position: 1) Nitrobenzene; 2) Toluene [TAWL-you-een] ; 3) Ethyl benzoate [BEN-zoh-ate] ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify all of the following three compounds that are most likely to undergo electrophilic [ee-lektroh-FILL-ik] aromatic substitution at the meta position: 1) Nitrobenzene; 2) Toluene [TAWL-you-een]; 3) Ethyl benzoate [BEN-zoh-ate]."
+        ],
+        "parts_sanitized": [
+          "Identify all of the following three compounds that are most likely to undergo electrophilic [ee-lektroh-FILL-ik] aromatic substitution at the meta position: 1) Nitrobenzene; 2) Toluene [TAWL-you-een]; 3) Ethyl benzoate [BEN-zoh-ate]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows bonus 22. Printed prompt, choices where present, and answer: 22) Biology – Short Answer Identify all of the following three responses that are actions of the sympathetic nervous system: 1) Pupil constriction; 2) Increased heart rate; 3) Vasodilation [vay-zoh-dye-LAY-shun] in muscles. ANSWER: 2 AND 3 2017 Regional High School NSB®                                                                                PAGE 11"
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows bonus 23. Printed prompt, choices where present, and answer: 23) Math – Short Answer A custom mixture of nuts is composed of cashews worth $16 a pound and almonds worth $10 a pound. May purchases 8 pounds of the mixture for $113. How many of these 8 pounds are cashews? ANSWER: 5.5 (ACCEPT: 5½, 11/2) 2017 Regional High School NSB®                                                                     PAGE 12"
+    }
+  ],
+  "packetIssues": []
+}

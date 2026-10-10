@@ -1,0 +1,412 @@
+{
+  "packetIndex": 242,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-10-HS-2021.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 gives the catenary and accepts inverted catenary/hyperbolic cosine while rejecting parabola; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 retains thermogenin [thermo-JEN-in] and keys ATP SYNTHASE; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 retains [roo-BID-ee-um], all four alkali-halogen pairs, and key W) Rubidium and chlorine."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 lists X) 4 minutes earlier and Y) 4 seconds earlier each day; corpus has a broken X-choice fraction span and omits both numeric values.",
+      "before": {
+        "question": "When Karl Jansky noticed a source of radio interference appearing from all directions in the sky, he measured the daily peak strength of the interference. Which of the following best describes how this peak changed each day?<br>W) It was one hour earlier each day<br>X) It was minutes earlier each day <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;4</span></span><br>Y) It was seconds earlier each day<br>Z) It was at the same time each day",
+        "options": [
+          "W) It was one hour earlier each day",
+          "X) It was minutes earlier each day <span class=\"nsb-fraction\">&lt;span&gt;4</span>&lt;span&gt;4</span></span>",
+          "Y) It was seconds earlier each day",
+          "Z) It was at the same time each day"
+        ]
+      },
+      "changes": {
+        "question": "When Karl Jansky noticed a source of radio interference appearing from all directions in the sky, he measured the daily peak strength of the interference. Which of the following best describes how this peak changed each day?<br>W) It was one hour earlier each day<br>X) It was 4 minutes earlier each day<br>Y) It was 4 seconds earlier each day<br>Z) It was at the same time each day",
+        "question_sanitized": "When Karl Jansky noticed a source of radio interference appearing from all directions in the sky, he measured the daily peak strength of the interference. Which of the following best describes how this peak changed each day? W) It was one hour earlier each day X) It was 4 minutes earlier each day Y) It was 4 seconds earlier each day Z) It was at the same time each day",
+        "options": [
+          "W) It was one hour earlier each day",
+          "X) It was 4 minutes earlier each day",
+          "Y) It was 4 seconds earlier each day",
+          "Z) It was at the same time each day"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 lists protein-crystal structures, nuclear-spin environments, chemical kinetics, and charge-parity asymmetry; key Y) Chemical kinetics matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives complex numbers 1 + 3i and 2 − i; answer 5√2 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 gives charges 2 C at the origin and a second charge at x = −3, asking for zero force at x = 1; key −32 matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 retains [SEN-troh-meers] and keys KINETOCHORES; the corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 asks for the species formed from photolyzed oxygen atoms with unpaired electrons; FREE RADICAL (accept: RADICAL) matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 retains [kal-CARE-ee-us] and [peh-LAJ-ik], all four North Pacific pH/depth/oxygen choices, and key Y) lower pH."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 keys SPIKE PROTEIN and retains the accepted coronavirus spike protein and S protein alternatives."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 visibly prints x³ in f(x) = x³ times e to the x and answer 20e²; corpus flattened both superscripts.",
+      "before": {
+        "question": "What is f prime of 2 for the function f of x = x 3 times e to the x?",
+        "answer": "20e 2"
+      },
+      "changes": {
+        "question": "What is f prime of 2 for the function f of x = x³ times e to the x?",
+        "question_sanitized": "What is f prime of 2 for the function f of x = x cubed times e to the x?",
+        "answer": "20e<sup>2</sup>",
+        "answer_sanitized": "20e squared"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 prints “Planck's constant”; corpus contained the double-escaped amp;apos; entity.",
+      "before": {
+        "question": "The de Broglie [da-BROY] wavelength of an object is equal to Planck&amp;apos;s constant divided by what property of the object?"
+      },
+      "changes": {
+        "question": "The de Broglie [da-BROY] wavelength of an object is equal to Planck's constant divided by what property of the object?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 keys BILIRUBIN and preserves the indirect and unconjugated bilirubin alternatives."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 lists iron, vanadium [vah-NAY-dee-um] oxide, copper, and nickel; key Z) Nickel matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists temperature, grain size, water content, and differential pressure for foliation; key Z) differential pressure matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 names the Mycobacterium disease and accepts HANSEN’S DISEASE with LEPROSY; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 states three-loss elimination and 53 entering teams; key 158 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 describes the infinite parallel-resistor sequence 1, 2, 4, … ohms; key 1/2 (accept: 0.5) matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 asks where T-cell central tolerance occurs; key THYMUS matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 lists pink, green, yellow, blue for hexa-aqua-iron(III); key Y) Yellow matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4 gives a 75-Jupiter-mass brown dwarf and lists protium, deuterium [doo-TEER-ee-um], lithium; key 2, 3 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 retains the full Pseudomonas aeruginosa pronunciation cue and all three bacterium statements; key ALL matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6 gives point (−7, 6), rotation center (1, −4), and 90° clockwise rotation; key (11, 4) with x/y alternatives matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 lists energy density, momentum density, and mass density for Einstein field equations; key ALL matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 retains [NAY-tho-stohmes] and [KOR-dates], all four vertebrate statements, and key Y) All tetrapods are amniotes."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9 retains [EYE-you-pack] and keys PROPANE for propene hydrogenation with Raney nickel."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10 lists all three fossil-record claims and retains [TRY-low-bites]; key 3 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11 lists IgG, IgM, and IgE as antibody candidates; monomeric key 1, 3 matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints vectors i + 3j − 2k and i + 2j; cross product 4i − 2j − k matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Page 13 lists all four initial-velocity directions by a current-carrying wire; key Z) Opposite the current matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        14
+      ],
+      "evidence": "Page 14 lists cation exchange, anion exchange, reverse phase, and gel filtration; key Z) Gel filtration matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Page 15 prints cis [sis]-1-chloro-3-tert-butylcyclohexane with [BYOO-til cyclo-HEX-ane]; corpus inserted an extra space after 1-.",
+      "before": {
+        "parts": [
+          "Consider the compound cis [sis]-1- chloro-3-tert-butylcyclohexane [BYOO-til cyclo-HEX-ane]. Identify all of the following three statements that are TRUE of the most stable chair conformation: 1) Chlorine is axial; 2) Tert-butyl is equatorial; 3) All carbon-carbon bonds sit in a single plane."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider the compound cis [sis]-1-chloro-3-tert-butylcyclohexane [BYOO-til cyclo-HEX-ane]. Identify all of the following three statements that are TRUE of the most stable chair conformation: 1) Chlorine is axial; 2) Tert-butyl is equatorial; 3) All carbon-carbon bonds sit in a single plane."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        16
+      ],
+      "evidence": "Page 16 lists sea ice, continental ice sheet, storms, and weathering for emergent-coast formation; key X) continental ice sheet formation matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        17
+      ],
+      "evidence": "Page 17 lists four reasons graphite is not used as sodium-ion battery anode; key Z) cannot store appreciable sodium ions matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        18
+      ],
+      "evidence": "Page 18 asks for five-six times two-seven in base 8 and prints TWO-ZERO-FOUR-TWO (accept: 2042); the corpus matches."
+    }
+  ],
+  "packetIssues": []
+}

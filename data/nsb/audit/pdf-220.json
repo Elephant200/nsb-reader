@@ -1,0 +1,460 @@
+{
+  "packetIndex": 220,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer     How many planets in our solar system have ”; source answer “1”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Short Answer Scientists at Savannah River National Lab identify mi”; source answer “RIBOSOME”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Chemistry – Multiple Choice Which of the following statements is TRUE of dy”; source answer “Z) FORWARD AND BACKWARD RATES ARE EQUAL IN VALUE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Physics – Multiple Choice In order to explain the photoelectric effect, Ein”; source answer “X) MOMENTUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Math – Multiple Choice For a twice-differentiable function f of x, f of 3 i”; source answer “X) THERE IS A LOCAL MAXIMUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Short Answer Sea salts from breaking waves, soot from wildf”; source answer “AEROSOLS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Biology – Short Answer     The tsetse [SEAT-see] fly is the vector for what”; source answer “AFRICAN TRYPANOSOMIASIS [trih-pan-oh-soh-MY-ah-sis] (ACCEPT: SLEEPING”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Physics – Short Answer At 0.01 degrees Celsius and 0.6% of an atmosphere, w”; source answer “TRIPLE POINT”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Math – Short Answer What is the largest prime factor of 800?”; source answer “5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Chemistry – Short Answer What is the term for unsaturated hydrocarbons that”; source answer “ALKYNE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Energy – Multiple Choice Researchers at Idaho National Laboratory have had ”; source answer “Z) PROTACTINIUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Earth & Space – Short Answer What is the largest satellite galaxy of the Mi”; source answer “LARGE MAGELLANIC [MAH-jeh-LAN-ik] CLOUD”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Chemistry – Multiple Choice Which of the following pieces of glassware will”; source answer “Z) BURETTE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: source expression is (7x³ + 4y²) to the 20th power; restored exponents 3 and 2 and raised ordinal formatting while preserving the read-as wording.",
+      "before": {
+        "question": "How many terms does the binomial expansion of open parenthesis 7x 3 + 4y 2 close parenthesis to the 20 th power contain?"
+      },
+      "changes": {
+        "question": "How many terms does the binomial expansion of open parenthesis 7x<sup>3</sup> + 4y<sup>2</sup> close parenthesis to the 20<sup>th</sup> power contain?",
+        "question_sanitized": "How many terms does the binomial expansion of open parenthesis 7x³ + 4y² close parenthesis to the 20th power contain?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Physics – Short Answer What SI derived unit is used to measure the property”; source answer “HENRY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: source reads “Parkinson’s disease”; repaired the double-escaped apostrophe in the prompt.",
+      "before": {
+        "question": "Managing the symptoms of Parkinson&amp;apos;s disease can be achieved by increasing the levels of what neurotransmitter in the brain?"
+      },
+      "changes": {
+        "question": "Managing the symptoms of Parkinson's disease can be achieved by increasing the levels of what neurotransmitter in the brain?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Energy – Short Answer Scientists at the Department of Energy’s Energy Front”; source answer “NITROGEN, PHOSPHORUS, AND POTASSIUM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Math – Short Answer If the odds against an event are 7 to 4, what is the pr”; source answer “4/11”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Short Answer Any parallel-plate capacitor holding a charge will e”; source answer “FOUR”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Short answer What is the term for the amount of energy required”; source answer “LATTICE ENERGY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Earth & Space – Multiple Choice To what crystal system does quartz belong?”; source answer “Y) TRIGONAL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Biology – Short Answer   What is the term for an infectious disease that is”; source answer “ENDEMIC”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer Many stony meteorites are composed of small si”; source answer “CHONDRULES [KON-drools] (DO NOT ACCEPT: CHONDRITES)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Energy – Short Answer Scientists at Ames Lab are studying solids using NMR ”; source answer “ELECTRON”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Chemistry – Short Answer      What is the formal charge on the carbon atom ”; source answer “–1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Physics – Short Answer Consider three electrically-charged bodies, A, B, an”; source answer “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Math – Short Answer A paper cup is in the shape of a circular cone, with he”; source answer “16”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Short Answer Identify all of the following three landforms ”; source answer “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Biology – Short Answer Identify all of the following three types of bacteri”; source answer “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Physics – Short Answer A 5-kilogram potato gun is loaded with a 200-gram po”; source answer “7.5 (ACCEPT: 15/2, 7 1/2)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Math – Short Answer A sphere centered at (–2, 6, –9) has (5, 2, 4) as one e”; source answer “(–9, 10, –22) (ACCEPT: x = –9, y = 10, AND z = –22)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Chemistry – Short Answer If a reaction is spontaneous only at high temperat”; source answer “BOTH ARE POSITIVE (ACCEPT: POSITIVE, POSITIVE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Energy – Short Answer Scientists at the Joint Genome Institute are studying”; source answer “POLYPLOIDY (ACCEPT: TETRAPLOIDY)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Earth & Space – Multiple Choice Which of the following is NOT a type of bin”; source answer “W) APPARENT”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Chemistry – Short Answer What is the name for an elimination reaction that ”; source answer “DEHYDROGENATION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Math – Short Answer Three coplanar circles with radii of lengths 2, 5, and ”; source answer “7/13 (ACCEPT: 7 TO 13)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Physics – Short Answer Identify all of the following three quantities whose”; source answer “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Biology – Short Answer In peas, yellow seeds are dominant to green, and rou”; source answer “3/16 (ACCEPT: 0.1875, 18.75%)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Energy – Short Answer Physicists at the Thomas Jefferson National Accelerat”; source answer “PION (ACCEPT: PI-ZERO, PI-ZERO MESON, NEUTRAL PION, VIRTUAL PION; DO”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Math – Short Answer Express the fraction with numerator 17 – 4i and denomin”; source answer “5 + 6i”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Short Answer Light with a wavelength of 600 nanometers passes thr”; source answer “0.3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Chemistry – Short Answer According to the Henderson-Hasselbalch [HASS-el-ba”; source answer “3.8”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Earth & Space – Short Answer Identify all of the following three statements”; source answer “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Biology – Multiple Choice The grouping of modern humans and chimpanzees for”; source answer “W) POLYPHYLETIC”."
+    }
+  ],
+  "packetIssues": []
+}

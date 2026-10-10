@@ -1,0 +1,538 @@
+{
+  "packetIndex": 130,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-17-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 hydrogen fuel-cell reaction gives two moles H₂ and one mole O₂; answer 4 moles of electrons matches corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 antifungal/eukaryote choices and answer X) both fungi and humans are eukaryotes match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 power-plant lifecycle cost question, four choices, and answer Y) Levelized cost match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 clay CEC choices including pronunciation cues and answer X) Vermiculites match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 typesets the coordinate variables italicized: y-axis in choices W and X, and x-axis in choice X; answer W repeats italic y-axis.",
+      "before": {
+        "question": "Which of the following is correct about the symmetry of even functions?<br>W) They are symmetric about the y-axis<br>X) They are symmetric about the x-axis<br>Y) They are symmetric about the origin<br>Z) They do not necessarily have symmetry",
+        "options": [
+          "W) They are symmetric about the y-axis",
+          "X) They are symmetric about the x-axis",
+          "Y) They are symmetric about the origin",
+          "Z) They do not necessarily have symmetry"
+        ],
+        "answer": "W) THEY ARE SYMMETRIC ABOUT THE y-AXIS"
+      },
+      "changes": {
+        "question": "Which of the following is correct about the symmetry of even functions?<br>W) They are symmetric about the <i>y</i>-axis<br>X) They are symmetric about the <i>x</i>-axis<br>Y) They are symmetric about the origin<br>Z) They do not necessarily have symmetry",
+        "options": [
+          "W) They are symmetric about the <i>y</i>-axis",
+          "X) They are symmetric about the <i>x</i>-axis",
+          "Y) They are symmetric about the origin",
+          "Z) They do not necessarily have symmetry"
+        ],
+        "answer": "W) THEY ARE SYMMETRIC ABOUT THE <i>y</i>-AXIS",
+        "question_sanitized": "Which of the following is correct about the symmetry of even functions? W) They are symmetric about the y-axis X) They are symmetric about the x-axis Y) They are symmetric about the origin Z) They do not necessarily have symmetry",
+        "answer_sanitized": "W) THEY ARE SYMMETRIC ABOUT THE y-AXIS"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints SiO₂, Ca(OH)₂, Na₂O in choice Y and the answer; corpus has a space within Na₂O.",
+      "before": {
+        "question": "“Soda-lime” glass accounts for 90% of the glass produced and can be made by mixing a modifier, or flux, with sand. Which of the following is an example of a soda-lime glass modifier?<br>W) SiO<sub>2</sub><br>X) Ca(OH)<sub>2</sub><br>Y) Na<sub>2</sub> O<br>Z) MgO",
+        "options": [
+          "W) SiO<sub>2</sub>",
+          "X) Ca(OH)<sub>2</sub>",
+          "Y) Na<sub>2</sub> O",
+          "Z) MgO"
+        ],
+        "answer": "Y) Na<sub>2</sub> O"
+      },
+      "changes": {
+        "question": "“Soda-lime” glass accounts for 90% of the glass produced and can be made by mixing a modifier, or flux, with sand. Which of the following is an example of a soda-lime glass modifier?<br>W) SiO<sub>2</sub><br>X) Ca(OH)<sub>2</sub><br>Y) Na<sub>2</sub>O<br>Z) MgO",
+        "options": [
+          "W) SiO<sub>2</sub>",
+          "X) Ca(OH)<sub>2</sub>",
+          "Y) Na<sub>2</sub>O",
+          "Z) MgO"
+        ],
+        "answer": "Y) Na<sub>2</sub>O",
+        "question_sanitized": "“Soda-lime” glass accounts for 90% of the glass produced and can be made by mixing a modifier, or flux, with sand. Which of the following is an example of a soda-lime glass modifier? W) SiO₂ X) Ca(OH)₂ Y) Na₂O Z) MgO",
+        "answer_sanitized": "Y) Na₂O"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 graphite crystal-structure choices and answer X) Planar match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 black-hole ratio question (including its repeated 'the') and four choices; answer Z) Undefined matches corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 ependymal-cell fluid question, arachnoid pronunciation cue, and answer Cerebrospinal fluid match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 closure property of even integers and answer Division match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 photosynthesis ATP question, four process choices including the glycolysis cue, and answer W) Cyclic electron flow match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints S_N1, S_N2, E1, E2 with lowered subscripts; answer line repeats E1 and E2.",
+      "before": {
+        "question": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S 1; 2) S 2; 3) E1; 4) E2 N N",
+        "answer": "3 and 4 (ACCEPT: E1 and E2)"
+      },
+      "changes": {
+        "question": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S<sub>N1</sub>; 2) S<sub>N2</sub>; 3) E<sub>1</sub>; 4) E<sub>2</sub>",
+        "answer": "3 and 4 (ACCEPT: E<sub>1</sub> and E<sub>2</sub>)",
+        "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S_N1; 2) S_N2; 3) E1; 4) E2",
+        "answer_sanitized": "3 and 4 (ACCEPT: E1 and E2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 two sphere radii, pronunciation cue, all four distances, and answer Y) 8 match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 particle-nature experiment list and answer 1 with accepted photoelectric effect match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 starvation amino-acid choices, gluconeogenesis cue, and answer Y) alanine and glutamine match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 flame-test element list and answer 1 AND 4 with accepted lithium/calcium match corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 typesets fixed distance d in italics as a variable.",
+      "before": {
+        "question": "Two planes are orthogonal to each other. How many lines exist that are a given fixed distance d from both of these planes?"
+      },
+      "changes": {
+        "question": "Two planes are orthogonal to each other. How many lines exist that are a given fixed distance <i>d</i> from both of these planes?",
+        "question_sanitized": "Two planes are orthogonal to each other. How many lines exist that are a given fixed distance d from both of these planes?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 orthogonal planes/fixed-distance question and answer Four match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 1,3-diene prompt, pronunciation cue, four polymer choices, and answer X) Rubber match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 tunicamycin cell-cycle checkpoint prompt, pronunciation cues, four options, and answer W) Activated APC protein match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 first-order half-life question, three proposed changes, and printed answer 3 with accepted text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 methane-atmosphere question and answer Neptune and Uranus match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 typesets the parametric answer's x, y, z and t variables in italics.",
+      "before": {
+        "answers": [
+          "x = 1 + 2t, y = t, z = -1 + 4t"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "<i>x</i> = 1 + 2<i>t</i>, <i>y</i> = <i>t</i>, <i>z</i> = -1 + 4<i>t</i>"
+        ],
+        "answers_sanitized": [
+          "x = 1 + 2t, y = t, z = -1 + 4t"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 amniote adaptations, four options, and answer X) Buccal pumping match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 blinking muscle choices including pronunciation cues and answer X) Orbicularis oculi match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 Carnot engine statements and answer 1, 2, 3 with accepted ALL OF THEM match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 VEI-8 volcanic-material quantity question and answer 1000 cubic kilometers match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 the 30-60-90 angle-bisector question and answer ONE HALF (ACCEPT: 2) match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints s = 4t³ − 12t² + 24t and the read-as cue; answer is 12.",
+      "before": {
+        "parts": [
+          "An object is moving along a line in such a way that its position s at time t seconds is given by 3 2 [s equals four t cubed minus twelve t squared plus s = 4t - 12t + 24t twenty-four t]. Determine the minimum velocity of the object, in units per second."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "An object is moving along a line in such a way that its position <i>s</i> at time <i>t</i> seconds is given by <i>s</i> = 4<i>t</i><sup>3</sup> − 12<i>t</i><sup>2</sup> + 24<i>t</i> [s equals four t cubed minus twelve t squared plus twenty-four t]. Determine the minimum velocity of the object, in units per second."
+        ],
+        "parts_sanitized": [
+          "An object is moving along a line in such a way that its position s at time t seconds is given by s = 4t^3 - 12t^2 + 24t [s equals four t cubed minus twelve t squared plus twenty-four t]. Determine the minimum velocity of the object, in units per second."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 hydroelectric depths of 50 m and 80 m and answer 60% greater (ACCEPT: 60%) match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 nuclear-chemistry statements and answer 3 ONLY with accepted beta-minus statement match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 gluconeogenesis enzyme options with cues and answer W) PEP carboxykinase match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 AGN unified-model variables and answer W) Orientation angle match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 photosynthetic oxidizing-agent prompt and answer P680 with accepted Pigment 680 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints xy = 6, x²y + xy² + x + y = 63 and asks for x² + y²; corpus formula extraction displaced these expressions.",
+      "before": {
+        "parts": [
+          "You are given that and 2 2 [x times y equals six xy = 6 x y + xy + x + y = 63 and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: 2 2 [x squared plus y squared]. x + y"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "You are given that <i>xy</i> = 6 and <i>x</i><sup>2</sup><i>y</i> + <i>xy</i><sup>2</sup> + <i>x</i> + <i>y</i> = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: <i>x</i><sup>2</sup> + <i>y</i><sup>2</sup> [x squared plus y squared]."
+        ],
+        "parts_sanitized": [
+          "You are given that xy = 6 and x^2y + xy^2 + x + y = 63 [x times y equals six and x squared times y plus x times y squared plus x plus y equals sixty-three]. Calculate: x^2 + y^2 [x squared plus y squared]."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 Bohr-model features and answer Y) Atomic orbitals match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 sarcomere H-zone protein question, pronunciation cues, and answer X) Myosin match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 difunctional polymer initiator question and answer 16 match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints the sum with lower limit n=1, upper limit 14, and summand n²; the read-as cue matches.",
+      "before": {
+        "parts": [
+          "Evaluate the following expression: [the sum from n equals one to fourteen of n squared]"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the following expression: ∑<sub>n=1</sub><sup>14</sup> <i>n</i><sup>2</sup> [the sum from n equals one to fourteen of n squared]"
+        ],
+        "parts_sanitized": [
+          "Evaluate the following expression: sum from n=1 to 14 of n^2 [the sum from n equals one to fourteen of n squared]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 black-body behavior choices and answer Z) Wien’s law predicts color match corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 ternary micrite-limestone proportions in all four options and answer X) (1)25%, (2) 0%, (3) 75% match the PDF."
+    }
+  ],
+  "packetIssues": [
+    {
+      "sourcePages": [
+        2
+      ],
+      "question": "Bonus 3",
+      "issue": "The PDF asks which change increases the half-life of a first-order reaction, but prints answer 3 (increasing the rate constant). For a first-order reaction t₁/₂ = ln(2)/k, so increasing k decreases the half-life; changing starting concentration has no effect. This is a source-answer error and has not been silently changed."
+    }
+  ]
+}

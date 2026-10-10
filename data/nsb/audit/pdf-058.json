@@ -1,0 +1,594 @@
+{
+  "packetIndex": 58,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete item against page 1 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "before": {
+        "question": "Give the measure of angle (read as: theta), if 0 ≤ ≤ 2π, sin = and cos = .",
+        "answer": ""
+      },
+      "changes": {
+        "question": "Give the measure of angle θ (read as: theta), if 0 ≤ θ ≤ 2π, sin θ = <span class=\"nsb-fraction\"><span>1</span><span>2</span></span> and cos θ = −<span class=\"nsb-fraction\"><span>√3</span><span>2</span></span>.",
+        "answer": "<span class=\"nsb-fraction\"><span>5π</span><span>6</span></span>",
+        "question_sanitized": "Give the measure of angle θ (read as: theta), if 0 <= θ <= 2π, sin θ = 1/2 and cos θ = -sqrt(3)/2.",
+        "answer_sanitized": "5π/6"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 1 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 2 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 2 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 3 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 3 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 4 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 4 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 5 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 5 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 6 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 6 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 7 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 7 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 8 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 8 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 9 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 9 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete item against page 10 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "before": {
+        "question": "Find the measure of angle C in degrees in triangle ABC with sides equal to the following: AB = 15 centimeters, AC = 15 centimeters, and BC = 30 centimeters."
+      },
+      "changes": {
+        "question": "Find the measure of angle C in degrees in triangle ABC with sides equal to the following: AB = 15 centimeters, AC = 15√3 centimeters, and BC = 30 centimeters.",
+        "question_sanitized": "Find the measure of angle C in degrees in triangle ABC with sides equal to the following: AB = 15 centimeters, AC = 15 sqrt(3) centimeters, and BC = 30 centimeters."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 10 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 11 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 11 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 12 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 12 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 13 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the complete item against page 1 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "before": {
+        "parts": [
+          "What is the perimeter of a sector of angle π/3 radians in a circle with 2 circumference 2π ? Provide your answer in simplest form in terms of π. 2"
+        ],
+        "answers": [
+          "2π+ π /3 (ACCEPT: )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the perimeter of a sector of angle π/3 radians in a circle with circumference 2π<sup>2</sup>? Provide your answer in simplest form in terms of π."
+        ],
+        "answers": [
+          "2π + π<sup>2</sup>/3 (ACCEPT: <span class=\"nsb-fraction\"><span>6π + π<sup>2</sup></span><span>3</span></span>)"
+        ],
+        "parts_sanitized": [
+          "What is the perimeter of a sector of angle π/3 radians in a circle with circumference 2π^2? Provide your answer in simplest form in terms of π."
+        ],
+        "answers_sanitized": [
+          "2π + π^2/3 (ACCEPT: (6π + π^2)/3)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 2 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 2 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 3 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared the complete item against page 3 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "before": {
+        "parts": [
+          "What matrix of integers is equal to 3 - (read as: 3 times the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and row 2: negative 4, 1)"
+        ],
+        "answers": [
+          ""
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What matrix of integers is equal to 3 [−2  1; 0  5] − [4  0; −4  1] (read as: 3 times the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and row 2: negative 4, 1)"
+        ],
+        "answers": [
+          "[−10  3; 4  14]"
+        ],
+        "parts_sanitized": [
+          "What matrix of integers is equal to 3 [[-2, 1], [0, 5]] - [[4, 0], [-4, 1]] (read as: 3 times the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and row 2: negative 4, 1)"
+        ],
+        "answers_sanitized": [
+          "[[-10, 3], [4, 14]]"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 4 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 4 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 5 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 5 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 6 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 6 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete item against page 7 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "before": {
+        "answers": [
+          "3"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "3√3"
+        ],
+        "answers_sanitized": [
+          "3 sqrt(3)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 7 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete item against page 8 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "before": {
+        "answers": [
+          "CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO<sub>3</sub> )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO<sub>3</sub>)"
+        ],
+        "answers_sanitized": [
+          "CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO3)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 8 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 9 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 9 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 10 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 10 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete item against page 11 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "before": {
+        "answers": [
+          "TOWARDS THE CIRCLE&amp;apos;S CENTER"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "TOWARDS THE CIRCLE'S CENTER"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 11 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 12 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 12 of packet 058 with the original PDF; the source agrees with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared the complete question, answer, choices, and notes on page 13 of packet 058 with the original PDF; the source agrees with the corpus."
+    }
+  ],
+  "packetIssues": []
+}

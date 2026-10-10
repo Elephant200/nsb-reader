@@ -1,0 +1,590 @@
+{
+  "packetIndex": 12,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round13.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 1; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 1; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 2; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the original PDF page 2 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "question": "Express 600º in radians as a reduced fraction π 10",
+        "answer": "3"
+      },
+      "changes": {
+        "question": "Express 600º in radians as a reduced fraction in terms of π:",
+        "answer": "<span class=\"nsb-fraction\"><span>10π</span><span>3</span></span>",
+        "answer_sanitized": "(10π)/(3)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 7; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 7; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 8; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared the original PDF page 8 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "question": "An organic compound with the formula C<sub>6</sub> H<sub>14</sub> is an:<br>W) alkane<br>X) alkene<br>Y) alkyne<br>Z) arene",
+        "answer": "W) ALKANE n 2n+2",
+        "notes": [
+          "(Solution: alkanes = C H )"
+        ]
+      },
+      "changes": {
+        "question": "An organic compound with the formula C<sub>6</sub>H<sub>14</sub> is an:<br>W) alkane<br>X) alkene<br>Y) alkyne<br>Z) arene",
+        "answer": "W) ALKANE",
+        "notes": [
+          "(Solution: alkanes = C<sub>n</sub>H<sub>2n+2</sub>)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 9; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared the original PDF page 9 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "question": "For the function f ( x ) , what is f &amp;apos;(5) (read as: f prime of 5)? x − 1",
+        "answer": "25 − − 1 = 5 25",
+        "notes": [
+          "(Solution: f &amp;apos; (5) = <span class=\"nsb-fraction\">&lt;span&gt;1</span>&lt;span&gt;2</span></span> )"
+        ]
+      },
+      "changes": {
+        "question": "For the function f(x) = <span class=\"nsb-fraction\"><span>1</span><span>x</span></span>, what is f′(5) (read as: f prime of 5)?",
+        "question_sanitized": "For the function f(x) = 1/x, what is f prime of 5 (read as: f prime of 5)?",
+        "answer": "<span class=\"nsb-fraction\"><span>−1</span><span>25</span></span>",
+        "answer_sanitized": "(−1)/(25)",
+        "notes": [
+          "(Solution: f′(5) = −1/5<sup>2</sup> = −1/25)"
+        ]
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 12; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 12; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 1; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Compared the original PDF page 1 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "parts": [
+          "Give the systematic chemical name for the following ionic compound: Cr<sub>2</sub> (SeO<sub>4</sub> )<sub>3</sub>"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Give the systematic chemical name for the following ionic compound: Cr<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 2; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared the original PDF page 2 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "parts": [
+          "Giving your answers in terms find the total surface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches:"
+        ],
+        "answers": [
+          "96π = πrl = π(6)(10) = 60π; = LA + B = 60π + π(6) 2 = 96π"
+        ],
+        "notes": [
+          "(Solution: l<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> , l = 10 in; LSA SA in<sup>2</sup> )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Giving your answers in terms of π and in inches squared, find the total surface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches:"
+        ],
+        "answers": [
+          "96π"
+        ],
+        "notes": [
+          "(Solution: l<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup>, l = 10 in; LSA = πrl = π(6)(10) = 60π; SA = LA + B = 60π + π(6)<sup>2</sup> = 96π in<sup>2</sup>)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Root source QA of PDF p. 3 confirms the answer ends before the separately labeled Solution paragraph. Restored the complete solution to notes and removed its continuation from the answer.",
+      "before": {
+        "answers": [
+          "Y) DURING A PEAK EL NINO, STRONG HIGH PRESSURE WILL BE PRESENT IN THE EASTERN PACIFIC WITH LOWER PRESSURE TO THE WEST setting up an easterly wind flow)"
+        ],
+        "notes": [
+          "(Solution: during peak strong high pressure is in the western Pacific with lower pressure to the east,"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "Y) DURING A PEAK EL NINO, STRONG HIGH PRESSURE WILL BE PRESENT IN THE EASTERN PACIFIC WITH LOWER PRESSURE TO THE WEST"
+        ],
+        "notes": [
+          "(Solution: during peak strong high pressure is in the western Pacific with lower pressure to the east, setting up an easterly wind flow)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 3; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 4; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 5; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 6; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 7; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 8; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 8; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 9; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 9; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 10; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 11; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared the original PDF page 12 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "before": {
+        "answers": [
+          "44 ∆H° = Σn ∆H Σn ∆H reaction p f r f"
+        ],
+        "notes": [
+          "(Solution: °(products) – °(reactants) = [–242 – (–286) = +44.0 kJ)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "44"
+        ],
+        "notes": [
+          "(Solution: ΔH°<sub>reaction</sub> = Σn<sub>p</sub>ΔH<sub>f</sub>°(products) − Σn<sub>r</sub>ΔH<sub>f</sub>°(reactants) = −242 − (−286) = +44.0 kJ)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 12; source wording, answer, options and visible notation agree with the corpus."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Compared this flagged record with the original PDF page 13; source wording, answer, options and visible notation agree with the corpus."
+    }
+  ],
+  "packetIssues": []
+}

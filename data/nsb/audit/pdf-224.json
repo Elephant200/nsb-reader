@@ -1,0 +1,486 @@
+{
+  "packetIndex": 224,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd9.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer What is the term for the bright head of a come”; source answer “COMA”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Energy – Multiple Choice Chemists at Brookhaven National Lab are studying t”; source answer “W) CITRATE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: source says van’t Hoff factor; repaired the double-escaped apostrophe in the prompt.",
+      "before": {
+        "question": "Identify all of the following four solutes in 0.05 molal [moh-LAHL] aqueous solutions that would be expected to display a van&amp;apos;t Hoff factor greater than two: 1) Sodium chloride; 2) Magnesium chloride; 3) Glucose; 4) Magnesium sulfate."
+      },
+      "changes": {
+        "question": "Identify all of the following four solutes in 0.05 molal [moh-LAHL] aqueous solutions that would be expected to display a van't Hoff factor greater than two: 1) Sodium chloride; 2) Magnesium chloride; 3) Glucose; 4) Magnesium sulfate."
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Physics – Short Answer RLC circuits are known to have a resonant frequency ”; source answer “AMPLITUDE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Biology – Short Answer     Saddle, hinge, and ball-and-socket are all types”; source answer “JOINTS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Math – Short Answer What is the arc length of a sector of a circle with rad”; source answer “14π”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Multiple Choice Under which of the following sets of temper”; source answer “W) 800 DEGREES CELSIUS, 0.5 KILOBARS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Chemistry – Short Answer     What is the term for a hydrocarbon containing ”; source answer “UNSATURATED”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Short Answer Researchers at Brookhaven National Lab created an”; source answer “MAGNESIUM (ACCEPT: Mg)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Physics – Multiple Choice A position vector terminates at (1, 1) in the xy-”; source answer “Y) POSITIVE z”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Math – Short Answer What is the sum of the largest prime number less than 7”; source answer “138”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Biology – Short Answer In an operon, what is the name of the site upstream ”; source answer “PROMOTER”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Chemistry – Short Answer What is the name for a saturated straight-chain al”; source answer “HEXANE (ACCEPT: N-HEXANE, NORMAL-HEXANE)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Physics – Short Answer What law, which is a part of the mathematical formul”; source answer “LENZ’S LAW”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Earth & Space – Short Answer In the proton-proton chain, hydrogen nuclei ar”; source answer “WEAK (ACCEPT: WEAK NUCLEAR)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Energy – Multiple Choice DOE researchers at the Lawrence Berkeley National ”; source answer “Z) NUCLEUS OF A HUMAN FIBROBLAST”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Math – Short Answer What is the absolute value of the complex conjugate of ”; source answer “5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Chemistry – Short Answer What is the oxidation number for carbon in methano”; source answer “–2”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Short Answer John places a block on a plank of wood, and slowly t”; source answer “1.7”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Earth & Space – Short Answer What greenhouse gas is trapped in cage-like st”; source answer “METHANE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Biology – Short Answer C. elegans is a model organism notable for having a ”; source answer “NEMATODA (ACCEPT: NEMATODES)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Math – Short Answer What is the distance between the points (0, 7) and (4, ”; source answer “2√5”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Earth & Space – Short Answer Place the following four planets in order of i”; source answer “1,4,3,2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: checked “Energy – Short Answer Scientists at Oak Ridge National Labs have developed ”; source answer “ALL”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Chemistry – Short Answer Order the following four compounds in order of inc”; source answer “4, 3, 2, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: checked “Physics – Short Answer You push horizontally with a 20-newton force on a fo”; source answer “√5”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: checked “Biology – Short Answer Order the following three clades chronologically in ”; source answer “3, 1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: source polynomial is 2x⁵ − 3x⁴ − 4x³ + 7x − 3; restored superscripts 5, 4, and 3.",
+      "before": {
+        "parts": [
+          "What is the remainder when 2x 5 – 3x 4 – 4x 3 + 7x – 3 is divided by the binomial x + 2?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the remainder when 2x<sup>5</sup> – 3x<sup>4</sup> – 4x<sup>3</sup> + 7x – 3 is divided by the binomial x + 2?"
+        ],
+        "parts_sanitized": [
+          "What is the remainder when 2x⁵ – 3x⁴ – 4x³ + 7x – 3 is divided by the binomial x + 2?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Earth & Space – Multiple Choice Which of the following statements about lav”; source answer “X) BASALTIC LAVA EXTRUSION IS TYPICALLY EXPLOSIVE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: checked “Chemistry – Short Answer Identify all of the following three changes that w”; source answer “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Energy – Short Answer Brookhaven National Lab scientists are developing cat”; source answer “ACETYLCHOLINE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: checked “Physics – Short Answer A disk initially at rest undergoes an angular accele”; source answer “8”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: checked “Math – Short Answer What is the area of a triangle with sides of length 17,”; source answer “14√30”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: source prints “Cdk’s are enzymes”; repaired the double-escaped apostrophe.",
+      "before": {
+        "parts": [
+          "Cdk&amp;apos;s are enzymes that play an important role in cell division. They act by adding what group to other protein substrates?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Cdk's are enzymes that play an important role in cell division. They act by adding what group to other protein substrates?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Chemistry – Short Answer The following incomplete compound name is missing ”; source answer “3+ (ACCEPT: +3, THREE)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: checked “Physics – Short Answer The position x of a rabbit running along a straight ”; source answer “16 (ACCEPT: 16 METERS PER SECOND SQUARED)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Earth & Space – Multiple Choice What type of variable star is most prevalen”; source answer “Z) RR LYRAE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: checked “Energy – Short Answer Scientists at SLAC [slack] National Accelerator Lab a”; source answer “TEM (ACCEPT: TRANSMISSION ELECTRON MICROSCOPY, TRANSMISSION)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Biology – Short Answer Identify all of the following three cellular junctio”; source answer “1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: checked “Math – Short Answer On a seven-by-seven grid of unit squares, how many squa”; source answer “140”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Chemistry – Short Answer Identify all of the following three statements tha”; source answer “2, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: checked “Physics – Short Answer The energy that it takes to eject an electron from t”; source answer “1/8 (ACCEPT: 0.125)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Earth & Space – Multiple Choice Two oceanic plates collide. All other facto”; source answer “W) THE CRUST THAT IS OLDER”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: checked “Biology – Short Answer Identify all of the following three classes of molec”; source answer “3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: checked “Math – Short Answer Let f of x be a function with continuous derivative, wi”; source answer “–6”."
+    }
+  ],
+  "packetIssues": []
+}

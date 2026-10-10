@@ -1,0 +1,477 @@
+{
+  "packetIndex": 226,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: checked the complete printed prompt and answer against the record. Source begins “1) Energy – Short Answer Researchers at the National Renewable Energy Lab have computationally screened hundreds of”; printed answer is “METASTABLE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: checked the complete printed prompt and answer against the record. Source begins “2) Physics – Short Answer In a rotating frame of reference, what fictitious force is proportional to the cross prod”; printed answer is “CORIOLIS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: checked the complete printed prompt and answer against the record. Source begins “3) Math – Multiple Choice If f of x equals the square root of open parenthesis x + 6 close parenthesis and g of x e”; printed answer is “Y) x GREATER THAN 6”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: checked the complete printed prompt and answer against the record. Source begins “4) Biology – Short Answer Reptiles, birds, and mammals all develop from what type of egg with four specialized extr”; printed answer is “AMNIOTIC”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: checked the complete printed prompt and answer against the record. Source begins “5) Chemistry – Short Answer What law states that you can add the enthalpy changes associated with component reactio”; printed answer is “HESS’S LAW”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 prints “METHANE (ACCEPT: CHH with 4 as subscript)”; the corpus has the 4 displaced after CH.",
+      "before": {
+        "answer": "METHANE (ACCEPT: CH ) 4"
+      },
+      "changes": {
+        "answer": "METHANE (ACCEPT: CH<sub>4</sub>)",
+        "answer_sanitized": "METHANE (ACCEPT: CH₄)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: checked the complete printed prompt and answer against the record. Source begins “7) Energy – Multiple Choice Scientists at the Joint Genome Institute are studying giant viruses like Pandoravirus [”; printed answer is “X) 2.5 MILLION”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: checked the complete printed prompt and answer against the record. Source begins “8) Math – Short Answer If f of x equals e to the power open parenthesis 4x close parenthesis, what is f triple prim”; printed answer is “64”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: checked the complete printed prompt and answer against the record. Source begins “11) Physics – Multiple Choice Consider an ideal electric circuit consisting of a capacitor and an inductor. Which o”; printed answer is “W) SIMPLE HARMONIC”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: checked the complete printed prompt and answer against the record. Source begins “12) Chemistry – Multiple Choice A student is using mass spectrometry to identify an unknown sample of rock. Which o”; printed answer is “Y) POLARITY OF THE MATERIAL”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: checked the complete printed prompt and answer against the record. Source begins “13) Biology – Multiple Choice G-protein-coupled receptors and receptor tyrosine [TIE-row-seen] kinases are typicall”; printed answer is “Z) PLASMA MEMBRANE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: checked the complete printed prompt and answer against the record. Source begins “14) Energy – Short Answer Scientists supported by the DOE are studying nanoparticles that absorb light and, after a”; printed answer is “QUANTUM DOTS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: checked the complete printed prompt and answer against the record. Source begins “15) Earth & Space – Short Answer A star located 10 parsecs away has an absolute magnitude of 3.5. To two significan”; printed answer is “3.5”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: checked the complete printed prompt and answer against the record. Source begins “16) Physics – Short Answer Many substances, when exposed to an external magnetic field, will induce a magnetic fiel”; printed answer is “DIAMAGNETIC”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: checked the complete printed prompt and answer against the record. Source begins “17) Chemistry – Multiple Choice Which of the following molecules is non-planar in its lowest energy conformation? W”; printed answer is “Y) CYCLOHEXANE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: checked the complete printed prompt and answer against the record. Source begins “18) Math – Short Answer A polyhedron has 12 vertices and 30 edges. How many faces does it have?”; printed answer is “20”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: checked the complete printed prompt and answer against the record. Source begins “19) Biology – Short Answer While most immune cells survive only for days or weeks, some B cells can persist for yea”; printed answer is “MEMORY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: checked the complete printed prompt and answer against the record. Source begins “20) Chemistry – Short Answer Rank the following three nitrogen-containing species in order of increasing oxidation ”; printed answer is “3, 2, 1”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: checked the complete printed prompt and answer against the record. Source begins “21) Earth & Space – Short Answer What is the collective term for all of the chemical, physical, and biological chan”; printed answer is “DIAGENESIS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: checked the complete printed prompt and answer against the record. Source begins “22) Math – Short Answer In order, four points on a circle are named A, B, C, and D. If angle BAD measures 87 degree”; printed answer is “102”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: checked the complete printed prompt and answer against the record. Source begins “23) Physics – Short Answer If the radius of a cylindrical uniform wire is doubled, by what number is the resistance”; printed answer is “1/4 (ACCEPT: 0.25)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “1) Energy – Multiple Choice Scientists at Oak Ridge National Lab have designed a particular implementation of a con”; printed answer is “W) IF THE CONTROL QUBIT IS KET 0, THE TARGET QUBIT WILL REMAIN KET 1 ***********”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1 prints “Alice's speed after jumping on the skateboard?”; corpus double-escapes the apostrophe as &amp;apos;.",
+      "before": {
+        "parts": [
+          "Alice, who has a mass of 50 kilograms, runs with a speed of three meters per second and jumps onto a stationary skateboard with mass two kilograms. In meters per second, what is Alice&amp;apos;s speed after jumping on the skateboard?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Alice, who has a mass of 50 kilograms, runs with a speed of three meters per second and jumps onto a stationary skateboard with mass two kilograms. In meters per second, what is Alice's speed after jumping on the skateboard?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “3) Math – Short Answer Starting with a cube, one dimension is increased by 4, another is decreased by 4, and the ot”; printed answer is “343 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “4) Biology – Multiple Choice HIV primarily targets CD4-positive lymphocytes. Which of the following best describes ”; printed answer is “W) RECEIVE PRESENTED ANTIGENS AND STIMULATE OTHER CELLS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “5) Chemistry – Short Answer Place the following four elements in order of increasing electron affinity: 1) Sodium; ”; printed answer is “1, 3, 2, 4 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “6) Earth & Space – Short Answer Identify all of the following three descriptions of chondrites [KON-drites] that ar”; printed answer is “1, 2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “7) Energy – Short Answer Scientists at Idaho National Lab are developing molten salt reactors that use chloride sal”; printed answer is “1 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “8) Math – Short Answer What is the 12th power of the complex number 1 – i ?”; printed answer is “–64 (ACCEPT: –64 + 0i)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “9) Earth & Space – Multiple Choice Which of the following describes the stability of an air parcel when the environ”; printed answer is “X) CONDITIONALLY UNSTABLE ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “10) Biology – Short Answer Order the following three organs in a bird in the order through which food will pass: 1)”; printed answer is “2, 1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “11) Physics – Short Answer A beam of light emerges from a clear liquid with index of refraction of 1.7 into a vacuu”; printed answer is “60 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “12) Chemistry – Short Answer Order the following three solvents from least polar to most polar: 1) Acetonitrile [ah”; printed answer is “2, 3, 1”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “13) Biology – Short Answer Secondary xylem [ZYE-lum] is derived from what specific meristem tissue?”; printed answer is “VASCULAR CAMBIUM ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “14) Energy – Short Answer Brookhaven National Lab researchers are using quadrupole magnets to shape electron beams.”; printed answer is “NEGATIVE THREE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “15) Earth & Space – Multiple Choice Which of the following regions of the Sun’s atmosphere has the highest temperat”; printed answer is “Z) OUTER CORONA ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “16) Physics – Short Answer A Carnot [CAR-noh] engine operates with a cold reservoir temperature of zero degrees Cel”; printed answer is “546”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “17) Chemistry – Short Answer Identify all of the following four molecules that would be expected to exhibit cis [si”; printed answer is “4 ONLY ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “18) Math – Short Answer A line contains 6 points A, B, C, D, E, and F. A second line contains 3 other points X, Y, ”; printed answer is “29”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “19) Biology – Multiple Choice The lobster claw plant has red upper leaves. Which of the following pollination vecto”; printed answer is “Y) BIRDS ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “20) Chemistry – Short Answer Consider the water-gas shift reaction, in which three molecules of hydrogen can be exo”; printed answer is “1, 3”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “21) Earth & Space – Short Answer Identify all of the following three criteria that must be true for a substance to ”; printed answer is “2 ******************”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: checked the complete printed bonus part, choices where present, and answer against the record. Source begins “22) Math – Short Answer If the probability of event A is 0.4, the probability of event B is 0.7, and the probabilit”; printed answer is “3/7”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints π with a raised 2 over 36 in the answer; corpus flattens the exponent as “π 2 /36”.",
+      "before": {
+        "answers": [
+          "π 2 /36"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "π<sup>2</sup>/36"
+        ],
+        "answers_sanitized": [
+          "π²/36"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

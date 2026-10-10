@@ -1,0 +1,624 @@
+{
+  "packetIndex": 107,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-11.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “BIOLOGY Multiple Choice Different cell junctions are used to connect neighboring cells as”; answer X) MUSCLE CELLS ARE JOINED TO FORM A STURDY SHEET agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “CHEMISTRY Multiple Choice The following gases are all at standard temperature and”; answer W) HELIUM agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “MATH Short Answer Find the sum of the infinite geometric series with first three terms 1/4,”; answer 1/3 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “EARTH AND SPACE Multiple Choice Which of the following statements is NOT true about”; answer Y) IT IS AMONG THE DEEPEST GULFS IN THE WORLD agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 visibly prints OH⁻ and H⁺ in the Y/Z balancing choices and repeats hydroxide (OH⁻) in the answer; corpus lost both charge signs.",
+      "before": {
+        "question": "Which of the following is NOT a step in balancing a redox reaction in an acidic solution?<br>W) Write the unbalanced net ionic equation<br>X) Determine which atoms are oxidized and which atoms are reduced -<br>Y) Balance each half-reaction for O by adding hydroxide (OH ) to the side with less oxygen +<br>Z) Balance each half-reaction for H by adding H to the side with less H -",
+        "options": [
+          "W) Write the unbalanced net ionic equation",
+          "X) Determine which atoms are oxidized and which atoms are reduced -",
+          "Y) Balance each half-reaction for O by adding hydroxide (OH ) to the side with less oxygen +",
+          "Z) Balance each half-reaction for H by adding H to the side with less H -"
+        ],
+        "answer": "Y) BALANCE EACH HALF-REACTION FOR O BY ADDING HYDROXIDE (OH ) TO THE SIDE WITH LESS OXYGEN"
+      },
+      "changes": {
+        "question": "Which of the following is NOT a step in balancing a redox reaction in an acidic solution?<br>W) Write the unbalanced net ionic equation<br>X) Determine which atoms are oxidized and which atoms are reduced<br>Y) Balance each half-reaction for O by adding hydroxide (OH<sup>−</sup>) to the side with less oxygen<br>Z) Balance each half-reaction for H by adding H<sup>+</sup> to the side with less H",
+        "options": [
+          "W) Write the unbalanced net ionic equation",
+          "X) Determine which atoms are oxidized and which atoms are reduced",
+          "Y) Balance each half-reaction for O by adding hydroxide (OH<sup>−</sup>) to the side with less oxygen",
+          "Z) Balance each half-reaction for H by adding H<sup>+</sup> to the side with less H"
+        ],
+        "question_sanitized": "Which of the following is NOT a step in balancing a redox reaction in an acidic solution? W) Write the unbalanced net ionic equation X) Determine which atoms are oxidized and which atoms are reduced Y) Balance each half-reaction for O by adding hydroxide (OH-) to the side with less oxygen Z) Balance each half-reaction for H by adding H+ to the side with less H",
+        "answer": "Y) BALANCE EACH HALF-REACTION FOR O BY ADDING HYDROXIDE (OH<sup>−</sup>) TO THE SIDE WITH LESS OXYGEN",
+        "answer_sanitized": "Y) BALANCE EACH HALF-REACTION FOR O BY ADDING HYDROXIDE (OH-) TO THE SIDE WITH LESS OXYGEN"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “BIOLOGY Multiple Choice Which of the following is NOT an example of substrate-level”; answer W) ATP SYNTHASE PHOSPHORYLATES ADP DURING CHEMIOSMOSIS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “PHYSICS Multiple Choice Two cars of unequal mass crash and stick together in a head on”; answer Z) BOTH CARS EXPERIENCE THE SAME MAGNITUDE IMPULSE IN OPPOSITE DIRECTIONS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “MATH Short Answer What is the area of a rhombus with diagonals of lengths 6 and 8?”; answer 24 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “ENERGY Short Answer In which direction do protons drag water in a polymer electrolyte”; answer ANODE TO CATHODE (ACCEPT: NEGATIVE ELECTRODE TO POSITIVE ELECTRODE) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 prints “CHEMISTRY Multiple Choice Which of the following is NOT a property of all amino acids?”; answer X) THEY ARE CHIRAL agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “BIOLOGY Multiple Choice If you are doing a western blot, what kind of macromolecule are”; answer Y) PROTEIN agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “PHYSICS Multiple Choice An Atwood’s machine is built with a massless and frictionless”; answer Z) 18 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 shows 20 over 3 as the answer and (ACCEPT: 6 2/3); trailing 20 is the rendered numerator, not prompt text.",
+      "before": {
+        "question": "A point rotates around a circle at the rate of 40° per second. Convert this to revolutions per minute. 20",
+        "answer": "(ACCEPT: 6 2/3) 3"
+      },
+      "changes": {
+        "question": "A point rotates around a circle at the rate of 40° per second. Convert this to revolutions per minute.",
+        "answer": "20/3 (ACCEPT: 6 2/3)",
+        "question_sanitized": "A point rotates around a circle at the rate of 40° per second. Convert this to revolutions per minute.",
+        "answer_sanitized": "20/3 (ACCEPT: 6 2/3)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints “ENERGY Multiple Choice Acid rain is unusually acidic precipitation containing elevated”; answer X) HYDROXIDE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “EARTH AND SPACE Multiple Choice Pangaea [pan-JEE-uh] formed by the end of what”; answer Y) PERMIAN agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints “CHEMISTRY Multiple Choice Which of the following best explains the difference between”; answer X) AT HIGH PRESSURE, INTERMOLECULAR ATTRACTIONS BECOME SIGNIFICANT agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints “BIOLOGY Multiple Choice Which of the following is an example of catabolism in the cell?”; answer W) ENERGY IS EXTRACTED FROM THE FAT IN AVOCADO agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 answer is 1 × 10⁻⁷ joules; the raised −7 was detached into the prompt in extraction.",
+      "before": {
+        "question": "Providing your answer in scientific notation with one significant digit, what is the value of 1 erg in joules? -7",
+        "answer": "1 X 10"
+      },
+      "changes": {
+        "question": "Providing your answer in scientific notation with one significant digit, what is the value of 1 erg in joules?",
+        "answer": "1 × 10<sup>−7</sup>",
+        "answer_sanitized": "1 x 10^-7"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 equation is w² + x² + y² + z² = 36; the four coordinate choices and answer match.",
+      "before": {
+        "question": "A hypersphere is described by a set of points such that w x y 2 = 36. z Which of the following statements is NOT true?<br>W) (1, 2, 3, 1) lies inside the hypersphere<br>X) (1, 5, 5, 1) lies outside the hypersphere<br>Y) (3, 3, 3, 3) lies on the hypersphere<br>Z) (1, 2, 5, 1) lies outside the hypersphere"
+      },
+      "changes": {
+        "question": "A hypersphere is described by a set of points such that w<sup>2</sup> + x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> = 36. Which of the following statements is NOT true?<br>W) (1, 2, 3, 1) lies inside the hypersphere<br>X) (1, 5, 5, 1) lies outside the hypersphere<br>Y) (3, 3, 3, 3) lies on the hypersphere<br>Z) (1, 2, 5, 1) lies outside the hypersphere",
+        "question_sanitized": "A hypersphere is described by a set of points such that w^2 + x^2 + y^2 + z^2 = 36. Which of the following statements is NOT true? W) (1, 2, 3, 1) lies inside the hypersphere X) (1, 5, 5, 1) lies outside the hypersphere Y) (3, 3, 3, 3) lies on the hypersphere Z) (1, 2, 5, 1) lies outside the hypersphere"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “EARTH AND SPACE Multiple Choice Which of the following is the most abundant sediment”; answer X) TERRIGENOUS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “CHEMISTRY Multiple Choice What is the hybridization of the central oxygen atom in water?”; answer Y) sp<sup>3</sup> agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “BIOLOGY Short Answer The extracellular matrix protein, collagen, is composed of”; answer 3 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Source p. 13 prints “PHYSICS Multiple Choice If a light ray passes from air (n = 1.00) to acetone (n = 1.36),”; answer Z) THERE IS NO TOTAL INTERNAL REFLECTION agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “BIOLOGY Multiple Choice During DNA replication, which of the following enzymes is”; answer X) DNA PRIMASE: CREATES DNA PRIMER TO START REPLICATION agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Source p. 1 prints “CHEMISTRY Short Answer If the pK a of a weak acid is 4.74, what is the pK b of its conjugate”; answer 9.26 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints the nth-term exponent on (−1), followed by /n; read-as cue states “negative 1 to the nth power, divided by n.”",
+      "before": {
+        "parts": [
+          "The series with n term [negative 1 to the nth power, divided by n] is which of the following?<br>W) Divergent and unbounded<br>X) Divergent and bounded from above only<br>Y) Divergent and bounded<br>Z) Convergent and bounded"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The series with nth term (−1)<sup>n</sup>/n [negative 1 to the nth power, divided by n] is which of the following?<br>W) Divergent and unbounded<br>X) Divergent and bounded from above only<br>Y) Divergent and bounded<br>Z) Convergent and bounded"
+        ],
+        "parts_sanitized": [
+          "The series with nth term (-1)^n/n [negative 1 to the nth power, divided by n] is which of the following? W) Divergent and unbounded X) Divergent and bounded from above only Y) Divergent and bounded Z) Convergent and bounded"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Source p. 2 prints “ENERGY Short Answer Rank the following four fuels in terms of carbon dioxide intensity,”; answer 4, 3, 2, 1 (ACCEPT: BIOMASS, ETHANOL, NATURAL GAS, COAL) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “EARTH AND SPACE Multiple Choice Which of the following natural phenomena are”; answer W) EAST PACIFIC OCEAN HURRICANE SEASON agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Source p. 3 prints “CHEMISTRY Short Answer When a certain powder is mixed into a solution of silver nitrate, a”; answer AMMONIUM CHLORIDE (ACCEPT: FLUORIDE, BROMIDE, OR IODIDE IN PLACE OF CHLORIDE) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “BIOLOGY Short Answer Beta-lactams, the class of antibiotics to which penicillin belongs,”; answer CELL WALL agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Source p. 4 prints “PHYSICS Multiple Choice Two balls are thrown perfectly horizontally off a cliff on Mars,”; answer Z) THE EXACT RELATIONSHIP CANNOT BE DETERMINED WITHOUT KNOWING THE HEIGHT OF THE CLIFF agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 equation is x³ + 3y² = 4 at (1, 1), with four slope choices; extraction dropped terms/position.",
+      "before": {
+        "parts": [
+          "A curve is given by the equation: x What is the slope of the (1, 1)? tangent line at the point with coordinates<br>W) -2<br>X) -1/2<br>Y) 1/2<br>Z) 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A curve is given by the equation: x<sup>3</sup> + 3y<sup>2</sup> = 4. What is the slope of the tangent line at the point with coordinates (1, 1)?<br>W) -2<br>X) -1/2<br>Y) 1/2<br>Z) 2"
+        ],
+        "parts_sanitized": [
+          "A curve is given by the equation: x^3 + 3y^2 = 4. What is the slope of the tangent line at the point with coordinates (1, 1)? W) -2 X) -1/2 Y) 1/2 Z) 2"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Source p. 5 prints “ENERGY Short Answer The three ways to protect yourself from radiation are time,”; answer DISTANCE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 prints “EARTH AND SPACE Short Answer What law mathematically expresses the amount of”; answer STEFAN-BOLTZMANN (ACCEPT: STEFAN’S LAW) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Source p. 6 prints “CHEMISTRY Short Answer What is the pH of a 0.001 molar solution of hydrochloric acid?”; answer 3 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “BIOLOGY Short Answer In adult humans, how many bones articulate with the occipital”; answer 6 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Source p. 7 prints “PHYSICS Multiple Choice You sit on a pier and look straight down into the pond below. The”; answer Z) 6.7 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 shows x² + y² = 34, dx/dt = 5 and asks dy/dt at x = 3; extraction lost both equations.",
+      "before": {
+        "parts": [
+          "Given: x y in the first quadrant and find when x = dt dt"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given: x<sup>2</sup> + y<sup>2</sup> = 34 in the first quadrant and dx/dt = 5, find dy/dt when x = 3."
+        ],
+        "parts_sanitized": [
+          "Given: x^2 + y^2 = 34 in the first quadrant and dx/dt = 5, find dy/dt when x = 3."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Source p. 8 prints “ENERGY Multiple Choice Which of the following does NOT increase line losses from so-”; answer Z) LATITUDE agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Source p. 9 prints magnetic quantum number m with subscript l; all four answer choices match.",
+      "before": {
+        "parts": [
+          "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m ? l<br>W) -1<br>X) 0<br>Y) 2<br>Z) 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m<sub>l</sub>?<br>W) -1<br>X) 0<br>Y) 2<br>Z) 3"
+        ],
+        "parts_sanitized": [
+          "For a d orbital, which of the following is NOT an allowed value for the magnetic quantum number m_l? W) -1 X) 0 Y) 2 Z) 3"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 prints “BIOLOGY Multiple Choice The helix-turn-helix motif is characteristic of a large group of”; answer Y) DNA BINDING agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Source p. 10 shows 3 × 10⁻⁷ meters and options with 1.5/4.5 × 10⁻⁶; extraction split the negative exponents.",
+      "before": {
+        "parts": [
+          "A light wave travels a distance of 3 × 10 meters in a medium of ≈ 1.5. How much time refractive index n does this trip take? -6<br>W) 1.5 × 10 nanoseconds -6<br>X) 4.5 × 10 nanoseconds -6<br>Y) 1.5 × 10 seconds -6<br>Z) 4.5 × 10 seconds -6"
+        ],
+        "options": [
+          "W) 1.5 × 10 nanoseconds -6",
+          "X) 4.5 × 10 nanoseconds -6",
+          "Y) 1.5 × 10 seconds -6",
+          "Z) 4.5 × 10 seconds -6"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A light wave travels a distance of 3 × 10<sup>−7</sup> meters in a medium of refractive index n ≈ 1.5. How much time does this trip take?<br>W) 1.5 × 10<sup>−6</sup> nanoseconds<br>X) 4.5 × 10<sup>−6</sup> nanoseconds<br>Y) 1.5 × 10<sup>−6</sup> seconds<br>Z) 4.5 × 10<sup>−6</sup> seconds"
+        ],
+        "options": [
+          "W) 1.5 × 10<sup>−6</sup> nanoseconds",
+          "X) 4.5 × 10<sup>−6</sup> nanoseconds",
+          "Y) 1.5 × 10<sup>−6</sup> seconds",
+          "Z) 4.5 × 10<sup>−6</sup> seconds"
+        ],
+        "parts_sanitized": [
+          "A light wave travels a distance of 3 x 10^-7 meters in a medium of refractive index n ≈ 1.5. How much time does this trip take? W) 1.5 x 10^-6 nanoseconds X) 4.5 x 10^-6 nanoseconds Y) 1.5 x 10^-6 seconds Z) 4.5 x 10^-6 seconds"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 answer is √6/4 − √2/4, accepting (√6−√2)/4; corpus lost radical bars/grouping.",
+      "before": {
+        "parts": [
+          "Evaluate sin15° [sine of 15 degrees]. √6 √2 √6−√2 −"
+        ],
+        "answers": [
+          "(ACCEPT: ) 4 4 4"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate sin15° [sine of 15 degrees]."
+        ],
+        "answers": [
+          "√6/4 − √2/4 (ACCEPT: (√6−√2)/4)"
+        ],
+        "parts_sanitized": [
+          "Evaluate sin15° [sine of 15 degrees]."
+        ],
+        "answers_sanitized": [
+          "sqrt(6)/4 - sqrt(2)/4 (ACCEPT: (sqrt(6)-sqrt(2))/4)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Source p. 11 prints “EARTH AND SPACE Multiple Choice Which of the following is true about the Antarctic ice”; answer X) IT IS OVER 4.2 KILOMETERS THICK IN SOME AREAS agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “CHEMISTRY Multiple Choice A system consists of two gases inside a piston. The two gases”; answer X) -100 agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Source p. 12 prints “BIOLOGY Short Answer Hemophilia A and Duchenne [duh-SHAYN] muscular dystrophy”; answer X-LINKED RECESSIVE (ACCEPT: SEX-LINKED RECESSIVE; DO NOT ACCEPT ALONE: X-LINKED, RECESSIVE) agrees with the record and displayed choices."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Source p. 13 prints “PHYSICS Multiple Choice In a science lab, a sphere rolls on a horizontal flat surface until it”; answer W) THE SPHERICAL SHAPE AND/OR FLAT SURFACE MUST NOT BE IDEAL AND THE SPHERE WILL STOP WHERE A DEFECT agrees with the record and displayed choices."
+    }
+  ],
+  "packetIssues": []
+}

@@ -1,0 +1,526 @@
+{
+  "packetIndex": 0,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF page 1 prints OH⁻ and H⁺ as separate ion charges; corpus had the plus sign displaced after ‘OH ions’.",
+      "before": {
+        "question": "An aqueous solution in which the concentration of OH ions is + greater than that of H ions is:<br>W) basic<br>X) acidic<br>Y) neutral<br>Z) in equilibrium"
+      },
+      "changes": {
+        "question": "An aqueous solution in which the concentration of OH<sup>-</sup> ions is greater than that of H<sup>+</sup> ions is:<br>W) basic<br>X) acidic<br>Y) neutral<br>Z) in equilibrium",
+        "question_sanitized": "An aqueous solution in which the concentration of OH^(-) ions is greater than that of H^(+) ions is:; W) basic; X) acidic; Y) neutral; Z) in equilibrium"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF page 2 asks which sound-wave property is associated with loudness and gives AMPLITUDE; wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF page 2 prints 2 angles summing to 90º and answer COMPLEMENTARY; wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF page 3 lists all four cloud-charge choices and marks X) positive, negative; corpus choices and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF page 3 asks about significant figures in 0.00750 and gives 3; wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF page 4 gives NORTH STAR, accepting POLARIS or ALPHA URSA MINORIS; corpus answer matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF page 4 lists epithelial, connective, nervous, and muscle and marks W) epithelial; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF page 5 asks about shared-electron bonding and gives COVALENT; wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF page 5 asks for the first spectacular electric discharge seen by humans and gives LIGHTNING; wording and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows (a^(b²))(a^b), under the stated conditions, with answer a^(b²+b); corpus flattened both expressions.",
+      "before": {
+        "question": "Simplify the following expression, where a is not equal to zero if b = 0 2 b b or if b = –1: ( a )( a ) 2 + b b",
+        "answer": "a"
+      },
+      "changes": {
+        "question": "Simplify the following expression, where a is not equal to zero if b = 0 or if b = −1: (a<sup>b<sup>2</sup></sup>)(a<sup>b</sup>)",
+        "answer": "a<sup>b<sup>2</sup> + b</sup>",
+        "question_sanitized": "Simplify the following expression, where a is not equal to zero if b = 0 or if b = −1: (a^(b^(2)))(a^(b))",
+        "answer_sanitized": "a^(b^(2) + b)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF page 6 lists slate, marble, basalt, sandstone and marks Z) sandstone; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF page 7 lists the four meanings of ‘lith’ and marks X) stone; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF page 8 asks for the number of embryonic seed leaves in a bean seedling and gives 2; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF page 8 lists cobalt, nickel, iron, titanium and marks Y) iron; corpus choices and answer match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF page 9 lists four dependencies of mass and marks the amount of matter; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF page 9 includes the complete lead-in asking for arc length in terms of π and inches; corpus omitted the opening instruction.",
+      "before": {
+        "question": "the arc-length of a semi-circle whose diameter is 18 inches?"
+      },
+      "changes": {
+        "question": "Giving your answer in terms of π and in inches, what is the arc-length of a semi-circle whose diameter is 18 inches?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF page 10 lists four descriptions of albedo and marks reflectivity; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF page 10 asks which gas causes decompression sickness and gives NITROGEN (accept N2); corpus preserves the subscript and accepted answer."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF page 11 asks for the north celestial pole declination and gives 90 (accept +90); corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF page 11 lists four likely plant traits and marks two cotyledons; corpus matches."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 prints the answer H₂S contiguously; the corpus had an extra space after the subscript tag.",
+      "before": {
+        "answer": "H<sub>2</sub> S"
+      },
+      "changes": {
+        "answer": "H<sub>2</sub>S",
+        "answer_sanitized": "H_2S"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF page 12 lists four directions for a released yo-yo and marks horizontal tangent motion; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF page 1 asks for the term for cellular engulfing via pseudopodia and gives PHAGOCYTOSIS; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF page 1 prints the formula Cu₂O without a space between the subscript and O; the corpus has an extra space after the subscript tag.",
+      "before": {
+        "parts": [
+          "Find the mass of 1 mole of cuprous oxide, or Cu<sub>2</sub> O. Assume the atomic mass of copper is 64 and oxygen is 16."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the mass of 1 mole of cuprous oxide, or Cu<sub>2</sub>O. Assume the atomic mass of copper is 64 and oxygen is 16."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF page 2 describes light bending/spreading around obstacles and gives DIFFRACTION; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows numerator 8 × 10⁷ over denominator (4 × 10⁴)^(1/2), and answer 4 × 10⁵.",
+      "before": {
+        "parts": [
+          "Divide the following and give your answer in scientific notation: × 7 8 10 1 × 4 ( 4 10 ) 2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Divide the following and give your answer in scientific notation:<br><span class=\"nsb-fraction\"><span>8 × 10<sup>7</sup></span><span>(4 × 10<sup>4</sup>)<sup>1/2</sup></span></span>"
+        ],
+        "parts_sanitized": [
+          "Divide the following and give your answer in scientific notation:; (8 × 10^7)/((4 × 10^4)^(1/2))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF page 3 gives 15 seconds between lightning and thunder, choices 3/6/9/15 miles, and answer W) 3; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF page 3 asks for 25.101 − 0.9608 with proper significant figures and gives 24.140; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF page 4 asks for the two basic lymphocyte categories and accepts T and B; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF page 5 asks which listed processes absorb latent heat and gives evaporation and water melts; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF page 5 lists four outcomes of constant force and marks constant acceleration; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 prints the answer 5√2 and accepts both sides as 5√2; corpus lost the radical glyph.",
+      "before": {
+        "answers": [
+          "5 2 (ACCEPT: BOTH 5 2 )"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "5√2 (ACCEPT: BOTH 5√2)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF page 6 lists the four mineral statements and marks Z, color is the same as streak; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF page 7 asks how far light travels in one-billionth second rounded to a whole foot and gives 1; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF page 8 lists wheat, geranium, garlic, bamboo, rose and answers GERANIUM; ROSE; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF page 8 asks which periodic-table group is relatively soft and accepts Group 1A or alkali metals; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF page 9 compares Mary near the center and Joe at the outer edge and marks Joe's greater acceleration; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF page 9 gives triangle height 20 feet, base 12 feet, and solution 120 ft²; corpus includes the superscript in its note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF page 10 lists equinox statements and marks the Moon-over-poles statement; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF page 10 asks for normal core temperature in Celsius to the nearest whole degree; corpus gives 37."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF page 11 asks which taxonomic categories are shared by organisms of the same class and gives phylum and kingdom; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF page 12 prints K⁺, Na⁺, Rb⁺, Li⁺ and answer Rb⁺ / Li⁺; corpus displaced charge signs.",
+      "before": {
+        "parts": [
+          "Of the following group of 4 cations, which are the LARGEST + + + + and SMALLEST ions, respectively: K ; Na ; Rb ; Li + +"
+        ],
+        "answers": [
+          "LARGEST = Rb ; SMALLEST = Li (ACCEPT: RUBIDIUM AND LITHIUM)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Of the following group of 4 cations, which are the LARGEST and SMALLEST ions, respectively: K<sup>+</sup>; Na<sup>+</sup>; Rb<sup>+</sup>; Li<sup>+</sup>"
+        ],
+        "answers": [
+          "LARGEST = Rb<sup>+</sup>; SMALLEST = Li<sup>+</sup> (ACCEPT: RUBIDIUM AND LITHIUM)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF page 12 asks for the tendency of mass at rest to remain at rest and gives INERTIA; corpus matches."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "PDF page 13 lists glycolysis, photosynthesis, glycogenolysis and gives PHOTOSYNTHESIS; corpus matches."
+    }
+  ],
+  "packetIssues": []
+}

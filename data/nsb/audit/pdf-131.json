@@ -1,0 +1,439 @@
+{
+  "packetIndex": 131,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 2 reads “What type of leukocytes, characterized by their CD4 receptors, secrete cytokines [sigh-toe-kines] that activat”; answer reads “HELPER T CELLS”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2 visibly prints f(x)=2x²+5x−3 with the 2 as a superscript. The stored prompt dropped that exponent; the answer is AT x = -5/4 and both alternatives are retained.",
+      "before": {
+        "question": "Where is the derivative of the function f(x) = 2x + 5x – 3 equal to zero?"
+      },
+      "changes": {
+        "question": "Where is the derivative of the function f(x) = 2x<sup>2</sup> + 5x − 3 equal to zero?",
+        "question_sanitized": "Where is the derivative of the function f(x) = 2x^2 + 5x - 3 equal to zero?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 4 reads “If the frequency of a wave is decreased, which of the following changes must occur for the wave to maintain a ”; choices are W) The period must decrease | X) The wavelength must increase | Y) The amplitude must increase | Z) The amplitude must decrease; answer reads “X) THE WAVELENGTH MUST INCREASE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 5 reads “What name is given to the thermodynamic state function equal to the sum of internal energy and the product of ”; answer reads “ENTHALPY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 6 reads “The electric potential at a point due to a unit positive charge is found to be V. If the distance between the ”; answer reads “V/4”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 8 reads “When a phylogenetic tree has the fewest number of evolutionary events possible, it is said to embody what prin”; answer reads “PARSIMONY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 9 reads “What is the SI unit commonly used to measure electrical resistance?”; answer reads “OHM”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 10 reads “If one side of a right triangle is 14 inches and its opposite angle is 30 degrees, what is the diameter of the”; answer reads “28”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 11 reads “Ceramic materials typically belong to what class of solid structure? W) Network solid X) Ionic solid Y) Molecu”; choices are W) Network solid | X) Ionic solid | Y) Molecular solid | Z) Metallic solid; answer reads “W) NETWORK SOLID”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “What is the name of the principle that states that an object, partly or completely, submerged in a fluid will ”; choices are W) Newton | X) Bernoulli | Y) Pascal | Z) Archimedes; answer reads “Z) ARCHIMEDES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 13 reads “What force is primarily responsible for the collapse of molecular clouds into stars?”; answer reads “GRAVITY”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7: PDF question 14 reads “In what quadrants does the graph of the equation y = -2x – 3 lie?”; answer reads “II, III, AND IV (ACCEPT: SECOND, THIRD, AND FOURTH OR ALL BUT FIRST)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 15 reads “Which of the following elemental substances is not at standard state? W) Diamond at 25 degrees Celsius and one”; choices are W) Diamond at 25 degrees Celsius and one atmosphere | X) Rhombic sulfur at 25 degrees Celsius and one atmosphere | Y) Gaseous dioxygen at 25 degrees Celsius and one atmosphere | Z) Gaseous neon at 25 degrees Celsius and one atmosphere; answer reads “W) DIAMOND AT 25 DEGREES CELSIUS AND ONE ATMOSPHERE”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “What neurotransmitter is released by motor neurons at the neuromuscular junction?”; answer reads “ACETYLCHOLINE [uh-see-tul-koe-leen]”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 17 reads “What is the name of the prediction in classical physics that incorrectly proposed that an ideal black body at ”; answer reads “ULTRAVIOLET CATASTROPHE (ACCEPT: RAYLEIGH-JEANS CATASTROPHE)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 18 reads “The lines in the visible region of the hydrogen spectrum are known as the: W) Balmer series X) Lyman series Y)”; choices are W) Balmer series | X) Lyman series | Y) Paschen series | Z) Bohr series; answer reads “W) BALMER SERIES”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 21 reads “If f(x) equals the cube root of open parenthesis x + 8 close parenthesis, what is f inverse of 6?”; answer reads “208”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 22 reads “What laboratory instrument, containing gradations that increase from top to bottom, is used to deliver precise”; answer reads “BURETTE (ACCEPT: BURET)”."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12 prints 2.50 × 10¹⁷ photons per second and answer 4 × 10⁻¹⁹ joules; the stored prompt exponent was split into the answer and the answer was interleaved into the prompt.",
+      "before": {
+        "question": "A 100 milliwatt laser delivers 2.50 × 10 photons per second. Expressing your",
+        "answer": "in scientific notation with one significant figure, how much energy in joules does each photon deliver? -19 4 × 10"
+      },
+      "changes": {
+        "question": "A 100 milliwatt laser delivers 2.50 × 10<sup>17</sup> photons per second. Expressing your answer in scientific notation with one significant figure, how much energy in joules does each photon deliver?",
+        "question_sanitized": "A 100 milliwatt laser delivers 2.50 × 10^17 photons per second. Expressing your answer in scientific notation with one significant figure, how much energy in joules does each photon deliver?",
+        "answer": "4 × 10<sup>−19</sup>",
+        "answer_sanitized": "4 × 10^-19"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Page 1: PDF question 1 reads “You are traveling west by jet and cross three time zone boundaries. If your watch reads 3:00 p.m. when you arr”; choices are W) 12:00 noon | X) 6:00 p.m. | Y) 12:00 midnight | Z) 6:00 a.m.; answer reads “W) 12:00 NOON”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Page 2: PDF question 3 reads “If the line tangent to the graph of the function f(x) at the point (1, 3) passes through the point (-1.5, -2),”; answer reads “2”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3 gives the pronunciation as [stoh-kee-om-et-ree]; it is one continuous word split by line wrapping, not a space before “et-ree”. The displayed spelling “stochiometric” is preserved as printed.",
+      "before": {
+        "parts": [
+          "Which of the following statements regarding stoichiometry [stoh-kee-om- et-ree] is not true?<br>W) Calculating a stochiometric ratio of reagents assumes the reaction goes to completion<br>X) Volume ratios can be substituted for molar ratios in calculations for gas phase reactions<br>Y) Percent yield is the ratio of theoretical yield to empirical yield for a reaction<br>Z) Limiting reagent calculations require knowledge of the molar masses of all reactant species"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following statements regarding stoichiometry [stoh-kee-om-et-ree] is not true?<br>W) Calculating a stochiometric ratio of reagents assumes the reaction goes to completion<br>X) Volume ratios can be substituted for molar ratios in calculations for gas phase reactions<br>Y) Percent yield is the ratio of theoretical yield to empirical yield for a reaction<br>Z) Limiting reagent calculations require knowledge of the molar masses of all reactant species"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Page 3: PDF question 6 reads “Which of the following statements is not true regarding light? W) The energy of light increases as frequency i”; choices are W) The energy of light increases as frequency increases | X) Refraction occurs when a beam of light travels between mediums with different indices of refraction | Y) Light can be thought of as a self-propagating electromagnetic wave | Z) Diffraction arises due to the wave-like properties of light, but interference is due to the particle-like properties of light; answer reads “Z) DIFFRACTION ARISES DUE TO THE WAVE-LIKE PROPERTIES OF LIGHT, BUT INTERFERENCE IS DUE TO THE PARTICLE-LIKE PROPERTIES OF LIGHT”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Page 4: PDF question 8 reads “What phenomenon involves the injection of double-stranded RNAs turning off the expression of genes with the sa”; answer reads “RNA INTERFERENCE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5: PDF question 9 reads “What law in physical chemistry, important in reaction thermodynamics, states that the total enthalpy change of”; answer reads “HESS’S LAW”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Page 5 prints x(t)=2t³−15t²+24t−60 with exponents 3 and 2; the stored question dropped both exponents. The answer times t=1 and 4 matches.",
+      "before": {
+        "parts": [
+          "A particle’s position is defined by the equation x(t) = 2t – 15t + 24t – 60. At what times t is the particle at rest?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A particle’s position is defined by the equation x(t) = 2t<sup>3</sup> − 15t<sup>2</sup> + 24t − 60. At what times t is the particle at rest?"
+        ],
+        "parts_sanitized": [
+          "A particle’s position is defined by the equation x(t) = 2t^3 - 15t^2 + 24t - 60. At what times t is the particle at rest?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 11 reads “Consider the reaction of nitrogen dioxide with molecular oxygen to form dinitrogen pentoxide. If the rate of c”; answer reads “4”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Page 6: PDF question 12 reads “Which of the following statements is NOT true regarding a wheel rolling along a surface? W) If the wheel is ro”; choices are W) If the wheel is rolling smoothly, the only friction acting on it is static friction | X) When rolling down a ramp, the force of static friction on the wheel is directed down the ramp | Y) When rolling on a flat surface, the force of static friction on the wheel is directed in the opposite direction as the motion of the wheel | Z) For a wheel rolling down a ramp, the normal force is perpendicular to the ramp; answer reads “X) WHEN ROLLING DOWN A RAMP, THE FORCE OF STATIC FRICTION ON THE WHEEL IS DIRECTED DOWN THE RAMP”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Page 7 visibly prints numerator 6x²+4x−2 over denominator 12x²−4x; the corpus misplaced the exponents before the words and omitted the powers on x.",
+      "before": {
+        "parts": [
+          "Assuming x is a value for which the denominator is defined, simplify the fraction 2 2 with numerator 6x + 4x – 2 and denominator 12x – 4x."
+        ],
+        "answers": [
+          "(x +1)/(2x)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Assuming x is a value for which the denominator is defined, simplify the fraction with numerator 6x<sup>2</sup> + 4x − 2 and denominator 12x<sup>2</sup> − 4x."
+        ],
+        "parts_sanitized": [
+          "Assuming x is a value for which the denominator is defined, simplify the fraction with numerator 6x^2 + 4x - 2 and denominator 12x^2 - 4x."
+        ],
+        "answers": [
+          "(x + 1)/(2x)"
+        ],
+        "answers_sanitized": [
+          "(x + 1)/(2x)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 15 reads “Metallic sodium will react with water to form sodium hydroxide and hydrogen gas. What type of reaction is this”; choices are W) Synthesis | X) Decomposition | Y) Single displacement | Z) Double displacement; answer reads “Y) SINGLE DISPLACEMENT”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8: PDF question 16 reads “Which of the following is a monosaccharide? W) Sucrose X) Galactose [guh-lac-tohs] Y) Maltose Z) Lactose”; choices are W) Sucrose | X) Galactose [guh-lac-tohs] | Y) Maltose | Z) Lactose; answer reads “X) GALACTOSE”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 17 reads “What is the primary energy carrier that is synthesized in the Krebs Cycle and is one of the most common reduci”; answer reads “NADH OR NICOTINAMIDE ADENINE DINUCLEOTIDE (DO NOT ACCEPT: NAD+)”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Page 9: PDF question 18 reads “Color confinement refers to the inability to find what two particles in isolation?”; answer reads “QUARKS, GLUONS”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Page 10: PDF question 20 reads “A scientist isolates a small amount of DNA from a Tyrannosaur fossil. Which of the following would be most use”; choices are W) RFLP analysis | X) Polymerase chain reaction | Y) Southern blotting | Z) SDS-PAGE; answer reads “X) POLYMERASE CHAIN REACTION”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 21 reads “What is the sum of all the distinct prime factors of 15 factorial?”; answer reads “41”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Page 11: PDF question 22 reads “If you have 50 milliliters of a 0.75 molar solution of NaCl, how much water, in milliliters, should you add to”; answer reads “100”."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Page 12: PDF question 23 reads “Radiation dose equivalents are measured in what SI unit?”; answer reads “SIEVERTS”."
+    }
+  ],
+  "packetIssues": []
+}

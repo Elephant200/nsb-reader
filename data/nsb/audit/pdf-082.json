@@ -1,0 +1,567 @@
+{
+  "packetIndex": 82,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND1.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 1 by printed number and opening wording on Round 1 page 1; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 by printed number and opening wording on Round 1 page 1; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 by printed number and opening wording on Round 1 page 2; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 by printed number and opening wording on Round 1 page 2; checked the complete item against its source page image.",
+      "before": {
+        "question": "For all real numbers, the expression [the square root of the quantity x squared minus 4 x plus 4] equals which of the following?<br>W) x 2<br>X) x 2x + 2<br>Y) |x 2| [the absolute value of the quantity x minus 2]<br>Z) x + 2",
+        "options": [
+          "W) x 2",
+          "X) x 2x + 2",
+          "Y) |x 2| [the absolute value of the quantity x minus 2]",
+          "Z) x + 2"
+        ],
+        "answer": "Y) |x 2|"
+      },
+      "changes": {
+        "question": "For all real numbers, the expression √(x<sup>2</sup> − 4x + 4) [the square root of the quantity x squared minus 4 x plus 4] equals which of the following?<br>W) x − 2<br>X) x − 2x + 2<br>Y) |x − 2| [the absolute value of the quantity x minus 2]<br>Z) x + 2",
+        "question_sanitized": "For all real numbers, the expression sqrt(x^2 - 4x + 4) [the square root of the quantity x squared minus 4 x plus 4] equals which of the following?<br>W) x - 2<br>X) x - 2x + 2<br>Y) |x - 2| [the absolute value of the quantity x minus 2]<br>Z) x + 2",
+        "options": [
+          "W) x − 2",
+          "X) x − 2x + 2",
+          "Y) |x − 2| [the absolute value of the quantity x minus 2]",
+          "Z) x + 2"
+        ],
+        "answer": "Y) |x − 2|"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 by printed number and opening wording on Round 1 page 3; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 6 by printed number and opening wording on Round 1 page 3; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 by printed number and opening wording on Round 1 page 4; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 by printed number and opening wording on Round 1 page 4; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 by printed number and opening wording on Round 1 page 5; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 by printed number and opening wording on Round 1 page 5; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 by printed number and opening wording on Round 1 page 6; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 by printed number and opening wording on Round 1 page 6; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 13 by printed number and opening wording on Round 1 page 7; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched toss-up 14 by printed number and opening wording on Round 1 page 7; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 1 page 8; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 1 page 8; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 by printed number and opening wording on Round 1 page 9; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 18 by printed number and opening wording on Round 1 page 9; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 19 by printed number and opening wording on Round 1 page 10; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched toss-up 20 by printed number and opening wording on Round 1 page 10; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 1 page 11; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 by printed number and opening wording on Round 1 page 11; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 by printed number and opening wording on Round 1 page 12; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 24 by printed number and opening wording on Round 1 page 12; checked the complete item against its source page image."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched toss-up 25 by printed number and opening wording on Round 1 page 13; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 by printed number and opening wording on Round 1 page 1; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 by printed number and opening wording on Round 1 page 1; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 by printed number and opening wording on Round 1 page 2; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 by number and opening wording on Round 1 page 2; the source prints the squared term as a superscript in y = 2x² + 8x − 3.",
+      "before": {
+        "parts": [
+          "What are the coordinates of the vertex of the graph of y = 2x2 + 8x – 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the coordinates of the vertex of the graph of y = 2x<sup>2</sup> + 8x − 3?"
+        ],
+        "parts_sanitized": [
+          "What are the coordinates of the vertex of the graph of y = 2x^2 + 8x - 3?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 by printed number and opening wording on Round 1 page 3; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 by printed number and opening wording on Round 1 page 3; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 7 by printed number and opening wording on Round 1 page 4; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 by printed number and opening wording on Round 1 page 4; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 by printed number and opening wording on Round 1 page 5; checked the complete item against its source page image.",
+      "before": {
+        "parts": [
+          "Given c as 3 X 108 meters per second, what is the wavelength in meters to the nearest tenth of a radio wave with a frequency of 94.7 megahertz?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given c as 3 × 10<sup>8</sup> meters per second, what is the wavelength in meters to the nearest tenth of a radio wave with a frequency of 94.7 megahertz?"
+        ],
+        "parts_sanitized": [
+          "Given c as 3 × 10^8 meters per second, what is the wavelength in meters to the nearest tenth of a radio wave with a frequency of 94.7 megahertz?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 by printed number and opening wording on Round 1 page 5; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 by printed number and opening wording on Round 1 page 6; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 12 by printed number and opening wording on Round 1 page 6; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 by printed number and opening wording on Round 1 page 7; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 14 by printed number and opening wording on Round 1 page 7; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 15 by printed number and opening wording on Round 1 page 8; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 by printed number and opening wording on Round 1 page 8; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 17 by printed number and opening wording on Round 1 page 9; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 by printed number and opening wording on Round 1 page 9; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 by printed number and opening wording on Round 1 page 10; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 by printed number and opening wording on Round 1 page 10; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 by printed number and opening wording on Round 1 page 11; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered Round 1 page 11 shows f(x)=10^(x+2), matching the printed spoken cue; restored the grouped exponent while retaining all four point choices.",
+      "before": {
+        "parts": [
+          "Which of the following points is on the graph of the inverse of the function f(x) = 10x + 2 [f of x equals 10 to the power of the quantity x plus 2]?<br>W) (100, 0)<br>X) (0, 100)<br>Y) (10, 0)<br>Z) (0, 10)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following points is on the graph of the inverse of the function f(x) = 10<sup>(x + 2)</sup> [f of x equals 10 to the power of the quantity x plus 2]?<br>W) (100, 0)<br>X) (0, 100)<br>Y) (10, 0)<br>Z) (0, 10)"
+        ],
+        "parts_sanitized": [
+          "Which of the following points is on the graph of the inverse of the function f(x) = 10^(x + 2) [f of x equals 10 to the power of the quantity x plus 2]?\nW) (100, 0)\nX) (0, 100)\nY) (10, 0)\nZ) (0, 10)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 by printed number and opening wording on Round 1 page 12; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 by printed number and opening wording on Round 1 page 12; checked the complete item against its source page image."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 by printed number and opening wording on Round 1 page 13; checked the complete item against its source page image."
+    }
+  ],
+  "packetIssues": []
+}

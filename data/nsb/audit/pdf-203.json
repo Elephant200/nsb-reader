@@ -1,0 +1,513 @@
+{
+  "packetIndex": 203,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-5A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source uses 1 − 3i in the prompt and −8 − 6i in the printed answer.",
+      "before": {
+        "question": "What is the square of the complex number 1 – 3i?",
+        "answer": "–8 – 6i"
+      },
+      "changes": {
+        "question": "What is the square of the complex number 1 − 3<i>i</i>?",
+        "question_sanitized": "What is the square of the complex number 1 − 3i?",
+        "answer": "−8 − 6i",
+        "answer_sanitized": "−8 − 6i"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: full source for ‘Biology – Short Answer What stain, performed with crystal violet dye, provides the most’ and printed answer ‘GRAM’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full source for ‘Earth and Space – Multiple Choice Which of the following surface reservoirs on Earth’ and printed answer ‘Z) OCEAN’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full source for ‘Physics – Short Answer An astronaut weighs 500 newtons on planet X, which has a’ and printed answer ‘1500’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full source for ‘Chemistry – Short Answer What intermolecular force is responsible for the secondary’ and printed answer ‘HYDROGEN BONDING’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full source for ‘Physics – Multiple Choice A torque [tork] integrated over an angle describes which of the’ and printed answer ‘X) WORK’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full source for ‘Math – Short Answer If exactly 14 diagonals of a particular convex polygon contain the’ and printed answer ‘17’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source for ‘Earth and Space – Multiple Choice A waning gibbous [JIH-bus] moon describes which of’ and printed answer ‘X) FULL MOON TO THIRD QUARTER MOON’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source for ‘Energy – Short Answer Researchers at Ames Lab are developing a sub-diffraction Raman’ and printed answer ‘LIGHT (ACCEPT: ELECTROMAGNETIC WAVES, PHOTONS)’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full source for ‘Chemistry – Short Answer Rank the following three species in terms of increasing’ and printed answer ‘1, 3, 2’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full source for ‘Biology – Multiple Choice Which of the following plant hormones play a role in fruit’ and printed answer ‘W) GIBBERELLINS’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full source for ‘Physics – Short Answer The mass of an oscillator [AWS-ih-later] is doubled. Identify all’ and printed answer ‘1, 3’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full source for ‘Chemistry – Short Answer What gas law implies that the volume of an ideal gas is’ and printed answer ‘CHARLES’S LAW’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source for ‘Earth and Space – Short Answer What is the name of the climate phenomenon in which’ and printed answer ‘EL NIÑO (DO NOT ACCEPT: LA NIÑA)’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source for ‘Biology – Multiple Choice Which of the following types of signaling best describes’ and printed answer ‘X) ENDOCRINE’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full source for ‘Math – Short Answer Solve the following equation for x: log base 2 of’ and printed answer ‘27’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full source for ‘Energy – Multiple Choice Research from the Pacific Northwest National Lab indicates’ and printed answer ‘X) CARBON STARVATION AND HYDRAULIC FAILURE’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full source for ‘Earth and Space – Short Answer What is the boundary between an isolated volume of’ and printed answer ‘EVENT HORIZON’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full source for ‘Chemistry – Short Answer Sodium metal is produced by the electrolysis of sodium’ and printed answer ‘DOWNS CELL’ checked, including every option and note."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: source formula is f(x) = 4x² − x + 3; the printed value is f(−2), and answer 21.",
+      "before": {
+        "question": "If f of x equals 4x 2 – x + 3, what is f of –2?"
+      },
+      "changes": {
+        "question": "If <i>f</i> of <i>x</i> equals 4<i>x</i><sup>2</sup> − <i>x</i> + 3, what is <i>f</i> of −2?",
+        "question_sanitized": "If f of x equals 4x² − x + 3, what is f of −2?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: full source for ‘Physics – Short Answer A Leyden [LAY-den] jar, which has a layer of metal coating the’ and printed answer ‘CAPACITOR’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: full source for ‘Math – Multiple Choice A differentiable function f of x has domain the closed interval from’ and printed answer ‘Z) 12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "p. 1: source prints ‘a cell's genome’; answer TRANSPOSONS (ACCEPT: JUMPING GENE) matches.",
+      "before": {
+        "parts": [
+          "What is the term for mobile genetic elements that can move from one location to another in a cell&amp;apos;s genome?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the term for mobile genetic elements that can move from one location to another in a cell's genome?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full source for ‘Earth and Space – Multiple Choice Which of the following pairs of metamorphic rocks can’ and printed answer ‘W) SLATE AND PHYLLITE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "p. 2: full source for ‘Physics – Short Answer Jan heats a kilogram of an unknown solid at a rate of 25 kilojoules’ and printed answer ‘37.5 (ACCEPT: 37½, 75/2) 2019 Regional Science Bowl – Round 5A Page 2’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full source for ‘Chemistry – Short Answer Rank the following three straight-chained alkanes in increasing’ and printed answer ‘3, 1, 2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "p. 3: full source for ‘Energy – Short Answer Chemists at SLAC National Lab have developed a copper catalyst’ and printed answer ‘3 2019 Regional Science Bowl – Round 5A Page 3’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: full source for ‘Physics – Short Answer Consider a box containing an unknown number of charges with’ and printed answer ‘2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "p. 4: the denominator is 5ⁿ (the n is raised); preserve the complete spoken summation/fraction wording and answer 10.",
+      "before": {
+        "parts": [
+          "Evaluate the summation, from n = 1 to infinity, of the fraction with numerator 40 and denominator 5 n ."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate the summation, from <i>n</i> = 1 to infinity, of the fraction with numerator 40 and denominator 5<sup>n</sup>."
+        ],
+        "parts_sanitized": [
+          "Evaluate the summation, from n = 1 to infinity, of the fraction with numerator 40 and denominator 5ⁿ."
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source for ‘Earth and Space – Short Answer Telescope A has 2 times the light gathering power of’ and printed answer ‘√2 (ACCEPT: √2 TO ONE) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "p. 5: full source for ‘Energy – Short Answer The DES at Fermi National Accelerator Lab is studying the’ and printed answer ‘DARK ENERGY 2019 Regional Science Bowl – Round 5A Page 5’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full source for ‘Chemistry – Short Answer 2-methylpropene can react with hydrogen bromide to form’ and printed answer ‘1, 2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "p. 6: full source for ‘Biology – Short Answer Identify all of the following three substances that are able to pass’ and printed answer ‘2 2019 Regional Science Bowl – Round 5A Page 6’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: the permeability is printed as 1.26 × 10⁻⁶ in SI base units; all remaining prompt wording and answer 2 match.",
+      "before": {
+        "parts": [
+          "The permeability of free space is 1.26×10 -6 when expressed in SI base units. If a current of 10 amperes flows through a wire, then to the nearest whole microtesla, what is the strength of the induced magnetic field 1 meter from the wire?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The permeability of free space is 1.26 × 10<sup>−6</sup> when expressed in SI base units. If a current of 10 amperes flows through a wire, then to the nearest whole microtesla, what is the strength of the induced magnetic field 1 meter from the wire?"
+        ],
+        "parts_sanitized": [
+          "The permeability of free space is 1.26 × 10⁻⁶ when expressed in SI base units. If a current of 10 amperes flows through a wire, then to the nearest whole microtesla, what is the strength of the induced magnetic field 1 meter from the wire?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "p. 7: full source for ‘Chemistry – Short Answer Identify all of the following three nuclides that are likely to’ and printed answer ‘1 2019 Regional Science Bowl – Round 5A Page 7’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source for ‘Earth and Space – Short Answer A slab of oceanic lithosphere is subducting at a rate of’ and printed answer ‘40 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "p. 8: full source for ‘Biology – Short Answer Identify all of the following three conditions that apply to a’ and printed answer ‘3 2019 Regional Science Bowl – Round 5A Page 8’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full source for ‘Math – Short Answer An isosceles trapezoid with integer side lengths has bases of length’ and printed answer ‘9 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "p. 9: full source for ‘Energy – Multiple Choice Fermi National Lab scientists demonstrated the accuracy of’ and printed answer ‘W) COLOR CONFINEMENT 2019 Regional Science Bowl – Round 5A Page 9’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full source for ‘Earth and Space – Short Answer What name is given to the regions of the asteroid belt’ and printed answer ‘KIRKWOOD GAPS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "p. 10: full source for ‘Chemistry – Short Answer What is the oxidation state of oxygen in hydrogen peroxide?’ and printed answer ‘NEGATIVE ONE 2019 Regional Science Bowl – Round 5A Page 10’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full source for ‘Math – Short Answer An airplane is traveling at 380 miles per hour with respect to the’ and printed answer ‘1.6 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "p. 11: full source for ‘Biology – Short Answer Based on modern taxonomy, how many domains of life are’ and printed answer ‘3 2019 Regional Science Bowl – Round 5A Page 11’ checked, including every option and note."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "p. 12: source prints 8.9 × 10⁻¹² and 8 × 10⁻¹¹; pronunciation cue is [FAIR-adz] across a line wrap, and answer 9.",
+      "before": {
+        "parts": [
+          "Given that the electric constant is 8.9 times 10 –12 farads [FAIR- adz] per meter and a charge of 8 times 10 –11 coulombs is at the center of a spherical surface, then, to the nearest volt-meter, what is the electric flux that passes through the surface?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Given that the electric constant is 8.9 times 10<sup>−12</sup> farads [FAIR-adz] per meter and a charge of 8 times 10<sup>−11</sup> coulombs is at the center of a spherical surface, then, to the nearest volt-meter, what is the electric flux that passes through the surface?"
+        ],
+        "parts_sanitized": [
+          "Given that the electric constant is 8.9 times 10⁻¹² farads [FAIR-adz] per meter and a charge of 8 times 10⁻¹¹ coulombs is at the center of a spherical surface, then, to the nearest volt-meter, what is the electric flux that passes through the surface?"
+        ]
+      }
+    }
+  ],
+  "packetIssues": []
+}

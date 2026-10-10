@@ -1,0 +1,555 @@
+{
+  "packetIndex": 178,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_14A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 prints X) Cis-alkene [sis-al-KEEN without a closing bracket. It also prints the quinoline cue as [KWIN-oh-lin]. Add the missing bracket and restore the cue punctuation; the answer is X) CIS-ALKENE.",
+      "before": {
+        "question": "An alkyne [AL-kine] is added to a reaction vessel containing pressurized hydrogen gas and a catalyst consisting of palladium [pah-LAID-ee-um] poisoned by traces of lead(II) ions and quinoline [KWIN-oh- lin] . Which of the following is the major product of this reaction?<br>W) Alkane<br>X) Cis-alkene [sis-al-KEEN<br>Y) Trans-alkene<br>Z) Alcohol",
+        "options": [
+          "W) Alkane",
+          "X) Cis-alkene [sis-al-KEEN",
+          "Y) Trans-alkene",
+          "Z) Alcohol"
+        ]
+      },
+      "changes": {
+        "question": "An alkyne [AL-kine] is added to a reaction vessel containing pressurized hydrogen gas and a catalyst consisting of palladium [pah-LAID-ee-um] poisoned by traces of lead(II) ions and quinoline [KWIN-oh-lin]. Which of the following is the major product of this reaction?<br>W) Alkane<br>X) Cis-alkene [sis-al-KEEN]<br>Y) Trans-alkene<br>Z) Alcohol",
+        "options": [
+          "W) Alkane",
+          "X) Cis-alkene [sis-al-KEEN]",
+          "Y) Trans-alkene",
+          "Z) Alcohol"
+        ],
+        "question_sanitized": "An alkyne [AL-kine] is added to a reaction vessel containing pressurized hydrogen gas and a catalyst consisting of palladium [pah-LAID-ee-um] poisoned by traces of lead(II) ions and quinoline [KWIN-oh-lin]. Which of the following is the major product of this reaction? W) Alkane X) Cis-alkene [sis-al-KEEN] Y) Trans-alkene Z) Alcohol"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “What protein hormone, missing in obese mice with mutations in the ob [O.B.] gene, is responsible for cont” and answer “LEPTIN”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “Which of the following percentages is closest to the level of engine efficiency in a modern gasoline-burn” and answer “X) 25%”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “A Wheatstone Bridge is used to measure what property of electrical circuit components?” and answer “RESISTANCE”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “Given f inverse of x equals 2 – x, what is f(x)?” and answer “2 – x”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “What radioactive element was produced during nuclear-weapons testing in the mid 1900s and is commonly use” and answer “Z) TRITIUM”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Why is solar power underutilized in American households? W) It increases the price of a home by about 5-1” and answer “W) IT INCREASES THE PRICE OF A HOME BY ABOUT 5-10%”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Which of the following methods is LEAST helpful in identifying chiral [KYE-ruhl] isomers? W) X-ray diffra” and answer “X) QUADRUPOLE MASS SPECTROMETRY”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 prints “Kepler’s third law”; the import double-escaped the apostrophe. The four choices and answer X) ORBITAL PERIOD AND SEMI-MAJOR AXIS match the page.",
+      "before": {
+        "question": "Kepler&amp;apos;s third law of planetary motion relates what two parameters of the orbiting body?<br>W) Solar radiation and distance<br>X) Orbital period and semi-major axis<br>Y) Orbital eccentricity and solar mass<br>Z) Solar mass and mass of orbiting body"
+      },
+      "changes": {
+        "question": "Kepler&apos;s third law of planetary motion relates what two parameters of the orbiting body?<br>W) Solar radiation and distance<br>X) Orbital period and semi-major axis<br>Y) Orbital eccentricity and solar mass<br>Z) Solar mass and mass of orbiting body",
+        "question_sanitized": "Kepler’s third law of planetary motion relates what two parameters of the orbiting body? W) Solar radiation and distance X) Orbital period and semi-major axis Y) Orbital eccentricity and solar mass Z) Solar mass and mass of orbiting body"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “Consider a bag of 7 marbles, 5 red and 2 white. You draw marbles from the bag until you draw the last whi” and answer “1/21”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “The photoelectric effect reveals what property of photons? W) Wave-like nature X) Particle-like nature Y)” and answer “X) PARTICLE-LIKE NATURE”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “Identify all of the following three genera [JEN-er-ah] of bacteria that are Gram positive: 1) Escherichia” and answer “NONE”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “What is the absolute value of the complex conjugate of –4 + 5i?” and answer “√41”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 prints options 10⁻³⁴, 10⁻³⁵, 10⁻³⁶, 10⁻³⁷ and answer X) 10⁻³⁵. The imported exponent markup is corrupted; restore all four options and answer.",
+      "before": {
+        "question": "A 70-kilogram student is walking at 1 meter per second. Which of the following is closest to her de Broglie wavelength, in meters?<br>W) 10 -34<br>X) -35 <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span><br>Y) -36<br>Z) 10 -37",
+        "options": [
+          "W) 10 -34",
+          "X) -35 <span class=\"nsb-fraction\">&lt;span&gt;10</span>&lt;span&gt;10</span></span>",
+          "Y) -36",
+          "Z) 10 -37"
+        ],
+        "answer": "X) 10 -35"
+      },
+      "changes": {
+        "question": "A 70-kilogram student is walking at 1 meter per second. Which of the following is closest to her de Broglie wavelength, in meters?<br>W) 10<sup>−34</sup><br>X) 10<sup>−35</sup><br>Y) 10<sup>−36</sup><br>Z) 10<sup>−37</sup>",
+        "options": [
+          "W) 10<sup>−34</sup>",
+          "X) 10<sup>−35</sup>",
+          "Y) 10<sup>−36</sup>",
+          "Z) 10<sup>−37</sup>"
+        ],
+        "answer": "X) 10<sup>−35</sup>",
+        "question_sanitized": "A 70-kilogram student is walking at 1 meter per second. Which of the following is closest to her de Broglie wavelength, in meters? W) 10^-34 X) 10^-35 Y) 10^-36 Z) 10^-37",
+        "answer_sanitized": "X) 10^-35"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Porphyrin [POOR-feh-rin] is a chelating [KEY-lay-ting] ligand [LIH-gund] . How many bonds can it form to ” and answer “4”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “What second messenger is produced by adenylyl [ah-DEN-il-il] cyclase [SIGH-klayse] ?” and answer “CYCLIC AMP (ACCEPT: cAMP, CYCLIC ADENOSINE MONOPHOSPHATE)”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Researchers are using the Argonne Leadership Computing Facility to design and model peptide therapeutics.” and answer “X) THEY HAVE POOR SPECIFICITY”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “How many planes of cleavage does biotite possess?” and answer “ONE”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 prints the answer as 9 (ACCEPT: 10⁹). The imported answer flattened the exponent.",
+      "before": {
+        "answer": "9 (ACCEPT: 10 9 )"
+      },
+      "changes": {
+        "answer": "9 (ACCEPT: 10<sup>9</sup>)",
+        "answer_sanitized": "9 (ACCEPT: 10^9)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “Which of the following is not a unit used by oceanographers to describe sea water salinity? W) Parts per ” and answer “X) SIEMEN”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “An octagon is dilated with scale factor 7/4. What is the ratio of the areas of the original octagon to th” and answer “16/49”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “What enzyme is the major regulation site of glycolysis [glye-KAWL-eh-sis] ?” and answer “PHOSPHOFRUCTOKINASE (ALSO ACCEPT: PFK, PFK-1)”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “If the ratio of the lengths of two pendulums is 1:4, what is the ratio of the frequency of the longer to ” and answer “1:2 (ACCEPT: ½, 0.5)”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “Identify all of the following three statements that are true concerning elimination reactions: 1) E2 is a” and answer “1”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 shows “When fasting, the liver will convert amino acids to glucose. What is the name of this process?” and answer “GLUCONEOGENESIS”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 shows “A family in Phoenix is considering installing a photovoltaic [photo-vawl-TAY-ik] system on their house. W” and answer “X) SOUTH-FACING AT 30 DEGREES”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Rendered PDF page 2 prints the complete answer “√2 (ACCEPT: √2 TO 1)” on one answer line; the import split “TO 1)” into a second answers element. Rejoin the full answer.",
+      "before": {
+        "answers": [
+          "TO 1)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "√2 (ACCEPT: √2 TO 1)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “A triangle with integer side lengths has longest side that is 4 times as long as a second side, and the t” and answer “50”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered PDF page 3 shows “The key glacier structure formed through annual layering of ice through cycles of melting and snowfall is” and answer “X) PRIMARY STRATIFICATION”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Nanolithography is a current research interest at Lawrence Livermore National Lab. Which of the following” and answer “Z) FABRICATING STRUCTURES SMALLER THAN 100 NANOMETERS”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Rendered PDF page 4 shows “Identify all of the following three statements that are true of a mixture of 96% ethanol and 4% water: 1)” and answer “3”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “Magnetite, pyrite, and galena are mineral examples of which of the following crystal system types? W) Tet” and answer “X) CUBIC”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Rendered PDF page 5 shows “For the arithmetic sequence with first term 7 and fourth term 19, what is the sum of the first 50 terms?” and answer “5250”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “In quantum mechanics, the operator for momentum is represented by a derivative with respect to what quant” and answer “POSITION”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Rendered PDF page 6 shows “Identify the ploidy level for the following three plant life stages: 1) Sporophyte; 2) Gametophyte; 3) Sp” and answer “1) DIPLOID, 2) HAPLOID, 3) HAPLOID”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 prints x⁶ − 81 in the numerator and x³ − 9 in the denominator. The import flattened the exponents; preserve its complete verbalized fraction reading.",
+      "before": {
+        "parts": [
+          "What is the limit as x approaches 3 of the fraction with numerator x 6 – 81 and denominator x 3 – 9?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the limit as x approaches 3 of the fraction with numerator x<sup>6</sup> − 81 and denominator x<sup>3</sup> − 9?"
+        ],
+        "parts_sanitized": [
+          "What is the limit as x approaches 3 of the fraction with numerator x^6 − 81 and denominator x^3 − 9?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered PDF page 7 shows “Einstein won the Nobel Prize in Physics for his description of what phenomenon?” and answer “PHOTOELECTRIC EFFECT”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “Rank the following four compounds in terms of increasing net dipole moment: 1) Carbon dioxide; 2) Hydroge” and answer “1, 4, 2, 3”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Rendered PDF page 8 shows “In a signalling pathway, a certain step requires the removal of a phosphate group from a protein. What ge” and answer “PHOSPHATASE”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Researchers at Lawrence Livermore National Lab are studying the conditions under which planet formation o” and answer “W) DETERMINING THE MELTING POINT OF SILICA AT GIGAPASCAL PRESSURES”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered PDF page 9 shows “Water-saturated surfaces can behave like liquids during earthquakes. What is the term for this phenomenon” and answer “LIQUEFACTION”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “How many unpaired electrons does high-spin open bracket CoF 6 close bracket to the 3 negative have?” and answer “4”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered PDF page 10 shows “Prometheus and Pan both create gaps in Saturn’s rings due to their gravitational influence. What is the t” and answer “SHEPHERD”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “Other than 2, what is the smallest positive integer that, when divided by 3, 5, 7, or 9, has a remainder ” and answer “317”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Rendered PDF page 11 shows “In glycolysis [glye-KAWL-eh-sis] , what enzyme catalyzes the initial phosphorylation [faws-four-il-AY-shu” and answer “HEXOKINASE (ACCEPT: GLUCOKINASE)”; compared the complete prompt, choices if present, and answer to the page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered PDF page 12 shows “Radiation from a hypothetical blue dwarf is peaked at a wavelength of 250 nanometers. A spaceship travell” and answer “500”; compared the complete prompt, choices if present, and answer to the page."
+    }
+  ],
+  "packetIssues": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered PDF page 1 itself prints X) Cis-alkene [sis-al-KEEN with no closing bracket. The reviewed correction adds the mechanically missing closing bracket to complete the pronunciation cue."
+    }
+  ]
+}

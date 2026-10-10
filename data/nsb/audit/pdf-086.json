@@ -1,0 +1,515 @@
+{
+  "packetIndex": 86,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND5.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Rendered page 1 shows (x−3) cubed multiplied by (x−7) to the fourth; restored both superscripts and retained the printed spoken-reading cue.",
+      "before": {
+        "question": "What is the degree of the polynomial: (x – 3)3 (x – 7)4 [open parenthesis x minus 3 close parenthesis cubed times open parenthesis x minus 7 close parenthesis to the power of 4]?"
+      },
+      "changes": {
+        "question": "What is the degree of the polynomial: (x – 3)<sup>3</sup>(x – 7)<sup>4</sup> [open parenthesis x minus 3 close parenthesis cubed times open parenthesis x minus 7 close parenthesis to the power of 4]?",
+        "question_sanitized": "What is the degree of the polynomial: (x - 3)^3(x - 7)^4 [open parenthesis x minus 3 close parenthesis cubed times open parenthesis x minus 7 close parenthesis to the power of 4]?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched toss-up 2 to Round 5 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 3 to Round 5 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched toss-up 4 to Round 5 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched toss-up 5 to Round 5 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "corrected",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Rendered page 3 distinguishes cos x and sin x from cos(x²) and sin(x²); restored the squared arguments and option spacing.",
+      "before": {
+        "question": "Which of the following is NOT an even function?<br>W) cosx<br>X) cos(x2)<br>Y) sinx<br>Z) sin(x2)",
+        "options": [
+          "W) cosx",
+          "X) cos(x2)",
+          "Y) sinx",
+          "Z) sin(x2)"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is NOT an even function?<br>W) cos x<br>X) cos(x<sup>2</sup>)<br>Y) sin x<br>Z) sin(x<sup>2</sup>)",
+        "options": [
+          "W) cos x",
+          "X) cos(x<sup>2</sup>)",
+          "Y) sin x",
+          "Z) sin(x<sup>2</sup>)"
+        ],
+        "question_sanitized": "Which of the following is NOT an even function?\nW) cos x\nX) cos(x^2)\nY) sin x\nZ) sin(x^2)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 6,
+      "number": 7,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 7 to Round 5 page 4 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched toss-up 8 to Round 5 page 4 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 9 to Round 5 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched toss-up 10 to Round 5 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 11 to Round 5 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched toss-up 12 to Round 5 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered page 7 shows x squared in the quadratic; restored the superscript.",
+      "before": {
+        "question": "What are the solutions to x2 – 5x + 6 = 0?"
+      },
+      "changes": {
+        "question": "What are the solutions to x<sup>2</sup> – 5x + 6 = 0?",
+        "question_sanitized": "What are the solutions to x^2 – 5x + 6 = 0?"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched toss-up 16 to Round 5 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched toss-up 17 to Round 5 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered page 10 prints the accepted formula CO₂; corrected the flattened spacing and added a readable sanitized form.",
+      "before": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO 2 )"
+      },
+      "changes": {
+        "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)",
+        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO₂)"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Rendered page 10 answer is 7π/3; the corpus answer omitted π.",
+      "before": {
+        "answer": "7 /3"
+      },
+      "changes": {
+        "answer": "7π/3"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched toss-up 22 to Round 5 page 11 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched toss-up 23 to Round 5 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Rendered page 12 shows Ag⁺, Cu, Ag, and Cu²⁺ with a reaction arrow; restored the ionic charges and arrow while retaining the prompt wording.",
+      "before": {
+        "question": "In the balanced equation 2Ag+ + Cu [yields] 2Ag + Cu2+, what is the reducing agent?"
+      },
+      "changes": {
+        "question": "In the balanced equation 2Ag<sup>+</sup> + Cu → 2Ag + Cu<sup>2+</sup>, what is the reducing agent?",
+        "question_sanitized": "In the balanced equation 2Ag+ + Cu -> 2Ag + Cu2+, what is the reducing agent?"
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 1 to Round 5 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "Matched bonus 2 to Round 5 page 1 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 3 to Round 5 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Matched bonus 4 to Round 5 page 2 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 5 to Round 5 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "Matched bonus 6 to Round 5 page 3 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Matched bonus 8 to Round 5 page 4 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 9 to Round 5 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Matched bonus 10 to Round 5 page 5 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 10,
+      "number": 11,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Matched bonus 11 to Round 5 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Matched bonus 13 to Round 5 page 7 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "Rendered page 7 shows y=√x in the part and radical expressions y=√(−(x+3)) and y=√(−x−3) in the answer. Replaced extraction omissions and preserved the accepted equivalent form.",
+      "before": {
+        "parts": [
+          "Find an equation of the graph that results from reflecting the graph of y= over the y-axis, and then shifting the graph 3 units to the left."
+        ],
+        "answers": [
+          "y = (ACCEPT: y = )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find an equation of the graph that results from reflecting the graph of y = √x over the y-axis, and then shifting the graph 3 units to the left."
+        ],
+        "parts_sanitized": [
+          "Find an equation of the graph that results from reflecting the graph of y = sqrt(x) over the y-axis, and then shifting the graph 3 units to the left."
+        ],
+        "answers": [
+          "y = √(-(x + 3)) (ACCEPT: y = √(-x - 3))"
+        ],
+        "answers_sanitized": [
+          "y = sqrt(-(x + 3)) (ACCEPT: y = sqrt(-x - 3))"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Matched bonus 16 to Round 5 page 8 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Rendered page 9 gives the speed of light as 3 × 10⁸ meters per second; restored the exponent.",
+      "before": {
+        "parts": [
+          "If a radio station broadcasts with a wavelength of 2.5 meters, what is the frequency of the radio station in megahertz, given the speed of light as 3 X 108 meters per second?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If a radio station broadcasts with a wavelength of 2.5 meters, what is the frequency of the radio station in megahertz, given the speed of light as 3 × 10<sup>8</sup> meters per second?"
+        ],
+        "parts_sanitized": [
+          "If a radio station broadcasts with a wavelength of 2.5 meters, what is the frequency of the radio station in megahertz, given the speed of light as 3 × 10^8 meters per second?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Matched bonus 18 to Round 5 page 9 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 19 to Round 5 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "Matched bonus 20 to Round 5 page 10 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 21 to Round 5 page 11 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Matched bonus 22 to Round 5 page 11 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 23 to Round 5 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 23,
+      "number": 24,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Matched bonus 24 to Round 5 page 12 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 24,
+      "number": 25,
+      "status": "verified",
+      "sourcePages": [
+        13
+      ],
+      "evidence": "Matched bonus 25 to Round 5 page 13 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+    }
+  ],
+  "packetIssues": []
+}

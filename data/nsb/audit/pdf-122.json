@@ -1,0 +1,505 @@
+{
+  "packetIndex": 122,
+  "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-9-A.pdf",
+  "entries": [
+    {
+      "kind": "tossups",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints The velocity of particles in the solar wind is closest to which of the following? W) 300 meters per second X) 3 kil with choices W–Z; all options and key Z) 300 KILOMETERS PER SECOND match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints In a particular bird population, individuals that lay too many or too few eggs are less likely to survive and repro with choices W–Z; all options and key X) STABILIZING SELECTION match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “How many 4-digit numbers contain the same digits as 2014?”; key 18 and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 visually shows ½ MV², ½ I omega², and their sum; choices and keyed Y match, with exponents absent from the corpus.",
+      "before": {
+        "question": "What would be the total kinetic energy of an object rolling down a ramp with no slippage?<br>W) ½ MV2 [half M-V squared]<br>X) ½ I omega2 [half I omega squared]<br>Y) ½ MV2 + ½ I omega2 [half M-V- squared plus half I omega squared]<br>Z) 0",
+        "answer": "Y) ½ MV2 + ½ I OMEGA2",
+        "options": [
+          "W) ½ MV2 [half M-V squared]",
+          "X) ½ I omega2 [half I omega squared]",
+          "Y) ½ MV2 + ½ I omega2 [half M-V- squared plus half I omega squared]",
+          "Z) 0"
+        ]
+      },
+      "changes": {
+        "question": "What would be the total kinetic energy of an object rolling down a ramp with no slippage?<br>W) ½ MV<sup>2</sup> [half M-V squared]<br>X) ½ I omega<sup>2</sup> [half I omega squared]<br>Y) ½ MV<sup>2</sup> + ½ I omega<sup>2</sup> [half M-V- squared plus half I omega squared]<br>Z) 0",
+        "answer": "Y) ½ MV<sup>2</sup> + ½ I OMEGA<sup>2</sup>",
+        "options": [
+          "W) ½ MV<sup>2</sup> [half M-V squared]",
+          "X) ½ I omega<sup>2</sup> [half I omega squared]",
+          "Y) ½ MV<sup>2</sup> + ½ I omega<sup>2</sup> [half M-V- squared plus half I omega squared]",
+          "Z) 0"
+        ],
+        "question_sanitized": "What would be the total kinetic energy of an object rolling down a ramp with no slippage? W) ½ MV^2 [half M-V squared] X) ½ I omega^2 [half I omega squared] Y) ½ MV^2 + ½ I omega^2 [half M-V- squared plus half I omega squared] Z) 0",
+        "answer_sanitized": "Y) ½ MV^2 + ½ I OMEGA^2"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “What values in quantum systems are used to describe conserved quantities that tend to take on integer or half-integ”; key QUANTUM NUMBERS and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints Which of the following acts as a Lewis acid in the presence of water to form carbonic acid? W) Carbon dioxide X) Me with choices W–Z; all options and key W) CARBON DIOXIDE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints Which of the following is an isotope that has attracted recent interest in terms of developing a new generation of  with choices W–Z; all options and key X) THORIUM-232 match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “A basketball player makes 6 baskets during a game, each worth 2 or 3 points. How many different possible values exi”; key SEVEN and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “Venturi tubes measure the speed of gas flow via application of what rule or principle of fluid dynamics?”; key BERNOULLI’S PRINCIPLE and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints “Rank, by name or number, the following three ionic compounds in terms of increasing lattice energy, from the lowest”; key 2, 3, 1 (ACCEPT: SODIUM CHLORIDE, SODIUM FLUORIDE, MAGNESIUM and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “What is the name of the type of curve that is formed when a piece of rope is hung between two points?”; key CATENARY CURVE (ACCEPT: FUNICULAR) and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints “A truck moving at 50 meters per second begins to brake, which applies a constant force of 1000 newtons to the truck”; key 20,000 and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints Which of the following is not a polymorph of silica? W) Cristobalite [kri-STOH-buh-lyt] X) Stishovite [STISH-uh-vyt with choices W–Z; all options and key Y) WADSLEYITE match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 prints The solubility of a gaseous solute in a liquid solvent is typically expressed in units of concentration. Which of t with choices W–Z; all options and key W) VOLUME OF THE LIQUID match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 16,
+      "number": 17,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints Which of the following animal respiratory pigments does not contain iron? W) Hemoglobin [HEE-muh-gloh-bin] X) Hemoe with choices W–Z; all options and key Z) HEMOCYANIN match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 17,
+      "number": 18,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "PDF p.9 prints In general, there are three types of compensation agreements for electricity generated using distributed generation with choices W–Z; all options and key W) RATE ALLOCATION match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints Which of the following is NOT true about geothermal gradients? W) The gradient beneath continent crust is less stee with choices W–Z; all options and key W) THE GRADIENT BENEATH CONTINENT CRUST IS LESS STEEP THAN match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “If the equations 2x + 8 = 4 and ax – 30 = -22 [two x plus eight equals four and a x minus thirty equals negative tw”; key -4 and listed text match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 shows CO₂ and H₂O; all four options and keyed W match.",
+      "before": {
+        "question": "What is the name of the enzyme that catalyzes the formation of bicarbonate and hydronium ions from CO2 and H2O [C-O two and H two O]?<br>W) Carbonic anhydrase [an-HY-drays]<br>X) Carbonic carboxylase [kahr-BOK-suh-layz]<br>Y) Carbonic decarboxylase<br>Z) Carbonic dehydrogenase [dee-HY-druh-juh-nays]"
+      },
+      "changes": {
+        "question": "What is the name of the enzyme that catalyzes the formation of bicarbonate and hydronium ions from CO<sub>2</sub> and H<sub>2</sub>O [C-O two and H two O]?<br>W) Carbonic anhydrase [an-HY-drays]<br>X) Carbonic carboxylase [kahr-BOK-suh-layz]<br>Y) Carbonic decarboxylase<br>Z) Carbonic dehydrogenase [dee-HY-druh-juh-nays]",
+        "question_sanitized": "What is the name of the enzyme that catalyzes the formation of bicarbonate and hydronium ions from CO2 and H2O [C-O two and H two O]? W) Carbonic anhydrase [an-HY-drays] X) Carbonic carboxylase [kahr-BOK-suh-layz] Y) Carbonic decarboxylase Z) Carbonic dehydrogenase [dee-HY-druh-juh-nays]"
+      }
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints The standard enthalpy and entropy of a hypothetical reaction are both positive. Assuming these values are constant  with choices W–Z; all options and key Y) SPONTANEOUS AT HIGH TEMPERATURES BUT NONSPONTANEOUS AT match."
+    },
+    {
+      "kind": "tossups",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints A gold leaf electroscope is negatively charged by touching it with a negatively charged conductor. You then bring a with choices W–Z; all options and key Y) THE LEAVES GET CLOSER TOGETHER match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 0,
+      "number": 1,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints Which of the following has a shale protolith? W) Quartzite X) Serpentinite [suhr-pen-TUH-nyt] Y) Gneiss [NYS] Z) Ga with choices W–Z; all options and key Y) GNEISS match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 1,
+      "number": 2,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "evidence": "PDF p.1 prints “Spongiform encephalopathies [en-sef-uh-LOP-uh-thees], such as scrapie [SKRAY-pee], mad cow disease, and kuru [KOO-r”; key PRIONS and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 2,
+      "number": 3,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “Convert 120 in base 10 to hexadecimal.”; key 78 and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 3,
+      "number": 4,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "evidence": "PDF p.2 prints “What general type of nuclear reactor generates more fissile [FIS-uhl] material than it consumes?”; key BREEDER REACTOR and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 4,
+      "number": 5,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “A cannonball is shot vertically upward from ground level with an initial speed of 100 meters per second. Approximat”; key 500 and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 5,
+      "number": 6,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "evidence": "PDF p.3 prints “Identify all of the following four compounds that would function as soluble electrolytes when added to water: 1) so”; key 1 AND 3 (ACCEPT: SODIUM CHLORIDE AND ACETIC ACID) and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 7,
+      "number": 8,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "evidence": "PDF p.4 prints “What is the efficiency of a Carnot engine transferring heat from a reservoir at 500 Kelvin to a cold reservoir at 2”; key 60% and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 8,
+      "number": 9,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 shows the question begins “In a universe…” with no leading period, and prints the area as (1/π)(1 + r)² with π = 2; answer 19 matches.",
+      "before": {
+        "parts": [
+          ". In a universe with strange and unforeseen geometric relationships, the area of a circle is given by 1 , [open parenthesis 1 plus r close parenthesis squared, divided by pi] with 2. In the universe described, what is the radius of a circle with an area of 200?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "In a universe with strange and unforeseen geometric relationships, the area of a circle is given by <span class=\"nsb-fraction\"><span>1</span><span>π</span></span> (1 + r)<sup>2</sup>, [open parenthesis 1 plus r close parenthesis squared, divided by pi] with π = 2. In the universe described, what is the radius of a circle with an area of 200?"
+        ],
+        "parts_sanitized": [
+          "In a universe with strange and unforeseen geometric relationships, the area of a circle is given by (1/pi) * (1 + r)^2, [open parenthesis 1 plus r close parenthesis squared, divided by pi] with pi = 2. In the universe described, what is the radius of a circle with an area of 200?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 9,
+      "number": 10,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF p.5 prints “How many total degrees of freedom does a diatomic gas have?”; key FIVE and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 11,
+      "number": 12,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "PDF p.6 prints iodide ion as I⁻ and iodine as I₂; corpus has a broken minus glyph and plain I2.",
+      "before": {
+        "answers": [
+          "IODIDE (ACCEPT: I ION; DO NOT ACCEPT: IODINE OR I2)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "IODIDE (ACCEPT: I⁻ ION; DO NOT ACCEPT: IODINE OR I₂)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 12,
+      "number": 13,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 shows x over 2 as a stacked fraction argument after sin, not a superscript; the read-as cue and keyed points 2 and 3 match y = 2 sin(x/2).",
+      "before": {
+        "parts": [
+          "Provide all of the following three points that lie on the graph of the function 2 sin [y equals 2 sine of the quantity x divided by two]: point 1 is (0, 2), point 2 is (π, 2), point 3 is (2π, 0)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Provide all of the following three points that lie on the graph of the function y = 2 sin <span class=\"nsb-fraction\"><span>x</span><span>2</span></span> [y equals 2 sine of the quantity x divided by two]: point 1 is (0, 2), point 2 is (π, 2), point 3 is (2π, 0)"
+        ],
+        "parts_sanitized": [
+          "Provide all of the following three points that lie on the graph of the function y = 2 sin(x/2) [y equals 2 sine of the quantity x divided by two]: point 1 is (0, 2), point 2 is (π, 2), point 3 is (2π, 0)"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 13,
+      "number": 14,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "evidence": "PDF p.7 prints Which of the following quarks does NOT have an electric charge of +2/3 [plus two-thirds]? W) Up X) Strange Y) Charm with choices W–Z; all options and key X) STRANGE match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 14,
+      "number": 15,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 shows H⁺ in the prompt and all four choices/key match.",
+      "before": {
+        "parts": [
+          "Clays such as kaolinite [KAY-uh-luh-nyt] form when H+ [H plus] ions combine with which of the following?<br>W) Sulfur compounds<br>X) Pre-existing minerals, such as feldspars<br>Y) Carbon dioxide<br>Z) Primordial water emitted directly from volcanic eruptions"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Clays such as kaolinite [KAY-uh-luh-nyt] form when H<sup>+</sup> [H plus] ions combine with which of the following?<br>W) Sulfur compounds<br>X) Pre-existing minerals, such as feldspars<br>Y) Carbon dioxide<br>Z) Primordial water emitted directly from volcanic eruptions"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 15,
+      "number": 16,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF p.8 shows O₂ [O two]; question and answer EIGHT match.",
+      "before": {
+        "parts": [
+          "How many moles of O2 [O two] are required to completely combust 1 mole of pentane?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many moles of O<sub>2</sub> [O two] are required to completely combust 1 mole of pentane?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 18,
+      "number": 19,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 prints “The blue color found in a blue schist [SHIST] rock occurs due to what mineral?”; key GLAUCOPHANE (ACCEPT: SODIC AMPHIBOLITE OR CROSSITE) and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 19,
+      "number": 20,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "evidence": "PDF p.10 visually prints 27^(6 − x) = 9^(x − 1); corpus lost both superscript boundaries.",
+      "before": {
+        "parts": [
+          "What value of x satisfies the equation 276-x = 9x-1 [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What value of x satisfies the equation 27<sup>6 - x</sup> = 9<sup>x - 1</sup> [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
+        ],
+        "parts_sanitized": [
+          "What value of x satisfies the equation 27^(6 - x) = 9^(x - 1) [27 to the power of quantity six minus x equals nine to the power of quantity x minus one]?"
+        ]
+      }
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 20,
+      "number": 21,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints Which of the following brain regions is incorrectly matched with its function? W) Medulla oblongata regulates breat with choices W–Z; all options and key Z) HIPPOCAMPUS ALLOWS TWO BRAIN HEMISPHERES TO COMMUNICATE match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 21,
+      "number": 22,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "evidence": "PDF p.11 prints “Identify all of the following three reactions that would result in a precipitate: 1) Addition of barium nitrate and”; key 1 (ACCEPT: ADDITION OF BARIUM NITRATE AND SODIUM SULFATE) and listed text match."
+    },
+    {
+      "kind": "bonuses",
+      "itemIndex": 22,
+      "number": 23,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "PDF p.12 prints “Indicate, by number, all of the following four particles that are acted upon by gravity: 1) electron; 2) photon; 3)”; key 1, 2, 3 AND 4 (ACCEPT: ALL OF THEM) and listed text match."
+    }
+  ],
+  "packetIssues": []
+}
