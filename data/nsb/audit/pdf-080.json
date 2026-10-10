@@ -194,16 +194,16 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 14 page 8; checked full text, choices, and notation against the PDF image.",
+      "evidence": "Source PDF page 8 prints x² + y² = 5²; the corpus lost the formula and derivative notation.",
       "before": {
         "question": "If x + y = 5 , find in terms of x and y in simplest form. dx -x",
         "answer": "y"
       },
       "changes": {
-        "question": "If x<sup>2</sup> + y<sup>2</sup> = 5<sup>2</sup>, find dy/dx in terms of x and y in simplest form.",
-        "question_sanitized": "If x^2 + y^2 = 5^2, find dy/dx in terms of x and y in simplest form.",
-        "answer": "<span class=\"nsb-fraction\"><span>−x</span><span>y</span></span>",
-        "answer_sanitized": "-x/y"
+        "question": "If x² + y² = 5², find dy/dx in terms of x and y in simplest form.",
+        "question_sanitized": "If x² + y² = 5², find dy/dx in terms of x and y in simplest form.",
+        "answer": "−x/y",
+        "answer_sanitized": "−x/y"
       }
     },
     {
@@ -254,7 +254,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 14 page 11; checked full text, choices, and notation against the PDF image.",
+      "evidence": "Source PDF page 11 prints four series with summation limits and fractions; the corpus badly flattened every series and the keyed answer.",
       "before": {
         "question": "Which of the following series converges? 1 ∞<br>W) n=1 n 0.5 1 ∞<br>X) n=1 n+1 n ∞<br>Y) n=1 e n n e ∞<br>Z) n=1 n n ∞",
         "options": [
@@ -266,16 +266,16 @@
         "answer": "Y) n=1 e n"
       },
       "changes": {
-        "question": "Which of the following series converges?<br>W) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n<sup>0.5</sup></span></span><br>X) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n + 1</span></span><br>Y) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>n</span><span>e<sup>n</sup></span></span><br>Z) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>e<sup>n</sup></span><span>n</span></span>",
-        "question_sanitized": "Which of the following series converges?<br>W) sum(n=1 to infinity) 1/(n^0.5)<br>X) sum(n=1 to infinity) 1/(n + 1)<br>Y) sum(n=1 to infinity) n/e^n<br>Z) sum(n=1 to infinity) e^n/n",
+        "question": "Which of the following series converges?<br>W) ∑<sub>n=1</sub><sup>∞</sup> 1/n⁰·⁵<br>X) ∑<sub>n=1</sub><sup>∞</sup> 1/(n + 1)<br>Y) ∑<sub>n=1</sub><sup>∞</sup> n/eⁿ<br>Z) ∑<sub>n=1</sub><sup>∞</sup> eⁿ/n",
+        "question_sanitized": "Which of the following series converges?\nW) ∑_(n=1)^(∞) 1/n⁰·⁵\nX) ∑_(n=1)^(∞) 1/(n + 1)\nY) ∑_(n=1)^(∞) n/eⁿ\nZ) ∑_(n=1)^(∞) eⁿ/n",
         "options": [
-          "W) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n<sup>0.5</sup></span></span>",
-          "X) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>1</span><span>n + 1</span></span>",
-          "Y) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>n</span><span>e<sup>n</sup></span></span>",
-          "Z) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>e<sup>n</sup></span><span>n</span></span>"
+          "W) ∑<sub>n=1</sub><sup>∞</sup> 1/n⁰·⁵",
+          "X) ∑<sub>n=1</sub><sup>∞</sup> 1/(n + 1)",
+          "Y) ∑<sub>n=1</sub><sup>∞</sup> n/eⁿ",
+          "Z) ∑<sub>n=1</sub><sup>∞</sup> eⁿ/n"
         ],
-        "answer": "Y) ∑<sub>n=1</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>n</span><span>e<sup>n</sup></span></span>",
-        "answer_sanitized": "Y) sum(n=1 to infinity) n/e^n"
+        "answer": "Y) ∑<sub>n=1</sub><sup>∞</sup> n/eⁿ",
+        "answer_sanitized": "Y) ∑_(n=1)^(∞) n/eⁿ"
       }
     },
     {
@@ -336,7 +336,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Matched bonus 2 by printed number and opening wording on Round 14 page 1; checked full text, choices, and notation against the PDF image.",
+      "evidence": "Source PDF page 1 prints f(x) = (eˣ + e⁻ˣ)/2; the corpus lost the full function formula.",
       "before": {
         "parts": [
           "Find all points of inflection and extrema, including type, of the function x x e + e f(x) = . 2"
@@ -344,10 +344,13 @@
       },
       "changes": {
         "parts": [
-          "Find all points of inflection and extrema, including type, of the function f(x) = <span class=\"nsb-fraction\"><span>e<sup>x</sup> + e<sup>−x</sup></span><span>2</span></span>."
+          "Find all points of inflection and extrema, including type, of the function f(x) = (eˣ + e⁻ˣ)/2."
         ],
         "parts_sanitized": [
-          "Find all points of inflection and extrema, including type, of the function f(x) = (e^x + e^-x)/2."
+          "Find all points of inflection and extrema, including type, of the function f(x) = (eˣ + e⁻ˣ)/2."
+        ],
+        "answers_sanitized": [
+          "RELATIVE MINIMUM (ACCEPT: MINIMUM) AT (0, 1) [DO NOT ACCEPT: (0, 1) ALONE]"
         ]
       }
     },
@@ -442,7 +445,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Matched bonus 10 by printed number and opening wording on Round 14 page 5; checked full text, choices, and notation against the PDF image.",
+      "evidence": "Source PDF page 5 prints f(x) = (3 + 2x)e⁻³ˣ and answer 3(6x + 5)e⁻³ˣ (ACCEPT: (18x + 15)e⁻³ˣ); the corpus lost exponent placement/signs.",
       "before": {
         "parts": [
           "Find the second derivative of the function f(x) = (3 + 2x)e . − 3x 3x"
@@ -453,16 +456,16 @@
       },
       "changes": {
         "parts": [
-          "Find the second derivative of the function f(x) = (3 + 2x)e<sup>3x</sup>."
+          "Find the second derivative of the function f(x) = (3 + 2x)e⁻³ˣ."
         ],
         "parts_sanitized": [
-          "Find the second derivative of the function f(x) = (3 + 2x)e^(3x)."
+          "Find the second derivative of the function f(x) = (3 + 2x)e⁻³ˣ."
         ],
         "answers": [
-          "3(6x + 5)e<sup>3x</sup> [ACCEPT: (18x + 15)e<sup>3x</sup>]"
+          "3(6x + 5)e⁻³ˣ (ACCEPT: (18x + 15)e⁻³ˣ)"
         ],
         "answers_sanitized": [
-          "3(6x + 5)e^(3x) [ACCEPT: (18x + 15)e^(3x)]"
+          "3(6x + 5)e⁻³ˣ (ACCEPT: (18x + 15)e⁻³ˣ)"
         ]
       }
     },
@@ -564,7 +567,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Matched bonus 21 by printed number and opening wording on Round 14 page 11; checked full text, choices, and notation against the PDF image.",
+      "evidence": "Source PDF page 11 prints xˣ as x approaches 0 from the positive side; the corpus omitted the superscript x.",
       "before": {
         "parts": [
           "What is the limit of x x as x approaches 0 from the positive side?"
@@ -572,10 +575,13 @@
       },
       "changes": {
         "parts": [
-          "What is the limit of x<sup>x</sup> as x approaches 0 from the positive side?"
+          "What is the limit of xˣ as x approaches 0 from the positive side?"
         ],
         "parts_sanitized": [
-          "What is the limit of x^x as x approaches 0 from the positive side?"
+          "What is the limit of xˣ as x approaches 0 from the positive side?"
+        ],
+        "answers_sanitized": [
+          "1"
         ]
       }
     },

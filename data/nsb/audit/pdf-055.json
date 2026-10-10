@@ -90,7 +90,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Page 5 shows Fe₂O₃ → 2Fe + 3 ZnO and identifies Fe³⁺ in Fe₂O₃; restored arrow, formula subscripts, and ionic superscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Identify the substance being reduced in the following reaction: 3 Zn + Fe<sub>2</sub> O<sub>3</sub> à (read as: yields) 2Fe + 3 ZnO. 3+ 3+",
         "answer": "THE Fe IN THE Fe<sub>2</sub> O<sub>3</sub> (ACCEPT: Fe OR IRON III. DO NOT ACCEPT: IRON OR IRON METAL)"
@@ -99,7 +99,7 @@
         "question": "Identify the substance being reduced in the following reaction: 3 Zn + Fe<sub>2</sub>O<sub>3</sub> → (read as: yields) 2Fe + 3 ZnO.",
         "answer": "THE Fe<sup>3+</sup> IN THE Fe<sub>2</sub>O<sub>3</sub> (ACCEPT: Fe<sup>3+</sup> OR IRON III. DO NOT ACCEPT: IRON OR IRON METAL)",
         "question_sanitized": "Identify the substance being reduced in the following reaction: 3 Zn + Fe2O3 -> (read as: yields) 2Fe + 3 ZnO.",
-        "answer_sanitized": "THE Fe(3+) IN THE Fe2O3 (ACCEPT: Fe(3+) OR IRON III. DO NOT ACCEPT: IRON OR IRON METAL)"
+        "answer_sanitized": "THE Fe³⁺ IN THE Fe₂O₃ (ACCEPT: Fe³⁺ OR IRON III. DO NOT ACCEPT: IRON OR IRON METAL)"
       }
     },
     {
@@ -330,7 +330,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Page 2 prints CO₂ without a gap before the closing parenthesis; corrected subscript spacing.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )"
@@ -341,7 +341,7 @@
           "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)"
         ],
         "answers_sanitized": [
-          "CARBON DIOXIDE (ACCEPT: CO2)"
+          "CARBON DIOXIDE (ACCEPT: CO₂)"
         ]
       }
     },

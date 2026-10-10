@@ -107,13 +107,13 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered source page 4 prints NAD⁺ with the plus raised; the data had the plus on the baseline.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD+."
       },
       "changes": {
         "question": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD<sup>+</sup>.",
-        "question_sanitized": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD+."
+        "question_sanitized": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD⁺."
       }
     },
     {
@@ -516,7 +516,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered source page 9 shows Kₐ, pKₐ, and 6.4 × 10⁻⁵; the captured text separated both subscripts and flattened the exponent.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Given that the K a of benzoic acid is 6.4 x 10-5 and its pK a is 4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar benzoic acid and 0.10 molar sodium benzoate?"
@@ -527,7 +527,7 @@
           "Given that the K<sub>a</sub> of benzoic acid is 6.4 × 10<sup>-5</sup> and its pK<sub>a</sub> is 4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar benzoic acid and 0.10 molar sodium benzoate?"
         ],
         "parts_sanitized": [
-          "Given that the Ka of benzoic acid is 6.4 x 10^-5 and its pKa is 4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar benzoic acid and 0.10 molar sodium benzoate?"
+          "Given that the K_(a) of benzoic acid is 6.4 × 10⁻⁵ and its pK_(a) is 4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar benzoic acid and 0.10 molar sodium benzoate?"
         ]
       }
     },
@@ -602,7 +602,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered source page 12 prints Sₙ1 with N as a subscript; normalized the malformed spaced notation.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following would be most likely to undergo an S N 1, reaction?<br>W) Methyl bromide<br>X) 2-propyl bromide<br>Y) Isopropyl chloride<br>Z) Tert-butyl chloride"
@@ -613,7 +613,7 @@
           "Which of the following would be most likely to undergo an S<sub>N</sub>1 reaction?<br>W) Methyl bromide<br>X) 2-propyl bromide<br>Y) Isopropyl chloride<br>Z) Tert-butyl chloride"
         ],
         "parts_sanitized": [
-          "Which of the following would be most likely to undergo an SN1 reaction?\nW) Methyl bromide\nX) 2-propyl bromide\nY) Isopropyl chloride\nZ) Tert-butyl chloride"
+          "Which of the following would be most likely to undergo an S_(N)1 reaction?\nW) Methyl bromide\nX) 2-propyl bromide\nY) Isopropyl chloride\nZ) Tert-butyl chloride"
         ]
       }
     },

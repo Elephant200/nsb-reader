@@ -451,7 +451,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "PDF p.8 visibly prints question 15 (bonuses) beginning “Which of the following minerals is NOT a polymorph of Al 2 SiO 5 ? W) Andalusite [an-”; its printed answer “X) ARAGONITE” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following minerals is NOT a polymorph of Al 2 SiO 5 ?<br>W) Andalusite [an-dl-OO-syt]<br>X) Aragonite [uh-RAG-uh-nyt]<br>Y) Sillimanite [SIL-uh-muh-nyt]<br>Z) Kyanite [KAY-uh-nyt]"
@@ -462,7 +462,7 @@
           "Which of the following minerals is NOT a polymorph of Al<sub>2</sub>SiO<sub>5</sub>?<br>W) Andalusite [an-dl-OO-syt]<br>X) Aragonite [uh-RAG-uh-nyt]<br>Y) Sillimanite [SIL-uh-muh-nyt]<br>Z) Kyanite [KAY-uh-nyt]"
         ],
         "parts_sanitized": [
-          "Which of the following minerals is NOT a polymorph of Al2SiO5? W) Andalusite [an-dl-OO-syt] X) Aragonite [uh-RAG-uh-nyt] Y) Sillimanite [SIL-uh-muh-nyt] Z) Kyanite [KAY-uh-nyt]"
+          "Which of the following minerals is NOT a polymorph of Al₂SiO₅?\nW) Andalusite [an-dl-OO-syt]\nX) Aragonite [uh-RAG-uh-nyt]\nY) Sillimanite [SIL-uh-muh-nyt]\nZ) Kyanite [KAY-uh-nyt]"
         ]
       }
     },

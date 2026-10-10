@@ -320,7 +320,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Source p. 4 visibly prints Ksp and exponents −10, −13, −17 and −16 beside the four silver salts; W/AgCl is repeated as answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following silver salts with the given K values has sp the greatest molar solubility? -10<br>W) Silver chloride, K = 1.8 x 10 sp -13<br>X) Silver bromide, K = 5.0 x 10 sp -17<br>Y) Silver iodide, K = 8.3 x 10 sp -16<br>Z) Silver cyanide, K = 1.2 x 10 sp -10"
@@ -349,7 +349,7 @@
           "W) SILVER CHLORIDE, K<sub>sp</sub> = 1.8 × 10<sup>−10</sup>"
         ],
         "parts_sanitized": [
-          "Which of the following silver salts with the given Ksp values has the greatest molar solubility? W) Silver chloride, Ksp = 1.8 x 10^-10 X) Silver bromide, Ksp = 5.0 x 10^-13 Y) Silver iodide, Ksp = 8.3 x 10^-17 Z) Silver cyanide, Ksp = 1.2 x 10^-16"
+          "Which of the following silver salts with the given K_(sp) values has the greatest molar solubility?\nW) Silver chloride, K_(sp) = 1.8 × 10⁻¹⁰\nX) Silver bromide, K_(sp) = 5.0 × 10⁻¹³\nY) Silver iodide, K_(sp) = 8.3 × 10⁻¹⁷\nZ) Silver cyanide, K_(sp) = 1.2 × 10⁻¹⁶"
         ]
       }
     },

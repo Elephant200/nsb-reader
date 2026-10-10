@@ -40,13 +40,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 2; restored the visibly printed chemical subscript, apostrophes, or answer superscript.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Using standard nomenclature rules, what is the name of the compound HClO ? 2"
       },
       "changes": {
         "question": "Using standard nomenclature rules, what is the name of the compound HClO<sub>2</sub>?",
-        "question_sanitized": "Using standard nomenclature rules, what is the name of the compound HClO2?"
+        "question_sanitized": "Using standard nomenclature rules, what is the name of the compound HClO₂?"
       }
     },
     {

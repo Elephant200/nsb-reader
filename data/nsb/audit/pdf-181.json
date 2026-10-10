@@ -80,13 +80,13 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered PDF page 4 prints C₁₃H₂₇COOH, C₁₇H₃₅COOH, and C₁₆H₂₉COOH without gaps between the subscript groups and the remaining formula. Remove extraction spaces while preserving the three complete formulas.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Identify all of the following three fatty acids that are unsaturated: 1) C<sub>13</sub> H<sub>27</sub> COOH; 2) C<sub>17</sub> H<sub>35</sub> COOH; 3) C<sub>16</sub> H<sub>29</sub> COOH."
       },
       "changes": {
         "question": "Identify all of the following three fatty acids that are unsaturated: 1) C<sub>13</sub>H<sub>27</sub>COOH; 2) C<sub>17</sub>H<sub>35</sub>COOH; 3) C<sub>16</sub>H<sub>29</sub>COOH.",
-        "question_sanitized": "Identify all of the following three fatty acids that are unsaturated: 1) C13H27COOH; 2) C17H35COOH; 3) C16H29COOH."
+        "question_sanitized": "Identify all of the following three fatty acids that are unsaturated: 1) C₁₃H₂₇COOH; 2) C₁₇H₃₅COOH; 3) C₁₆H₂₉COOH."
       }
     },
     {

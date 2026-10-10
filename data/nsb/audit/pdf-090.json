@@ -359,11 +359,24 @@
       "kind": "bonuses",
       "itemIndex": 9,
       "number": 10,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         5
       ],
-      "evidence": "Compared the complete numbered bonus 10 section on source page 5, including its prompt, choices where present, and answer."
+      "evidence": "PDF page 5 wraps “anti-” at the line end and continues “knock” on the next line; the corpus inserted a space after the line-break hyphen. Restored the compound word as “anti-knock”; answer is unchanged.",
+      "before": {
+        "parts": [
+          "Regular gasoline with an octane rating of 87 has the same anti- knock qualities as a mixture with what percentages of iso-octane and heptane, respectively?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Regular gasoline with an octane rating of 87 has the same anti-knock qualities as a mixture with what percentages of iso-octane and heptane, respectively?"
+        ],
+        "parts_sanitized": [
+          "Regular gasoline with an octane rating of 87 has the same anti-knock qualities as a mixture with what percentages of iso-octane and heptane, respectively?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

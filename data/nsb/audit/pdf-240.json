@@ -230,7 +230,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Page 5 visibly prints the straight-chain structural-isomer question with C₆H₁₂; corpus had separated formula digits after the word possess.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "How many straight-chain structural isomers does C H possess? 6 12"
@@ -241,7 +241,7 @@
           "How many straight-chain structural isomers does C<sub>6</sub>H<sub>12</sub> possess?"
         ],
         "parts_sanitized": [
-          "How many straight-chain structural isomers does C6H12 possess?"
+          "How many straight-chain structural isomers does C₆H₁₂ possess?"
         ]
       }
     },

@@ -284,7 +284,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Page 8 clearly prints the three IR-active candidates as O₂, H₂, and CO₂; answer is 3.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Identify all of the following three molecules that are IR active: 1) O ; 2) H ; 3) CO . 2 2 2"
@@ -295,7 +295,7 @@
           "Identify all of the following three molecules that are IR active: 1) O<sub>2</sub>; 2) H<sub>2</sub>; 3) CO<sub>2</sub>."
         ],
         "parts_sanitized": [
-          "Identify all of the following three molecules that are IR active: 1) O2; 2) H2; 3) CO2."
+          "Identify all of the following three molecules that are IR active: 1) O₂; 2) H₂; 3) CO₂."
         ]
       }
     },

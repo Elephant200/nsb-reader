@@ -117,13 +117,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered packet 184 PDF page 6 shows toss-up 12 beginning “SLAC [slack] researchers recently published a report on the developmen”; checked its full printed wording and answer “WATER (ACCEPT: H<sub>2</sub> O)” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "WATER (ACCEPT: H<sub>2</sub> O)"
       },
       "changes": {
         "answer": "WATER (ACCEPT: H<sub>2</sub>O)",
-        "answer_sanitized": "WATER (ACCEPT: H2O)"
+        "answer_sanitized": "WATER (ACCEPT: H₂O)"
       }
     },
     {
@@ -507,7 +507,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered packet 184 PDF page 11 shows bonus 22 beginning “Identify all of the following three reactions that would favor reactan”; checked its full printed wording and answer “2 AND 3” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K of 3; 2) A reaction with positive delta G; 3) An endothermic reaction eq with negative delta S."
@@ -518,7 +518,7 @@
           "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K<sub>eq</sub> of 3; 2) A reaction with positive delta G; 3) An endothermic reaction with negative delta S."
         ],
         "parts_sanitized": [
-          "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K_eq of 3; 2) A reaction with positive delta G; 3) An endothermic reaction with negative delta S."
+          "Identify all of the following three reactions that would favor reactants over products: 1) A reaction with K_(eq) of 3; 2) A reaction with positive delta G; 3) An endothermic reaction with negative delta S."
         ]
       }
     },

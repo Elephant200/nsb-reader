@@ -440,7 +440,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Page 10 prints y = x² − x³ and the full key π/10 (ACCEPT: 0.1π), restoring the displaced answer boundary and powers.",
+      "evidence": "Rendered packet 197, page 10 shows the prompt ending after “y = 0”; π/10 and its ACCEPT text belong only in the answer. The corpus duplicated the answer at the end of parts and parts_sanitized. Removed that leakage. Source image: /tmp/nsb-math-197-10.png.",
       "before": {
         "parts": [
           "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x 2 – x 3 and y = 0. π/10 0.1π)"
@@ -451,10 +451,10 @@
       },
       "changes": {
         "parts": [
-          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x<sup>2</sup> – x<sup>3</sup> and y = 0. π/10 (ACCEPT: 0.1π)"
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x<sup>2</sup> – x<sup>3</sup> and y = 0."
         ],
         "parts_sanitized": [
-          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x^2 – x^3 and y = 0. π/10 (ACCEPT: 0.1π)"
+          "Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x^2 – x^3 and y = 0."
         ],
         "answers": [
           "<span class=\"nsb-fraction\"><span>π</span><span>10</span></span> (ACCEPT: 0.1π)"

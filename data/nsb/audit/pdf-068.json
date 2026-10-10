@@ -213,7 +213,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Rendered original PDF page 13 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 13 asks for cos(2x) and answer 2a² − 1; the corpus prompt had a stray 2 and answer omitted the exponent.",
       "before": {
         "question": "If a = cos(x), what is cos(2x) in terms of a? 2",
         "answer": "2a – 1"
@@ -221,8 +221,8 @@
       "changes": {
         "question": "If a = cos(x), what is cos(2x) in terms of a?",
         "question_sanitized": "If a = cos(x), what is cos(2x) in terms of a?",
-        "answer": "2a<sup>2</sup> − 1",
-        "answer_sanitized": "2a^2 − 1"
+        "answer": "2a² − 1",
+        "answer_sanitized": "2a² − 1"
       }
     },
     {
@@ -263,7 +263,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered original PDF page 3 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 3 prints x³ + 3x² − 5x − 15; the corpus flattened the powers.",
       "before": {
         "parts": [
           "Factor the following polynomial completely over the real numbers: 3 2 x + 3x – 5x – 15."
@@ -274,10 +274,10 @@
       },
       "changes": {
         "parts": [
-          "Factor the following polynomial completely over the real numbers: x<sup>3</sup> + 3x<sup>2</sup> − 5x − 15."
+          "Factor the following polynomial completely over the real numbers: x³ + 3x² − 5x − 15."
         ],
         "parts_sanitized": [
-          "Factor the following polynomial completely over the real numbers: x^3 + 3x^2 − 5x − 15."
+          "Factor the following polynomial completely over the real numbers: x³ + 3x² − 5x − 15."
         ],
         "answers": [
           "(x + 3)(x + √5)(x − √5) (IN ANY ORDER)"
@@ -325,7 +325,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered original PDF page 6 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 6 prints ∑ from n = 0 to infinity of xⁿ/n!; the corpus omitted the summation expression.",
       "before": {
         "parts": [
           "For which real values of x does the following the series converge: n x ∞ (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n n=0 n! factorial)?"
@@ -333,10 +333,10 @@
       },
       "changes": {
         "parts": [
-          "For which real values of x does the following series converge: ∑<sub>n=0</sub><sup>∞</sup> <span class=\"nsb-fraction\"><span>x<sup>n</sup></span><span>n!</span></span>? (read as: the summation from n equals 0 to infinity of [pause] x to the power of n over n n=0 n! factorial)"
+          "For which real values of x does the following series converge: ∑<sub>n=0</sub><sup>∞</sup> xⁿ/n! (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n factorial)?"
         ],
         "parts_sanitized": [
-          "For which real values of x does the following series converge: ∑_n=0^(∞) (x^(n))/(n!)? (read as: the summation from n equals 0 to infinity of [pause] x to the power of n over n n=0 n! factorial)"
+          "For which real values of x does the following series converge: ∑_(n=0)^(∞) xⁿ/n! (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n factorial)?"
         ]
       }
     },
@@ -420,7 +420,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered original PDF page 9 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 9 prints y = x³; the corpus lost the exponent 3.",
       "before": {
         "parts": [
           "Providing your answer as an improper fraction in simplest form in 3 terms of π, what is the volume of the solid generated when the area bounded by y = x , x = 2, and the x axis is revolved around the x-axis?"
@@ -428,10 +428,10 @@
       },
       "changes": {
         "parts": [
-          "Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x<sup>3</sup>, x = 2, and the x axis is revolved around the x-axis?"
+          "Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x³, x = 2, and the x-axis is revolved around the x-axis."
         ],
         "parts_sanitized": [
-          "Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x^3, x = 2, and the x axis is revolved around the x-axis?"
+          "Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x³, x = 2, and the x-axis is revolved around the x-axis."
         ]
       }
     },
@@ -493,7 +493,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered original PDF page 12 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 12 prints four 2×2 matrices; the corpus mangled the matrices in every option and answer. Restored the exact row entries and keyed clockwise-rotation matrix X.",
       "before": {
         "parts": [
           "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees? −1<br>W) (read as: row 1: 0, -1; row 2: 1, 0) <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span> 1 1 <span class=\"nsb-fraction\">&lt;span&gt;0</span>&lt;span&gt;0</span></span><br>X) (read as: row 1: 1, 1; row 2: -1, 0) −1 0 −1<br>Y) (read as: row 1: 0, -1; row 2: -1, 0) −1 0 0 1<br>Z) (read as: row 1: 0, 1; row 2: 1, 0) 1 0 0 1"
@@ -506,19 +506,20 @@
         ],
         "answers": [
           "X) −1 0"
-        ]
+        ],
+        "notes": []
       },
       "changes": {
         "parts": [
-          "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees?<br>W) [[0, −1], [1, 0]] (read as: row 1: 0, -1; row 2: 1, 0)<br>X) [[0, 1], [−1, 0]] (read as: row 1: 1, 1; row 2: -1, 0)<br>Y) [[0, −1], [−1, 0]] (read as: row 1: 0, -1; row 2: -1, 0)<br>Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
+          "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees?<br>W) [[0, −1], [1, 0]] (read as: row 1: 0, −1; row 2: 1, 0)<br>X) [[0, 1], [−1, 0]] (read as: row 1: 0, 1; row 2: −1, 0)<br>Y) [[0, −1], [−1, 0]] (read as: row 1: 0, −1; row 2: −1, 0)<br>Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
         ],
         "parts_sanitized": [
-          "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees? W) [[0, -1], [1, 0]] (read as: row 1: 0, -1; row 2: 1, 0); X) [[0, 1], [-1, 0]] (read as: row 1: 1, 1; row 2: -1, 0); Y) [[0, -1], [-1, 0]] (read as: row 1: 0, -1; row 2: -1, 0); Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
+          "Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees?\nW) [[0, −1], [1, 0]] (read as: row 1: 0, −1; row 2: 1, 0)\nX) [[0, 1], [−1, 0]] (read as: row 1: 0, 1; row 2: −1, 0)\nY) [[0, −1], [−1, 0]] (read as: row 1: 0, −1; row 2: −1, 0)\nZ) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
         ],
         "options": [
-          "W) [[0, −1], [1, 0]] (read as: row 1: 0, -1; row 2: 1, 0)",
-          "X) [[0, 1], [−1, 0]] (read as: row 1: 1, 1; row 2: -1, 0)",
-          "Y) [[0, −1], [−1, 0]] (read as: row 1: 0, -1; row 2: -1, 0)",
+          "W) [[0, −1], [1, 0]] (read as: row 1: 0, −1; row 2: 1, 0)",
+          "X) [[0, 1], [−1, 0]] (read as: row 1: 0, 1; row 2: −1, 0)",
+          "Y) [[0, −1], [−1, 0]] (read as: row 1: 0, −1; row 2: −1, 0)",
           "Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0)"
         ],
         "answers": [
@@ -526,6 +527,9 @@
         ],
         "answers_sanitized": [
           "X) [[0, 1], [−1, 0]]"
+        ],
+        "notes": [
+          "Source erratum: choice X’s printed read-as cue says row 1 is 1, 1, but its matrix shows 0, 1. The read-as cue is corrected to match the printed matrix."
         ]
       }
     },
@@ -547,7 +551,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Rendered original PDF page 13 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 13 prints V = x³√3/4; the corpus lost the formula and answer.",
       "before": {
         "parts": [
           "A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x. x 3 3"
@@ -564,10 +568,10 @@
           "A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x."
         ],
         "answers": [
-          "V = (√3 x<sup>3</sup>)/4"
+          "V = x³√3/4"
         ],
         "answers_sanitized": [
-          "V = (√3 x^3)/4"
+          "V = x³√3/4"
         ]
       }
     }

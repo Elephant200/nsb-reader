@@ -60,7 +60,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Page 4 lists ocean acidification, increased atmospheric O₂, increased surface temperature, and upwelling; key X. Restored subscript in option and keyed answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Sustained periods of organic carbon burial over geologic time will most likely lead to which of the following?<br>W) Ocean acidification [ah-SID-ih-fih-KAY-shun]<br>X) Increased atmospheric O 2<br>Y) Increased surface temperature<br>Z) Increased ocean upwelling",
         "options": [
@@ -73,7 +73,7 @@
       },
       "changes": {
         "question": "Sustained periods of organic carbon burial over geologic time will most likely lead to which of the following?<br>W) Ocean acidification [ah-SID-ih-fih-KAY-shun]<br>X) Increased atmospheric O<sub>2</sub><br>Y) Increased surface temperature<br>Z) Increased ocean upwelling",
-        "question_sanitized": "Sustained periods of organic carbon burial over geologic time will most likely lead to which of the following? W) Ocean acidification [ah-SID-ih-fih-KAY-shun]; X) Increased atmospheric O2; Y) Increased surface temperature; Z) Increased ocean upwelling",
+        "question_sanitized": "Sustained periods of organic carbon burial over geologic time will most likely lead to which of the following?\nW) Ocean acidification [ah-SID-ih-fih-KAY-shun]\nX) Increased atmospheric O₂\nY) Increased surface temperature\nZ) Increased ocean upwelling",
         "options": [
           "W) Ocean acidification [ah-SID-ih-fih-KAY-shun]",
           "X) Increased atmospheric O<sub>2</sub>",
@@ -81,7 +81,7 @@
           "Z) Increased ocean upwelling"
         ],
         "answer": "X) INCREASED ATMOSPHERIC O<sub>2</sub>",
-        "answer_sanitized": "X) INCREASED ATMOSPHERIC O2"
+        "answer_sanitized": "X) INCREASED ATMOSPHERIC O₂"
       }
     },
     {
@@ -132,13 +132,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Page 6 asks the gradient substance driving ATP production; answer protons, accept H+.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "PROTONS (ACCEPT: H+)"
       },
       "changes": {
         "answer": "PROTONS (ACCEPT: H<sup>+</sup>)",
-        "answer_sanitized": "PROTONS (ACCEPT: H+)"
+        "answer_sanitized": "PROTONS (ACCEPT: H⁺)"
       }
     },
     {

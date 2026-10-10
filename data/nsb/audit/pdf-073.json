@@ -287,7 +287,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared with original PDF page 2; rendered source notation confirms the restored fields (including all wording and embedded directions).",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Given the reaction C<sub>3</sub> H + 5O → (read as: yields) 4H<sub>2</sub> O + 8(g) 2(g) ( ) l 3CO occurs at room temperature with a change in enthalpy of -290,000 joules and change 2(g) in entropy of -110 joules per Kelvin, what is the delta G in joules for this reaction and is the reaction spontaneous?"
@@ -301,7 +301,7 @@
           "Given the reaction C<sub>3</sub>H<sub>8(g)</sub> + 5O<sub>2(g)</sub> → (read as: yields) 4H<sub>2</sub>O<sub>(l)</sub> + 3CO<sub>2(g)</sub> occurs at room temperature with a change in enthalpy of -290,000 joules and change in entropy of -110 joules per Kelvin, what is the delta G in joules for this reaction and is the reaction spontaneous? (read (g) as gaseous and (l) as liquid)"
         ],
         "parts_sanitized": [
-          "Given the reaction C3H8(g) + 5O2(g) → (read as: yields) 4H2O(l) + 3CO2(g) occurs at room temperature with a change in enthalpy of -290,000 joules and change in entropy of -110 joules per Kelvin, what is the delta G in joules for this reaction and is the reaction spontaneous? (read (g) as gaseous and (l) as liquid)"
+          "Given the reaction C₃H_(8(g)) + 5O_(2(g)) → (read as: yields) 4H₂O_((l)) + 3CO_(2(g)) occurs at room temperature with a change in enthalpy of -290,000 joules and change in entropy of -110 joules per Kelvin, what is the delta G in joules for this reaction and is the reaction spontaneous? (read (g) as gaseous and (l) as liquid)"
         ],
         "answers": [
           "-277,500; SPONTANEOUS"
@@ -389,7 +389,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Compared with original PDF page 6; rendered source notation confirms the restored fields (including all wording and embedded directions).",
+      "evidence": "Source PDF page 6 prints g(x) = 6 + 2x − x² and g(f(x)) = −4x² + 8x + 3; the corpus dropped the squared exponents.",
       "before": {
         "parts": [
           "If f(x) = 2x – 1 and g(x) = 6 + 2x – x , what is the standard polynomial form for g(f(x)) (read as: g of f of x)? 2"
@@ -400,16 +400,16 @@
       },
       "changes": {
         "parts": [
-          "If f(x) = 2x - 1 and g(x) = 6 + 2x - x<sup>2</sup>, what is the standard polynomial form for g(f(x)) (read as: g of f of x)?"
+          "If f(x) = 2x − 1 and g(x) = 6 + 2x − x², what is the standard polynomial form for g(f(x)) (read as: g of f of x)?"
         ],
         "parts_sanitized": [
-          "If f(x) = 2x - 1 and g(x) = 6 + 2x - x^2, what is the standard polynomial form for g(f(x)) (read as: g of f of x)?"
+          "If f(x) = 2x − 1 and g(x) = 6 + 2x − x², what is the standard polynomial form for g(f(x)) (read as: g of f of x)?"
         ],
         "answers": [
-          "-4x<sup>2</sup> + 8x + 3"
+          "−4x² + 8x + 3"
         ],
         "answers_sanitized": [
-          "-4x^2 + 8x + 3"
+          "−4x² + 8x + 3"
         ]
       }
     },

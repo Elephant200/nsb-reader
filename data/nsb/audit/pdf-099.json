@@ -252,13 +252,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "PDF p.10 includes N₂ and O₂, the equilibrium pronunciation cue, the full prompt, and all four helium/catalyst/temperature/oxygen choices.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "At high temperatures, nitrogen (N 2 ) and oxygen (O 2 ) gases react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three compounds form an equilibrium [ee-kwuh-LIB-ree-uhm]. Which of the following changes to the vessel will result in the production of more NO?<br>W) Addition of helium at constant volume<br>X) Adding a catalyst<br>Y) Increasing the temperature of the vessel<br>Z) Removing oxygen from the vessel"
       },
       "changes": {
         "question": "At high temperatures, nitrogen (N<sub>2</sub>) and oxygen (O<sub>2</sub>) gases react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three compounds form an equilibrium [ee-kwuh-LIB-ree-uhm]. Which of the following changes to the vessel will result in the production of more NO?<br>W) Addition of helium at constant volume<br>X) Adding a catalyst<br>Y) Increasing the temperature of the vessel<br>Z) Removing oxygen from the vessel",
-        "question_sanitized": "At high temperatures, nitrogen (N2) and oxygen (O2) gases react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three compounds form an equilibrium [ee-kwuh-LIB-ree-uhm]. Which of the following changes to the vessel will result in the production of more NO? W) Addition of helium at constant volume X) Adding a catalyst Y) Increasing the temperature of the vessel Z) Removing oxygen from the vessel"
+        "question_sanitized": "At high temperatures, nitrogen (N₂) and oxygen (O₂) gases react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three compounds form an equilibrium [ee-kwuh-LIB-ree-uhm]. Which of the following changes to the vessel will result in the production of more NO?\nW) Addition of helium at constant volume\nX) Adding a catalyst\nY) Increasing the temperature of the vessel\nZ) Removing oxygen from the vessel"
       }
     },
     {
@@ -269,7 +269,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "PDF p.11 prints the keyed relationship as v₃ < v₂ AND v₄ < v₁.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "A light ray passes from air (n 1 = 1.00) to three layers of the human eye: cornea (n 2 = 1.33), lens (n 3 = 1.41), and vitreous humor (n 4 = 1.33). The speeds of light in these mediums are, respectively, v 1 , v 2 , v 3 , v 4 . Which of the following must be true about the relationships between the speeds of light in the different media?<br>W) v 1 &lt; v 2 &lt; v 3 &lt; v 4<br>X) v 4 &lt; v 3 &lt; v 2 &lt; v 1<br>Y) v 3 &lt; v 2 and v 4 &lt; v 1<br>Z) v 2 &lt; v 3 and v 1 &lt; v 4",
         "answer": "Y) v 3 &lt; v 2 AND v 4 &lt; v 1",
@@ -283,8 +283,8 @@
       "changes": {
         "question": "A light ray passes from air (n<sub>1</sub> = 1.00) to three layers of the human eye: cornea (n<sub>2</sub> = 1.33), lens (n<sub>3</sub> = 1.41), and vitreous humor (n<sub>4</sub> = 1.33). The speeds of light in these mediums are, respectively, v<sub>1</sub>, v<sub>2</sub>, v<sub>3</sub>, v<sub>4</sub>. Which of the following must be true about the relationships between the speeds of light in the different media?<br>W) v<sub>1</sub> &lt; v<sub>2</sub> &lt; v<sub>3</sub> &lt; v<sub>4</sub><br>X) v<sub>4</sub> &lt; v<sub>3</sub> &lt; v<sub>2</sub> &lt; v<sub>1</sub><br>Y) v<sub>3</sub> &lt; v<sub>2</sub> and v<sub>4</sub> &lt; v<sub>1</sub><br>Z) v<sub>2</sub> &lt; v<sub>3</sub> and v<sub>1</sub> &lt; v<sub>4</sub>",
         "answer": "Y) v<sub>3</sub> &lt; v<sub>2</sub> AND v<sub>4</sub> &lt; v<sub>1</sub>",
-        "question_sanitized": "A light ray passes from air (n1 = 1.00) to three layers of the human eye: cornea (n2 = 1.33), lens (n3 = 1.41), and vitreous humor (n4 = 1.33). The speeds of light in these mediums are, respectively, v1, v2, v3, v4. Which of the following must be true about the relationships between the speeds of light in the different media? W) v1 < v2 < v3 < v4 X) v4 < v3 < v2 < v1 Y) v3 < v2 and v4 < v1 Z) v2 < v3 and v1 < v4",
-        "answer_sanitized": "Y) v3 < v2 AND v4 < v1",
+        "question_sanitized": "A light ray passes from air (n₁ = 1.00) to three layers of the human eye: cornea (n₂ = 1.33), lens (n₃ = 1.41), and vitreous humor (n₄ = 1.33). The speeds of light in these mediums are, respectively, v₁, v₂, v₃, v₄. Which of the following must be true about the relationships between the speeds of light in the different media?\nW) v₁ < v₂ < v₃ < v₄\nX) v₄ < v₃ < v₂ < v₁\nY) v₃ < v₂ and v₄ < v₁\nZ) v₂ < v₃ and v₁ < v₄",
+        "answer_sanitized": "Y) v₃ < v₂ AND v₄ < v₁",
         "options": [
           "W) v<sub>1</sub> &lt; v<sub>2</sub> &lt; v<sub>3</sub> &lt; v<sub>4</sub>",
           "X) v<sub>4</sub> &lt; v<sub>3</sub> &lt; v<sub>2</sub> &lt; v<sub>1</sub>",
@@ -587,7 +587,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "PDF p.10 prints the dinitrogen tetroxide point group as D₂h.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "D 2h"
@@ -598,7 +598,7 @@
           "D<sub>2h</sub>"
         ],
         "answers_sanitized": [
-          "D2h"
+          "D_(2h)"
         ]
       }
     },
@@ -610,7 +610,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "PDF p.11 includes the complete circular-orbit sentence, r₁ = 4r₂, the period-ratio question T₁/T₂, and answer 8.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Two satellites are orbiting in circular orbits of radii r 1 and r 2 around a planet, where r 1 = 4r 2 . What is the ratio of their periods of revolutions T 1 /T 2 ?"
@@ -621,7 +621,7 @@
           "Two satellites are orbiting in circular orbits of radii r<sub>1</sub> and r<sub>2</sub> around a planet, where r<sub>1</sub> = 4r<sub>2</sub>. What is the ratio of their periods of revolutions T<sub>1</sub>/T<sub>2</sub>?"
         ],
         "parts_sanitized": [
-          "Two satellites are orbiting in circular orbits of radii r1 and r2 around a planet, where r1 = 4r2. What is the ratio of their periods of revolutions T1/T2?"
+          "Two satellites are orbiting in circular orbits of radii r₁ and r₂ around a planet, where r₁ = 4r₂. What is the ratio of their periods of revolutions T₁/T₂?"
         ]
       }
     },

@@ -40,13 +40,14 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Matched toss-up 6 by printed number and opening wording on Round 13 page 3; checked full prompt and answer, including displayed notation, against the page image.",
+      "evidence": "Source PDF page 3 prints (cos x + sin x)²; the corpus omitted the superscript 2.",
       "before": {
         "question": "If sin(2x) = 0.4, then what does (cosx + sinx) equal?"
       },
       "changes": {
-        "question": "If sin(2x) = 0.4, then what does (cos(x) + sin(x))<sup>2</sup> equal?",
-        "question_sanitized": "If sin(2x) = 0.4, then what does (cos(x) + sin(x))^2 equal?"
+        "question": "If sin(2x) = 0.4, then what does (cos x + sin x)² equal?",
+        "question_sanitized": "If sin(2x) = 0.4, then what does (cos x + sin x)² equal?",
+        "answer_sanitized": "1.4"
       }
     },
     {
@@ -281,18 +282,27 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Matched bonus 6 by printed number and opening wording on Round 13 page 3; checked full prompt and answer, including displayed notation, against the page image.",
+      "evidence": "Source PDF page 3 prints f(x) = 5 − x²; the corpus omitted the exponent 2.",
       "before": {
         "parts": [
           "Give the interval or intervals of values of x for which the graph of the 2 function f(x) = 5 – x is above the graph of g(x)= 2x – 3?"
+        ],
+        "answers": [
+          "(-4, 2)"
         ]
       },
       "changes": {
         "parts": [
-          "Give the interval or intervals of values of x for which the graph of the function f(x) = 5 − x<sup>2</sup> is above the graph of g(x) = 2x − 3?"
+          "Give the interval or intervals of values of x for which the graph of f(x) = 5 − x² is above the graph of g(x) = 2x − 3?"
         ],
         "parts_sanitized": [
-          "Give the interval or intervals of values of x for which the graph of the function f(x) = 5 - x^2 is above the graph of g(x) = 2x - 3?"
+          "Give the interval or intervals of values of x for which the graph of f(x) = 5 − x² is above the graph of g(x) = 2x − 3?"
+        ],
+        "answers": [
+          "(−4, 2)"
+        ],
+        "answers_sanitized": [
+          "(−4, 2)"
         ]
       }
     },

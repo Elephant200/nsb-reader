@@ -48,13 +48,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Viewed original PDF page 2 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 3 begins “Given 𝑔(𝑥) = 5 + [g of x equals 5 plus the fraction with sin(𝑥 2 ) numerator x squared and denomi”; printed answer: 6.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Given 𝑔(𝑥) = 5 + [g of x equals 5 plus the fraction with sin(𝑥 2 ) numerator x squared and denominator sine of the quantity x squared], find lim𝑥→0 𝑔(𝑥) [the limit as x approaches zero of g of x]."
       },
       "changes": {
         "question": "Given 𝑔(𝑥) = 5 + <span class=\"nsb-fraction\"><span>𝑥<sup>2</sup></span><span>sin(𝑥<sup>2</sup>)</span></span> [g of x equals 5 plus the fraction with numerator x squared and denominator sine of the quantity x squared], find lim<sub>𝑥→0</sub> 𝑔(𝑥) [the limit as x approaches zero of g of x].",
-        "question_sanitized": "Given g(x) = 5 + (x^2)/(sin(x^2)) [g of x equals 5 plus the fraction with numerator x squared and denominator sine of the quantity x squared], find lim x→0 g(x) [the limit as x approaches zero of g of x]."
+        "question_sanitized": "Given 𝑔(𝑥) = 5 + (𝑥²)/(sin(𝑥²)) [g of x equals 5 plus the fraction with numerator x squared and denominator sine of the quantity x squared], find lim_(𝑥→0) 𝑔(𝑥) [the limit as x approaches zero of g of x]."
       }
     },
     {
@@ -519,7 +519,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Viewed original PDF page 9 and compared the complete prompt, all printed choices where present, and answer with the packet record. Source question 17 begins “Providing your answer in proper point group abbreviation, to what point group does the molecule 1, 2”; printed answer: C 2h.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "C 2h"
@@ -530,7 +530,7 @@
           "C<sub>2h</sub>"
         ],
         "answers_sanitized": [
-          "C_2h"
+          "C_(2h)"
         ]
       }
     },

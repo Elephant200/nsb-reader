@@ -20,13 +20,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered packet 188 PDF page 2 shows toss-up 3, “Energy – Short Answer Scientists at the National Energy Technology Lab have been working with”; checked its complete wording and full answer “CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )"
       },
       "changes": {
         "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)",
-        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO2)"
+        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO₂)"
       }
     },
     {
@@ -217,13 +217,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered packet 188 PDF page 11 shows toss-up 22, “Earth and Space – Short Answer    Neptune appears a shade of blue because of what atmospheric gas”; checked its complete wording and full answer “METHANE (ACCEPT: CH<sub>4</sub> )” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "METHANE (ACCEPT: CH<sub>4</sub> )"
       },
       "changes": {
         "answer": "METHANE (ACCEPT: CH<sub>4</sub>)",
-        "answer_sanitized": "METHANE (ACCEPT: CH4)"
+        "answer_sanitized": "METHANE (ACCEPT: CH₄)"
       }
     },
     {
@@ -254,7 +254,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered packet 188 PDF page 2 shows bonus 3, “Energy – Short Answer Scientists at Oak Ridge National Lab are working on a novel accelerated”; checked its complete wording and full answer “CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub> )"
@@ -265,7 +265,7 @@
           "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)"
         ],
         "answers_sanitized": [
-          "CARBON DIOXIDE (ACCEPT: CO2)"
+          "CARBON DIOXIDE (ACCEPT: CO₂)"
         ]
       }
     },

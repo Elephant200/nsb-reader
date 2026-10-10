@@ -154,13 +154,13 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Viewed p.13 at high resolution: the accepted ion is printed Ca with superscript 2+; key spells CALCIUM TWO PLUS.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "CALCIUM TWO PLUS (ACCEPT: CA 2+ )"
       },
       "changes": {
         "answer": "CALCIUM TWO PLUS (ACCEPT: CA<sup>2+</sup>)",
-        "answer_sanitized": "CALCIUM TWO PLUS (ACCEPT: CA^2+)"
+        "answer_sanitized": "CALCIUM TWO PLUS (ACCEPT: CA²⁺)"
       }
     },
     {

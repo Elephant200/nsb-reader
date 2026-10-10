@@ -484,7 +484,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Page 10 prints H₂, trace organic compounds, and ions claims; answer 1 AND 2. Restored subscript.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H 2 ; 2) They contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions."
@@ -495,7 +495,7 @@
           "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H<sub>2</sub>; 2) They contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions."
         ],
         "parts_sanitized": [
-          "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H2; 2) They contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions."
+          "Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H₂; 2) They contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions."
         ]
       }
     },

@@ -120,7 +120,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 12 page 8; compared the full prompt, choices where present, and answer against the original PDF.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following ions is NOT directly involved in setting the voltage of a cell membrane? 2+<br>W) Ca +<br>X) K +<br>Y) Na 2+<br>Z) Mg 2+",
         "options": [
@@ -133,7 +133,7 @@
       },
       "changes": {
         "question": "Which of the following ions is NOT directly involved in setting the voltage of a cell membrane?<br>W) Ca<sup>2+</sup><br>X) K<sup>+</sup><br>Y) Na<sup>+</sup><br>Z) Mg<sup>2+</sup>",
-        "question_sanitized": "Which of the following ions is NOT directly involved in setting the voltage of a cell membrane?<br>W) Ca^2+<br>X) K^+<br>Y) Na^+<br>Z) Mg^2+",
+        "question_sanitized": "Which of the following ions is NOT directly involved in setting the voltage of a cell membrane?\nW) Ca²⁺\nX) K⁺\nY) Na⁺\nZ) Mg²⁺",
         "options": [
           "W) Ca<sup>2+</sup>",
           "X) K<sup>+</sup>",
@@ -141,7 +141,7 @@
           "Z) Mg<sup>2+</sup>"
         ],
         "answer": "Z) Mg<sup>2+</sup>",
-        "answer_sanitized": "Z) Mg^2+"
+        "answer_sanitized": "Z) Mg²⁺"
       }
     },
     {
@@ -152,13 +152,13 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered Round 12 page 8 shows f(x) = sin(x)/x²; restored the function expression from displaced OCR while keeping all four options.",
+      "evidence": "Source PDF page 8 prints f(x) = sin(x)/x²; the corpus split the formula and placed it before the explanatory read-as text.",
       "before": {
         "question": "Which of the following statements is TRUE about the function sin(x) f(x) = (read as: f of x equals sine of x over x squared)? x 2<br>W) The graph of the function passes through the origin<br>X) The function has a vertical asymptote<br>Y) The function does not have a horizontal asymptote<br>Z) The graph of the function is symmetric about the x-axis"
       },
       "changes": {
-        "question": "Which of the following statements is TRUE about the function f(x) = <span class=\"nsb-fraction\"><span>sin(x)</span><span>x<sup>2</sup></span></span> (read as: f of x equals sine of x over x squared)?<br>W) The graph of the function passes through the origin<br>X) The function has a vertical asymptote<br>Y) The function does not have a horizontal asymptote<br>Z) The graph of the function is symmetric about the x-axis",
-        "question_sanitized": "Which of the following statements is TRUE about the function f(x) = sin(x)/x^2 (read as: f of x equals sine of x over x squared)?\nW) The graph of the function passes through the origin\nX) The function has a vertical asymptote\nY) The function does not have a horizontal asymptote\nZ) The graph of the function is symmetric about the x-axis"
+        "question": "Which of the following statements is TRUE about the function f(x) = sin(x)/x² (read as: f of x equals sine of x over x squared)?<br>W) The graph of the function passes through the origin<br>X) The function has a vertical asymptote<br>Y) The function does not have a horizontal asymptote<br>Z) The graph of the function is symmetric about the x-axis",
+        "question_sanitized": "Which of the following statements is TRUE about the function f(x) = sin(x)/x² (read as: f of x equals sine of x over x squared)?\nW) The graph of the function passes through the origin\nX) The function has a vertical asymptote\nY) The function does not have a horizontal asymptote\nZ) The graph of the function is symmetric about the x-axis"
       }
     },
     {
@@ -196,16 +196,16 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered Round 12 page 10 lists CO, CO⁺, and CO²⁺; the printed answer is CO⁺ (accept: 2). Restored superscript charges in the question and answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "By name or number, identify which of the following three + 2+ species is paramagnetic: 1) CO, 2) CO , 3) CO . +",
         "answer": "CO (ACCEPT: 2)"
       },
       "changes": {
         "question": "By name or number, identify which of the following three species is paramagnetic: 1) CO, 2) CO<sup>+</sup>, 3) CO<sup>2+</sup>.",
-        "question_sanitized": "By name or number, identify which of the following three species is paramagnetic: 1) CO, 2) CO+, 3) CO2+.",
+        "question_sanitized": "By name or number, identify which of the following three species is paramagnetic: 1) CO, 2) CO⁺, 3) CO²⁺.",
         "answer": "CO<sup>+</sup> (ACCEPT: 2)",
-        "answer_sanitized": "CO+ (ACCEPT: 2)"
+        "answer_sanitized": "CO⁺ (ACCEPT: 2)"
       }
     },
     {
@@ -236,13 +236,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered Round 12 page 11 prints the polar coordinates (4√2, 7π/4); restored the missing radical in the answer.",
+      "evidence": "Source PDF page 11 prints polar coordinates (4√2, 7π/4); the corpus omitted the radical in r.",
       "before": {
         "answer": "(4 2, 7π/4)"
       },
       "changes": {
         "answer": "(4√2, 7π/4)",
-        "answer_sanitized": "(4 sqrt(2), 7pi/4)"
+        "answer_sanitized": "(4√2, 7π/4)"
       }
     },
     {
@@ -335,7 +335,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered Round 12 page 3 shows the limit expression x sin(3x)/(1 − cos(x)); the source reading cue reads the quantity x sine of 3x over the quantity 1 minus cosine of x. Restored the fraction without altering the cue.",
+      "evidence": "PDF page 3 prints x sin(3x)/(1 − cos x); the sampled corpus lost the expression structure.",
       "before": {
         "parts": [
           "What is the limit as x goes to 0 of (read as: the quantity x 1 - cos(x) sine of 3x over the quantity 1 minus cosine of x)?"
@@ -343,10 +343,13 @@
       },
       "changes": {
         "parts": [
-          "What is the limit as x goes to 0 of <span class=\"nsb-fraction\"><span>x sin(3x)</span><span>1 − cos(x)</span></span> (read as: the quantity x sine of 3x over the quantity 1 minus cosine of x)?"
+          "What is the limit as x goes to 0 of x sin(3x)/(1 − cos(x)) (read as: the quantity x sine of 3x over the quantity 1 minus cosine of x)?"
         ],
         "parts_sanitized": [
-          "What is the limit as x goes to 0 of (x sin(3x))/(1 - cos(x)) (read as: the quantity x sine of 3x over the quantity 1 minus cosine of x)?"
+          "What is the limit as x goes to 0 of x sin(3x)/(1 − cos(x)) (read as: the quantity x sine of 3x over the quantity 1 minus cosine of x)?"
+        ],
+        "answers_sanitized": [
+          "6"
         ]
       }
     },
@@ -458,7 +461,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched bonus 16 by printed number and opening wording on Round 12 page 8; compared the full prompt, choices where present, and answer against the original PDF.",
+      "evidence": "Source PDF page 8 prints ((x − 2)²/4) − ((y + 3)²/9) = 1 and answer √13/2; the corpus mangled the equation and answer markup.",
       "before": {
         "parts": [
           "Providing your answer in simplest radical form, what is the 2 2 (x 2) (y + 3) eccentricity of the hyperbola = 1 (read as: open parenthesis x minus 2 close 4 9 parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
@@ -469,16 +472,16 @@
       },
       "changes": {
         "parts": [
-          "Providing your answer in simplest radical form, what is the eccentricity of the hyperbola <span class=\"nsb-fraction\"><span>(x − 2)<sup>2</sup></span><span>4</span></span> − <span class=\"nsb-fraction\"><span>(y + 3)<sup>2</sup></span><span>9</span></span> = 1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
+          "Providing your answer in simplest radical form, what is the eccentricity of the hyperbola (x − 2)²/4 − (y + 3)²/9 = 1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
         ],
         "parts_sanitized": [
-          "Providing your answer in simplest radical form, what is the eccentricity of the hyperbola ((x - 2)^2)/4 - ((y + 3)^2)/9 = 1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
+          "Providing your answer in simplest radical form, what is the eccentricity of the hyperbola (x − 2)²/4 − (y + 3)²/9 = 1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)?"
         ],
         "answers": [
-          "<span class=\"nsb-fraction\"><span>√13</span><span>2</span></span>"
+          "√13/2"
         ],
         "answers_sanitized": [
-          "sqrt(13)/2"
+          "√13/2"
         ]
       }
     },
@@ -490,7 +493,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Matched bonus 17 by printed number and opening wording on Round 12 page 9; compared the full prompt, choices where present, and answer against the original PDF.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Place the following molecules or ions in order of increasing 22 2+ stability: He<sub>2</sub> , O<sub>2</sub> , O , He , O<sub>2</sub> . − − 2+ 22"
@@ -504,13 +507,13 @@
           "Place the following molecules or ions in order of increasing stability: He<sub>2</sub>, O<sub>2</sub>, O<sub>2</sub><sup>2−</sup>, He<sub>2</sub><sup>+</sup>, O<sub>2</sub><sup>−</sup>."
         ],
         "parts_sanitized": [
-          "Place the following molecules or ions in order of increasing stability: He2, O2, O2^2-, He2^+, O2^-."
+          "Place the following molecules or ions in order of increasing stability: He₂, O₂, O₂²⁻, He₂⁺, O₂⁻."
         ],
         "answers": [
           "He<sub>2</sub>, He<sub>2</sub><sup>+</sup>, O<sub>2</sub><sup>2−</sup>, O<sub>2</sub><sup>−</sup>, AND O<sub>2</sub> (ACCEPT: 1, 4, 3, 5, 2)"
         ],
         "answers_sanitized": [
-          "He2, He2^+, O2^2-, O2^-, AND O2 (ACCEPT: 1, 4, 3, 5, 2)"
+          "He₂, He₂⁺, O₂²⁻, O₂⁻, AND O₂ (ACCEPT: 1, 4, 3, 5, 2)"
         ]
       }
     },

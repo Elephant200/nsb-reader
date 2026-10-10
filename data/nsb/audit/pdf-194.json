@@ -177,13 +177,13 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Page 7 gives EXO-200 double-beta decay prompt and cues; answer xenon with cue.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the IUPAC name for the compound with the chemical formula Ni(CO)<sub>4</sub> ?"
       },
       "changes": {
         "question": "What is the IUPAC name for the compound with the chemical formula Ni(CO)<sub>4</sub>?",
-        "question_sanitized": "What is the IUPAC name for the compound with the chemical formula Ni(CO)4?"
+        "question_sanitized": "What is the IUPAC name for the compound with the chemical formula Ni(CO)₄?"
       }
     },
     {
@@ -484,7 +484,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Page 10 lists H-H, CH₃-CH₃, H-CH₃ eclipsed overlaps; answer 1,3,2. Removed extraction-added spaces around middle interaction.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Rank the following three types of interactions in increasing order of energy cost in a conformational analysis of the C2-C3 bond in butane: 1) H-H eclipsed overlap; 2) CH<sub>3</sub> - CH<sub>3</sub> eclipsed overlap; 3) H-CH<sub>3</sub> eclipsed overlap."
@@ -495,7 +495,7 @@
           "Rank the following three types of interactions in increasing order of energy cost in a conformational analysis of the C2-C3 bond in butane: 1) H-H eclipsed overlap; 2) CH<sub>3</sub>-CH<sub>3</sub> eclipsed overlap; 3) H-CH<sub>3</sub> eclipsed overlap."
         ],
         "parts_sanitized": [
-          "Rank the following three types of interactions in increasing order of energy cost in a conformational analysis of the C2-C3 bond in butane: 1) H-H eclipsed overlap; 2) CH3-CH3 eclipsed overlap; 3) H-CH3 eclipsed overlap."
+          "Rank the following three types of interactions in increasing order of energy cost in a conformational analysis of the C2-C3 bond in butane: 1) H-H eclipsed overlap; 2) CH₃-CH₃ eclipsed overlap; 3) H-CH₃ eclipsed overlap."
         ]
       }
     },

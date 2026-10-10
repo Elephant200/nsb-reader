@@ -92,7 +92,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Compared the complete question and answer with page 5 of packet 056; corrected only the printed mathematical/chemical formatting while retaining all source wording.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Determine the solubility product constant (or K ) of silver sp -7 bromide, given that its molar solubility is 5.71 10 moles per liter. -13<br>W) 3.26 10 -7<br>X) 5.71 10 -6<br>Y) 1.14 10 -4<br>Z) 2.14 10 -13",
         "options": [
@@ -112,7 +112,7 @@
           "Z) 2.14 × 10<sup>−4</sup>"
         ],
         "answer": "W) 3.26 × 10<sup>−13</sup>",
-        "question_sanitized": "Determine the solubility product constant (or K_sp) of silver bromide, given that its molar solubility is 5.71 x 10^-7 moles per liter. W) 3.26 x 10^-13; X) 5.71 x 10^-7; Y) 1.14 x 10^-6; Z) 2.14 x 10^-4",
+        "question_sanitized": "Determine the solubility product constant (or K_(sp)) of silver bromide, given that its molar solubility is 5.71 × 10⁻⁷ moles per liter.\nW) 3.26 × 10⁻¹³\nX) 5.71 × 10⁻⁷\nY) 1.14 × 10⁻⁶\nZ) 2.14 × 10⁻⁴",
         "answer_sanitized": "W) 3.26 x 10^-13"
       }
     },

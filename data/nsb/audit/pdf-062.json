@@ -132,7 +132,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared original PDF page 7 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 7 prints the radical expressions for all four choices; the corpus retained none of their mathematical notation. Restored the radicals, fraction, and squared x in the choice descriptions.",
       "before": {
         "question": "Which of the following radical expressions is in simplest form?<br>W) (read as: the square root of 31 over 3)<br>X) -5 (read as: negative 5 times the square root of 175)<br>Y) 6 (read as: 6 times the square root of the quantity x squared over 4)<br>Z) – (read as: the negative square root of 153 x)",
         "options": [
@@ -144,16 +144,16 @@
         "answer": "W) (read as: the square root of 31 over 3)"
       },
       "changes": {
-        "question": "Which of the following radical expressions is in simplest form?<br>W) <span class=\"nsb-fraction\"><span>√31</span><span>3</span></span> (read as: the square root of 31 over 3)<br>X) −5√175 (read as: negative 5 times the square root of 175)<br>Y) 6√(<span class=\"nsb-fraction\"><span>x<sup>2</sup></span><span>4</span></span>) (read as: 6 times the square root of the quantity x squared over 4)<br>Z) −√(153x) (read as: the negative square root of 153 x)",
-        "question_sanitized": "Which of the following radical expressions is in simplest form? W) (√31)/(3) (read as: the square root of 31 over 3); X) −5√175 (read as: negative 5 times the square root of 175); Y) 6√((x^2)/(4)) (read as: 6 times the square root of the quantity x squared over 4); Z) −√(153x) (read as: the negative square root of 153 x)",
+        "question": "Which of the following radical expressions is in simplest form?<br>W) √31/3 (read as: the square root of 31 over 3)<br>X) -5√175 (read as: negative 5 times the square root of 175)<br>Y) 6√(x²/4) (read as: 6 times the square root of the quantity x squared over 4)<br>Z) −√(153x) (read as: the negative square root of 153 x)",
+        "question_sanitized": "Which of the following radical expressions is in simplest form?\nW) √31/3 (read as: the square root of 31 over 3)\nX) -5√175 (read as: negative 5 times the square root of 175)\nY) 6√(x²/4) (read as: 6 times the square root of the quantity x squared over 4)\nZ) −√(153x) (read as: the negative square root of 153 x)",
         "options": [
-          "W) <span class=\"nsb-fraction\"><span>√31</span><span>3</span></span> (read as: the square root of 31 over 3)",
-          "X) −5√175 (read as: negative 5 times the square root of 175)",
-          "Y) 6√(<span class=\"nsb-fraction\"><span>x<sup>2</sup></span><span>4</span></span>) (read as: 6 times the square root of the quantity x squared over 4)",
+          "W) √31/3 (read as: the square root of 31 over 3)",
+          "X) -5√175 (read as: negative 5 times the square root of 175)",
+          "Y) 6√(x²/4) (read as: 6 times the square root of the quantity x squared over 4)",
           "Z) −√(153x) (read as: the negative square root of 153 x)"
         ],
-        "answer": "W) <span class=\"nsb-fraction\"><span>√31</span><span>3</span></span>",
-        "answer_sanitized": "W) (√31)/(3)"
+        "answer": "W) √31/3",
+        "answer_sanitized": "W) √31/3"
       }
     },
     {
@@ -184,13 +184,13 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Compared original PDF page 9 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "PDF page 9 prints y = x² − 15x + 54; the sampled corpus prompt omitted the superscript 2.",
       "before": {
         "question": "What are the x-intercepts of y = x – 15x + 54?"
       },
       "changes": {
-        "question": "What are the x-intercepts of y = x<sup>2</sup> − 15x + 54?",
-        "question_sanitized": "What are the x-intercepts of y = x^2 − 15x + 54?"
+        "question": "What are the x-intercepts of y = x² − 15x + 54?",
+        "question_sanitized": "What are the x-intercepts of y = x² − 15x + 54?"
       }
     },
     {
@@ -231,16 +231,16 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Compared original PDF page 11 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 11 asks for the reference angle of 7π/6 and prints the answer π/6; the corpus lost the fraction in the prompt and left the answer blank.",
       "before": {
         "question": "What is the reference angle for ?",
         "answer": ""
       },
       "changes": {
-        "question": "What is the reference angle for <span class=\"nsb-fraction\"><span>7π</span><span>6</span></span>?",
-        "question_sanitized": "What is the reference angle for (7π)/(6)?",
-        "answer": "<span class=\"nsb-fraction\"><span>π</span><span>6</span></span>",
-        "answer_sanitized": "(π)/(6)"
+        "question": "What is the reference angle for 7π/6?",
+        "question_sanitized": "What is the reference angle for 7π/6?",
+        "answer": "π/6",
+        "answer_sanitized": "π/6"
       }
     },
     {
@@ -417,7 +417,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared original PDF page 7 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 7 prints 7√(5x) × √(180x⁵) and answer −210x³; the corpus flattened the radical/exponent structure and dropped the answer exponent.",
       "before": {
         "parts": [
           "If x is negative, simplify (read as: 7 times the square root of 5x times the square root of, open parenthesis, 180x to the fifth, close parenthesis) 3"
@@ -428,16 +428,16 @@
       },
       "changes": {
         "parts": [
-          "If x is negative, simplify 7√(5x) × √(180x<sup>5</sup>) (read as: 7 times the square root of 5x times the square root of, open parenthesis, 180x to the fifth, close parenthesis)."
+          "If x is negative, simplify 7√(5x) × √(180x⁵) (read as: 7 times the square root of 5x times the square root of, open parenthesis, 180x to the fifth, close parenthesis)"
         ],
         "parts_sanitized": [
-          "If x is negative, simplify 7√(5x) × √(180x^5) (read as: 7 times the square root of 5x times the square root of, open parenthesis, 180x to the fifth, close parenthesis)."
+          "If x is negative, simplify 7√(5x) × √(180x⁵) (read as: 7 times the square root of 5x times the square root of, open parenthesis, 180x to the fifth, close parenthesis)"
         ],
         "answers": [
-          "−210x<sup>3</sup>"
+          "−210x³"
         ],
         "answers_sanitized": [
-          "−210x^3"
+          "−210x³"
         ]
       }
     },
@@ -510,7 +510,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Compared original PDF page 9 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 9 prints squared terms in all four equations and keys Z) x² − x + 1 = 0; the corpus flattened each exponent to a trailing “2”.",
       "before": {
         "parts": [
           "Which of the following equations does not have real solutions? 2<br>W) -3x + 3 = 0 2<br>X) x – 5x + 2 = 0 2<br>Y) 4x – 3x – 0.25 = 0 2<br>Z) x – x + 1 = 0 2"
@@ -527,22 +527,22 @@
       },
       "changes": {
         "parts": [
-          "Which of the following equations does not have real solutions?<br>W) −3x<sup>2</sup> + 3 = 0<br>X) x<sup>2</sup> − 5x + 2 = 0<br>Y) 4x<sup>2</sup> − 3x − 0.25 = 0<br>Z) x<sup>2</sup> − x + 1 = 0"
+          "Which of the following equations does not have real solutions?<br>W) −3x² + 3 = 0<br>X) x² − 5x + 2 = 0<br>Y) 4x² − 3x − 0.25 = 0<br>Z) x² − x + 1 = 0"
         ],
         "parts_sanitized": [
-          "Which of the following equations does not have real solutions?; W) −3x^2 + 3 = 0; X) x^2 − 5x + 2 = 0; Y) 4x^2 − 3x − 0.25 = 0; Z) x^2 − x + 1 = 0"
+          "Which of the following equations does not have real solutions?\nW) −3x² + 3 = 0\nX) x² − 5x + 2 = 0\nY) 4x² − 3x − 0.25 = 0\nZ) x² − x + 1 = 0"
         ],
         "options": [
-          "W) −3x<sup>2</sup> + 3 = 0",
-          "X) x<sup>2</sup> − 5x + 2 = 0",
-          "Y) 4x<sup>2</sup> − 3x − 0.25 = 0",
-          "Z) x<sup>2</sup> − x + 1 = 0"
+          "W) −3x² + 3 = 0",
+          "X) x² − 5x + 2 = 0",
+          "Y) 4x² − 3x − 0.25 = 0",
+          "Z) x² − x + 1 = 0"
         ],
         "answers": [
-          "Z) x<sup>2</sup> − x + 1 = 0"
+          "Z) x² − x + 1 = 0"
         ],
         "answers_sanitized": [
-          "Z) x^2 − x + 1 = 0"
+          "Z) x² − x + 1 = 0"
         ]
       }
     },
@@ -584,7 +584,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Compared original PDF page 11 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 11 asks for the angle between vectors AB and CD and prints 90°; the corpus lost the vector labels and answer.",
       "before": {
         "parts": [
           "Given coordinates A (1,2), B (7,1), C (3,0), and D (4,6), find the angle in degrees between and ."
@@ -595,12 +595,15 @@
       },
       "changes": {
         "parts": [
-          "Given coordinates A (1, 2), B (7, 1), C (3, 0), and D (4, 6), find the angle in degrees between vectors AB and CD."
+          "Given coordinates A (1,2), B (7,1), C (3,0), and D (4,6), find the angle in degrees between vectors AB and CD."
         ],
         "parts_sanitized": [
-          "Given coordinates A (1, 2), B (7, 1), C (3, 0), and D (4, 6), find the angle in degrees between vectors AB and CD."
+          "Given coordinates A (1,2), B (7,1), C (3,0), and D (4,6), find the angle in degrees between vectors AB and CD."
         ],
         "answers": [
+          "90°"
+        ],
+        "answers_sanitized": [
           "90°"
         ]
       }

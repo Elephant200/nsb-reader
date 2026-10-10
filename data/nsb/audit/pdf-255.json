@@ -110,7 +110,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Page 10 clearly prints CaO, BaCO₃, Sr₂SO₄, and Al₂O₃; answer is Z) Al₂O₃.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following oxygen- containing compounds has the highest mass percentage of oxygen?<br>W) CaO<br>X) BaCO<br>Y) Sr SO <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;4</span></span><br>Z) Al <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> O 3",
         "options": [
@@ -123,7 +123,7 @@
       },
       "changes": {
         "question": "Which of the following oxygen-containing compounds has the highest mass percentage of oxygen?<br>W) CaO<br>X) BaCO<sub>3</sub><br>Y) Sr<sub>2</sub>SO<sub>4</sub><br>Z) Al<sub>2</sub>O<sub>3</sub>",
-        "question_sanitized": "Which of the following oxygen-containing compounds has the highest mass percentage of oxygen?<br>W) CaO<br>X) BaCO3<br>Y) Sr2SO4<br>Z) Al2O3",
+        "question_sanitized": "Which of the following oxygen-containing compounds has the highest mass percentage of oxygen?\nW) CaO\nX) BaCO₃\nY) Sr₂SO₄\nZ) Al₂O₃",
         "options": [
           "W) CaO",
           "X) BaCO<sub>3</sub>",
@@ -131,7 +131,7 @@
           "Z) Al<sub>2</sub>O<sub>3</sub>"
         ],
         "answer": "Z) Al<sub>2</sub>O<sub>3</sub>",
-        "answer_sanitized": "Z) Al2O3"
+        "answer_sanitized": "Z) Al₂O₃"
       }
     },
     {
@@ -182,7 +182,7 @@
       "sourcePages": [
         16
       ],
-      "evidence": "Page 16 prints W) ZnSO₃, X) Zn₂SO₃, Y) Zn(SO₃)₂, Z) Zn₃(SO₃)₂ with both printed read-as cues; answer W) ZnSO₃.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the formula of the ionic compound composed of the zinc cation [CAT-eye-on] and sulfite anion [AN-eye-on]?<br>W) ZnSO<br>X) Zn SO <span class=\"nsb-fraction\">&lt;span&gt;3</span>&lt;span&gt;3</span></span> 2<br>Y) Zn(SO ) [Z-n-S-oh-3-2] 3 2<br>Z) Zn (SO ) [Z-n-3-S-oh-3-2] 3 3 2",
         "options": [
@@ -195,7 +195,7 @@
       },
       "changes": {
         "question": "What is the formula of the ionic compound composed of the zinc cation [CAT-eye-on] and sulfite anion [AN-eye-on]?<br>W) ZnSO<sub>3</sub><br>X) Zn<sub>2</sub>SO<sub>3</sub><br>Y) Zn(SO<sub>3</sub>)<sub>2</sub> [Z-n-S-oh-3-2]<br>Z) Zn<sub>3</sub>(SO<sub>3</sub>)<sub>2</sub> [Z-n-3-S-oh-3-2]",
-        "question_sanitized": "What is the formula of the ionic compound composed of the zinc cation [CAT-eye-on] and sulfite anion [AN-eye-on]?<br>W) ZnSO3<br>X) Zn2SO3<br>Y) Zn(SO3)2 [Z-n-S-oh-3-2]<br>Z) Zn3(SO3)2 [Z-n-3-S-oh-3-2]",
+        "question_sanitized": "What is the formula of the ionic compound composed of the zinc cation [CAT-eye-on] and sulfite anion [AN-eye-on]?\nW) ZnSO₃\nX) Zn₂SO₃\nY) Zn(SO₃)₂ [Z-n-S-oh-3-2]\nZ) Zn₃(SO₃)₂ [Z-n-3-S-oh-3-2]",
         "options": [
           "W) ZnSO<sub>3</sub>",
           "X) Zn<sub>2</sub>SO<sub>3</sub>",
@@ -203,7 +203,7 @@
           "Z) Zn<sub>3</sub>(SO<sub>3</sub>)<sub>2</sub> [Z-n-3-S-oh-3-2]"
         ],
         "answer": "W) ZnSO<sub>3</sub>",
-        "answer_sanitized": "W) ZnSO3"
+        "answer_sanitized": "W) ZnSO₃"
       }
     },
     {

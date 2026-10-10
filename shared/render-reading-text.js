@@ -54,5 +54,13 @@ function renderToken (token, openSpans) {
     return token;
   }
 
-  return escapeHTML(token);
+  return escapeHTML(token).replace(/\^\(([\p{L}\p{N}+−=./→∞-]+)\)|\^([+-]?\d+)(?![\w./])|_\(([\p{L}\p{N}+−=./→∞-]+)\)/giu, (_, groupedPower, power, subscript) => {
+    const value = groupedPower ?? power ?? subscript;
+    const type = subscript === undefined ? 'sup' : 'sub';
+    const digits = type === 'sup' ? '⁰¹²³⁴⁵⁶⁷⁸⁹' : '₀₁₂₃₄₅₆₇₈₉';
+    const signs = type === 'sup' ? { '+': '⁺', '-': '⁻', '−': '⁻', '=': '⁼' } : { '+': '₊', '-': '₋', '−': '₋', '=': '₌' };
+    const letters = type === 'sub' ? { a: 'ₐ', e: 'ₑ', h: 'ₕ', i: 'ᵢ', j: 'ⱼ', k: 'ₖ', l: 'ₗ', m: 'ₘ', n: 'ₙ', o: 'ₒ', p: 'ₚ', r: 'ᵣ', s: 'ₛ', t: 'ₜ', u: 'ᵤ', v: 'ᵥ', x: 'ₓ' } : {};
+    const converted = [...value].map(char => /\d/.test(char) ? digits[Number(char)] : signs[char] ?? letters[char]);
+    return converted.every(char => char !== undefined) ? converted.join('') : `<${type}>${value}</${type}>`;
+  });
 }

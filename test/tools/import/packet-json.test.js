@@ -99,3 +99,16 @@ test('sanitized math preserves fractional and nested powers, charges, dots, and 
   assert.equal(packet.tossups[0].question_sanitized, 'a^(b² + b) (4 × 10⁴)^(1/2) OH⁻ f″ x⋅y 5th');
   assert.equal(packet.tossups[0].answer_sanitized, 'x_(n+1)');
 });
+
+test('stacked fractions inside exponents retain the exponent in reading and answer text', () => {
+  const fraction = '<span class="nsb-fraction"><span>2</span><span>3</span></span>';
+  const packet = normalizePacketJson({
+    setName: 'Sample Set 1',
+    packetName: 'Round 1',
+    packetNumber: 1,
+    difficulty: 0,
+    data: { tossups: [{ question: `a<sup>${fraction}</sup> + b<sup>${fraction}</sup>`, answer: `a<sup>${fraction}</sup>`, category: 'Math' }], bonuses: [] }
+  });
+  assert.equal(packet.tossups[0].question_sanitized, 'a^(2/3) + b^(2/3)');
+  assert.equal(packet.tossups[0].answer_sanitized, 'a^(2/3)');
+});

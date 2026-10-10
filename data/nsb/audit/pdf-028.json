@@ -7,7 +7,9 @@
       "itemIndex": 0,
       "number": 1,
       "status": "verified",
-      "sourcePages": [1],
+      "sourcePages": [
+        1
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 1; the source stem and responses match."
     },
     {
@@ -15,27 +17,42 @@
       "itemIndex": 2,
       "number": 3,
       "status": "corrected",
-      "sourcePages": [2],
+      "sourcePages": [
+        2
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 2; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"question":"Dinitrogen tetroxide decomposes according to the reaction: N 2 O 4(g) ↔ 2NO 2(g) . If nitrogen dioxide appears at a rate of 4 molar per second, at what rate in molar per second is the dinitrogen tetroxide disappearing?"},
-      "changes": {"question":"Dinitrogen tetroxide decomposes according to the reaction: N<sub>2</sub>O<sub>4</sub>(g) ↔ 2NO<sub>2</sub>(g). If nitrogen dioxide appears at a rate of 4 molar per second, at what rate in molar per second is the dinitrogen tetroxide disappearing?"}
+      "before": {
+        "question": "Dinitrogen tetroxide decomposes according to the reaction: N 2 O 4(g) ↔ 2NO 2(g) . If nitrogen dioxide appears at a rate of 4 molar per second, at what rate in molar per second is the dinitrogen tetroxide disappearing?"
+      },
+      "changes": {
+        "question": "Dinitrogen tetroxide decomposes according to the reaction: N<sub>2</sub>O<sub>4</sub>(g) ↔ 2NO<sub>2</sub>(g). If nitrogen dioxide appears at a rate of 4 molar per second, at what rate in molar per second is the dinitrogen tetroxide disappearing?"
+      }
     },
     {
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
       "status": "corrected",
-      "sourcePages": [2],
+      "sourcePages": [
+        2
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 2; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"question":"Evaluate lim [the limit as x approaches 0 of the fraction with 𝑥𝑥→0 𝑥𝑥 numerator negative 5 plus 5 times e to the x and denominator x]."},
-      "changes": {"question":"Evaluate lim<sub>x→0</sub> <span class=\"nsb-fraction\"><span>−5 + 5e<sup>x</sup></span><span>x</span></span> [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x].","question_sanitized":"Evaluate the limit as x approaches 0 of (-5 + 5e^x)/x [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."}
+      "before": {
+        "question": "Evaluate lim [the limit as x approaches 0 of the fraction with 𝑥𝑥→0 𝑥𝑥 numerator negative 5 plus 5 times e to the x and denominator x]."
+      },
+      "changes": {
+        "question": "Evaluate lim<sub>x→0</sub> <span class=\"nsb-fraction\"><span>−5 + 5e<sup>x</sup></span><span>x</span></span> [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x].",
+        "question_sanitized": "Evaluate the limit as x approaches 0 of (-5 + 5e^x)/x [the limit as x approaches 0 of the fraction with numerator negative 5 plus 5 times e to the x and denominator x]."
+      }
     },
     {
       "kind": "tossups",
       "itemIndex": 4,
       "number": 5,
       "status": "verified",
-      "sourcePages": [3],
+      "sourcePages": [
+        3
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 3; the source stem and responses match."
     },
     {
@@ -43,7 +60,9 @@
       "itemIndex": 5,
       "number": 6,
       "status": "verified",
-      "sourcePages": [3],
+      "sourcePages": [
+        3
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 3; the source stem and responses match."
     },
     {
@@ -51,7 +70,9 @@
       "itemIndex": 6,
       "number": 7,
       "status": "verified",
-      "sourcePages": [4],
+      "sourcePages": [
+        4
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 4; the source stem and responses match."
     },
     {
@@ -59,7 +80,9 @@
       "itemIndex": 7,
       "number": 8,
       "status": "verified",
-      "sourcePages": [4],
+      "sourcePages": [
+        4
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 4; the source stem and responses match."
     },
     {
@@ -67,17 +90,26 @@
       "itemIndex": 8,
       "number": 9,
       "status": "corrected",
-      "sourcePages": [5],
+      "sourcePages": [
+        5
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 5; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"answer":"x2 + y2 = 169"},
-      "changes": {"answer":"x<sup>2</sup> + y<sup>2</sup> = 169","answer_sanitized":"x^2 + y^2 = 169"}
+      "before": {
+        "answer": "x2 + y2 = 169"
+      },
+      "changes": {
+        "answer": "x<sup>2</sup> + y<sup>2</sup> = 169",
+        "answer_sanitized": "x^2 + y^2 = 169"
+      }
     },
     {
       "kind": "tossups",
       "itemIndex": 10,
       "number": 11,
       "status": "verified",
-      "sourcePages": [6],
+      "sourcePages": [
+        6
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 6; the source stem and responses match."
     },
     {
@@ -85,7 +117,9 @@
       "itemIndex": 11,
       "number": 12,
       "status": "verified",
-      "sourcePages": [6],
+      "sourcePages": [
+        6
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 6; the source stem and responses match."
     },
     {
@@ -93,7 +127,9 @@
       "itemIndex": 12,
       "number": 13,
       "status": "verified",
-      "sourcePages": [7],
+      "sourcePages": [
+        7
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 7; the source stem and responses match."
     },
     {
@@ -101,7 +137,9 @@
       "itemIndex": 13,
       "number": 14,
       "status": "verified",
-      "sourcePages": [7],
+      "sourcePages": [
+        7
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 7; the source stem and responses match."
     },
     {
@@ -109,17 +147,26 @@
       "itemIndex": 14,
       "number": 15,
       "status": "corrected",
-      "sourcePages": [8],
-      "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 8; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"question":"What is the molecular geometry of the coordination compound [Co(NH 3 ) 4 Cl 2 ]+?"},
-      "changes": {"question":"What is the molecular geometry of the coordination compound [Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]<sup>+</sup>?","question_sanitized":"What is the molecular geometry of the coordination compound [Co(NH3)4Cl2]^+?"}
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
+      "before": {
+        "question": "What is the molecular geometry of the coordination compound [Co(NH 3 ) 4 Cl 2 ]+?"
+      },
+      "changes": {
+        "question": "What is the molecular geometry of the coordination compound [Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]<sup>+</sup>?",
+        "question_sanitized": "What is the molecular geometry of the coordination compound [Co(NH₃)₄Cl₂]⁺?"
+      }
     },
     {
       "kind": "tossups",
       "itemIndex": 15,
       "number": 16,
       "status": "verified",
-      "sourcePages": [8],
+      "sourcePages": [
+        8
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 8; the source stem and responses match."
     },
     {
@@ -127,7 +174,9 @@
       "itemIndex": 16,
       "number": 17,
       "status": "verified",
-      "sourcePages": [9],
+      "sourcePages": [
+        9
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 9; the source stem and responses match."
     },
     {
@@ -135,7 +184,9 @@
       "itemIndex": 17,
       "number": 18,
       "status": "verified",
-      "sourcePages": [9],
+      "sourcePages": [
+        9
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 9; the source stem and responses match."
     },
     {
@@ -143,17 +194,41 @@
       "itemIndex": 18,
       "number": 19,
       "status": "corrected",
-      "sourcePages": [10],
+      "sourcePages": [
+        10
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 10; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"question":"How many electrons are required to make up a net negative charge of 1 coulomb?<br>W) 1.6 x 10-19<br>X) 6.2 x 1018<br>Y) 1.6 x 1019<br>Z) 6.2 x 1019","answer":"X) 6.2 x 1018","options":["W) 1.6 x 10-19","X) 6.2 x 1018","Y) 1.6 x 1019","Z) 6.2 x 1019"]},
-      "changes": {"question":"How many electrons are required to make up a net negative charge of 1 coulomb?<br>W) 1.6 × 10<sup>-19</sup><br>X) 6.2 × 10<sup>18</sup><br>Y) 1.6 × 10<sup>19</sup><br>Z) 6.2 × 10<sup>19</sup>","question_sanitized":"How many electrons are required to make up a net negative charge of 1 coulomb? W) 1.6 × 10^(-19); X) 6.2 × 10^18; Y) 1.6 × 10^19; Z) 6.2 × 10^19","answer":"X) 6.2 × 10<sup>18</sup>","answer_sanitized":"X) 6.2 × 10^18","options":["W) 1.6 × 10<sup>-19</sup>","X) 6.2 × 10<sup>18</sup>","Y) 1.6 × 10<sup>19</sup>","Z) 6.2 × 10<sup>19</sup>"]}
+      "before": {
+        "question": "How many electrons are required to make up a net negative charge of 1 coulomb?<br>W) 1.6 x 10-19<br>X) 6.2 x 1018<br>Y) 1.6 x 1019<br>Z) 6.2 x 1019",
+        "answer": "X) 6.2 x 1018",
+        "options": [
+          "W) 1.6 x 10-19",
+          "X) 6.2 x 1018",
+          "Y) 1.6 x 1019",
+          "Z) 6.2 x 1019"
+        ]
+      },
+      "changes": {
+        "question": "How many electrons are required to make up a net negative charge of 1 coulomb?<br>W) 1.6 × 10<sup>-19</sup><br>X) 6.2 × 10<sup>18</sup><br>Y) 1.6 × 10<sup>19</sup><br>Z) 6.2 × 10<sup>19</sup>",
+        "question_sanitized": "How many electrons are required to make up a net negative charge of 1 coulomb? W) 1.6 × 10^(-19); X) 6.2 × 10^18; Y) 1.6 × 10^19; Z) 6.2 × 10^19",
+        "answer": "X) 6.2 × 10<sup>18</sup>",
+        "answer_sanitized": "X) 6.2 × 10^18",
+        "options": [
+          "W) 1.6 × 10<sup>-19</sup>",
+          "X) 6.2 × 10<sup>18</sup>",
+          "Y) 1.6 × 10<sup>19</sup>",
+          "Z) 6.2 × 10<sup>19</sup>"
+        ]
+      }
     },
     {
       "kind": "tossups",
       "itemIndex": 20,
       "number": 21,
       "status": "verified",
-      "sourcePages": [11],
+      "sourcePages": [
+        11
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 11; the source stem and responses match."
     },
     {
@@ -161,7 +236,9 @@
       "itemIndex": 21,
       "number": 22,
       "status": "verified",
-      "sourcePages": [11],
+      "sourcePages": [
+        11
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 11; the source stem and responses match."
     },
     {
@@ -169,7 +246,9 @@
       "itemIndex": 22,
       "number": 23,
       "status": "verified",
-      "sourcePages": [12],
+      "sourcePages": [
+        12
+      ],
       "evidence": "Compared the complete tossup 23 prompt and printed answer with Double Elimination Round 1, page 12; the source asks for the rectangular pen's maximum area and prints 1250."
     },
     {
@@ -177,7 +256,9 @@
       "itemIndex": 23,
       "number": 24,
       "status": "verified",
-      "sourcePages": [12],
+      "sourcePages": [
+        12
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 12; the source stem and responses match."
     },
     {
@@ -185,7 +266,9 @@
       "itemIndex": 24,
       "number": 25,
       "status": "verified",
-      "sourcePages": [13],
+      "sourcePages": [
+        13
+      ],
       "evidence": "Compared this complete tossup prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 13; the source stem and responses match."
     },
     {
@@ -193,7 +276,9 @@
       "itemIndex": 0,
       "number": 1,
       "status": "verified",
-      "sourcePages": [1],
+      "sourcePages": [
+        1
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 1; the source stem and responses match."
     },
     {
@@ -201,7 +286,9 @@
       "itemIndex": 1,
       "number": 2,
       "status": "verified",
-      "sourcePages": [1],
+      "sourcePages": [
+        1
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 1; the source stem and responses match."
     },
     {
@@ -209,7 +296,9 @@
       "itemIndex": 2,
       "number": 3,
       "status": "verified",
-      "sourcePages": [2],
+      "sourcePages": [
+        2
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 2; the source stem and responses match."
     },
     {
@@ -217,14 +306,22 @@
       "itemIndex": 3,
       "number": 4,
       "status": "corrected",
-      "sourcePages": [2],
+      "sourcePages": [
+        2
+      ],
       "evidence": "Rendered source page 2 prints the answer x² − 6x + 13 = 0; the corpus flattened the square exponent.",
       "before": {
-        "answers": ["x2 – 6x + 13 = 0"]
+        "answers": [
+          "x2 – 6x + 13 = 0"
+        ]
       },
       "changes": {
-        "answers": ["x<sup>2</sup> − 6x + 13 = 0"],
-        "answers_sanitized": ["x^2 − 6x + 13 = 0"]
+        "answers": [
+          "x<sup>2</sup> − 6x + 13 = 0"
+        ],
+        "answers_sanitized": [
+          "x^2 − 6x + 13 = 0"
+        ]
       }
     },
     {
@@ -232,7 +329,9 @@
       "itemIndex": 4,
       "number": 5,
       "status": "verified",
-      "sourcePages": [3],
+      "sourcePages": [
+        3
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 3; the source stem and responses match."
     },
     {
@@ -240,7 +339,9 @@
       "itemIndex": 5,
       "number": 6,
       "status": "verified",
-      "sourcePages": [3],
+      "sourcePages": [
+        3
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 3; the source stem and responses match."
     },
     {
@@ -248,7 +349,9 @@
       "itemIndex": 6,
       "number": 7,
       "status": "verified",
-      "sourcePages": [4],
+      "sourcePages": [
+        4
+      ],
       "evidence": "Compared the complete bonus 7 prompt, all four choices, and printed answer with Double Elimination Round 1, page 4; the wording and choice labels match the source."
     },
     {
@@ -256,7 +359,9 @@
       "itemIndex": 7,
       "number": 8,
       "status": "verified",
-      "sourcePages": [4],
+      "sourcePages": [
+        4
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 4; the source stem and responses match."
     },
     {
@@ -264,17 +369,36 @@
       "itemIndex": 8,
       "number": 9,
       "status": "corrected",
-      "sourcePages": [5],
-      "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 5; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"parts":["Evaluate:∫−1(𝑥𝑥 3 + 1)𝑑𝑑𝑑𝑑 [the integral from negative 1 to 1 of open parenthesis x cubed plus 1 close parenthesis dx]."]},
-      "changes": {"parts":["Evaluate: ∫<sub>−1</sub><sup>2</sup>(x<sup>3</sup> + 1)dx [the integral from negative 1 to 1 of open parenthesis x cubed plus 1 close parenthesis dx]."],"parts_sanitized":["Evaluate the integral from -1 to 2 of (x^3 + 1) dx [the integral from negative 1 to 1 of open parenthesis x cubed plus 1 close parenthesis dx]."]}
+      "sourcePages": [
+        5
+      ],
+      "evidence": "PDF page 5 prints upper bound 2 and answer 6.75 (ACCEPT: 6 ¾), but its spoken cue says upper bound 1. Correct the cue to 2 to agree with the printed expression and answer, and document the source erratum.",
+      "before": {
+        "parts": [
+          "Evaluate:∫−1(𝑥𝑥 3 + 1)𝑑𝑑𝑑𝑑 [the integral from negative 1 to 1 of open parenthesis x cubed plus 1 close parenthesis dx]."
+        ],
+        "notes": []
+      },
+      "changes": {
+        "parts": [
+          "Evaluate: ∫<sub>−1</sub><sup>2</sup>(x³ + 1)dx [the integral from negative 1 to 2 of open parenthesis x cubed plus 1 close parenthesis dx]."
+        ],
+        "parts_sanitized": [
+          "Evaluate: ∫₋₁²(x³ + 1)dx [the integral from negative 1 to 2 of open parenthesis x cubed plus 1 close parenthesis dx]."
+        ],
+        "notes": [
+          "Source erratum: the printed read-as cue gives upper bound 1, while the integral and answer use upper bound 2. The read-as cue is corrected to match the printed integral."
+        ]
+      }
     },
     {
       "kind": "bonuses",
       "itemIndex": 9,
       "number": 10,
       "status": "verified",
-      "sourcePages": [5],
+      "sourcePages": [
+        5
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 5; the source stem and responses match."
     },
     {
@@ -282,7 +406,9 @@
       "itemIndex": 10,
       "number": 11,
       "status": "verified",
-      "sourcePages": [6],
+      "sourcePages": [
+        6
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 6; the source stem and responses match."
     },
     {
@@ -290,7 +416,9 @@
       "itemIndex": 11,
       "number": 12,
       "status": "verified",
-      "sourcePages": [6],
+      "sourcePages": [
+        6
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 6; the source stem and responses match."
     },
     {
@@ -298,7 +426,9 @@
       "itemIndex": 12,
       "number": 13,
       "status": "verified",
-      "sourcePages": [7],
+      "sourcePages": [
+        7
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 7; the source stem and responses match."
     },
     {
@@ -306,37 +436,93 @@
       "itemIndex": 13,
       "number": 14,
       "status": "corrected",
-      "sourcePages": [7],
+      "sourcePages": [
+        7
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 7; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"parts":["What process is represented by the following: (Coal) + O 2 + H 2 O → H 2 + CO?"]},
-      "changes": {"parts":["What process is represented by the following: (Coal) + O<sub>2</sub> + H<sub>2</sub>O → H<sub>2</sub> + CO?"],"parts_sanitized":["What process is represented by the following: (Coal) + O2 + H2O -> H2 + CO?"]}
+      "before": {
+        "parts": [
+          "What process is represented by the following: (Coal) + O 2 + H 2 O → H 2 + CO?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What process is represented by the following: (Coal) + O<sub>2</sub> + H<sub>2</sub>O → H<sub>2</sub> + CO?"
+        ],
+        "parts_sanitized": [
+          "What process is represented by the following: (Coal) + O2 + H2O -> H2 + CO?"
+        ]
+      }
     },
     {
       "kind": "bonuses",
       "itemIndex": 14,
       "number": 15,
       "status": "corrected",
-      "sourcePages": [8],
+      "sourcePages": [
+        8
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 8; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"parts":["Match the following reactions: E2, S N 2, and E1 to the following three solvents in which they generally occur : 1) polar aprotic, 2) polar protic, 3) a variety of solvents."],"answers":["E2 = 3 (ACCEPT: VARIETY OF SOLVENTS); S N 2 = 1 (ACCEPT: POLAR APROTIC); E1 = 2 (ACCEPT: POLAR PROTIC)"]},
-      "changes": {"parts":["Match the following reactions: E2, S<sub>N</sub>2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."],"parts_sanitized":["Match the following reactions: E2, S_N2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."],"answers":["E2 = 3 (ACCEPT: VARIETY OF SOLVENTS); S<sub>N</sub>2 = 1 (ACCEPT: POLAR APROTIC); E1 = 2 (ACCEPT: POLAR PROTIC)"]}
+      "before": {
+        "parts": [
+          "Match the following reactions: E2, S N 2, and E1 to the following three solvents in which they generally occur : 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
+        ],
+        "answers": [
+          "E2 = 3 (ACCEPT: VARIETY OF SOLVENTS); S N 2 = 1 (ACCEPT: POLAR APROTIC); E1 = 2 (ACCEPT: POLAR PROTIC)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Match the following reactions: E2, S<sub>N</sub>2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
+        ],
+        "parts_sanitized": [
+          "Match the following reactions: E2, S_N2, and E1 to the following three solvents in which they generally occur: 1) polar aprotic, 2) polar protic, 3) a variety of solvents."
+        ],
+        "answers": [
+          "E2 = 3 (ACCEPT: VARIETY OF SOLVENTS); S<sub>N</sub>2 = 1 (ACCEPT: POLAR APROTIC); E1 = 2 (ACCEPT: POLAR PROTIC)"
+        ]
+      }
     },
     {
       "kind": "bonuses",
       "itemIndex": 15,
       "number": 16,
       "status": "corrected",
-      "sourcePages": [8],
-      "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 8; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"answers":["4"]},
-      "changes": {"answers":["<span class=\"nsb-fraction\"><span>√6 − √2</span><span>4</span></span>"],"answers_sanitized":["(√6 - √2)/4"]}
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Page 8 source answer is (√6−√2)/4; current answer is correct, but the numerator is also stranded at the end of the prompt.",
+      "before": {
+        "answers": [
+          "4"
+        ],
+        "parts": [
+          "What is the exact value of cos 75° [cosine of 75 degrees] in simplest radical form? √6−√2"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "<span class=\"nsb-fraction\"><span>√6 − √2</span><span>4</span></span>"
+        ],
+        "answers_sanitized": [
+          "(√6 - √2)/4"
+        ],
+        "parts": [
+          "What is the exact value of cos 75° [cosine of 75 degrees] in simplest radical form?"
+        ],
+        "parts_sanitized": [
+          "What is the exact value of cos 75° [cosine of 75 degrees] in simplest radical form?"
+        ]
+      }
     },
     {
       "kind": "bonuses",
       "itemIndex": 16,
       "number": 17,
       "status": "verified",
-      "sourcePages": [9],
+      "sourcePages": [
+        9
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 9; the source stem and responses match."
     },
     {
@@ -344,7 +530,9 @@
       "itemIndex": 17,
       "number": 18,
       "status": "verified",
-      "sourcePages": [9],
+      "sourcePages": [
+        9
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 9; the source stem and responses match."
     },
     {
@@ -352,7 +540,9 @@
       "itemIndex": 18,
       "number": 19,
       "status": "verified",
-      "sourcePages": [10],
+      "sourcePages": [
+        10
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 10; the source stem and responses match."
     },
     {
@@ -360,7 +550,9 @@
       "itemIndex": 19,
       "number": 20,
       "status": "verified",
-      "sourcePages": [10],
+      "sourcePages": [
+        10
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 10; the source stem and responses match."
     },
     {
@@ -368,7 +560,9 @@
       "itemIndex": 20,
       "number": 21,
       "status": "verified",
-      "sourcePages": [11],
+      "sourcePages": [
+        11
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 11; the source stem and responses match."
     },
     {
@@ -376,7 +570,9 @@
       "itemIndex": 21,
       "number": 22,
       "status": "verified",
-      "sourcePages": [11],
+      "sourcePages": [
+        11
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 11; the source stem and responses match."
     },
     {
@@ -384,17 +580,32 @@
       "itemIndex": 22,
       "number": 23,
       "status": "corrected",
-      "sourcePages": [12],
+      "sourcePages": [
+        12
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 12; the source stem and responses match. Applied the source-confirmed notation correction.",
-      "before": {"parts":["For the arithmetic sequence a n with a 1 = 5 and a 3 = -3, what is a 98 ?"]},
-      "changes": {"parts":["For the arithmetic sequence a<sub>n</sub> with a<sub>1</sub> = 5 and a<sub>3</sub> = −3, what is a<sub>98</sub>?"],"parts_sanitized":["For the arithmetic sequence a_n with a_1 = 5 and a_3 = -3, what is a_98?"]}
+      "before": {
+        "parts": [
+          "For the arithmetic sequence a n with a 1 = 5 and a 3 = -3, what is a 98 ?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For the arithmetic sequence a<sub>n</sub> with a<sub>1</sub> = 5 and a<sub>3</sub> = −3, what is a<sub>98</sub>?"
+        ],
+        "parts_sanitized": [
+          "For the arithmetic sequence a_n with a_1 = 5 and a_3 = -3, what is a_98?"
+        ]
+      }
     },
     {
       "kind": "bonuses",
       "itemIndex": 23,
       "number": 24,
       "status": "verified",
-      "sourcePages": [12],
+      "sourcePages": [
+        12
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 12; the source stem and responses match."
     },
     {
@@ -402,7 +613,9 @@
       "itemIndex": 24,
       "number": 25,
       "status": "verified",
-      "sourcePages": [13],
+      "sourcePages": [
+        13
+      ],
       "evidence": "Compared this complete bonus prompt, printed answer, all choices, and notes with Double Elimination Round 1, page 13; the source stem and responses match."
     }
   ],

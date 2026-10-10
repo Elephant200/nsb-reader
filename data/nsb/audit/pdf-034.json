@@ -36,11 +36,21 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2; visually compared its formula or scientific notation, and the corpus fields match."
+      "evidence": "The answer is 11 as in the source. The solution note drops the radical shown in PDF p. 2; restoring √2.",
+      "before": {
+        "notes": [
+          "(Solution: s = 16/ 2 = 11.3 cm)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: s = 16/√2 = 11.3 cm)"
+        ]
+      }
     },
     {
       "kind": "tossups",

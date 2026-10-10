@@ -467,11 +467,45 @@
       "kind": "bonuses",
       "itemIndex": 18,
       "number": 19,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "Matched bonus 19 by number and opening wording on Round 3 page 10; compared the complete prompt, choices, and answer to the printed page."
+      "evidence": "Page 10 choices are W) 7x+4>3, X) |x−1|>−10, Y) |x+3|<−2, Z) −100x+5≥8; current options are shifted/concatenated and key Y includes Z text.",
+      "before": {
+        "parts": [
+          "Which of the following inequalities has NO solutions? 7x + 4 &gt; 3<br>W) |x – 1| &gt; -10<br>X) [the absolute value of the quantity x minus 1 is greater than negative 10] |x + 3| &lt; -2<br>Y) [the absolute value of the quantity x plus 3 is less than negative 2] -100x + 5 ≥ 8<br>Z) |x + 3| &lt; -2"
+        ],
+        "answers": [
+          "Y) [the absolute value of the quantity x plus 3 is less than negative 2] -100x + 5 ≥ 8"
+        ],
+        "options": [
+          "W) |x – 1| &gt; -10",
+          "X) [the absolute value of the quantity x minus 1 is greater than negative 10] |x + 3| &lt; -2",
+          "Y) [the absolute value of the quantity x plus 3 is less than negative 2] -100x + 5 ≥ 8",
+          "Z) |x + 3| &lt; -2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following inequalities has NO solutions?<br>W) 7x + 4 > 3<br>X) |x − 1| > −10 [the absolute value of the quantity x minus 1 is greater than negative 10]<br>Y) |x + 3| < −2 [the absolute value of the quantity x plus 3 is less than negative 2]<br>Z) −100x + 5 ≥ 8"
+        ],
+        "answers": [
+          "Y) |x + 3| < −2"
+        ],
+        "options": [
+          "W) 7x + 4 > 3",
+          "X) |x − 1| > −10 [the absolute value of the quantity x minus 1 is greater than negative 10]",
+          "Y) |x + 3| < −2 [the absolute value of the quantity x plus 3 is less than negative 2]",
+          "Z) −100x + 5 ≥ 8"
+        ],
+        "parts_sanitized": [
+          "Which of the following inequalities has NO solutions?\nW) 7x + 4 > 3\nX) |x − 1| > −10 [the absolute value of the quantity x minus 1 is greater than negative 10]\nY) |x + 3| < −2 [the absolute value of the quantity x plus 3 is less than negative 2]\nZ) −100x + 5 ≥ 8"
+        ],
+        "answers_sanitized": [
+          "Y) |x + 3| < −2"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -511,7 +545,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Matched bonus 23 by number and opening wording on Round 3 page 12; compared the complete prompt, choices, and answer to the printed page.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following is the formula for n-Octadecanoic acid?<br>W) C<sub>6</sub> H<sub>12</sub> O<sub>6</sub><br>X) C<sub>18</sub> H<sub>36</sub> COOH<br>Y) C<sub>17</sub> H<sub>35</sub> COOH<br>Z) C<sub>16</sub> H<sub>32</sub> COOH"
@@ -531,7 +565,7 @@
           "Which of the following is the formula for n-octadecanoic acid?<br>W) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub><br>X) C<sub>18</sub>H<sub>36</sub>COOH<br>Y) C<sub>17</sub>H<sub>35</sub>COOH<br>Z) C<sub>16</sub>H<sub>32</sub>COOH"
         ],
         "parts_sanitized": [
-          "Which of the following is the formula for n-octadecanoic acid?<br>W) C6H12O6<br>X) C18H36COOH<br>Y) C17H35COOH<br>Z) C16H32COOH"
+          "Which of the following is the formula for n-octadecanoic acid?\nW) C₆H₁₂O₆\nX) C₁₈H₃₆COOH\nY) C₁₇H₃₅COOH\nZ) C₁₆H₃₂COOH"
         ],
         "options": [
           "W) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
@@ -558,11 +592,24 @@
       "kind": "bonuses",
       "itemIndex": 24,
       "number": 25,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         13
       ],
-      "evidence": "Matched bonus 25 by number and opening wording on Round 3 page 13; compared the complete prompt, choices, and answer to the printed page."
+      "evidence": "Page 13 prompt is f(x)=4x³−4x²+10 and asks f(−2), with spoken cue; current extracted prompt lost the defining formula.",
+      "before": {
+        "parts": [
+          "If 3 2 then what is [f of negative 2]?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) = 4x³ − 4x² + 10, then what is f(−2) [f of negative 2]?"
+        ],
+        "parts_sanitized": [
+          "If f(x) = 4x³ − 4x² + 10, then what is f(−2) [f of negative 2]?"
+        ]
+      }
     }
   ],
   "packetIssues": []

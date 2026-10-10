@@ -56,13 +56,13 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Viewed p.5: butan-2-one question prints CH₃ and CH₂ with subscripts; answer is TRIPLET (accept 3).",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Consider the proton NMR spectrum of butan-2-one [byoo-tan-too-own]. What is the multiplicity of the CH group adjacent to the CH group? 3 2"
       },
       "changes": {
         "question": "Consider the proton NMR spectrum of butan-2-one [byoo-tan-too-own]. What is the multiplicity of the CH<sub>3</sub> group adjacent to the CH<sub>2</sub> group?",
-        "question_sanitized": "Consider the proton NMR spectrum of butan-2-one [byoo-tan-too-own]. What is the multiplicity of the CH3 group adjacent to the CH2 group?"
+        "question_sanitized": "Consider the proton NMR spectrum of butan-2-one [byoo-tan-too-own]. What is the multiplicity of the CH₃ group adjacent to the CH₂ group?"
       }
     },
     {

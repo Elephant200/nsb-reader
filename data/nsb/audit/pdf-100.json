@@ -50,13 +50,13 @@
       "sourcePages": [
         3
       ],
-      "evidence": "PDF p.3 includes the full source sentence and all W–Z choices; the notation uses n₁, n₂, and n₃.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "A human eye has three layers with refractive indices n 1 , n 2 , and n 3 , where n 1 &lt; n 2 and n 1 = n 3 . Which of the following properties of a light ray is the same in all layers?<br>W) Frequency only<br>X) Speed only<br>Y) Wavelength only<br>Z) Frequency and speed"
       },
       "changes": {
         "question": "A human eye has three layers with refractive indices n<sub>1</sub>, n<sub>2</sub>, and n<sub>3</sub>, where n<sub>1</sub> &lt; n<sub>2</sub> and n<sub>1</sub> = n<sub>3</sub>. Which of the following properties of a light ray is the same in all layers?<br>W) Frequency only<br>X) Speed only<br>Y) Wavelength only<br>Z) Frequency and speed",
-        "question_sanitized": "A human eye has three layers with refractive indices n1, n2, and n3, where n1 < n2 and n1 = n3. Which of the following properties of a light ray is the same in all layers? W) Frequency only X) Speed only Y) Wavelength only Z) Frequency and speed"
+        "question_sanitized": "A human eye has three layers with refractive indices n₁, n₂, and n₃, where n₁ < n₂ and n₁ = n₃. Which of the following properties of a light ray is the same in all layers?\nW) Frequency only\nX) Speed only\nY) Wavelength only\nZ) Frequency and speed"
       }
     },
     {
@@ -477,7 +477,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Rendered PDF page 13 shows all four parenthesized ratio powers and their read-as cues; the keyed W ratio also has surrounding parentheses before its fourth power.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Two pipes of diameters 𝑑1 and 𝑑2 are connected. What is the ratio of kinetic energy per unit volume (k 1 /k 2 ) of water flowing through these pipes? 𝑑 4<br>W) � 2 � [open parenthesis d2 over d1 close parenthesis to the power of 4] 𝑑1 𝑑 2<br>X) � 2 � [open parenthesis d2 over d1 close parenthesis to the power of 2] 𝑑1 𝑑 4<br>Y) � 1 � [open parenthesis d1 over d2 close parenthesis to the power of 4] 𝑑2 𝑑1 2<br>Z) � � [open parenthesis d1 over d2 close parenthesis to the power of 2] 𝑑2 𝑑 4"
@@ -497,7 +497,7 @@
           "Two pipes of diameters d<sub>1</sub> and d<sub>2</sub> are connected. What is the ratio of kinetic energy per unit volume (k<sub>1</sub>/k<sub>2</sub>) of water flowing through these pipes?<br>W) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>4</sup> [open parenthesis d2 over d1 close parenthesis to the power of 4]<br>X) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>2</sup> [open parenthesis d2 over d1 close parenthesis to the power of 2]<br>Y) (<span class=\"nsb-fraction\"><span>d<sub>1</sub></span><span>d<sub>2</sub></span></span>)<sup>4</sup> [open parenthesis d1 over d2 close parenthesis to the power of 4]<br>Z) (<span class=\"nsb-fraction\"><span>d<sub>1</sub></span><span>d<sub>2</sub></span></span>)<sup>2</sup> [open parenthesis d1 over d2 close parenthesis to the power of 2]"
         ],
         "parts_sanitized": [
-          "Two pipes of diameters d1 and d2 are connected. What is the ratio of kinetic energy per unit volume (k1/k2) of water flowing through these pipes? W) (d2/d1)^4 [open parenthesis d2 over d1 close parenthesis to the power of 4] X) (d2/d1)^2 [open parenthesis d2 over d1 close parenthesis to the power of 2] Y) (d1/d2)^4 [open parenthesis d1 over d2 close parenthesis to the power of 4] Z) (d1/d2)^2 [open parenthesis d1 over d2 close parenthesis to the power of 2]"
+          "Two pipes of diameters d₁ and d₂ are connected. What is the ratio of kinetic energy per unit volume (k₁/k₂) of water flowing through these pipes?\nW) ((d₂)/(d₁))⁴ [open parenthesis d2 over d1 close parenthesis to the power of 4]\nX) ((d₂)/(d₁))² [open parenthesis d2 over d1 close parenthesis to the power of 2]\nY) ((d₁)/(d₂))⁴ [open parenthesis d1 over d2 close parenthesis to the power of 4]\nZ) ((d₁)/(d₂))² [open parenthesis d1 over d2 close parenthesis to the power of 2]"
         ],
         "options": [
           "W) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>4</sup> [open parenthesis d2 over d1 close parenthesis to the power of 4]",
@@ -509,7 +509,7 @@
           "W) (<span class=\"nsb-fraction\"><span>d<sub>2</sub></span><span>d<sub>1</sub></span></span>)<sup>4</sup>"
         ],
         "answers_sanitized": [
-          "W) (d2/d1)^4"
+          "W) ((d₂)/(d₁))⁴"
         ]
       }
     }

@@ -85,11 +85,18 @@
       "kind": "tossups",
       "itemIndex": 6,
       "number": 7,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 4; wording matches."
+      "evidence": "Page 4 limit is sin(3x)/x as x→0, answer 3; current extraction has detached numerator/denominator fragments.",
+      "before": {
+        "question": "What is the limit as x approaches 0 of [the fraction with 𝑥𝑥 numerator sine of 3x and denominator x]?"
+      },
+      "changes": {
+        "question": "What is the limit as x approaches 0 of <span class=\"nsb-fraction\"><span>sin(3x)</span><span>x</span></span> [the fraction with numerator sine of 3x and denominator x]?",
+        "question_sanitized": "What is the limit as x approaches 0 of (sin(3x))/(x) [the fraction with numerator sine of 3x and denominator x]?"
+      }
     },
     {
       "kind": "tossups",
@@ -195,11 +202,33 @@
       "kind": "tossups",
       "itemIndex": 18,
       "number": 19,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered PDF page 10 and visually compared its math notation; prompt, answer, options, and notes match."
+      "evidence": "Page 10 wheel circumference 8π times 6 revolutions gives 48π; current π symbols are duplicated and mixed into the option numerals.",
+      "before": {
+        "question": "Which of the following represents the number of inches a rolling wheel with a radius of 4 inches travels on level ground in 6 revolutions?<br>W) 24 𝜋𝜋<br>X) 48 𝜋𝜋<br>Y) 96 𝜋𝜋<br>Z) 144 𝜋𝜋",
+        "options": [
+          "W) 24 𝜋𝜋",
+          "X) 48 𝜋𝜋",
+          "Y) 96 𝜋𝜋",
+          "Z) 144 𝜋𝜋"
+        ],
+        "answer": "X) 48 𝜋𝜋"
+      },
+      "changes": {
+        "question": "Which of the following represents the number of inches a rolling wheel with a radius of 4 inches travels on level ground in 6 revolutions?<br>W) 24π<br>X) 48π<br>Y) 96π<br>Z) 144π",
+        "options": [
+          "W) 24π",
+          "X) 48π",
+          "Y) 96π",
+          "Z) 144π"
+        ],
+        "answer": "X) 48π",
+        "question_sanitized": "Which of the following represents the number of inches a rolling wheel with a radius of 4 inches travels on level ground in 6 revolutions?\nW) 24π\nX) 48π\nY) 96π\nZ) 144π",
+        "answer_sanitized": "X) 48π"
+      }
     },
     {
       "kind": "tossups",
@@ -422,11 +451,24 @@
       "kind": "bonuses",
       "itemIndex": 12,
       "number": 13,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         7
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 7; wording matches."
+      "evidence": "Page 7 limit x(−1+e^(1/x)) as x→∞ is 1; current formula text has lost the limit subscript and exponential grouping.",
+      "before": {
+        "parts": [
+          "Evaluate lim 𝑥𝑥(−1 + 𝑒𝑒 1⁄𝑥𝑥 ) [the limit as x approaches infinity of x 𝑥𝑥 →∞ times the quantity negative 1 plus e to the 1 over x]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Evaluate lim<sub>x→∞</sub> x(−1 + e<sup>1/x</sup>) [the limit as x approaches infinity of x times the quantity negative 1 plus e to the 1 over x]."
+        ],
+        "parts_sanitized": [
+          "Evaluate lim_(x→∞) x(−1 + e^(1/x)) [the limit as x approaches infinity of x times the quantity negative 1 plus e to the 1 over x]."
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -482,11 +524,33 @@
       "kind": "bonuses",
       "itemIndex": 18,
       "number": 19,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered PDF page 10 and visually compared its math notation; prompt, answer, options, and notes match."
+      "evidence": "Page 10 matrix determinant equals 3; current extraction loses the matrix layout although its read-as cue states all four entries.",
+      "before": {
+        "parts": [
+          "Expressing your answer in simplest form, find all values of x for which 𝑥𝑥 − 3 6 the determinant of the following matrix is 3: � � [the 2 by 2 matrix with row 1: the 1 2𝑥𝑥 + 1 quantity x minus 3, 6 and row 2: 1, the quantity 2x plus 1]."
+        ],
+        "answers": [
+          "-1.5 AND 4 (ACCEPT: -3/2 AND 4)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Expressing your answer in simplest form, find all values of x for which the determinant of the following matrix is 3: det([[x − 3, 6], [1, 2x + 1]]) [the 2 by 2 matrix with row 1: the quantity x minus 3, 6 and row 2: 1, the quantity 2x plus 1]."
+        ],
+        "answers": [
+          "−1.5 AND 4 (ACCEPT: −3/2 AND 4)"
+        ],
+        "parts_sanitized": [
+          "Expressing your answer in simplest form, find all values of x for which the determinant of the following matrix is 3: det([[x − 3, 6], [1, 2x + 1]]) [the 2 by 2 matrix with row 1: the quantity x minus 3, 6 and row 2: 1, the quantity 2x plus 1]."
+        ],
+        "answers_sanitized": [
+          "−1.5 AND 4 (ACCEPT: −3/2 AND 4)"
+        ]
+      }
     },
     {
       "kind": "bonuses",

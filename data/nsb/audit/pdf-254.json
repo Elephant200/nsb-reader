@@ -161,13 +161,13 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Viewed p.13 at high resolution: source equation is N₂O₄ → 2NO₂; reaction order key ONE (accept FIRST).",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the order of the reaction N O yields 2NO ? 2 4 2"
       },
       "changes": {
         "question": "What is the order of the reaction N<sub>2</sub>O<sub>4</sub> yields 2NO<sub>2</sub>?",
-        "question_sanitized": "What is the order of the reaction N2O4 yields 2NO2?"
+        "question_sanitized": "What is the order of the reaction N₂O₄ yields 2NO₂?"
       }
     },
     {
@@ -368,7 +368,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Viewed p.13 at high resolution: formulas print S₈+F₂→SF₆; Zn+HCl→ZnCl₂+H₂; P₄O₁₀+H₂O→H₃PO₄; key NONE.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S + F 8 2 yields SF ; 2) Zn + HCl yields ZnCl + H ; 3) P O + H O yields 6 2 2 4 10 2 H PO . 3 4"
@@ -379,7 +379,7 @@
           "Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S<sub>8</sub> + F<sub>2</sub> yields SF<sub>6</sub>; 2) Zn + HCl yields ZnCl<sub>2</sub> + H<sub>2</sub>; 3) P<sub>4</sub>O<sub>10</sub> + H<sub>2</sub>O yields H<sub>3</sub>PO<sub>4</sub>."
         ],
         "parts_sanitized": [
-          "Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S8 + F2 yields SF6; 2) Zn + HCl yields ZnCl2 + H2; 3) P4O10 + H2O yields H3PO4."
+          "Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S₈ + F₂ yields SF₆; 2) Zn + HCl yields ZnCl₂ + H₂; 3) P₄O₁₀ + H₂O yields H₃PO₄."
         ]
       }
     },

@@ -146,13 +146,13 @@
       "sourcePages": [
         7
       ],
-      "evidence": "PDF p.7 visibly prints question 14 (tossups) beginning “The PH 3 molecule has what type of molecular geometry? W) Trigonal pyramidal X) Trigo”; its printed answer “W) TRIGONAL PYRAMIDAL” matches the corpus. All W/X/Y/Z choices were compared against the same printed item.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "The PH 3 molecule has what type of molecular geometry?<br>W) Trigonal pyramidal<br>X) Trigonal planar<br>Y) Angular<br>Z) Tetrahedral"
       },
       "changes": {
         "question": "The PH<sub>3</sub> molecule has what type of molecular geometry?<br>W) Trigonal pyramidal<br>X) Trigonal planar<br>Y) Angular<br>Z) Tetrahedral",
-        "question_sanitized": "The PH3 molecule has what type of molecular geometry? W) Trigonal pyramidal X) Trigonal planar Y) Angular Z) Tetrahedral"
+        "question_sanitized": "The PH₃ molecule has what type of molecular geometry?\nW) Trigonal pyramidal\nX) Trigonal planar\nY) Angular\nZ) Tetrahedral"
       }
     },
     {
@@ -516,7 +516,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "PDF p.10 visibly prints question 20 (bonuses) beginning “Hydrazine, N 2 H 4 , is manufactured at extremely high pressures and temperatures usi”; its printed answer “11.2” matches the corpus. The printed response and surrounding wording were compared.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Hydrazine, N 2 H 4 , is manufactured at extremely high pressures and temperatures using ammonia gas and producing hydrogen gas. If 22.4 liters of ammonia gas are used to make hydrazine, how many liters of hydrazine gas are produced?"
@@ -527,7 +527,7 @@
           "Hydrazine, N<sub>2</sub>H<sub>4</sub>, is manufactured at extremely high pressures and temperatures using ammonia gas and producing hydrogen gas. If 22.4 liters of ammonia gas are used to make hydrazine, how many liters of hydrazine gas are produced?"
         ],
         "parts_sanitized": [
-          "Hydrazine, N2H4, is manufactured at extremely high pressures and temperatures using ammonia gas and producing hydrogen gas. If 22.4 liters of ammonia gas are used to make hydrazine, how many liters of hydrazine gas are produced?"
+          "Hydrazine, N₂H₄, is manufactured at extremely high pressures and temperatures using ammonia gas and producing hydrogen gas. If 22.4 liters of ammonia gas are used to make hydrazine, how many liters of hydrazine gas are produced?"
         ]
       }
     },

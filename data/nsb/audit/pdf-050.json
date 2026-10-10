@@ -196,13 +196,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 10; corrected formatting visible in the source: H₂ spacing.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the oxidation state of Hydrogen in H<sub>2</sub> ?"
       },
       "changes": {
         "question": "What is the oxidation state of Hydrogen in H<sub>2</sub>?",
-        "question_sanitized": "What is the oxidation state of Hydrogen in H2?"
+        "question_sanitized": "What is the oxidation state of Hydrogen in H₂?"
       }
     },
     {
@@ -528,7 +528,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Compared the complete stem, answer, choices, and notes against the printed page 10; corrected formatting visible in the source: LiAlH₄ spacing.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the oxidation state of Hydrogen in LiAlH<sub>4</sub> ?"
@@ -539,7 +539,7 @@
           "What is the oxidation state of Hydrogen in LiAlH<sub>4</sub>?"
         ],
         "parts_sanitized": [
-          "What is the oxidation state of Hydrogen in LiAlH4?"
+          "What is the oxidation state of Hydrogen in LiAlH₄?"
         ]
       }
     },

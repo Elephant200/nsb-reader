@@ -129,13 +129,13 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared original PDF page 7 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 7 asks for i⁸; the corpus prompt omitted the exponent 8.",
       "before": {
         "question": "Express the complex number i in standard a + bi form equivalent."
       },
       "changes": {
-        "question": "Express the complex number i<sup>8</sup> in standard a + bi form equivalent.",
-        "question_sanitized": "Express the complex number i^8 in standard a + bi form equivalent."
+        "question": "Express the complex number i⁸ in standard a + bi form equivalent.",
+        "question_sanitized": "Express the complex number i⁸ in standard a + bi form equivalent."
       }
     },
     {
@@ -254,25 +254,13 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Compared original PDF page 12 visually with the corpus; restored omitted notation or answer content. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "Source PDF page 12 prints x² − 3x = 0; the corpus prompt lost the superscript 2.",
       "before": {
-        "question": "Which of the following intervals contains both solutions of x - 3x = 0?<br>W) 0 less than x less than 2<br>X) 0 less than x less than 4<br>Y) 0 less than or equal to x less than 4<br>Z) -3 less than x less than or equal to 2",
-        "options": [
-          "W) 0 less than x less than 2",
-          "X) 0 less than x less than 4",
-          "Y) 0 less than or equal to x less than 4",
-          "Z) -3 less than x less than or equal to 2"
-        ]
+        "question": "Which of the following intervals contains both solutions of x - 3x = 0?<br>W) 0 less than x less than 2<br>X) 0 less than x less than 4<br>Y) 0 less than or equal to x less than 4<br>Z) -3 less than x less than or equal to 2"
       },
       "changes": {
-        "question": "Which of the following intervals contains both solutions of x<sup>2</sup> − 3x = 0?<br>W) 0 less than x less than 2<br>X) 0 less than x less than 4<br>Y) 0 less than or equal to x less than 4<br>Z) −3 less than x less than or equal to 2",
-        "question_sanitized": "Which of the following intervals contains both solutions of x^2 − 3x = 0?; W) 0 less than x less than 2; X) 0 less than x less than 4; Y) 0 less than or equal to x less than 4; Z) −3 less than x less than or equal to 2",
-        "options": [
-          "W) 0 less than x less than 2",
-          "X) 0 less than x less than 4",
-          "Y) 0 less than or equal to x less than 4",
-          "Z) −3 less than x less than or equal to 2"
-        ]
+        "question": "Which of the following intervals contains both solutions of x² − 3x = 0?<br>W) 0 less than x less than 2<br>X) 0 less than x less than 4<br>Y) 0 less than or equal to x less than 4<br>Z) -3 less than x less than or equal to 2",
+        "question_sanitized": "Which of the following intervals contains both solutions of x² − 3x = 0?\nW) 0 less than x less than 2\nX) 0 less than x less than 4\nY) 0 less than or equal to x less than 4\nZ) -3 less than x less than or equal to 2"
       }
     },
     {
@@ -303,7 +291,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Compared original PDF page 1 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 1 includes the displayed expression 16a⁴ − 81b⁴ after the instruction; the corpus part omitted it.",
       "before": {
         "parts": [
           "Factor the following expression completely over the integers:"
@@ -314,10 +302,10 @@
       },
       "changes": {
         "parts": [
-          "Factor the following expression completely over the integers: 16a<sup>4</sup> − 81b<sup>4</sup>"
+          "Factor the following expression completely over the integers: 16a⁴ − 81b⁴"
         ],
         "parts_sanitized": [
-          "Factor the following expression completely over the integers: 16a^4 − 81b^4"
+          "Factor the following expression completely over the integers: 16a⁴ − 81b⁴"
         ],
         "answers": [
           "(4a<sup>2</sup> + 9b<sup>2</sup>)(2a + 3b)(2a − 3b)"
@@ -345,7 +333,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared original PDF page 2 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Source PDF page 2 prints eˣ and the Taylor terms x²/2 and x²/2!; the corpus dropped x from the prompt exponent and superscript 2s in both answer occurrences.",
       "before": {
         "parts": [
           "What are the first three terms of the Taylor series for e at 0? 2 2"
@@ -356,16 +344,16 @@
       },
       "changes": {
         "parts": [
-          "What are the first three terms of the Taylor series for e<sup>x</sup> at 0?"
+          "What are the first three terms of the Taylor series for eˣ at 0?"
         ],
         "parts_sanitized": [
-          "What are the first three terms of the Taylor series for e^(x) at 0?"
+          "What are the first three terms of the Taylor series for eˣ at 0?"
         ],
         "answers": [
-          "1, x, x<sup>2</sup>/2 (ACCEPT: 1, x/1!, x<sup>2</sup>/2!)"
+          "1, x, x²/2 (ACCEPT: 1, x/1!, x²/2!)"
         ],
         "answers_sanitized": [
-          "1, x, x^2/2 (ACCEPT: 1, x/1!, x^2/2!)"
+          "1, x, x²/2 (ACCEPT: 1, x/1!, x²/2!)"
         ]
       }
     },
@@ -417,7 +405,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Compared original PDF page 5 visually with the corpus; restored omitted notation or answer content.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2 H<sub>2</sub> O (read as: in equilibrium with) 2 H + O . In one experiment, the (g) 2(g) 2(g) equilibrium concentrations of the gases are as follows: [H<sub>2</sub> ] = 2.0M, [O<sub>2</sub> ] = 3.0M and [H<sub>2</sub> O] = 4.0M. Calculate the value of K for this reaction. eq"
@@ -431,13 +419,13 @@
           "The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2H<sub>2</sub>O(g) (read as: in equilibrium with) 2H<sub>2</sub>(g) + O<sub>2</sub>(g). In one experiment, the equilibrium concentrations of the gases are as follows: [H<sub>2</sub>] = 2.0 M, [O<sub>2</sub>] = 3.0 M and [H<sub>2</sub>O] = 4.0 M. Calculate the value of K<sub>eq</sub> for this reaction."
         ],
         "parts_sanitized": [
-          "The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2H2O(g) (read as: in equilibrium with) 2H2(g) + O2(g). In one experiment, the equilibrium concentrations of the gases are as follows: [H2] = 2.0 M, [O2] = 3.0 M and [H2O] = 4.0 M. Calculate the value of K_eq for this reaction."
+          "The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2H₂O(g) (read as: in equilibrium with) 2H₂(g) + O₂(g). In one experiment, the equilibrium concentrations of the gases are as follows: [H₂] = 2.0 M, [O₂] = 3.0 M and [H₂O] = 4.0 M. Calculate the value of K_(eq) for this reaction."
         ],
         "answers": [
           "K<sub>eq</sub> = 0.75"
         ],
         "answers_sanitized": [
-          "K_eq = 0.75"
+          "K_(eq) = 0.75"
         ]
       }
     },

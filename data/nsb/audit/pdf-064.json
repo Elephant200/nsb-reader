@@ -36,7 +36,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the original PDF page 2 visually with the corpus; restored missing or displaced mathematical notation.",
+      "evidence": "Source PDF page 2 prints the summation ∑ from x = 1 to n of log x; the corpus lost the summation limits and summand.",
       "before": {
         "question": "Express (read as: the summation of x equals 1 to n of log of<br>X) with a factorial.",
         "options": [
@@ -45,7 +45,7 @@
       },
       "changes": {
         "question": "Express ∑<sub>x=1</sub><sup>n</sup> log x (read as: the summation of x equals 1 to n of log of x) with a factorial.",
-        "question_sanitized": "Express the sum from x = 1 to n of log x (read as: the summation of x equals 1 to n of log of x) with a factorial.",
+        "question_sanitized": "Express ∑_(x=1)^(n) log x (read as: the summation of x equals 1 to n of log of x) with a factorial.",
         "options": []
       }
     },
@@ -77,7 +77,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Compared the original PDF page 3 visually with the corpus; restored missing or displaced mathematical notation. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "Source PDF page 3 prints absolute value, x², x³, and 1/x² in the choices; corpus dropped or flattened those symbols and the answer exponent.",
       "before": {
         "question": "Which of the following functions is one-to-one?<br>W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3) 2<br>X) f(x) = x – 6x + 11 (read as: f of x equals x squared minus 6 x plus 11) 3<br>Y) f(x) = 5x + 9 (read as: f of x equals 5 x cubed plus 9)<br>Z) f(x) = (read as: f of x equals 1 over x squared) 3",
         "options": [
@@ -89,16 +89,16 @@
         "answer": "Y) f(x) = 5x + 9"
       },
       "changes": {
-        "question": "Which of the following functions is one-to-one?<br>W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)<br>X) f(x) = x<sup>2</sup> − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)<br>Y) f(x) = 5x<sup>3</sup> + 9 (read as: f of x equals 5 x cubed plus 9)<br>Z) f(x) = 1/x<sup>2</sup> (read as: f of x equals 1 over x squared)",
-        "question_sanitized": "Which of the following functions is one-to-one?; W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3); X) f(x) = x^2 − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11); Y) f(x) = 5x^3 + 9 (read as: f of x equals 5 x cubed plus 9); Z) f(x) = 1/x^2 (read as: f of x equals 1 over x squared)",
+        "question": "Which of the following functions is one-to-one?<br>W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)<br>X) f(x) = x² − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)<br>Y) f(x) = 5x³ + 9 (read as: f of x equals 5 x cubed plus 9)<br>Z) f(x) = 1/x² (read as: f of x equals 1 over x squared)",
+        "question_sanitized": "Which of the following functions is one-to-one?\nW) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)\nX) f(x) = x² − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)\nY) f(x) = 5x³ + 9 (read as: f of x equals 5 x cubed plus 9)\nZ) f(x) = 1/x² (read as: f of x equals 1 over x squared)",
         "options": [
           "W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)",
-          "X) f(x) = x<sup>2</sup> − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)",
-          "Y) f(x) = 5x<sup>3</sup> + 9 (read as: f of x equals 5 x cubed plus 9)",
-          "Z) f(x) = 1/x<sup>2</sup> (read as: f of x equals 1 over x squared)"
+          "X) f(x) = x² − 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)",
+          "Y) f(x) = 5x³ + 9 (read as: f of x equals 5 x cubed plus 9)",
+          "Z) f(x) = 1/x² (read as: f of x equals 1 over x squared)"
         ],
-        "answer": "Y) f(x) = 5x<sup>3</sup> + 9",
-        "answer_sanitized": "Y) f(x) = 5x^3 + 9"
+        "answer": "Y) f(x) = 5x³ + 9",
+        "answer_sanitized": "Y) f(x) = 5x³ + 9"
       }
     },
     {
@@ -149,16 +149,16 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Compared the original PDF page 6 visually with the corpus; restored missing or displaced mathematical notation.",
+      "evidence": "Source PDF page 6 prints 12x³ − 6x² + 3/x⁵ − 25, with derivative 36x² − 12x − 15/x⁶; the corpus omitted powers, fraction, and most of the answer.",
       "before": {
         "question": "Find the derivative of 12x - 6x + – 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25) 2",
         "answer": "36x –12x -"
       },
       "changes": {
-        "question": "Find the derivative of 12x<sup>3</sup> − 6x<sup>2</sup> + 3/x<sup>5</sup> − 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25).",
-        "question_sanitized": "Find the derivative of 12x^3 − 6x^2 + 3/x^5 − 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25).",
-        "answer": "36x<sup>2</sup> − 12x − <span class=\"nsb-fraction\"><span>15</span><span>x<sup>6</sup></span></span>",
-        "answer_sanitized": "36x^2 − 12x − (15)/(x^6)"
+        "question": "Find the derivative of 12x³ − 6x² + 3/x⁵ − 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25).",
+        "question_sanitized": "Find the derivative of 12x³ − 6x² + 3/x⁵ − 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25).",
+        "answer": "36x² − 12x − 15/x⁶",
+        "answer_sanitized": "36x² − 12x − 15/x⁶"
       }
     },
     {
@@ -169,16 +169,16 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared the original PDF page 7 visually with the corpus; restored missing or displaced mathematical notation.",
+      "evidence": "Source PDF page 7 prints tan(5π/4) + sin(π/6), with answer 3/2; the corpus lost both fractions and left the answer blank.",
       "before": {
         "question": "What is tan + sin ?",
         "answer": ""
       },
       "changes": {
-        "question": "What is tan(<span class=\"nsb-fraction\"><span>5π</span><span>4</span></span>) + sin(<span class=\"nsb-fraction\"><span>π</span><span>6</span></span>)?",
-        "question_sanitized": "What is tan((5π)/(4)) + sin((π)/(6))?",
-        "answer": "<span class=\"nsb-fraction\"><span>3</span><span>2</span></span>",
-        "answer_sanitized": "(3)/(2)"
+        "question": "What is tan(5π/4) + sin(π/6)?",
+        "question_sanitized": "What is tan(5π/4) + sin(π/6)?",
+        "answer": "3/2",
+        "answer_sanitized": "3/2"
       }
     },
     {
@@ -341,11 +341,24 @@
       "kind": "bonuses",
       "itemIndex": 5,
       "number": 6,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         3
       ],
-      "evidence": "Compared flagged record with original PDF page 3; wording, answer/options, and notation agree."
+      "evidence": "Source PDF page 3 prints the area as 10√3; the corpus answer omitted the radical.",
+      "before": {
+        "answers": [
+          "10"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "10√3"
+        ],
+        "answers_sanitized": [
+          "10√3"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -407,11 +420,24 @@
       "kind": "bonuses",
       "itemIndex": 11,
       "number": 12,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared flagged record with original PDF page 6; wording, answer/options, and notation agree."
+      "evidence": "Source PDF page 6 prints f(x) = 2x³ + 3x² − 10x + 30; the corpus flattened the exponents.",
+      "before": {
+        "parts": [
+          "A particle’s displacement in meters can be described by the function 3 2 f(x) = 2x + 3x - 10x + 30. At x = 5 seconds, what is the acceleration in meters per second squared? Provide your answer to the nearest integer."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A particle’s displacement in meters can be described by the function f(x) = 2x³ + 3x² − 10x + 30. At x = 5 seconds, what is the acceleration in meters per second squared? Provide your answer to the nearest integer."
+        ],
+        "parts_sanitized": [
+          "A particle's displacement in meters can be described by the function f(x) = 2x³ + 3x² − 10x + 30. At x = 5 seconds, what is the acceleration in meters per second squared? Provide your answer to the nearest integer."
+        ]
+      }
     },
     {
       "kind": "bonuses",

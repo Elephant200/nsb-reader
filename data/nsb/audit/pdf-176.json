@@ -87,13 +87,13 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered PDF page 4 prints PCl₅ → PCl₃ + Cl₂ without spaces before punctuation; the question and all four verbalized fraction choices and answer Y are present in the import. Remove extraction spaces after subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Consider the gas-phase decomposition of PCl<sub>5</sub> into PCl<sub>3</sub> and Cl<sub>2</sub> . If the reaction begins with 5 atmospheres of PCl<sub>5</sub> , and if the partial pressure of chlorine is x atm at equilibrium, which of the following expressions for Kp is correct?<br>W) The fraction with numerator x and denominator 5 minus x<br>X) The fraction with numerator x and denominator open parenthesis 5 minus x close parenthesis squared<br>Y) The fraction with numerator x squared and denominator 5 minus x<br>Z) The fraction with numerator x squared and denominator open parenthesis 5 minus x close parenthesis squared"
       },
       "changes": {
         "question": "Consider the gas-phase decomposition of PCl<sub>5</sub> into PCl<sub>3</sub> and Cl<sub>2</sub>. If the reaction begins with 5 atmospheres of PCl<sub>5</sub>, and if the partial pressure of chlorine is x atm at equilibrium, which of the following expressions for Kp is correct?<br>W) The fraction with numerator x and denominator 5 minus x<br>X) The fraction with numerator x and denominator open parenthesis 5 minus x close parenthesis squared<br>Y) The fraction with numerator x squared and denominator 5 minus x<br>Z) The fraction with numerator x squared and denominator open parenthesis 5 minus x close parenthesis squared",
-        "question_sanitized": "Consider the gas-phase decomposition of PCl5 into PCl3 and Cl2. If the reaction begins with 5 atmospheres of PCl5, and if the partial pressure of chlorine is x atm at equilibrium, which of the following expressions for Kp is correct? W) The fraction with numerator x and denominator 5 minus x X) The fraction with numerator x and denominator open parenthesis 5 minus x close parenthesis squared Y) The fraction with numerator x squared and denominator 5 minus x Z) The fraction with numerator x squared and denominator open parenthesis 5 minus x close parenthesis squared"
+        "question_sanitized": "Consider the gas-phase decomposition of PCl₅ into PCl₃ and Cl₂. If the reaction begins with 5 atmospheres of PCl₅, and if the partial pressure of chlorine is x atm at equilibrium, which of the following expressions for Kp is correct?\nW) The fraction with numerator x and denominator 5 minus x\nX) The fraction with numerator x and denominator open parenthesis 5 minus x close parenthesis squared\nY) The fraction with numerator x squared and denominator 5 minus x\nZ) The fraction with numerator x squared and denominator open parenthesis 5 minus x close parenthesis squared"
       }
     },
     {
@@ -355,7 +355,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered PDF page 3 places [tetrah-BROH-mide] after “Iodine tetrabromide” and before “anion [AN-eye-on]”; the 1− charge is superscripted. Restore source order and charge formatting.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Identify all of the following four species that have a square planar geometry: 1) Sulfur tetrafluoride [tetrah-FLOOR-ide] ; 2) Carbon tetrachloride [tetrah-KLOOR-ide] ; 3) Xenon [ZEE-non] tetrafluoride; 4) Iodine tetrabromide anion with a 1 – charge [tetrah-BROH-mide] [AN-eye-on]"
@@ -366,7 +366,7 @@
           "Identify all of the following four species that have a square planar geometry: 1) Sulfur tetrafluoride [tetrah-FLOOR-ide]; 2) Carbon tetrachloride [tetrah-KLOOR-ide]; 3) Xenon [ZEE-non] tetrafluoride; 4) Iodine tetrabromide [tetrah-BROH-mide] anion [AN-eye-on] with a 1<sup>−</sup> charge."
         ],
         "parts_sanitized": [
-          "Identify all of the following four species that have a square planar geometry: 1) Sulfur tetrafluoride [tetrah-FLOOR-ide]; 2) Carbon tetrachloride [tetrah-KLOOR-ide]; 3) Xenon [ZEE-non] tetrafluoride; 4) Iodine tetrabromide [tetrah-BROH-mide] anion [AN-eye-on] with a 1− charge."
+          "Identify all of the following four species that have a square planar geometry: 1) Sulfur tetrafluoride [tetrah-FLOOR-ide]; 2) Carbon tetrachloride [tetrah-KLOOR-ide]; 3) Xenon [ZEE-non] tetrafluoride; 4) Iodine tetrabromide [tetrah-BROH-mide] anion [AN-eye-on] with a 1⁻ charge."
         ]
       }
     },

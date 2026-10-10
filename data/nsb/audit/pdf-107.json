@@ -50,7 +50,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Source p. 3 visibly prints OH⁻ and H⁺ in the Y/Z balancing choices and repeats hydroxide (OH⁻) in the answer; corpus lost both charge signs.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following is NOT a step in balancing a redox reaction in an acidic solution?<br>W) Write the unbalanced net ionic equation<br>X) Determine which atoms are oxidized and which atoms are reduced -<br>Y) Balance each half-reaction for O by adding hydroxide (OH ) to the side with less oxygen +<br>Z) Balance each half-reaction for H by adding H to the side with less H -",
         "options": [
@@ -69,9 +69,9 @@
           "Y) Balance each half-reaction for O by adding hydroxide (OH<sup>−</sup>) to the side with less oxygen",
           "Z) Balance each half-reaction for H by adding H<sup>+</sup> to the side with less H"
         ],
-        "question_sanitized": "Which of the following is NOT a step in balancing a redox reaction in an acidic solution? W) Write the unbalanced net ionic equation X) Determine which atoms are oxidized and which atoms are reduced Y) Balance each half-reaction for O by adding hydroxide (OH-) to the side with less oxygen Z) Balance each half-reaction for H by adding H+ to the side with less H",
+        "question_sanitized": "Which of the following is NOT a step in balancing a redox reaction in an acidic solution?\nW) Write the unbalanced net ionic equation\nX) Determine which atoms are oxidized and which atoms are reduced\nY) Balance each half-reaction for O by adding hydroxide (OH⁻) to the side with less oxygen\nZ) Balance each half-reaction for H by adding H⁺ to the side with less H",
         "answer": "Y) BALANCE EACH HALF-REACTION FOR O BY ADDING HYDROXIDE (OH<sup>−</sup>) TO THE SIDE WITH LESS OXYGEN",
-        "answer_sanitized": "Y) BALANCE EACH HALF-REACTION FOR O BY ADDING HYDROXIDE (OH-) TO THE SIDE WITH LESS OXYGEN"
+        "answer_sanitized": "Y) BALANCE EACH HALF-REACTION FOR O BY ADDING HYDROXIDE (OH⁻) TO THE SIDE WITH LESS OXYGEN"
       }
     },
     {
@@ -294,11 +294,24 @@
       "kind": "bonuses",
       "itemIndex": 1,
       "number": 2,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Source p. 1 prints “CHEMISTRY Short Answer If the pK a of a weak acid is 4.74, what is the pK b of its conjugate”; answer 9.26 agrees with the record and displayed choices."
+      "evidence": "Rendered packet 107, page 1 shows pK with subscript a in the first term and subscript b in the second. The corpus dropped both subscript letters and split “base” into “a b base.” The full prompt is restored with both subscripts.",
+      "before": {
+        "parts": [
+          "If the pK of a weak acid is 4.74, what is the pK of its conjugate a b base?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If the pK<sub>a</sub> of a weak acid is 4.74, what is the pK<sub>b</sub> of its conjugate base?"
+        ],
+        "parts_sanitized": [
+          "If the pK_(a) of a weak acid is 4.74, what is the pK_(b) of its conjugate base?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

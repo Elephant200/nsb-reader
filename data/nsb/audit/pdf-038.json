@@ -181,13 +181,13 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 shows Fe²⁺; the corpus omitted its charge.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "When iron becomes the ion Fe , it<br>W) loses two, 3d electrons<br>X) loses two, 4s electrons<br>Y) gains two, 3d electrons<br>Z) gains two, 4s electrons"
       },
       "changes": {
         "question": "When iron becomes the ion Fe<sup>2+</sup>, it<br>W) loses two, 3d electrons<br>X) loses two, 4s electrons<br>Y) gains two, 3d electrons<br>Z) gains two, 4s electrons",
-        "question_sanitized": "When iron becomes the ion Fe2+, it<br>W) loses two, 3d electrons<br>X) loses two, 4s electrons<br>Y) gains two, 3d electrons<br>Z) gains two, 4s electrons"
+        "question_sanitized": "When iron becomes the ion Fe²⁺, it\nW) loses two, 3d electrons\nX) loses two, 4s electrons\nY) gains two, 3d electrons\nZ) gains two, 4s electrons"
       }
     },
     {
@@ -298,7 +298,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows CH₂O and C₂H₄O₂ with contiguous formula subscripts; the corpus inserted spaces after them.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "CH<sub>2</sub> O"
@@ -312,7 +312,7 @@
           "CH<sub>2</sub>O"
         ],
         "answers_sanitized": [
-          "CH2O"
+          "CH₂O"
         ],
         "notes": [
           "(Solution: C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> in 1:2:1 ratio)"
@@ -669,7 +669,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered PDF page 12 shows CH₄, N₂, BaCl₂, and NH₃, accepting CH₄ and N₂; the corpus spaces formula subscripts away from their elements.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Name all of the following compounds that exhibit ONLY London forces: CH<sub>4</sub> ; N<sub>2</sub> ; BaCl<sub>2</sub> ; NH<sub>3</sub>"
@@ -683,13 +683,13 @@
           "Name all of the following compounds that exhibit ONLY London forces: CH<sub>4</sub>; N<sub>2</sub>; BaCl<sub>2</sub>; NH<sub>3</sub>"
         ],
         "parts_sanitized": [
-          "Name all of the following compounds that exhibit ONLY London forces: CH4; N2; BaCl2; NH3"
+          "Name all of the following compounds that exhibit ONLY London forces: CH₄; N₂; BaCl₂; NH₃"
         ],
         "answers": [
           "CH<sub>4</sub>; N<sub>2</sub>"
         ],
         "answers_sanitized": [
-          "CH4; N2"
+          "CH₄; N₂"
         ]
       }
     },

@@ -464,7 +464,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Compared the complete item against page 8 of packet 058; restored notation lost in extraction while retaining source wording and the printed read-as cue.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO<sub>3</sub> )"
@@ -475,7 +475,7 @@
           "CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO<sub>3</sub>)"
         ],
         "answers_sanitized": [
-          "CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO3)"
+          "CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO₃)"
         ]
       }
     },

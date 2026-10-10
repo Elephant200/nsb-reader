@@ -97,7 +97,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Page 5 shows the printed ion charges: Na²⁺, Al³⁺, B²⁺, Kr²⁺; answer is X) Al³⁺.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following is a common ion? 2+<br>W) Na 3+<br>X) Al 2+<br>Y) B 2+<br>Z) Kr 3+",
         "answer": "X) Al",
@@ -118,7 +118,7 @@
           "Z) Kr<sup>2+</sup>"
         ],
         "question_sanitized": "Which of the following is a common ion? W) Na²⁺; X) Al³⁺; Y) B²⁺; Z) Kr²⁺",
-        "answer_sanitized": "X) Al(3+)"
+        "answer_sanitized": "X) Al³⁺"
       }
     },
     {

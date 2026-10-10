@@ -172,13 +172,13 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Page 13 prints Cu₂O in both photocatalyst mentions and the [EYE-you-pack] cue; restored both subscripts while retaining the full prompt.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Argonne National Lab researchers are studying photocatalysts made of Cu O to reduce carbon dioxide into 2 methanol. What is the IUPAC [EYE-you-pack] name for Cu O? 2"
       },
       "changes": {
         "question": "Argonne National Lab researchers are studying photocatalysts made of Cu<sub>2</sub>O to reduce carbon dioxide into methanol. What is the IUPAC [EYE-you-pack] name for Cu<sub>2</sub>O?",
-        "question_sanitized": "Argonne National Lab researchers are studying photocatalysts made of Cu2O to reduce carbon dioxide into methanol. What is the IUPAC [EYE-you-pack] name for Cu2O?"
+        "question_sanitized": "Argonne National Lab researchers are studying photocatalysts made of Cu₂O to reduce carbon dioxide into methanol. What is the IUPAC [EYE-you-pack] name for Cu₂O?"
       }
     },
     {
@@ -336,7 +336,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Page 11 prints CH₃COOH and H₃PO₄ with subscripts in the four weak-acid examples; restored their subscripts, retaining every example and answer ALL.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH COOH; 3) HCN; 3 4) H PO . 3 4"
@@ -347,7 +347,7 @@
           "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH<sub>3</sub>COOH; 3) HCN; 4) H<sub>3</sub>PO<sub>4</sub>."
         ],
         "parts_sanitized": [
-          "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH3COOH; 3) HCN; 4) H3PO4."
+          "Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH₃COOH; 3) HCN; 4) H₃PO₄."
         ]
       }
     },

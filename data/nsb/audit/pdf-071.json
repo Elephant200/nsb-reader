@@ -373,7 +373,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Compared against packet 071 source PDF page 6; source shows the restored notation/wording in the listed fields.",
+      "evidence": "Source PDF page 6 prints −2 − 2i√3 and trigonometric form 4(cos(4π/3) + i sin(4π/3)); the corpus lost the radical and fraction notation.",
       "before": {
         "parts": [
           "Convert the complex number -2 - 2i 3 to trigonometric form. 4π 4π"
@@ -384,10 +384,10 @@
       },
       "changes": {
         "parts": [
-          "Convert the complex number -2 - 2i√3 to trigonometric form."
+          "Convert the complex number −2 − 2i√3 to trigonometric form."
         ],
         "parts_sanitized": [
-          "Convert the complex number -2 - 2i√3 to trigonometric form."
+          "Convert the complex number −2 − 2i√3 to trigonometric form."
         ],
         "answers": [
           "4(cos(4π/3) + i sin(4π/3))"
@@ -485,18 +485,27 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Compared against packet 071 source PDF page 10; source shows the restored notation/wording in the listed fields.",
+      "evidence": "Source PDF page 10 prints integrals from 1 to 3 of 2f(x) and 5f(x); the corpus mangled the integral limits and functions.",
       "before": {
         "parts": [
           "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and 3 3 g(3) = 4. Calculate 2f x dx - 5f x dx (read as: the integral from 1 to 3 of 2 f of x dx minus 1 the integral from 1 to 3 of 5 f of x<sup>1</sup> dx)."
+        ],
+        "answers": [
+          "-6"
         ]
       },
       "changes": {
         "parts": [
-          "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate ∫₁³ 2f(x) dx - ∫₁³ 5f(x) dx (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 f of x dx)."
+          "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate ∫₁³ 2f(x) dx − ∫₁³ 5f(x) dx. (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 f of x dx)."
         ],
         "parts_sanitized": [
-          "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate the integral from 1 to 3 of 2 f(x) dx minus the integral from 1 to 3 of 5 f(x) dx (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 f of x dx)."
+          "Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate ∫₁³ 2f(x) dx − ∫₁³ 5f(x) dx. (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 f of x dx)."
+        ],
+        "answers": [
+          "−6"
+        ],
+        "answers_sanitized": [
+          "−6"
         ]
       }
     },

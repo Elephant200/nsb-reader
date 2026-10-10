@@ -100,13 +100,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Compared against packet 070 source PDF page 6; source shows the restored notation/wording in the listed fields.",
+      "evidence": "Source PDF page 6 asks for 115²; the corpus omitted the exponent 2.",
       "before": {
         "question": "What is the numerical value of 115 ?"
       },
       "changes": {
-        "question": "What is the numerical value of 115<sup>2</sup>?",
-        "question_sanitized": "What is the numerical value of 115^2?"
+        "question": "What is the numerical value of 115²?",
+        "question_sanitized": "What is the numerical value of 115²?"
       }
     },
     {
@@ -273,11 +273,24 @@
       "kind": "bonuses",
       "itemIndex": 4,
       "number": 5,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         3
       ],
-      "evidence": "Compared prompt, embedded choices where present, and answer against packet 070 source PDF page 3; wording and content match."
+      "evidence": "Source PDF page 3 prints x = eᵗ; the corpus omitted the exponent t.",
+      "before": {
+        "parts": [
+          "Find the slope of the line tangent to the parametric curve at the given point: x = e t , and y = lnt (read as: y equals the natural log of t) at t = 1."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Find the slope of the line tangent to the parametric curve at the given point: x = eᵗ, and y = ln t at t = 1."
+        ],
+        "parts_sanitized": [
+          "Find the slope of the line tangent to the parametric curve at the given point: x = eᵗ, and y = ln t at t = 1."
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -337,7 +350,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Compared against packet 070 source PDF page 6; source shows the restored notation/wording in the listed fields.",
+      "evidence": "Source PDF page 6 asks for the coefficient of x³ in (x + 2)⁵; the corpus lost both exponents.",
       "before": {
         "parts": [
           "What is the coefficient corresponding to x in the binomial expansion 5 of (x + 2) (read as: the quantity x plus 2 to the power of 5)?"
@@ -345,10 +358,10 @@
       },
       "changes": {
         "parts": [
-          "What is the coefficient corresponding to x<sup>3</sup> in the binomial expansion of (x + 2)<sup>5</sup> (read as: the quantity x plus 2 to the power of 5)?"
+          "What is the coefficient corresponding to x³ in the binomial expansion of (x + 2)⁵ (read as: the quantity x plus 2 to the power of 5)?"
         ],
         "parts_sanitized": [
-          "What is the coefficient corresponding to x^3 in the binomial expansion of (x + 2)^5 (read as: the quantity x plus 2 to the power of 5)?"
+          "What is the coefficient corresponding to x³ in the binomial expansion of (x + 2)⁵ (read as: the quantity x plus 2 to the power of 5)?"
         ]
       }
     },
@@ -396,11 +409,24 @@
       "kind": "bonuses",
       "itemIndex": 15,
       "number": 16,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "Compared prompt, embedded choices where present, and answer against packet 070 source PDF page 8; wording and content match."
+      "evidence": "Source PDF page 8 prints f(x) = 3x² − 4x + 1; the corpus lost parentheses and the exponent.",
+      "before": {
+        "parts": [
+          "Considering the function f x = 3x 2 - 4x + 1, what is the average rate of change from x = 2 to x = 5?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Considering the function f(x) = 3x² − 4x + 1, what is the average rate of change from x = 2 to x = 5?"
+        ],
+        "parts_sanitized": [
+          "Considering the function f(x) = 3x² − 4x + 1, what is the average rate of change from x = 2 to x = 5?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

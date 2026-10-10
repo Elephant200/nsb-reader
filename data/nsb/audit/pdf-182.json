@@ -423,7 +423,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 prints the accepted formula PbSO₄ with no space before the closing parenthesis. Remove the imported stray space and preserve all accepted answer text.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO<sub>4</sub> )"
@@ -434,7 +434,7 @@
           "LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO<sub>4</sub>)"
         ],
         "answers_sanitized": [
-          "LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO4)"
+          "LEAD SULFATE (ACCEPT: LEAD (II) SULFATE, PbSO₄)"
         ]
       }
     },

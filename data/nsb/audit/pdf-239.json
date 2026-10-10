@@ -372,7 +372,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Page 12 answer is [Co(NH₃)₆]³⁺; corpus extraction split the two subscripts and superscript charge into baseline fragments.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "[Co(NH ) ] 3+ 3 6"
@@ -383,7 +383,7 @@
           "[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"
         ],
         "answers_sanitized": [
-          "[Co(NH3)6]3+"
+          "[Co(NH₃)₆]³⁺"
         ]
       }
     },
@@ -445,7 +445,7 @@
       "sourcePages": [
         18
       ],
-      "evidence": "Page 18 prints C₂H₇N and accepts formulas including CH₃CH₂NH₂ and C₂H₅NH₂; corpus extraction separated the formula digits and mangled the first alternative with a fraction span.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "C H N (accept formula in any order of elements, 7 including CH <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;3</span></span> CH NH and C H NH ) 2 2 2 5 2"
@@ -456,7 +456,7 @@
           "C<sub>2</sub>H<sub>7</sub>N (accept formula in any order of elements, including CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub> and C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>)"
         ],
         "answers_sanitized": [
-          "C2H7N (accept formula in any order of elements, including CH3CH2NH2 and C2H5NH2)"
+          "C₂H₇N (accept formula in any order of elements, including CH₃CH₂NH₂ and C₂H₅NH₂)"
         ]
       }
     }

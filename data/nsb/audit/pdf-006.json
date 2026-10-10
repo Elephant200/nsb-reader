@@ -146,11 +146,21 @@
       "kind": "tossups",
       "itemIndex": 17,
       "number": 18,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 9; source text and notation agree with the corpus."
+      "evidence": "PDF page 9 asks which quadrant θ terminates in when sine is positive and secant is negative. The corpus prompt is truncated and its ordinal answer is flattened.",
+      "before": {
+        "question": "In what quadrant does secant θ is negative? nd",
+        "answer": "2 (ACCEPT: 2)"
+      },
+      "changes": {
+        "question": "In what quadrant does θ (read as: theta) terminate if sine θ is positive and secant θ is negative?",
+        "answer": "2ⁿᵈ (ACCEPT: 2)",
+        "question_sanitized": "In what quadrant does θ (read as: theta) terminate if sine θ is positive and secant θ is negative?",
+        "answer_sanitized": "2ⁿᵈ (ACCEPT: 2)"
+      }
     },
     {
       "kind": "tossups",

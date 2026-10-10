@@ -136,7 +136,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched toss-up 16 by number and opening text on Round 15 page 8; checked the complete item and mathematical/chemical notation against the page image.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following molecules contains only one non- bonding pair of valence electrons?<br>W) HCN 4+<br>X) NH<br>Y) C<sub>2</sub> H<sub>4</sub><br>Z) N<sub>2</sub>",
         "options": [
@@ -148,7 +148,7 @@
       },
       "changes": {
         "question": "Which of the following molecules contains only one non-bonding pair of valence electrons?<br>W) HCN<br>X) NH<sub>4</sub><sup>+</sup><br>Y) C<sub>2</sub>H<sub>4</sub><br>Z) N<sub>2</sub>",
-        "question_sanitized": "Which of the following molecules contains only one non-bonding pair of valence electrons?<br>W) HCN<br>X) NH4^+<br>Y) C2H4<br>Z) N2",
+        "question_sanitized": "Which of the following molecules contains only one non-bonding pair of valence electrons?\nW) HCN\nX) NH₄⁺\nY) C₂H₄\nZ) N₂",
         "options": [
           "W) HCN",
           "X) NH<sub>4</sub><sup>+</sup>",
@@ -304,7 +304,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Matched bonus 6 by number and opening text on Round 15 page 3; checked the complete item and mathematical/chemical notation against the page image.",
+      "evidence": "Source PDF page 3 prints choices √π, π/3, π²/6, and π³/12, with answer Y; the corpus lost or displaced the exponents and radical across the options.",
       "before": {
         "parts": [
           "The sum of the squares of reciprocals of all positive integers equals which of the following?<br>W) π<br>X) π/3 2<br>Y) π /6 3<br>Z) π /12 2"
@@ -321,19 +321,22 @@
       },
       "changes": {
         "parts": [
-          "The sum of the squares of reciprocals of all positive integers equals which of the following?<br>W) √π<br>X) π/3<br>Y) π<sup>2</sup>/6<br>Z) π<sup>3</sup>/12"
+          "The sum of the squares of reciprocals of all positive integers equals which of the following?<br>W) √π<br>X) π/3<br>Y) π²/6<br>Z) π³/12"
         ],
         "parts_sanitized": [
-          "The sum of the squares of reciprocals of all positive integers equals which of the following?<br>W) sqrt(pi)<br>X) pi/3<br>Y) pi^2/6<br>Z) pi^3/12"
+          "The sum of the squares of reciprocals of all positive integers equals which of the following?\nW) √π\nX) π/3\nY) π²/6\nZ) π³/12"
         ],
         "options": [
           "W) √π",
           "X) π/3",
-          "Y) π<sup>2</sup>/6",
-          "Z) π<sup>3</sup>/12"
+          "Y) π²/6",
+          "Z) π³/12"
         ],
         "answers": [
-          "Y) π<sup>2</sup>/6"
+          "Y) π²/6"
+        ],
+        "answers_sanitized": [
+          "Y) π²/6"
         ]
       }
     },
@@ -407,7 +410,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Matched bonus 11 by number and opening text on Round 15 page 6; checked the complete item and mathematical/chemical notation against the page image.",
+      "evidence": "Source PDF page 6 prints the space diagonal as 2√70; the corpus lost the radical.",
       "before": {
         "answers": [
           "2 70"
@@ -418,7 +421,7 @@
           "2√70"
         ],
         "answers_sanitized": [
-          "2sqrt(70)"
+          "2√70"
         ]
       }
     },
@@ -612,7 +615,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Matched bonus 25 by number and opening text on Round 15 page 13; checked the complete item and mathematical/chemical notation against the page image.",
+      "evidence": "Source PDF page 13 prints the rate as 2/(5π); the corpus answer lost numerator/fraction formatting and the prompt had a leaked 2.",
       "before": {
         "parts": [
           "Water flows at 10 cubic feet per minute into a cylinder with a radius of 5 feet and height of 12 feet. Providing your answer as a fraction in simplest form in terms of π, how fast is the water rising in feet per minute when the height is 4 feet? 2"
@@ -626,10 +629,13 @@
           "Water flows at 10 cubic feet per minute into a cylinder with a radius of 5 feet and height of 12 feet. Providing your answer as a fraction in simplest form in terms of π, how fast is the water rising in feet per minute when the height is 4 feet?"
         ],
         "answers": [
-          "<span class=\"nsb-fraction\"><span>2</span><span>5π</span></span>"
+          "2/(5π)"
         ],
         "answers_sanitized": [
-          "2/(5pi)"
+          "2/(5π)"
+        ],
+        "parts_sanitized": [
+          "Water flows at 10 cubic feet per minute into a cylinder with a radius of 5 feet and height of 12 feet. Providing your answer as a fraction in simplest form in terms of π, how fast is the water rising in feet per minute when the height is 4 feet?"
         ]
       }
     }

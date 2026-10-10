@@ -52,14 +52,14 @@
   "excludedQuestionCount": 808,
   "screeningIdentityValidation": "All 12023 packetIndex/kind/itemIndex/number identities checked against source arrays; no duplicates or omissions.",
   "pdfReviewedQuestionCount": 11215,
-  "correctedQuestionCount": 1675,
+  "correctedQuestionCount": 1708,
   "notes": [
     "Luna completed full-text reading after conservative automated screening. Per-shard coverage files record methods and corrected indexing errors.",
     "Every flagged identity has a completed first-pass PDF review; known incorrect proposals were withdrawn before finalization. Genuine printed source inconsistencies remain documented in packetIssues.",
     "The full independent second pass was skipped at the user's explicit request. Completion refers to the first-pass audit and final validation, not a guarantee of zero remaining source or transcription errors.",
     "The initial code release preserved production question data. The October 9 follow-up fixes the two user-reported questions and source-confirmed related defects through targeted production updates; the complete audited corpus has not been imported into production."
   ],
-  "proposedCorrectionCount": 1675,
+  "proposedCorrectionCount": 1708,
   "pdfUnresolvedQuestionCount": 0,
   "pdfPendingQuestionCount": 0,
   "pdfCompletedPacketIndexes": [

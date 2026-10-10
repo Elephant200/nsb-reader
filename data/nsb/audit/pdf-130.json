@@ -164,7 +164,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "PDF p.7 prints S_N1, S_N2, E1, E2 with lowered subscripts; answer line repeats E1 and E2.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S 1; 2) S 2; 3) E1; 4) E2 N N",
         "answer": "3 and 4 (ACCEPT: E1 and E2)"
@@ -173,7 +173,7 @@
         "question": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S<sub>N1</sub>; 2) S<sub>N2</sub>; 3) E<sub>1</sub>; 4) E<sub>2</sub>",
         "answer": "3 and 4 (ACCEPT: E<sub>1</sub> and E<sub>2</sub>)",
         "question_sanitized": "Identify all of the following four types of reactions that follow Zaitsev’s rule: 1) S_N1; 2) S_N2; 3) E1; 4) E2",
-        "answer_sanitized": "3 and 4 (ACCEPT: E1 and E2)"
+        "answer_sanitized": "3 and 4 (ACCEPT: E₁ and E₂)"
       }
     },
     {

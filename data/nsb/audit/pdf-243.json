@@ -198,7 +198,7 @@
       "sourcePages": [
         16
       ],
-      "evidence": "Page 16 prints exhaust choices O₂, H₂, H₂O, O₃ and keys Y) H₂O; corpus broke subscripts and corrupted the option values and answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "A consortium of Department of Energy labs is working to create carbon-free hydrogen fuel cells for heavy-duty vehicles. These fuel cells produce what chemical byproduct as exhaust?<br>W) O 2<br>X) H<br>Y) H <span class=\"nsb-fraction\">&lt;span&gt;2</span>&lt;span&gt;2</span></span> O<br>Z) O 3",
         "options": [
@@ -211,7 +211,7 @@
       },
       "changes": {
         "question": "A consortium of Department of Energy labs is working to create carbon-free hydrogen fuel cells for heavy-duty vehicles. These fuel cells produce what chemical byproduct as exhaust?<br>W) O<sub>2</sub><br>X) H<sub>2</sub><br>Y) H<sub>2</sub>O<br>Z) O<sub>3</sub>",
-        "question_sanitized": "A consortium of Department of Energy labs is working to create carbon-free hydrogen fuel cells for heavy-duty vehicles. These fuel cells produce what chemical byproduct as exhaust? W) O2 X) H2 Y) H2O Z) O3",
+        "question_sanitized": "A consortium of Department of Energy labs is working to create carbon-free hydrogen fuel cells for heavy-duty vehicles. These fuel cells produce what chemical byproduct as exhaust?\nW) O₂\nX) H₂\nY) H₂O\nZ) O₃",
         "options": [
           "W) O<sub>2</sub>",
           "X) H<sub>2</sub>",
@@ -219,7 +219,7 @@
           "Z) O<sub>3</sub>"
         ],
         "answer": "Y) H<sub>2</sub>O",
-        "answer_sanitized": "Y) H2O"
+        "answer_sanitized": "Y) H₂O"
       }
     },
     {
@@ -405,7 +405,7 @@
       "sourcePages": [
         14
       ],
-      "evidence": "Page 14 prints the accepted molecular formula N₂O₃ for dinitrogen trioxide; corpus has separated both subscripts into baseline fragments.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "N O (ACCEPT: DINITROGEN TRIOXIDE) 2 3"
@@ -416,7 +416,7 @@
           "N<sub>2</sub>O<sub>3</sub> (ACCEPT: DINITROGEN TRIOXIDE)"
         ],
         "answers_sanitized": [
-          "N2O3 (ACCEPT: DINITROGEN TRIOXIDE)"
+          "N₂O₃ (ACCEPT: DINITROGEN TRIOXIDE)"
         ]
       }
     },

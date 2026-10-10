@@ -20,7 +20,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows NH₄Cl and NaC₂H₃O₂ with contiguous subscripts in the options and key; the corpus inserted spaces between element symbols and subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:<br>W) NH<sub>4</sub> Cl<br>X) NaC<sub>2</sub> H<sub>3</sub> O<sub>2</sub><br>Y) KCl<br>Z) LiBr",
         "answer": "W) NH<sub>4</sub> Cl",
@@ -33,9 +33,9 @@
       },
       "changes": {
         "question": "Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:<br>W) NH<sub>4</sub>Cl<br>X) NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub><br>Y) KCl<br>Z) LiBr",
-        "question_sanitized": "Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:<br>W) NH4Cl<br>X) NaC2H3O2<br>Y) KCl<br>Z) LiBr",
+        "question_sanitized": "Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:\nW) NH₄Cl\nX) NaC₂H₃O₂\nY) KCl\nZ) LiBr",
         "answer": "W) NH<sub>4</sub>Cl",
-        "answer_sanitized": "W) NH4Cl",
+        "answer_sanitized": "W) NH₄Cl",
         "options": [
           "W) NH<sub>4</sub>Cl",
           "X) NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>",
@@ -308,7 +308,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows CH₄, H₂S, NH₃, and CH₃OH; the answer is NH₃ and CH₃OH. The corpus introduced spaces around the subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Name all of the following 4 compounds that exhibit hydrogen bonding: CH<sub>4</sub> ; H<sub>2</sub> S; NH<sub>3</sub> ; CH<sub>3</sub> OH"
@@ -322,13 +322,13 @@
           "Name all of the following 4 compounds that exhibit hydrogen bonding: CH<sub>4</sub>; H<sub>2</sub>S; NH<sub>3</sub>; CH<sub>3</sub>OH"
         ],
         "parts_sanitized": [
-          "Name all of the following 4 compounds that exhibit hydrogen bonding: CH4; H2S; NH3; CH3OH"
+          "Name all of the following 4 compounds that exhibit hydrogen bonding: CH₄; H₂S; NH₃; CH₃OH"
         ],
         "answers": [
           "NH<sub>3</sub>; CH<sub>3</sub>OH"
         ],
         "answers_sanitized": [
-          "NH3; CH3OH"
+          "NH₃; CH₃OH"
         ]
       }
     },

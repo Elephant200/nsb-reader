@@ -212,13 +212,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "PDF p.11 shows CO₂ and H₂O; all four options and keyed W match.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the name of the enzyme that catalyzes the formation of bicarbonate and hydronium ions from CO2 and H2O [C-O two and H two O]?<br>W) Carbonic anhydrase [an-HY-drays]<br>X) Carbonic carboxylase [kahr-BOK-suh-layz]<br>Y) Carbonic decarboxylase<br>Z) Carbonic dehydrogenase [dee-HY-druh-juh-nays]"
       },
       "changes": {
         "question": "What is the name of the enzyme that catalyzes the formation of bicarbonate and hydronium ions from CO<sub>2</sub> and H<sub>2</sub>O [C-O two and H two O]?<br>W) Carbonic anhydrase [an-HY-drays]<br>X) Carbonic carboxylase [kahr-BOK-suh-layz]<br>Y) Carbonic decarboxylase<br>Z) Carbonic dehydrogenase [dee-HY-druh-juh-nays]",
-        "question_sanitized": "What is the name of the enzyme that catalyzes the formation of bicarbonate and hydronium ions from CO2 and H2O [C-O two and H two O]? W) Carbonic anhydrase [an-HY-drays] X) Carbonic carboxylase [kahr-BOK-suh-layz] Y) Carbonic decarboxylase Z) Carbonic dehydrogenase [dee-HY-druh-juh-nays]"
+        "question_sanitized": "What is the name of the enzyme that catalyzes the formation of bicarbonate and hydronium ions from CO₂ and H₂O [C-O two and H two O]?\nW) Carbonic anhydrase [an-HY-drays]\nX) Carbonic carboxylase [kahr-BOK-suh-layz]\nY) Carbonic decarboxylase\nZ) Carbonic dehydrogenase [dee-HY-druh-juh-nays]"
       }
     },
     {

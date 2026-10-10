@@ -397,7 +397,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered source page 4 confirms the notation in the replacement.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What are the names of the following four acids: 1) HNO 2 , 2) H 2 S, 3)HIO 4 , 4)H 2 Cr 2 O 7 ?"
@@ -408,7 +408,7 @@
           "What are the names of the following four acids: 1) HNO<sub>2</sub>, 2) H<sub>2</sub>S, 3) HIO<sub>4</sub>, 4) H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>?"
         ],
         "parts_sanitized": [
-          "What are the names of the following four acids: 1) HNO2, 2) H2S, 3) HIO4, 4) H2Cr2O7?"
+          "What are the names of the following four acids: 1) HNO₂, 2) H₂S, 3) HIO₄, 4) H₂Cr₂O₇?"
         ]
       }
     },
@@ -566,7 +566,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered source page 11 confirms the notation in the replacement.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "How many structural isomers are there for a compound with the formula C 7 H 16 ?"
@@ -577,7 +577,7 @@
           "How many structural isomers are there for a compound with the formula C<sub>7</sub>H<sub>16</sub>?"
         ],
         "parts_sanitized": [
-          "How many structural isomers are there for a compound with the formula C7H16?"
+          "How many structural isomers are there for a compound with the formula C₇H₁₆?"
         ]
       }
     },

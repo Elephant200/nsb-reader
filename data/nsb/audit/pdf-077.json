@@ -26,13 +26,13 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Matched toss-up 2 by printed number and opening wording on Round 11 page 1; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 1 prints f(x) = 3x² − 2x + 1; the corpus dropped the square.",
       "before": {
         "question": "At what value of x is the tangent to the curve f(x) = 3x – 2x + 1 a horizontal line?"
       },
       "changes": {
-        "question": "At what value of x is the tangent to the curve f(x) = 3x<sup>2</sup> − 2x + 1 a horizontal line?",
-        "question_sanitized": "At what value of x is the tangent to the curve f(x) = 3x^2 - 2x + 1 a horizontal line?"
+        "question": "At what value of x is the tangent to the curve f(x) = 3x² − 2x + 1 a horizontal line?",
+        "question_sanitized": "At what value of x is the tangent to the curve f(x) = 3x² − 2x + 1 a horizontal line?"
       }
     },
     {
@@ -63,7 +63,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Matched toss-up 5 by printed number and opening wording on Round 11 page 3; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following pairs does NOT correctly match the element and its oxidation number?<br>W) Oxygen in H<sub>2</sub> O<sub>2</sub> and -2<br>X) Bromine in Br<sub>2</sub> and 0<br>Y) Sodium in NaCl and +1<br>Z) Sulfur in SO<sub>3</sub> and +4 −<sup>2</sup>",
         "options": [
@@ -76,7 +76,7 @@
       },
       "changes": {
         "question": "Which of the following pairs does NOT correctly match the element and its oxidation number?<br>W) Oxygen in H<sub>2</sub>O<sub>2</sub> and −2<br>X) Bromine in Br<sub>2</sub> and 0<br>Y) Sodium in NaCl and +1<br>Z) Sulfur in SO<sub>3</sub><sup>2−</sup> and +4",
-        "question_sanitized": "Which of the following pairs does NOT correctly match the element and its oxidation number?<br>W) Oxygen in H2O2 and -2<br>X) Bromine in Br2 and 0<br>Y) Sodium in NaCl and +1<br>Z) Sulfur in SO3^2- and +4",
+        "question_sanitized": "Which of the following pairs does NOT correctly match the element and its oxidation number?\nW) Oxygen in H₂O₂ and −2\nX) Bromine in Br₂ and 0\nY) Sodium in NaCl and +1\nZ) Sulfur in SO₃²⁻ and +4",
         "options": [
           "W) Oxygen in H<sub>2</sub>O<sub>2</sub> and −2",
           "X) Bromine in Br<sub>2</sub> and 0",
@@ -223,13 +223,13 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched toss-up 16 by printed number and opening wording on Round 11 page 8; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 8 prints f(x,y) = xy + 3xy²; the corpus lost variable delimiters and the exponent.",
       "before": {
         "question": "If f x, y = xy + 3xy 2 (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?"
       },
       "changes": {
-        "question": "If f(x, y) = xy + 3xy<sup>2</sup> (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?",
-        "question_sanitized": "If f(x, y) = xy + 3xy^2 (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?"
+        "question": "If f(x, y) = xy + 3xy² (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?",
+        "question_sanitized": "If f(x, y) = xy + 3xy² (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y?"
       }
     },
     {
@@ -280,13 +280,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Matched toss-up 21 by printed number and opening wording on Round 11 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 11 prints (3x² + 6x)/(5 + 3x + x²); the corpus lost the exponents.",
       "before": {
         "question": "What is the limit of (3x + 6x)/(5 + 3x + x ) (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?"
       },
       "changes": {
-        "question": "What is the limit of <span class=\"nsb-fraction\"><span>3x<sup>2</sup> + 6x</span><span>5 + 3x + x<sup>2</sup></span></span> (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?",
-        "question_sanitized": "What is the limit of (3x^2 + 6x)/(5 + 3x + x^2) (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?"
+        "question": "What is the limit of (3x² + 6x)/(5 + 3x + x²) (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?",
+        "question_sanitized": "What is the limit of (3x² + 6x)/(5 + 3x + x²) (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity?"
       }
     },
     {
@@ -347,7 +347,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Matched bonus 2 by printed number and opening wording on Round 11 page 1; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 1 prints f(x) = √x over nonnegative real inputs; the corpus omitted the radical symbol.",
       "before": {
         "parts": [
           "If f(x) = x (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cosx over the domain of closed interval [-π, π], then what is the domain of f composed with g?"
@@ -355,10 +355,10 @@
       },
       "changes": {
         "parts": [
-          "If f(x) = √x (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cos(x) over the domain of closed interval [−π, π], then what is the domain of f composed with g?"
+          "If f(x) = √x (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cos(x) over the domain of the closed interval [−π, π], then what is the domain of f composed with g?"
         ],
         "parts_sanitized": [
-          "If f(x) = sqrt(x) (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cos(x) over the domain of closed interval [-pi, pi], then what is the domain of f composed with g?"
+          "If f(x) = √x (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cos(x) over the domain of the closed interval [−π, π], then what is the domain of f composed with g?"
         ]
       }
     },
@@ -459,7 +459,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Matched bonus 10 by printed number and opening wording on Round 11 page 5; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 5 prints ∫ from −6 to 0 of √(36 − x²) dx and answer 9π; the corpus flattened the integral and integrand.",
       "before": {
         "parts": [
           "Evaluate the integral: 36 x 2 dx (read as: the integral from -6 to 0 of the square root of open parenthesis 36 minus<sup>6</sup> x squared close parenthesis d x)."
@@ -467,10 +467,13 @@
       },
       "changes": {
         "parts": [
-          "Evaluate the integral from −6 to 0: ∫ √(36 − x<sup>2</sup>) dx (read as: the integral from -6 to 0 of the square root of open parenthesis 36 minus x squared close parenthesis d x)."
+          "Evaluate the integral: ∫₋₆⁰ √(36 − x²) dx (read as: the integral from −6 to 0 of the square root of open parenthesis 36 minus x squared close parenthesis d x)."
         ],
         "parts_sanitized": [
-          "Evaluate the integral from -6 to 0: integral of sqrt(36 - x^2) dx (read as: the integral from -6 to 0 of the square root of open parenthesis 36 minus x squared close parenthesis d x)."
+          "Evaluate the integral: ∫₋₆⁰ √(36 − x²) dx (read as: the integral from −6 to 0 of the square root of open parenthesis 36 minus x squared close parenthesis d x)."
+        ],
+        "answers_sanitized": [
+          "9π"
         ]
       }
     },
@@ -525,7 +528,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched bonus 16 by printed number and opening wording on Round 11 page 8; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 8 prints f(x) = x² + 1; the corpus omitted the squared exponent.",
       "before": {
         "parts": [
           "Approximate the area under f(x) = x + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals."
@@ -533,10 +536,10 @@
       },
       "changes": {
         "parts": [
-          "Approximate the area under f(x) = x<sup>2</sup> + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals."
+          "Approximate the area under f(x) = x² + 1 from x = 0 to x = 8 using a midpoint Riemann sum with four equal subintervals."
         ],
         "parts_sanitized": [
-          "Approximate the area under f(x) = x^2 + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals."
+          "Approximate the area under f(x) = x² + 1 from x = 0 to x = 8 using a midpoint Riemann sum with four equal subintervals."
         ]
       }
     },

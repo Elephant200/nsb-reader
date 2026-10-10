@@ -394,7 +394,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Compared original PDF page 4 text and notation with the corpus; restored formula layout or charges.",
+      "evidence": "PDF page 4 prints choice Y) √.7; the sampled corpus lost the radical sign.",
       "before": {
         "parts": [
           "If the sine of an angle is 0.3, which of the following is a possible cosine of that angle?<br>W) .09<br>X) .7<br>Y) .7<br>Z) .91"
@@ -411,16 +411,22 @@
       },
       "changes": {
         "parts": [
-          "If the sine of an angle is 0.3, which of the following is a possible cosine of that angle?<br>W) 0.09<br>X) 0.7<br>Y) √0.7<br>Z) √0.91"
+          "If the sine of an angle is 0.3, which of the following is a possible cosine of that angle?<br>W) .09<br>X) .7<br>Y) √.7<br>Z) √.91"
         ],
         "options": [
-          "W) 0.09",
-          "X) 0.7",
-          "Y) √0.7",
-          "Z) √0.91"
+          "W) .09",
+          "X) .7",
+          "Y) √.7",
+          "Z) √.91"
         ],
         "answers": [
-          "Z) √0.91"
+          "Z) √.91"
+        ],
+        "parts_sanitized": [
+          "If the sine of an angle is 0.3, which of the following is a possible cosine of that angle?\nW) .09\nX) .7\nY) √.7\nZ) √.91"
+        ],
+        "answers_sanitized": [
+          "Z) √.91"
         ]
       }
     },
@@ -500,7 +506,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared original PDF page 7 text and notation with the corpus; restored formula layout or charges.",
+      "evidence": "Source PDF page 7 prints π/2 in cos(π/2 + w); the corpus omitted the fraction.",
       "before": {
         "parts": [
           "What is the derivative of cos ( + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?"
@@ -508,7 +514,10 @@
       },
       "changes": {
         "parts": [
-          "What is the derivative of cos(π/2 + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?"
+          "What is the derivative of cos (π/2 + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?"
+        ],
+        "parts_sanitized": [
+          "What is the derivative of cos (π/2 + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?"
         ]
       }
     },
@@ -550,7 +559,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "The source page prints x cubed in the numerator; the corpus had lost the exponent.",
+      "evidence": "Source PDF page 10 prints x³ + 8 in the numerator; the corpus omitted the superscript 3.",
       "before": {
         "parts": [
           "Find the limit as x approaches -2 of (x + 8)/(2x + 4) (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
@@ -558,10 +567,10 @@
       },
       "changes": {
         "parts": [
-          "Find the limit as x approaches −2 of <span class=\"nsb-fraction\"><span>x<sup>3</sup> + 8</span><span>2x + 4</span></span> (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
+          "Find the limit as x approaches -2 of (x³ + 8)/(2x + 4) (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
         ],
         "parts_sanitized": [
-          "Find the limit as x approaches −2 of (x^3 + 8)/(2x + 4) (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
+          "Find the limit as x approaches -2 of (x³ + 8)/(2x + 4) (read as: the quantity x cubed plus 8 divided by the quantity 2x plus 4)."
         ]
       }
     },

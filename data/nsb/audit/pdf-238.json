@@ -230,7 +230,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Page 7 retains [BYOO-tah-known] after butanone and lists the complete 2-butanol acceptance set, rejecting C₄H₁₀O; restored formula subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "2-BUTANOL (ACCEPT: BUTAN-2-OL, 2-BUTYL ALCOHOL, SEC-BUTANOL, SEC-BUTYL ALCOHOL; do not accept: C H O) 4 10"
@@ -241,7 +241,7 @@
           "2-BUTANOL (ACCEPT: BUTAN-2-OL, 2-BUTYL ALCOHOL, SEC-BUTANOL, SEC-BUTYL ALCOHOL; do not accept: C<sub>4</sub>H<sub>10</sub>O)"
         ],
         "answers_sanitized": [
-          "2-BUTANOL (ACCEPT: BUTAN-2-OL, 2-BUTYL ALCOHOL, SEC-BUTANOL, SEC-BUTYL ALCOHOL; do not accept: C4H10O)"
+          "2-BUTANOL (ACCEPT: BUTAN-2-OL, 2-BUTYL ALCOHOL, SEC-BUTANOL, SEC-BUTYL ALCOHOL; do not accept: C₄H₁₀O)"
         ]
       }
     },

@@ -20,7 +20,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "PDF p.1 prints “Which of the following molecules exhibits intermolecular attractions commonly referred to as hy” with choices W–Z; each option and key Z) HCOOH match.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following molecules exhibits intermolecular attractions commonly referred to as hydrogen bonding?<br>W) H2<br>X) HBr [H-B-R]<br>Y) HCN [H-C-N]<br>Z) HCOOH [H-C-O-O-H]",
         "options": [
@@ -38,7 +38,7 @@
           "Y) HCN [H-C-N]",
           "Z) HCOOH [H-C-O-O-H]"
         ],
-        "question_sanitized": "Which of the following molecules exhibits intermolecular attractions commonly referred to as hydrogen bonding? W) H2 X) HBr [H-B-R] Y) HCN [H-C-N] Z) HCOOH [H-C-O-O-H]"
+        "question_sanitized": "Which of the following molecules exhibits intermolecular attractions commonly referred to as hydrogen bonding?\nW) H₂\nX) HBr [H-B-R]\nY) HCN [H-C-N]\nZ) HCOOH [H-C-O-O-H]"
       }
     },
     {
@@ -453,7 +453,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "PDF p.10 prints 2R with Earth as a subscript, followed by the read-as cue; choices and key W match.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following is closest to the value of free-fall acceleration, in meters per second squared, at an altitude distance of 2REarth [two times the radius of earth] above the surface of the Earth?<br>W) 1<br>X) 2.5<br>Y) 4.9<br>Z) 9.8"
@@ -464,7 +464,7 @@
           "Which of the following is closest to the value of free-fall acceleration, in meters per second squared, at an altitude distance of 2R<sub>Earth</sub> [two times the radius of earth] above the surface of the Earth?<br>W) 1<br>X) 2.5<br>Y) 4.9<br>Z) 9.8"
         ],
         "parts_sanitized": [
-          "Which of the following is closest to the value of free-fall acceleration, in meters per second squared, at an altitude distance of 2R_Earth [two times the radius of earth] above the surface of the Earth? W) 1 X) 2.5 Y) 4.9 Z) 9.8"
+          "Which of the following is closest to the value of free-fall acceleration, in meters per second squared, at an altitude distance of 2R_(Earth) [two times the radius of earth] above the surface of the Earth?\nW) 1\nX) 2.5\nY) 4.9\nZ) 9.8"
         ]
       }
     },

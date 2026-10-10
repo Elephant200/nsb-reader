@@ -364,7 +364,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "PDF p.6 prints acetate A⁻ with superscript charge in option Z; its four options and answer Y were compared.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Consider an arbitrary acid HA [H- A], where A can be any group. Which of the following facts would allow one to directly infer that it is a stronger acid than acetic acid?<br>W) H-A has the ability to protonate water in high yield<br>X) Acetic acid has the ability to protonate H-A in high yield<br>Y) H-A has the ability to protonate acetate in high yield<br>Z) Acetic acid has the ability to protonate A- in high yield"
@@ -387,7 +387,7 @@
           "Z) Acetic acid has the ability to protonate A<sup>−</sup> in high yield"
         ],
         "parts_sanitized": [
-          "Consider an arbitrary acid HA [H- A], where A can be any group. Which of the following facts would allow one to directly infer that it is a stronger acid than acetic acid? W) H-A has the ability to protonate water in high yield X) Acetic acid has the ability to protonate H-A in high yield Y) H-A has the ability to protonate acetate in high yield Z) Acetic acid has the ability to protonate A- in high yield"
+          "Consider an arbitrary acid HA [H- A], where A can be any group. Which of the following facts would allow one to directly infer that it is a stronger acid than acetic acid?\nW) H-A has the ability to protonate water in high yield\nX) Acetic acid has the ability to protonate H-A in high yield\nY) H-A has the ability to protonate acetate in high yield\nZ) Acetic acid has the ability to protonate A⁻ in high yield"
         ]
       }
     },
@@ -540,7 +540,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "PDF p.11 prints N₂, H₂O, and H₂ in the equilibrium mixture and Kc in the prompt; corpus flattened formula subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Nitrogen monoxide reacts with hydrogen gas to form water vapor and nitrogen gas. A 1 liter vessel contains an equilibrium [ee-kwuh-LIB-ree-uhm] mixture of 28 moles of N2, 10 moles of H2O, 2 moles of NO, and 1 mole of H2. Calculate Kc for this reaction."
@@ -551,7 +551,7 @@
           "Nitrogen monoxide reacts with hydrogen gas to form water vapor and nitrogen gas. A 1 liter vessel contains an equilibrium [ee-kwuh-LIB-ree-uhm] mixture of 28 moles of N<sub>2</sub>, 10 moles of H<sub>2</sub>O, 2 moles of NO, and 1 mole of H<sub>2</sub>. Calculate K<sub>c</sub> for this reaction."
         ],
         "parts_sanitized": [
-          "Nitrogen monoxide reacts with hydrogen gas to form water vapor and nitrogen gas. A 1 liter vessel contains an equilibrium [ee-kwuh-LIB-ree-uhm] mixture of 28 moles of N₂, 10 moles of H₂O, 2 moles of NO, and 1 mole of H₂. Calculate Kc for this reaction."
+          "Nitrogen monoxide reacts with hydrogen gas to form water vapor and nitrogen gas. A 1 liter vessel contains an equilibrium [ee-kwuh-LIB-ree-uhm] mixture of 28 moles of N₂, 10 moles of H₂O, 2 moles of NO, and 1 mole of H₂. Calculate K_(c) for this reaction."
         ]
       }
     },

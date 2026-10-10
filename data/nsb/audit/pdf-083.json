@@ -147,7 +147,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched toss-up 15 by printed number and opening wording on Round 2 page 8; checked the full item and displayed symbols against its PDF page.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following is an aldehyde [AL-duh-hyd]?<br>W) C 11 H 20<br>X) C 5 H 11 OH<br>Y) C 5 H 11 CHO<br>Z) C 5 H 11 NH 2",
         "options": [
@@ -160,7 +160,7 @@
       },
       "changes": {
         "question": "Which of the following is an aldehyde [AL-duh-hyd]?<br>W) C<sub>11</sub>H<sub>20</sub><br>X) C<sub>5</sub>H<sub>11</sub>OH<br>Y) C<sub>5</sub>H<sub>11</sub>CHO<br>Z) C<sub>5</sub>H<sub>11</sub>NH<sub>2</sub>",
-        "question_sanitized": "Which of the following is an aldehyde [AL-duh-hyd]?<br>W) C11H20<br>X) C5H11OH<br>Y) C5H11CHO<br>Z) C5H11NH2",
+        "question_sanitized": "Which of the following is an aldehyde [AL-duh-hyd]?\nW) C₁₁H₂₀\nX) C₅H₁₁OH\nY) C₅H₁₁CHO\nZ) C₅H₁₁NH₂",
         "options": [
           "W) C<sub>11</sub>H<sub>20</sub>",
           "X) C<sub>5</sub>H<sub>11</sub>OH",
@@ -316,7 +316,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Matched bonus 3 by printed number and opening wording on Round 2 page 2; checked the full item and displayed symbols against its PDF page.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Name the molecule with the formula CH 3 COOCH 2 CH 2 CH 3 ."
@@ -327,7 +327,7 @@
           "Name the molecule with the formula CH<sub>3</sub>COOCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>."
         ],
         "parts_sanitized": [
-          "Name the molecule with the formula CH3COOCH2CH2CH3."
+          "Name the molecule with the formula CH₃COOCH₂CH₂CH₃."
         ]
       }
     },

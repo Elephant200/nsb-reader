@@ -10,7 +10,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows H₂SO₄, HNO₃, and HClO₄ in the choices and key; the corpus flattened the chemical subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:<br>W) H2SO4<br>X) HNO3<br>Y) HCl<br>Z) HClO4",
         "options": [
@@ -23,7 +23,7 @@
       },
       "changes": {
         "question": "Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:<br>W) H<sub>2</sub>SO<sub>4</sub><br>X) HNO<sub>3</sub><br>Y) HCl<br>Z) HClO<sub>4</sub>",
-        "question_sanitized": "Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:<br>W) H2SO4<br>X) HNO3<br>Y) HCl<br>Z) HClO4",
+        "question_sanitized": "Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:\nW) H₂SO₄\nX) HNO₃\nY) HCl\nZ) HClO₄",
         "options": [
           "W) H<sub>2</sub>SO<sub>4</sub>",
           "X) HNO<sub>3</sub>",
@@ -31,7 +31,7 @@
           "Z) HClO<sub>4</sub>"
         ],
         "answer": "W) H<sub>2</sub>SO<sub>4</sub>",
-        "answer_sanitized": "W) H2SO4"
+        "answer_sanitized": "W) H₂SO₄"
       }
     },
     {
@@ -264,13 +264,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered source page 11 prints iron(III) nitrite as Fe(NO₂)₃; the corpus retained the formula digits on the baseline.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the systematic IUPAC name for the compound Fe(NO2)3?"
       },
       "changes": {
         "question": "What is the systematic IUPAC name for the compound Fe(NO<sub>2</sub>)<sub>3</sub>?",
-        "question_sanitized": "What is the systematic IUPAC name for the compound Fe(NO2)3?"
+        "question_sanitized": "What is the systematic IUPAC name for the compound Fe(NO₂)₃?"
       }
     },
     {
@@ -301,7 +301,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows MnO₄⁻ with subscript 4 and a raised negative charge.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO4– (read as: M, N, O, 4, minus)"
@@ -312,7 +312,7 @@
           "Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO<sub>4</sub><sup>−</sup> (read as: M, N, O, 4, minus)"
         ],
         "parts_sanitized": [
-          "Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO4- (read as: M, N, O, 4, minus)"
+          "Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO₄⁻ (read as: M, N, O, 4, minus)"
         ]
       }
     },
@@ -575,7 +575,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered PDF page 11 shows Al(NO₃)₃ with subscripted 3s.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO3)3 solution?"
@@ -586,7 +586,7 @@
           "To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO<sub>3</sub>)<sub>3</sub> solution?"
         ],
         "parts_sanitized": [
-          "To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO3)3 solution?"
+          "To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO₃)₃ solution?"
         ]
       }
     },

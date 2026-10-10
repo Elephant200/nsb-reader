@@ -607,7 +607,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Rendered PDF page 13 shows Na⁺ and configurations 1s²2s²2p⁶, accepting the equivalent with 3s⁰; the corpus flattened the charge and powers.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "In standard chemical nomenclature, what is the complete electron + configuration for the sodium ion, Na ? 2 2 6 2 2 6 0"
@@ -621,7 +621,7 @@
           "In standard chemical nomenclature, what is the complete electron configuration for the sodium ion, Na<sup>+</sup>?"
         ],
         "parts_sanitized": [
-          "In standard chemical nomenclature, what is the complete electron configuration for the sodium ion, Na+?"
+          "In standard chemical nomenclature, what is the complete electron configuration for the sodium ion, Na⁺?"
         ],
         "answers": [
           "1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup> (ACCEPT: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>0</sup>)"

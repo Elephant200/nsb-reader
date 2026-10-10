@@ -125,11 +125,18 @@
       "kind": "tossups",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+      "evidence": "PDF page 6 asks for the central angle of a sector of a 32-meter diameter circle with arc length 8π meters. The corpus prompt has the phrase order scrambled; answer 90 matches the PDF.",
+      "before": {
+        "question": "A circle has a diameter of 32 meters. Find the degree measure of the the circle if its arc length measures 8π meters: central angle of a sector of"
+      },
+      "changes": {
+        "question": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:",
+        "question_sanitized": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:"
+      }
     },
     {
       "kind": "tossups",
@@ -355,7 +362,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Luna and root independently viewed page 5. Restore PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas), phase words and 1st ordinal in their source positions. Root retained full phase words rather than abbreviating them.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Consider the following equilibrium reaction, ↔ PCl PCl + Cl . If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> 5(gas) 3(gas) 2(gas) st at equilibrium, find the molar amounts, to the 1 decimal place, of PCl<sub>5</sub> at equilibrium:"
@@ -366,7 +373,7 @@
           "Consider the following equilibrium reaction, PCl<sub>5(gas)</sub> ↔ PCl<sub>3(gas)</sub> + Cl<sub>2(gas)</sub>. If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
         ],
         "parts_sanitized": [
-          "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
+          "Consider the following equilibrium reaction, PCl_(5(gas)) ↔ PCl_(3(gas)) + Cl_(2(gas)). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
         ]
       }
     },

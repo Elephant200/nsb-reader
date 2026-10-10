@@ -68,13 +68,13 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Matched toss-up 5 by its printed number and opening wording on Round 9 page 3; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 3 prints x⁵ + x + 1 = 0; the corpus omitted the superscript 5.",
       "before": {
         "question": "How many real solutions does the equation x + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?"
       },
       "changes": {
-        "question": "How many real solutions does the equation x<sup>5</sup> + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?",
-        "question_sanitized": "How many real solutions does the equation x^5 + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?"
+        "question": "How many real solutions does the equation x⁵ + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?",
+        "question_sanitized": "How many real solutions does the equation x⁵ + x + 1 = 0 (read as: x to the fifth plus x plus 1 equals 0) have?"
       }
     },
     {
@@ -165,13 +165,13 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Matched toss-up 16 by its printed number and opening wording on Round 9 page 8; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 8 prints polar equation r = θ; the corpus replaced theta with an exclamation mark.",
       "before": {
         "question": "What is the name of the planar curve with polar equation r = ! (read as: r equals theta)?"
       },
       "changes": {
         "question": "What is the name of the planar curve with polar equation r = θ (read as: r equals theta)?",
-        "question_sanitized": "What is the name of the planar curve with polar equation r = theta (read as: r equals theta)?"
+        "question_sanitized": "What is the name of the planar curve with polar equation r = θ (read as: r equals theta)?"
       }
     },
     {
@@ -222,16 +222,16 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Matched toss-up 21 by its printed number and opening wording on Round 9 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "By name or number, identify all of the following three species 22+ that are predicted by the molecular orbital model to be stable and diatomic: 1) He (read as: 21+ He 2 [pause] 2 plus), 2) He (read as: He 2 [pause] 1 plus), 3) He<sub>2</sub> . 22+ 2+",
         "answer": "He AND He (ACCEPT: 1 AND 2)"
       },
       "changes": {
         "question": "By name or number, identify all of the following three species that are predicted by the molecular orbital model to be stable and diatomic: 1) He<sub>2</sub><sup>2+</sup> (read as: He 2 [pause] 2 plus), 2) He<sub>2</sub><sup>+</sup> (read as: He 2 [pause] 1 plus), 3) He<sub>2</sub>.",
-        "question_sanitized": "By name or number, identify all of the following three species that are predicted by the molecular orbital model to be stable and diatomic: 1) He2^2+ (read as: He 2 [pause] 2 plus), 2) He2^+ (read as: He 2 [pause] 1 plus), 3) He2.",
+        "question_sanitized": "By name or number, identify all of the following three species that are predicted by the molecular orbital model to be stable and diatomic: 1) He₂²⁺ (read as: He 2 [pause] 2 plus), 2) He₂⁺ (read as: He 2 [pause] 1 plus), 3) He₂.",
         "answer": "He<sub>2</sub><sup>2+</sup> AND He<sub>2</sub><sup>+</sup> (ACCEPT: 1 AND 2)",
-        "answer_sanitized": "He2^2+ AND He2^+ (ACCEPT: 1 AND 2)"
+        "answer_sanitized": "He₂²⁺ AND He₂⁺ (ACCEPT: 1 AND 2)"
       }
     },
     {
@@ -432,7 +432,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Matched bonus 17 by its printed number and opening wording on Round 9 page 9; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Using proper chemical nomenclature and indicating the charge and physical state of each substance, what is the balanced net ionic equation for the reaction of aqueous calcium chloride with aqueous silver nitrate? +(aq) →"
@@ -452,7 +452,7 @@
           "Using proper chemical nomenclature and indicating the charge and physical state of each substance, what is the balanced net ionic equation for the reaction of aqueous calcium chloride with aqueous silver nitrate?"
         ],
         "answers_sanitized": [
-          "Cl^-(aq) + Ag^+(aq) → AgCl(s) [NOTE: AQ = AQUEOUS; S = SOLID]"
+          "Cl⁻(aq) + Ag⁺(aq) → AgCl(s) [NOTE: AQ = AQUEOUS; S = SOLID]"
         ]
       }
     },
@@ -484,7 +484,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Matched bonus 21 by its printed number and opening wording on Round 9 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "By name or number, identify all of the following four sets of 2 2 atoms and ions that are isoelectronic with each other: set 1) S , Se , Ar; set 2) Cl , Cl, Ar; set 3) − − − 2+ 2 + + Ca , Cl , S , K ; set 4) H , Li , He. − − − 2+ 2- + +"
@@ -501,10 +501,10 @@
           "Ca<sup>2+</sup>, Cl<sup>−</sup>, S<sup>2−</sup>, K<sup>+</sup> AND H<sup>−</sup>, Li<sup>+</sup>, He (ACCEPT: SETS 3 AND 4)"
         ],
         "parts_sanitized": [
-          "By name or number, identify all of the following four sets of atoms and ions that are isoelectronic with each other: set 1) S^2-, Se^2-, Ar; set 2) Cl^-, Cl, Ar; set 3) Ca^2+, Cl^-, S^2-, K^+; set 4) H^-, Li^+, He."
+          "By name or number, identify all of the following four sets of atoms and ions that are isoelectronic with each other: set 1) S²⁻, Se²⁻, Ar; set 2) Cl⁻, Cl, Ar; set 3) Ca²⁺, Cl⁻, S²⁻, K⁺; set 4) H⁻, Li⁺, He."
         ],
         "answers_sanitized": [
-          "Ca^2+, Cl^-, S^2-, K^+ AND H^-, Li^+, He (ACCEPT: SETS 3 AND 4)"
+          "Ca²⁺, Cl⁻, S²⁻, K⁺ AND H⁻, Li⁺, He (ACCEPT: SETS 3 AND 4)"
         ]
       }
     },
@@ -516,7 +516,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Matched bonus 22 by its printed number and opening wording on Round 9 page 11; compared the full prompt, choices where present, and answer against the PDF.",
+      "evidence": "Source PDF page 11 prints 8^(log₂4) − 4^(log₂8); the corpus omitted both exponent expressions.",
       "before": {
         "parts": [
           "Simplify 8 - 4 (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
@@ -524,10 +524,13 @@
       },
       "changes": {
         "parts": [
-          "Simplify 8<sup>log₂(4)</sup> − 4<sup>log₂(8)</sup> (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
+          "Simplify 8<sup>log₂4</sup> − 4<sup>log₂8</sup> (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
         ],
         "parts_sanitized": [
-          "Simplify 8^(log base 2 of 4) - 4^(log base 2 of 8) (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
+          "Simplify 8^(log₂4) − 4^(log₂8) (read as: 8 to the power of log base 2 of 4 minus 4 to the power of log base 2 of 8)."
+        ],
+        "answers_sanitized": [
+          "0"
         ]
       }
     },

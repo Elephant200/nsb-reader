@@ -154,7 +154,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered source page 8 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "Rendered packet 024, page 8 prints the answer as W) MnO₄²⁻; the corpus answer loses the subscript and charge formatting as “MnO 4 2-”. Restored in rich notation. Source image: /tmp/nsb-exp-24-8-08.png.",
       "before": {
         "question": "A nimble minded Science Bowl contestant makes a concentrated solution of sodium hydroxide which she adds to a solution of potassium permanganate. The permanganate ion reacts to form which of the following?<br>W) MnO 4 2-<br>X) MnO 4 -<br>Y) Mn 2 O 3<br>Z) Mn2+",
         "options": [
@@ -162,7 +162,8 @@
           "X) MnO 4 -",
           "Y) Mn 2 O 3",
           "Z) Mn2+"
-        ]
+        ],
+        "answer": "W) MnO 4 2-"
       },
       "changes": {
         "question": "A nimble minded Science Bowl contestant makes a concentrated solution of sodium hydroxide which she adds to a solution of potassium permanganate. The permanganate ion reacts to form which of the following?<br>W) MnO<sub>4</sub><sup>2−</sup><br>X) MnO<sub>4</sub><sup>−</sup><br>Y) Mn<sub>2</sub>O<sub>3</sub><br>Z) Mn<sup>2+</sup>",
@@ -171,7 +172,9 @@
           "X) MnO<sub>4</sub><sup>−</sup>",
           "Y) Mn<sub>2</sub>O<sub>3</sub>",
           "Z) Mn<sup>2+</sup>"
-        ]
+        ],
+        "answer": "W) MnO<sub>4</sub><sup>2−</sup>",
+        "answer_sanitized": "W) MnO₄²⁻"
       }
     },
     {
@@ -437,7 +440,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered source page 6 confirms the notation restored in the replacement.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "At 25° Celsius, the standard reduction potential of Fe3+ to Fe2+ is +0.77 volts. Providing your answer to two significant figures, what is the potential, in volts, of a platinum electrode dipped in a solution of 0.0005 molar Fe3+ and 0.05 molar Fe2+?"
@@ -448,7 +451,7 @@
           "At 25° Celsius, the standard reduction potential of Fe<sup>3+</sup> to Fe<sup>2+</sup> is +0.77 volts. Providing your answer to two significant figures, what is the potential, in volts, of a platinum electrode dipped in a solution of 0.0005 molar Fe<sup>3+</sup> and 0.05 molar Fe<sup>2+</sup>?"
         ],
         "parts_sanitized": [
-          "At 25° Celsius, the standard reduction potential of Fe^3+ to Fe^2+ is +0.77 volts. Providing your answer to two significant figures, what is the potential, in volts, of a platinum electrode dipped in a solution of 0.0005 molar Fe^3+ and 0.05 molar Fe^2+?"
+          "At 25° Celsius, the standard reduction potential of Fe³⁺ to Fe²⁺ is +0.77 volts. Providing your answer to two significant figures, what is the potential, in volts, of a platinum electrode dipped in a solution of 0.0005 molar Fe³⁺ and 0.05 molar Fe²⁺?"
         ]
       }
     },
@@ -612,7 +615,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Rendered source page 13 confirms the notation restored in the replacement. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain end radical. All except which of the following are strong stabilizers of the radical?<br>W) CN<br>X) C 6 H 5<br>Y) OCH 3<br>Z) CO 2 CH 3"
@@ -629,7 +632,7 @@
           "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain-end radical. All except which of the following are strong stabilizers of the radical?<br>W) CN<br>X) C<sub>6</sub>H<sub>5</sub><br>Y) OCH<sub>3</sub><br>Z) CO<sub>2</sub>CH<sub>3</sub>"
         ],
         "parts_sanitized": [
-          "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain-end radical. All except which of the following are strong stabilizers of the radical? W) CN; X) C6H5; Y) OCH3; Z) CO2CH3"
+          "In free radical polymerization [pol-lim-er-uh-ZAY-shuhn], many different substituents can be employed to stabilize the chain-end radical. All except which of the following are strong stabilizers of the radical?\nW) CN\nX) C₆H₅\nY) OCH₃\nZ) CO₂CH₃"
         ],
         "options": [
           "W) CN",

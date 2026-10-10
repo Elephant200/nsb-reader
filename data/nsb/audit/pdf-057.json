@@ -148,13 +148,13 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared this question and its answer against page 7 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "evidence": "The rendered PDF p. 7 answer is 6√2; the sample answer omits √2. Restoring the radical.",
       "before": {
         "answer": "6"
       },
       "changes": {
         "answer": "6√2",
-        "answer_sanitized": "6 sqrt(2)"
+        "answer_sanitized": "6√2"
       }
     },
     {
@@ -225,13 +225,16 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Compared this question and its answer against page 12 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "evidence": "PDF page 12 ends the prompt at “rolling a 5 both times?”; the trailing 1 in the corpus is a leaked numerator from the answer fraction 1/36.",
       "before": {
-        "answer": "36"
+        "answer": "36",
+        "question": "A fair 6-sided die is rolled 2 times. As a fraction in lowest terms, what is probability of rolling a 5 both times? 1"
       },
       "changes": {
         "answer": "<span class=\"nsb-fraction\"><span>1</span><span>36</span></span>",
-        "answer_sanitized": "1/36"
+        "answer_sanitized": "1/36",
+        "question": "A fair 6-sided die is rolled 2 times. As a fraction in lowest terms, what is the probability of rolling a 5 both times?",
+        "question_sanitized": "A fair 6-sided die is rolled 2 times. As a fraction in lowest terms, what is the probability of rolling a 5 both times?"
       }
     },
     {
@@ -242,13 +245,13 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Compared this question and its answer against page 13 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Determine the oxidation state of each of the elements in the 42- polyatomic ion C<sub>2</sub> O ."
       },
       "changes": {
         "question": "Determine the oxidation state of each of the elements in the polyatomic ion C<sub>2</sub>O<sub>4</sub><sup>2−</sup>.",
-        "question_sanitized": "Determine the oxidation state of each of the elements in the polyatomic ion C2O4^2-."
+        "question_sanitized": "Determine the oxidation state of each of the elements in the polyatomic ion C₂O₄²⁻."
       }
     },
     {
@@ -309,7 +312,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Compared this question and its answer against page 4 of packet 057; repaired the source-backed mathematical formatting and retained the complete printed wording.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "A mineral with the chemical formula Ca<sub>2</sub> Mg<sub>5</sub> Si<sub>8</sub> O<sub>2</sub> 2(OH)<sub>2</sub> belongs to which of the following mineral groups?<br>W) Serpentines<br>X) Amphiboles<br>Y) Olivines (read as: OH-li-veens)<br>Z) Pyroxenes (read as: py-ROHK-seens)"
@@ -320,7 +323,7 @@
           "A mineral with the chemical formula Ca<sub>2</sub>Mg<sub>5</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> belongs to which of the following mineral groups?<br>W) Serpentines<br>X) Amphiboles<br>Y) Olivines (read as: OH-li-veens)<br>Z) Pyroxenes (read as: py-ROHK-seens)"
         ],
         "parts_sanitized": [
-          "A mineral with the chemical formula Ca2Mg5Si8O22(OH)2 belongs to which of the following mineral groups? W) Serpentines; X) Amphiboles; Y) Olivines (read as: OH-li-veens); Z) Pyroxenes (read as: py-ROHK-seens)"
+          "A mineral with the chemical formula Ca₂Mg₅Si₈O₂₂(OH)₂ belongs to which of the following mineral groups?\nW) Serpentines\nX) Amphiboles\nY) Olivines (read as: OH-li-veens)\nZ) Pyroxenes (read as: py-ROHK-seens)"
         ]
       }
     },

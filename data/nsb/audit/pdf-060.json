@@ -279,7 +279,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Compared original PDF page 12 visually with the corpus; restored notation lost in extraction. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "PDF page 12 prints option X and the answer with the squared binomial, y = −2(x + 2)² + 3. The corpus answer omitted the exponent 2.",
       "before": {
         "question": "Which of the following equations describes a parabola that has a vertex at (-2,3)? 2<br>W) y = -2(x + 2) - 3 2<br>X) y = -2(x + 2) + 3 2<br>Y) y = -2(x - 2) - 3 2<br>Z) y = -2(x – 2) + 3 2",
         "options": [
@@ -287,7 +287,8 @@
           "X) y = -2(x + 2) + 3 2",
           "Y) y = -2(x - 2) - 3 2",
           "Z) y = -2(x – 2) + 3 2"
-        ]
+        ],
+        "answer": "X) y = -2(x + 2) + 3"
       },
       "changes": {
         "question": "Which of the following equations describes a parabola that has a vertex at (−2, 3)?<br>W) y = −2(x + 2)<sup>2</sup> − 3<br>X) y = −2(x + 2)<sup>2</sup> + 3<br>Y) y = −2(x − 2)<sup>2</sup> − 3<br>Z) y = −2(x − 2)<sup>2</sup> + 3",
@@ -297,7 +298,9 @@
           "X) y = −2(x + 2)<sup>2</sup> + 3",
           "Y) y = −2(x − 2)<sup>2</sup> − 3",
           "Z) y = −2(x − 2)<sup>2</sup> + 3"
-        ]
+        ],
+        "answer": "X) y = −2(x + 2)<sup>2</sup> + 3",
+        "answer_sanitized": "X) y = −2(x + 2)² + 3"
       }
     },
     {

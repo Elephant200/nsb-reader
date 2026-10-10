@@ -234,13 +234,13 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Source p. 12 formula is SnS₂, with the 2 visibly subscripted; printed answer is +4.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the oxidation number of tin in SnS 2 ?"
       },
       "changes": {
         "question": "What is the oxidation number of tin in SnS<sub>2</sub>?",
-        "question_sanitized": "What is the oxidation number of tin in SnS2?"
+        "question_sanitized": "What is the oxidation number of tin in SnS₂?"
       }
     },
     {
@@ -411,7 +411,7 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Source p. 7 symmetry label is D₃h; all four molecule choices and answer Y) boric acid match.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following molecules does NOT have D 3h symmetry?<br>W) Phosphorus pentachloride<br>X) Cyclopropane<br>Y) Boric acid<br>Z) Bicyclo[2.2.2]octane"
@@ -422,7 +422,7 @@
           "Which of the following molecules does NOT have D<sub>3h</sub> symmetry?<br>W) Phosphorus pentachloride<br>X) Cyclopropane<br>Y) Boric acid<br>Z) Bicyclo[2.2.2]octane"
         ],
         "parts_sanitized": [
-          "Which of the following molecules does NOT have D_3h symmetry? W) Phosphorus pentachloride X) Cyclopropane Y) Boric acid Z) Bicyclo[2.2.2]octane"
+          "Which of the following molecules does NOT have D_(3h) symmetry?\nW) Phosphorus pentachloride\nX) Cyclopropane\nY) Boric acid\nZ) Bicyclo[2.2.2]octane"
         ]
       }
     },
@@ -476,7 +476,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Source p. 9 shows subscripts, ionic charges and states in the chlorine/thiosulfate reaction; Y) Cl₂ is the answer, while bracketed phase definitions sit separately below the answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Consider the following reaction: 5H 2 O (l) + S 2 O 3 2- + 4Cl 2 (aq) → [yields] 8Cl- (aq) + 2SO 4 2- (aq) + 10H+. What is the oxidizing agent in this reaction?<br>W) Cl-<br>X) S 2 O 3 2-<br>Y) Cl 2<br>Z) H 2 O"
@@ -512,7 +512,7 @@
           "Consider the following reaction: 5H2O (l) + S2O3^2- + 4Cl2 (aq) -> [yields] 8Cl- (aq) + 2SO4^2- (aq) + 10H+. What is the oxidizing agent in this reaction? W) Cl- X) S2O3^2- Y) Cl2 Z) H2O"
         ],
         "answers_sanitized": [
-          "Y) Cl2"
+          "Y) Cl₂"
         ]
       }
     },

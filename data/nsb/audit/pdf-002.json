@@ -530,11 +530,24 @@
       "kind": "bonuses",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 12; source text and notation agree with the corpus."
+      "evidence": "Rendered packet 002, page 12 shows the superscript +2 attached to N (N⁺²). The corpus prompt drops the charge; restored as N<sup>+2</sup>, preserving the source’s printed charge order. Source image: /tmp/nsb-exp-2-12-12.png.",
+      "before": {
+        "parts": [
+          "The Lewis dot structure for the N ion would show how many dots?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The Lewis dot structure for the N<sup>+2</sup> ion would show how many dots?"
+        ],
+        "parts_sanitized": [
+          "The Lewis dot structure for the N⁺² ion would show how many dots?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

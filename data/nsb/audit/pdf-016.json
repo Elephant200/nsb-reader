@@ -190,13 +190,13 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Root visually inspected fresh packet-specific PDF page 8. The reaction reads FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), followed by ΔH (read as: delta H) equals −10 kilojoules. Extraction displaced the reaction, state labels, CO₂ count and enthalpy. Restored their order and script positions, retaining every option and the source solution note.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Consider the following equilibrium reaction, ↔ Fe ∆H (read as: delta H) equals FeO + CO + CO , where –10 kilojoules. Which (solid) (gas) (solid) 2(gas) of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide"
       },
       "changes": {
         "question": "Consider the following equilibrium reaction, FeO<sub>(solid)</sub> + CO<sub>(gas)</sub> ↔ Fe<sub>(solid)</sub> + CO<sub>2(gas)</sub>, where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
-        "question_sanitized": "Consider the following equilibrium reaction, FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature: W) adding iron X) increasing pressure Y) removing carbon dioxide Z) removing carbon monoxide"
+        "question_sanitized": "Consider the following equilibrium reaction, FeO_((solid)) + CO_((gas)) ↔ Fe_((solid)) + CO_(2(gas)), where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature:\nW) adding iron\nX) increasing pressure\nY) removing carbon dioxide\nZ) removing carbon monoxide"
       }
     },
     {
@@ -314,7 +314,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF p.1: the formula is contiguous CH₃CHCHCH₂CH₃; corpus inserted spaces after subscript tags.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "How many sigma and pi bonds, respectively, are there in a molecule with the following formula: [read slowly] CH<sub>3</sub> CHCHCH<sub>2</sub> CH<sub>3</sub>"
@@ -325,7 +325,7 @@
           "How many sigma and pi bonds, respectively, are there in a molecule with the following formula: [read slowly] CH<sub>3</sub>CHCHCH<sub>2</sub>CH<sub>3</sub>"
         ],
         "parts_sanitized": [
-          "How many sigma and pi bonds, respectively, are there in a molecule with the following formula: [read slowly] CH3CHCHCH2CH3"
+          "How many sigma and pi bonds, respectively, are there in a molecule with the following formula: [read slowly] CH₃CHCHCH₂CH₃"
         ]
       }
     },

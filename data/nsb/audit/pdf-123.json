@@ -87,7 +87,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "PDF p.5 prints NADH to NAD⁺ with superscript plus; corpus separates the plus from NAD.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following is NOT true when comparing the 4 steps of aerobic respiration to the 2 steps of anaerobic respiration?<br>W) Both utilize compounds other than glucose, such as lipids, for energy<br>X) Both recycle NADH [N-A-D-H] to NAD + [N-A-D plus]<br>Y) Both have steps occurring in the cytoplasm<br>Z) Only one produces pyruvate [py-ROO-vayt]",
         "options": [
@@ -105,7 +105,7 @@
           "Y) Both have steps occurring in the cytoplasm",
           "Z) Only one produces pyruvate [py-ROO-vayt]"
         ],
-        "question_sanitized": "Which of the following is NOT true when comparing the 4 steps of aerobic respiration to the 2 steps of anaerobic respiration? W) Both utilize compounds other than glucose, such as lipids, for energy X) Both recycle NADH [N-A-D-H] to NAD+ [N-A-D plus] Y) Both have steps occurring in the cytoplasm Z) Only one produces pyruvate [py-ROO-vayt]"
+        "question_sanitized": "Which of the following is NOT true when comparing the 4 steps of aerobic respiration to the 2 steps of anaerobic respiration?\nW) Both utilize compounds other than glucose, such as lipids, for energy\nX) Both recycle NADH [N-A-D-H] to NAD⁺ [N-A-D plus]\nY) Both have steps occurring in the cytoplasm\nZ) Only one produces pyruvate [py-ROO-vayt]"
       }
     },
     {
@@ -260,7 +260,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "PDF p.1 visually prints N₂, H₂S, CO₂, CH₄ and keyed X) H₂S; corpus inserts a space in H₂ S.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Like many thermodynamic quantities, the critical temperature of a substance is strongly dependent on the intermolecular forces present. Which of the following compounds has the highest boiling point?<br>W) N<sub>2</sub><br>X) H<sub>2</sub> S<br>Y) CO<sub>2</sub><br>Z) CH<sub>4</sub>"
@@ -289,10 +289,10 @@
           "X) H<sub>2</sub>S"
         ],
         "parts_sanitized": [
-          "Like many thermodynamic quantities, the critical temperature of a substance is strongly dependent on the intermolecular forces present. Which of the following compounds has the highest boiling point? W) N2 X) H2S Y) CO2 Z) CH4"
+          "Like many thermodynamic quantities, the critical temperature of a substance is strongly dependent on the intermolecular forces present. Which of the following compounds has the highest boiling point?\nW) N₂\nX) H₂S\nY) CO₂\nZ) CH₄"
         ],
         "answers_sanitized": [
-          "X) H2S"
+          "X) H₂S"
         ]
       }
     },

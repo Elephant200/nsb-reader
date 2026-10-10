@@ -36,3 +36,12 @@ test('reading text escapes unsupported markup and never infers exponents', () =>
   assert.equal(renderReadingText('<img src=x onerror=alert(1)>'), '&lt;img src=x onerror=alert(1)&gt;');
   assert.equal(renderReadingText('x2 - 10-6'), 'x2 - 10-6');
 });
+
+test('explicit reading notation renders powers and subscripts without flattening operands', () => {
+  assert.equal(renderReadingText('x^2 + 10^(-6) + NH_(4)^(+)'), 'x² + 10⁻⁶ + NH₄⁺');
+  assert.equal(renderReadingText('pK_(a) + pK_(b)'), 'pKₐ + pK<sub>b</sub>');
+  assert.equal(renderReadingText('x^(2/3) + x^(n+1)'), 'x<sup>2/3</sup> + x<sup>n+1</sup>');
+  assert.equal(renderReadingText('∑_(n=1)^(∞) + lim_(x→π/3)'), '∑ₙ₌₁<sup>∞</sup> + lim<sub>x→π/3</sub>');
+  assert.equal(renderReadingText('x^2/3 + x^2.5 + x2'), 'x^2/3 + x^2.5 + x2');
+  assert.equal(renderReadingText('x^(<img src=x>)'), 'x^(&lt;img src=x&gt;)');
+});

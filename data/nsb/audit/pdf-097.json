@@ -552,7 +552,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Physical PDF page 12 prints S_N2 leaving-group notation; answer is fluorine.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which halogen is the poorest S 2 leaving group? N"
@@ -563,7 +563,7 @@
           "Which halogen is the poorest S<sub>N</sub>2 leaving group?"
         ],
         "parts_sanitized": [
-          "Which halogen is the poorest SN2 leaving group?"
+          "Which halogen is the poorest S_(N)2 leaving group?"
         ]
       }
     },

@@ -336,11 +336,24 @@
       "kind": "bonuses",
       "itemIndex": 9,
       "number": 10,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         5
       ],
-      "evidence": "p. 5: compared complete printed B10 wording, all options if present, and answer; prompt begins “10) Math – Short Answer What are the coordinates of the vertex of the graph of”; source answer line: “ANSWER: (–2, 7) (ACCEPT: x = –2 AND y = 7) 2019 Regional Science Bowl – Round 7A                                                             Page 5”."
+      "evidence": "Rendered packet 208, page 5 shows y = −4x² − 16x − 9. The current prompt had “x 2” instead of the superscripted exponent, so restored x<sup>2</sup>. Source image: /tmp/nsb-math-208-5.png.",
+      "before": {
+        "parts": [
+          "What are the coordinates of the vertex of the graph of y = –4x 2 – 16x – 9?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the coordinates of the vertex of the graph of y = −4x<sup>2</sup> − 16x − 9?"
+        ],
+        "parts_sanitized": [
+          "What are the coordinates of the vertex of the graph of y = −4x² − 16x − 9?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

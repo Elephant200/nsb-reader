@@ -333,7 +333,7 @@
       "sourcePages": [
         14
       ],
-      "evidence": "Viewed p.14: source cue wraps [dee-ny-trih- / fih-KAY-shun], which joins to [dee-ny-trih-fih-KAY-shun]; answer prints nitrous oxide, accepting N₂O and dinitrogen monoxide.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Denitrification [dee-ny-trih- fih-KAY-shun] by bacteria in very low oxygen environments can lead to the production of what potent greenhouse gas?"
@@ -350,7 +350,7 @@
           "NITROUS OXIDE (ACCEPT: N<sub>2</sub>O, DINITROGEN MONOXIDE)"
         ],
         "answers_sanitized": [
-          "NITROUS OXIDE (ACCEPT: N2O, DINITROGEN MONOXIDE)"
+          "NITROUS OXIDE (ACCEPT: N₂O, DINITROGEN MONOXIDE)"
         ]
       }
     },

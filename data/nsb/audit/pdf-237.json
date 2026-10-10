@@ -215,7 +215,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Page 2 prints Al(OH)₄⁻ for the aluminum hydroxide ion; restored the subscript and superscript charge in the answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "Al(OH) 4-"
@@ -226,7 +226,7 @@
           "Al(OH)<sub>4</sub><sup>−</sup>"
         ],
         "answers_sanitized": [
-          "Al(OH)4−"
+          "Al(OH)₄⁻"
         ]
       }
     },

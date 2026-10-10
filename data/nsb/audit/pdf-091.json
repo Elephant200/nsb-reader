@@ -57,13 +57,13 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered source page 3 shows the stated limit with numerator ax⁵ − x³ + x and denominator x − x³ + 2x⁵, equal to 3; the source equation is now represented explicitly.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Find a value for a such that the [limit as x approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x and denominator x minus x cubed plus 2 x to the fifth equals 3]."
       },
       "changes": {
         "question": "Find a value for a such that lim<sub>x→∞</sub> <span class=\"nsb-fraction\"><span>ax<sup>5</sup> − x<sup>3</sup> + x</span><span>x − x<sup>3</sup> + 2x<sup>5</sup></span></span> = 3 [limit as x approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x and denominator x minus x cubed plus 2 x to the fifth equals 3].",
-        "question_sanitized": "Find a value for a such that lim (x→∞) ((ax^5 - x^3 + x)/(x - x^3 + 2x^5)) = 3 [limit as x approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x and denominator x minus x cubed plus 2 x to the fifth equals 3]."
+        "question_sanitized": "Find a value for a such that lim_(x→∞) (ax⁵ − x³ + x)/(x − x³ + 2x⁵) = 3 [limit as x approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x and denominator x minus x cubed plus 2 x to the fifth equals 3]."
       }
     },
     {
@@ -474,7 +474,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered source page 10 prints the accepted formula as CO₂; the captured answer spaced the 2 at baseline.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "CARBON DIOXIDE (ACCEPT: CO 2 )"
@@ -485,7 +485,7 @@
           "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)"
         ],
         "answers_sanitized": [
-          "CARBON DIOXIDE (ACCEPT: CO2)"
+          "CARBON DIOXIDE (ACCEPT: CO₂)"
         ]
       }
     },

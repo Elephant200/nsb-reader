@@ -143,11 +143,18 @@
       "kind": "tossups",
       "itemIndex": 13,
       "number": 14,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         7
       ],
-      "evidence": "Compared wording, choices, answer, and displayed notation with Round Robin Round 5, page 7."
+      "evidence": "Page 7 prints ∫₀⁴ f(x) dx=6 and asks for ∫₋₄⁴ f(x) dx. Current text lost both integral limits and duplicates OCR glyphs; the spoken cues give the correct bounds.",
+      "before": {
+        "question": "If f(x) is an odd function and ∫0 𝑓𝑓(𝑥𝑥)𝑑𝑑𝑑𝑑 = 6 [the integral from 0 to 4 4 of f of x dx equals 6] then what is the value of ∫−4 𝑓𝑓(𝑥𝑥)𝑑𝑑𝑑𝑑 [the integral from negative 4 to 4 of f of x dx]?"
+      },
+      "changes": {
+        "question": "If f(x) is an odd function and ∫₀⁴ f(x) dx = 6 [the integral from 0 to 4 of f of x dx equals 6], then what is the value of ∫₋₄⁴ f(x) dx [the integral from negative 4 to 4 of f of x dx]?",
+        "question_sanitized": "If f(x) is an odd function and ∫₀⁴ f(x) dx = 6 [the integral from 0 to 4 of f of x dx equals 6], then what is the value of ∫₋₄⁴ f(x) dx [the integral from negative 4 to 4 of f of x dx]?"
+      }
     },
     {
       "kind": "tossups",

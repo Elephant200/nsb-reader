@@ -288,13 +288,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered PDF page 11 shows O₂ as the accepted molecular oxygen form; the corpus flattened the subscript.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O2)"
       },
       "changes": {
         "answer": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O<sub>2</sub>)",
-        "answer_sanitized": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O2)"
+        "answer_sanitized": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O₂)"
       }
     },
     {
@@ -345,7 +345,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows the charges raised on Mg²⁺, Rb⁺, Al³⁺, and Na⁺ in the prompt and ordering.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Arrange the following 4 cations in order of increasing ionic radii: Mg2+; Rb+; Al3+; Na+"
@@ -359,13 +359,13 @@
           "Arrange the following 4 cations in order of increasing ionic radii: Mg<sup>2+</sup>; Rb<sup>+</sup>; Al<sup>3+</sup>; Na<sup>+</sup>"
         ],
         "parts_sanitized": [
-          "Arrange the following 4 cations in order of increasing ionic radii: Mg2+; Rb+; Al3+; Na+"
+          "Arrange the following 4 cations in order of increasing ionic radii: Mg²⁺; Rb⁺; Al³⁺; Na⁺"
         ],
         "answers": [
           "Al<sup>3+</sup>; Mg<sup>2+</sup>; Na<sup>+</sup>; Rb<sup>+</sup>"
         ],
         "answers_sanitized": [
-          "Al3+; Mg2+; Na+; Rb+"
+          "Al³⁺; Mg²⁺; Na⁺; Rb⁺"
         ]
       }
     },

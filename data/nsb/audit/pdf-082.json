@@ -517,7 +517,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered Round 1 page 11 shows f(x)=10^(x+2), matching the printed spoken cue; restored the grouped exponent while retaining all four point choices.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following points is on the graph of the inverse of the function f(x) = 10x + 2 [f of x equals 10 to the power of the quantity x plus 2]?<br>W) (100, 0)<br>X) (0, 100)<br>Y) (10, 0)<br>Z) (0, 10)"
@@ -528,7 +528,7 @@
           "Which of the following points is on the graph of the inverse of the function f(x) = 10<sup>(x + 2)</sup> [f of x equals 10 to the power of the quantity x plus 2]?<br>W) (100, 0)<br>X) (0, 100)<br>Y) (10, 0)<br>Z) (0, 10)"
         ],
         "parts_sanitized": [
-          "Which of the following points is on the graph of the inverse of the function f(x) = 10^(x + 2) [f of x equals 10 to the power of the quantity x plus 2]?\nW) (100, 0)\nX) (0, 100)\nY) (10, 0)\nZ) (0, 10)"
+          "Which of the following points is on the graph of the inverse of the function f(x) = 10^((x + 2)) [f of x equals 10 to the power of the quantity x plus 2]?\nW) (100, 0)\nX) (0, 100)\nY) (10, 0)\nZ) (0, 10)"
         ]
       }
     },

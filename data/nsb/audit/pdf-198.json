@@ -464,7 +464,7 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Page 11 prints the formula C₄H₈O without spaces between atoms and subscripts; removed extraction-introduced spaces.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Identify all of the following three molecules that have the chemical formula C<sub>4</sub> H<sub>8</sub> O: 1) Acetone; 2) Butanone; 3) Butyraldehyde."
@@ -475,7 +475,7 @@
           "Identify all of the following three molecules that have the chemical formula C<sub>4</sub>H<sub>8</sub>O: 1) Acetone; 2) Butanone; 3) Butyraldehyde."
         ],
         "parts_sanitized": [
-          "Identify all of the following three molecules that have the chemical formula C4H8O: 1) Acetone; 2) Butanone; 3) Butyraldehyde."
+          "Identify all of the following three molecules that have the chemical formula C₄H₈O: 1) Acetone; 2) Butanone; 3) Butyraldehyde."
         ]
       }
     },

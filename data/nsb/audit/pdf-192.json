@@ -241,13 +241,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Page 11 prints K₂[Cu(CN)₄] with formula subscripts and the potassium tetracyanocuprate(II) [TWO] answer; removed extraction-added spaces.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the IUPAC name for the compound with the chemical formula K<sub>2</sub> [Cu(CN)<sub>4</sub> ]?"
       },
       "changes": {
         "question": "What is the IUPAC name for the compound with the chemical formula K<sub>2</sub>[Cu(CN)<sub>4</sub>]?",
-        "question_sanitized": "What is the IUPAC name for the compound with the chemical formula K2[Cu(CN)4]?"
+        "question_sanitized": "What is the IUPAC name for the compound with the chemical formula K₂[Cu(CN)₄]?"
       }
     },
     {

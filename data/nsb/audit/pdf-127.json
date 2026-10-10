@@ -315,7 +315,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "PDF p.3 prints NaF, CH₄, F₂, Ca and answer F₂, CH₄, Ca, NaF; corpus lost subscripts and misplaced digits.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Place the following four molecules in order from lowest to highest melting point: 1) NaF, 2) CH 3) F 4) Ca. 4, 2,"
@@ -332,10 +332,10 @@
           "F₂, CH₄, Ca, NaF (ACCEPT: 3, 2, 4, 1)"
         ],
         "parts_sanitized": [
-          "Place the following four molecules in order from lowest to highest melting point: 1) NaF, 2) CH4, 3) F2, 4) Ca."
+          "Place the following four molecules in order from lowest to highest melting point: 1) NaF, 2) CH₄, 3) F₂, 4) Ca."
         ],
         "answers_sanitized": [
-          "F2, CH4, Ca, NaF (ACCEPT: 3, 2, 4, 1)"
+          "F₂, CH₄, Ca, NaF (ACCEPT: 3, 2, 4, 1)"
         ]
       }
     },
@@ -487,7 +487,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "PDF p.6 prints N₂⁺ and answer 2.5; source has no space after the comma in 'figures,determine'.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Providing your unitless answer to two significant figures,determine the bond order of N 2+ ."
@@ -498,7 +498,7 @@
           "Providing your unitless answer to two significant figures,determine the bond order of N₂⁺."
         ],
         "parts_sanitized": [
-          "Providing your unitless answer to two significant figures,determine the bond order of N2+."
+          "Providing your unitless answer to two significant figures,determine the bond order of N₂⁺."
         ]
       }
     },

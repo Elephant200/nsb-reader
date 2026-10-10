@@ -50,13 +50,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2 prints “CARBON DIOXIDE (ACCEPT: CO₂)”; add the subscript to the accepted chemical formula.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "CARBON DIOXIDE (ACCEPT: CO2)"
       },
       "changes": {
         "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)",
-        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO2)"
+        "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO₂)"
       }
     },
     {
@@ -257,7 +257,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 prints the chemical formula C₁₂H₁₆O₂ and the read-as cue “[C twelve H sixteen O two].” The import separated the element symbols and subscripts; restore formula layout and retain the complete cue.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Consider an organic compound with no rings in its structure, and with the chemical formula C 12 H 16 O 2 [C twelve H sixteen O two]. What is the number of double bonds in its structure?"
@@ -268,7 +268,7 @@
           "Consider an organic compound with no rings in its structure, and with the chemical formula C<sub>12</sub>H<sub>16</sub>O<sub>2</sub> [C twelve H sixteen O two]. What is the number of double bonds in its structure?"
         ],
         "parts_sanitized": [
-          "Consider an organic compound with no rings in its structure, and with the chemical formula C12H16O2 [C twelve H sixteen O two]. What is the number of double bonds in its structure?"
+          "Consider an organic compound with no rings in its structure, and with the chemical formula C₁₂H₁₆O₂ [C twelve H sixteen O two]. What is the number of double bonds in its structure?"
         ]
       }
     },

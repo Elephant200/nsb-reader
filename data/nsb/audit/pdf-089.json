@@ -164,7 +164,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered page 9 shows C₄H₈, C₃H₈, C₂H₂, and C₂H₅OH; restored all molecular subscripts in the embedded/separate choices and answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following molecules is an alkane?<br>W) C 4 H 8<br>X) C 3 H 8<br>Y) C 2 H 2<br>Z) C 2 H 5 OH",
         "options": [
@@ -177,7 +177,7 @@
       },
       "changes": {
         "question": "Which of the following molecules is an alkane?<br>W) C<sub>4</sub>H<sub>8</sub><br>X) C<sub>3</sub>H<sub>8</sub><br>Y) C<sub>2</sub>H<sub>2</sub><br>Z) C<sub>2</sub>H<sub>5</sub>OH",
-        "question_sanitized": "Which of the following molecules is an alkane?\nW) C4H8\nX) C3H8\nY) C2H2\nZ) C2H5OH",
+        "question_sanitized": "Which of the following molecules is an alkane?\nW) C₄H₈\nX) C₃H₈\nY) C₂H₂\nZ) C₂H₅OH",
         "options": [
           "W) C<sub>4</sub>H<sub>8</sub>",
           "X) C<sub>3</sub>H<sub>8</sub>",
@@ -185,7 +185,7 @@
           "Z) C<sub>2</sub>H<sub>5</sub>OH"
         ],
         "answer": "X) C<sub>3</sub>H<sub>8</sub>",
-        "answer_sanitized": "X) C3H8"
+        "answer_sanitized": "X) C₃H₈"
       }
     },
     {

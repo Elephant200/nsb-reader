@@ -213,11 +213,24 @@
       "kind": "bonuses",
       "itemIndex": 2,
       "number": 3,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "PDF p. 2: checked “If [f of x equals seven x plus nineteen], for what values of x is f(x) [f of x] greater than 33? W) x is greater than 2 X) x is less th”; source key/answer reads “W) X IS GREATER THAN 2”, matching the record."
+      "evidence": "Rendered packet 114, page 2 prints f(x) = 7x + 19; the current prompt omitted the equation and kept only its reading text. Restored the equation and retained the full stem and choices. Source image: /tmp/nsb-math-114-2.png.",
+      "before": {
+        "parts": [
+          "If [f of x equals seven x plus nineteen], for what values of x is f(x) [f of x] greater than 33?<br>W) x is greater than 2<br>X) x is less than 2<br>Y) x is between 2 and -2<br>Z) All real numbers"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "If f(x) = 7x + 19 [f of x equals seven x plus nineteen], for what values of x is f(x) [f of x] greater than 33?<br>W) x is greater than 2<br>X) x is less than 2<br>Y) x is between 2 and -2<br>Z) All real numbers"
+        ],
+        "parts_sanitized": [
+          "If f(x) = 7x + 19 [f of x equals seven x plus nineteen], for what values of x is f(x) [f of x] greater than 33?\nW) x is greater than 2\nX) x is less than 2\nY) x is between 2 and -2\nZ) All real numbers"
+        ]
+      }
     },
     {
       "kind": "bonuses",

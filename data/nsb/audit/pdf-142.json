@@ -427,7 +427,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9 shows bonus 17; printed answer is 7.",
+      "evidence": "The rendered source on p. 9 reads 4^2013 + 4^2014 + 4^2015. The sample combines the exponent digits into 420^13, 420^14, and 420^15; restoring the source expression.",
       "before": {
         "parts": [
           "What is the largest prime factor of the quantity 42013 + 42014 + 42015?"
@@ -435,10 +435,10 @@
       },
       "changes": {
         "parts": [
-          "What is the largest prime factor of the quantity 420<sup>13</sup> + 420<sup>14</sup> + 420<sup>15</sup>?"
+          "What is the largest prime factor of the quantity 4<sup>2013</sup> + 4<sup>2014</sup> + 4<sup>2015</sup>?"
         ],
         "parts_sanitized": [
-          "What is the largest prime factor of the quantity 420^13 + 420^14 + 420^15?"
+          "What is the largest prime factor of the quantity 4²⁰¹³ + 4²⁰¹⁴ + 4²⁰¹⁵?"
         ]
       }
     },

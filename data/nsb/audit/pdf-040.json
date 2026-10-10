@@ -100,7 +100,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 shows CHCl₃ and CO₂ with contiguous subscripts in the choices and key.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following is a nonpolar molecule:<br>W) HCN<br>X) HBr<br>Y) CHCl3<br>Z) CO2",
         "answer": "Z) CO2",
@@ -113,9 +113,9 @@
       },
       "changes": {
         "question": "Which of the following is a nonpolar molecule:<br>W) HCN<br>X) HBr<br>Y) CHCl<sub>3</sub><br>Z) CO<sub>2</sub>",
-        "question_sanitized": "Which of the following is a nonpolar molecule:<br>W) HCN<br>X) HBr<br>Y) CHCl3<br>Z) CO2",
+        "question_sanitized": "Which of the following is a nonpolar molecule:\nW) HCN\nX) HBr\nY) CHCl₃\nZ) CO₂",
         "answer": "Z) CO<sub>2</sub>",
-        "answer_sanitized": "Z) CO2",
+        "answer_sanitized": "Z) CO₂",
         "options": [
           "W) HCN",
           "X) HBr",
@@ -132,13 +132,13 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 prints NADP⁺ twice with a raised charge; the corpus leaves both charges on the baseline.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "In photosystem one, when NADP+ forms NADPH with the catalytic help of NADP+ reductase, from what specific place in the chloroplast are the hydrogen ions derived?"
       },
       "changes": {
         "question": "In photosystem one, when NADP<sup>+</sup> forms NADPH with the catalytic help of NADP<sup>+</sup> reductase, from what specific place in the chloroplast are the hydrogen ions derived?",
-        "question_sanitized": "In photosystem one, when NADP+ forms NADPH with the catalytic help of NADP+ reductase, from what specific place in the chloroplast are the hydrogen ions derived?"
+        "question_sanitized": "In photosystem one, when NADP⁺ forms NADPH with the catalytic help of NADP⁺ reductase, from what specific place in the chloroplast are the hydrogen ions derived?"
       }
     },
     {
@@ -426,7 +426,7 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 shows CₙH₂ₙ, CₙH₂ₙ₊₂, CₙH₂ₙ₋₂, and CₙH₂ₙ₊₁; the corpus flattened the indexed formulas.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms:<br>W) CnH2n<br>X) CnH2n+2<br>Y) CnH2n–2<br>Z) CnH2n+1"
@@ -446,7 +446,7 @@
           "Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms:<br>W) C<sub>n</sub>H<sub>2n</sub><br>X) C<sub>n</sub>H<sub>2n+2</sub><br>Y) C<sub>n</sub>H<sub>2n−2</sub><br>Z) C<sub>n</sub>H<sub>2n+1</sub>"
         ],
         "parts_sanitized": [
-          "Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms:<br>W) C_nH_2n<br>X) C_nH_(2n+2)<br>Y) C_nH_(2n-2)<br>Z) C_nH_(2n+1)"
+          "Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms:\nW) C_(n)H_(2n)\nX) C_(n)H_(2n+2)\nY) C_(n)H_(2n-2)\nZ) C_(n)H_(2n+1)"
         ],
         "options": [
           "W) C<sub>n</sub>H<sub>2n</sub>",
@@ -458,7 +458,7 @@
           "W) C<sub>n</sub>H<sub>2n</sub>"
         ],
         "answers_sanitized": [
-          "W) C_nH_2n"
+          "W) C_(n)H_(2n)"
         ]
       }
     },
@@ -626,7 +626,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered PDF page 12 shows RbClO₄; the corpus flattened its subscript.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the systematic IUPAC name for the compound RbClO4?"
@@ -637,7 +637,7 @@
           "What is the systematic IUPAC name for the compound RbClO<sub>4</sub>?"
         ],
         "parts_sanitized": [
-          "What is the systematic IUPAC name for the compound RbClO4?"
+          "What is the systematic IUPAC name for the compound RbClO₄?"
         ]
       }
     },

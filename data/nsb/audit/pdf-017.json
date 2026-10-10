@@ -332,7 +332,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered source page 4 prints the complex as [Co(NH₃)₄Cl₂]⁺ and retains the pronunciation aid [C-O-N-H-3-4-C-L-2-plus]; corpus left formula digits and charge on the baseline.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the oxidation number of the central cobalt atom in [Co(NH3)4Cl2]+ [C-O-N-H-3-4-C-L-2-plus]?"
@@ -343,7 +343,7 @@
           "What is the oxidation number of the central cobalt atom in [Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]<sup>+</sup> [C-O-N-H-3-4-C-L-2-plus]?"
         ],
         "parts_sanitized": [
-          "What is the oxidation number of the central cobalt atom in [Co(NH3)4Cl2]+ [C-O-N-H-3-4-C-L-2-plus]?"
+          "What is the oxidation number of the central cobalt atom in [Co(NH₃)₄Cl₂]⁺ [C-O-N-H-3-4-C-L-2-plus]?"
         ]
       }
     },

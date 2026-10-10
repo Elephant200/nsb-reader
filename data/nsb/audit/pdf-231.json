@@ -94,13 +94,13 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Compared the printed prompt, any choices, and ANSWER line on PDF page 4; restored the visibly printed mathematical or scientific notation.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the systematic IUPAC name of the primary alcohol that has formula C H O? 4 10<br>W) Butan-1-ol<br>X) n-Butanol<br>Y) Butyric alcohol<br>Z) Butyl alcohol"
       },
       "changes": {
         "question": "What is the systematic IUPAC name of the primary alcohol that has formula C<sub>4</sub>H<sub>10</sub>O?<br>W) Butan-1-ol<br>X) n-Butanol<br>Y) Butyric alcohol<br>Z) Butyl alcohol",
-        "question_sanitized": "What is the systematic IUPAC name of the primary alcohol that has formula C4H10O? W) Butan-1-ol X) n-Butanol Y) Butyric alcohol Z) Butyl alcohol"
+        "question_sanitized": "What is the systematic IUPAC name of the primary alcohol that has formula C₄H₁₀O?\nW) Butan-1-ol\nX) n-Butanol\nY) Butyric alcohol\nZ) Butyl alcohol"
       }
     },
     {

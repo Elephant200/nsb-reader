@@ -20,13 +20,13 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF p.1: source formula is SF₆ immediately followed by a colon; corpus inserted a space before the colon.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF<sub>6</sub> :"
       },
       "changes": {
         "question": "Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF<sub>6</sub>:",
-        "question_sanitized": "Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF6:"
+        "question_sanitized": "Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF₆:"
       }
     },
     {
@@ -254,11 +254,18 @@
       "kind": "tossups",
       "itemIndex": 19,
       "number": 20,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         10
       ],
-      "evidence": "PDF p.10: source question 20 and printed answer were compared; source begins “MATH Short Answer Of the following 5 functions identify all that are NOT diffe”."
+      "evidence": "PDF page 10 includes e^x in the list. The corpus dropped the superscript x.",
+      "before": {
+        "question": "Of the following 5 functions identify all that are NOT differentiable for x all real numbers: | x | (read as: absolute value of x); cosine(x); tangent(x); e ; the greatest integer function"
+      },
+      "changes": {
+        "question": "Of the following 5 functions, identify all that are NOT differentiable for all real numbers: |x| (read as: absolute value of x); cosine(x); tangent(x); e<sup>x</sup>; the greatest integer function",
+        "question_sanitized": "Of the following 5 functions, identify all that are NOT differentiable for all real numbers: |x| (read as: absolute value of x); cosine(x); tangent(x); e^(x); the greatest integer function"
+      }
     },
     {
       "kind": "tossups",
@@ -344,7 +351,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "PDF p.1: printed answer is 0.05; the trailing equation belongs to the solution and is already partly in notes.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)<sub>2</sub> , solution to neutralize 40 milliliters of a nitric acid, or HNO<sub>3</sub> , solution to the equivalence point. Calculate the molarity of HNO<sub>3</sub> , rounded to the second decimal place:"
@@ -361,7 +368,7 @@
           "In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)<sub>2</sub>, solution to neutralize 40 milliliters of a nitric acid, or HNO<sub>3</sub>, solution to the equivalence point. Calculate the molarity of HNO<sub>3</sub>, rounded to the second decimal place:"
         ],
         "parts_sanitized": [
-          "In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)2, solution to neutralize 40 milliliters of a nitric acid, or HNO3, solution to the equivalence point. Calculate the molarity of HNO3, rounded to the second decimal place:"
+          "In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)₂, solution to neutralize 40 milliliters of a nitric acid, or HNO₃, solution to the equivalence point. Calculate the molarity of HNO₃, rounded to the second decimal place:"
         ],
         "answers": [
           "0.05"
@@ -541,7 +548,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF p.8: source shows PCl₅ ⇌ PCl₃ + Cl₂ and equilibrium constant 5 × 10⁻²; current corpus interleaves subscripts and exponents with surrounding text.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Consider the following equilibrium reaction, ↔ PCl PCl + Cl . If a 1-liter flask contains 0.02 moles of PCl<sub>3</sub> and 0.02 moles of Cl<sub>2</sub> at 5(gas) 3(gas) 2(gas) –2 equilibrium, how many moles of PCl<sub>5</sub> are in the flask. Assume the equilibrium constant is 5 × 10 . –3"
@@ -558,7 +565,7 @@
           "Consider the following equilibrium reaction, PCl<sub>5</sub>(gas) ↔ PCl<sub>3</sub>(gas) + Cl<sub>2</sub>(gas). If a 1-liter flask contains 0.02 moles of PCl<sub>3</sub> and 0.02 moles of Cl<sub>2</sub> at equilibrium, how many moles of PCl<sub>5</sub> are in the flask. Assume the equilibrium constant is 5 × 10<sup>-2</sup>."
         ],
         "parts_sanitized": [
-          "Consider the following equilibrium reaction, PCl5(gas) ↔ PCl3(gas) + Cl2(gas). If a 1-liter flask contains 0.02 moles of PCl3 and 0.02 moles of Cl2 at equilibrium, how many moles of PCl5 are in the flask. Assume the equilibrium constant is 5 × 10^-2."
+          "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 1-liter flask contains 0.02 moles of PCl₃ and 0.02 moles of Cl₂ at equilibrium, how many moles of PCl₅ are in the flask. Assume the equilibrium constant is 5 × 10⁻²."
         ],
         "answers": [
           "8 × 10<sup>-3</sup> (ACCEPT: 0.008)"

@@ -38,11 +38,18 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2; visually compared the science notation, and the corpus fields match."
+      "evidence": "The source answer gives the longer leg as 12√3; the sample dropped √. Restoring it from rendered PDF p. 2.",
+      "before": {
+        "answer": "HYPOTENUSE = 24; LONGER LEG = 12 3 (ACCEPT: LONGER LEG = 20 – 21)"
+      },
+      "changes": {
+        "answer": "HYPOTENUSE = 24; LONGER LEG = 12√3 (ACCEPT: LONGER LEG = 20 – 21)",
+        "answer_sanitized": "HYPOTENUSE = 24; LONGER LEG = 12√3 (ACCEPT: LONGER LEG = 20 - 21)"
+      }
     },
     {
       "kind": "tossups",
@@ -239,13 +246,13 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Rendered PDF page 11 shows C₆H₆ with no spaces between element symbols and subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "C<sub>6</sub> H<sub>6</sub> is the molecular formula for what aromatic hydrocarbon?"
       },
       "changes": {
         "question": "C<sub>6</sub>H<sub>6</sub> is the molecular formula for what aromatic hydrocarbon?",
-        "question_sanitized": "C6H6 is the molecular formula for what aromatic hydrocarbon?"
+        "question_sanitized": "C₆H₆ is the molecular formula for what aromatic hydrocarbon?"
       }
     },
     {
@@ -276,7 +283,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows C₄H₈O₂ and C₆H₁₄ with contiguous element symbols and subscripts; corpus inserted spaces between them.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "If a substance has a molecular weight of 88, which of the following will it be:<br>W) KCl<br>X) C<sub>4</sub> H<sub>8</sub> O<sub>2</sub><br>Y) RbF<br>Z) C<sub>6</sub> H<sub>14</sub>"
@@ -296,13 +303,13 @@
           "If a substance has a molecular weight of 88, which of the following will it be:<br>W) KCl<br>X) C<sub>4</sub>H<sub>8</sub>O<sub>2</sub><br>Y) RbF<br>Z) C<sub>6</sub>H<sub>14</sub>"
         ],
         "parts_sanitized": [
-          "If a substance has a molecular weight of 88, which of the following will it be:<br>W) KCl<br>X) C4H8O2<br>Y) RbF<br>Z) C6H14"
+          "If a substance has a molecular weight of 88, which of the following will it be:\nW) KCl\nX) C₄H₈O₂\nY) RbF\nZ) C₆H₁₄"
         ],
         "answers": [
           "X) C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>"
         ],
         "answers_sanitized": [
-          "X) C4H8O2"
+          "X) C₄H₈O₂"
         ],
         "options": [
           "W) KCl",
@@ -408,7 +415,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered PDF page 4 shows glucose formula C₆H₁₂O₆; the corpus has spaces between each element and subscript.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following is NOT true of glucose:<br>W) when glucose joins with galactose, fructose is formed<br>X) it is also called dextrose<br>Y) cellulose is a polymer of glucose molecules<br>Z) its formula is C<sub>6</sub> H<sub>12</sub> O<sub>6</sub>"
@@ -425,7 +432,7 @@
           "Which of the following is NOT true of glucose:<br>W) when glucose joins with galactose, fructose is formed<br>X) it is also called dextrose<br>Y) cellulose is a polymer of glucose molecules<br>Z) its formula is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>"
         ],
         "parts_sanitized": [
-          "Which of the following is NOT true of glucose:<br>W) when glucose joins with galactose, fructose is formed<br>X) it is also called dextrose<br>Y) cellulose is a polymer of glucose molecules<br>Z) its formula is C6H12O6"
+          "Which of the following is NOT true of glucose:\nW) when glucose joins with galactose, fructose is formed\nX) it is also called dextrose\nY) cellulose is a polymer of glucose molecules\nZ) its formula is C₆H₁₂O₆"
         ],
         "options": [
           "W) when glucose joins with galactose, fructose is formed",
@@ -503,7 +510,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 shows “NH₃,” with the comma immediately following the formula; the corpus inserted a space before the comma.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the formal charge of nitrogen in the ammonia, or NH<sub>3</sub> , molecule?"
@@ -514,7 +521,7 @@
           "What is the formal charge of nitrogen in the ammonia, or NH<sub>3</sub>, molecule?"
         ],
         "parts_sanitized": [
-          "What is the formal charge of nitrogen in the ammonia, or NH3, molecule?"
+          "What is the formal charge of nitrogen in the ammonia, or NH₃, molecule?"
         ]
       }
     },
@@ -536,7 +543,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9 shows the accepted calcium ion as 2+ and Ca²⁺, with the charge raised; the corpus lost the ion symbols and charge formatting.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What specific ion is most central to muscle contraction in striated human muscle? + 2+"
@@ -553,7 +560,7 @@
           "CALCIUM (ACCEPT: CALCIUM 2<sup>+</sup> or Ca<sup>2+</sup>)"
         ],
         "answers_sanitized": [
-          "CALCIUM (ACCEPT: CALCIUM 2+ or Ca2+)"
+          "CALCIUM (ACCEPT: CALCIUM 2⁺ or Ca²⁺)"
         ]
       }
     },

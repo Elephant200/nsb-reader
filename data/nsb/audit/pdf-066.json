@@ -20,13 +20,13 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered original PDF page 1 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 1 prints lim as x approaches infinity of (x² + 10)/(7x² − 5); the corpus omitted the formula from the prompt.",
       "before": {
         "question": "Find (read as: the limit as x approaches infinity of the quantity x squared plus 10 over the quantity 7 x squared minus 5)"
       },
       "changes": {
-        "question": "Find <span class=\"nsb-fraction\"><span>x<sup>2</sup> + 10</span><span>7x<sup>2</sup> − 5</span></span> (read as: the limit as x approaches infinity of the quantity x squared plus 10 over the quantity 7 x squared minus 5).",
-        "question_sanitized": "Find (x^2 + 10)/(7x^2 − 5) (read as: the limit as x approaches infinity of the quantity x squared plus 10 over the quantity 7 x squared minus 5)."
+        "question": "Find lim<sub>x→∞</sub> (x² + 10)/(7x² − 5) (read as: the limit as x approaches infinity of the quantity x squared plus 10 over the quantity 7 x squared minus 5).",
+        "question_sanitized": "Find lim_(x→∞) (x² + 10)/(7x² − 5) (read as: the limit as x approaches infinity of the quantity x squared plus 10 over the quantity 7 x squared minus 5)."
       }
     },
     {
@@ -47,13 +47,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered original PDF page 2 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 2 prints lim as x approaches infinity of e^(−x); the corpus omitted the formula.",
       "before": {
         "question": "Find (read as: the limit as x approaches infinity of e to the negative x)"
       },
       "changes": {
         "question": "Find lim<sub>x→∞</sub> e<sup>−x</sup> (read as: the limit as x approaches infinity of e to the negative x).",
-        "question_sanitized": "Find lim_x→∞ e^(−x) (read as: the limit as x approaches infinity of e to the negative x)."
+        "question_sanitized": "Find lim_(x→∞) e^(-x) (read as: the limit as x approaches infinity of e to the negative x)."
       }
     },
     {
@@ -284,7 +284,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered original PDF page 1 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 1 prints the tangent to y = 3x² − 2x + 4 at x = 1 and answer y = 4x + 1; the corpus scrambled the equation and answer.",
       "before": {
         "parts": [
           "Find the equation of the line in slope intercept form of the tangent 2 to y 3 x 2 x 4 at x 1 . = − + ="
@@ -295,12 +295,15 @@
       },
       "changes": {
         "parts": [
-          "Find the equation of the line in slope intercept form of the tangent to y = 3x<sup>2</sup> − 2x + 4 at x = 1."
+          "Find the equation of the line in slope-intercept form of the tangent to y = 3x² − 2x + 4 at x = 1."
         ],
         "parts_sanitized": [
-          "Find the equation of the line in slope intercept form of the tangent to y = 3x^2 − 2x + 4 at x = 1."
+          "Find the equation of the line in slope-intercept form of the tangent to y = 3x² − 2x + 4 at x = 1."
         ],
         "answers": [
+          "y = 4x + 1"
+        ],
+        "answers_sanitized": [
           "y = 4x + 1"
         ]
       }
@@ -323,7 +326,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered original PDF page 2 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 2 prints s(t) = 6t² + 25; the corpus lost the superscript 2.",
       "before": {
         "parts": [
           "A particle moves so its position s in kilometers at time t in hours can be 2 expressed as s(t) = 6t + 25. After 5 hours, what is its speed in kilometers per hour and its acceleration in kilometers per hour squared, respectively?"
@@ -331,10 +334,10 @@
       },
       "changes": {
         "parts": [
-          "A particle moves so its position s in kilometers at time t in hours can be expressed as s(t) = 6t<sup>2</sup> + 25. After 5 hours, what is its speed in kilometers per hour and its acceleration in kilometers per hour squared, respectively?"
+          "A particle moves so its position s in kilometers at time t in hours can be expressed as s(t) = 6t² + 25. After 5 hours, what is its speed in kilometers per hour and its acceleration in kilometers per hour squared, respectively."
         ],
         "parts_sanitized": [
-          "A particle moves so its position s in kilometers at time t in hours can be expressed as s(t) = 6t^2 + 25. After 5 hours, what is its speed in kilometers per hour and its acceleration in kilometers per hour squared, respectively?"
+          "A particle moves so its position s in kilometers at time t in hours can be expressed as s(t) = 6t² + 25. After 5 hours, what is its speed in kilometers per hour and its acceleration in kilometers per hour squared, respectively."
         ]
       }
     },
@@ -476,7 +479,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered original PDF page 9 confirms the corrected notation or layout.",
+      "evidence": "Source PDF page 9 prints cos 15° = (√2 + √6)/4 (ACCEPT: (√6 + √2)/4); the corpus dropped the answer radicals and value.",
       "before": {
         "answers": [
           "(ACCEPT: )"
@@ -484,6 +487,9 @@
       },
       "changes": {
         "answers": [
+          "(√2 + √6)/4 (ACCEPT: (√6 + √2)/4)"
+        ],
+        "answers_sanitized": [
           "(√2 + √6)/4 (ACCEPT: (√6 + √2)/4)"
         ]
       }

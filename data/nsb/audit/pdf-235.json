@@ -158,7 +158,7 @@
       "sourcePages": [
         15
       ],
-      "evidence": "Page 15 prints Cu(II), MnO₂, NaBH₄, and iodine, and keys MnO₂; restored chemical subscripts in both choices and key.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following compounds or ions is the best oxidizing agent?<br>W) Copper(II) ions<br>X) MnO 2<br>Y) NaBH 4<br>Z) Iodine solid",
         "answer": "X) MnO 2",
@@ -171,9 +171,9 @@
       },
       "changes": {
         "question": "Which of the following compounds or ions is the best oxidizing agent?<br>W) Copper(II) ions<br>X) MnO<sub>2</sub><br>Y) NaBH<sub>4</sub><br>Z) Iodine solid",
-        "question_sanitized": "Which of the following compounds or ions is the best oxidizing agent?<br>W) Copper(II) ions<br>X) MnO2<br>Y) NaBH4<br>Z) Iodine solid",
+        "question_sanitized": "Which of the following compounds or ions is the best oxidizing agent?\nW) Copper(II) ions\nX) MnO₂\nY) NaBH₄\nZ) Iodine solid",
         "answer": "X) MnO<sub>2</sub>",
-        "answer_sanitized": "X) MnO2",
+        "answer_sanitized": "X) MnO₂",
         "options": [
           "W) Copper(II) ions",
           "X) MnO<sub>2</sub>",

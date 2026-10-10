@@ -100,13 +100,13 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered packet 185 PDF page 5 shows toss-up 10 beginning “Lead-acid batteries are commonly found in cars. In these batteries, wh”; checked its full wording and answer “SULFURIC ACID (ACCEPT: H<sub>2</sub> SO<sub>4</sub> )” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "SULFURIC ACID (ACCEPT: H<sub>2</sub> SO<sub>4</sub> )"
       },
       "changes": {
         "answer": "SULFURIC ACID (ACCEPT: H<sub>2</sub>SO<sub>4</sub>)",
-        "answer_sanitized": "SULFURIC ACID (ACCEPT: H2SO4)"
+        "answer_sanitized": "SULFURIC ACID (ACCEPT: H₂SO₄)"
       }
     },
     {

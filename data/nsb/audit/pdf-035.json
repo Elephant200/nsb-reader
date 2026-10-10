@@ -160,7 +160,7 @@
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 confirms CH₃OH, 2H₂, and the reaction arrow; the corpus lost subscripts and corrupted the arrow.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "METHANOL (ACCEPT: CH3OH or METHYL ALCOHOL or WOOD ALCOHOL)",
         "notes": [
@@ -169,7 +169,7 @@
       },
       "changes": {
         "answer": "METHANOL (ACCEPT: CH<sub>3</sub>OH or METHYL ALCOHOL or WOOD ALCOHOL)",
-        "answer_sanitized": "METHANOL (ACCEPT: CH3OH or METHYL ALCOHOL or WOOD ALCOHOL)",
+        "answer_sanitized": "METHANOL (ACCEPT: CH₃OH or METHYL ALCOHOL or WOOD ALCOHOL)",
         "notes": [
           "(Solution: CO + 2H<sub>2</sub> → CH<sub>3</sub>OH)"
         ]
@@ -189,11 +189,21 @@
       "kind": "tossups",
       "itemIndex": 17,
       "number": 18,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+      "evidence": "PDF page 9 visibly prints the ninth root of x⁶ and the answer cube root of x²; corpus text dropped both radical symbols and the root indices.",
+      "before": {
+        "question": "Simplify the following, giving your answer in simplest radical form: 9 x 6 (read as: the ninth root of x to the sixth power)",
+        "answer": "3 x 2"
+      },
+      "changes": {
+        "question": "Simplify the following, giving your answer in simplest radical form: ⁹√x<sup>6</sup> (read as: the ninth root of x to the sixth power)",
+        "answer": "∛x<sup>2</sup>",
+        "question_sanitized": "Simplify the following, giving your answer in simplest radical form: ⁹√x⁶ (read as: the ninth root of x to the sixth power)",
+        "answer_sanitized": "∛x²"
+      }
     },
     {
       "kind": "tossups",
@@ -359,11 +369,24 @@
       "kind": "bonuses",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+      "evidence": "PDF page 6 shows three stacked fractions: 2/5, 7/6, and 7/12. The corpus lost fraction bars and grouping.",
+      "before": {
+        "parts": [
+          "What is the least common denominator of the following 3 fractions: 2 7 7 , and 5 6 12"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the least common denominator of the following 3 fractions: <span class=\"nsb-fraction\"><span>2</span><span>5</span></span>, <span class=\"nsb-fraction\"><span>7</span><span>6</span></span>, and <span class=\"nsb-fraction\"><span>7</span><span>12</span></span>"
+        ],
+        "parts_sanitized": [
+          "What is the least common denominator of the following 3 fractions: (2)/(5), (7)/(6), and (7)/(12)"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -442,11 +465,33 @@
       "kind": "bonuses",
       "itemIndex": 17,
       "number": 18,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+      "evidence": "PDF page 9 prints the prompt as (a^(2/3) + b^(2/3))² and the answer as a^(4/3) + 2a^(2/3)b^(2/3) + b^(4/3). The corpus flattened the fractional exponents and lost their grouping.",
+      "before": {
+        "parts": [
+          "Multiply the following, giving your answer in standard form and without 2 2 negative exponents or radicals: (a 3 + b 3 ) 2 4 2 2 4"
+        ],
+        "answers": [
+          "a + 2a b + b 3 3 3 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Multiply the following, giving your answer in standard form and without negative exponents or radicals: (a<sup><span class=\"nsb-fraction\"><span>2</span><span>3</span></span></sup> + b<sup><span class=\"nsb-fraction\"><span>2</span><span>3</span></span></sup>)<sup>2</sup>"
+        ],
+        "answers": [
+          "a<sup><span class=\"nsb-fraction\"><span>4</span><span>3</span></span></sup> + 2a<sup><span class=\"nsb-fraction\"><span>2</span><span>3</span></span></sup>b<sup><span class=\"nsb-fraction\"><span>2</span><span>3</span></span></sup> + b<sup><span class=\"nsb-fraction\"><span>4</span><span>3</span></span></sup>"
+        ],
+        "parts_sanitized": [
+          "Multiply the following, giving your answer in standard form and without negative exponents or radicals: (a^(2/3) + b^(2/3))²"
+        ],
+        "answers_sanitized": [
+          "a^(4/3) + 2a^(2/3)b^(2/3) + b^(4/3)"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -496,7 +541,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered PDF page 12 shows C₁₈H₃₃N₆O₃ and C₆H₁₁N₂O; the corpus flattened the chemical subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the empirical formula for the following: C18H33N6O3"
@@ -510,13 +555,13 @@
           "What is the empirical formula for the following: C<sub>18</sub>H<sub>33</sub>N<sub>6</sub>O<sub>3</sub>"
         ],
         "parts_sanitized": [
-          "What is the empirical formula for the following: C18H33N6O3"
+          "What is the empirical formula for the following: C₁₈H₃₃N₆O₃"
         ],
         "answers": [
           "C<sub>6</sub>H<sub>11</sub>N<sub>2</sub>O"
         ],
         "answers_sanitized": [
-          "C6H11N2O"
+          "C₆H₁₁N₂O"
         ]
       }
     },

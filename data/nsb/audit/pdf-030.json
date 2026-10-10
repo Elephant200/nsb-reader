@@ -56,11 +56,33 @@
       "kind": "tossups",
       "itemIndex": 5,
       "number": 6,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         3
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 3; wording and notation match."
+      "evidence": "Page 3 record speed is 33⅓ revolutions/minute; all four radian-rate options are mixed multiples of π. The current corpus lost the mixed fractions and π placement.",
+      "before": {
+        "question": "A long-play record rotates at 33 revolutions per minute. Which of 3 the following represents this in radians per minute? 2<br>W) 66 𝜋𝜋 3 1<br>X) 33 𝜋𝜋 3 2<br>Y) 16 3<br>Z) 6𝜋𝜋 2",
+        "options": [
+          "W) 66 𝜋𝜋 3 1",
+          "X) 33 𝜋𝜋 3 2",
+          "Y) 16 3",
+          "Z) 6𝜋𝜋 2"
+        ],
+        "answer": "W) 66 𝜋𝜋 3"
+      },
+      "changes": {
+        "question": "A long-play record rotates at 33⅓ revolutions per minute. Which of the following represents this in radians per minute?<br>W) 66⅔π<br>X) 33⅓π<br>Y) 16⅔π<br>Z) 6π",
+        "options": [
+          "W) 66⅔π",
+          "X) 33⅓π",
+          "Y) 16⅔π",
+          "Z) 6π"
+        ],
+        "answer": "W) 66⅔π",
+        "question_sanitized": "A long-play record rotates at 33⅓ revolutions per minute. Which of the following represents this in radians per minute?\nW) 66⅔π\nX) 33⅓π\nY) 16⅔π\nZ) 6π",
+        "answer_sanitized": "W) 66⅔π"
+      }
     },
     {
       "kind": "tossups",
@@ -116,11 +138,18 @@
       "kind": "tossups",
       "itemIndex": 11,
       "number": 12,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording and notation match."
+      "evidence": "Page 6 θ=sin⁻¹(3/5), with read-as cue “theta equals the inverse sine of three fifths”; current math argument is missing and rendered empty.",
+      "before": {
+        "question": "Suppose that 𝜃𝜃 = sin−1 ( ) [theta equals the inverse sine of three 5 fifths]. Find the exact value of tan 𝜃𝜃 [tangent of theta]."
+      },
+      "changes": {
+        "question": "Suppose that θ = sin⁻¹(3/5) [theta equals the inverse sine of three fifths]. Find the exact value of tan θ [tangent of theta].",
+        "question_sanitized": "Suppose that θ = sin⁻¹(3/5) [theta equals the inverse sine of three fifths]. Find the exact value of tan θ [tangent of theta]."
+      }
     },
     {
       "kind": "tossups",
@@ -166,11 +195,18 @@
       "kind": "tossups",
       "itemIndex": 16,
       "number": 17,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording and notation match."
+      "evidence": "Page 9 sin(5π/4)/cos(5π/4) is 1; current formula extraction leaves only a detached 5π and an incomplete read-as cue.",
+      "before": {
+        "question": "Find the exact value of the expression: 5π [the fraction with cos( ) 4 numerator, sine of, 5 pi over 4, and denominator, cosine of, 5 pi over 4]."
+      },
+      "changes": {
+        "question": "Find the exact value of the expression: sin(5π/4)/cos(5π/4) [the fraction with numerator, sine of, 5 pi over 4, and denominator, cosine of, 5 pi over 4].",
+        "question_sanitized": "Find the exact value of the expression: sin(5π/4)/cos(5π/4) [the fraction with numerator, sine of, 5 pi over 4, and denominator, cosine of, 5 pi over 4]."
+      }
     },
     {
       "kind": "tossups",
@@ -226,11 +262,33 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording and notation match."
+      "evidence": "Page 12 curve is y=e⁻ˣ and tangent slope at x=0 is −1; current text flattens the exponent despite the spoken cue.",
+      "before": {
+        "question": "Which of the following values represents the slope of the tangent line at x = 0 to the curve y = e -x [y equals e to the negative x]?<br>W) -e<br>X) -1<br>Y) 0<br>Z) 1",
+        "options": [
+          "W) -e",
+          "X) -1",
+          "Y) 0",
+          "Z) 1"
+        ],
+        "answer": "X) -1"
+      },
+      "changes": {
+        "question": "Which of the following values represents the slope of the tangent line at x = 0 to the curve y = e<sup>−x</sup> [y equals e to the negative x]?<br>W) −e<br>X) −1<br>Y) 0<br>Z) 1",
+        "options": [
+          "W) −e",
+          "X) −1",
+          "Y) 0",
+          "Z) 1"
+        ],
+        "answer": "X) −1",
+        "question_sanitized": "Which of the following values represents the slope of the tangent line at x = 0 to the curve y = e^(-x) [y equals e to the negative x]?\nW) −e\nX) −1\nY) 0\nZ) 1",
+        "answer_sanitized": "X) −1"
+      }
     },
     {
       "kind": "tossups",
@@ -447,8 +505,15 @@
         "parts": [
           "An electron is moving at a speed of 1.5 x 107 meters per second. Which of the following is its de Broglie wavelength in meters, given that the mass of the electron is 9.1 x 10-31 kilograms and that the Planck constant h is 6.63 x 10-34 joule seconds?<br>W) 5 x 10-11<br>X) 5 x 10-12<br>Y) 2 x 1011<br>Z) 2 x 1012"
         ],
-        "answers": ["W) 5 x 10-11"],
-        "options": ["W) 5 x 10-11", "X) 5 x 10-12", "Y) 2 x 1011", "Z) 2 x 1012"]
+        "answers": [
+          "W) 5 x 10-11"
+        ],
+        "options": [
+          "W) 5 x 10-11",
+          "X) 5 x 10-12",
+          "Y) 2 x 1011",
+          "Z) 2 x 1012"
+        ]
       },
       "changes": {
         "parts": [
@@ -457,9 +522,18 @@
         "parts_sanitized": [
           "An electron is moving at a speed of 1.5 × 10^7 meters per second. Which of the following is its de Broglie wavelength in meters, given that the mass of the electron is 9.1 × 10^(−31) kilograms and that the Planck constant h is 6.63 × 10^(−34) joule seconds?; W) 5 × 10^(−11); X) 5 × 10^(−12); Y) 2 × 10^11; Z) 2 × 10^12"
         ],
-        "answers": ["W) 5 × 10<sup>−11</sup>"],
-        "answers_sanitized": ["W) 5 × 10^(−11)"],
-        "options": ["W) 5 × 10<sup>−11</sup>", "X) 5 × 10<sup>−12</sup>", "Y) 2 × 10<sup>11</sup>", "Z) 2 × 10<sup>12</sup>"]
+        "answers": [
+          "W) 5 × 10<sup>−11</sup>"
+        ],
+        "answers_sanitized": [
+          "W) 5 × 10^(−11)"
+        ],
+        "options": [
+          "W) 5 × 10<sup>−11</sup>",
+          "X) 5 × 10<sup>−12</sup>",
+          "Y) 2 × 10<sup>11</sup>",
+          "Z) 2 × 10<sup>12</sup>"
+        ]
       }
     },
     {
@@ -470,7 +544,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered source page 9 prints s₁ = 2t − t², s₂ = 2t² − 3t, and the two answers 5/6 and 1/2; corpus flattened the powers and split both fractions across the prompt and answer.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Two objects move along a number line. At t seconds, their positions are given as s 1 = 2t – t2 and s 2 = 2t2 – 3t. Providing your answers as fractions in simplest form, give all times in seconds when the two objects have the same speed. 5 1"
@@ -484,7 +558,7 @@
           "Two objects move along a number line. At t seconds, their positions are given as s<sub>1</sub> = 2t − t<sup>2</sup> and s<sub>2</sub> = 2t<sup>2</sup> − 3t. Providing your answers as fractions in simplest form, give all times in seconds when the two objects have the same speed."
         ],
         "parts_sanitized": [
-          "Two objects move along a number line. At t seconds, their positions are given as s1 = 2t − t^2 and s2 = 2t^2 − 3t. Providing your answers as fractions in simplest form, give all times in seconds when the two objects have the same speed."
+          "Two objects move along a number line. At t seconds, their positions are given as s₁ = 2t − t² and s₂ = 2t² − 3t. Providing your answers as fractions in simplest form, give all times in seconds when the two objects have the same speed."
         ],
         "answers": [
           "<span class=\"nsb-fraction\"><span>5</span><span>6</span></span> AND <span class=\"nsb-fraction\"><span>1</span><span>2</span></span>"

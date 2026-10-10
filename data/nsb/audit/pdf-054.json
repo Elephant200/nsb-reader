@@ -20,13 +20,13 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Page 1 prints N₂O₄ with both numeral subscripts attached to their elements; removed spaces around the subscripts.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Name the following compound: N<sub>2</sub> O 4."
       },
       "changes": {
         "question": "Name the following compound: N<sub>2</sub>O<sub>4</sub>.",
-        "question_sanitized": "Name the following compound: N2O4."
+        "question_sanitized": "Name the following compound: N₂O₄."
       }
     },
     {
@@ -348,7 +348,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Page 4 prints U₃O₈ with attached subscripts and no gap before the comma; restored chemical formatting.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "YELLOWCAKE (ACCEPT: U<sub>3</sub> O<sub>8</sub> , TRIURANIUM OCTOXIDE)"
@@ -359,7 +359,7 @@
           "YELLOWCAKE (ACCEPT: U<sub>3</sub>O<sub>8</sub>, TRIURANIUM OCTOXIDE)"
         ],
         "answers_sanitized": [
-          "YELLOWCAKE (ACCEPT: U3O8, TRIURANIUM OCTOXIDE)"
+          "YELLOWCAKE (ACCEPT: U₃O₈, TRIURANIUM OCTOXIDE)"
         ]
       }
     },

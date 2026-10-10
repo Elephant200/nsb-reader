@@ -50,7 +50,7 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered packet 186 PDF page 3 shows toss-up 5 beginning “In which of the following compounds is the oxidation state of oxygen e”; checked its complete printed wording, stored choices and printed answer “Y) O 2” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "In which of the following compounds is the oxidation state of oxygen equal to zero?<br>W) CuO<br>X) H 2 O<br>Y) O 2<br>Z) H 3 PO 4",
         "options": [
@@ -70,8 +70,8 @@
           "Z) H<sub>3</sub>PO<sub>4</sub>"
         ],
         "answer": "Y) O<sub>2</sub>",
-        "question_sanitized": "In which of the following compounds is the oxidation state of oxygen equal to zero? W) CuO X) H2O Y) O2 Z) H3PO4",
-        "answer_sanitized": "Y) O2"
+        "question_sanitized": "In which of the following compounds is the oxidation state of oxygen equal to zero?\nW) CuO\nX) H₂O\nY) O₂\nZ) H₃PO₄",
+        "answer_sanitized": "Y) O₂"
       }
     },
     {
@@ -203,13 +203,13 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered packet 186 PDF page 9 shows toss-up 18 beginning “Gaseous [gah-shus] diffusion is currently the most common method used ”; checked its complete printed wording and answer “UF 6” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "UF 6"
       },
       "changes": {
         "answer": "UF<sub>6</sub>",
-        "answer_sanitized": "UF6"
+        "answer_sanitized": "UF₆"
       }
     },
     {

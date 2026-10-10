@@ -483,7 +483,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Page 12 asks what parathyroid hormone controls in blood; answer calcium, accepting Ca²⁺.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answers": [
           "CALCIUM (ACCEPT: Ca2+)"
@@ -494,7 +494,7 @@
           "CALCIUM (ACCEPT: Ca<sup>2+</sup>)"
         ],
         "answers_sanitized": [
-          "CALCIUM (ACCEPT: Ca^2+)"
+          "CALCIUM (ACCEPT: Ca²⁺)"
         ]
       }
     }

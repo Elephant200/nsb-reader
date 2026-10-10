@@ -20,13 +20,13 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 confirms printed toss-up 2: 2) Physics – Short Answer Two point charges, Q1 and Q2, that have charges of +8 nanocoulombs and -8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q3, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q3? ANSWER: ZERO",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Two point charges, Q1 and Q2, that have charges of +8 nanocoulombs and -8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q3, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q3?"
       },
       "changes": {
         "question": "Two point charges, Q<sub>1</sub> and Q<sub>2</sub>, that have charges of +8 nanocoulombs and −8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q<sub>3</sub>, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q<sub>3</sub>?",
-        "question_sanitized": "Two point charges, Q1 and Q2, that have charges of +8 nanocoulombs and −8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q3, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q3?"
+        "question_sanitized": "Two point charges, Q₁ and Q₂, that have charges of +8 nanocoulombs and −8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q₃, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q₃?"
       }
     },
     {
@@ -67,7 +67,7 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered PDF page 4 confirms printed toss-up 7: 7) Math – Multiple Choice Which of the following is NOT equal to a × log base b of c? W) 1/a × log base b of the fraction a/c X) –a × log base b of the fraction 1/c Y) –log base b of open parenthesis c-a close parenthesis Z) Natural log of (ea) × log base b of c ANSWER: W) 1/a × log BASE b OF THE FRACTION a/c",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following is NOT equal to a × log base b of c?<br>W) 1/a × log base b of the fraction a/c<br>X) –a × log base b of the fraction 1/c -a<br>Y) –log base b of open parenthesis c close parenthesis a<br>Z) Natural log of (e ) × log base b of c",
         "options": [
@@ -79,7 +79,7 @@
       },
       "changes": {
         "question": "Which of the following is NOT equal to a × log base b of c?<br>W) 1/a × log base b of the fraction a/c<br>X) −a × log base b of the fraction 1/c<br>Y) −log base b of open parenthesis c<sup>−a</sup> close parenthesis<br>Z) Natural log of (e<sup>a</sup>) × log base b of c",
-        "question_sanitized": "Which of the following is NOT equal to a × log base b of c? W) 1/a × log base b of the fraction a/c X) −a × log base b of the fraction 1/c Y) −log base b of open parenthesis c^-a close parenthesis Z) Natural log of (e^a) × log base b of c",
+        "question_sanitized": "Which of the following is NOT equal to a × log base b of c?\nW) 1/a × log base b of the fraction a/c\nX) −a × log base b of the fraction 1/c\nY) −log base b of open parenthesis c^(-a) close parenthesis\nZ) Natural log of (e^(a)) × log base b of c",
         "options": [
           "W) 1/a × log base b of the fraction a/c",
           "X) −a × log base b of the fraction 1/c",

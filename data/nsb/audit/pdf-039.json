@@ -26,11 +26,21 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2; visually checked the chemical or mathematical notation and compared the complete entry."
+      "evidence": "PDF page 2 prints tan θ = −3/4 and the two sine values 3/5 and −3/5. Corpus extraction replaced the fractions with punctuation and separated digits.",
+      "before": {
+        "question": "Given that tangent θ = ! , find the possible values of sine θ: 4 3 3",
+        "answer": "AND ! 5 5"
+      },
+      "changes": {
+        "question": "Given that tangent θ = −<span class=\"nsb-fraction\"><span>3</span><span>4</span></span>, find the possible values of sine θ:",
+        "answer": "<span class=\"nsb-fraction\"><span>3</span><span>5</span></span> AND −<span class=\"nsb-fraction\"><span>3</span><span>5</span></span>",
+        "question_sanitized": "Given that tangent θ = −(3)/(4), find the possible values of sine θ:",
+        "answer_sanitized": "(3)/(5) AND −(3)/(5)"
+      }
     },
     {
       "kind": "tossups",
@@ -260,7 +270,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Rendered PDF page 1 shows H₂CO₃ and the conjugate base HCO₃⁻ with compact subscripts and a raised charge.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the molecular formula for the conjugate base of the following Brønsted-Lowry acid: H2CO3"
@@ -280,7 +290,7 @@
           "HCO<sub>3</sub><sup>−</sup>"
         ],
         "answers_sanitized": [
-          "HCO3-"
+          "HCO₃⁻"
         ]
       }
     },
@@ -314,14 +324,26 @@
       ],
       "evidence": "Rendered source page 2 shows the division as (x³ − 8)/(x − 2) and the answer as x² + 2x + 4; corpus text extraction lost the fraction layout and flattened both powers.",
       "before": {
-        "parts": ["Divide and simplify the following 2 polynomials, combining like terms: ( x 3 ! 8) ( x ! 2)"],
-        "answers": ["x2 + 2x + 4"]
+        "parts": [
+          "Divide and simplify the following 2 polynomials, combining like terms: ( x 3 ! 8) ( x ! 2)"
+        ],
+        "answers": [
+          "x2 + 2x + 4"
+        ]
       },
       "changes": {
-        "parts": ["Divide and simplify the following 2 polynomials, combining like terms: <span class=\"nsb-fraction\"><span>x<sup>3</sup> − 8</span><span>x − 2</span></span>"],
-        "parts_sanitized": ["Divide and simplify the following 2 polynomials, combining like terms: (x^3 − 8)/(x − 2)"],
-        "answers": ["x<sup>2</sup> + 2x + 4"],
-        "answers_sanitized": ["x^2 + 2x + 4"]
+        "parts": [
+          "Divide and simplify the following 2 polynomials, combining like terms: <span class=\"nsb-fraction\"><span>x<sup>3</sup> − 8</span><span>x − 2</span></span>"
+        ],
+        "parts_sanitized": [
+          "Divide and simplify the following 2 polynomials, combining like terms: (x^3 − 8)/(x − 2)"
+        ],
+        "answers": [
+          "x<sup>2</sup> + 2x + 4"
+        ],
+        "answers_sanitized": [
+          "x^2 + 2x + 4"
+        ]
       }
     },
     {
@@ -404,11 +426,17 @@
       ],
       "evidence": "Rendered source page 6 prints x² + 5x + 4 ≥ 0; corpus had the same expression but flattened the exponent.",
       "before": {
-        "parts": ["Solve the following quadratic inequality for x: x2 + 5x + 4 ≥ 0"]
+        "parts": [
+          "Solve the following quadratic inequality for x: x2 + 5x + 4 ≥ 0"
+        ]
       },
       "changes": {
-        "parts": ["Solve the following quadratic inequality for x: x<sup>2</sup> + 5x + 4 ≥ 0"],
-        "parts_sanitized": ["Solve the following quadratic inequality for x: x^2 + 5x + 4 ≥ 0"]
+        "parts": [
+          "Solve the following quadratic inequality for x: x<sup>2</sup> + 5x + 4 ≥ 0"
+        ],
+        "parts_sanitized": [
+          "Solve the following quadratic inequality for x: x^2 + 5x + 4 ≥ 0"
+        ]
       }
     },
     {
@@ -508,7 +536,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered PDF page 10 prints the charge in NADP⁺ as a superscript.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP+?"
@@ -519,7 +547,7 @@
           "What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP<sup>+</sup>?"
         ],
         "parts_sanitized": [
-          "What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP+?"
+          "What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP⁺?"
         ]
       }
     },

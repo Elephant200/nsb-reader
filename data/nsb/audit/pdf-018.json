@@ -50,7 +50,7 @@
       "sourcePages": [
         3
       ],
-    "evidence": "Compared question/answer fields with Round Robin Round 2, page 3; wording, answer, and choices match the source."
+      "evidence": "Compared question/answer fields with Round Robin Round 2, page 3; wording, answer, and choices match the source."
     },
     {
       "kind": "tossups",
@@ -594,11 +594,33 @@
       "kind": "bonuses",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared question/answer fields with Round Robin Round 2, page 12; wording, answer, and choices match the source."
+      "evidence": "Page 12 prints distance √2/2 from the origin to y = x + 1. The current corpus instead leaves √2 at the end of the prompt and gives answer 2.",
+      "before": {
+        "parts": [
+          "Providing your answer in simplest form, what is the distance from the origin to the line y = x + 1? √2"
+        ],
+        "answers": [
+          "2"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Providing your answer in simplest form, what is the distance from the origin to the line y = x + 1?"
+        ],
+        "answers": [
+          "√2/2"
+        ],
+        "parts_sanitized": [
+          "Providing your answer in simplest form, what is the distance from the origin to the line y = x + 1?"
+        ],
+        "answers_sanitized": [
+          "√2/2"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -608,27 +630,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Compared with the rendered source page 12; the source notation differs from the corpus field and is transcribed in changes.",
-      "changes": {
-        "parts": [
-          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid?<br>W) NH<sub>3</sub><br>X) H<sub>2</sub>CO<sub>3</sub><br>Y) BF<sub>3</sub><br>Z) HSO<sub>3</sub><sup>-</sup>"
-        ],
-        "parts_sanitized": [
-          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid? W) NH3; X) H2CO3; Y) BF3; Z) HSO3^-"
-        ],
-        "answers": [
-          "Y) BF<sub>3</sub>"
-        ],
-        "answers_sanitized": [
-          "Y) BF3"
-        ],
-        "options": [
-          "W) NH<sub>3</sub>",
-          "X) H<sub>2</sub>CO<sub>3</sub>",
-          "Y) BF<sub>3</sub>",
-          "Z) HSO<sub>3</sub><sup>-</sup>"
-        ]
-      },
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid?<br>W) NH 3<br>X) H 2 CO 3<br>Y) BF 3<br>Z) HSO 3 -"
@@ -641,6 +643,26 @@
           "X) H 2 CO 3",
           "Y) BF 3",
           "Z) HSO 3 -"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid?<br>W) NH<sub>3</sub><br>X) H<sub>2</sub>CO<sub>3</sub><br>Y) BF<sub>3</sub><br>Z) HSO<sub>3</sub><sup>-</sup>"
+        ],
+        "parts_sanitized": [
+          "Which of the following can behave as a Lewis acid, but NOT as a Brønsted-Lowry acid? W) NH3; X) H2CO3; Y) BF3; Z) HSO3^-"
+        ],
+        "answers": [
+          "Y) BF<sub>3</sub>"
+        ],
+        "answers_sanitized": [
+          "Y) BF₃"
+        ],
+        "options": [
+          "W) NH<sub>3</sub>",
+          "X) H<sub>2</sub>CO<sub>3</sub>",
+          "Y) BF<sub>3</sub>",
+          "Z) HSO<sub>3</sub><sup>-</sup>"
         ]
       }
     },

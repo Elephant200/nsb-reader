@@ -443,7 +443,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered source page 9 shows the subscript b in Kb and 2.53 °C per molal; the captured prompt separated the subscript.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Given that the K b of a particular solvent is 2.53 oC per molal and providing your answer to two decimal places, by how many degrees Celsius would the boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of solvent?"
@@ -454,7 +454,7 @@
           "Given that the K<sub>b</sub> of a particular solvent is 2.53 °C per molal and providing your answer to two decimal places, by how many degrees Celsius would the boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of solvent?"
         ],
         "parts_sanitized": [
-          "Given that the Kb of a particular solvent is 2.53 °C per molal and providing your answer to two decimal places, by how many degrees Celsius would the boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of solvent?"
+          "Given that the K_(b) of a particular solvent is 2.53 °C per molal and providing your answer to two decimal places, by how many degrees Celsius would the boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of solvent?"
         ]
       }
     },

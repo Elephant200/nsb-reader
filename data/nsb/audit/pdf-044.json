@@ -477,13 +477,16 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9; the prompt shows x³ and the solution substitutes 3³. Corpus detached the exponents into the answer and omitted them from the function and solution.",
+      "evidence": "The rendered source on p. 9 gives answer 5; the sample has a stray trailing 3. Replacing it with 5.",
       "before": {
         "parts": [
           "Given the function f(x) = x + 3x – k and f(3) = 31, solve for k:"
         ],
         "notes": [
           "(Solution: 31 = 3 + 3(3) – k; k = 5)"
+        ],
+        "answers": [
+          "5 3"
         ]
       },
       "changes": {
@@ -495,6 +498,12 @@
         ],
         "notes": [
           "(Solution: 31 = 3<sup>3</sup> + 3(3) – k; k = 5)"
+        ],
+        "answers": [
+          "5"
+        ],
+        "answers_sanitized": [
+          "5"
         ]
       }
     },

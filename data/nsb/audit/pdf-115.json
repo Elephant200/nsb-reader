@@ -375,11 +375,24 @@
       "kind": "bonuses",
       "itemIndex": 16,
       "number": 17,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "PDF p. 9: checked “How many roots satisfy the equation [square root of quantity six minus x equals x times the square root of quantity six minus x]? W) 0 ”; source key/answer reads “Y) 2”, matching the record."
+      "evidence": "Rendered packet 115, page 9 prints √(6 − x) = x√(6 − x); the current prompt omitted the equation and kept only the verbal reading. Restored the equation and retained the full reading and choices. Source image: /tmp/nsb-math-115-9.png.",
+      "before": {
+        "parts": [
+          "How many roots satisfy the equation [square root of quantity six minus x equals x times the square root of quantity six minus x]?<br>W) 0<br>X) 1<br>Y) 2<br>Z) 3"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "How many roots satisfy the equation √(6 − x) = x√(6 − x) [square root of quantity six minus x equals x times the square root of quantity six minus x]?<br>W) 0<br>X) 1<br>Y) 2<br>Z) 3"
+        ],
+        "parts_sanitized": [
+          "How many roots satisfy the equation √(6 − x) = x√(6 − x) [square root of quantity six minus x equals x times the square root of quantity six minus x]?\nW) 0\nX) 1\nY) 2\nZ) 3"
+        ]
+      }
     },
     {
       "kind": "bonuses",

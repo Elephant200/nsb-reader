@@ -36,11 +36,18 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 2; source text and notation agree with the corpus."
+      "evidence": "PDF page 2 prints the other triangle sides as 12 and 6√3. The corpus answer lost the radical symbol.",
+      "before": {
+        "answer": "12 AND 6 3"
+      },
+      "changes": {
+        "answer": "12 AND 6√3",
+        "answer_sanitized": "12 AND 6√3"
+      }
     },
     {
       "kind": "tossups",

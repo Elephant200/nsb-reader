@@ -16,7 +16,7 @@ function cleanSanitizedText (value, fallback) {
   const powers = { sup: '⁰¹²³⁴⁵⁶⁷⁸⁹', sub: '₀₁₂₃₄₅₆₇₈₉' };
   const symbols = { sup: { '+': '⁺', '-': '⁻', '=': '⁼', '(': '⁽', ')': '⁾' }, sub: { '+': '₊', '-': '₋', '=': '₌', '(': '₍', ')': '₎' } };
   const convertPower = (value, type) => {
-    value = value.trim().replace(/−/g, '-');
+    value = value.trim().replace(/−/g, '-').replace(/\((\d+)\)\/\((\d+)\)/g, '$1/$2');
     if (!value) return '';
     if (!/^[\d+\-=()]+$/.test(value)) return `${type === 'sup' ? '^' : '_'}(${value})`;
     return [...value].map(char => /\d/.test(char) ? powers[type][Number(char)] : symbols[type][char]).join('');
@@ -27,7 +27,9 @@ function cleanSanitizedText (value, fallback) {
   let previous;
   do {
     previous = text;
-    text = text.replace(/<(sup|sub)>([^<]*)<\/\1>/gi, (_, type, value) => convertPower(value, type.toLowerCase()));
+    text = text
+      .replace(/<span class=["']nsb-fraction["']><span>((?:(?!<\/?span\b)[\s\S])*?)<\/span><span>((?:(?!<\/?span\b)[\s\S])*?)<\/span><\/span>/gi, '($1)/($2)')
+      .replace(/<(sup|sub)>([^<]*)<\/\1>/gi, (_, type, value) => convertPower(value, type.toLowerCase()));
   } while (text !== previous);
   return unformatString(text
     .replace(/<br\s*\/?\s*>/gi, '\n')

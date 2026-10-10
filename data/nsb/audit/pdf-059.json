@@ -20,7 +20,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the complete item with page 1 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the empirical formula for C<sub>6</sub> H<sub>12</sub> O<sub>6</sub> ?<br>W) C<sub>3</sub> H<sub>4</sub> O<sub>3</sub><br>X) CHO<br>Y) CH<sub>2</sub> O<br>Z) C<sub>6</sub> H<sub>12</sub> O<sub>6</sub>",
         "options": [
@@ -40,8 +40,8 @@
           "Z) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>"
         ],
         "answer": "Y) CH<sub>2</sub>O",
-        "question_sanitized": "What is the empirical formula for C6H12O6? W) C3H4O3; X) CHO; Y) CH2O; Z) C6H12O6",
-        "answer_sanitized": "Y) CH2O"
+        "question_sanitized": "What is the empirical formula for C₆H₁₂O₆?\nW) C₃H₄O₃\nX) CHO\nY) CH₂O\nZ) C₆H₁₂O₆",
+        "answer_sanitized": "Y) CH₂O"
       }
     },
     {
@@ -337,7 +337,7 @@
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the complete item with page 1 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "What is the formula for iron II phosphate?<br>W) Fe<sub>3</sub> P<sub>2</sub><br>X) FePO<sub>4</sub><br>Y) Fe<sub>3</sub> (PO<sub>4</sub> )<sub>2</sub><br>Z) Fe<sub>3</sub> (PO<sub>3</sub> )<sub>2</sub>"
@@ -366,10 +366,10 @@
           "Y) Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>"
         ],
         "parts_sanitized": [
-          "What is the formula for iron II phosphate? W) Fe3P2; X) FePO4; Y) Fe3(PO4)2; Z) Fe3(PO3)2"
+          "What is the formula for iron II phosphate?\nW) Fe₃P₂\nX) FePO₄\nY) Fe₃(PO₄)₂\nZ) Fe₃(PO₃)₂"
         ],
         "answers_sanitized": [
-          "Y) Fe3(PO4)2"
+          "Y) Fe₃(PO₄)₂"
         ]
       }
     },
@@ -677,7 +677,7 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Compared the complete item with page 13 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg + O à (read as: (s) 2(g) yields) 2 MgO + heat? (s)<br>W) Increasing the concentration of oxygen<br>X) Removing the magnesium oxide as soon as it is formed<br>Y) Reducing the temperature<br>Z) Decreasing the concentration of oxygen"
@@ -688,7 +688,7 @@
           "Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg<sub>(s)</sub> + O<sub>2(g)</sub> → (read as: yields) 2 MgO<sub>(s)</sub> + heat?<br>W) Increasing the concentration of oxygen<br>X) Removing the magnesium oxide as soon as it is formed<br>Y) Reducing the temperature<br>Z) Decreasing the concentration of oxygen"
         ],
         "parts_sanitized": [
-          "Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg(s) + O2(g) → (read as: yields) 2 MgO(s) + heat? W) Increasing the concentration of oxygen; X) Removing the magnesium oxide as soon as it is formed; Y) Reducing the temperature; Z) Decreasing the concentration of oxygen"
+          "Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg_((s)) + O_(2(g)) → (read as: yields) 2 MgO_((s)) + heat?\nW) Increasing the concentration of oxygen\nX) Removing the magnesium oxide as soon as it is formed\nY) Reducing the temperature\nZ) Decreasing the concentration of oxygen"
         ]
       }
     }

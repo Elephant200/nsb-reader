@@ -80,7 +80,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 confirms printed toss-up 11: 11) Chemistry – Multiple Choice Which of the following molecules is NOT matched correctly to its central atom hybridization? W) Xenon tetrafluoride and d 2 sp 3 X) Phosphorous pentachloride and d 2 sp 3 Y) Krypton difluoride and dsp 3 Z) Bromine trifluoride and dsp 3 ANSWER: X) PHOSPHOROUS PENTACHLORIDE AND D 2 SP 3",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "Which of the following molecules is NOT matched correctly to its central atom hybridization?<br>W) Xenon tetrafluoride and d<sub>2</sub> sp<sub>3</sub><br>X) Phosphorous pentachloride and d<sub>2</sub> sp<sub>3</sub><br>Y) Krypton difluoride and dsp<sub>3</sub><br>Z) Bromine trifluoride and dsp<sub>3</sub>",
         "options": [
@@ -93,7 +93,7 @@
       },
       "changes": {
         "question": "Which of the following molecules is NOT matched correctly to its central atom hybridization?<br>W) Xenon tetrafluoride and d<sub>2</sub>sp<sub>3</sub><br>X) Phosphorous pentachloride and d<sub>2</sub>sp<sub>3</sub><br>Y) Krypton difluoride and dsp<sub>3</sub><br>Z) Bromine trifluoride and dsp<sub>3</sub>",
-        "question_sanitized": "Which of the following molecules is NOT matched correctly to its central atom hybridization? W) Xenon tetrafluoride and d2sp3 X) Phosphorous pentachloride and d2sp3 Y) Krypton difluoride and dsp3 Z) Bromine trifluoride and dsp3",
+        "question_sanitized": "Which of the following molecules is NOT matched correctly to its central atom hybridization?\nW) Xenon tetrafluoride and d₂sp₃\nX) Phosphorous pentachloride and d₂sp₃\nY) Krypton difluoride and dsp₃\nZ) Bromine trifluoride and dsp₃",
         "options": [
           "W) Xenon tetrafluoride and d<sub>2</sub>sp<sub>3</sub>",
           "X) Phosphorous pentachloride and d<sub>2</sub>sp<sub>3</sub>",
@@ -101,7 +101,7 @@
           "Z) Bromine trifluoride and dsp<sub>3</sub>"
         ],
         "answer": "X) PHOSPHOROUS PENTACHLORIDE AND D<sub>2</sub>SP<sub>3</sub>",
-        "answer_sanitized": "X) PHOSPHOROUS PENTACHLORIDE AND D2SP3"
+        "answer_sanitized": "X) PHOSPHOROUS PENTACHLORIDE AND D₂SP₃"
       }
     },
     {

@@ -269,13 +269,13 @@
       "sourcePages": [
         13
       ],
-      "evidence": "Rendered source page 13 confirms the notation in the replacement.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "A particular molecule of XeF 4 displays 3 IR bands and 3 Raman bands at completely different energies. Based on this information, which of the following is its VSEPR structure?<br>W) Tetrahedral<br>X) Octahedral<br>Y) Square planar<br>Z) See-saw"
       },
       "changes": {
         "question": "A particular molecule of XeF<sub>4</sub> displays 3 IR bands and 3 Raman bands at completely different energies. Based on this information, which of the following is its VSEPR structure?<br>W) Tetrahedral<br>X) Octahedral<br>Y) Square planar<br>Z) See-saw",
-        "question_sanitized": "A particular molecule of XeF4 displays 3 IR bands and 3 Raman bands at completely different energies. Based on this information, which of the following is its VSEPR structure? W) Tetrahedral; X) Octahedral; Y) Square planar; Z) See-saw"
+        "question_sanitized": "A particular molecule of XeF₄ displays 3 IR bands and 3 Raman bands at completely different energies. Based on this information, which of the following is its VSEPR structure?\nW) Tetrahedral\nX) Octahedral\nY) Square planar\nZ) See-saw"
       }
     },
     {
@@ -399,11 +399,24 @@
       "kind": "bonuses",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared the source prompt and printed response with Round Robin Round 10, page 4."
+      "evidence": "Rendered packet 026, page 4 prints pK with a subscript a; the corpus has “pK a” separated in the prompt. Restored pK<sub>a</sub> and retained all four choices. Source image: /tmp/nsb-exp-26-4-04.png.",
+      "before": {
+        "parts": [
+          "The Henderson-Hasselbalch equation can provide the percent dissociation of a weak acid. When the pH is equal to pK a , the weak acid is which of the following?<br>W) 99% dissociated<br>X) 75% dissociated<br>Y) 50% dissociated<br>Z) 25% dissociated"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The Henderson-Hasselbalch equation can provide the percent dissociation of a weak acid. When the pH is equal to pK<sub>a</sub>, the weak acid is which of the following?<br>W) 99% dissociated<br>X) 75% dissociated<br>Y) 50% dissociated<br>Z) 25% dissociated"
+        ],
+        "parts_sanitized": [
+          "The Henderson-Hasselbalch equation can provide the percent dissociation of a weak acid. When the pH is equal to pK_(a), the weak acid is which of the following?\nW) 99% dissociated\nX) 75% dissociated\nY) 50% dissociated\nZ) 25% dissociated"
+        ]
+      }
     },
     {
       "kind": "bonuses",

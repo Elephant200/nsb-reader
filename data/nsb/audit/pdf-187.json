@@ -47,13 +47,13 @@
       "sourcePages": [
         3
       ],
-      "evidence": "Rendered packet 187 PDF page 3 shows toss-up 5 beginning “What is the oxidation state of copper in Cu 2 O?”; checked its full wording and answer “1+” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "question": "What is the oxidation state of copper in Cu 2 O?"
       },
       "changes": {
         "question": "What is the oxidation state of copper in Cu<sub>2</sub>O?",
-        "question_sanitized": "What is the oxidation state of copper in Cu2O?"
+        "question_sanitized": "What is the oxidation state of copper in Cu₂O?"
       }
     },
     {
@@ -74,13 +74,13 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered packet 187 PDF page 4 shows toss-up 7 beginning “Scientists at Ames Lab are developing methods to encapsulate catalysts”; checked its full wording and answer “SiO 2” against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "answer": "SiO 2"
       },
       "changes": {
         "answer": "SiO<sub>2</sub>",
-        "answer_sanitized": "SiO2"
+        "answer_sanitized": "SiO₂"
       }
     },
     {
@@ -450,7 +450,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered packet 187 PDF page 9 shows bonus 18, “Chemistry – Short Answer How many three-center two-electron bonds are present in the compound”; checked its full printed wording, choices if present, and complete answer against the source.",
+      "evidence": "Reading/display consistency repair: retain existing source-reviewed rich notation in progressive reading. Regenerated from the rich field only where plain content matches exactly after notation and whitespace normalization; no source content inferred.",
       "before": {
         "parts": [
           "How many three-center two-electron bonds are present in the compound with formula B 2 H 6 ?"
@@ -461,7 +461,7 @@
           "How many three-center two-electron bonds are present in the compound with formula B<sub>2</sub>H<sub>6</sub>?"
         ],
         "parts_sanitized": [
-          "How many three-center two-electron bonds are present in the compound with formula B2H6?"
+          "How many three-center two-electron bonds are present in the compound with formula B₂H₆?"
         ]
       }
     },
