@@ -157,13 +157,13 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9 shows the exponent 2 on the closing parenthesis; the corpus omitted it.",
+      "evidence": "Verified x(y+z)² with x=2, y=−8, z=3 and answer 50; normalized the ASCII negative sign to Unicode mathematical minus in rich and sanitized prompts.",
       "before": {
         "question": "Evaluate the expression, x(y + z) , when x = 2, y = -8; and z = 3:"
       },
       "changes": {
-        "question": "Evaluate the expression, x(y + z)<sup>2</sup>, when x = 2, y = -8; and z = 3:",
-        "question_sanitized": "Evaluate the expression, x(y + z)^2, when x = 2, y = -8; and z = 3:"
+        "question": "Evaluate the expression, x(y + z)<sup>2</sup>, when x = 2, y = −8; and z = 3:",
+        "question_sanitized": "Evaluate the expression, x(y + z)², when x = 2, y = −8; and z = 3:"
       }
     },
     {
@@ -260,11 +260,21 @@
       "kind": "bonuses",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2 and visually compared its notation; prompt, answer, options, and notes match."
+      "evidence": "PDF page 2 gives a 100 cm leg in an isosceles right triangle and keys the hypotenuse as 141.4 cm. Restored the square-root glyphs lost from the extracted solution; the PDF itself prints a minus sign before 141.4 cm, a source-origin discrepancy retained in sourceIssue.",
+      "before": {
+        "notes": [
+          "(Solution: c = a 2 = 100 2 - 141.4cm)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: c = a√2 = 100√2 − 141.4cm)"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -372,11 +382,36 @@
       "kind": "bonuses",
       "itemIndex": 15,
       "number": 16,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "Rendered PDF page 8 and visually compared its notation; prompt, answer, options, and notes match."
+      "evidence": "PDF page 8 spells option Y “maleability”; the intended chemistry term is unambiguously “malleability.” Normalized the misspelling in the prompt and options; key W) viscosity and the remaining fields match.",
+      "before": {
+        "parts": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:<br>W) viscosity<br>X) surface tension<br>Y) maleability<br>Z) vapor pressure"
+        ],
+        "options": [
+          "W) viscosity",
+          "X) surface tension",
+          "Y) maleability",
+          "Z) vapor pressure"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:<br>W) viscosity<br>X) surface tension<br>Y) malleability<br>Z) vapor pressure"
+        ],
+        "options": [
+          "W) viscosity",
+          "X) surface tension",
+          "Y) malleability",
+          "Z) vapor pressure"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:\nW) viscosity\nX) surface tension\nY) malleability\nZ) vapor pressure"
+        ]
+      }
     },
     {
       "kind": "bonuses",

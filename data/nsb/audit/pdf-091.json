@@ -497,7 +497,7 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Rendered source page 10 shows 2x⁴ − x² + 3x − 4 divided by x + 3; the captured prompt omitted the entire expression.",
+      "evidence": "Physical page 10 clearly prints dividend 2x³−x²+3x−4 and divisor x+3, while scope prompt has x⁴. By the remainder theorem, f(−3)=2(−27)−9−9−4=−76, matching the printed answer; corrected prompt power to x³ and its plain-text reading field.",
       "before": {
         "parts": [
           "What is the remainder when is divided by ?"
@@ -505,10 +505,10 @@
       },
       "changes": {
         "parts": [
-          "What is the remainder when 2x<sup>4</sup> − x<sup>2</sup> + 3x − 4 is divided by x + 3?"
+          "What is the remainder when 2x<sup>3</sup> − x<sup>2</sup> + 3x − 4 is divided by x + 3?"
         ],
         "parts_sanitized": [
-          "What is the remainder when 2x^4 - x^2 + 3x - 4 is divided by x + 3?"
+          "What is the remainder when 2x³ − x² + 3x − 4 is divided by x + 3?"
         ]
       }
     },

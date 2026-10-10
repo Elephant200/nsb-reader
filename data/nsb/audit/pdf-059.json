@@ -164,7 +164,7 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Compared the complete item with page 6 of packet 059; restored notation from the rendered source and preserved all wording and read-as cues. Stored options synchronized with the same source-reviewed choices in the prompt.",
+      "evidence": "PDF page 6 shows x²−2x=8 and keys roots 4 and −2; the option list and displayed powers match.",
       "before": {
         "question": "What are the solutions for x in the following equation: x 2 x 8 ? − =<br>W) 0<br>X) 0 and 2<br>Y) 4 and -2<br>Z) -4 and 2",
         "options": [
@@ -172,7 +172,8 @@
           "X) 0 and 2",
           "Y) 4 and -2",
           "Z) -4 and 2"
-        ]
+        ],
+        "answer": "Y) 4 AND -2"
       },
       "changes": {
         "question": "What are the solutions for x in the following equation: x<sup>2</sup> − 2x = 8?<br>W) 0<br>X) 0 and 2<br>Y) 4 and −2<br>Z) −4 and 2",
@@ -182,7 +183,9 @@
           "X) 0 and 2",
           "Y) 4 and −2",
           "Z) −4 and 2"
-        ]
+        ],
+        "answer": "Y) 4 AND −2",
+        "answer_sanitized": "Y) 4 AND −2"
       }
     },
     {

@@ -58,12 +58,15 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered source page 2 and compared the complete printed stem, answer, choices, and notes against corpus item 4; corrected only source-visible transcription and notation errors.",
+      "evidence": "Page 2 visibly uses the degree mark in “In simplest radical form, give the cosecant of a 135º angle:” / “√2”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
       "before": {
-        "answer": "2"
+        "answer": "2",
+        "question": "In simplest radical form, give the cosecant of a 135º angle:"
       },
       "changes": {
-        "answer": "√2"
+        "answer": "√2",
+        "question": "In simplest radical form, give the cosecant of a 135° angle:",
+        "question_sanitized": "In simplest radical form, give the cosecant of a 135° angle:"
       }
     },
     {
@@ -248,11 +251,18 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 12; the corpus record agrees."
+      "evidence": "Page 12 visibly uses the degree mark in “Predict the bond angles, in degrees, for atoms in a molecule of boron trichloride:” / “120º (ACCEPT: THREE 120º)”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "answer": "120º (ACCEPT: THREE 120º)"
+      },
+      "changes": {
+        "answer": "120° (ACCEPT: THREE 120°)",
+        "answer_sanitized": "120° (ACCEPT: THREE 120°)"
+      }
     },
     {
       "kind": "tossups",
@@ -598,11 +608,24 @@
       "kind": "bonuses",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared the complete question, answer, choices where present, and notes against the exact printed source on page 12; the corpus record agrees."
+      "evidence": "Page 12 visibly uses the degree mark in “Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27ºC and at a pressure of 101.…” / “74”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27ºC and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27°C and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
+        ],
+        "parts_sanitized": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27°C and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
+        ]
+      }
     },
     {
       "kind": "bonuses",

@@ -281,11 +281,18 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Rendered PDF page 12 shows “Identify all of the following three quantites in reaction kinetics that are dimensionless: 1) Rate constant; 2) Ste” and answer “2”; checked the complete prompt, all choices where present, and answer against the page."
+      "evidence": "Visual review of original PDF p. 12: the source asks which reaction-kinetics quantities are dimensionless and keys only the steric factor (2). Corrected the baseline’s “quantites” transcription to “quantities,” as the PDF spelling is clear.",
+      "before": {
+        "question": "Identify all of the following three quantites in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency."
+      },
+      "changes": {
+        "question": "Identify all of the following three quantities in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency.",
+        "question_sanitized": "Identify all of the following three quantities in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency."
+      }
     },
     {
       "kind": "bonuses",

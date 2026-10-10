@@ -16,11 +16,18 @@
       "kind": "tossups",
       "itemIndex": 1,
       "number": 2,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared this flagged record with the original PDF page 1; source wording, answer, options and visible notation agree with the corpus."
+      "evidence": "Page 1 visibly uses the degree mark in “Which of the following has a melting point of 185ºC and readily dissolves in water at room temperature, but is…” / “Z) SUCROSE”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "Which of the following has a melting point of 185ºC and readily dissolves in water at room temperature, but is NOT an electrolyte:<br>W) NaCl<br>X) decane<br>Y) methane<br>Z) sucrose"
+      },
+      "changes": {
+        "question": "Which of the following has a melting point of 185°C and readily dissolves in water at room temperature, but is NOT an electrolyte:<br>W) NaCl<br>X) decane<br>Y) methane<br>Z) sucrose",
+        "question_sanitized": "Which of the following has a melting point of 185°C and readily dissolves in water at room temperature, but is NOT an electrolyte:\nW) NaCl\nX) decane\nY) methane\nZ) sucrose"
+      }
     },
     {
       "kind": "tossups",
@@ -40,15 +47,16 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the original PDF page 2 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "evidence": "Page 2 visibly uses the degree mark in “Express 600º in radians as a reduced fraction in terms of π:” / “10π3”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
       "before": {
         "question": "Express 600º in radians as a reduced fraction π 10",
         "answer": "3"
       },
       "changes": {
-        "question": "Express 600º in radians as a reduced fraction in terms of π:",
+        "question": "Express 600° in radians as a reduced fraction in terms of π:",
         "answer": "<span class=\"nsb-fraction\"><span>10π</span><span>3</span></span>",
-        "answer_sanitized": "(10π)/(3)"
+        "answer_sanitized": "(10π)/(3)",
+        "question_sanitized": "Express 600° in radians as a reduced fraction in terms of π:"
       }
     },
     {
@@ -547,13 +555,16 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Compared the original PDF page 12 visually/textually; the correction restores the printed notation and separates displaced extraction text.",
+      "evidence": "Page 12 visibly uses the degree mark in “Calculate the enthalpy of vaporization, in kilojoules, of water at 25ºC and 1 atmosphere. Assume the standard …” / “44”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
       "before": {
         "answers": [
           "44 ∆H° = Σn ∆H Σn ∆H reaction p f r f"
         ],
         "notes": [
           "(Solution: °(products) – °(reactants) = [–242 – (–286) = +44.0 kJ)"
+        ],
+        "parts": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25ºC and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:"
         ]
       },
       "changes": {
@@ -562,6 +573,12 @@
         ],
         "notes": [
           "(Solution: ΔH°<sub>reaction</sub> = Σn<sub>p</sub>ΔH<sub>f</sub>°(products) − Σn<sub>r</sub>ΔH<sub>f</sub>°(reactants) = −242 − (−286) = +44.0 kJ)"
+        ],
+        "parts": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25°C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:"
+        ],
+        "parts_sanitized": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25°C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is -286 kilojoules and the standard enthalpy of formation of water gas is -242 kilojoules:"
         ]
       }
     },

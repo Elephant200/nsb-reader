@@ -40,13 +40,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Source PDF p. 2 prints “6-membered” without a gap after the hyphen. The stored stem has “6- membered”; the rest of the prompt matches.",
+      "evidence": "Visual review of original PDF p. 2: it asks for the thermodynamically stable allotrope of phosphorus and keys BLACK PHOSPHORUS. The PDF misspells the element as “phosphorous”; corrected this clear spelling error to “phosphorus.”",
       "before": {
         "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6- membered rings?"
       },
       "changes": {
-        "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
-        "question_sanitized": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
+        "question": "What allotrope of phosphorus is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
+        "question_sanitized": "What allotrope of phosphorus is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
       }
     },
     {

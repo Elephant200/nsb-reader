@@ -290,10 +290,13 @@
       "sourcePages": [
         6
       ],
-      "evidence": "p. 6: the source answer prints 1) sp³; 2) d²sp³ (accept sp³d²); 3) sp². All state labels and acceptance text retained with raised powers.",
+      "evidence": "Visual review of original PDF p. 6: the prompt asks for hybridizations of phosphorus trichloride, iodine pentafluoride, and formaldehyde; the listed answers are sp³, d²sp³ (accept sp³d²), and sp². Corrected the source's misspelling “Phosphorous” to “Phosphorus”; the exponent formatting and key are otherwise preserved.",
       "before": {
         "answers": [
           "1) sp3; 2) d2sp3 (ACCEPT: sp3d2); 3) sp2"
+        ],
+        "parts": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorous trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
         ]
       },
       "changes": {
@@ -302,6 +305,12 @@
         ],
         "answers_sanitized": [
           "1) sp³; 2) d²sp³ (ACCEPT: sp³d²); 3) sp²"
+        ],
+        "parts": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorus trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
+        ],
+        "parts_sanitized": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorus trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
         ]
       }
     },

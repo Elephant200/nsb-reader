@@ -8,8 +8,46 @@ const corpus = JSON.parse(await fs.readFile(new URL('../sample-questions.json', 
 const records = [];
 const status = JSON.parse(await fs.readFile(new URL('status.json', directory), 'utf8'));
 const audit = { flagged: status.flaggedQuestionCount, reviewed: 0, unresolved: 0 };
+let repeatFindings = [];
+try {
+  const repeat = JSON.parse(await fs.readFile(new URL('reaudit-2026-10-10-summary.json', directory), 'utf8'));
+  audit.reaudit = { total: repeat.total, reviewed: repeat.reviewed, corrected: repeat.corrected, unresolved: repeat.unresolved, sourceIssues: repeat.sourceIssues?.length ?? repeat.unresolved };
+  repeatFindings = repeat.findings;
+} catch (error) {
+  if (error.code !== 'ENOENT') throw error;
+}
 const fieldLabels = { question: 'Question', answer: 'Answer', leadin: 'Lead-in', parts: 'Bonus question', answers: 'Answer', options: 'Choices', notes: 'Solution notes', category: 'Category', type: 'Question type' };
 const text = value => Array.isArray(value) ? value.join('\n') : String(value ?? '');
+const repeatRecords = repeatFindings.map(entry => {
+  const packet = corpus.packets[entry.p];
+  const current = packet[entry.k][entry.i];
+  const fields = Object.entries(entry.changes ?? {}).filter(([field, after]) => JSON.stringify(entry.before?.[field]) !== JSON.stringify(after)).map(([field, after]) => ({
+    key: field,
+    label: fieldLabels[field.replace(/_sanitized$/, '')] ?? field,
+    reading: field.endsWith('_sanitized'),
+    added: !Object.hasOwn(entry.before ?? {}, field),
+    before: text(entry.before?.[field]),
+    after: text(after),
+    beforeHtml: renderReadingText(text(entry.before?.[field]), { formatChoices: false }),
+    afterHtml: renderReadingText(text(after), { formatChoices: false })
+  }));
+  return {
+    id: `repeat-${entry.p}-${entry.k}-${entry.i}`,
+    pass: 'Repeat Math/Chemistry audit',
+    set: packet.source.setNumber,
+    year: packet.source.year,
+    round: packet.source.roundNumber,
+    kind: entry.k === 'tossups' ? 'Toss-up' : 'Bonus',
+    number: entry.number,
+    category: entry.category,
+    applied: entry.sourceIssueResolved === true || (entry.status === 'corrected' && Object.entries(entry.changes).every(([field, value]) => JSON.stringify(current[field]) === JSON.stringify(value))),
+    statusLabel: entry.sourceIssueResolved === true ? 'Original PDF inconsistency — already corrected with a source note' : entry.status === 'unresolved' || (entry.status === 'verified' && entry.sourceIssue) ? 'Original PDF inconsistency — preserved for review' : undefined,
+    sourceUrl: packet.source.url,
+    sourcePages: entry.sourcePages,
+    evidence: entry.evidence,
+    fields
+  };
+});
 const files = (await fs.readdir(directory)).filter(name => /^(pdf|extra|second)-\d{3}\.json$/.test(name)).sort();
 const reviews = await Promise.all(files.map(async file => ({ file, review: JSON.parse(await fs.readFile(new URL(file, directory), 'utf8')) })));
 const secondEntries = new Map(reviews.filter(({ file }) => file.startsWith('second-')).flatMap(({ review }) => review.entries.map(entry => [`${review.packetIndex}-${entry.kind}-${entry.itemIndex}`, entry])));
@@ -97,13 +135,13 @@ for (const rule of structuralCorrections) {
   });
 }
 
-const version = createHash('sha256').update(JSON.stringify({ audit, records })).digest('hex');
+const version = createHash('sha256').update(JSON.stringify({ audit, records, repeatRecords })).digest('hex');
 const destination = new URL('corrections.json', directory);
 let existing;
 try { existing = JSON.parse(await fs.readFile(destination, 'utf8')); } catch {}
 if (existing?.version !== version) {
   const temporary = new URL(`.corrections-${process.pid}.tmp`, directory);
-  await fs.writeFile(temporary, JSON.stringify({ version, updatedAt: new Date().toISOString(), audit, records }, null, 2) + '\n');
+  await fs.writeFile(temporary, JSON.stringify({ version, updatedAt: new Date().toISOString(), audit, records, repeatRecords }, null, 2) + '\n');
   await fs.rename(temporary, destination);
 }
 console.log(`Running log: ${records.length} corrections; ${records.filter(record => record.applied).length} applied locally.`);

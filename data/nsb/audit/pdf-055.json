@@ -306,11 +306,26 @@
       "kind": "bonuses",
       "itemIndex": 1,
       "number": 2,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the full printed stem, answer, all choices, and notes on page 1; source text and formatting agree with the corpus record."
+      "evidence": "Compared Math toss-up 2 3-4-5 triangle area and answer 6. Source labels bonus 2 as '2 ) MATH'; normalized the malformed category field to Math. Its triangle angles 40° and 110° imply third angle 30° and intercepted arc 60°; normalized spacing-ring ˚ to degree sign ° in the part.",
+      "before": {
+        "category": ") MATH",
+        "parts": [
+          "If two angles of a triangle inscribed in a circle are 40˚ and 110˚, what is the degree measure of the arc intercepted by the third angle?<br>W) 15<br>X) 30<br>Y) 60<br>Z) 210"
+        ]
+      },
+      "changes": {
+        "category": "Math",
+        "parts": [
+          "If two angles of a triangle inscribed in a circle are 40° and 110°, what is the degree measure of the arc intercepted by the third angle?<br>W) 15<br>X) 30<br>Y) 60<br>Z) 210"
+        ],
+        "parts_sanitized": [
+          "If two angles of a triangle inscribed in a circle are 40° and 110°, what is the degree measure of the arc intercepted by the third angle?\nW) 15\nX) 30\nY) 60\nZ) 210"
+        ]
+      }
     },
     {
       "kind": "bonuses",

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-10",
+  "status": "blocked-browser-unavailable",
+  "requestedPages": [
+    "http://localhost:8791/play/tossups/",
+    "http://localhost:8792/"
+  ],
+  "browser": {
+    "verified": false,
+    "observations": [
+      "CUA inventory reported no available browsers.",
+      "Creating a Chrome tab for the local reader returned: Browser is not available: chrome.",
+      "A subsequent attempt to bind Google Chrome was interrupted before a browser state could be observed."
+    ]
+  },
+  "httpChecks": {
+    "reader": "curl to localhost:8791 failed immediately with connection refused.",
+    "auditLog": "curl to localhost:8792 failed immediately with connection refused."
+  },
+  "uiChecks": {
+    "repeatAuditDropdown": "not checked",
+    "correctedSamples": "not checked: matrix p95 T4; x³ p91 B20; 10⁻⁵ p40 T25; N₂⁺ p163 T23; angular primes p14 B4",
+    "readingSpeedDefault35": "not checked",
+    "equation2x": "not checked",
+    "consoleErrors": "not checked"
+  },
+  "dataChecks": {
+    "status": "not performed",
+    "note": "The corrections JSON and frozen baseline file shapes were inspected, but the requested sample identities were not mapped or verified against API responses. No browser or rendering result is claimed."
+  }
+}

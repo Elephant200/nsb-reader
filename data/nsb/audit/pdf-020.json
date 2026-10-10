@@ -569,11 +569,24 @@
       "kind": "bonuses",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared source wording, response/options, and notation with Round Robin Round 4, page 12."
+      "evidence": "The PDF shows −3 + |3 − 6x| < 2, with the existing negative-3 / absolute-value reading cue and answer interval −1/3 < x < 4/3 (accept the open interval). Baseline prompt duplicated the final variable as “6𝑥𝑥”; corrected the full prompt to the single x shown in the source.",
+      "before": {
+        "parts": [
+          "Solve the inequality −3 + |3 − 6𝑥𝑥| &lt; 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Solve the inequality −3 + |3 − 6x| &lt; 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ],
+        "parts_sanitized": [
+          "Solve the inequality −3 + |3 − 6x| < 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ]
+      }
     },
     {
       "kind": "bonuses",

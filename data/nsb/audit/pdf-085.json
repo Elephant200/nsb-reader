@@ -487,11 +487,24 @@
       "kind": "bonuses",
       "itemIndex": 23,
       "number": 24,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Matched bonus 24 to Round 4 page 12; compared function values, closed interval cue, and accepted answers against the rendered page."
+      "evidence": "Physical page 12 asks for continuity on the closed interval to apply IVT, and its primary answer spells CONTINUOUS correctly. The printed ACCEPT text says “CONTINOUS,” a clear spelling typo; normalize it to CONTINUOUS.",
+      "before": {
+        "answers": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINOUS ON THE INTERVAL)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINUOUS ON THE INTERVAL)"
+        ],
+        "answers_sanitized": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINUOUS ON THE INTERVAL)"
+        ]
+      }
     },
     {
       "kind": "bonuses",

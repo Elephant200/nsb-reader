@@ -98,11 +98,18 @@
       "kind": "tossups",
       "itemIndex": 11,
       "number": 12,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Page 6: PDF question 12 reads “A right triangle with one angle of 45º is inscribed in a circle of radius 10. What is the area of the triangle”; choices are W) 50 | X) 50 times the square root of 2 | Y) 100 | Z) 100 times the square root of 2; answer reads “Y) 100”."
+      "evidence": "Page 6 visibly uses the degree mark in “A right triangle with one angle of 45º is inscribed in a circle of radius 10. What is the area of the triangle…” / “Y) 100”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "A right triangle with one angle of 45º is inscribed in a circle of radius 10. What is the area of the triangle?<br>W) 50<br>X) 50 times the square root of 2<br>Y) 100<br>Z) 100 times the square root of 2"
+      },
+      "changes": {
+        "question": "A right triangle with one angle of 45° is inscribed in a circle of radius 10. What is the area of the triangle?<br>W) 50<br>X) 50 times the square root of 2<br>Y) 100<br>Z) 100 times the square root of 2",
+        "question_sanitized": "A right triangle with one angle of 45° is inscribed in a circle of radius 10. What is the area of the triangle?\nW) 50\nX) 50 times the square root of 2\nY) 100\nZ) 100 times the square root of 2"
+      }
     },
     {
       "kind": "tossups",

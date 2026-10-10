@@ -1,0 +1,1038 @@
+{
+  "scope": "Reserved tail of C partition: Math and Chemistry, packet indices 212 through 257 with p modulo 3 equal to 2.",
+  "entries": [
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-02.png"
+      ],
+      "evidence": "Visually checked original PDF page 2: complete prompt, all options, printed key, and symbols match the source.",
+      "before": {
+        "number": 4,
+        "question": "Which of the following elements has the largest first ionization energy?<br>W) Sodium<br>X) Aluminum<br>Y) Argon<br>Z) Chlorine",
+        "answer": "Y) ARGON",
+        "category": "Chemistry",
+        "type": "Multiple Choice",
+        "options": [
+          "W) Sodium",
+          "X) Aluminum",
+          "Y) Argon",
+          "Z) Chlorine"
+        ],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 4,
+      "number": 5,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-03.png"
+      ],
+      "evidence": "Visually checked original PDF page 3: complete prompt, printed key, and negative sign match the source.",
+      "before": {
+        "number": 5,
+        "question": "What is the 5/3 power of –8?",
+        "answer": "–32",
+        "category": "Math",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 7,
+      "number": 8,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-04.png"
+      ],
+      "evidence": "Visually checked original PDF page 4: complete prompt, molecular formula, and printed key match the source.",
+      "before": {
+        "number": 8,
+        "question": "Cyclohexene undergoes hydrogenation with hydrogen gas. What is the molecular formula of the product of the reaction?",
+        "answer": "C<sub>6</sub>H<sub>12</sub>",
+        "category": "Chemistry",
+        "type": "Short Answer",
+        "options": [],
+        "notes": [],
+        "answer_sanitized": "C₆H₁₂"
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 11,
+      "number": 12,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-06.png"
+      ],
+      "evidence": "Visually checked original PDF page 6: complete prompt, every option, and printed key match the source.",
+      "before": {
+        "number": 12,
+        "question": "Which of the following types of figures must have line symmetry but not necessarily turn symmetry?<br>W) Isosceles triangle<br>X) Parallelogram<br>Y) Rectangle<br>Z) Rhombus",
+        "answer": "W) ISOSCELES TRIANGLE",
+        "category": "Math",
+        "type": "Multiple Choice",
+        "options": [
+          "W) Isosceles triangle",
+          "X) Parallelogram",
+          "Y) Rectangle",
+          "Z) Rhombus"
+        ],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 13,
+      "number": 14,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-07.png"
+      ],
+      "evidence": "Visually checked original PDF page 7: complete prompt and printed key match; applying the inverse fifth power gives 32−10=22.",
+      "before": {
+        "number": 14,
+        "question": "If f of x equals the fifth root of open parenthesis x + 10 close parenthesis, what is f inverse of 2?",
+        "answer": "22",
+        "category": "Math",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-08.png"
+      ],
+      "evidence": "Visually checked original PDF page 8: complete prompt, every orbital-configuration option, and printed key match the source.",
+      "before": {
+        "number": 15,
+        "question": "Which of the following best describes the ground state electron configuration of chromium?<br>W) A fully-filled 4s orbital and five half-filled 3d orbitals<br>X) A half-filled 4s orbital and five fully-filled 3d orbitals<br>Y) A half-filled 4s orbital and five half-filled 3d orbitals<br>Z) An empty 4s orbital and five fully-filled 3d orbitals",
+        "answer": "Y) A HALF-FILLED 4S ORBITAL AND FIVE HALF-FILLED 3D ORBITALS",
+        "category": "Chemistry",
+        "type": "Multiple Choice",
+        "options": [
+          "W) A fully-filled 4s orbital and five half-filled 3d orbitals",
+          "X) A half-filled 4s orbital and five fully-filled 3d orbitals",
+          "Y) A half-filled 4s orbital and five half-filled 3d orbitals",
+          "Z) An empty 4s orbital and five fully-filled 3d orbitals"
+        ],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 18,
+      "number": 19,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-10.png"
+      ],
+      "evidence": "Visually checked original PDF page 10: complete prompt, square-root coordinates, and accepted answer match. The 60-degree rotation gives (−2, 2√3).",
+      "before": {
+        "number": 19,
+        "question": "What are the coordinates of the image of the point (2, 2√3) when it is rotated 60 degrees counter-clockwise about the origin?",
+        "answer": "(–2, 2√3) (ACCEPT: x = –2 AND y = 2√3)",
+        "category": "Math",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "tossups",
+      "i": 21,
+      "number": 22,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-11.png"
+      ],
+      "evidence": "Visually checked original PDF page 11: complete bond-polarity ranking prompt and printed key match the source.",
+      "before": {
+        "number": 22,
+        "question": "Rank the following four single bonds in increasing order of polarity: 1) Carbon-carbon; 2) Carbon-hydrogen; 3) Nitrogen-hydrogen; 4) Fluorine-hydrogen.",
+        "answer": "1, 2, 3, 4",
+        "category": "Chemistry",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-02.png"
+      ],
+      "evidence": "Visually checked original PDF page 2: complete bonus prompt, pronunciation cues, and printed key match the source.",
+      "before": {
+        "number": 4,
+        "leadin": "",
+        "parts": [
+          "Identify all of the following three numbers of pi [pie] electrons that, according to Huckel's [HAH-kulz] rule, can occupy an aromatic system: 1) 4; 2) 8; 3) 10."
+        ],
+        "answers": [
+          "3"
+        ],
+        "category": "Chemistry",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "bonuses",
+      "i": 4,
+      "number": 5,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-03.png"
+      ],
+      "evidence": "Visually checked original PDF page 3: complete probability prompt, accepted forms, and printed answer match; Bayes' rule yields 1/5.",
+      "before": {
+        "number": 5,
+        "leadin": "",
+        "parts": [
+          "A jar contains 9 coins: 8 fair coins and 1 double-headed coin. If a random coin is selected from the jar, is flipped, and comes up heads, what is the probability that the double-headed coin was the one selected?"
+        ],
+        "answers": [
+          "1/5 (ACCEPT: 0.20, 20%)"
+        ],
+        "category": "Math",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "bonuses",
+      "i": 13,
+      "number": 14,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-07.png"
+      ],
+      "evidence": "Visually checked original PDF page 7: complete operation-definition prompt and printed key match. The inner operation is 4×5−2=18; the outer operation is 3×18−2=52.",
+      "before": {
+        "number": 14,
+        "leadin": "",
+        "parts": [
+          "For integers a and b, define the binary operation “star” by a “star” b is equal to 2 less than the product of a and b. What is 3 “star” open parenthesis 4 “star” 5 close parenthesis?"
+        ],
+        "answers": [
+          "52"
+        ],
+        "category": "Math",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "bonuses",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-08.png"
+      ],
+      "evidence": "Visually checked original PDF page 8: complete prompt and printed key match. Bauxite as Al2O3·2H2O has molar mass approximately 138 g/mol.",
+      "before": {
+        "number": 15,
+        "leadin": "",
+        "parts": [
+          "To the nearest gram per mole, what is the molar mass of bauxite?"
+        ],
+        "answers": [
+          "138"
+        ],
+        "category": "Chemistry",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "bonuses",
+      "i": 18,
+      "number": 19,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-10.png"
+      ],
+      "evidence": "Visually checked original PDF page 10: complete equation and answer match. Differentiating gives 6(t−3)(t−8), with rest times 3 and 8.",
+      "before": {
+        "number": 19,
+        "leadin": "",
+        "parts": [
+          "A particle’s position x at time t is defined by the equation x of t = 2t<sup>3</sup> − 33t<sup>2</sup> + 144t − 48. At what time or times t is the particle at rest?"
+        ],
+        "answers": [
+          "3 AND 8"
+        ],
+        "category": "Math",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": [],
+        "parts_sanitized": [
+          "A particle’s position x at time t is defined by the equation x of t = 2t³ − 33t² + 144t − 48. At what time or times t is the particle at rest?"
+        ]
+      },
+      "changes": {}
+    },
+    {
+      "p": 212,
+      "k": "bonuses",
+      "i": 21,
+      "number": 22,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/212-d-render-11.png"
+      ],
+      "evidence": "Visually checked original PDF page 11: complete molecular names/pronunciation cues and printed key match; benzene and conjugated 1,3-butadiene have delocalized pi systems, unlike 1,4-pentadiene.",
+      "before": {
+        "number": 22,
+        "leadin": "",
+        "parts": [
+          "Identify all of the following three molecules that would be expected to have a delocalized pi [pie] bond system: 1) Benzene; 2) 1,4-pentadiene [one-four-penta-DYE-een]; 3) 1,3-butadiene [one-three-BYU-tah-DYE-een]."
+        ],
+        "answers": [
+          "1, 3"
+        ],
+        "category": "Chemistry",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 1,
+      "number": 2,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-01.png"
+      ],
+      "evidence": "Visually checked original PDF page 1, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. Dry-ice gas-volume calculation and printed key match (4.4 g / 44 g mol−1 = 0.10 mol; the key gives 2.2 L).",
+      "before": {
+        "number": 2,
+        "question": "Marie places 4.4 grams of dry ice in a vacuum-sealed 5-liter bag at standard temperature. After the dry ice reaches standard temperature, then, to the nearest tenth of a liter, how much volume will it fill?",
+        "answer": "2.2",
+        "category": "Chemistry",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 4,
+      "number": 5,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-03.png"
+      ],
+      "evidence": "Visually checked original PDF page 3, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. All four eccentricity options and the printed ellipse key match; an ellipse has 0 < e < 1.",
+      "before": {
+        "number": 5,
+        "question": "For a conic section, which of the following values of eccentricity would indicate that the conic section is an ellipse?<br>W) 0<br>X) 0.5<br>Y) 1<br>Z) 1.5",
+        "answer": "X) 0.5",
+        "category": "Math",
+        "type": "Multiple Choice",
+        "options": [
+          "W) 0",
+          "X) 0.5",
+          "Y) 1",
+          "Z) 1.5"
+        ],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 9,
+      "number": 10,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-05.png"
+      ],
+      "evidence": "Visually checked original PDF page 5, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. Both function points, continuity condition, options, and printed key match; −5 lies between −6 and −4.",
+      "before": {
+        "number": 10,
+        "question": "The graph of a continuous function f contains the points (3, –6) and (8, –4). The intermediate value theorem guarantees an x-value such that f of x equals which of the following?<br>W) –5<br>X) –2<br>Y) 2<br>Z) 5",
+        "answer": "W) –5",
+        "category": "Math",
+        "type": "Multiple Choice",
+        "options": [
+          "W) –5",
+          "X) –2",
+          "Y) 2",
+          "Z) 5"
+        ],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 11,
+      "number": 12,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-06.png"
+      ],
+      "evidence": "Visually checked original PDF page 6, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. All fermentation-product options and the printed key match the source.",
+      "before": {
+        "number": 12,
+        "question": "Which of the following could be the products of anaerobic fermentation of glucose?<br>W) Ethanol and water<br>X) Acetone and water<br>Y) Ethanol and carbon dioxide<br>Z) Acetone and carbon dioxide",
+        "answer": "Y) ETHANOL AND CARBON DIOXIDE",
+        "category": "Chemistry",
+        "type": "Multiple Choice",
+        "options": [
+          "W) Ethanol and water",
+          "X) Acetone and water",
+          "Y) Ethanol and carbon dioxide",
+          "Z) Acetone and carbon dioxide"
+        ],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 13,
+      "number": 14,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-07.png"
+      ],
+      "evidence": "Visually checked original PDF page 7, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. Both vector components and printed key match; the dot product gives 9a−108=0.",
+      "before": {
+        "number": 14,
+        "question": "Find the value of a for which the following vectors are perpendicular: 9i – 3j and ai + 36j.",
+        "answer": "12",
+        "category": "Math",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 17,
+      "number": 18,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-09.png"
+      ],
+      "evidence": "Visually checked original PDF page 9, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. All scattering values/options and printed key match; first-order Bragg scattering gives d≈290 pm.",
+      "before": {
+        "number": 18,
+        "question": "X-rays with a wavelength of 150 picometers are scattered at an angle of 15 degrees by a crystal. Assuming that this was first-degree scattering, which of the following is closest to the spacing in this crystal, in picometers?<br>W) 145<br>X) 155<br>Y) 290<br>Z) 589",
+        "answer": "Y) 290",
+        "category": "Chemistry",
+        "type": "Multiple Choice",
+        "options": [
+          "W) 145",
+          "X) 155",
+          "Y) 290",
+          "Z) 589"
+        ],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 18,
+      "number": 19,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        10
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-10.png"
+      ],
+      "evidence": "Visually checked original PDF page 10, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. Complete prism prompt and key match; a prism with 24 edges has an octagonal base and 10 faces.",
+      "before": {
+        "number": 19,
+        "question": "A prism with 24 edges has how many faces?",
+        "answer": "10",
+        "category": "Math",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "tossups",
+      "i": 21,
+      "number": 22,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-11.png"
+      ],
+      "evidence": "Visually checked original PDF page 11, including the complete toss-up prompt, all options, cues, printed key and math/chemical notation. All reaction descriptions and printed key match the original.",
+      "before": {
+        "number": 22,
+        "question": "Identify all of the following three chemical reactions that are likely to be spontaneous at room temperature: 1) Solid sodium combines with chlorine gas to form solid sodium chloride; 2) Gaseous nitrogen combines with gaseous hydrogen to form gaseous ammonia; 3) Solid potassium iodide dissolves into potassium and iodide ions.",
+        "answer": "1, 3",
+        "category": "Chemistry",
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "bonuses",
+      "i": 1,
+      "number": 2,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-01.png"
+      ],
+      "evidence": "Visually checked original PDF page 1, including the complete bonus prompt, all options, cues, printed key and math/chemical notation. The three-item SN1 prompt, pronunciation cue, and printed key match; 2-bromopropane is the sole listed secondary alkyl halide.",
+      "before": {
+        "number": 2,
+        "leadin": "",
+        "parts": [
+          "Identify all of the following three molecules that typically undergo an Sn1 reaction in the presence of a nucleophile: 1) Methyl-bromide; 2) 2-bromo-propane; 3) Tert-butyl-amine [turt-BYOO-til-ah-MEEN]."
+        ],
+        "answers": [
+          "2"
+        ],
+        "category": "Chemistry",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "bonuses",
+      "i": 4,
+      "number": 5,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        3
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-03.png"
+      ],
+      "evidence": "Visually checked original PDF page 3, including the complete bonus prompt, all options, cues, printed key and math/chemical notation. Reflection prompt, line equation, accepted coordinates, and key match; reflecting (−1,5) over y=x−4 gives (9,−5).",
+      "before": {
+        "number": 5,
+        "leadin": "",
+        "parts": [
+          "What are the coordinates of the image of the point (–1, 5) when it is reflected through the line y = x – 4?"
+        ],
+        "answers": [
+          "(9, –5) (ACCEPT: x = 9 AND y = –5)"
+        ],
+        "category": "Math",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "bonuses",
+      "i": 9,
+      "number": 10,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-05.png"
+      ],
+      "evidence": "Visually checked original PDF page 5, including the complete bonus prompt, all options, cues, printed key and math/chemical notation. The complete permutations prompt and key match; 60!/40! has five trailing zeroes.",
+      "before": {
+        "number": 10,
+        "leadin": "",
+        "parts": [
+          "How many zeroes occur at the right of the number of permutations of 60 objects taken 20 at a time?"
+        ],
+        "answers": [
+          "5"
+        ],
+        "category": "Math",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "bonuses",
+      "i": 11,
+      "number": 12,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-06.png"
+      ],
+      "evidence": "Visually checked original PDF page 6, including the complete bonus prompt, all options, cues, printed key and math/chemical notation. All three ligand names and printed key match; oxalate and ethylenediamine are bidentate.",
+      "before": {
+        "number": 12,
+        "leadin": "",
+        "parts": [
+          "Identify all of the following three ligands that are considered bidentate: 1) Oxalate; 2) Ethylene-diamine; 3) Cyanide."
+        ],
+        "answers": [
+          "1, 2"
+        ],
+        "category": "Chemistry",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "bonuses",
+      "i": 13,
+      "number": 14,
+      "category": "Math",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        7
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-07.png"
+      ],
+      "evidence": "Visually checked original PDF page 7, including the complete bonus prompt, all options, cues, printed key and math/chemical notation. Rational-function prompt, removable-discontinuity condition, accepted forms, and key match; cancellation gives limit 5/4.",
+      "before": {
+        "number": 14,
+        "leadin": "",
+        "parts": [
+          "The graph of f of x = the fraction with numerator x<sup>2</sup> − 2x − 24 and denominator x<sup>2</sup> − 16 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f of x?"
+        ],
+        "answers": [
+          "5/4 (ACCEPT: 1¼, 1.25)"
+        ],
+        "category": "Math",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": [],
+        "parts_sanitized": [
+          "The graph of f of x = the fraction with numerator x² − 2x − 24 and denominator x² − 16 has a removable discontinuity at x = a for some real number a. What is the limit as x approaches a of f of x?"
+        ]
+      },
+      "changes": {}
+    },
+    {
+      "p": 215,
+      "k": "bonuses",
+      "i": 17,
+      "number": 18,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "verified",
+      "sourcePages": [
+        9
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/215-d-render-09.png"
+      ],
+      "evidence": "Visually checked original PDF page 9, including the complete bonus prompt, all options, cues, printed key and math/chemical notation. Complete aromatic-system prompt and key match; of 4, 5, and 6 pi electrons, only 6 meets the 4n+2 rule.",
+      "before": {
+        "number": 18,
+        "leadin": "",
+        "parts": [
+          "Identify all of the following three numbers of π [pie]-electrons in a conjugated planar cyclic system that would make that system aromatic: 1) Four; 2) Five; 3) Six."
+        ],
+        "answers": [
+          "3"
+        ],
+        "category": "Chemistry",
+        "values": [
+          10
+        ],
+        "type": "Short Answer",
+        "options": [],
+        "notes": []
+      },
+      "changes": {}
+    },
+    {"p":218,"k":"tossups","i":4,"number":5,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete toss-up prompt, all options and cues where present, printed key, and mathematical/chemical notation. Complete Hund’s-rule prompt and printed answer match; four electrons singly occupy three degenerate 2p orbitals before pairing.","before":{"number":5,"question":"According to Hund’s rule, how many orbitals of a set of 2p orbitals will have at least one electron in them if the set of orbitals contains four electrons?","answer":"THREE","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"tossups","i":7,"number":8,"category":"Math","year":2020,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-04.png"],"evidence":"Visually checked original PDF page 4, including the complete toss-up prompt, all options and cues where present, printed key, and mathematical/chemical notation. Complete marble-combination prompt and key match; choosing 2 from 7 gives 21.","before":{"number":8,"question":"A bag contains 7 uniquely-colored marbles. Two marbles are drawn simultaneously. How many different combinations are possible?","answer":"21","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"tossups","i":13,"number":14,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete toss-up prompt, all options and cues where present, printed key, and mathematical/chemical notation. All experimental-variable options and printed key match.","before":{"number":14,"question":"Nick performs an experiment in which he dissolves a known quantity of salt in water at different temperatures and measures the amount of time the salt takes to dissolve completely. What is the independent variable in this experiment?<br>W) The identity of the salt<br>X) The temperature of the water<br>Y) The quantity of the salt<br>Z) The amount of time the salt takes to dissolve completely","answer":"X) THE TEMPERATURE OF THE WATER","category":"Chemistry","type":"Multiple Choice","options":["W) The identity of the salt","X) The temperature of the water","Y) The quantity of the salt","Z) The amount of time the salt takes to dissolve completely"],"notes":[]},"changes":{}},
+    {"p":218,"k":"tossups","i":16,"number":17,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all options and cues where present, printed key, and mathematical/chemical notation. Complete sock-drawing prompt and key match; avoid all six red and all ten blue socks first, then draw two red: 20 total.","before":{"number":17,"question":"A bag contains 24 socks: 6 are red, 8 are white, and 10 are blue. How many socks must you take out to be certain that you will have at least one pair of red socks?","answer":"20","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"tossups","i":19,"number":20,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete toss-up prompt, all options and cues where present, printed key, and mathematical/chemical notation. All three compounds and printed key match the source.","before":{"number":20,"question":"Identify all of the following three compounds that interact mainly via London dispersion forces: 1) Di-chloro-methane; 2) Phosphorous trichloride; 3) Carbon tetra-chloride.","answer":"3","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"tossups","i":20,"number":21,"category":"Math","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete toss-up prompt, all options and cues where present, printed key, and mathematical/chemical notation. Complete quadratic expression and key match; discriminant is 36−60=−24.","before":{"number":21,"question":"What is the discriminant of the quadratic function y = x<sup>2</sup> – 6x + 15?","answer":"–24","category":"Math","type":"Short Answer","options":[],"notes":[],"question_sanitized":"What is the discriminant of the quadratic function y = x² – 6x + 15?"},"changes":{}},
+    {"p":218,"k":"bonuses","i":0,"number":1,"category":"Math","year":2020,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. Prompt, absolute-value equation, printed result, and DO NOT ACCEPT cue match. Solving the valid branch gives x=10/11.","before":{"number":1,"leadin":"","parts":["Solve the following equation for x: 6x – 3 equals the absolute value of open parenthesis 5x – 7 close parenthesis."],"answers":["10/11 (DO NOT ACCEPT: –4)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"bonuses","i":4,"number":5,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. All bond options and printed answer match; H–H is nonpolar.","before":{"number":5,"leadin":"","parts":["Which of the following bonds is the LEAST polar?<br>W) H-H<br>X) H-C<br>Y) C-N<br>Z) H-N"],"answers":["W) H-H"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) H-H","X) H-C","Y) C-N","Z) H-N"],"notes":[]},"changes":{}},
+    {"p":218,"k":"bonuses","i":7,"number":8,"category":"Math","year":2020,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-04.png"],"evidence":"Visually checked original PDF page 4, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. Exponent and printed units digit match; powers of 7 cycle every four and 99≡3 mod 4.","before":{"number":8,"leadin":"","parts":["What is the units digit of 7 raised to the 99<sup>th</sup> power?"],"answers":["3"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the units digit of 7 raised to the 99th power?"]},"changes":{}},
+    {"p":218,"k":"bonuses","i":10,"number":11,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. Complete homogeneous-mixture prompt and pronunciation cue match; key is HOMOGENEOUS.","before":{"number":11,"leadin":"","parts":["Chlorite ions can be reduced by iodide ions to form chloride, water, and solid iodine. In order for a chlorite ion to be completely reduced to chloride, how many molecules of solid iodine are generated?"],"answers":["TWO"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"bonuses","i":13,"number":14,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. Reaction quantities, equilibrium amount, accepted forms, and key match; Kc=(0.6)^2/(0.4×0.4)=2.25.","before":{"number":14,"leadin":"","parts":["Consider the reaction of hydrogen and iodine gases to form hydrogen iodide gas at 800 kelvins. If 0.7 moles each of hydrogen and iodine gases are introduced into a one-liter container, and there are 0.6 moles of hydrogen iodide at equilibrium, what is the K-sub-C for this reaction?"],"answers":["2.25 (ACCEPT: 9/4, 2 1/4)"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"bonuses","i":16,"number":17,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. Complete derivative prompt and key match; simplify to x²−3x+9 and evaluate derivative at 7 to get 11.","before":{"number":17,"leadin":"","parts":["What is the derivative evaluated at x = 7 of the fraction with numerator x<sup>3</sup> + 27 and denominator x + 3?"],"answers":["11"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the derivative evaluated at x = 7 of the fraction with numerator x³ + 27 and denominator x + 3?"]},"changes":{}},
+    {"p":218,"k":"bonuses","i":19,"number":20,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. All three functional groups and printed key match; each contains a carbonyl C=O bond.","before":{"number":20,"leadin":"","parts":["Identify all of the following three functional groups that contain double bonds: 1) Carboxyl; 2) Amide; 3) Ester."],"answers":["ALL"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":218,"k":"bonuses","i":20,"number":21,"category":"Math","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/218-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete bonus prompt, all options and cues where present, printed key, and mathematical/chemical notation. Complete square/circle prompt and printed key match; difference is (50π−25π)=25π.","before":{"number":21,"leadin":"","parts":["A square has sides of length 10 centimeters. In square centimeters, what is the difference between the areas of its circumscribing circle and its inscribed circle?"],"answers":["25π"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"tossups","i":1,"number":2,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete toss-up prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Complete constant-volume gas-law prompt and key match; pressure is proportional to absolute temperature (Gay-Lussac).","before":{"number":2,"question":"What gas law exclusively states that, at constant volume, the pressure of an ideal gas is directly proportional to its absolute temperature?","answer":"GAY-LUSSAC'S LAW","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"tossups","i":9,"number":10,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete toss-up prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Prompt, traditional calorie definition, accepted synonyms, and printed key match.","before":{"number":10,"question":"What unit was traditionally defined as the amount of heat required to raise the temperature of one gram of water by one degree Celsius?","answer":"CALORIE (ACCEPT: SMALL CALORIE, GRAM CALORIE)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"tossups","i":11,"number":12,"category":"Math","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete toss-up prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Matrix entries and printed determinant match; (−4)(2)−(−5)(−8)=−48.","before":{"number":12,"question":"What is the determinant of the 2-by-2 matrix with first row –4, –5 and second row –8, 2?","answer":"–48","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"tossups","i":15,"number":16,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-08.png"],"evidence":"Visually checked original PDF page 8, including the complete toss-up prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. All molecular options, pronunciation cues, and printed key match; butyrate contains the carboxylate/carboxyl group.","before":{"number":16,"question":"Which of the following molecules has a carboxyl group?<br>W) Butyrate [BYOO-tur-ate]<br>X) 2-cyanohexane [2-sigh-ano-HEX-ane]<br>Y) Toluene [TALL – you – een]<br>Z) Nitro-phenol [nitro-FEN-al]","answer":"W) BUTYRATE","category":"Chemistry","type":"Multiple Choice","options":["W) Butyrate [BYOO-tur-ate]","X) 2-cyanohexane [2-sigh-ano-HEX-ane]","Y) Toluene [TALL – you – een]","Z) Nitro-phenol [nitro-FEN-al]"],"notes":[]},"changes":{}},
+    {"p":221,"k":"tossups","i":16,"number":17,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Arithmetic-sequence terms and key match; (39−15)/(8−4)=6.","before":{"number":17,"question":"An arithmetic sequence has fourth term 15 and eighth term 39. What is the positive difference between consecutive terms for the sequence?","answer":"6","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"tossups","i":21,"number":22,"category":"Math","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete toss-up prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Set sizes and printed complement count match; 42−19=23.","before":{"number":22,"question":"If a universal set contains 42 elements, how many elements are in the complement of a set with 19 elements?","answer":"23","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"bonuses","i":0,"number":1,"category":"Math","year":2020,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Score percentages and printed mean match; weighted average is 7.4.","before":{"number":1,"leadin":"","parts":["On a calculus pop quiz, 15% of the students scored 6 points, 40% scored 7 points, 35% scored 8 points, and the rest scored 9 points. What is the average score, rounded to the nearest tenth, on the quiz?"],"answers":["7.4"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"bonuses","i":1,"number":2,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Molecular formula and three candidate classes match; C5H10 can be an alkene or cycloalkane, not a cycloalkene.","before":{"number":2,"leadin":"","parts":["A certain hydrocarbon has the chemical formula C<sub>5</sub>H<sub>10</sub>. Identify all of the following three classes of molecules that it could be: 1) Alkene; 2) Cyclo-alkane; 3) Cyclo-alkene."],"answers":["1, 2"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["A certain hydrocarbon has the chemical formula C₅H₁₀. Identify all of the following three classes of molecules that it could be: 1) Alkene; 2) Cyclo-alkane; 3) Cyclo-alkene."]},"changes":{}},
+    {"p":221,"k":"bonuses","i":9,"number":10,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. All four sulfate choices and printed key match the source.","before":{"number":10,"leadin":"","parts":["Which of the following sulfate salts is the most soluble in water?<br>W) Strontium sulfate<br>X) Zinc sulfate<br>Y) Lead(II) [two] sulfate<br>Z) Mercury(I) sulfate"],"answers":["X) ZINC SULFATE"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Strontium sulfate","X) Zinc sulfate","Y) Lead(II) [two] sulfate","Z) Mercury(I) sulfate"],"notes":[]},"changes":{}},
+    {"p":221,"k":"bonuses","i":11,"number":12,"category":"Math","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Point and requested ratios match; the point lies in quadrant III, giving sine −12/13 and tangent 12/5.","before":{"number":12,"leadin":"","parts":["The terminal side of an angle in standard position passes through the point (–5, –12). Find the sine and tangent, respectively, of the angle."],"answers":["SINE = –12/13, TANGENT = 12/5 (ACCEPT 2 2/5, 2.4)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"bonuses","i":15,"number":16,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-08.png"],"evidence":"Visually checked original PDF page 8, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Complete nomenclature prompt and printed answer match.","before":{"number":16,"leadin":"","parts":["What is the systematic IUPAC name for toluene?"],"answers":["METHYLBENZENE"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"bonuses","i":16,"number":17,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Circle equation, accepted center coordinates, and key match; completing squares gives center (4,−9) and radius √31.","before":{"number":17,"leadin":"","parts":["What are the radius and the coordinates of the center, respectively, of the circle with equation x<sup>2</sup> – 8x + y<sup>2</sup> + 18y + 66 = 0?"],"answers":["RADIUS = √31 AND CENTER = (4, –9) (ACCEPT: x = 4 AND y = –9 for center)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What are the radius and the coordinates of the center, respectively, of the circle with equation x² – 8x + y² + 18y + 66 = 0?"]},"changes":{}},
+    {"p":221,"k":"bonuses","i":20,"number":21,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. All compound names and printed key match; only 2,2-dimethyldecane is a molecular solid.","before":{"number":21,"leadin":"","parts":["Identify all of the following three compounds that are molecular solids: 1) Silicon carbide; 2) 2,2-di-methyl-do-de-cane; 3) Ammonium polyphosphate."],"answers":["2 ONLY"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":221,"k":"bonuses","i":21,"number":22,"category":"Math","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/221-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete bonus prompt, all options and cues where present, printed answer/acceptance text, and relevant notation. Both congruences and printed key match; 34 is the least positive simultaneous solution.","before":{"number":22,"leadin":"","parts":["What is the smallest positive integer that is congruent to 4 mod 5, and congruent to 6 mod 7?"],"answers":["34"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"tossups","i":2,"number":3,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-02.png"],"evidence":"Visually checked original PDF page 2, including the complete toss-up prompt, all options/cues, printed key, and mathematical/chemical symbols. Four solutes, concentration, van’t Hoff condition, and printed key match; only MgCl2 ideally gives i>2.","before":{"number":3,"question":"Identify all of the following four solutes in 0.05 molal [moh-LAHL] aqueous solutions that would be expected to display a van't Hoff factor greater than two: 1) Sodium chloride; 2) Magnesium chloride; 3) Glucose; 4) Magnesium sulfate.","answer":"2","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"tossups","i":7,"number":8,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-04.png"],"evidence":"Visually checked original PDF page 4, including the complete toss-up prompt, all options/cues, printed key, and mathematical/chemical symbols. Hydrocarbon terminology prompt and key match.","before":{"number":8,"question":"What is the term for a hydrocarbon containing one or more double or triple bonds?","answer":"UNSATURATED","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"tossups","i":10,"number":11,"category":"Math","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete toss-up prompt, all options/cues, printed key, and mathematical/chemical symbols. Prime numbers bracketing 70 and printed sum match: 67+71=138.","before":{"number":11,"question":"What is the sum of the largest prime number less than 70 and the smallest prime number greater than 70?","answer":"138","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"tossups","i":12,"number":13,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete toss-up prompt, all options/cues, printed key, and mathematical/chemical symbols. Saturated straight-chain six-carbon alkane and accepted names match: hexane.","before":{"number":13,"question":"What is the name for a saturated straight-chain alkane that contains six carbon atoms?","answer":"HEXANE (ACCEPT: N-HEXANE, NORMAL-HEXANE)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"tossups","i":17,"number":18,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all options/cues, printed key, and mathematical/chemical symbols. Complex number and printed key match; the conjugate has modulus 5.","before":{"number":18,"question":"What is the absolute value of the complex conjugate of –5i?","answer":"5","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"tossups","i":18,"number":19,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete toss-up prompt, all options/cues, printed key, and mathematical/chemical symbols. Methanol prompt and negative oxidation number match; carbon is −2.","before":{"number":19,"question":"What is the oxidation number for carbon in methanol?","answer":"–2","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"tossups","i":22,"number":23,"category":"Math","year":2020,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete toss-up prompt, all options/cues, printed key, and mathematical/chemical symbols. Point coordinates and printed distance match: √(4²+2²)=2√5.","before":{"number":23,"question":"What is the distance between the points (0, 7) and (4, 9)?","answer":"2√5","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"bonuses","i":2,"number":3,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-02.png"],"evidence":"Visually checked original PDF page 2, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. All four compounds and printed ordering match: NH3 < Br2 < H2O < I2.","before":{"number":3,"leadin":"","parts":["Order the following four compounds in order of increasing boiling point: 1) Iodine; 2) Water; 3) Bromine; 4) Ammonia."],"answers":["4, 3, 2, 1"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"bonuses","i":5,"number":6,"category":"Math","year":2020,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. Polynomial and divisor match; evaluating at −2 gives the printed remainder −97.","before":{"number":6,"leadin":"","parts":["What is the remainder when 2x<sup>5</sup> – 3x<sup>4</sup> – 4x<sup>3</sup> + 7x – 3 is divided by the binomial x + 2?"],"answers":["–97"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the remainder when 2x⁵ – 3x⁴ – 4x³ + 7x – 3 is divided by the binomial x + 2?"]},"changes":{}},
+    {"p":224,"k":"bonuses","i":7,"number":8,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-04.png"],"evidence":"Visually checked original PDF page 4, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. Temperature interval, all three statements, and printed key match.","before":{"number":8,"leadin":"","parts":["Identify all of the following three changes that would be expected as pure water is heated from 25 degrees Celsius to 37 degrees Celsius: 1) The H-plus concentration increases; 2) The hydroxide concentration decreases; 3) The density of the water decreases."],"answers":["1, 3"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"bonuses","i":10,"number":11,"category":"Math","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. Triangle sides and answer match; Heron’s formula gives 14√30.","before":{"number":11,"leadin":"","parts":["What is the area of a triangle with sides of length 17, 14, and 11?"],"answers":["14√30"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"bonuses","i":12,"number":13,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. Coordination-compound name and accepted oxidation-state forms match; cobalt is +3.","before":{"number":13,"leadin":"","parts":["The following incomplete compound name is missing its oxidation state for cobalt: di-amine-ethylene-di-amine-chloro-cobalt-sulfate. What is this oxidation number?"],"answers":["3+ (ACCEPT: +3, THREE)"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"bonuses","i":17,"number":18,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. Grid dimensions and answer match; summing n×n squares for n=1…7 gives 140.","before":{"number":18,"leadin":"","parts":["On a seven-by-seven grid of unit squares, how many squares of any size can be formed using only the line segments in the grid?"],"answers":["140"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"bonuses","i":18,"number":19,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. All work-function statements and printed key match; statements 2 and 3 are true.","before":{"number":19,"leadin":"","parts":["Identify all of the following three statements that accurately describe the work function of a metal: 1) It is the energy difference between the HOMO and the LUMO [LOO-mo]; 2) It is the valence energy level relative to vacuum; 3) It is the energy required to eject an electron."],"answers":["2, 3"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":224,"k":"bonuses","i":22,"number":23,"category":"Math","year":2020,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/224-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete bonus prompt, all options/cues, printed key, and mathematical/chemical symbols. Differentiability condition, derivative value, expression, and key match; first-order expansion yields −6.","before":{"number":23,"leadin":"","parts":["Let f of x be a function with continuous derivative, with f of 3 = 0 and f prime of 3 = 6. Compute the limit as x approaches zero of the fraction with numerator f of open parenthesis 3 + 2x, close parenthesis, plus f of open parenthesis 3 – 3x, close parenthesis, and denominator x."],"answers":["–6"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"tossups","i":1,"number":2,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete toss-up prompt, all options/cues, answer and symbols. All volcano options and printed key match the source.","before":{"number":2,"question":"What principle can be used to predict the direction of changes in the equilibrium point of a reaction based on changes in reactant and product concentrations?","answer":"LE CHATELIER’S PRINCIPLE","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"tossups","i":9,"number":10,"category":"Math","year":2020,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete toss-up prompt, all options/cues, answer and symbols. Le Chatelier prompt and printed answer match.","before":{"number":10,"question":"What is the product of the three different prime factors of 168?","answer":"42","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"tossups","i":11,"number":12,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete toss-up prompt, all options/cues, answer and symbols. All molecule options and printed key match; methane carbon has the most electron-rich oxidation state.","before":{"number":12,"question":"Which of the following molecules contains the most electron-rich carbon center?<br>W) Methanol<br>X) Methane<br>Y) Formaldehyde<br>Z) Carbon monoxide","answer":"X) METHANE","category":"Chemistry","type":"Multiple Choice","options":["W) Methanol","X) Methane","Y) Formaldehyde","Z) Carbon monoxide"],"notes":[]},"changes":{}},
+    {"p":227,"k":"tossups","i":13,"number":14,"category":"Math","year":2020,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete toss-up prompt, all options/cues, answer and symbols. Vector components and printed dot product match: 3×4+(−5)×1=7.","before":{"number":14,"question":"What is the dot product of the vectors 3i – 5j + 7k and 4i + j?","answer":"7","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"tossups","i":17,"number":18,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all options/cues, answer and symbols. First-order rate prompt and printed multiplier match.","before":{"number":18,"question":"Dinitrogen pentoxide decomposes to form oxygen gas and nitrogen dioxide. If this reaction is first order with respect to dinitrogen pentoxide, by what number would the rate of the reaction be multiplied if the concentration of dinitrogen pentoxide is doubled?","answer":"2","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"tossups","i":18,"number":19,"category":"Math","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete toss-up prompt, all options/cues, answer and symbols. Polygon sides and key match; a vertex is joined by diagonals to n−3=37 other vertices.","before":{"number":19,"question":"Point P is one of the vertices of a 40-sided convex polygon. How many diagonals of the polygon have point P as an endpoint?","answer":"37","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"tossups","i":21,"number":22,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete toss-up prompt, all options/cues, answer and symbols. All substance choices and printed key match; manganese can reduce chromium(III) under standard conditions.","before":{"number":22,"question":"Which of the following substances can spontaneously reduce chromium (III) [three] to chromium metal?<br>W) Iodine<br>X) Silver<br>Y) Manganese<br>Z) Iron","answer":"Y) MANGANESE","category":"Chemistry","type":"Multiple Choice","options":["W) Iodine","X) Silver","Y) Manganese","Z) Iron"],"notes":[]},"changes":{}},
+    {"p":227,"k":"bonuses","i":1,"number":2,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete bonus prompt, all options/cues, answer and symbols. Climate categories and printed key match; only the tropical wet climate belongs to Köppen group C among those listed.","before":{"number":2,"leadin":"","parts":["Place the following three compounds in order of increasing boiling point: 1) Methanol; 2) Ethane; 3) Butanoic [byoo-tan-OH-ik] acid."],"answers":["2, 1, 3"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"bonuses","i":4,"number":5,"category":"Math","year":2020,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete bonus prompt, all options/cues, answer and symbols. Sequence terms and printed sum match; increasing implies common ratio 4, giving 1705.","before":{"number":5,"leadin":"","parts":["What is the sum of the first 5 terms in the increasing geometric sequence with first term 5 and third term 80?"],"answers":["1705"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"bonuses","i":9,"number":10,"category":"Math","year":2020,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete bonus prompt, all options/cues, answer and symbols. Compound names, pronunciation cue, and printed boiling-point order match: ethanol < methanol < butanoic acid.","before":{"number":10,"leadin":"","parts":["A regular 36-sided polygon is inscribed in a circle with radius 8. Which of the following is the length of one of its sides?<br>W) 8 cosine 10 degrees<br>X) 8 sine 10 degrees<br>Y) 16 cosine 5 degrees<br>Z) 16 sine 5 degrees"],"answers":["Z) 16 SINE 5 DEGREES"],"category":"Math","values":[10],"type":"Multiple Choice","options":["W) 8 cosine 10 degrees","X) 8 sine 10 degrees","Y) 16 cosine 5 degrees","Z) 16 sine 5 degrees"],"notes":[]},"changes":{}},
+    {"p":227,"k":"bonuses","i":13,"number":14,"category":"Math","year":2020,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete bonus prompt, all options/cues, answer and symbols. Provided logarithms, expression, requested precision, and key match; log10(75)=1.875.","before":{"number":14,"leadin":"","parts":["Given that log base 10 of 2 is 0.301 and log base 10 of 3 is 0.477, and giving your answer to three decimal places, what is log base 10 of 75?"],"answers":["1.875"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"bonuses","i":17,"number":18,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all options/cues, answer and symbols. All gas identities, equal conditions, and printed increasing-density ordering match.","before":{"number":18,"leadin":"","parts":["Consider four rigid vessels, each of which contains 1 mole of a pure gas at standard temperature and pressure. Rank the following four gases in increasing order of mass density under these conditions: 1) Oxygen; 2) Nitrogen; 3) Helium; 4) Krypton."],"answers":["3, 2, 1, 4"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"bonuses","i":18,"number":19,"category":"Math","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete bonus prompt, all options/cues, answer and symbols. Group counts, conditional wording, and key match; 500 of the 600 owners without security systems also lack a dog.","before":{"number":19,"leadin":"","parts":["In a group of 1000 home owners, 400 of them have home security systems, 300 of them are dog owners, and 200 of them have both a dog and a home security system. If a home chosen at random does not contain a home security system, what is the probability that it also does not contain a dog?"],"answers":["5/6"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":227,"k":"bonuses","i":21,"number":22,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/227-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete bonus prompt, all options/cues, answer and symbols. All three compounds and printed key match; none is an Arrhenius base.","before":{"number":22,"leadin":"","parts":["Identify all of the following three compounds that are Arrhenius [ah-REE-nee-us] bases: 1) Ammonia; 2) Fluoride; 3) Iodide."],"answers":["NONE OF THEM"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"tossups","i":2,"number":3,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-02.png"],"evidence":"Visually checked original PDF page 2, including the complete toss-up prompt, all options/cues, answer, and mathematical/chemical notation. Collision-theory prompt and printed key match.","before":{"number":3,"question":"What theory of chemical kinetics states that molecules must come into contact with each other to react?","answer":"COLLISION THEORY","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"tossups","i":9,"number":10,"category":"Math","year":2020,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete toss-up prompt, all options/cues, answer, and mathematical/chemical notation. Coordinates, quadrant, choices, and key match; the angle rounds to 149°.","before":{"number":10,"question":"In the conversion of the rectangular coordinates (–5, 3) to polar coordinates, to the nearest degree, what is the measure of the angle?<br>W) 121<br>X) 149<br>Y) 301<br>Z) 329","answer":"X) 149","category":"Math","type":"Multiple Choice","options":["W) 121","X) 149","Y) 301","Z) 329"],"notes":[]},"changes":{}},
+    {"p":230,"k":"tossups","i":11,"number":12,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete toss-up prompt, all options/cues, answer, and mathematical/chemical notation. All solubility species and printed key match; the two solids become more soluble as temperature rises.","before":{"number":12,"question":"Identify all of the following three species that have increasing solubility in water with increasing temperature: 1) Carbon dioxide; 2) Sucrose; 3) Silver nitrate.","answer":"2, 3","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"tossups","i":15,"number":16,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-08.png"],"evidence":"Visually checked original PDF page 8, including the complete toss-up prompt, all options/cues, answer, and mathematical/chemical notation. All VSEPR options and printed key match; the seesaw molecular shape has one equatorial lone pair.","before":{"number":16,"question":"Which of the following best explains why the atomic radius of the lanthanide [LAN-tha-nide] elements decreases significantly going across the period from lanthanum [LAN-tha-num] to lutetium [loo-TEE-shum]?<br>W) Shielding decreases leading to a greater effective nuclear charge<br>X) 5d orbitals start to fill, decreasing shielding<br>Y) Extra neutrons stabilize the smaller atomic radii<br>Z) 4f orbitals are diffuse, so effective nuclear charge increases relative to shielding","answer":"Z) 4F ORBITALS ARE DIFFUSE, SO EFFECTIVE NUCLEAR CHARGE INCREASES RELATIVE TO SHIELDING","category":"Chemistry","type":"Multiple Choice","options":["W) Shielding decreases leading to a greater effective nuclear charge","X) 5d orbitals start to fill, decreasing shielding","Y) Extra neutrons stabilize the smaller atomic radii","Z) 4f orbitals are diffuse, so effective nuclear charge increases relative to shielding"],"notes":[]},"changes":{}},
+    {"p":230,"k":"tossups","i":16,"number":17,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all options/cues, answer, and mathematical/chemical notation. Reflection, translation, accepted coordinates, and key match.","before":{"number":17,"question":"The point (–7, 6) is reflected across the x-axis and the resulting point is then translated 2 units left. What are the coordinates of the final image point?","answer":"(–9, –6) (ACCEPT: x = –9 AND y = –6)","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"tossups","i":19,"number":20,"category":"Math","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete toss-up prompt, all options/cues, answer, and mathematical/chemical notation. Base, exponent, and key match; 6^4<2020<6^5.","before":{"number":20,"question":"What is the integer part of the log base 6 of 2020?","answer":"4","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"tossups","i":21,"number":22,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete toss-up prompt, all options/cues, answer, and mathematical/chemical notation. All reduction-half-reaction options and printed key match.","before":{"number":22,"question":"Which of the following substances has the most spontaneous reduction half-reaction?<br>W) Fluorine<br>X) Oxygen<br>Y) Iodine<br>Z) Sulfur","answer":"W) FLUORINE","category":"Chemistry","type":"Multiple Choice","options":["W) Fluorine","X) Oxygen","Y) Iodine","Z) Sulfur"],"notes":[]},"changes":{}},
+    {"p":230,"k":"bonuses","i":1,"number":2,"category":"Math","year":2020,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete bonus prompt, all options/cues, answer, and mathematical/chemical notation. Series sum, first term, and key match; solving a/(1−r)=13/3 gives r=44/65.","before":{"number":2,"leadin":"","parts":["Consider an infinite geometric series with sum equal to 13/3 and first term 7/5. What is the value of the common ratio r for this series?"],"answers":["44/65"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"bonuses","i":2,"number":3,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-02.png"],"evidence":"Visually checked original PDF page 2, including the complete bonus prompt, all options/cues, answer, and mathematical/chemical notation. Three network-solid properties and printed key match; only high melting points are generally expected.","before":{"number":3,"leadin":"","parts":["Identify all of the following three properties that are typically exhibited by network solids, but not atomic solids: 1) They are soft; 2) They have high conductivity; 3) They have high melting points."],"answers":["3"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"bonuses","i":9,"number":10,"category":"Math","year":2020,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete bonus prompt, all options/cues, answer, and mathematical/chemical notation. Rotation center, point, angle, accepted coordinates, and answer match; rotating relative vector (4,3) gives (−3,4), then translating back gives (−2,7).","before":{"number":10,"leadin":"","parts":["What are the coordinates of the image of the point (5, 6) when it is rotated about the point (1, 3) by 90 degrees counterclockwise?"],"answers":["(–2, 7) (ACCEPT: x = –2 AND y = 7)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"bonuses","i":11,"number":12,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete bonus prompt, all options/cues, answer, and mathematical/chemical notation. All test methods/options and key match; light scattering detects colloidal particles.","before":{"number":12,"leadin":"","parts":["Melissa is attempting to dissolve a solid in water to form a solution. After vigorous agitation, she can no longer visibly see particles of solid. Which of the following steps should she take next to determine if the solid has completely dissolved?<br>W) If she sees no visible particles, the solid has dissolved completely<br>X) She should shine a beam of light through the sample<br>Y) She should determine if the freezing point of the sample has changed<br>Z) She should measure the vapor pressure of the sample"],"answers":["X) SHE SHOULD SHINE A BEAM OF LIGHT THROUGH THE SAMPLE"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) If she sees no visible particles, the solid has dissolved completely","X) She should shine a beam of light through the sample","Y) She should determine if the freezing point of the sample has changed","Z) She should measure the vapor pressure of the sample"],"notes":[]},"changes":{}},
+    {"p":230,"k":"bonuses","i":15,"number":16,"category":"Chemistry","year":2020,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-08.png"],"evidence":"Visually checked original PDF page 8, including the complete bonus prompt, all options/cues, answer, and mathematical/chemical notation. All quantum-particle wording and printed key match; the operator is the Hamiltonian.","before":{"number":16,"leadin":"","parts":["Which of the following is correct concerning VSEPR [VESS-pur] geometries?<br>W) Trigonal bipyramidal [bye-peer-ah-MID-ul] complexes have four ligands<br>X) Methane molecules have a carbon atom with an sp2 hybridization [HIGH-brih-dye-ZAY-shun]<br>Y) See-saw compounds have one central atom lone pair<br>Z) The triiodide [try-EYE-oh-died] ion adopts a bent geometry"],"answers":["Y) SEE-SAW COMPOUNDS HAVE ONE CENTRAL ATOM LONE PAIR"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Trigonal bipyramidal [bye-peer-ah-MID-ul] complexes have four ligands","X) Methane molecules have a carbon atom with an sp2 hybridization [HIGH-brih-dye-ZAY-shun]","Y) See-saw compounds have one central atom lone pair","Z) The triiodide [try-EYE-oh-died] ion adopts a bent geometry"],"notes":[]},"changes":{}},
+    {"p":230,"k":"bonuses","i":16,"number":17,"category":"Math","year":2020,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all options/cues, answer, and mathematical/chemical notation. Arc angle, radius, requested rounding, and key match; segment area 4π−8 rounds to 5.","before":{"number":17,"leadin":"","parts":["In a circle with radius 4, to the nearest integer, what is the area of a circular segment defined by an arc of 90 degrees?"],"answers":["5"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":230,"k":"bonuses","i":19,"number":20,"category":"Math","year":2020,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/230-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete bonus prompt, all options/cues, answer, and mathematical/chemical notation. Bounded region and axis match; shell integration yields 4π/15.","before":{"number":20,"leadin":"","parts":["What is the volume of the solid obtained by rotating about the y-axis the first-quadrant region bounded by y = x – x<sup>3</sup> and y = 0?"],"answers":["4π/15 (ACCEPT: (4/15)π)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the volume of the solid obtained by rotating about the y-axis the first-quadrant region bounded by y = x – x³ and y = 0?"]},"changes":{}},
+    {"p":233,"k":"tossups","i":1,"number":2,"category":"Math","year":2021,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-02.png"],"evidence":"Visually checked original PDF page 2, including the complete toss-up prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Prime-factorization property and printed key match; every exponent in a perfect square’s prime factorization is even.","before":{"number":2,"question":"In the prime factorization of a perfect square, the exponents of the prime factors must be which of the following types of numbers?<br>W) Even<br>X) Odd<br>Y) Prime<br>Z) Perfect squares","answer":"W) EVEN","category":"Math","type":"Multiple Choice","options":["W) Even","X) Odd","Y) Prime","Z) Perfect squares"],"notes":[]},"changes":{}},
+    {"p":233,"k":"tossups","i":4,"number":5,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete toss-up prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Equilibrium condition and printed key match; ΔG=0 implies Q=K.","before":{"number":5,"question":"What is the value of the reaction quotient when the change in Gibbs free energy is zero?","answer":"K (ACCEPT: EQUILIBRIUM CONSTANT)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":233,"k":"tossups","i":13,"number":14,"category":"Math","year":2021,"status":"verified","sourcePages":[14],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-14.png"],"evidence":"Visually checked original PDF page 14, including the complete toss-up prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Quadratic coefficients and printed discriminant match: 7²−4(8)(−2)=113.","before":{"number":14,"question":"What is the discriminant of the quadratic polynomial 8x<sup>2</sup> + 7x – 2?","answer":"113","category":"Math","type":"Short Answer","options":[],"notes":[],"question_sanitized":"What is the discriminant of the quadratic polynomial 8x^2 + 7x - 2?"},"changes":{}},
+    {"p":233,"k":"tossups","i":16,"number":17,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[17],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-17.png"],"evidence":"Visually checked original PDF page 17, including the complete toss-up prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Quantum-number wording and printed principle match.","before":{"number":17,"question":"What principle states that two electrons cannot have the same quantum numbers?","answer":"PAULI EXCLUSION PRINCIPLE","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":233,"k":"bonuses","i":1,"number":2,"category":"Math","year":2021,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-02.png"],"evidence":"Visually checked original PDF page 2, including the complete bonus prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Cylinder dimensions and surface-area key match; 2πr²+2πrh=432π.","before":{"number":2,"leadin":"","parts":["A right circular cylinder has height 15 and diameter 18. What is its surface area?"],"answers":["432π"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":233,"k":"bonuses","i":4,"number":5,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including the complete bonus prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Flame-color names, all metals, and the printed matching/acceptance text match the source.","before":{"number":5,"leadin":"","parts":["Match the flame test colors blue, green, and purple to the following three metals or compounds: 1) Boric acid; 2) Potassium; 3) Cesium."],"answers":["1) GREEN; 2) PURPLE; 3) BLUE (ACCEPT: BORIC ACID IS GREEN, POTASSIUM IS PURPLE, CESIUM IS BLUE)"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":233,"k":"bonuses","i":7,"number":8,"category":"Math","year":2021,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-08.png"],"evidence":"Visually checked original PDF page 8, including the complete bonus prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Complete average-value integral prompt and answer match; 24/(8−4)=6.","before":{"number":8,"leadin":"","parts":["If the product of cosine x and sine x is –1/6, what is the value of open parenthesis cosine x minus sine x close parenthesis squared?"],"answers":["4/3 (ACCEPT: 1 1/3)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":233,"k":"bonuses","i":10,"number":11,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including the complete bonus prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. All acid formulas and printed key match; each listed acid is weak.","before":{"number":11,"leadin":"","parts":["Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH<sub>3</sub>COOH; 3) HCN; 4) H<sub>3</sub>PO<sub>4</sub>."],"answers":["ALL"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["Identify all of the following four acids that are considered weak acids: 1) HF; 2) CH₃COOH; 3) HCN; 4) H₃PO₄."]},"changes":{}},
+    {"p":233,"k":"bonuses","i":13,"number":14,"category":"Math","year":2021,"status":"verified","sourcePages":[14],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-14.png"],"evidence":"Visually checked original PDF page 14, including the complete bonus prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. Wrong-operation equation, requested correct operation, and answer match; 4(x−2)=124 gives x=33, then 2(x−4)=58.","before":{"number":14,"leadin":"","parts":["Lloyd is asked by his teacher to subtract 4 from a number and multiply the result by 2. Instead, he subtracts 2 and then multiplies the result by 4, giving him 124. What is the correct answer to the teacher’s question?"],"answers":["58"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":233,"k":"bonuses","i":16,"number":17,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[17],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/233-d-render-17.png"],"evidence":"Visually checked original PDF page 17, including the complete bonus prompt, options/acceptance cues where present, printed key, and all mathematical/chemical notation. All four electrochemical statements and printed key match; a voltaic cell has Ecell>0 and ΔG<0.","before":{"number":17,"leadin":"","parts":["Which of the following statements is true regarding the energetics of electrochemical cells?<br>W) For a voltaic cell, E-cell is positive and delta G is positive<br>X) For a voltaic cell, E-cell is positive and delta G is negative<br>Y) For an electrolytic cell, E-cell is negative and delta G is negative<br>Z) For an electrolytic cell, E-cell is positive and delta G is negative"],"answers":["X) FOR A VOLTAIC CELL, E-CELL IS POSITIVE AND DELTA G IS NEGATIVE"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) For a voltaic cell, E-cell is positive and delta G is positive","X) For a voltaic cell, E-cell is positive and delta G is negative","Y) For an electrolytic cell, E-cell is negative and delta G is negative","Z) For an electrolytic cell, E-cell is positive and delta G is negative"],"notes":[]},"changes":{}},
+    {"p":236,"k":"tossups","i":0,"number":1,"category":"Math","year":2021,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Equation and options match; sixth roots of 64 are the vertices of a regular hexagon.","before":{"number":1,"question":"When graphed in the complex plane, which of the following is the best description of the graph of all the complex solutions to the equation x<sup>6</sup> – 64 = 0?<br>W) One point<br>X) Two points<br>Y) The vertices of a regular hexagon<br>Z) A circle","answer":"Y) THE VERTICES OF A REGULAR HEXAGON","category":"Math","type":"Multiple Choice","options":["W) One point","X) Two points","Y) The vertices of a regular hexagon","Z) A circle"],"notes":[],"question_sanitized":"When graphed in the complex plane, which of the following is the best description of the graph of all the complex solutions to the equation x^6 – 64 = 0?<br>W) One point<br>X) Two points<br>Y) The vertices of a regular hexagon<br>Z) A circle"},"changes":{}},
+    {"p":236,"k":"tossups","i":3,"number":4,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-04.png"],"evidence":"Visually checked original PDF page 4, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Reaction order and quartered concentration match; second-order rate changes by (1/4)^2=1/16.","before":{"number":4,"question":"If a reaction is second order with respect to concentration of A, by what factor would the rate of the reaction be multiplied if the concentration of A were quartered?","answer":"1/16 (ACCEPT: 0.0625)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":236,"k":"tossups","i":6,"number":7,"category":"Math","year":2021,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Cone volume/radius change and key match; doubling radius multiplies volume by four.","before":{"number":7,"question":"The volume of a right circular cone is 12. What is the new volume if the height remains constant and the radius of the base is doubled?","answer":"48","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":236,"k":"tossups","i":9,"number":10,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Ideal-gas pressure/temperature graph wording and Celsius intercept match; extrapolation gives −273°C.","before":{"number":10,"question":"Rishi graphs the pressure exerted by an ideal gas on its chamber on the y-axis and its temperature in degrees Celsius on the x-axis. To the nearest degree Celsius, what is the x-intercept of this graph?","answer":"–273","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":236,"k":"tossups","i":12,"number":13,"category":"Math","year":2021,"status":"verified","sourcePages":[13],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-13.png"],"evidence":"Visually checked original PDF page 13, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Percent wording and answer match; 8=0.25% of 3200.","before":{"number":13,"question":"8 is one-fourth percent of what number?","answer":"3200","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":236,"k":"tossups","i":15,"number":16,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[16],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-16.png"],"evidence":"Visually checked original PDF page 16, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. All thermodynamic options and printed key match; negative ΔG indicates spontaneity.","before":{"number":16,"question":"Which of the following thermodynamic properties necessarily implies that a reaction is spontaneous?<br>W) Negative delta G<br>X) Negative delta H<br>Y) Positive delta S<br>Z) Positive W","answer":"W) NEGATIVE DELTA G","category":"Chemistry","type":"Multiple Choice","options":["W) Negative delta G","X) Negative delta H","Y) Positive delta S","Z) Positive W"],"notes":[]},"changes":{}},
+    {"p":236,"k":"bonuses","i":0,"number":1,"category":"Math","year":2021,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-01.png"],"evidence":"Visually checked original PDF page 1, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Rational function and printed asymptote match; division gives y=2x−6 plus a remainder term tending to zero.","before":{"number":1,"leadin":"","parts":["What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x<sup>2</sup> – 10x and denominator 2x + 1?"],"answers":["y = 2x – 6"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the slope-intercept form of the equation of the slant asymptote of the function f of x equals the fraction with numerator 4x^2 – 10x and denominator 2x + 1?"]},"changes":{}},
+    {"p":236,"k":"bonuses","i":3,"number":4,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-04.png"],"evidence":"Visually checked original PDF page 4, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. All orbital exponents and key match; neutral copper is [Ar]3d10 4s1.","before":{"number":4,"leadin":"","parts":["Which of the following electron configurations is correct for neutral copper?<br>W) [Ar] 4s<sup>2</sup> 3d<sup>9</sup> [A-R-4-s-2-short pause-3-d-9]<br>X) [Ar] 4s<sup>1</sup> 3d<sup>10</sup> [A-R-4-s-1-short pause-3-d-10]<br>Y) [Ar] 3d<sup>11</sup> 3d<sup>9</sup> [A-R-3-d-11-short pause-3-d-9]<br>Z) [Ar] 3d<sup>10</sup> 4p<sup>1</sup> [A-R-3-d-10-short pause-4-p-1]"],"answers":["X) [AR] 4S<sup>1</sup> 3D<sup>10</sup>"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) [Ar] 4s<sup>2</sup> 3d<sup>9</sup> [A-R-4-s-2-short pause-3-d-9]","X) [Ar] 4s<sup>1</sup> 3d<sup>10</sup> [A-R-4-s-1-short pause-3-d-10]","Y) [Ar] 3d<sup>11</sup> 3d<sup>9</sup> [A-R-3-d-11-short pause-3-d-9]","Z) [Ar] 3d<sup>10</sup> 4p<sup>1</sup> [A-R-3-d-10-short pause-4-p-1]"],"notes":[],"parts_sanitized":["Which of the following electron configurations is correct for neutral copper?<br>W) [Ar] 4s^2 3d^9 [A-R-4-s-2-short pause-3-d-9]<br>X) [Ar] 4s^1 3d^10 [A-R-4-s-1-short pause-3-d-10]<br>Y) [Ar] 3d^11 3d^9 [A-R-3-d-11-short pause-3-d-9]<br>Z) [Ar] 3d^10 4p^1 [A-R-3-d-10-short pause-4-p-1]"],"answers_sanitized":["X) [AR] 4S^1 3D^10"]},"changes":{}},
+    {"p":236,"k":"bonuses","i":6,"number":7,"category":"Math","year":2021,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-07.png"],"evidence":"Visually checked original PDF page 7, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Both tangent points, derivative notation, and key match; slope is (−3−6.5)/(9.5+2)=−19/23.","before":{"number":7,"leadin":"","parts":["If the line tangent to the graph of the differentiable function f of x at the point (–2, 6.5) passes through the point (9.5, –3), then what is f prime of x when x = –2?"],"answers":["–19/23"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":236,"k":"bonuses","i":9,"number":10,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-10.png"],"evidence":"Visually checked original PDF page 10, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. All solid choices and key match; calcium hydrogen phosphate is more soluble in acid than pure water.","before":{"number":10,"leadin":"","parts":["Which of the following solids is more soluble in one-molar hydrochloric acid than it is in pure water?<br>W) Barium sulfate<br>X) Barium bromide<br>Y) Calcium hydrogen phosphate<br>Z) Calcium chloride"],"answers":["Y) CALCIUM HYDROGEN PHOSPHATE"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Barium sulfate","X) Barium bromide","Y) Calcium hydrogen phosphate","Z) Calcium chloride"],"notes":[]},"changes":{}},
+    {"p":236,"k":"bonuses","i":12,"number":13,"category":"Math","year":2021,"status":"verified","sourcePages":[13],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-13.png"],"evidence":"Visually checked original PDF page 13, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Direct and inverse proportionalities and accepted forms match; result is 72/25.","before":{"number":13,"leadin":"","parts":["If x is proportional to y and inversely proportional to z<sup>2</sup>, and if x = 3 when y = 4 and z = 8, what is the value of x when y = 6 and z = 10?"],"answers":["72/25 (ACCEPT: 2.88, 2 22/25)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["If x is proportional to y and inversely proportional to z^2, and if x = 3 when y = 4 and z = 8, what is the value of x when y = 6 and z = 10?"]},"changes":{}},
+    {"p":236,"k":"bonuses","i":15,"number":16,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[16],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/236-d-render-16.png"],"evidence":"Visually checked original PDF page 16, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Cell potential, electron count, units, sign instruction, and answer match; −nFE°≈−434 kJ, rounded to −430 kJ.","before":{"number":16,"leadin":"","parts":["A certain electrochemical cell has a standard cell potential of 1.5 volts for a reaction that transfers 3 electrons. To two significant figures and in kilojoules, what is the standard Gibbs free energy change of this cell?"],"answers":["–430 (do not accept: 430)"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":239,"k":"tossups","i":2,"number":3,"category":"Math","year":2021,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Right-triangle segments and key match; altitude is the geometric mean √(7×8)=2√14.","before":{"number":3,"question":"The altitude to the hypotenuse of a right triangle divides the hypotenuse into segments of length 7 and 8. What is the length of the altitude?","answer":"2√14","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":239,"k":"tossups","i":5,"number":6,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Half-reaction potentials, electron counts, and accepted forms match; the stronger reduction is cathodic, so Ecell=1.6−1.5=0.1 V.","before":{"number":6,"question":"The half-reaction for substance A is a five-electron reduction with a standard cell potential of +1.5 volts, while the half-reaction for substance B is a two-electron reduction with a standard cell potential of +1.6 volts. In volts, what would be the electrode potential of a galvanic cell containing these two substances?","answer":"0.1 (ACCEPT: 1/10)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":239,"k":"tossups","i":8,"number":9,"category":"Math","year":2021,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Factor-ranking prompt and key match; 1600’s divisors in descending order begin 1600, 800, 400, 320.","before":{"number":9,"question":"Counting itself, what is the 4th-largest integer factor of 1600?","answer":"320","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":239,"k":"tossups","i":11,"number":12,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Four-carbon stem and accepted short forms match; but- denotes a four-carbon chain.","before":{"number":12,"question":"What IUPAC [EYE-you-pack] stem indicates that a molecule has four carbons?","answer":"BUT (ACCEPT: BUT-)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":239,"k":"tossups","i":14,"number":15,"category":"Math","year":2021,"status":"verified","sourcePages":[15],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-15.png"],"evidence":"Visually checked original PDF page 15, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. Cubic equation and rational-root theorem wording match; positive candidate rational roots range from 1/6 to 10.","before":{"number":15,"question":"According to the rational root theorem, what are the smallest and the largest possible positive rational roots of the equation 6x³ – 9x² – 10 = 0?","answer":"SMALLEST = 1/6, LARGEST = 10","category":"Math","type":"Short Answer","options":[],"notes":[],"question_sanitized":"According to the rational root theorem, what are the smallest and the largest possible positive rational roots of the equation 6x cubed – 9x squared – 10 = 0?"},"changes":{}},
+    {"p":239,"k":"tossups","i":17,"number":18,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[18],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-18.png"],"evidence":"Visually checked original PDF page 18, including the complete toss-up prompt, all choices/accepted forms, printed key, and math/chemical notation. All substance options and printed key match; sucrose dissolves without ionizing.","before":{"number":18,"question":"Nick has an unknown compound that he has determined to be soluble in water and produces a solution that is not electrically conductive. Which of the following might the compound be?<br>W) Sucrose<br>X) Sodium chloride<br>Y) Silicon dioxide<br>Z) Hexane","answer":"W) SUCROSE","category":"Chemistry","type":"Multiple Choice","options":["W) Sucrose","X) Sodium chloride","Y) Silicon dioxide","Z) Hexane"],"notes":[]},"changes":{}},
+    {"p":239,"k":"bonuses","i":8,"number":9,"category":"Math","year":2021,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Circle equation, tangent point, and accepted intercept match; tangent line 4x+3y=25 has y-intercept 25/3.","before":{"number":9,"leadin":"","parts":["What is the y-coordinate of the y-intercept of the line tangent to the circle x² + y² = 25 at the point (4, 3)?"],"answers":["25/3 (ACCEPT: 8 1/3)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the y-coordinate of the y-intercept of the line tangent to the circle x squared + y squared = 25 at the point (4, 3)?"]},"changes":{}},
+    {"p":239,"k":"bonuses","i":11,"number":12,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Cobalt oxidation state, octahedral coordination, and formula/charge match.","before":{"number":12,"leadin":"","parts":["When cobalt (III) ions react with ammonia, they form an octahedral coordination compound. What is the chemical formula and charge of this compound?"],"answers":["[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[],"answers_sanitized":["[Co(NH₃)₆]³⁺"]},"changes":{}},
+    {"p":239,"k":"bonuses","i":14,"number":15,"category":"Math","year":2021,"status":"verified","sourcePages":[15],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-15.png"],"evidence":"Visually checked original PDF page 15, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Distinct-bucket/indistinguishable-object wording and key match; stars and bars gives C(10,3)=120.","before":{"number":15,"leadin":"","parts":["Given 4 distinct buckets and 7 indistinguishable marbles, in how many different distinguishable ways can the marbles be arranged in the buckets?"],"answers":["120"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":239,"k":"bonuses","i":17,"number":18,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[18],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/239-d-render-18.png"],"evidence":"Visually checked original PDF page 18, including the complete bonus prompt, all choices/accepted forms, printed key, and math/chemical notation. Compound name, pronunciation cue, formula, and accepted structural formulas match; ethanamine is C2H7N.","before":{"number":18,"leadin":"","parts":["What is the chemical formula of ethanamine [eth-AN-ah-meen]?"],"answers":["C<sub>2</sub>H<sub>7</sub>N (accept formula in any order of elements, including CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub> and C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>)"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[],"answers_sanitized":["C₂H₇N (accept formula in any order of elements, including CH₃CH₂NH₂ and C₂H₅NH₂)"]},"changes":{}},
+    {"p":242,"k":"tossups","i":2,"number":3,"category":"Chemistry","year":2021,"status":"unresolved","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. All reactant pairs and key match. However, the printed Rb/Cl key conflicts with standard formation enthalpies: KCl formation is more exothermic than RbCl; see source issue.","before":{"number":3,"question":"Which of the following pairs would have the most exothermic reaction?<br>W) Rubidium [roo-BID-ee-um] and chlorine<br>X) Potassium and chlorine<br>Y) Potassium and bromine<br>Z) Rubidium and iodine","answer":"W) RUBIDIUM AND CHLORINE","category":"Chemistry","type":"Multiple Choice","options":["W) Rubidium [roo-BID-ee-um] and chlorine","X) Potassium and chlorine","Y) Potassium and bromine","Z) Rubidium and iodine"],"notes":[]},"changes":{},"sourceIssue":"The printed key selects rubidium and chlorine, but standard enthalpies of formation give KCl(s) a more exothermic formation than RbCl(s). The source does not state a different reaction basis; triage the answer key."},
+    {"p":242,"k":"tossups","i":5,"number":6,"category":"Math","year":2021,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Complex-number product and key match; |1+3i||2−i|=√10√5=5√2.","before":{"number":6,"question":"What is the absolute value of the product of the two complex numbers 1 + 3i and 2 – i?","answer":"5√2","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":242,"k":"tossups","i":8,"number":9,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Unpaired-electron species prompt and accepted form match; the species is a radical.","before":{"number":9,"question":"When oxygen is photolyzed, it breaks into two oxygen atoms with unpaired electrons. What is the term for this type of species?","answer":"FREE RADICAL (ACCEPT: RADICAL)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":242,"k":"tossups","i":11,"number":12,"category":"Math","year":2021,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Function and evaluation point match; derivative of x³eˣ at 2 is 20e².","before":{"number":12,"question":"What is f prime of 2 for the function f of x = x³ times e to the x?","answer":"20e<sup>2</sup>","category":"Math","type":"Short Answer","options":[],"notes":[],"question_sanitized":"What is f prime of 2 for the function f of x = x cubed times e to the x?","answer_sanitized":"20e squared"},"changes":{}},
+    {"p":242,"k":"tossups","i":14,"number":15,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[15],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-15.png"],"evidence":"Visually checked original PDF page 15, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Catalyst choices and printed key match; nickel is commonly used to hydrogenate oils.","before":{"number":15,"question":"Which of the following catalysts is typically used for hydrogenating unsaturated oils?<br>W) Iron<br>X) Vanadium [vah-NAY-dee-um] oxide<br>Y) Copper<br>Z) Nickel","answer":"Z) NICKEL","category":"Chemistry","type":"Multiple Choice","options":["W) Iron","X) Vanadium [vah-NAY-dee-um] oxide","Y) Copper","Z) Nickel"],"notes":[]},"changes":{}},
+    {"p":242,"k":"tossups","i":17,"number":18,"category":"Math","year":2021,"status":"verified","sourcePages":[18],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-18.png"],"evidence":"Visually checked original PDF page 18, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Tournament rules and key match; 158 games is reached when the champion finishes with two losses and all others accrue three.","before":{"number":18,"question":"In a triple-elimination tournament, each game is played by two teams, there are no ties, and teams are eliminated when they have lost 3 times. What is the maximum number of games played if 53 teams enter?","answer":"158","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":242,"k":"bonuses","i":2,"number":3,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Hexaaqua iron(III) stem, all choices, and printed yellow key match; as the prompt asks what color it can appear, the keyed yellow is valid.","before":{"number":3,"leadin":"","parts":["What color can hexa-aqua-iron (III) appear to be in aqueous solution?<br>W) Pink<br>X) Green<br>Y) Yellow<br>Z) Blue"],"answers":["Y) YELLOW"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Pink","X) Green","Y) Yellow","Z) Blue"],"notes":[]},"changes":{}},
+    {"p":242,"k":"bonuses","i":5,"number":6,"category":"Math","year":2021,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Rotation center, point, direction, accepted coordinates, and key match; clockwise rotation gives (11,4).","before":{"number":6,"leadin":"","parts":["What are the coordinates of the image of the point (–7, 6) when it is rotated about the point (1, –4) by 90 degrees clockwise?"],"answers":["(11, 4) (ACCEPT: x = 11 AND y = 4)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":242,"k":"bonuses","i":8,"number":9,"category":"Chemistry","year":2021,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Propene hydrogenation prompt and printed IUPAC name match.","before":{"number":9,"leadin":"","parts":["What is the IUPAC [EYE-you-pack] name of the major organic product of the reaction of propene with hydrogen gas in the presence of Raney nickel?"],"answers":["PROPANE"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":242,"k":"bonuses","i":11,"number":12,"category":"Math","year":2021,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Vector order/components and printed cross product match: (4,−2,−1).","before":{"number":12,"leadin":"","parts":["What is the cross product of vectors i + 3j – 2k and i + 2j?"],"answers":["4i – 2j – k"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":245,"k":"tossups","i":2,"number":3,"category":"Math","year":2022,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Regression coefficient and accepted forms match; the model predicts 1.9 more minutes per additional box.","before":{"number":3,"question":"The least-squares regression line of a trade data set is y = 1.9x + 5.3, where x is the number of boxes shipped and y is the shipping time in minutes. According to this model, how many more minutes will it take the firm to ship one additional box?","answer":"1.9 (ACCEPT: 1 9/10, 19/10)","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":245,"k":"tossups","i":5,"number":6,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Fixed-shape prompt and key match; a solid has fixed volume and shape.","before":{"number":6,"question":"What state of matter has fixed volume and shape?","answer":"SOLID","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":245,"k":"tossups","i":8,"number":9,"category":"Math","year":2022,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Quadratic and key match; discriminant is 36−28=8.","before":{"number":9,"question":"What is the discriminant of the quadratic function y = x<sup>2</sup> – 6x + 7?","answer":"8","category":"Math","type":"Short Answer","options":[],"notes":[],"question_sanitized":"What is the discriminant of the quadratic function y = x^2 – 6x + 7?"},"changes":{}},
+    {"p":245,"k":"tossups","i":11,"number":12,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Distillation choice and printed key match.","before":{"number":12,"question":"What process separates volatiles by differences in boiling point?<br>W) Fractional distillation<br>X) Chromatography<br>Y) NMR spectroscopy<br>Z) Mass spectrometry","answer":"W) FRACTIONAL DISTILLATION","category":"Chemistry","type":"Multiple Choice","options":["W) Fractional distillation","X) Chromatography","Y) NMR spectroscopy","Z) Mass spectrometry"],"notes":[]},"changes":{}},
+    {"p":245,"k":"bonuses","i":2,"number":3,"category":"Math","year":2022,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Sequence terms and answer match; (31−7)/(8−4)=6.","before":{"number":3,"leadin":"","parts":["An arithmetic sequence has fourth term 7 and eighth term 31. What is the positive difference between consecutive terms for the sequence?"],"answers":["6"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":245,"k":"bonuses","i":5,"number":6,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Bound-electron transition and accepted synonyms match; this is ionization energy.","before":{"number":6,"leadin":"","parts":["The energy required to make the n equals one to n equals infinity transition for a bound electron is also known as what?"],"answers":["IONIZATION ENERGY (ACCEPT: IONIZATION)"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":245,"k":"bonuses","i":8,"number":9,"category":"Math","year":2022,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Ladder height, hypotenuse, choices, and key match; opposite/hypotenuse gives inverse sine.","before":{"number":9,"leadin":"","parts":["A 12-foot ladder leans against a vertical wall. If the height on the wall where the top of the ladder touches is known, what inverse trig function could most directly be used to find the angle that the ladder makes with the ground?<br>W) Inverse cosine<br>X) Inverse cotangent<br>Y) Inverse sine<br>Z) Inverse tangent"],"answers":["Y) INVERSE SINE"],"category":"Math","values":[10],"type":"Multiple Choice","options":["W) Inverse cosine","X) Inverse cotangent","Y) Inverse sine","Z) Inverse tangent"],"notes":[]},"changes":{}},
+    {"p":245,"k":"bonuses","i":11,"number":12,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Term, pronunciation cue, choices, and key match; polarizability is ease of cloud distortion.","before":{"number":12,"leadin":"","parts":["What is the term for the ease of distortion of an electron cloud by an external entity?<br>W) Ionizability [ionize-ah-BIL-ih-tee]<br>X) Polarizability [polar-eyes-ah-BIL-itee]<br>Y) Hydrophilicity<br>Z) Hardness"],"answers":["X) POLARIZABILITY"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Ionizability [ionize-ah-BIL-ih-tee]","X) Polarizability [polar-eyes-ah-BIL-itee]","Y) Hydrophilicity","Z) Hardness"],"notes":[]},"changes":{}},
+    {"p":245,"k":"bonuses","i":14,"number":15,"category":"Math","year":2022,"status":"verified","sourcePages":[15],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-15.png"],"evidence":"Visually checked original PDF page 15, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. Polynomial and evaluation point match; f(1)=−3.","before":{"number":15,"leadin":"","parts":["What is the integral from 1 to 4 of open parenthesis x<sup>2</sup> + 2 close parenthesis dx?"],"answers":["27"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the integral from 1 to 4 of open parenthesis x^2 + 2 close parenthesis dx?"]},"changes":{}},
+    {"p":245,"k":"bonuses","i":17,"number":18,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[18],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/245-d-render-18.png"],"evidence":"Visually checked original PDF page 18, including the complete bonus prompt, all options/acceptance text, printed key, and mathematical/chemical notation. All four reaction statements and the printed key match; Ag+ is consumed in AgCl precipitate formation, not a spectator.","before":{"number":18,"leadin":"","parts":["Which of the following is NOT true for the reaction between silver nitrate and sodium chloride in solution?<br>W) Nitrate ion is not included in the net ionic equation<br>X) Silver ion is a spectator ion<br>Y) Silver chloride precipitates<br>Z) One mole of sodium nitrate is produced per mole of silver nitrate reacted"],"answers":["X) SILVER ION IS A SPECTATOR ION"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Nitrate ion is not included in the net ionic equation","X) Silver ion is a spectator ion","Y) Silver chloride precipitates","Z) One mole of sodium nitrate is produced per mole of silver nitrate reacted"],"notes":[]},"changes":{}},
+    {"p":248,"k":"tossups","i":2,"number":3,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. All polymer options and printed key match; polyethers can be formed by SN2 ether-forming polymerization.","before":{"number":3,"question":"Which of the following types of polymers is made via SN2?<br>W) Polyether<br>X) Polyamide<br>Y) PVC<br>Z) Paraformaldehyde","answer":"W) POLYETHER","category":"Chemistry","type":"Multiple Choice","options":["W) Polyether","X) Polyamide","Y) PVC","Z) Paraformaldehyde"],"notes":[]},"changes":{}},
+    {"p":248,"k":"tossups","i":5,"number":6,"category":"Math","year":2022,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Function, derivative marker, and key match; d²/dx² cos(3x)=−9cos(3x), amplitude 9.","before":{"number":6,"question":"What is the amplitude of the graph of y = the second derivative of cosine of 3x?","answer":"9","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":248,"k":"tossups","i":8,"number":9,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Precipitation-reaction terminology and key match.","before":{"number":9,"question":"What is the term for the ions that appear on both sides of an equation during a precipitation reaction?","answer":"SPECTATOR IONS","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":248,"k":"tossups","i":11,"number":12,"category":"Math","year":2022,"status":"unresolved","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Triangle side length and printed key match. The altitude of an equilateral triangle of side 42 is 21√3, not the printed 26; see source issue.","before":{"number":12,"question":"What is the altitude of an equilateral triangle with sides of length 42?","answer":"26","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{},"sourceIssue":"The printed answer 26 conflicts with the geometry: the altitude of an equilateral triangle of side 42 is 21√3≈36.37. Flag for source answer-key correction."},
+    {"p":248,"k":"tossups","i":14,"number":15,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[15],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-15.png"],"evidence":"Visually checked original PDF page 15, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. The mass-spectrometer stem, options, and key match the source; mass-to-charge ratio is the reciprocal of Thomson’s e/m result.","before":{"number":15,"question":"J.J. Thomson invented a prototype mass spectrometer that enabled him to measure what property of the electron?<br>W) Mass<br>X) Spin<br>Y) Mass-to-charge ratio<br>Z) Excited state lifetime","answer":"Y) MASS-TO-CHARGE RATIO","category":"Chemistry","type":"Multiple Choice","options":["W) Mass","X) Spin","Y) Mass-to-charge ratio","Z) Excited state lifetime"],"notes":[]},"changes":{},"sourceIssue":"Wording caveat: Thomson’s electron result is conventionally stated as charge-to-mass ratio (e/m); mass-to-charge ratio is its reciprocal, so the source appears to refer to the same property with reciprocal terminology.","sourceIssueKind":"wording-caveat"},
+    {"p":248,"k":"tossups","i":17,"number":18,"category":"Math","year":2022,"status":"verified","sourcePages":[18],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-18.png"],"evidence":"Visually checked original PDF page 18, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Four-digit permutation prompt and key match; the distinct valid arrangements are 2002, 2020, and 2200.","before":{"number":18,"question":"How many four-digit numbers have exactly the same digits as 2020?","answer":"3","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":248,"k":"bonuses","i":2,"number":3,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[3],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-03.png"],"evidence":"Visually checked original PDF page 3, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Lattice types, requested distance order, and key match for equal lattice parameter.","before":{"number":3,"leadin":"","parts":["Rank the following three cubic lattices in order of increasing nearest-neighbor distance: 1) FCC; 2) BCC; 3) Simple cubic."],"answers":["1, 2, 3"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":248,"k":"bonuses","i":5,"number":6,"category":"Math","year":2022,"status":"verified","sourcePages":[6],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-06.png"],"evidence":"Visually checked original PDF page 6, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Point-count assumptions and answer match; 91 pair-lines minus duplicate collinear triples gives 84.","before":{"number":6,"leadin":"","parts":["A set of 14 points has 3 that are collinear and another 4 that are collinear. Otherwise, no three points in the set are collinear. How many lines contain at least two of the 14 points?"],"answers":["84"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":248,"k":"bonuses","i":8,"number":9,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[9],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-09.png"],"evidence":"Visually checked original PDF page 9, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. SN2 leaving-group choices and key match; iodide is the best leaving group.","before":{"number":9,"leadin":"","parts":["Which of the following halides is the best leaving group in an S<sub>N</sub>2 reaction?<br>W) Fluoride<br>X) Chloride<br>Y) Bromide<br>Z) Iodide"],"answers":["Z) IODIDE"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Fluoride","X) Chloride","Y) Bromide","Z) Iodide"],"notes":[],"parts_sanitized":["Which of the following halides is the best leaving group in an SN2 reaction?\\nW) Fluoride\\nX) Chloride\\nY) Bromide\\nZ) Iodide"]},"changes":{}},
+    {"p":248,"k":"bonuses","i":11,"number":12,"category":"Math","year":2022,"status":"verified","sourcePages":[12],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-12.png"],"evidence":"Visually checked original PDF page 12, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Repeating block and answer match; 0.3+0.0181818…=7/22.","before":{"number":12,"leadin":"","parts":["Express as a fraction the repeating decimal 0.3181818, with repeating part one-eight."],"answers":["7/22"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":248,"k":"bonuses","i":14,"number":15,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[15],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-15.png"],"evidence":"Visually checked original PDF page 15, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Atomic numbers and answer match; increasing electronegativity is K<Ca<Sc.","before":{"number":15,"leadin":"","parts":["Rank the following three elements in order of increasing electronegativity: 1) Scandium; 2) Calcium; 3) Potassium."],"answers":["3, 2, 1"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":248,"k":"bonuses","i":17,"number":18,"category":"Math","year":2022,"status":"verified","sourcePages":[18],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-18.png"],"evidence":"Visually checked original PDF page 18, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Marble counts, event wording, and answer match; only 2/39 of draws are monochromatic, so the complement is 38/39.","before":{"number":18,"leadin":"","parts":["A jar contains 8 blue marbles and 8 red marbles. Five marbles are drawn without replacement. What is the probability that the 5 marbles drawn are NOT all the same color?"],"answers":["38/39"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":251,"k":"tossups","i":7,"number":8,"category":"Math","year":2022,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-08.png"],"evidence":"Visually checked original PDF page 8, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Continuity/differentiability interval, all options, and key match; 5 lies in the guaranteed open interval (4,7).","before":{"number":8,"question":"Let f of x be a continuous and differentiable function on the closed interval from 4 to 7. Which of the following could be the x-value guaranteed by the mean value theorem for this situation?<br>W) 3<br>X) 5<br>Y) 7<br>Z) 9","answer":"X) 5","category":"Math","type":"Multiple Choice","options":["W) 3","X) 5","Y) 7","Z) 9"],"notes":[]},"changes":{}},
+    {"p":251,"k":"tossups","i":10,"number":11,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Polymer choices and printed key match; amylose is an α-D-glucose polymer.","before":{"number":11,"question":"Which of the following polymers is made of alpha-D-glucose monomers?<br>W) Cellulose<br>X) Amylose<br>Y) Cellobiose<br>Z) Chitin","answer":"X) AMYLOSE","category":"Chemistry","type":"Multiple Choice","options":["W) Cellulose","X) Amylose","Y) Cellobiose","Z) Chitin"],"notes":[]},"changes":{}},
+    {"p":251,"k":"tossups","i":13,"number":14,"category":"Math","year":2022,"status":"verified","sourcePages":[14],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-14.png"],"evidence":"Visually checked original PDF page 14, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Line points and accepted equation match; slope is −2 and the line passes through the origin.","before":{"number":14,"question":"The graph of a line passes through the origin and the point (–3, 6). What is the slope-intercept equation of the line?","answer":"y = –2x (ACCEPT: y = –2x + 0)","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":251,"k":"tossups","i":16,"number":17,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[17],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-17.png"],"evidence":"Visually checked original PDF page 17, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Enthalpy/entropy signs, all choices, and key match; ΔH<0 and ΔS>0 make ΔG<0 at all T.","before":{"number":17,"question":"Consider a reaction that has a negative enthalpy of reaction, and a positive change in entropy. Under what conditions will the reaction occur spontaneously?<br>W) Never spontaneous<br>X) Always spontaneous<br>Y) Only at low temperatures<br>Z) Only at high temperatures","answer":"X) ALWAYS SPONTANEOUS","category":"Chemistry","type":"Multiple Choice","options":["W) Never spontaneous","X) Always spontaneous","Y) Only at low temperatures","Z) Only at high temperatures"],"notes":[]},"changes":{}},
+    {"p":251,"k":"bonuses","i":1,"number":2,"category":"Math","year":2022,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-02.png"],"evidence":"Visually checked original PDF page 2, including complete bonus prompt, accepted answer, and printed key. The independent best-of-three probability and printed 0.028 (7/250, 2.8%) answer match: p²+2p²q=0.01+0.018=0.028.","before":{"number":2,"leadin":"","parts":["Teams A and B are playing dodgeball. Team A has a 10% chance of winning each individual game, and all games are independent. What is the probability that team A wins a best-of-three series?"],"answers":["0.028 (ACCEPT: 7/250, 2.8%)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":251,"k":"bonuses","i":4,"number":5,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-05.png"],"evidence":"Visually checked original PDF page 5, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Indicator options and key match; phenol red has an appropriate transition near the strong acid–strong base equivalence point.","before":{"number":5,"leadin":"","parts":["Which of the following indicators would be most useful for a strong base-strong acid titration [tie-TRAY-shun]?<br>W) Phenol red<br>X) Methyl [METH-il] red<br>Y) Methyl orange<br>Z) Phenolphthalein [fee-nawlf-THAY-leen]"],"answers":["W) PHENOL RED"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Phenol red","X) Methyl [METH-il] red","Y) Methyl orange","Z) Phenolphthalein [fee-nawlf-THAY-leen]"],"notes":[]},"changes":{}},
+    {"p":251,"k":"bonuses","i":7,"number":8,"category":"Math","year":2022,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-08.png"],"evidence":"Visually checked original PDF page 8, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Function, interval, and key match; the integral average on [1,4] is 22.","before":{"number":8,"leadin":"","parts":["What is the average value of the function f of x equals x<sup>2</sup> + 6x over the interval from one to four?"],"answers":["22"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["What is the average value of the function f of x equals x^2 + 6x over the interval from one to four?"]},"changes":{}},
+    {"p":251,"k":"bonuses","i":10,"number":11,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-11.png"],"evidence":"Visually checked original PDF page 11, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. All four functional-group names and key match; carboxylic acid, aldehyde, and amide have C=O.","before":{"number":11,"leadin":"","parts":["Identify all of the following four functional groups that contain a carbon double-bonded to an oxygen: 1) Carboxylic [CAR-box-ILL-ik] acid; 2) Ether [EE-thur]; 3) Aldehyde [AL-deh-hide]; 4) Amide."],"answers":["1, 3, 4"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":251,"k":"bonuses","i":13,"number":14,"category":"Math","year":2022,"status":"verified","sourcePages":[14],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-14.png"],"evidence":"Visually checked original PDF page 14, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Rational expression and answer match; it simplifies to x−4 for x≠3, omitting −1 from the range.","before":{"number":14,"leadin":"","parts":["What is the range of the function f of x equals <span class=\"nsb-fraction\"><span>x<sup>2</sup> – 7x + 12</span><span>x – 3</span></span>?<br>W) All real numbers<br>X) All real numbers except –1<br>Y) All real numbers except 3<br>Z) All real numbers except 4"],"answers":["X) ALL REAL NUMBERS EXCEPT –1"],"category":"Math","values":[10],"type":"Multiple Choice","options":["W) All real numbers","X) All real numbers except –1","Y) All real numbers except 3","Z) All real numbers except 4"],"notes":[],"parts_sanitized":["What is the range of the function f of x equals the fraction (x^2 - 7x + 12)/(x - 3)?<br>W) All real numbers<br>X) All real numbers except –1<br>Y) All real numbers except 3<br>Z) All real numbers except 4"]},"changes":{}},
+    {"p":251,"k":"bonuses","i":16,"number":17,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[17],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/251-d-render-17.png"],"evidence":"Visually checked original PDF page 17, including complete bonus prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Element ordering and key match; first ionization energies increase Kr < F < Ne.","before":{"number":17,"leadin":"","parts":["Rank the following three elements in order of increasing ionization energy: 1) Krypton; 2) Neon; 3) Fluorine."],"answers":["1, 3, 2"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":254,"k":"tossups","i":0,"number":1,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-01.png"],"evidence":"Visually checked original PDF page 1, the full toss-up and bonus. Energy scales as L^−2 for a one-dimensional box; the printed answer “negative two” matches.","before":{"number":1,"question":"The energy of a given level for a one-dimensional particle-in-a-box is proportional to the length of the box raised to what power?","answer":"NEGATIVE TWO","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":254,"k":"tossups","i":3,"number":4,"category":"Math","year":2022,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-04.png"],"evidence":"Visually checked original PDF page 4, full prompt, all choices and printed key. One standard deviation above the mean is about the 84th percentile; key Y) 84 matches.","before":{"number":4,"question":"In data that are normally distributed, an observation that is one standard deviation above the mean is closest to which of the following percentiles?<br>W) 34<br>X) 68<br>Y) 84<br>Z) 95","answer":"Y) 84","category":"Math","type":"Multiple Choice","options":["W) 34","X) 68","Y) 84","Z) 95"],"notes":[]},"changes":{}},
+    {"p":254,"k":"tossups","i":6,"number":7,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-07.png"],"evidence":"Visually checked original PDF page 7, full prompt, all choices and printed key. Iodide is the most polarizable listed ion; key W matches.","before":{"number":7,"question":"Which of the following ions has the largest polarizability?<br>W) Iodide<br>X) Chloride<br>Y) Bromide<br>Z) Fluoride","answer":"W) IODIDE","category":"Chemistry","type":"Multiple Choice","options":["W) Iodide","X) Chloride","Y) Bromide","Z) Fluoride"],"notes":[]},"changes":{}},
+    {"p":254,"k":"tossups","i":9,"number":10,"category":"Math","year":2022,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-10.png"],"evidence":"Visually checked original PDF page 10, full polynomial expression and printed key. The x³ terms contribute 14−6=8; key matches.","before":{"number":10,"question":"What is the coefficient of the x<sup>3</sup> term in the product of the following two quadratic polynomials: 2x<sup>2</sup> – 6x + 7 and x<sup>2</sup> + 7x – 2?","answer":"8","category":"Math","type":"Short Answer","options":[],"notes":[],"question_sanitized":"What is the coefficient of the x^3 term in the product of the following two quadratic polynomials: 2x^2 – 6x + 7 and x^2 + 7x – 2?"},"changes":{}},
+    {"p":254,"k":"tossups","i":12,"number":13,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[13],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-13.png"],"evidence":"Visually checked original PDF page 13, complete reaction and printed answer. The source specifies the decomposition of N₂O₄ and accepts “one” or “first”; transcription and key match.","before":{"number":13,"question":"What is the order of the reaction N<sub>2</sub>O<sub>4</sub> yields 2NO<sub>2</sub>?","answer":"ONE (ACCEPT: FIRST)","category":"Chemistry","type":"Short Answer","options":[],"notes":[],"question_sanitized":"What is the order of the reaction N₂O₄ yields 2NO₂?"},"changes":{}},
+    {"p":254,"k":"tossups","i":15,"number":16,"category":"Math","year":2022,"status":"verified","sourcePages":[16],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-16.png"],"evidence":"Visually checked original PDF page 16, full divisibility conditions and printed answer. Multiples of lcm(6,8)=24 below 222 are 9; key matches.","before":{"number":16,"question":"How many positive integers less than 222 are divisible by 6 and by 8?","answer":"9","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":254,"k":"bonuses","i":0,"number":1,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[1],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-01.png"],"evidence":"Visually checked original PDF page 1, the full toss-up and bonus, options and printed key. The Sackur–Tetrode relation gives entropy proportional to ln Ω; the keyed logarithm is correct.","before":{"number":1,"leadin":"","parts":["The entropy of a system is directly proportional to which of the following quantities?<br>W) The number of microstates<br>X) The square of the number of microstates<br>Y) The square root of the number of microstates<br>Z) The log of the number of microstates"],"answers":["Z) THE LOG OF THE NUMBER OF MICROSTATES"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) The number of microstates","X) The square of the number of microstates","Y) The square root of the number of microstates","Z) The log of the number of microstates"],"notes":[]},"changes":{}},
+    {"p":254,"k":"bonuses","i":3,"number":4,"category":"Math","year":2022,"status":"verified","sourcePages":[4],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-04.png"],"evidence":"Visually checked original PDF page 4, full prompt, all listed points and printed answer. Substitution into the parametric equations shows points 1 and 3 lie on the line; key 1, 3 matches.","before":{"number":4,"leadin":"","parts":["Identify all of the following three points that lie on the line with parametric equations x = 3t – 1, y = –2t + 5, and z = 4t + 3: 1) (11, –3, 19); 2) (5, 1, 8); 3) (–10, 11, –9)."],"answers":["1, 3"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":254,"k":"bonuses","i":6,"number":7,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[7],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-07.png"],"evidence":"Visually checked original PDF page 7, full prompt, all choices and printed key. The source identifies exothermic dissolution as the explanation and keys W; the quiz prompt and answer match.","before":{"number":7,"leadin":"","parts":["Which of the following best explains why calcium sulfate becomes less soluble in water as temperature rises?<br>W) Its dissolution is exothermic<br>X) Combination reactions become faster at higher temperatures than decomposition reactions<br>Y) Different hydrates form at higher temperatures, which are less soluble in water<br>Z) Calcium sulfate decomposes at high temperatures into an insoluble compound"],"answers":["W) ITS DISSOLUTION IS EXOTHERMIC"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Its dissolution is exothermic","X) Combination reactions become faster at higher temperatures than decomposition reactions","Y) Different hydrates form at higher temperatures, which are less soluble in water","Z) Calcium sulfate decomposes at high temperatures into an insoluble compound"],"notes":[]},"changes":{}},
+    {"p":254,"k":"bonuses","i":9,"number":10,"category":"Math","year":2022,"status":"verified","sourcePages":[10],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-10.png"],"evidence":"Visually checked original PDF page 10, both vectors and accepted forms. Their dot product is 12 and magnitude product is 30, giving cosine 2/5=0.4 as printed.","before":{"number":10,"leadin":"","parts":["What is the cosine of the angle between the vectors 5i + 4j + 2k and 4i – 2j ?"],"answers":["2/5 (ACCEPT: 0.4)"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":254,"k":"bonuses","i":12,"number":13,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[13],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-13.png"],"evidence":"Visually checked original PDF page 13, all three equations and printed answer. The equations/options and “none” answer match the quiz’s dimensional Kc convention.","before":{"number":13,"leadin":"","parts":["Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S<sub>8</sub> + F<sub>2</sub> yields SF<sub>6</sub>; 2) Zn + HCl yields ZnCl<sub>2</sub> + H<sub>2</sub>; 3) P<sub>4</sub>O<sub>10</sub> + H<sub>2</sub>O yields H<sub>3</sub>PO<sub>4</sub>."],"answers":["NONE"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["Identify all of the following three reactions that have a dimensionless equilibrium constant: 1) S₈ + F₂ yields SF₆; 2) Zn + HCl yields ZnCl₂ + H₂; 3) P₄O₁₀ + H₂O yields H₃PO₄."]},"changes":{}},
+    {"p":254,"k":"bonuses","i":15,"number":16,"category":"Math","year":2022,"status":"verified","sourcePages":[16],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/254-d-render-16.png"],"evidence":"Visually checked original PDF page 16, all triangle sides and printed answer. The inradius is (12+35−37)/2=5; key matches.","before":{"number":16,"leadin":"","parts":["What is the radius of a circle inscribed in a right triangle with sides of length 12, 35, and 37?"],"answers":["5"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":257,"k":"tossups","i":1,"number":2,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-02.png"],"evidence":"Visually checked original PDF page 2, full reaction sequence and printed answer including accepted isomer names. Nitration, reduction to toluidine and Sandmeyer bromination are transcribed as shown; the source keys 4-bromotoluene.","before":{"number":2,"question":"Toluene is reacted with nitric acid and sulfuric acid at high temperature, then purified. The purified product is reacted with hydrogen gas with a palladium-on-carbon catalyst, then a Sandmeyer reaction is performed on the product with copper bromide. What is the name of the organic product of this series of reactions?","answer":"4-BROMO-TOLUENE (ACCEPT: p- BROMOTOLUENE, 1-BROMO-4-METHYLBENZENE, 4- METHYLBROMOBENZENE)","category":"Chemistry","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":257,"k":"tossups","i":4,"number":5,"category":"Math","year":2022,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-05.png"],"evidence":"Visually checked original PDF page 5, full polygon prompt and printed answer. A 15-gon has 15(15−3)/2=90 diagonals; key matches.","before":{"number":5,"question":"How many diagonals does a 15-sided convex polygon have?","answer":"90","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":257,"k":"tossups","i":7,"number":8,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[8],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-08.png"],"evidence":"Visually checked original PDF page 8, full choices and printed key. Among the listed functionalities the carboxylic-acid carbon is the most oxidized; key Y matches.","before":{"number":8,"question":"Which of the following organic functionalities is considered the most oxidized carbon atom?<br>W) Alcohol<br>X) Aldehyde [AL-deh-hide]<br>Y) Carboxylic [CAR-box-ILL-ik] acid<br>Z) Ether [EE-thur]","answer":"Y) CARBOXYLIC ACID","category":"Chemistry","type":"Multiple Choice","options":["W) Alcohol","X) Aldehyde [AL-deh-hide]","Y) Carboxylic [CAR-box-ILL-ik] acid","Z) Ether [EE-thur]"],"notes":[]},"changes":{}},
+    {"p":257,"k":"tossups","i":10,"number":11,"category":"Math","year":2022,"status":"verified","sourcePages":[11],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-11.png"],"evidence":"Visually checked original PDF page 11, full right-triangle dimensions, rotation axis and printed answer. The rotation makes a cone of radius 6 and height 4, volume 48π.","before":{"number":11,"question":"A right triangular region has a leg of length 4 lying along the x-axis, and its other leg is of length 6. If the region is rotated about the x-axis, what is the volume of the resulting shape?","answer":"48π","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":257,"k":"tossups","i":13,"number":14,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[14],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-14.png"],"evidence":"Visually checked original PDF page 14, all choices and printed key. Aniline contains an amino group; key Y matches.","before":{"number":14,"question":"Which of the following benzene derivatives contains an amino group?<br>W) Phenol<br>X) Anisole<br>Y) Aniline [AN-ih-lin]<br>Z) Benzonitrile [benzo-NYE-trial]","answer":"Y) ANILINE","category":"Chemistry","type":"Multiple Choice","options":["W) Phenol","X) Anisole","Y) Aniline [AN-ih-lin]","Z) Benzonitrile [benzo-NYE-trial]"],"notes":[]},"changes":{}},
+    {"p":257,"k":"tossups","i":16,"number":17,"category":"Math","year":2022,"status":"verified","sourcePages":[17],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-17.png"],"evidence":"Visually checked original PDF page 17, complete prime-number prompt and printed answer. The relevant primes are 89 and 97; their sum 186 matches.","before":{"number":17,"question":"What is the sum of the largest prime number less than 90 and the smallest prime number greater than 90?","answer":"186","category":"Math","type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":257,"k":"bonuses","i":1,"number":2,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[2],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-02.png"],"evidence":"Visually checked original PDF page 2, complete prompt, all four options and printed key. Alkaline permanganate addition to an alkene produces a vicinal diol; key Y matches.","before":{"number":2,"leadin":"","parts":["Which of the following functional groups will be produced if an alkene is exposed to potassium permanganate under alkaline conditions?<br>W) Ketone<br>X) Aldehyde<br>Y) Diol<br>Z) Carboxylic acid"],"answers":["Y) DIOL"],"category":"Chemistry","values":[10],"type":"Multiple Choice","options":["W) Ketone","X) Aldehyde","Y) Diol","Z) Carboxylic acid"],"notes":[]},"changes":{}},
+    {"p":257,"k":"bonuses","i":4,"number":5,"category":"Math","year":2022,"status":"verified","sourcePages":[5],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-05.png"],"evidence":"Visually checked original PDF page 5, full grouping prompt and printed answer. Combinations with repetition give C(15,3)=455; key matches.","before":{"number":5,"leadin":"","parts":["A special at a restaurant allows you to get any 3 of 13 possible items, and allows duplicates of the same item. How many different groups of 3 items could you get with this special?"],"answers":["455"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":257,"k":"bonuses","i":13,"number":14,"category":"Chemistry","year":2022,"status":"verified","sourcePages":[14],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-14.png"],"evidence":"Visually checked original PDF page 14, all substances and printed ordering. Ethane < propane < butane in boiling point; key 2, 3, 1 matches.","before":{"number":14,"leadin":"","parts":["Rank the following three substances in order of increasing boiling point: 1) Butane; 2) Ethane; 3) Propane."],"answers":["2, 3, 1"],"category":"Chemistry","values":[10],"type":"Short Answer","options":[],"notes":[]},"changes":{}},
+    {"p":257,"k":"bonuses","i":16,"number":17,"category":"Math","year":2022,"status":"verified","sourcePages":[17],"imagePaths":["/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/257-d-render-17.png"],"evidence":"Visually checked original PDF page 17, integral notation, limits, cosine value and printed answer. Substitution u=x⁴ gives (1−cos16)/4≈0.4894, which rounds to 0.49.","before":{"number":17,"leadin":"","parts":["Given that cosine of 16 equals −0.9577, and expressing your answer to two decimal places, what is the integral from 0 to 2 of x<sup>3</sup> sine of open parenthesis x<sup>4</sup> close parenthesis dx?"],"answers":["0.49"],"category":"Math","values":[10],"type":"Short Answer","options":[],"notes":[],"parts_sanitized":["Given that cosine of 16 equals −0.9577, and expressing your answer to two decimal places, what is the integral from 0 to 2 of x^3 sine of open parenthesis x^4 close parenthesis dx?"]},"changes":{}}
+  ]
+}

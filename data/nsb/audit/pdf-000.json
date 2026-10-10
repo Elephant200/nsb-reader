@@ -33,11 +33,18 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "PDF page 2 prints 2 angles summing to 90º and answer COMPLEMENTARY; wording and answer match."
+      "evidence": "Page 2 visibly uses the degree mark in “What term BEST describes 2 angles with 90º as the sum of their measurements?” / “COMPLEMENTARY”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "What term BEST describes 2 angles with 90º as the sum of their measurements?"
+      },
+      "changes": {
+        "question": "What term BEST describes 2 angles with 90° as the sum of their measurements?",
+        "question_sanitized": "What term BEST describes 2 angles with 90° as the sum of their measurements?"
+      }
     },
     {
       "kind": "tossups",
@@ -373,15 +380,24 @@
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6 prints the answer 5√2 and accepts both sides as 5√2; corpus lost the radical glyph.",
+      "evidence": "Page 6 visibly uses the degree mark in “Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90º triangle is 10 inc…” / “5√2 (ACCEPT: BOTH 5√2)”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
       "before": {
         "answers": [
           "5 2 (ACCEPT: BOTH 5 2 )"
+        ],
+        "parts": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90º triangle is 10 inches, find the length of the other sides:"
         ]
       },
       "changes": {
         "answers": [
           "5√2 (ACCEPT: BOTH 5√2)"
+        ],
+        "parts": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90° triangle is 10 inches, find the length of the other sides:"
+        ],
+        "parts_sanitized": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90° triangle is 10 inches, find the length of the other sides:"
         ]
       }
     },

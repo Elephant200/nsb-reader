@@ -320,11 +320,24 @@
       "kind": "bonuses",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Matched bonus 11 to Round 6 page 6 by printed number and wording; compared the complete prompt/part, choices where present, and answer against the rendered page."
+      "evidence": "Visually checked original PDF page 6: bonus asks which scientist carefully documented oxygen discovery; printed answer key misspells the name as PRIESTLY. Normalized that source spelling to PRIESTLEY; checked complete prompt and answer.",
+      "before": {
+        "answers": [
+          "PRIESTLY"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "PRIESTLEY"
+        ],
+        "answers_sanitized": [
+          "PRIESTLEY"
+        ]
+      }
     },
     {
       "kind": "bonuses",

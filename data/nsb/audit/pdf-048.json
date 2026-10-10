@@ -76,11 +76,21 @@
       "kind": "tossups",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 4; the corpus record agrees."
+      "evidence": "Page 4 visibly uses the degree mark in “Which of the following ionic compounds would have the highest melting point:W) NaFX) NaClY) CaF2Z) MgO” / “Z) MgO”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "notes": [
+          "(Solution: NaF = 993ºC; NaCl = 801; CaF<sub>2</sub> = 1423; MgO = 2800ºC)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: NaF = 993°C; NaCl = 801; CaF<sub>2</sub> = 1423; MgO = 2800°C)"
+        ]
+      }
     },
     {
       "kind": "tossups",
@@ -467,11 +477,24 @@
       "kind": "bonuses",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared the complete printed stem, answer, choices where present, and notes on source page 6; the corpus record agrees."
+      "evidence": "Page 6 visibly uses the degree mark in “For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45º, find the area of the tri…” / “17”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45º, find the area of the triangle, to the nearest whole number:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45°, find the area of the triangle, to the nearest whole number:"
+        ],
+        "parts_sanitized": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45°, find the area of the triangle, to the nearest whole number:"
+        ]
+      }
     },
     {
       "kind": "bonuses",

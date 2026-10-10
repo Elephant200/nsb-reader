@@ -58,11 +58,21 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2; visually checked notation and compared the complete record."
+      "evidence": "Page 2 visibly uses the degree mark in “A circle has a radius of 8 centimeters. Find the central angle, in degrees, of a sector of a circle if its arc…” / “45”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "notes": [
+          "(Solution: arc/circumference = n/360; n = 45º)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: arc/circumference = n/360; n = 45°)"
+        ]
+      }
     },
     {
       "kind": "tossups",
@@ -168,11 +178,18 @@
       "kind": "tossups",
       "itemIndex": 14,
       "number": 15,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 8; wording matches."
+      "evidence": "Page 8 visibly uses the degree mark in “Predict the bond angle or shape for the central atom in a molecule of beryllium dichloride:” / “180º (ACCEPT: LINEAR)”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "answer": "180º (ACCEPT: LINEAR)"
+      },
+      "changes": {
+        "answer": "180° (ACCEPT: LINEAR)",
+        "answer_sanitized": "180° (ACCEPT: LINEAR)"
+      }
     },
     {
       "kind": "tossups",

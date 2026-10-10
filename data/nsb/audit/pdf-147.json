@@ -106,12 +106,28 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Rendered PDF page 5 shows toss-up 10; printed answer is X) RED PHOSPHOROUS.",
+      "evidence": "Visually checked complete original PDF page 5, including the P4 subscript, all choices, and key. The source spells the element name as ‘phosphorous’ in the prompt, all four options, and the keyed answer. This is a clear spelling error; normalized those occurrences to ‘phosphorus’. The precipitation bonus keys only reaction 1, barium sulfate. The matched baseline spellings are replaced with standard phosphorus spelling.",
       "before": {
-        "question": "Which of the following allotropes of phosphorous consists of chains of covalently-linked P4 tetrahedra?<br>W) White phosphorous<br>X) Red phosphorous<br>Y) Black phosphorous<br>Z) Violet phosphorous"
+        "question": "Which of the following allotropes of phosphorous consists of chains of covalently-linked P4 tetrahedra?<br>W) White phosphorous<br>X) Red phosphorous<br>Y) Black phosphorous<br>Z) Violet phosphorous",
+        "options": [
+          "W) White phosphorous",
+          "X) Red phosphorous",
+          "Y) Black phosphorous",
+          "Z) Violet phosphorous"
+        ],
+        "answer": "X) RED PHOSPHOROUS"
       },
       "changes": {
-        "question": "Which of the following allotropes of phosphorous consists of chains of covalently-linked P<sub>4</sub> tetrahedra?<br>W) White phosphorous<br>X) Red phosphorous<br>Y) Black phosphorous<br>Z) Violet phosphorous"
+        "question": "Which of the following allotropes of phosphorus consists of chains of covalently-linked P<sub>4</sub> tetrahedra?<br>W) White phosphorus<br>X) Red phosphorus<br>Y) Black phosphorus<br>Z) Violet phosphorus",
+        "options": [
+          "W) White phosphorus",
+          "X) Red phosphorus",
+          "Y) Black phosphorus",
+          "Z) Violet phosphorus"
+        ],
+        "answer": "X) RED PHOSPHORUS",
+        "question_sanitized": "Which of the following allotropes of phosphorus consists of chains of covalently-linked P₄ tetrahedra?\nW) White phosphorus\nX) Red phosphorus\nY) Black phosphorus\nZ) Violet phosphorus",
+        "answer_sanitized": "X) RED PHOSPHORUS"
       }
     },
     {

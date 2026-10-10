@@ -365,11 +365,24 @@
       "kind": "bonuses",
       "itemIndex": 6,
       "number": 7,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared wording, options, answer, and notation with Round Robin Round 7, page 4."
+      "evidence": "Verified the 19th derivative of sin x; PDF answer is minus cos x. Normalized the mathematical minus in the answer to Unicode U+2212.",
+      "before": {
+        "answers": [
+          "-cos x"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "−cos x"
+        ],
+        "answers_sanitized": [
+          "−cos x"
+        ]
+      }
     },
     {
       "kind": "bonuses",

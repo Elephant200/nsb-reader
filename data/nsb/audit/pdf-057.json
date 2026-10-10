@@ -258,11 +258,36 @@
       "kind": "bonuses",
       "itemIndex": 0,
       "number": 1,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the question, answer, every choice and note with the exact printed source on page 1 of packet 057; the source agrees with the corpus."
+      "evidence": "Visually checked original PDF page 1: choice Y and answer spell “actinides”; baseline prompt/options had “actindies.” Corrected both full fields; choices and pronunciation cue checked.",
+      "before": {
+        "parts": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?<br>W) Transition metals and main group<br>X) Alkali and alkaline<br>Y) Lanthanides (read as: LAHN-thah-nyds) and actindies<br>Z) Alkaline and transition metals"
+        ],
+        "options": [
+          "W) Transition metals and main group",
+          "X) Alkali and alkaline",
+          "Y) Lanthanides (read as: LAHN-thah-nyds) and actindies",
+          "Z) Alkaline and transition metals"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?<br>W) Transition metals and main group<br>X) Alkali and alkaline<br>Y) Lanthanides (read as: LAHN-thah-nyds) and actinides<br>Z) Alkaline and transition metals"
+        ],
+        "options": [
+          "W) Transition metals and main group",
+          "X) Alkali and alkaline",
+          "Y) Lanthanides (read as: LAHN-thah-nyds) and actinides",
+          "Z) Alkaline and transition metals"
+        ],
+        "parts_sanitized": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?\nW) Transition metals and main group\nX) Alkali and alkaline\nY) Lanthanides (read as: LAHN-thah-nyds) and actinides\nZ) Alkaline and transition metals"
+        ]
+      }
     },
     {
       "kind": "bonuses",

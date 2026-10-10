@@ -33,11 +33,30 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered packet 188 PDF page 2 shows toss-up 4, “Chemistry – Multiple Choice Which of the following elements is LEAST likely to violate the octet”; checked its complete wording, all choices, and full answer “W) CARBON” against the source."
+      "evidence": "Visual review of original PDF p. 2: The printed option spells the element as “Phosphorous”; normalize the source typo to “Phosphorus” in both the displayed choice and options array. Carbon is the element least likely to violate the octet rule, so the keyed answer is sound.",
+      "before": {
+        "question": "Which of the following elements is LEAST likely to violate the octet rule?<br>W) Carbon<br>X) Sulfur<br>Y) Phosphorous<br>Z) Xenon [ZEE-non]",
+        "options": [
+          "W) Carbon",
+          "X) Sulfur",
+          "Y) Phosphorous",
+          "Z) Xenon [ZEE-non]"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following elements is LEAST likely to violate the octet rule?<br>W) Carbon<br>X) Sulfur<br>Y) Phosphorus<br>Z) Xenon [ZEE-non]",
+        "options": [
+          "W) Carbon",
+          "X) Sulfur",
+          "Y) Phosphorus",
+          "Z) Xenon [ZEE-non]"
+        ],
+        "question_sanitized": "Which of the following elements is LEAST likely to violate the octet rule?\nW) Carbon\nX) Sulfur\nY) Phosphorus\nZ) Xenon [ZEE-non]"
+      }
     },
     {
       "kind": "tossups",

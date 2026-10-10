@@ -279,11 +279,24 @@
       "kind": "bonuses",
       "itemIndex": 1,
       "number": 2,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 1; wording matches."
+      "evidence": "PDF page 1 prints degree measures in the checked field (“Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC: water; eth”; answer “MERCURY; WATER; ETHANOL”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "parts": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC: water; ethanol; mercury"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20°C: water; ethanol; mercury"
+        ],
+        "parts_sanitized": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20°C: water; ethanol; mercury"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -299,11 +312,21 @@
       "kind": "bonuses",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 2; wording matches."
+      "evidence": "PDF page 2 shows legs 2 cm and 10 cm, asks for the hypotenuse rounded to the nearest centimeter, and keys 10. Restored the lost superscript ² glyphs; the PDF’s “c = 10.20 = 10” line is its informal rounding notation, consistent with the key and instruction.",
+      "before": {
+        "notes": [
+          "(Solution: 22 + 102 = c2; c = 10.20 = 10)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: 2² + 10² = c²; c = 10.20 = 10)"
+        ]
+      }
     },
     {
       "kind": "bonuses",

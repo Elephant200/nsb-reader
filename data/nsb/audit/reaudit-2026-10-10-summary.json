@@ -1,0 +1,4738 @@
+{
+  "updatedAt": "2026-10-10T19:43:55.789Z",
+  "scope": "Independent repeat source-PDF audit of every Math and Chemistry question. Other categories are outside this pass.",
+  "baselineCommit": "1f10d466",
+  "baselineSha256": "5842c99c6dfc504ee44494401dae51c9eb6c027e1aa015f43f92834e883e1e5e",
+  "otherCategoriesUnchanged": true,
+  "total": 4062,
+  "reviewed": 4062,
+  "pending": 0,
+  "corrected": 70,
+  "unresolved": 23,
+  "categories": [
+    {
+      "category": "Math",
+      "total": 1986,
+      "reviewed": 1986,
+      "corrected": 42,
+      "unresolved": 6,
+      "years": {
+        "2007": {
+          "total": 102,
+          "reviewed": 102,
+          "corrected": 12,
+          "unresolved": 0
+        },
+        "2009": {
+          "total": 110,
+          "reviewed": 110,
+          "corrected": 10,
+          "unresolved": 1
+        },
+        "2011": {
+          "total": 300,
+          "reviewed": 300,
+          "corrected": 3,
+          "unresolved": 1
+        },
+        "2012": {
+          "total": 242,
+          "reviewed": 242,
+          "corrected": 14,
+          "unresolved": 1
+        },
+        "2013": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 1,
+          "unresolved": 1
+        },
+        "2014": {
+          "total": 130,
+          "reviewed": 130,
+          "corrected": 0,
+          "unresolved": 0
+        },
+        "2015": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 1,
+          "unresolved": 0
+        },
+        "2016": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 1,
+          "unresolved": 0
+        },
+        "2017": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 0,
+          "unresolved": 1
+        },
+        "2018": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 0,
+          "unresolved": 0
+        },
+        "2019": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 0,
+          "unresolved": 0
+        },
+        "2020": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 0,
+          "unresolved": 0
+        },
+        "2021": {
+          "total": 60,
+          "reviewed": 60,
+          "corrected": 0,
+          "unresolved": 0
+        },
+        "2022": {
+          "total": 90,
+          "reviewed": 90,
+          "corrected": 0,
+          "unresolved": 1
+        }
+      }
+    },
+    {
+      "category": "Chemistry",
+      "total": 2076,
+      "reviewed": 2076,
+      "corrected": 28,
+      "unresolved": 17,
+      "years": {
+        "2007": {
+          "total": 146,
+          "reviewed": 146,
+          "corrected": 9,
+          "unresolved": 1
+        },
+        "2009": {
+          "total": 146,
+          "reviewed": 146,
+          "corrected": 9,
+          "unresolved": 1
+        },
+        "2011": {
+          "total": 254,
+          "reviewed": 254,
+          "corrected": 2,
+          "unresolved": 1
+        },
+        "2012": {
+          "total": 266,
+          "reviewed": 266,
+          "corrected": 1,
+          "unresolved": 3
+        },
+        "2013": {
+          "total": 144,
+          "reviewed": 144,
+          "corrected": 0,
+          "unresolved": 3
+        },
+        "2014": {
+          "total": 156,
+          "reviewed": 156,
+          "corrected": 0,
+          "unresolved": 1
+        },
+        "2015": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 1,
+          "unresolved": 0
+        },
+        "2016": {
+          "total": 134,
+          "reviewed": 134,
+          "corrected": 2,
+          "unresolved": 0
+        },
+        "2017": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 3,
+          "unresolved": 2
+        },
+        "2018": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 1,
+          "unresolved": 1
+        },
+        "2019": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 0,
+          "unresolved": 2
+        },
+        "2020": {
+          "total": 136,
+          "reviewed": 136,
+          "corrected": 0,
+          "unresolved": 1
+        },
+        "2021": {
+          "total": 60,
+          "reviewed": 60,
+          "corrected": 0,
+          "unresolved": 1
+        },
+        "2022": {
+          "total": 90,
+          "reviewed": 90,
+          "corrected": 0,
+          "unresolved": 0
+        }
+      }
+    }
+  ],
+  "sourceIssues": [
+    {
+      "p": 93,
+      "k": "bonuses",
+      "i": 21,
+      "number": 22,
+      "category": "Math",
+      "year": 2012,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "Sample6_ROUND12.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND12.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        11
+      ],
+      "evidence": "Visually checked original PDF page 11: source says the open-ended cylinder volume is 32π cubic centimeters but gives a base radius of 4 meters and asks for area in square meters; printed key is 16π. The displayed units conflict dimensionally, while the key is otherwise consistent with treating the volume as cubic meters and asking for lateral area. Flagged this printed source inconsistency for adjudication.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 123,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2014,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 8,
+        "year": 2014,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "Round-10-A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-10-A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Visually checked original PDF p. 6, including the complete toss-up prompt, key, options, and pronunciation cues against the baseline. The PDF says “phosphoric acid” but specifies one hydrogen bonded directly to phosphorus and two to oxygen, which describes H3PO3 (phosphorous acid); the printed key is DIPROTIC, consistent with that structure but inconsistent with phosphoric acid. Preserved as an unresolved source-content nomenclature/key inconsistency.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 150,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2016,
+      "kind": "source-conflict",
+      "resolved": true,
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 3,
+        "label": "Round 3",
+        "filename": "3A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/3A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Original PDF omits punctuation and spacing between ‘elements’ and ‘What’ in the bonus prompt; the frozen baseline already restores a comma and space.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 156,
+      "k": "bonuses",
+      "i": 6,
+      "number": 7,
+      "category": "Chemistry",
+      "year": 2016,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "9A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/9A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        4
+      ],
+      "evidence": "Low-priority source-label review only: the original PDF lists “Thorium-238” as a distractor in a rock-dating question, while the keyed K40 answer is not implicated.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 174,
+      "k": "tossups",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2017,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "HS_10A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_10A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        8
+      ],
+      "evidence": "The keyed choice W is true under hydrogen gross structure, and the other listed statements also appear true. The PDF question has no valid NOT-true option as written; key left unchanged.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 180,
+      "k": "tossups",
+      "i": 4,
+      "number": 6,
+      "category": "Chemistry",
+      "year": 2017,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "HS_16A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_16A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        3
+      ],
+      "evidence": "The keyed W statement appears true, and X, Y, and Z also appear true for early versus late transition metals. The question has no clear NOT-true option as printed; key left unchanged.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 13,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2009,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "round14.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round14.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 6, including toss-up 11, every option, answer and solution. The PDF itself prints W as 9x² − 30x² + 25 = 0 while the stem asks for a repeated root and the answer key selects W; this is an apparent source error, so it is preserved without guessing a repair.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 28,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Math",
+      "year": 2012,
+      "kind": "source-conflict",
+      "resolved": true,
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "round12.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round12.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Original PDF read-as cue says the integral upper bound is 1, while the printed integral and keyed answer use upper bound 2.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 61,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2011,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 4,
+        "year": 2011,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "Round12.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round12.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Compared Math toss-up 4 hair-color sampling method and printed key Y) CLUSTER. Because random samples are separately selected from two hair-color strata, the source key conflicts with the described stratified-random method; preserved and marked unresolved. Bonus 4 Taylor expansion eˣ at 0 and first terms 1,x,x²/2 with factorial ACCEPT, against physical page 2.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 79,
+      "k": "bonuses",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2011,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 5,
+        "year": 2011,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "Round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round13.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Physical page 6 prompt explicitly requests lowest-to-highest melting point and the printed key orders molecular oxygen, carbon tetrachloride, chloroform, water, sodium chloride. NIST Chemistry WebBook gives chloroform T_fus=209.6 K (−63.6°C; https://webbook.nist.gov/cgi/cbook.cgi?ID=C67663&Type=TFREEZE) and carbon tetrachloride T_fus≈250.39 K (−22.8°C; https://webbook.nist.gov/cgi/cbook.cgi?ID=C56235&Type=TFREEZE). The key reverses these two; preserve source text/key pending correction of original packet.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 88,
+      "k": "tossups",
+      "i": 2,
+      "number": 3,
+      "category": "Chemistry",
+      "year": 2012,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "Sample6_ROUND7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND7.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Physical page 2 stem explicitly asks which element “in its gaseous state” has the greatest electron affinity (not electronegativity); it lists fluorine, bromine, sulfur, chlorine and keys fluorine. NIST Chemistry WebBook reports EA(F)=3.4012 eV (https://webbook.nist.gov/cgi/cbook.cgi?ID=C14762948&Mask=20) and EA(Cl)=3.6131 eV (https://webbook.nist.gov/cgi/cbook.cgi?ID=C22537151&Mask=E1), so chlorine is greater. Preserve the printed key pending source correction.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 88,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Chemistry",
+      "year": 2012,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "Sample6_ROUND7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND7.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Physical page 5 prints gas molar fractions N₂=0.25, O₂=0.65, Ar=0.010; these sum to 0.91 rather than 1. The keyed N₂ partial pressure uses 0.25×4.0=1.0 atm, but the source fractions are internally inconsistent; preserve source values pending correction.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 94,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Chemistry",
+      "year": 2012,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "Sample6_ROUND13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND13.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Physical page 5 gives T=27°C, a 1500 cal/mol decrease in Gibbs free energy (ΔG=−1500), and negligible ΔH, but keys −5. From ΔG=ΔH−TΔS, ΔS≈(+1500)/300.15≈+5 cal mol⁻¹ K⁻¹; this conflicts with the printed key. Preserved source prompt and key without guessing a replacement.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 106,
+      "k": "bonuses",
+      "i": 6,
+      "number": 7,
+      "category": "Chemistry",
+      "year": 2013,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "ROUND-10.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-10.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        4
+      ],
+      "evidence": "The question uses “it is achiral” ambiguously for a racemic sample of chiral propranolol molecules, potentially making both that choice and “optically pure” false depending on whether it refers to sample or molecules.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 112,
+      "k": "bonuses",
+      "i": 11,
+      "number": 12,
+      "category": "Chemistry",
+      "year": 2013,
+      "kind": "wording-caveat",
+      "resolved": false,
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "ROUND-16.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-16.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        6
+      ],
+      "evidence": "The stem gives no substrate or nucleophile, so the exact four-solvent rate order depends on the reaction; the keyed sequence is accepted as the standard quiz-level solvent trend.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 118,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2014,
+      "kind": "wording-caveat",
+      "resolved": false,
+      "source": {
+        "setNumber": 8,
+        "year": 2014,
+        "roundNumber": 5,
+        "label": "Round 5",
+        "filename": "Round-5-A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-5-A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        6
+      ],
+      "evidence": "The stem gives no molecule or substitution site, and fluorination can increase or decrease lipophilicity depending on structure. The keyed fluorine is retained as the intended general quiz response.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 166,
+      "k": "tossups",
+      "i": 21,
+      "number": 22,
+      "category": "Chemistry",
+      "year": 2017,
+      "kind": "wording-caveat",
+      "resolved": false,
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 2,
+        "label": "Round 2",
+        "filename": "HS_2.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_2.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        11
+      ],
+      "evidence": "The phrase “aromatic alcohol” is chemically imprecise because phenols, with OH directly attached to an aromatic ring, are classified separately from alcohols.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 229,
+      "k": "bonuses",
+      "i": 17,
+      "number": 18,
+      "category": "Chemistry",
+      "year": 2020,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 15,
+        "year": 2020,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "2020-HS-Rd14.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd14.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Visual inspection confirms the PDF asks for a Friedel–Crafts alkylation reagent to make iso-butylbenzene and keys iso-butyl chloride. This is potentially inconsistent with the standard rearrangement of a primary isobutyl carbocation to the tert-butyl carbocation under Friedel–Crafts alkylation conditions. The source wording and key are preserved; no repair is inferred.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 8,
+      "k": "tossups",
+      "i": 15,
+      "number": 16,
+      "category": "Chemistry",
+      "year": 2009,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "round9.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round9.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Original PDF page 8 prints CuCl₂ + Na₂S → CuS + 2NaCl₂ and keys the double-replacement reaction. The product formula is a source-origin stoichiometry error; preserved it without inventing a correction. Flagged unresolved for source-error triage.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 32,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2007,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 1,
+        "label": "Round 1",
+        "filename": "Round-1C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-1C.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Original PDF solution reads “c = a√2 = 100√2 − 141.4cm”; the subtraction is inconsistent with the keyed positive hypotenuse.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 47,
+      "k": "bonuses",
+      "i": 15,
+      "number": 16,
+      "category": "Chemistry",
+      "year": 2007,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "Round-16C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-16C.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        8
+      ],
+      "evidence": "PDF page 8 asks HCl volume to neutralize 50 mL of 0.1 M Sr(OH)₂ and keys 100 mL; the PDF solution labels 0.005 as “M Sr(OH)₂” where it should be moles, a source-origin unit error, while subsequent stoichiometry/key agree.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 68,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Math",
+      "year": 2011,
+      "kind": "source-conflict",
+      "resolved": true,
+      "source": {
+        "setNumber": 5,
+        "year": 2011,
+        "roundNumber": 2,
+        "label": "Round 2",
+        "filename": "Round2.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round2.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Original PDF choice X read-as cue says row 1: 1, 1, while the printed matrix and answer key show row 1: 0, 1.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 104,
+      "k": "bonuses",
+      "i": 1,
+      "number": 2,
+      "category": "Chemistry",
+      "year": 2013,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 8,
+        "label": "Round 8",
+        "filename": "ROUND-8.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-8.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        1
+      ],
+      "evidence": "The question states conjugate base:weak acid = 10:1 and pKa = 5, which implies pH 6; the PDF prints answer 4.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 110,
+      "k": "bonuses",
+      "i": 23,
+      "number": 24,
+      "category": "Chemistry",
+      "year": 2013,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "ROUND-14.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-14.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        12
+      ],
+      "evidence": "The PDF labels cross-sectional area in centimeters, a linear unit, rather than square centimeters; no source correction is inferred.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 113,
+      "k": "tossups",
+      "i": 9,
+      "number": 10,
+      "category": "Math",
+      "year": 2013,
+      "kind": "answer-policy",
+      "resolved": false,
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 17,
+        "label": "Round 17",
+        "filename": "ROUND-17.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-17.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        5
+      ],
+      "evidence": "The PDF says not to accept −1/√3 even though it is exactly equal to the keyed −√3/3.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 143,
+      "k": "tossups",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2015,
+      "kind": "wording-caveat",
+      "resolved": false,
+      "source": {
+        "setNumber": 9,
+        "year": 2015,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "RegionalHS_13A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_13A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        12
+      ],
+      "evidence": "The printed key is bismuth. The wording that it can only exist in positive oxidation states is categorical and may warrant clarification beyond the expected textbook-level answer.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 158,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Chemistry",
+      "year": 2016,
+      "kind": "source-conflict",
+      "resolved": true,
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "11A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/11A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        2
+      ],
+      "evidence": "The original PDF misspells the element name as “phosphorous”.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 170,
+      "k": "tossups",
+      "i": 15,
+      "number": 16,
+      "category": "Chemistry",
+      "year": 2017,
+      "kind": "source-conflict",
+      "resolved": true,
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "HS_6A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_6A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Original PDF misspells “equilibrium” as “equilibium” in choices W and Z.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 176,
+      "k": "bonuses",
+      "i": 12,
+      "number": 13,
+      "category": "Math",
+      "year": 2017,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "HS_12A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_12A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        7
+      ],
+      "evidence": "For permutations of 100 objects taken 80 at a time, standard 100P80=100!/20! has 20 trailing zeros, but the PDF keys 5. The key appears to correspond to 100!/80! instead.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 188,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Chemistry",
+      "year": 2018,
+      "kind": "source-conflict",
+      "resolved": true,
+      "source": {
+        "setNumber": 12,
+        "year": 2018,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "2018-HSRound-7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-7.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        2
+      ],
+      "evidence": "Original PDF misspells the element as “Phosphorous”; normalized to the standard element name “Phosphorus”.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 188,
+      "k": "tossups",
+      "i": 20,
+      "number": 21,
+      "category": "Chemistry",
+      "year": 2018,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 12,
+        "year": 2018,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "2018-HSRound-7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-7.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        11
+      ],
+      "evidence": "The original PDF keys the increasing first electron-affinity order as 1, 3, 2 (Li, S, O). Standard values give Li < O < S, so the keyed order is inconsistent with the stated increasing order.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 206,
+      "k": "tossups",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2019,
+      "kind": "content-error",
+      "resolved": false,
+      "source": {
+        "setNumber": 13,
+        "year": 2019,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "2019-NSB-HSR-Round-16A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-16A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        12
+      ],
+      "evidence": "For a five-coordinate compound the standard geometries are trigonal bipyramidal and square pyramidal. The PDF answer says “square bipyramidal,” which does not describe the five-coordinate geometry.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 206,
+      "k": "bonuses",
+      "i": 9,
+      "number": 10,
+      "category": "Chemistry",
+      "year": 2019,
+      "kind": "content-error",
+      "resolved": false,
+      "source": {
+        "setNumber": 13,
+        "year": 2019,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "2019-NSB-HSR-Round-16A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-16A.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        5
+      ],
+      "evidence": "The source states an equilibrium between N₂O and N₂O₄, which is atom-imbalanced as written. The listed species alone cannot form the stated equilibrium, so the keyed shift is not interpretable.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 242,
+      "k": "tossups",
+      "i": 2,
+      "number": 3,
+      "category": "Chemistry",
+      "year": 2021,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 16,
+        "year": 2021,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "Set-10-HS-2021.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-10-HS-2021.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        3
+      ],
+      "evidence": "The printed key selects rubidium and chlorine, but standard enthalpies of formation give KCl(s) a more exothermic formation than RbCl(s). The source does not state a different reaction basis; triage the answer key.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-d.json"
+    },
+    {
+      "p": 248,
+      "k": "tossups",
+      "i": 11,
+      "number": 12,
+      "category": "Math",
+      "year": 2022,
+      "kind": "source-conflict",
+      "resolved": false,
+      "source": {
+        "setNumber": 17,
+        "year": 2022,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "2022-HS-6.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-6.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        12
+      ],
+      "evidence": "The printed answer 26 conflicts with the geometry: the altitude of an equilateral triangle of side 42 is 21√3≈36.37. Flag for source answer-key correction.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-d.json"
+    },
+    {
+      "p": 248,
+      "k": "tossups",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2022,
+      "kind": "wording-caveat",
+      "resolved": false,
+      "source": {
+        "setNumber": 17,
+        "year": 2022,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "2022-HS-6.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-6.pdf",
+        "supplemental": false
+      },
+      "sourcePages": [
+        15
+      ],
+      "evidence": "Wording caveat: Thomson’s electron result is conventionally stated as charge-to-mass ratio (e/m); mass-to-charge ratio is its reciprocal, so the source appears to refer to the same property with reciprocal terminology.",
+      "report": "data/nsb/audit/reaudit-2026-10-10-d.json"
+    }
+  ],
+  "findings": [
+    {
+      "p": 42,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p042-page02-02.png"
+      ],
+      "evidence": "Page 2 visibly uses the degree mark in “A circle has a radius of 8 centimeters. Find the central angle, in degrees, of a sector of a circle if its arc…” / “45”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "notes": [
+          "(Solution: arc/circumference = n/360; n = 45º)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: arc/circumference = n/360; n = 45°)"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "Round-11C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-11C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 42,
+      "k": "tossups",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p042-page08-08.png"
+      ],
+      "evidence": "Page 8 visibly uses the degree mark in “Predict the bond angle or shape for the central atom in a molecule of beryllium dichloride:” / “180º (ACCEPT: LINEAR)”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "answer": "180º (ACCEPT: LINEAR)"
+      },
+      "changes": {
+        "answer": "180° (ACCEPT: LINEAR)",
+        "answer_sanitized": "180° (ACCEPT: LINEAR)"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "Round-11C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-11C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 45,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p045-page12-12.png"
+      ],
+      "evidence": "Page 12 visibly uses the degree mark in “Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27ºC and at a pressure of 101.…” / “74”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27ºC and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27°C and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
+        ],
+        "parts_sanitized": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27°C and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "Round-14C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-14C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 45,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p045-page02-02.png"
+      ],
+      "evidence": "Page 2 visibly uses the degree mark in “In simplest radical form, give the cosecant of a 135º angle:” / “√2”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "In simplest radical form, give the cosecant of a 135º angle:"
+      },
+      "changes": {
+        "question": "In simplest radical form, give the cosecant of a 135° angle:",
+        "question_sanitized": "In simplest radical form, give the cosecant of a 135° angle:"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "Round-14C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-14C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 45,
+      "k": "tossups",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p045-page12-12.png"
+      ],
+      "evidence": "Page 12 visibly uses the degree mark in “Predict the bond angles, in degrees, for atoms in a molecule of boron trichloride:” / “120º (ACCEPT: THREE 120º)”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "answer": "120º (ACCEPT: THREE 120º)"
+      },
+      "changes": {
+        "answer": "120° (ACCEPT: THREE 120°)",
+        "answer_sanitized": "120° (ACCEPT: THREE 120°)"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "Round-14C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-14C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 48,
+      "k": "bonuses",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p048-page06-06.png"
+      ],
+      "evidence": "Page 6 visibly uses the degree mark in “For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45º, find the area of the tri…” / “17”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45º, find the area of the triangle, to the nearest whole number:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45°, find the area of the triangle, to the nearest whole number:"
+        ],
+        "parts_sanitized": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45°, find the area of the triangle, to the nearest whole number:"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 17,
+        "label": "Round 17",
+        "filename": "Round-17C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-17C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 48,
+      "k": "tossups",
+      "i": 7,
+      "number": 8,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p048-page04-04.png"
+      ],
+      "evidence": "Page 4 visibly uses the degree mark in “Which of the following ionic compounds would have the highest melting point:W) NaFX) NaClY) CaF2Z) MgO” / “Z) MgO”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "notes": [
+          "(Solution: NaF = 993ºC; NaCl = 801; CaF<sub>2</sub> = 1423; MgO = 2800ºC)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: NaF = 993°C; NaCl = 801; CaF<sub>2</sub> = 1423; MgO = 2800°C)"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 17,
+        "label": "Round 17",
+        "filename": "Round-17C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-17C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 0,
+      "k": "bonuses",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p000-page06-06.png"
+      ],
+      "evidence": "Page 6 visibly uses the degree mark in “Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90º triangle is 10 inc…” / “5√2 (ACCEPT: BOTH 5√2)”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90º triangle is 10 inches, find the length of the other sides:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90° triangle is 10 inches, find the length of the other sides:"
+        ],
+        "parts_sanitized": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90° triangle is 10 inches, find the length of the other sides:"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 1,
+        "label": "Round 1",
+        "filename": "round1.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round1.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 0,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p000-page02-02.png"
+      ],
+      "evidence": "Page 2 visibly uses the degree mark in “What term BEST describes 2 angles with 90º as the sum of their measurements?” / “COMPLEMENTARY”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "What term BEST describes 2 angles with 90º as the sum of their measurements?"
+      },
+      "changes": {
+        "question": "What term BEST describes 2 angles with 90° as the sum of their measurements?",
+        "question_sanitized": "What term BEST describes 2 angles with 90° as the sum of their measurements?"
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 1,
+        "label": "Round 1",
+        "filename": "round1.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round1.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 3,
+      "k": "bonuses",
+      "i": 1,
+      "number": 2,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p003-page01-01.png"
+      ],
+      "evidence": "Page 1 visibly uses the degree mark in “What is the pH of a 1 molar NaOH solution at 25ºC?” / “14”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "What is the pH of a 1 molar NaOH solution at 25ºC?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the pH of a 1 molar NaOH solution at 25°C?"
+        ],
+        "parts_sanitized": [
+          "What is the pH of a 1 molar NaOH solution at 25°C?"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 4,
+        "label": "Round 4",
+        "filename": "round4.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round4.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 3,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p003-page02-02.png"
+      ],
+      "evidence": "Page 2 visibly uses the degree mark in “Consider triangle ABC, where the measure of angle A = 20º, B =117º, and C = 43º. Arrange the 3 sides in order …” / “BC; AB; AC”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "Consider triangle ABC, where the measure of angle A = 20º, B =117º, and C = 43º. Arrange the 3 sides in order of increasing length:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Consider triangle ABC, where the measure of angle A = 20°, B =117°, and C = 43°. Arrange the 3 sides in order of increasing length:"
+        ],
+        "parts_sanitized": [
+          "Consider triangle ABC, where the measure of angle A = 20°, B =117°, and C = 43°. Arrange the 3 sides in order of increasing length:"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 4,
+        "label": "Round 4",
+        "filename": "round4.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round4.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 9,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p009-page02-02.png"
+      ],
+      "evidence": "Page 2 visibly uses the degree mark in “Find the cotangent and cosecant, respectively, of a 90º angle:” / “COTAN = 0; COSECANT = 1”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "Find the cotangent and cosecant, respectively, of a 90º angle:"
+      },
+      "changes": {
+        "question": "Find the cotangent and cosecant, respectively, of a 90° angle:",
+        "question_sanitized": "Find the cotangent and cosecant, respectively, of a 90° angle:"
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "round10.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round10.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 12,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p012-page12-12.png"
+      ],
+      "evidence": "Page 12 visibly uses the degree mark in “Calculate the enthalpy of vaporization, in kilojoules, of water at 25ºC and 1 atmosphere. Assume the standard …” / “44”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "parts": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25ºC and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25°C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:"
+        ],
+        "parts_sanitized": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25°C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is -286 kilojoules and the standard enthalpy of formation of water gas is -242 kilojoules:"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 12,
+      "k": "tossups",
+      "i": 1,
+      "number": 2,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p012-page01-01.png"
+      ],
+      "evidence": "Page 1 visibly uses the degree mark in “Which of the following has a melting point of 185ºC and readily dissolves in water at room temperature, but is…” / “Z) SUCROSE”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "Which of the following has a melting point of 185ºC and readily dissolves in water at room temperature, but is NOT an electrolyte:<br>W) NaCl<br>X) decane<br>Y) methane<br>Z) sucrose"
+      },
+      "changes": {
+        "question": "Which of the following has a melting point of 185°C and readily dissolves in water at room temperature, but is NOT an electrolyte:<br>W) NaCl<br>X) decane<br>Y) methane<br>Z) sucrose",
+        "question_sanitized": "Which of the following has a melting point of 185°C and readily dissolves in water at room temperature, but is NOT an electrolyte:\nW) NaCl\nX) decane\nY) methane\nZ) sucrose"
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 12,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p012-page02-02.png"
+      ],
+      "evidence": "Page 2 visibly uses the degree mark in “Express 600º in radians as a reduced fraction in terms of π:” / “10π3”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "Express 600º in radians as a reduced fraction in terms of π:"
+      },
+      "changes": {
+        "question": "Express 600° in radians as a reduced fraction in terms of π:",
+        "question_sanitized": "Express 600° in radians as a reduced fraction in terms of π:"
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 132,
+      "k": "tossups",
+      "i": 11,
+      "number": 12,
+      "category": "Math",
+      "year": 2015,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p132-page06-06.png"
+      ],
+      "evidence": "Page 6 visibly uses the degree mark in “A right triangle with one angle of 45º is inscribed in a circle of radius 10. What is the area of the triangle…” / “Y) 100”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "A right triangle with one angle of 45º is inscribed in a circle of radius 10. What is the area of the triangle?<br>W) 50<br>X) 50 times the square root of 2<br>Y) 100<br>Z) 100 times the square root of 2"
+      },
+      "changes": {
+        "question": "A right triangle with one angle of 45° is inscribed in a circle of radius 10. What is the area of the triangle?<br>W) 50<br>X) 50 times the square root of 2<br>Y) 100<br>Z) 100 times the square root of 2",
+        "question_sanitized": "A right triangle with one angle of 45° is inscribed in a circle of radius 10. What is the area of the triangle?\nW) 50\nX) 50 times the square root of 2\nY) 100\nZ) 100 times the square root of 2"
+      },
+      "source": {
+        "setNumber": 9,
+        "year": 2015,
+        "roundNumber": 2,
+        "label": "Round 2",
+        "filename": "RegionalHS_2.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_2.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 159,
+      "k": "tossups",
+      "i": 17,
+      "number": 18,
+      "category": "Math",
+      "year": 2016,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p159-page09-09.png"
+      ],
+      "evidence": "Page 9 visibly uses the degree mark in “If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132º, what…” / “84”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132º, what is the degree measure of the vertex angle?"
+      },
+      "changes": {
+        "question": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132°, what is the degree measure of the vertex angle?",
+        "question_sanitized": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132°, what is the degree measure of the vertex angle?"
+      },
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "12A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/12A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 93,
+      "k": "bonuses",
+      "i": 21,
+      "number": 22,
+      "category": "Math",
+      "year": 2012,
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p093-page11-11.png"
+      ],
+      "status": "unresolved",
+      "evidence": "Visually checked original PDF page 11: source says the open-ended cylinder volume is 32π cubic centimeters but gives a base radius of 4 meters and asks for area in square meters; printed key is 16π. The displayed units conflict dimensionally, while the key is otherwise consistent with treating the volume as cubic meters and asking for lateral area. Flagged this printed source inconsistency for adjudication.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "Sample6_ROUND12.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND12.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 123,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2014,
+      "status": "unresolved",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p123-page06-06.png"
+      ],
+      "evidence": "Visually checked original PDF p. 6, including the complete toss-up prompt, key, options, and pronunciation cues against the baseline. The PDF says “phosphoric acid” but specifies one hydrogen bonded directly to phosphorus and two to oxygen, which describes H3PO3 (phosphorous acid); the printed key is DIPROTIC, consistent with that structure but inconsistent with phosphoric acid. Preserved as an unresolved source-content nomenclature/key inconsistency.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 8,
+        "year": 2014,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "Round-10-A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-10-A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 57,
+      "k": "bonuses",
+      "i": 0,
+      "number": 1,
+      "category": "Chemistry",
+      "year": 2011,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p057-page01-01.png"
+      ],
+      "evidence": "Visually checked original PDF page 1: choice Y and answer spell “actinides”; baseline prompt/options had “actindies.” Corrected both full fields; choices and pronunciation cue checked.",
+      "before": {
+        "parts": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?<br>W) Transition metals and main group<br>X) Alkali and alkaline<br>Y) Lanthanides (read as: LAHN-thah-nyds) and actindies<br>Z) Alkaline and transition metals"
+        ],
+        "options": [
+          "W) Transition metals and main group",
+          "X) Alkali and alkaline",
+          "Y) Lanthanides (read as: LAHN-thah-nyds) and actindies",
+          "Z) Alkaline and transition metals"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?<br>W) Transition metals and main group<br>X) Alkali and alkaline<br>Y) Lanthanides (read as: LAHN-thah-nyds) and actinides<br>Z) Alkaline and transition metals"
+        ],
+        "options": [
+          "W) Transition metals and main group",
+          "X) Alkali and alkaline",
+          "Y) Lanthanides (read as: LAHN-thah-nyds) and actinides",
+          "Z) Alkaline and transition metals"
+        ],
+        "parts_sanitized": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?\nW) Transition metals and main group\nX) Alkali and alkaline\nY) Lanthanides (read as: LAHN-thah-nyds) and actinides\nZ) Alkaline and transition metals"
+        ]
+      },
+      "source": {
+        "setNumber": 4,
+        "year": 2011,
+        "roundNumber": 8,
+        "label": "Round 8",
+        "filename": "Round8.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round8.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 87,
+      "k": "bonuses",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p087-page06-06.png"
+      ],
+      "evidence": "Visually checked original PDF page 6: bonus asks which scientist carefully documented oxygen discovery; printed answer key misspells the name as PRIESTLY. Normalized that source spelling to PRIESTLEY; checked complete prompt and answer.",
+      "before": {
+        "answers": [
+          "PRIESTLY"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "PRIESTLEY"
+        ],
+        "answers_sanitized": [
+          "PRIESTLEY"
+        ]
+      },
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "Sample6_ROUND6.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND6.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 147,
+      "k": "tossups",
+      "i": 9,
+      "number": 10,
+      "category": "Chemistry",
+      "year": 2015,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p147-page-05.png"
+      ],
+      "before": {
+        "question": "Which of the following allotropes of phosphorous consists of chains of covalently-linked P<sub>4</sub> tetrahedra?<br>W) White phosphorous<br>X) Red phosphorous<br>Y) Black phosphorous<br>Z) Violet phosphorous",
+        "options": [
+          "W) White phosphorous",
+          "X) Red phosphorous",
+          "Y) Black phosphorous",
+          "Z) Violet phosphorous"
+        ],
+        "answer": "X) RED PHOSPHOROUS"
+      },
+      "changes": {
+        "question": "Which of the following allotropes of phosphorus consists of chains of covalently-linked P<sub>4</sub> tetrahedra?<br>W) White phosphorus<br>X) Red phosphorus<br>Y) Black phosphorus<br>Z) Violet phosphorus",
+        "options": [
+          "W) White phosphorus",
+          "X) Red phosphorus",
+          "Y) Black phosphorus",
+          "Z) Violet phosphorus"
+        ],
+        "answer": "X) RED PHOSPHORUS",
+        "question_sanitized": "Which of the following allotropes of phosphorus consists of chains of covalently-linked P₄ tetrahedra?\nW) White phosphorus\nX) Red phosphorus\nY) Black phosphorus\nZ) Violet phosphorus",
+        "answer_sanitized": "X) RED PHOSPHORUS"
+      },
+      "evidence": "Visually checked complete original PDF page 5, including the P4 subscript, all choices, and key. The source spells the element name as ‘phosphorous’ in the prompt, all four options, and the keyed answer. This is a clear spelling error; normalized those occurrences to ‘phosphorus’. The precipitation bonus keys only reaction 1, barium sulfate. The matched baseline spellings are replaced with standard phosphorus spelling.",
+      "source": {
+        "setNumber": 9,
+        "year": 2015,
+        "roundNumber": 17,
+        "label": "Round 17",
+        "filename": "RegionalHS_17A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_17A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 150,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2016,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p150-page12-12.png"
+      ],
+      "evidence": "Visually checked complete original PDF page 12, including prompts, keyed answers, options and mathematical/chemical notation. After adding chloride, silver chloride is the first precipitate as keyed; fluorine has the lowest-energy valence orbitals among the stated non-noble elements. The source prints “elementsWhat” without punctuation/spacing in the latter bonus; the baseline already restores a comma and space. Compared the source with the frozen baseline.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "Original PDF omits punctuation and spacing between ‘elements’ and ‘What’ in the bonus prompt; the frozen baseline already restores a comma and space.",
+      "sourceIssueResolved": true,
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 3,
+        "label": "Round 3",
+        "filename": "3A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/3A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 156,
+      "k": "bonuses",
+      "i": 6,
+      "number": 7,
+      "category": "Chemistry",
+      "year": 2016,
+      "status": "verified",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p156-page04-04.png"
+      ],
+      "evidence": "Visually checked the complete original PDF page 4, including the full prompt, all choices, answer, read-as cues, and math/chemistry notation. The printed key K40 is supported; the Thorium-238 distractor label does not affect the key.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "Low-priority source-label review only: the original PDF lists “Thorium-238” as a distractor in a rock-dating question, while the keyed K40 answer is not implicated.",
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "9A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/9A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 174,
+      "k": "tossups",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2017,
+      "status": "unresolved",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p174-page08-08.png"
+      ],
+      "evidence": "Visually inspected the complete original PDF page 8, including prompt, options or bonus parts, answer key, cues, and equations. The PDF keys W as the statement that is NOT true. Yet for hydrogen gross structure, energy depends only on principal n: 4s (n=4) is above 3d (n=3); the other three statements are true as well. The prompt/key appear inconsistent, so left unresolved without rewriting the key. The paired B2/C2/N2 MO item correctly identifies only B2 as paramagnetic.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "The keyed choice W is true under hydrogen gross structure, and the other listed statements also appear true. The PDF question has no valid NOT-true option as written; key left unchanged.",
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "HS_10A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_10A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 180,
+      "k": "tossups",
+      "i": 4,
+      "number": 6,
+      "category": "Chemistry",
+      "year": 2017,
+      "status": "unresolved",
+      "sourcePages": [
+        3
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-render-a/p180-page03-03.png"
+      ],
+      "evidence": "Visually inspected the complete original PDF page 3, including the full question, choices, and key. The prompt asks for the statement that is not true and keys W, but early transition metals are generally easier to oxidize than later ones; the other comparisons (greater electropositivity, higher oxidation states, larger radii) also appear true. No choice is safely identifiable as false.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "The keyed W statement appears true, and X, Y, and Z also appear true for early versus late transition metals. The question has no clear NOT-true option as printed; key left unchanged.",
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "HS_16A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_16A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-a.json"
+    },
+    {
+      "p": 1,
+      "k": "tossups",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/001-08.png"
+      ],
+      "evidence": "Read rendered physical page 8: full toss-up 15 prompt, answer; checked typography and reading annotations against the source. The PDF’s temperature notation is degrees Celsius; normalized the legacy ordinal glyph to the degree sign.",
+      "before": {
+        "question": "What is the pH of a solution with a pOH of 6.8 at 25ºC?"
+      },
+      "changes": {
+        "question": "What is the pH of a solution with a pOH of 6.8 at 25°C?",
+        "question_sanitized": "What is the pH of a solution with a pOH of 6.8 at 25°C?"
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 2,
+        "label": "Round 2",
+        "filename": "round2.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round2.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 1,
+      "k": "bonuses",
+      "i": 0,
+      "number": 1,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/001-01.png"
+      ],
+      "evidence": "Read rendered physical page 1: full bonus 1 prompt, answer, and all W–Z choices, including solution note; checked typography and reading annotations against the source. The PDF’s solution temperatures are in degrees Celsius; normalized the legacy ordinal glyphs to degree signs.",
+      "before": {
+        "notes": [
+          "(Solution: MgO = 2800ºC; diamond = 3550ºC; NaCl = 801ºC; Cs = 645ºC)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: MgO = 2800°C; diamond = 3550°C; NaCl = 801°C; Cs = 645°C)"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 2,
+        "label": "Round 2",
+        "filename": "round2.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round2.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 16,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/016-12.png"
+      ],
+      "evidence": "Read rendered physical page 12: full bonus 23 prompt, answer, and solution note; verified chemical indices/math layout and read cues against source. The printed boiling point notation denotes degrees Celsius; normalized the ordinal glyph to the degree sign in the prompt, note, and reading text.",
+      "before": {
+        "parts": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+        ],
+        "notes": [
+          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+        ],
+        "parts_sanitized": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0°C per molal.."
+        ],
+        "notes": [
+          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0°C/m)(0.033m) = 0.066°C)"
+        ],
+        "parts_sanitized": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0°C per molal.."
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 17,
+        "label": "Round 17",
+        "filename": "round17.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round17.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 40,
+      "k": "tossups",
+      "i": 24,
+      "number": 25,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/040-13.png"
+      ],
+      "evidence": "Read rendered physical page 13 (2007), including the full toss-up 25 prompt, answer; checked ionic notation, radicals/fractions, powers and reading cues against the source. The PDF prints the exponent −5 raised to the 10; restored the superscript and mathematical minus.",
+      "before": {
+        "question": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10–5 M?"
+      },
+      "changes": {
+        "question": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10<sup>−5</sup> M?",
+        "question_sanitized": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10⁻⁵ M?"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "Round-9C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-9C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 43,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/043-06.png"
+      ],
+      "evidence": "Read rendered physical page 6 (2007), including the full toss-up 11 prompt, answer, all options, and solution note; checked symbols, typography, and reading annotations against source. The printed angle values are degrees; normalized the ordinal glyphs in the W option and solution note to degree signs.",
+      "before": {
+        "question": "Which of the following are coterminal angles in standard position (read slowly):<br>W) 550º and 185º<br>X) 80° and –190°<br>Y) 1160° and 800°<br>Z) 181° and –118°",
+        "options": [
+          "W) 550º and 185º",
+          "X) 80° and –190°",
+          "Y) 1160° and 800°",
+          "Z) 181° and –118°"
+        ],
+        "notes": [
+          "(Solution: 80 +3(360º) = 1160º; 80 +2(360º) = 800º)"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following are coterminal angles in standard position (read slowly):<br>W) 550° and 185°<br>X) 80° and –190°<br>Y) 1160° and 800°<br>Z) 181° and –118°",
+        "options": [
+          "W) 550° and 185°",
+          "X) 80° and –190°",
+          "Y) 1160° and 800°",
+          "Z) 181° and –118°"
+        ],
+        "notes": [
+          "(Solution: 80 +3(360°) = 1160°; 80 +2(360°) = 800°)"
+        ],
+        "question_sanitized": "Which of the following are coterminal angles in standard position (read slowly):\nW) 550° and 185°\nX) 80° and -190°\nY) 1160° and 800°\nZ) 181° and -118°"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "Round-12C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-12C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 163,
+      "k": "tossups",
+      "i": 21,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2016,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/163-12.png"
+      ],
+      "evidence": "Read full rendered physical page 12 (2016), including toss-up 23, answer; verified signs, exponents, formula notation and reading text against the original. The PDF prints nitrogen’s molecular formula with subscript 2 and a superscript positive charge; restored both marks.",
+      "before": {
+        "question": "What is the bond order of N2+?"
+      },
+      "changes": {
+        "question": "What is the bond order of N<sub>2</sub><sup>+</sup>?",
+        "question_sanitized": "What is the bond order of N₂⁺?"
+      },
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "16A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/16A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 4,
+      "k": "bonuses",
+      "i": 7,
+      "number": 8,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/004-04.png"
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 4, including bonus 8, answer and all options. The source clearly uses degrees Celsius; normalized the ordinal glyph in the prompt and its extracted options to the degree sign.",
+      "before": {
+        "parts": [
+          "Which of the following compounds is most SOLUBLE in water at 10ºC:<br>W) KNO<sub>3</sub><br>X) CaSO<sub>4</sub><br>Y) BaSO<sub>4</sub><br>Z) AgBr"
+        ],
+        "options": [
+          "W) KNO<sub>3</sub>",
+          "X) CaSO<sub>4</sub>",
+          "Y) BaSO<sub>4</sub>",
+          "Z) AgBr"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following compounds is most SOLUBLE in water at 10°C:<br>W) KNO<sub>3</sub><br>X) CaSO<sub>4</sub><br>Y) BaSO<sub>4</sub><br>Z) AgBr"
+        ],
+        "options": [
+          "W) KNO<sub>3</sub>",
+          "X) CaSO<sub>4</sub>",
+          "Y) BaSO<sub>4</sub>",
+          "Z) AgBr"
+        ],
+        "parts_sanitized": [
+          "Which of the following compounds is most SOLUBLE in water at 10°C:\nW) KNO₃\nX) CaSO₄\nY) BaSO₄\nZ) AgBr"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 5,
+        "label": "Round 5",
+        "filename": "round5.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round5.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 7,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/007-02.png"
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 2, including bonus 4, answer and solution note. The source’s 17,640 degree measure is an angle; normalized the ordinal glyph to the degree sign.",
+      "before": {
+        "notes": [
+          "(Solution: (100 – 2)(180) = 17,640º)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: (100 – 2)(180) = 17,640°)"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 8,
+        "label": "Round 8",
+        "filename": "round8.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round8.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 7,
+      "k": "bonuses",
+      "i": 24,
+      "number": 25,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        13
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/007-13.png"
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 13, including bonus 25, answer and solution. The intercepted arc measures are degree angles; normalized the ordinal glyphs in the prompt and solution to degree signs.",
+      "before": {
+        "parts": [
+          "What is the degree measure of the angle formed by 2 secants intersecting outside a circle if the measures of the intercepted arcs are 80º and 34º?"
+        ],
+        "notes": [
+          "(Solution: ½(80º – 34º) = 23º)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the degree measure of the angle formed by 2 secants intersecting outside a circle if the measures of the intercepted arcs are 80° and 34°?"
+        ],
+        "notes": [
+          "(Solution: ½(80° – 34°) = 23°)"
+        ],
+        "parts_sanitized": [
+          "What is the degree measure of the angle formed by 2 secants intersecting outside a circle if the measures of the intercepted arcs are 80° and 34°?"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 8,
+        "label": "Round 8",
+        "filename": "round8.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round8.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 10,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/010-06.png"
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 6, including toss-up 11, answer and all choices. The four values are angle measures; normalized ordinal glyphs to degree signs in the prompt, answer and options.",
+      "before": {
+        "question": "Which of the following is a second quadrant angle in standard position:<br>W) 500º<br>X) –180º<br>Y) –680º<br>Z) 930º",
+        "answer": "W) 500º",
+        "options": [
+          "W) 500º",
+          "X) –180º",
+          "Y) –680º",
+          "Z) 930º"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is a second quadrant angle in standard position:<br>W) 500°<br>X) –180°<br>Y) –680°<br>Z) 930°",
+        "answer": "W) 500°",
+        "options": [
+          "W) 500°",
+          "X) –180°",
+          "Y) –680°",
+          "Z) 930°"
+        ],
+        "question_sanitized": "Which of the following is a second quadrant angle in standard position:\nW) 500°\nX) -180°\nY) -680°\nZ) 930°",
+        "answer_sanitized": "W) 500°"
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "round11.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round11.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 13,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2009,
+      "status": "unresolved",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/013-06.png"
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 6, including toss-up 11, every option, answer and solution. The PDF itself prints W as 9x² − 30x² + 25 = 0 while the stem asks for a repeated root and the answer key selects W; this is an apparent source error, so it is preserved without guessing a repair.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "round14.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round14.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 10,
+      "k": "bonuses",
+      "i": 21,
+      "number": 22,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/010-11.png"
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 11, including bonus 22, answer and solution. Both temperatures are degrees Celsius; normalized ordinal glyphs in the prompt and reading text to degree signs.",
+      "before": {
+        "parts": [
+          "A sample of oxygen gas is collected over water at 14ºC. Knowing that the vapor pressure of water at 14ºC is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
+        ],
+        "notes": [
+          "(Solution: P<sub>dry</sub> = P<sub>t</sub> − P<sub>wv</sub> = 120 kPa − 1.6 kPa = 118.4 kPa)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "A sample of oxygen gas is collected over water at 14°C. Knowing that the vapor pressure of water at 14°C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
+        ],
+        "notes": [
+          "(Solution: P<sub>dry</sub> = P<sub>t</sub> − P<sub>wv</sub> = 120 kPa − 1.6 kPa = 118.4 kPa)"
+        ],
+        "parts_sanitized": [
+          "A sample of oxygen gas is collected over water at 14°C. Knowing that the vapor pressure of water at 14°C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "round11.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round11.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 16,
+      "k": "bonuses",
+      "i": 7,
+      "number": 8,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/016-04.png"
+      ],
+      "evidence": "Read complete rendered 2009 source physical page 4, including bonus 8, answer and solution. The source temperatures denote degrees Celsius; normalized ordinal glyphs throughout the prompt and solution to degree signs.",
+      "before": {
+        "parts": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5ºC. Assume the freezing point constant of benzene is 5.0ºC per molal, and the freezing point of benzene is 5.5ºC. Give your answer to the nearest whole number in grams per mole."
+        ],
+        "notes": [
+          "(Solution: ΔT<sub>f</sub> = 5.5º – 4.5º = 1.0ºC; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0º/5.0º = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5°C. Assume the freezing point constant of benzene is 5.0°C per molal, and the freezing point of benzene is 5.5°C. Give your answer to the nearest whole number in grams per mole."
+        ],
+        "notes": [
+          "(Solution: ΔT<sub>f</sub> = 5.5° – 4.5° = 1.0°C; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0°/5.0° = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+        ],
+        "parts_sanitized": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5°C. Assume the freezing point constant of benzene is 5.0°C per molal, and the freezing point of benzene is 5.5°C. Give your answer to the nearest whole number in grams per mole."
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 17,
+        "label": "Round 17",
+        "filename": "round17.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round17.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 28,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Math",
+      "year": 2012,
+      "status": "verified",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/028-05.png"
+      ],
+      "evidence": "PDF page 5 shows integral upper bound 2, while the original printed read-as cue says upper bound 1; the keyed answer 6.75 uses upper bound 2. The frozen baseline already corrects the cue and documents the source erratum, so the current record matches the PDF-derived repair.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "Original PDF read-as cue says the integral upper bound is 1, while the printed integral and keyed answer use upper bound 2.",
+      "sourceIssueResolved": true,
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "round12.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round12.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 40,
+      "k": "bonuses",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/040-06.png"
+      ],
+      "evidence": "Compared Math toss-up 11 monomial −6x²y⁴z³ (including coefficient sign and exponents) and total degree 9; bonus 11 regular polygon interior angle 176°, n=90, and solution formula. Normalized the misencoded ordinal º to degree sign ° in the note.",
+      "before": {
+        "notes": [
+          "(Solution: (n – 2)180º = 176n; n = 90)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: (n – 2)180° = 176n; n = 90)"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "Round-9C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-9C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 43,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/043-02.png"
+      ],
+      "evidence": "Compared Math toss-up 4 probability of at least one six on two dice, answer 11/36; bonus 4 14-sided polygon interior-angle sum 2,160 and solution (14−2)(180)=2,160°. Replaced the ordinal º with degree sign ° in the note.",
+      "before": {
+        "notes": [
+          "(Solution: (14 – 2)(180) = 2,160º)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: (14 – 2)(180) = 2,160°)"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "Round-12C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-12C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 52,
+      "k": "bonuses",
+      "i": 21,
+      "number": 22,
+      "category": "Math",
+      "year": 2011,
+      "status": "corrected",
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/052-11.png"
+      ],
+      "evidence": "Compared Math toss-up 22 geometric sequence ratio 1/3 and fifth term 1/3; bonus 22 parallel-line angle diagram, printed 18°/125° cues and answer 37°. Replaced spacing-ring ˚ with degree sign ° in both angle inputs.",
+      "before": {
+        "parts": [
+          "AB and CD are parallel line segments intersected by the line segment EF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18˚ and angle CFE is 125˚, what is the measure of angle AEC?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "AB and CD are parallel line segments intersected by the line segment EF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18° and angle CFE is 125°, what is the measure of angle AEC?"
+        ],
+        "parts_sanitized": [
+          "AB and CD are parallel line segments intersected by the line segment EF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18° and angle CFE is 125°, what is the measure of angle AEC?"
+        ]
+      },
+      "source": {
+        "setNumber": 4,
+        "year": 2011,
+        "roundNumber": 3,
+        "label": "Round 3",
+        "filename": "Round3.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round3.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 55,
+      "k": "bonuses",
+      "i": 1,
+      "number": 2,
+      "category": "Math",
+      "year": 2011,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/055-01.png"
+      ],
+      "evidence": "Compared Math toss-up 2 3-4-5 triangle area and answer 6. Source labels bonus 2 as '2 ) MATH'; normalized the malformed category field to Math. Its triangle angles 40° and 110° imply third angle 30° and intercepted arc 60°; normalized spacing-ring ˚ to degree sign ° in the part.",
+      "before": {
+        "category": ") MATH",
+        "parts": [
+          "If two angles of a triangle inscribed in a circle are 40˚ and 110˚, what is the degree measure of the arc intercepted by the third angle?<br>W) 15<br>X) 30<br>Y) 60<br>Z) 210"
+        ]
+      },
+      "changes": {
+        "category": "Math",
+        "parts": [
+          "If two angles of a triangle inscribed in a circle are 40° and 110°, what is the degree measure of the arc intercepted by the third angle?<br>W) 15<br>X) 30<br>Y) 60<br>Z) 210"
+        ],
+        "parts_sanitized": [
+          "If two angles of a triangle inscribed in a circle are 40° and 110°, what is the degree measure of the arc intercepted by the third angle?\nW) 15\nX) 30\nY) 60\nZ) 210"
+        ]
+      },
+      "source": {
+        "setNumber": 4,
+        "year": 2011,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "Round6.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round6.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 58,
+      "k": "bonuses",
+      "i": 23,
+      "number": 24,
+      "category": "Chemistry",
+      "year": 2011,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/058-12.png"
+      ],
+      "evidence": "The original PDF answer key misspells BIOLUMINESCENCE as 'BIOLUMINESENCE'; prompt and option X spell BIOLUMINESCENCE correctly. Corrected the answer spelling while preserving the keyed content: X) bioluminescence occurs in living organisms and requires an enzyme catalyst.",
+      "before": {
+        "answers": [
+          "X) BIOLUMINESENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "X) BIOLUMINESCENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
+        ],
+        "answers_sanitized": [
+          "X) BIOLUMINESCENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
+        ]
+      },
+      "source": {
+        "setNumber": 4,
+        "year": 2011,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "Round9.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round9.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 61,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2011,
+      "status": "unresolved",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/061-02.png"
+      ],
+      "evidence": "Compared Math toss-up 4 hair-color sampling method and printed key Y) CLUSTER. Because random samples are separately selected from two hair-color strata, the source key conflicts with the described stratified-random method; preserved and marked unresolved. Bonus 4 Taylor expansion eˣ at 0 and first terms 1,x,x²/2 with factorial ACCEPT, against physical page 2.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 4,
+        "year": 2011,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "Round12.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round12.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 79,
+      "k": "bonuses",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2011,
+      "status": "unresolved",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/079-06.png"
+      ],
+      "evidence": "Physical page 6 prompt explicitly requests lowest-to-highest melting point and the printed key orders molecular oxygen, carbon tetrachloride, chloroform, water, sodium chloride. NIST Chemistry WebBook gives chloroform T_fus=209.6 K (−63.6°C; https://webbook.nist.gov/cgi/cbook.cgi?ID=C67663&Type=TFREEZE) and carbon tetrachloride T_fus≈250.39 K (−22.8°C; https://webbook.nist.gov/cgi/cbook.cgi?ID=C56235&Type=TFREEZE). The key reverses these two; preserve source text/key pending correction of original packet.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 5,
+        "year": 2011,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "Round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 85,
+      "k": "bonuses",
+      "i": 23,
+      "number": 24,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/085-12.png"
+      ],
+      "evidence": "Physical page 12 asks for continuity on the closed interval to apply IVT, and its primary answer spells CONTINUOUS correctly. The printed ACCEPT text says “CONTINOUS,” a clear spelling typo; normalize it to CONTINUOUS.",
+      "before": {
+        "answers": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINOUS ON THE INTERVAL)"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINUOUS ON THE INTERVAL)"
+        ],
+        "answers_sanitized": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINUOUS ON THE INTERVAL)"
+        ]
+      },
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 4,
+        "label": "Round 4",
+        "filename": "Sample6_ROUND4.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND4.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 88,
+      "k": "tossups",
+      "i": 2,
+      "number": 3,
+      "category": "Chemistry",
+      "year": 2012,
+      "status": "unresolved",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/088-02.png"
+      ],
+      "evidence": "Physical page 2 stem explicitly asks which element “in its gaseous state” has the greatest electron affinity (not electronegativity); it lists fluorine, bromine, sulfur, chlorine and keys fluorine. NIST Chemistry WebBook reports EA(F)=3.4012 eV (https://webbook.nist.gov/cgi/cbook.cgi?ID=C14762948&Mask=20) and EA(Cl)=3.6131 eV (https://webbook.nist.gov/cgi/cbook.cgi?ID=C22537151&Mask=E1), so chlorine is greater. Preserve the printed key pending source correction.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "Sample6_ROUND7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND7.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 88,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Chemistry",
+      "year": 2012,
+      "status": "unresolved",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/088-05.png"
+      ],
+      "evidence": "Physical page 5 prints gas molar fractions N₂=0.25, O₂=0.65, Ar=0.010; these sum to 0.91 rather than 1. The keyed N₂ partial pressure uses 0.25×4.0=1.0 atm, but the source fractions are internally inconsistent; preserve source values pending correction.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "Sample6_ROUND7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND7.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 91,
+      "k": "bonuses",
+      "i": 19,
+      "number": 20,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/091-10.png"
+      ],
+      "evidence": "Physical page 10 clearly prints dividend 2x³−x²+3x−4 and divisor x+3, while scope prompt has x⁴. By the remainder theorem, f(−3)=2(−27)−9−9−4=−76, matching the printed answer; corrected prompt power to x³ and its plain-text reading field.",
+      "before": {
+        "parts": [
+          "What is the remainder when 2x<sup>4</sup> − x<sup>2</sup> + 3x − 4 is divided by x + 3?"
+        ],
+        "parts_sanitized": [
+          "What is the remainder when 2x^4 - x^2 + 3x - 4 is divided by x + 3?"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What is the remainder when 2x<sup>3</sup> − x<sup>2</sup> + 3x − 4 is divided by x + 3?"
+        ],
+        "parts_sanitized": [
+          "What is the remainder when 2x³ − x² + 3x − 4 is divided by x + 3?"
+        ]
+      },
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "Sample6_ROUND10.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND10.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 94,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Chemistry",
+      "year": 2012,
+      "status": "unresolved",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/094-05.png"
+      ],
+      "evidence": "Physical page 5 gives T=27°C, a 1500 cal/mol decrease in Gibbs free energy (ΔG=−1500), and negligible ΔH, but keys −5. From ΔG=ΔH−TΔS, ΔS≈(+1500)/300.15≈+5 cal mol⁻¹ K⁻¹; this conflicts with the printed key. Preserved source prompt and key without guessing a replacement.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "Sample6_ROUND13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 106,
+      "k": "tossups",
+      "i": 7,
+      "number": 8,
+      "category": "Math",
+      "year": 2013,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/106-04.png"
+      ],
+      "evidence": "Physical page 4 prints a 180° rotation around the origin, but scope has “180o”. Visually, the source glyph is a degree mark; corrected the prompt to 180°. Reflection (4,2)→(4,−2), 180° rotation→(−4,2), then up 2→(−4,4), matching the key.",
+      "before": {
+        "question": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180o around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point’s final location?"
+      },
+      "changes": {
+        "question": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180° around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point’s final location?",
+        "question_sanitized": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180° around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point's final location?"
+      },
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "ROUND-10.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-10.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 106,
+      "k": "bonuses",
+      "i": 6,
+      "number": 7,
+      "category": "Chemistry",
+      "year": 2013,
+      "status": "unresolved",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/106-04.png"
+      ],
+      "evidence": "Physical page 4 transcribes the stem and key correctly: propranolol hydrochloride is described as a racemic mixture, with “It is optically pure” keyed as the NOT-true choice. A racemate is optically inactive and not optically pure. The item also says “It is achiral”; that is true if referring to the bulk sample’s net optical behavior, but false if referring to the chiral propranolol molecules. Source wording is ambiguous; no content change proposed.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "The question uses “it is achiral” ambiguously for a racemic sample of chiral propranolol molecules, potentially making both that choice and “optically pure” false depending on whether it refers to sample or molecules.",
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "ROUND-10.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-10.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 112,
+      "k": "bonuses",
+      "i": 11,
+      "number": 12,
+      "category": "Chemistry",
+      "year": 2013,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/112-page-06.png"
+      ],
+      "evidence": "Physical page 6 keys solvent order 4,2,1,3 (acetonitrile, DMSO, water, methanol) for SN2. This follows the intended general trend that polar aprotic solvents favor SN2 over protic solvents.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "The stem gives no substrate or nucleophile, so the exact four-solvent rate order depends on the reaction; the keyed sequence is accepted as the standard quiz-level solvent trend.",
+      "sourceIssueKind": "wording-caveat",
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "ROUND-16.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-16.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 118,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2014,
+      "status": "verified",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/118-06.png"
+      ],
+      "evidence": "Physical page 6 asks which halogen has the greatest effect on a molecule’s lipophilicity and keys fluorine. Fluorination is a common medicinal-chemistry tool for modulating molecular properties, though its lipophilicity effect depends on the molecule and substitution site; a review documents this variability (https://doi.org/10.1016/S0022-2113(01)00375-X).",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "The stem gives no molecule or substitution site, and fluorination can increase or decrease lipophilicity depending on structure. The keyed fluorine is retained as the intended general quiz response.",
+      "sourceIssueKind": "wording-caveat",
+      "source": {
+        "setNumber": 8,
+        "year": 2014,
+        "roundNumber": 5,
+        "label": "Round 5",
+        "filename": "Round-5-A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-8/Round-5-A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 166,
+      "k": "tossups",
+      "i": 21,
+      "number": 22,
+      "category": "Chemistry",
+      "year": 2017,
+      "status": "verified",
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/166-11.png"
+      ],
+      "evidence": "Physical page 11 keys phenol for the smallest aromatic alcohol. The intended structure is the simplest aromatic compound bearing a hydroxyl group.",
+      "sourceIssue": "The phrase “aromatic alcohol” is chemically imprecise because phenols, with OH directly attached to an aromatic ring, are classified separately from alcohols.",
+      "sourceIssueKind": "wording-caveat",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 2,
+        "label": "Round 2",
+        "filename": "HS_2.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_2.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 229,
+      "k": "bonuses",
+      "i": 17,
+      "number": 18,
+      "category": "Chemistry",
+      "year": 2020,
+      "status": "unresolved",
+      "sourcePages": [
+        9
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/229-09.png"
+      ],
+      "evidence": "Visual inspection confirms the PDF asks for a Friedel–Crafts alkylation reagent to make iso-butylbenzene and keys iso-butyl chloride. This is potentially inconsistent with the standard rearrangement of a primary isobutyl carbocation to the tert-butyl carbocation under Friedel–Crafts alkylation conditions. The source wording and key are preserved; no repair is inferred.",
+      "before": {},
+      "changes": {},
+      "source": {
+        "setNumber": 15,
+        "year": 2020,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "2020-HS-Rd14.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-15/2020-HS-Rd14.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-b.json"
+    },
+    {
+      "p": 8,
+      "k": "tossups",
+      "i": 10,
+      "number": 11,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/008-06.png"
+      ],
+      "evidence": "PDF page 6 prints degree measures in the checked field (“A circle has a diameter of 32 meters. Find the degree measure of the central angle of a se”; answer “90”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "notes": [
+          "(Solution: arc/circumference = nº/360º; n = 90º or (8π/2π16)(360º) = 90º)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: arc/circumference = n°/360°; n = 90° or (8π/2π16)(360°) = 90°)"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "round9.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round9.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 14,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2009,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/014-02.png"
+      ],
+      "evidence": "PDF page 2 prints the angle 18°18′36″; its read-as cue explicitly gives 18 degrees, 18 minutes, 36 seconds, confirming the intended degree/minute/second marks. Updated the code points to °, ′, and ″ while preserving the cue and remaining prompt. Rich reading render preserves all three marks.",
+      "before": {
+        "parts": [
+          "Convert the angle, 18º18’36” (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Convert the angle, 18°18′36″ (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:"
+        ],
+        "parts_sanitized": [
+          "Convert the angle, 18°18′36″ (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:"
+        ]
+      },
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 15,
+        "label": "Round 15",
+        "filename": "round15.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round15.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 35,
+      "k": "bonuses",
+      "i": 1,
+      "number": 2,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/035-01.png"
+      ],
+      "evidence": "PDF page 1 prints degree measures in the checked field (“Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC: water; eth”; answer “MERCURY; WATER; ETHANOL”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "parts": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC: water; ethanol; mercury"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20°C: water; ethanol; mercury"
+        ],
+        "parts_sanitized": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20°C: water; ethanol; mercury"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 4,
+        "label": "Round 4",
+        "filename": "Round-4C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-4C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 41,
+      "k": "tossups",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/041-12.png"
+      ],
+      "evidence": "PDF page 12 prints degree measures in the checked field (“What are the bond angles around each carbon in a benzene ring?”; answer “120º”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "answer": "120º"
+      },
+      "changes": {
+        "answer": "120°",
+        "answer_sanitized": "120°"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "Round-10C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-10C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 44,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/044-02.png"
+      ],
+      "evidence": "PDF page 2 prints degree measures in the checked field (“Solve the following trigonometric equation for x, giving your answer in degrees such that ”; answer “30º AND 150º”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "question": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0º ≤ x &lt; 360º: 2 sin x – 1 = 0",
+        "answer": "30º AND 150º"
+      },
+      "changes": {
+        "question": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0° ≤ x &lt; 360°: 2 sin x – 1 = 0",
+        "answer": "30° AND 150°",
+        "question_sanitized": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0° ≤ x < 360°: 2 sin x - 1 = 0",
+        "answer_sanitized": "30° AND 150°"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "Round-13C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-13C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 47,
+      "k": "tossups",
+      "i": 8,
+      "number": 9,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/047-05.png"
+      ],
+      "evidence": "PDF page 5 prints degree measures in the checked field (“Which of the following fatty acids has the HIGHEST melting point:W) an 18-carbon saturated”; answer “W) AN 18-CARBON SATURATED FATTY ACI”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "notes": [
+          "(Solution: W = 70ºC, X = -5ºC, Y = 16ºC, Z = 32ºC; Saturated Fats are usually solids)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: W = 70°C, X = -5°C, Y = 16°C, Z = 32°C; Saturated Fats are usually solids)"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "Round-16C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-16C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 92,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/092-02.png"
+      ],
+      "evidence": "PDF page 2 prints degree measures in the checked field (“Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degr”; answer “Y) SINE OF 41º”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "question": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7º<br>X) Cosine of 41º<br>Y) Sine of 41º<br>Z) Tangent of 41º",
+        "answer": "Y) SINE OF 41º",
+        "options": [
+          "W) Sine of 7º",
+          "X) Cosine of 41º",
+          "Y) Sine of 41º",
+          "Z) Tangent of 41º"
+        ],
+        "question_sanitized": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?\nW) Sine of 7º\nX) Cosine of 41º\nY) Sine of 41º\nZ) Tangent of 41º"
+      },
+      "changes": {
+        "question": "Which of the following is equivalent to sin 24° cos 17° + cos 24° sin 17° [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7°<br>X) Cosine of 41°<br>Y) Sine of 41°<br>Z) Tangent of 41°",
+        "answer": "Y) SINE OF 41°",
+        "options": [
+          "W) Sine of 7°",
+          "X) Cosine of 41°",
+          "Y) Sine of 41°",
+          "Z) Tangent of 41°"
+        ],
+        "question_sanitized": "Which of the following is equivalent to sin 24° cos 17° + cos 24° sin 17° [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?\nW) Sine of 7°\nX) Cosine of 41°\nY) Sine of 41°\nZ) Tangent of 41°",
+        "answer_sanitized": "Y) SINE OF 41°"
+      },
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "Sample6_ROUND11.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND11.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 92,
+      "k": "tossups",
+      "i": 9,
+      "number": 10,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/092-05.png"
+      ],
+      "evidence": "PDF page 5 prints degree measures in the checked field (“If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures”; answer “102°”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "question": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141º, what is the measure of the vertex angle?"
+      },
+      "changes": {
+        "question": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141°, what is the measure of the vertex angle?",
+        "question_sanitized": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141°, what is the measure of the vertex angle?"
+      },
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "Sample6_ROUND11.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND11.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 8,
+      "k": "tossups",
+      "i": 15,
+      "number": 16,
+      "category": "Chemistry",
+      "year": 2009,
+      "status": "unresolved",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/008-08.png"
+      ],
+      "evidence": "Original PDF page 8 prints CuCl₂ + Na₂S → CuS + 2NaCl₂ and keys the double-replacement reaction. The product formula is a source-origin stoichiometry error; preserved it without inventing a correction. Flagged unresolved for source-error triage.",
+      "changes": {},
+      "before": {},
+      "source": {
+        "setNumber": 1,
+        "year": 2009,
+        "roundNumber": 9,
+        "label": "Round 9",
+        "filename": "round9.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round9.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 20,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/020-12.png"
+      ],
+      "evidence": "The PDF shows −3 + |3 − 6x| < 2, with the existing negative-3 / absolute-value reading cue and answer interval −1/3 < x < 4/3 (accept the open interval). Baseline prompt duplicated the final variable as “6𝑥𝑥”; corrected the full prompt to the single x shown in the source.",
+      "changes": {
+        "parts": [
+          "Solve the inequality −3 + |3 − 6x| &lt; 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ],
+        "parts_sanitized": [
+          "Solve the inequality −3 + |3 − 6x| < 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ]
+      },
+      "before": {
+        "parts": [
+          "Solve the inequality −3 + |3 − 6𝑥𝑥| &lt; 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ]
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 4,
+        "label": "Round 4",
+        "filename": "round4.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round4.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 23,
+      "k": "bonuses",
+      "i": 6,
+      "number": 7,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        4
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/023-04.png"
+      ],
+      "evidence": "Verified the 19th derivative of sin x; PDF answer is minus cos x. Normalized the mathematical minus in the answer to Unicode U+2212.",
+      "changes": {
+        "answers": [
+          "−cos x"
+        ],
+        "answers_sanitized": [
+          "−cos x"
+        ]
+      },
+      "before": {
+        "answers": [
+          "-cos x"
+        ]
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "round7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round7.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 29,
+      "k": "tossups",
+      "i": 2,
+      "number": 3,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/029-02.png"
+      ],
+      "evidence": "Verified the equation and answer 15. Replaced an en dash used as subtraction with Unicode mathematical minus in the rich prompt and sanitized prompt.",
+      "changes": {
+        "question": "Solve for x: (x − 3)(x + 5) = x<sup>2</sup> + x.",
+        "question_sanitized": "Solve for x: (x − 3)(x + 5) = x² + x."
+      },
+      "before": {
+        "question": "Solve for x: (x – 3)(x + 5) = x<sup>2</sup> + x.",
+        "question_sanitized": "Solve for x: (x - 3)(x + 5) = x^2 + x."
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 29,
+      "k": "bonuses",
+      "i": 2,
+      "number": 3,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/029-02.png"
+      ],
+      "evidence": "Verified f(x)=2+4√x, tangent parallel to 4x−6y=3, and point (9,14). Normalized the equation’s dash to Unicode mathematical minus in rich and sanitized reading fields.",
+      "changes": {
+        "parts": [
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x − 6y = 3."
+        ],
+        "parts_sanitized": [
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x − 6y = 3."
+        ]
+      },
+      "before": {
+        "parts": [
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x – 6y = 3."
+        ],
+        "parts_sanitized": [
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4 square root of x where the tangent line is parallel to the line 4x - 6y = 3."
+        ]
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 29,
+      "k": "tossups",
+      "i": 8,
+      "number": 9,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/029-05.png"
+      ],
+      "evidence": "Visually checked x²+y²−4x+6y=0 and keyed center (2,−3); normalized the negative coordinate to Unicode mathematical minus in rich and sanitized values.",
+      "changes": {
+        "answer": "(2, −3)",
+        "question": "What are the coordinates of the center of the circle with equation: x<sup>2</sup> + y<sup>2</sup> − 4x + 6y = 0?",
+        "question_sanitized": "What are the coordinates of the center of the circle with equation: x² + y² − 4x + 6y = 0?",
+        "answer_sanitized": "(2, −3)"
+      },
+      "before": {
+        "answer": "(2, -3)",
+        "question": "What are the coordinates of the center of the circle with equation: x<sup>2</sup> + y<sup>2</sup> – 4x + 6y = 0?",
+        "question_sanitized": "What are the coordinates of the center of the circle with equation: x^2 + y^2 - 4x + 6y = 0?"
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 29,
+      "k": "bonuses",
+      "i": 8,
+      "number": 9,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/029-05.png"
+      ],
+      "evidence": "Visually checked f(x)=3x²−5x at (1,−2), the normal-line answer y=−x−1, and all signs. Replaced dash/hyphen glyphs used as mathematical minus signs with U+2212.",
+      "changes": {
+        "parts": [
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x<sup>2</sup> − 5x at the point (1, −2)?"
+        ],
+        "answers": [
+          "y = −x − 1"
+        ],
+        "parts_sanitized": [
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x² − 5x at the point (1, −2)?"
+        ],
+        "answers_sanitized": [
+          "y = −x − 1"
+        ]
+      },
+      "before": {
+        "parts": [
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x<sup>2</sup> – 5x at the point (1, -2)?"
+        ],
+        "answers": [
+          "y = -x – 1"
+        ],
+        "parts_sanitized": [
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x^2 - 5x at the point (1, -2)?"
+        ]
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 29,
+      "k": "tossups",
+      "i": 13,
+      "number": 14,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/029-07.png"
+      ],
+      "evidence": "Visually checked the fraction (x−1)/(x³−x), including the numerator/denominator reading cue, and keyed vertical asymptotes x=0 and x=−1. Normalized the answer’s negative sign.",
+      "changes": {
+        "answer": "x = 0 and x = −1",
+        "answer_sanitized": "x = 0 and x = −1"
+      },
+      "before": {
+        "answer": "x = 0 and x = -1"
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 29,
+      "k": "bonuses",
+      "i": 13,
+      "number": 14,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        7
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/029-07.png"
+      ],
+      "evidence": "Verified the differential-error expression dy−Δy and key −0.01. Normalized mathematical minus signs in rich and sanitized reading fields.",
+      "changes": {
+        "parts": [
+          "What is the value of the differential approximation error dy − Δy [dy minus delta y] for y = x<sup>2</sup> + 2 as x changes from 1 to 1.1?"
+        ],
+        "answers": [
+          "−0.01"
+        ],
+        "parts_sanitized": [
+          "What is the value of the differential approximation error dy − Δy [dy minus delta y] for y = x² + 2 as x changes from 1 to 1.1?"
+        ],
+        "answers_sanitized": [
+          "−0.01"
+        ]
+      },
+      "before": {
+        "parts": [
+          "What is the value of the differential approximation error dy - ∆y [dy minus delta y] for y = x<sup>2</sup> + 2 as x changes from 1 to 1.1?"
+        ],
+        "answers": [
+          "-0.01"
+        ],
+        "parts_sanitized": [
+          "What is the value of the differential approximation error dy - delta y [dy minus delta y] for y = x^2 + 2 as x changes from 1 to 1.1?"
+        ]
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 29,
+      "k": "bonuses",
+      "i": 19,
+      "number": 20,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        10
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/029-10.png"
+      ],
+      "evidence": "Verified concavity-down interval and accepted open-interval cue. Normalized the negative endpoint from ASCII hyphens to Unicode mathematical minus in rich answer and sanitized prompt.",
+      "changes": {
+        "answers": [
+          "(−∞, −4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO −4)"
+        ],
+        "parts_sanitized": [
+          "In interval notation, give the open interval on which the function f(x) = x^3 + 12x^2 − 3 is concave down."
+        ],
+        "answers_sanitized": [
+          "(−∞, −4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO −4)"
+        ]
+      },
+      "before": {
+        "answers": [
+          "(-∞, -4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO -4)"
+        ],
+        "parts_sanitized": [
+          "In interval notation, give the open interval on which the function f(x) = x^3 + 12x^2 - 3 is concave down."
+        ]
+      },
+      "source": {
+        "setNumber": 2,
+        "year": 2012,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "round13.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 32,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/032-02.png"
+      ],
+      "evidence": "PDF page 2 gives a 100 cm leg in an isosceles right triangle and keys the hypotenuse as 141.4 cm. Restored the square-root glyphs lost from the extracted solution; the PDF itself prints a minus sign before 141.4 cm, a source-origin discrepancy retained in sourceIssue.",
+      "changes": {
+        "notes": [
+          "(Solution: c = a√2 = 100√2 − 141.4cm)"
+        ]
+      },
+      "before": {
+        "notes": [
+          "(Solution: c = a 2 = 100 2 - 141.4cm)"
+        ]
+      },
+      "sourceIssue": "Original PDF solution reads “c = a√2 = 100√2 − 141.4cm”; the subtraction is inconsistent with the keyed positive hypotenuse.",
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 1,
+        "label": "Round 1",
+        "filename": "Round-1C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-1C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 32,
+      "k": "bonuses",
+      "i": 15,
+      "number": 16,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/032-08.png"
+      ],
+      "evidence": "PDF page 8 spells option Y “maleability”; the intended chemistry term is unambiguously “malleability.” Normalized the misspelling in the prompt and options; key W) viscosity and the remaining fields match.",
+      "changes": {
+        "parts": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:<br>W) viscosity<br>X) surface tension<br>Y) malleability<br>Z) vapor pressure"
+        ],
+        "options": [
+          "W) viscosity",
+          "X) surface tension",
+          "Y) malleability",
+          "Z) vapor pressure"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:\nW) viscosity\nX) surface tension\nY) malleability\nZ) vapor pressure"
+        ]
+      },
+      "before": {
+        "parts": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:<br>W) viscosity<br>X) surface tension<br>Y) maleability<br>Z) vapor pressure"
+        ],
+        "options": [
+          "W) viscosity",
+          "X) surface tension",
+          "Y) maleability",
+          "Z) vapor pressure"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 1,
+        "label": "Round 1",
+        "filename": "Round-1C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-1C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 32,
+      "k": "tossups",
+      "i": 17,
+      "number": 18,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/032-09.png"
+      ],
+      "evidence": "Verified x(y+z)² with x=2, y=−8, z=3 and answer 50; normalized the ASCII negative sign to Unicode mathematical minus in rich and sanitized prompts.",
+      "changes": {
+        "question": "Evaluate the expression, x(y + z)<sup>2</sup>, when x = 2, y = −8; and z = 3:",
+        "question_sanitized": "Evaluate the expression, x(y + z)², when x = 2, y = −8; and z = 3:"
+      },
+      "before": {
+        "question": "Evaluate the expression, x(y + z)<sup>2</sup>, when x = 2, y = -8; and z = 3:",
+        "question_sanitized": "Evaluate the expression, x(y + z)^2, when x = 2, y = -8; and z = 3:"
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 1,
+        "label": "Round 1",
+        "filename": "Round-1C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-1C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 35,
+      "k": "bonuses",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/035-02.png"
+      ],
+      "evidence": "PDF page 2 shows legs 2 cm and 10 cm, asks for the hypotenuse rounded to the nearest centimeter, and keys 10. Restored the lost superscript ² glyphs; the PDF’s “c = 10.20 = 10” line is its informal rounding notation, consistent with the key and instruction.",
+      "changes": {
+        "notes": [
+          "(Solution: 2² + 10² = c²; c = 10.20 = 10)"
+        ]
+      },
+      "before": {
+        "notes": [
+          "(Solution: 22 + 102 = c2; c = 10.20 = 10)"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 4,
+        "label": "Round 4",
+        "filename": "Round-4C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-4C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 38,
+      "k": "bonuses",
+      "i": 17,
+      "number": 18,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/038-09.png"
+      ],
+      "evidence": "PDF page 9’s fourth option visibly reads 3x²−10x²+3x, with ² on the second x; the baseline omitted that superscript, so restored it in the displayed and options fields.",
+      "changes": {
+        "parts": [
+          "Which of the following is a prime polynomial over the integers:<br>W) 5x<sup>2</sup> − 8x + 2<br>X) 4x<sup>2</sup> − 4x − 8<br>Y) 3x<sup>2</sup> − 4x − 4<br>Z) 3x<sup>2</sup> − 10x<sup>2</sup> + 3x"
+        ],
+        "options": [
+          "W) 5x<sup>2</sup> − 8x + 2",
+          "X) 4x<sup>2</sup> − 4x − 8",
+          "Y) 3x<sup>2</sup> − 4x − 4",
+          "Z) 3x<sup>2</sup> − 10x<sup>2</sup> + 3x"
+        ],
+        "parts_sanitized": [
+          "Which of the following is a prime polynomial over the integers:\nW) 5x² − 8x + 2\nX) 4x² − 4x − 8\nY) 3x² − 4x − 4\nZ) 3x² − 10x² + 3x"
+        ]
+      },
+      "before": {
+        "parts": [
+          "Which of the following is a prime polynomial over the integers:<br>W) 5x<sup>2</sup> − 8x + 2<br>X) 4x<sup>2</sup> − 4x − 8<br>Y) 3x<sup>2</sup> − 4x − 4<br>Z) 3x<sup>2</sup> − 10x + 3x"
+        ],
+        "options": [
+          "W) 5x<sup>2</sup> − 8x + 2",
+          "X) 4x<sup>2</sup> − 4x − 8",
+          "Y) 3x<sup>2</sup> − 4x − 4",
+          "Z) 3x<sup>2</sup> − 10x + 3x"
+        ],
+        "parts_sanitized": [
+          "Which of the following is a prime polynomial over the integers:<br>W) 5x^2 - 8x + 2<br>X) 4x^2 - 4x - 8<br>Y) 3x^2 - 4x - 4<br>Z) 3x^2 - 10x + 3x"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "Round-7C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-7C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 47,
+      "k": "bonuses",
+      "i": 15,
+      "number": 16,
+      "category": "Chemistry",
+      "year": 2007,
+      "status": "unresolved",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/047-08.png"
+      ],
+      "evidence": "PDF page 8 asks HCl volume to neutralize 50 mL of 0.1 M Sr(OH)₂ and keys 100 mL; the PDF solution labels 0.005 as “M Sr(OH)₂” where it should be moles, a source-origin unit error, while subsequent stoichiometry/key agree.",
+      "changes": {},
+      "before": {},
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "Round-16C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-16C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 47,
+      "k": "bonuses",
+      "i": 17,
+      "number": 18,
+      "category": "Math",
+      "year": 2007,
+      "status": "corrected",
+      "sourcePages": [
+        9
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/047-09.png"
+      ],
+      "evidence": "PDF page 9 gives ∫(3 sin x+5 cos x) dx and accepts −3 cos x+5 sin x+C; the answer’s en dash was normalized to mathematical minus, and the full read-as cue was checked.",
+      "changes": {
+        "answers": [
+          "−3 cos x + 5 sin x + C"
+        ],
+        "answers_sanitized": [
+          "−3 cos x + 5 sin x + C"
+        ]
+      },
+      "before": {
+        "answers": [
+          "–3 cos x + 5 sin x + C"
+        ]
+      },
+      "source": {
+        "setNumber": 3,
+        "year": 2007,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "Round-16C.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-16C.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 59,
+      "k": "tossups",
+      "i": 11,
+      "number": 12,
+      "category": "Math",
+      "year": 2011,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/059-06.png"
+      ],
+      "evidence": "PDF page 6 shows x²−2x=8 and keys roots 4 and −2; the option list and displayed powers match.",
+      "changes": {
+        "answer": "Y) 4 AND −2",
+        "answer_sanitized": "Y) 4 AND −2"
+      },
+      "before": {
+        "answer": "Y) 4 AND -2"
+      },
+      "source": {
+        "setNumber": 4,
+        "year": 2011,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "Round10.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round10.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 68,
+      "k": "bonuses",
+      "i": 22,
+      "number": 23,
+      "category": "Math",
+      "year": 2011,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/068-12.png",
+        "/private/tmp/reaudit-c-p68-12-hi-12.png"
+      ],
+      "evidence": "At 300 DPI, the original PDF p. 12 shows choice X matrix [[0, 1], [−1, 0]] but its printed cue says “row 1: 1, 1; row 2: −1, 0”. The frozen baseline has corrected the cue to row 1: 0, 1 and retains an explicit source-erratum note, so the served matrix, cue, and key are now consistent.",
+      "sourceIssue": "Original PDF choice X read-as cue says row 1: 1, 1, while the printed matrix and answer key show row 1: 0, 1.",
+      "sourceIssueResolved": true,
+      "changes": {},
+      "before": {},
+      "source": {
+        "setNumber": 5,
+        "year": 2011,
+        "roundNumber": 2,
+        "label": "Round 2",
+        "filename": "Round2.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-5/Round2.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 95,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Math",
+      "year": 2012,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/095-02-02.png"
+      ],
+      "evidence": "Visual review of original PDF p. 2: What is the determinant of the 2 by 2 matrix [2, −3; −8, −4]? Printed key: −32. Short Answer. The printed matrix is [[2, −3], [−8, −4]], with a read-as cue spelling out both rows; the key is −32. I checked the complete printed prompt, choices where present, answer, cues, and notes. The source matrix was omitted from the frozen prompt field.",
+      "changes": {
+        "question": "What is the determinant of the 2 by 2 matrix [[2, −3], [−8, −4]] [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?",
+        "question_sanitized": "What is the determinant of the 2 by 2 matrix [[2, −3], [−8, −4]] [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?"
+      },
+      "before": {
+        "question": "What is the determinant of the 2 by 2 matrix [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?"
+      },
+      "source": {
+        "setNumber": 6,
+        "year": 2012,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "Sample6_ROUND14.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND14.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 104,
+      "k": "bonuses",
+      "i": 1,
+      "number": 2,
+      "category": "Chemistry",
+      "year": 2013,
+      "status": "unresolved",
+      "sourcePages": [
+        1
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/104-01-01.png"
+      ],
+      "evidence": "Visual review of original PDF p. 1: A buffer has a 10:1 conjugate-base-to-weak-acid ratio and pKa 5. What is its pH? Printed key: 4. Short Answer; the ratio, pKa, and printed answer 4 are clear. I checked the complete prompt, all choices where present, key, and cues or acceptance text. The printed key conflicts with the stated ratio and pKa; Henderson–Hasselbalch gives pH 6, so this is flagged as a source issue.",
+      "changes": {},
+      "sourceIssue": "The question states conjugate base:weak acid = 10:1 and pKa = 5, which implies pH 6; the PDF prints answer 4.",
+      "before": {},
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 8,
+        "label": "Round 8",
+        "filename": "ROUND-8.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-8.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 110,
+      "k": "bonuses",
+      "i": 23,
+      "number": 24,
+      "category": "Chemistry",
+      "year": 2013,
+      "status": "unresolved",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/110-12.png"
+      ],
+      "evidence": "Visual review of original PDF p. 12: A plastic deforms at 740°C. From cross-sectional areas of 70 centimeters initially and 62 centimeters after deformation, find percent cold work. Printed key: 11%. Short Answer; both areas, temperature, yield strength, and printed key are visible. Complete prompt, notation, options where present, answer, and cues or rejection notes were checked. The source labels cross-sectional area in centimeters rather than square centimeters, so the unit is flagged as a source issue.",
+      "changes": {},
+      "sourceIssue": "The PDF labels cross-sectional area in centimeters, a linear unit, rather than square centimeters; no source correction is inferred.",
+      "before": {},
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 14,
+        "label": "Round 14",
+        "filename": "ROUND-14.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-14.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 113,
+      "k": "tossups",
+      "i": 9,
+      "number": 10,
+      "category": "Math",
+      "year": 2013,
+      "status": "unresolved",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/113-05.png"
+      ],
+      "evidence": "Visual review of original PDF p. 5: Evaluate tan(sin⁻¹(−1/2)). Printed key: −√3/3 (DO NOT ACCEPT: −1/√3). Short Answer; printed key gives −√3/3 and explicitly rejects −1/√3, which is algebraically equivalent. Complete prompt, signs and notation, options when present, printed key, and cues or rejection notes were checked. The printed rejection conflicts with an algebraically identical exact value and is flagged as a source issue.",
+      "changes": {},
+      "sourceIssue": "The PDF says not to accept −1/√3 even though it is exactly equal to the keyed −√3/3.",
+      "sourceIssueKind": "answer-policy",
+      "before": {},
+      "source": {
+        "setNumber": 7,
+        "year": 2013,
+        "roundNumber": 17,
+        "label": "Round 17",
+        "filename": "ROUND-17.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-7/ROUND-17.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 143,
+      "k": "tossups",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2015,
+      "status": "verified",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/143-12.png"
+      ],
+      "evidence": "Visual review of original PDF p. 12: asks which Group 15 element can only exist in positive oxidation states; printed key BISMUTH. Preserve the printed intended answer and flag the categorical wording as a lower-priority caveat for review.",
+      "changes": {},
+      "sourceIssue": "The printed key is bismuth. The wording that it can only exist in positive oxidation states is categorical and may warrant clarification beyond the expected textbook-level answer.",
+      "sourceIssueKind": "wording-caveat",
+      "before": {},
+      "source": {
+        "setNumber": 9,
+        "year": 2015,
+        "roundNumber": 13,
+        "label": "Round 13",
+        "filename": "RegionalHS_13A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-9/RegionalHS_13A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 158,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Chemistry",
+      "year": 2016,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/158-02.png"
+      ],
+      "evidence": "Visual review of original PDF p. 2: it asks for the thermodynamically stable allotrope of phosphorus and keys BLACK PHOSPHORUS. The PDF misspells the element as “phosphorous”; corrected this clear spelling error to “phosphorus.”",
+      "before": {
+        "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
+        "question_sanitized": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
+      },
+      "changes": {
+        "question": "What allotrope of phosphorus is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
+        "question_sanitized": "What allotrope of phosphorus is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
+      },
+      "sourceIssue": "The original PDF misspells the element name as “phosphorous”.",
+      "sourceIssueResolved": true,
+      "source": {
+        "setNumber": 10,
+        "year": 2016,
+        "roundNumber": 11,
+        "label": "Round 11",
+        "filename": "11A_HS_Reg_2016.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/11A_HS_Reg_2016.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 167,
+      "k": "bonuses",
+      "i": 10,
+      "number": 11,
+      "category": "Chemistry",
+      "year": 2017,
+      "status": "corrected",
+      "sourcePages": [
+        6
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/167-06.png"
+      ],
+      "evidence": "Visual review of original PDF p. 6: the source correctly spells phosphorus trichloride and asks for hybridizations of phosphorus trichloride, iodine pentafluoride, and formaldehyde. The frozen baseline has “Phosphorous”; corrected that transcription to “Phosphorus.” The listed answers are sp³, d²sp³ (accept sp³d²), and sp².",
+      "before": {
+        "parts": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorous trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorus trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
+        ],
+        "parts_sanitized": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorus trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
+        ]
+      },
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 3,
+        "label": "Round 3",
+        "filename": "HS_3A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_3A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 170,
+      "k": "tossups",
+      "i": 15,
+      "number": 16,
+      "category": "Chemistry",
+      "year": 2017,
+      "status": "corrected",
+      "sourcePages": [
+        8
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/170-08.png"
+      ],
+      "evidence": "Visual review of original PDF p. 8: option X pairs positive E-cell with positive ΔG and is not possible for a spontaneous redox reaction; key X matches. Corrected the repeated source misspelling “K-equilibium” to “K-equilibrium” in choices W and Z.",
+      "before": {
+        "question": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?<br>W) K-equilibium greater than 1 and delta-H greater than zero<br>X) E-cell greater than zero and delta-G greater than zero<br>Y) delta-H greater than zero and delta-G greater than zero<br>Z) K-equilibium greater than 1 and E-cell greater than zero",
+        "options": [
+          "W) K-equilibium greater than 1 and delta-H greater than zero",
+          "X) E-cell greater than zero and delta-G greater than zero",
+          "Y) delta-H greater than zero and delta-G greater than zero",
+          "Z) K-equilibium greater than 1 and E-cell greater than zero"
+        ]
+      },
+      "changes": {
+        "question": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?<br>W) K-equilibrium greater than 1 and delta-H greater than zero<br>X) E-cell greater than zero and delta-G greater than zero<br>Y) delta-H greater than zero and delta-G greater than zero<br>Z) K-equilibrium greater than 1 and E-cell greater than zero",
+        "options": [
+          "W) K-equilibrium greater than 1 and delta-H greater than zero",
+          "X) E-cell greater than zero and delta-G greater than zero",
+          "Y) delta-H greater than zero and delta-G greater than zero",
+          "Z) K-equilibrium greater than 1 and E-cell greater than zero"
+        ],
+        "question_sanitized": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?\nW) K-equilibrium greater than 1 and delta-H greater than zero\nX) E-cell greater than zero and delta-G greater than zero\nY) delta-H greater than zero and delta-G greater than zero\nZ) K-equilibrium greater than 1 and E-cell greater than zero"
+      },
+      "sourceIssue": "Original PDF misspells “equilibrium” as “equilibium” in choices W and Z.",
+      "sourceIssueResolved": true,
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "HS_6A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_6A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 176,
+      "k": "bonuses",
+      "i": 12,
+      "number": 13,
+      "category": "Math",
+      "year": 2017,
+      "status": "unresolved",
+      "sourcePages": [
+        7
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/176-07.png"
+      ],
+      "evidence": "Visual review of original PDF p. 7: asks for trailing zeros in the number of permutations of 100 objects taken 80 at a time; the printed key is 5. Under standard notation, 100P80=100!/20!, whose product 21·…·100 has 20 trailing zeros (16 factors of 5 plus four extra from multiples of 25). The key 5 instead matches 100!/80!, so the printed question and answer conflict. Preserve both source values for triage.",
+      "changes": {},
+      "sourceIssue": "For permutations of 100 objects taken 80 at a time, standard 100P80=100!/20! has 20 trailing zeros, but the PDF keys 5. The key appears to correspond to 100!/80! instead.",
+      "before": {},
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "HS_12A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_12A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 176,
+      "k": "tossups",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2017,
+      "status": "corrected",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/176-12.png"
+      ],
+      "evidence": "Visual review of original PDF p. 12: the source asks which reaction-kinetics quantities are dimensionless and keys only the steric factor (2). Corrected the baseline’s “quantites” transcription to “quantities,” as the PDF spelling is clear.",
+      "before": {
+        "question": "Identify all of the following three quantites in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency."
+      },
+      "changes": {
+        "question": "Identify all of the following three quantities in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency.",
+        "question_sanitized": "Identify all of the following three quantities in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency."
+      },
+      "source": {
+        "setNumber": 11,
+        "year": 2017,
+        "roundNumber": 12,
+        "label": "Round 12",
+        "filename": "HS_12A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-11/HS_12A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 188,
+      "k": "tossups",
+      "i": 3,
+      "number": 4,
+      "category": "Chemistry",
+      "year": 2018,
+      "status": "corrected",
+      "sourcePages": [
+        2
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/188-02.png"
+      ],
+      "evidence": "Visual review of original PDF p. 2: The printed option spells the element as “Phosphorous”; normalize the source typo to “Phosphorus” in both the displayed choice and options array. Carbon is the element least likely to violate the octet rule, so the keyed answer is sound.",
+      "changes": {
+        "question": "Which of the following elements is LEAST likely to violate the octet rule?<br>W) Carbon<br>X) Sulfur<br>Y) Phosphorus<br>Z) Xenon [ZEE-non]",
+        "options": [
+          "W) Carbon",
+          "X) Sulfur",
+          "Y) Phosphorus",
+          "Z) Xenon [ZEE-non]"
+        ],
+        "question_sanitized": "Which of the following elements is LEAST likely to violate the octet rule?\nW) Carbon\nX) Sulfur\nY) Phosphorus\nZ) Xenon [ZEE-non]"
+      },
+      "before": {
+        "question": "Which of the following elements is LEAST likely to violate the octet rule?<br>W) Carbon<br>X) Sulfur<br>Y) Phosphorous<br>Z) Xenon [ZEE-non]",
+        "options": [
+          "W) Carbon",
+          "X) Sulfur",
+          "Y) Phosphorous",
+          "Z) Xenon [ZEE-non]"
+        ]
+      },
+      "sourceIssue": "Original PDF misspells the element as “Phosphorous”; normalized to the standard element name “Phosphorus”.",
+      "sourceIssueResolved": true,
+      "source": {
+        "setNumber": 12,
+        "year": 2018,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "2018-HSRound-7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-7.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 188,
+      "k": "tossups",
+      "i": 20,
+      "number": 21,
+      "category": "Chemistry",
+      "year": 2018,
+      "status": "unresolved",
+      "sourcePages": [
+        11
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/188-11.png"
+      ],
+      "evidence": "Visual review of original PDF p. 11: The source key gives Li, S, O, but standard first electron-affinity values increase Li < O < S (approximately 60, 141, and 200 kJ/mol respectively); the increasing order should be 1, 2, 3. Preserve the source key for triage.",
+      "changes": {},
+      "sourceIssue": "The original PDF keys the increasing first electron-affinity order as 1, 3, 2 (Li, S, O). Standard values give Li < O < S, so the keyed order is inconsistent with the stated increasing order.",
+      "before": {},
+      "source": {
+        "setNumber": 12,
+        "year": 2018,
+        "roundNumber": 7,
+        "label": "Round 7",
+        "filename": "2018-HSRound-7.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-12/2018-HSRound-7.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 206,
+      "k": "tossups",
+      "i": 22,
+      "number": 23,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "unresolved",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/206-12.png"
+      ],
+      "evidence": "Visual review of original PDF p. 12: Five-coordinate compounds commonly have trigonal-bipyramidal or square-pyramidal geometries. The source key says “square bipyramidal,” which is not the five-coordinate geometry; flag the answer wording for triage.",
+      "changes": {},
+      "sourceIssue": "For a five-coordinate compound the standard geometries are trigonal bipyramidal and square pyramidal. The PDF answer says “square bipyramidal,” which does not describe the five-coordinate geometry.",
+      "sourceIssueKind": "content-error",
+      "before": {},
+      "source": {
+        "setNumber": 13,
+        "year": 2019,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "2019-NSB-HSR-Round-16A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-16A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 206,
+      "k": "bonuses",
+      "i": 9,
+      "number": 10,
+      "category": "Chemistry",
+      "year": 2019,
+      "status": "unresolved",
+      "sourcePages": [
+        5
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/reaudit-c-render/206-05.png"
+      ],
+      "evidence": "Visual review of original PDF p. 5: The source states an equilibrium between N₂O and N₂O₄, which is not a balanced chemically possible equilibrium as written (the oxygen atom counts differ and no other species are included). The keyed temperature response cannot be validated from this equation; preserve it for triage.",
+      "changes": {},
+      "sourceIssue": "The source states an equilibrium between N₂O and N₂O₄, which is atom-imbalanced as written. The listed species alone cannot form the stated equilibrium, so the keyed shift is not interpretable.",
+      "sourceIssueKind": "content-error",
+      "before": {},
+      "source": {
+        "setNumber": 13,
+        "year": 2019,
+        "roundNumber": 16,
+        "label": "Round 16",
+        "filename": "2019-NSB-HSR-Round-16A.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-16A.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-c.json"
+    },
+    {
+      "p": 242,
+      "k": "tossups",
+      "i": 2,
+      "number": 3,
+      "category": "Chemistry",
+      "year": 2021,
+      "status": "unresolved",
+      "sourcePages": [
+        3
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/242-d-render-03.png"
+      ],
+      "evidence": "Visually checked original PDF page 3, including the complete toss-up prompt, all options/acceptance text, printed key, and mathematical/chemical notation. All reactant pairs and key match. However, the printed Rb/Cl key conflicts with standard formation enthalpies: KCl formation is more exothermic than RbCl; see source issue.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "The printed key selects rubidium and chlorine, but standard enthalpies of formation give KCl(s) a more exothermic formation than RbCl(s). The source does not state a different reaction basis; triage the answer key.",
+      "source": {
+        "setNumber": 16,
+        "year": 2021,
+        "roundNumber": 10,
+        "label": "Round 10",
+        "filename": "Set-10-HS-2021.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-16/Set-10-HS-2021.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-d.json"
+    },
+    {
+      "p": 248,
+      "k": "tossups",
+      "i": 11,
+      "number": 12,
+      "category": "Math",
+      "year": 2022,
+      "status": "unresolved",
+      "sourcePages": [
+        12
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-12.png"
+      ],
+      "evidence": "Visually checked original PDF page 12, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. Triangle side length and printed key match. The altitude of an equilateral triangle of side 42 is 21√3, not the printed 26; see source issue.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "The printed answer 26 conflicts with the geometry: the altitude of an equilateral triangle of side 42 is 21√3≈36.37. Flag for source answer-key correction.",
+      "source": {
+        "setNumber": 17,
+        "year": 2022,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "2022-HS-6.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-6.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-d.json"
+    },
+    {
+      "p": 248,
+      "k": "tossups",
+      "i": 14,
+      "number": 15,
+      "category": "Chemistry",
+      "year": 2022,
+      "status": "verified",
+      "sourcePages": [
+        15
+      ],
+      "imagePaths": [
+        "/Users/alex/Documents/GitHub/nsb-reader/tmp/pdfs/nsb-audit/248-d-render-15.png"
+      ],
+      "evidence": "Visually checked original PDF page 15, including complete toss-up prompt, options/accepted forms, printed key, and mathematical/chemical symbols. The mass-spectrometer stem, options, and key match the source; mass-to-charge ratio is the reciprocal of Thomson’s e/m result.",
+      "before": {},
+      "changes": {},
+      "sourceIssue": "Wording caveat: Thomson’s electron result is conventionally stated as charge-to-mass ratio (e/m); mass-to-charge ratio is its reciprocal, so the source appears to refer to the same property with reciprocal terminology.",
+      "sourceIssueKind": "wording-caveat",
+      "source": {
+        "setNumber": 17,
+        "year": 2022,
+        "roundNumber": 6,
+        "label": "Round 6",
+        "filename": "2022-HS-6.pdf",
+        "url": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-17/2022-HS-6.pdf",
+        "supplemental": false
+      },
+      "report": "data/nsb/audit/reaudit-2026-10-10-d.json"
+    }
+  ]
+}

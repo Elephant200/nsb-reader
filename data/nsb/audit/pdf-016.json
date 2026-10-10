@@ -416,13 +416,16 @@
       "sourcePages": [
         4
       ],
-      "evidence": "Rendered PDF p.4: printed answer is 100; the remaining expression is the solution and was appended to the corpus answer.",
+      "evidence": "Read complete rendered 2009 source physical page 4, including bonus 8, answer and solution. The source temperatures denote degrees Celsius; normalized ordinal glyphs throughout the prompt and solution to degree signs.",
       "before": {
         "answers": [
           "100 = 5.5º – 4.5º = 1.0ºC; m / K = 1.0º/5.0º = 0.2m or 0.2mol/kg; f f f (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
         ],
         "notes": [
           "(Solution: ΔT = ΔT"
+        ],
+        "parts": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5ºC. Assume the freezing point constant of benzene is 5.0ºC per molal, and the freezing point of benzene is 5.5ºC. Give your answer to the nearest whole number in grams per mole."
         ]
       },
       "changes": {
@@ -430,7 +433,13 @@
           "100"
         ],
         "notes": [
-          "(Solution: ΔT<sub>f</sub> = 5.5º – 4.5º = 1.0ºC; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0º/5.0º = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+          "(Solution: ΔT<sub>f</sub> = 5.5° – 4.5° = 1.0°C; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0°/5.0° = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+        ],
+        "parts": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5°C. Assume the freezing point constant of benzene is 5.0°C per molal, and the freezing point of benzene is 5.5°C. Give your answer to the nearest whole number in grams per mole."
+        ],
+        "parts_sanitized": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5°C. Assume the freezing point constant of benzene is 5.0°C per molal, and the freezing point of benzene is 5.5°C. Give your answer to the nearest whole number in grams per mole."
         ]
       }
     },
@@ -627,7 +636,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Luna and root viewed PDF page 12: degrees Celsius to the 2nd decimal place. Restored ordinal in its original position; quantities, answer alternatives, and solution retained, including source double period.",
+      "evidence": "Read rendered physical page 12: full bonus 23 prompt, answer, and solution note; verified chemical indices/math layout and read cues against source. The printed boiling point notation denotes degrees Celsius; normalized the ordinal glyph to the degree sign in the prompt, note, and reading text.",
       "before": {
         "answers": [
           "0.07 (ACCEPT: 0.06) ΔT = K (m) = (2.0ºC/m)(0.033m) = 0.066ºC) b b"
@@ -644,13 +653,13 @@
           "0.07 (ACCEPT: 0.06)"
         ],
         "notes": [
-          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0°C/m)(0.033m) = 0.066°C)"
         ],
         "parts": [
-          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0°C per molal.."
         ],
         "parts_sanitized": [
-          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0°C per molal.."
         ]
       }
     },

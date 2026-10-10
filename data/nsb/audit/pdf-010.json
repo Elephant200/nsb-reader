@@ -112,11 +112,33 @@
       "kind": "tossups",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 6; source text and notation agree with the corpus."
+      "evidence": "Read complete rendered 2009 source physical page 6, including toss-up 11, answer and all choices. The four values are angle measures; normalized ordinal glyphs to degree signs in the prompt, answer and options.",
+      "before": {
+        "question": "Which of the following is a second quadrant angle in standard position:<br>W) 500º<br>X) –180º<br>Y) –680º<br>Z) 930º",
+        "answer": "W) 500º",
+        "options": [
+          "W) 500º",
+          "X) –180º",
+          "Y) –680º",
+          "Z) 930º"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following is a second quadrant angle in standard position:<br>W) 500°<br>X) –180°<br>Y) –680°<br>Z) 930°",
+        "answer": "W) 500°",
+        "options": [
+          "W) 500°",
+          "X) –180°",
+          "Y) –680°",
+          "Z) 930°"
+        ],
+        "question_sanitized": "Which of the following is a second quadrant angle in standard position:\nW) 500°\nX) -180°\nY) -680°\nZ) 930°",
+        "answer_sanitized": "W) 500°"
+      }
     },
     {
       "kind": "tossups",
@@ -531,13 +553,16 @@
       "sourcePages": [
         11
       ],
-      "evidence": "Compared the full prompt, answer, and note against rendered source page 11 at /tmp/chem-010p11.png. The source answer is exactly 118.4; the corpus answer had unrelated trailing text. Restored the printed dry/total/water-vapor pressure subscripts in the note.",
+      "evidence": "Read complete rendered 2009 source physical page 11, including bonus 22, answer and solution. Both temperatures are degrees Celsius; normalized ordinal glyphs in the prompt and reading text to degree signs.",
       "before": {
         "answers": [
           "118.4 dry t wv"
         ],
         "notes": [
           "(Solution: P = P – P = 120 kPa – 1.6 kPa = 118.4 kPa)"
+        ],
+        "parts": [
+          "A sample of oxygen gas is collected over water at 14ºC. Knowing that the vapor pressure of water at 14ºC is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
         ]
       },
       "changes": {
@@ -549,6 +574,12 @@
         ],
         "answers_sanitized": [
           "118.4"
+        ],
+        "parts": [
+          "A sample of oxygen gas is collected over water at 14°C. Knowing that the vapor pressure of water at 14°C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
+        ],
+        "parts_sanitized": [
+          "A sample of oxygen gas is collected over water at 14°C. Knowing that the vapor pressure of water at 14°C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
         ]
       }
     },

@@ -573,11 +573,24 @@
       "kind": "bonuses",
       "itemIndex": 23,
       "number": 24,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared the complete question, answer, choices, and notes on page 12 of packet 058 with the original PDF; the source agrees with the corpus."
+      "evidence": "The original PDF answer key misspells BIOLUMINESCENCE as 'BIOLUMINESENCE'; prompt and option X spell BIOLUMINESCENCE correctly. Corrected the answer spelling while preserving the keyed content: X) bioluminescence occurs in living organisms and requires an enzyme catalyst.",
+      "before": {
+        "answers": [
+          "X) BIOLUMINESENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
+        ]
+      },
+      "changes": {
+        "answers": [
+          "X) BIOLUMINESCENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
+        ],
+        "answers_sanitized": [
+          "X) BIOLUMINESCENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
+        ]
+      }
     },
     {
       "kind": "bonuses",

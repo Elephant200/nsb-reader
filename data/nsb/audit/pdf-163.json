@@ -196,11 +196,18 @@
       "kind": "tossups",
       "itemIndex": 21,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "p. 12: printed bond-order formula is N₂⁺, with 2 subscript and + superscript; answer is 2.5."
+      "evidence": "Read full rendered physical page 12 (2016), including toss-up 23, answer; verified signs, exponents, formula notation and reading text against the original. The PDF prints nitrogen’s molecular formula with subscript 2 and a superscript positive charge; restored both marks.",
+      "before": {
+        "question": "What is the bond order of N2+?"
+      },
+      "changes": {
+        "question": "What is the bond order of N<sub>2</sub><sup>+</sup>?",
+        "question_sanitized": "What is the bond order of N₂⁺?"
+      }
     },
     {
       "kind": "bonuses",

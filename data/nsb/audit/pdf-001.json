@@ -136,11 +136,18 @@
       "kind": "tossups",
       "itemIndex": 14,
       "number": 15,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 8; source text and notation agree with the corpus."
+      "evidence": "Read rendered physical page 8: full toss-up 15 prompt, answer; checked typography and reading annotations against the source. The PDF’s temperature notation is degrees Celsius; normalized the legacy ordinal glyph to the degree sign.",
+      "before": {
+        "question": "What is the pH of a solution with a pOH of 6.8 at 25ºC?"
+      },
+      "changes": {
+        "question": "What is the pH of a solution with a pOH of 6.8 at 25°C?",
+        "question_sanitized": "What is the pH of a solution with a pOH of 6.8 at 25°C?"
+      }
     },
     {
       "kind": "tossups",
@@ -242,11 +249,21 @@
       "kind": "bonuses",
       "itemIndex": 0,
       "number": 1,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         1
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 1; source text and notation agree with the corpus."
+      "evidence": "Read rendered physical page 1: full bonus 1 prompt, answer, and all W–Z choices, including solution note; checked typography and reading annotations against the source. The PDF’s solution temperatures are in degrees Celsius; normalized the legacy ordinal glyphs to degree signs.",
+      "before": {
+        "notes": [
+          "(Solution: MgO = 2800ºC; diamond = 3550ºC; NaCl = 801ºC; Cs = 645ºC)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: MgO = 2800°C; diamond = 3550°C; NaCl = 801°C; Cs = 645°C)"
+        ]
+      }
     },
     {
       "kind": "bonuses",

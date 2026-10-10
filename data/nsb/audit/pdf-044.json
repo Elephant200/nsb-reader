@@ -36,11 +36,21 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2; compared the complete prompt and key, including notes. Source and corpus agree on the flagged number or notation."
+      "evidence": "PDF page 2 prints degree measures in the checked field (“Solve the following trigonometric equation for x, giving your answer in degrees such that ”; answer “30º AND 150º”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "question": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0º ≤ x &lt; 360º: 2 sin x – 1 = 0",
+        "answer": "30º AND 150º"
+      },
+      "changes": {
+        "question": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0° ≤ x &lt; 360°: 2 sin x – 1 = 0",
+        "answer": "30° AND 150°",
+        "question_sanitized": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0° ≤ x < 360°: 2 sin x - 1 = 0",
+        "answer_sanitized": "30° AND 150°"
+      }
     },
     {
       "kind": "tossups",

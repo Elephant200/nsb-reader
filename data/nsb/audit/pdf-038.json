@@ -576,7 +576,7 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered PDF page 9 shows x² in each polynomial; the corpus moved the exponents to the ends of options.",
+      "evidence": "PDF page 9’s fourth option visibly reads 3x²−10x²+3x, with ² on the second x; the baseline omitted that superscript, so restored it in the displayed and options fields.",
       "before": {
         "parts": [
           "Which of the following is a prime polynomial over the integers: 2<br>W) 5x – 8x + 2 2<br>X) 4x – 4x – 8 2<br>Y) 3x – 4x – 4 2 2<br>Z) 3x – 10x + 3x 2"
@@ -593,16 +593,16 @@
       },
       "changes": {
         "parts": [
-          "Which of the following is a prime polynomial over the integers:<br>W) 5x<sup>2</sup> − 8x + 2<br>X) 4x<sup>2</sup> − 4x − 8<br>Y) 3x<sup>2</sup> − 4x − 4<br>Z) 3x<sup>2</sup> − 10x + 3x"
+          "Which of the following is a prime polynomial over the integers:<br>W) 5x<sup>2</sup> − 8x + 2<br>X) 4x<sup>2</sup> − 4x − 8<br>Y) 3x<sup>2</sup> − 4x − 4<br>Z) 3x<sup>2</sup> − 10x<sup>2</sup> + 3x"
         ],
         "parts_sanitized": [
-          "Which of the following is a prime polynomial over the integers:<br>W) 5x^2 - 8x + 2<br>X) 4x^2 - 4x - 8<br>Y) 3x^2 - 4x - 4<br>Z) 3x^2 - 10x + 3x"
+          "Which of the following is a prime polynomial over the integers:\nW) 5x² − 8x + 2\nX) 4x² − 4x − 8\nY) 3x² − 4x − 4\nZ) 3x² − 10x² + 3x"
         ],
         "options": [
           "W) 5x<sup>2</sup> − 8x + 2",
           "X) 4x<sup>2</sup> − 4x − 8",
           "Y) 3x<sup>2</sup> − 4x − 4",
-          "Z) 3x<sup>2</sup> − 10x + 3x"
+          "Z) 3x<sup>2</sup> − 10x<sup>2</sup> + 3x"
         ],
         "answers": [
           "W) 5x<sup>2</sup> − 8x + 2"

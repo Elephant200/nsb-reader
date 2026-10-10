@@ -128,11 +128,36 @@
       "kind": "tossups",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Rendered PDF page 6; checked the relevant formula or powers and compared the full item."
+      "evidence": "Read rendered physical page 6 (2007), including the full toss-up 11 prompt, answer, all options, and solution note; checked symbols, typography, and reading annotations against source. The printed angle values are degrees; normalized the ordinal glyphs in the W option and solution note to degree signs.",
+      "before": {
+        "question": "Which of the following are coterminal angles in standard position (read slowly):<br>W) 550º and 185º<br>X) 80° and –190°<br>Y) 1160° and 800°<br>Z) 181° and –118°",
+        "options": [
+          "W) 550º and 185º",
+          "X) 80° and –190°",
+          "Y) 1160° and 800°",
+          "Z) 181° and –118°"
+        ],
+        "notes": [
+          "(Solution: 80 +3(360º) = 1160º; 80 +2(360º) = 800º)"
+        ]
+      },
+      "changes": {
+        "question": "Which of the following are coterminal angles in standard position (read slowly):<br>W) 550° and 185°<br>X) 80° and –190°<br>Y) 1160° and 800°<br>Z) 181° and –118°",
+        "options": [
+          "W) 550° and 185°",
+          "X) 80° and –190°",
+          "Y) 1160° and 800°",
+          "Z) 181° and –118°"
+        ],
+        "notes": [
+          "(Solution: 80 +3(360°) = 1160°; 80 +2(360°) = 800°)"
+        ],
+        "question_sanitized": "Which of the following are coterminal angles in standard position (read slowly):\nW) 550° and 185°\nX) 80° and -190°\nY) 1160° and 800°\nZ) 181° and -118°"
+      }
     },
     {
       "kind": "tossups",
@@ -346,11 +371,21 @@
       "kind": "bonuses",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered PDF page 2; checked the relevant formula or powers and compared the full item."
+      "evidence": "Compared Math toss-up 4 probability of at least one six on two dice, answer 11/36; bonus 4 14-sided polygon interior-angle sum 2,160 and solution (14−2)(180)=2,160°. Replaced the ordinal º with degree sign ° in the note.",
+      "before": {
+        "notes": [
+          "(Solution: (14 – 2)(180) = 2,160º)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: (14 – 2)(180) = 2,160°)"
+        ]
+      }
     },
     {
       "kind": "bonuses",

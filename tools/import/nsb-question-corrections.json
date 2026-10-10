@@ -2565,6 +2565,16 @@
         "answer": "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)",
         "answer_sanitized": "CARBON DIOXIDE (ACCEPT: CO₂)"
       },
+      "4": {
+        "question": "Which of the following elements is LEAST likely to violate the octet rule?<br>W) Carbon<br>X) Sulfur<br>Y) Phosphorus<br>Z) Xenon [ZEE-non]",
+        "options": [
+          "W) Carbon",
+          "X) Sulfur",
+          "Y) Phosphorus",
+          "Z) Xenon [ZEE-non]"
+        ],
+        "question_sanitized": "Which of the following elements is LEAST likely to violate the octet rule?\nW) Carbon\nX) Sulfur\nY) Phosphorus\nZ) Xenon [ZEE-non]"
+      },
       "22": {
         "answer": "METHANE (ACCEPT: CH<sub>4</sub>)",
         "answer_sanitized": "METHANE (ACCEPT: CH₄)"
@@ -3192,6 +3202,10 @@
           "Z) The proper distance to faraway galaxies does not scale linearly with the Hubble constant"
         ],
         "question_sanitized": "A necessary conclusion of Hubble’s law is that very-distant galaxies are moving away from us at speeds faster than the speed of light. Which of the following correctly explains this observation? W) Hubble’s law becomes non-linear for very large distances X) The Hubble constant was originally miscalculated Y) Due to the metric expansion of space, faraway objects can recede from us faster than the speed of light Z) The proper distance to faraway galaxies does not scale linearly with the Hubble constant"
+      },
+      "23": {
+        "question": "Identify all of the following three quantities in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency.",
+        "question_sanitized": "Identify all of the following three quantities in reaction kinetics that are dimensionless: 1) Rate constant; 2) Steric [steh-rik] factor; 3) Collision frequency."
       }
     },
     "bonuses": {
@@ -4014,7 +4028,16 @@
         "answer_sanitized": "EMPIRICAL FORMULA: SiO₄, CHARGE: 4⁻"
       },
       "10": {
-        "question": "Which of the following allotropes of phosphorous consists of chains of covalently-linked P<sub>4</sub> tetrahedra?<br>W) White phosphorous<br>X) Red phosphorous<br>Y) Black phosphorous<br>Z) Violet phosphorous"
+        "question": "Which of the following allotropes of phosphorus consists of chains of covalently-linked P<sub>4</sub> tetrahedra?<br>W) White phosphorus<br>X) Red phosphorus<br>Y) Black phosphorus<br>Z) Violet phosphorus",
+        "options": [
+          "W) White phosphorus",
+          "X) Red phosphorus",
+          "Y) Black phosphorus",
+          "Z) Violet phosphorus"
+        ],
+        "answer": "X) RED PHOSPHORUS",
+        "question_sanitized": "Which of the following allotropes of phosphorus consists of chains of covalently-linked P₄ tetrahedra?\nW) White phosphorus\nX) Red phosphorus\nY) Black phosphorus\nZ) Violet phosphorus",
+        "answer_sanitized": "X) RED PHOSPHORUS"
       },
       "12": {
         "question": "For what integer value of k is 2015 cubed closest to 10<sup>k</sup>?",
@@ -4171,6 +4194,16 @@
       "10": {
         "answer": "HYDRAZINE (ACCEPT: N<sub>2</sub>H<sub>4</sub>)",
         "answer_sanitized": "HYDRAZINE (ACCEPT: N₂H₄)"
+      },
+      "16": {
+        "question": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?<br>W) K-equilibrium greater than 1 and delta-H greater than zero<br>X) E-cell greater than zero and delta-G greater than zero<br>Y) delta-H greater than zero and delta-G greater than zero<br>Z) K-equilibrium greater than 1 and E-cell greater than zero",
+        "options": [
+          "W) K-equilibrium greater than 1 and delta-H greater than zero",
+          "X) E-cell greater than zero and delta-G greater than zero",
+          "Y) delta-H greater than zero and delta-G greater than zero",
+          "Z) K-equilibrium greater than 1 and E-cell greater than zero"
+        ],
+        "question_sanitized": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?\nW) K-equilibrium greater than 1 and delta-H greater than zero\nX) E-cell greater than zero and delta-G greater than zero\nY) delta-H greater than zero and delta-G greater than zero\nZ) K-equilibrium greater than 1 and E-cell greater than zero"
       },
       "22": {
         "question": "Name one of the linear factors of x<sup>2</sup> + 14x – 72.",
@@ -4493,6 +4526,12 @@
         ],
         "answers_sanitized": [
           "1) sp³; 2) d²sp³ (ACCEPT: sp³d²); 3) sp²"
+        ],
+        "parts": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorus trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
+        ],
+        "parts_sanitized": [
+          "Identify the central atom hybridization states of the following three molecules: 1) Phosphorus trichloride; 2) Iodine pentafluoride; 3) Formaldehyde."
         ]
       },
       "14": {
@@ -4847,6 +4886,12 @@
         "answers_sanitized": [
           "224x⁶ – 384x³ + 84x²"
         ]
+      }
+    },
+    "tossups": {
+      "23": {
+        "question": "What is the bond order of N<sub>2</sub><sup>+</sup>?",
+        "question_sanitized": "What is the bond order of N₂⁺?"
       }
     }
   },
@@ -5228,8 +5273,8 @@
   "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-10/11A_HS_Reg_2016.pdf": {
     "tossups": {
       "4": {
-        "question": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
-        "question_sanitized": "What allotrope of phosphorous is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
+        "question": "What allotrope of phosphorus is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?",
+        "question_sanitized": "What allotrope of phosphorus is thermodynamically stable at room temperature and pressure and is structured as puckered sheets of linked atoms connected in 6-membered rings?"
       },
       "7": {
         "question": "How many points of intersection are there for the graphs of y = 3<sup>x</sup> and y = −x<sup>2</sup> + 5?",
@@ -5280,6 +5325,10 @@
       "9": {
         "question": "Which of the following is equivalent to cosine 56° × cosine 23° − sine 23° × sine 56°?<br>W) sine 33°<br>X) cosine 33°<br>Y) sine 79°<br>Z) cosine 79°",
         "question_sanitized": "Which of the following is equivalent to cosine 56° × cosine 23° − sine 23° × sine 56°? W) sine 33° X) cosine 33° Y) sine 79° Z) cosine 79°"
+      },
+      "18": {
+        "question": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132°, what is the degree measure of the vertex angle?",
+        "question_sanitized": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132°, what is the degree measure of the vertex angle?"
       }
     },
     "bonuses": {
@@ -6429,6 +6478,10 @@
       "10": {
         "question": "What term can apply to the compounds 1-octanol and sodium dodecyl-sulfate [doh-dek-ihl sulfate], as well as transmembrane proteins, phospholipids, and surfactants, characterizing molecules that contain both fat-soluble and water-soluble components?"
       },
+      "12": {
+        "question": "A right triangle with one angle of 45° is inscribed in a circle of radius 10. What is the area of the triangle?<br>W) 50<br>X) 50 times the square root of 2<br>Y) 100<br>Z) 100 times the square root of 2",
+        "question_sanitized": "A right triangle with one angle of 45° is inscribed in a circle of radius 10. What is the area of the triangle?\nW) 50\nX) 50 times the square root of 2\nY) 100\nZ) 100 times the square root of 2"
+      },
       "17": {
         "question": "Consider a bag of five marbles, 3 red and 2 white. You draw marbles from the bag until you draw the last white marble, at which point you stop. What is the probability you stop drawing after the 2<sup>nd</sup> marble is selected?",
         "question_sanitized": "Consider a bag of five marbles, 3 red and 2 white. You draw marbles from the bag until you draw the last white marble, at which point you stop. What is the probability you stop drawing after the second marble is selected?"
@@ -7436,6 +7489,10 @@
       "2": {
         "question": "Find the sum of the two solutions for the quadratic equation: 2x<sup>2</sup> − 4x + 8 = 0.",
         "question_sanitized": "Find the sum of the two solutions for the quadratic equation: 2x squared minus 4x plus 8 equals 0."
+      },
+      "8": {
+        "question": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180° around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point’s final location?",
+        "question_sanitized": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180° around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point's final location?"
       },
       "12": {
         "question": "Providing your answer as a whole number, what is the overall order of the reaction governed by the rate law R = k[NO<sub>2</sub>]<sup>2</sup>[Br<sub>2</sub>] [R equals k times the concentration of N-O-2 squared times the concentration of bromine]?",
@@ -8614,6 +8671,16 @@
         "answer": "sp<sup>3</sup>",
         "answer_sanitized": "sp³"
       }
+    },
+    "bonuses": {
+      "24": {
+        "answers": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINUOUS ON THE INTERVAL)"
+        ],
+        "answers_sanitized": [
+          "f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINUOUS ON THE INTERVAL)"
+        ]
+      }
     }
   },
   "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND5.pdf": {
@@ -8685,6 +8752,14 @@
       }
     },
     "bonuses": {
+      "11": {
+        "answers": [
+          "PRIESTLEY"
+        ],
+        "answers_sanitized": [
+          "PRIESTLEY"
+        ]
+      },
       "22": {
         "parts": [
           "A jar contains 50 marbles. Exactly 10% are green, 20% are blue, 30% are yellow, and the rest are orange. Which of the following is the probability of randomly picking first a blue marble, replacing it, and then picking an orange marble?<br>W) <span class=\"nsb-fraction\"><span>1</span><span>25</span></span><br>X) <span class=\"nsb-fraction\"><span>2</span><span>25</span></span><br>Y) <span class=\"nsb-fraction\"><span>3</span><span>25</span></span><br>Z) <span class=\"nsb-fraction\"><span>4</span><span>25</span></span>"
@@ -8855,6 +8930,10 @@
   },
   "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-6/Sample6_ROUND14.pdf": {
     "tossups": {
+      "4": {
+        "question": "What is the determinant of the 2 by 2 matrix [[2, −3], [−8, −4]] [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?",
+        "question_sanitized": "What is the determinant of the 2 by 2 matrix [[2, −3], [−8, −4]] [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?"
+      },
       "6": {
         "question": "What is the limit of x<sup>x</sup> as x approaches 0?",
         "question_sanitized": "What is the limit of x^(x) as x approaches 0?"
@@ -9076,7 +9155,9 @@
           "X) 0 and 2",
           "Y) 4 and −2",
           "Z) −4 and 2"
-        ]
+        ],
+        "answer": "Y) 4 AND −2",
+        "answer_sanitized": "Y) 4 AND −2"
       },
       "14": {
         "question": "Factor the following expression completely over the integers: a<sup>3</sup> − 8.",
@@ -9306,8 +9387,16 @@
         "answer_sanitized": "Y) 10^8"
       },
       "4": {
-        "question": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7º<br>X) Cosine of 41º<br>Y) Sine of 41º<br>Z) Tangent of 41º",
-        "question_sanitized": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?\nW) Sine of 7º\nX) Cosine of 41º\nY) Sine of 41º\nZ) Tangent of 41º"
+        "question": "Which of the following is equivalent to sin 24° cos 17° + cos 24° sin 17° [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7°<br>X) Cosine of 41°<br>Y) Sine of 41°<br>Z) Tangent of 41°",
+        "question_sanitized": "Which of the following is equivalent to sin 24° cos 17° + cos 24° sin 17° [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?\nW) Sine of 7°\nX) Cosine of 41°\nY) Sine of 41°\nZ) Tangent of 41°",
+        "answer": "Y) SINE OF 41°",
+        "options": [
+          "W) Sine of 7°",
+          "X) Cosine of 41°",
+          "Y) Sine of 41°",
+          "Z) Tangent of 41°"
+        ],
+        "answer_sanitized": "Y) SINE OF 41°"
       },
       "5": {
         "question": "Which of the following is false regarding the reaction A (g) + B (s) → C (s)? (READ IS: A gaseous plus B solid yields C solid)<br>W) As pressure decreases, reaction rate decreases<br>X) As temperature increases, reaction rate increases<br>Y) As surface area increases, reaction rate decreases<br>Z) When a catalyst is added, reaction rate increases",
@@ -9316,6 +9405,10 @@
       "7": {
         "question": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD<sup>+</sup>.",
         "question_sanitized": "Name the water soluble vitamin found in nuts, grains, and meats that functions in vertebrates as a component of the coenzyme NAD⁺."
+      },
+      "10": {
+        "question": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141°, what is the measure of the vertex angle?",
+        "question_sanitized": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141°, what is the measure of the vertex angle?"
       },
       "22": {
         "question": "Given triangle ABC with right angle A, angle B with a measure of 30°, and AC equal to 3√3, which of the following is the length of side AB?<br>W) 9<br>X) 6√3<br>Y) 9√3<br>Z) 12√3",
@@ -9673,6 +9766,20 @@
       }
     },
     "bonuses": {
+      "1": {
+        "parts": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?<br>W) Transition metals and main group<br>X) Alkali and alkaline<br>Y) Lanthanides (read as: LAHN-thah-nyds) and actinides<br>Z) Alkaline and transition metals"
+        ],
+        "options": [
+          "W) Transition metals and main group",
+          "X) Alkali and alkaline",
+          "Y) Lanthanides (read as: LAHN-thah-nyds) and actinides",
+          "Z) Alkaline and transition metals"
+        ],
+        "parts_sanitized": [
+          "The rare earth elements are primarily composed of elements from which groups of the periodic table?\nW) Transition metals and main group\nX) Alkali and alkaline\nY) Lanthanides (read as: LAHN-thah-nyds) and actinides\nZ) Alkaline and transition metals"
+        ]
+      },
       "7": {
         "parts": [
           "A mineral with the chemical formula Ca<sub>2</sub>Mg<sub>5</sub>Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub> belongs to which of the following mineral groups?<br>W) Serpentines<br>X) Amphiboles<br>Y) Olivines (read as: OH-li-veens)<br>Z) Pyroxenes (read as: py-ROHK-seens)"
@@ -9764,6 +9871,14 @@
       "21": {
         "answers": [
           "TOWARDS THE CIRCLE'S CENTER"
+        ]
+      },
+      "24": {
+        "answers": [
+          "X) BIOLUMINESCENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
+        ],
+        "answers_sanitized": [
+          "X) BIOLUMINESCENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN ENZYME CATALYST"
         ]
       }
     }
@@ -9885,10 +10000,10 @@
       },
       "20": {
         "parts": [
-          "What is the remainder when 2x<sup>4</sup> − x<sup>2</sup> + 3x − 4 is divided by x + 3?"
+          "What is the remainder when 2x<sup>3</sup> − x<sup>2</sup> + 3x − 4 is divided by x + 3?"
         ],
         "parts_sanitized": [
-          "What is the remainder when 2x^4 - x^2 + 3x - 4 is divided by x + 3?"
+          "What is the remainder when 2x³ − x² + 3x − 4 is divided by x + 3?"
         ]
       },
       "21": {
@@ -10011,16 +10126,20 @@
   "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round13.pdf": {
     "tossups": {
       "3": {
-        "question": "Solve for x: (x – 3)(x + 5) = x<sup>2</sup> + x.",
-        "question_sanitized": "Solve for x: (x - 3)(x + 5) = x^2 + x."
+        "question": "Solve for x: (x − 3)(x + 5) = x<sup>2</sup> + x.",
+        "question_sanitized": "Solve for x: (x − 3)(x + 5) = x² + x."
       },
       "9": {
-        "question": "What are the coordinates of the center of the circle with equation: x<sup>2</sup> + y<sup>2</sup> – 4x + 6y = 0?",
-        "question_sanitized": "What are the coordinates of the center of the circle with equation: x^2 + y^2 - 4x + 6y = 0?"
+        "question": "What are the coordinates of the center of the circle with equation: x<sup>2</sup> + y<sup>2</sup> − 4x + 6y = 0?",
+        "question_sanitized": "What are the coordinates of the center of the circle with equation: x² + y² − 4x + 6y = 0?",
+        "answer": "(2, −3)",
+        "answer_sanitized": "(2, −3)"
       },
       "14": {
         "question": "What are the equations of each vertical asymptote for the graph of the function f(x) = <span class=\"nsb-fraction\"><span>x − 1</span><span>x<sup>3</sup> − x</span></span> [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x].",
-        "question_sanitized": "What are the equations of each vertical asymptote for the graph of the function f(x) = (x - 1)/(x^3 - x) [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x]."
+        "question_sanitized": "What are the equations of each vertical asymptote for the graph of the function f(x) = (x - 1)/(x^3 - x) [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x].",
+        "answer": "x = 0 and x = −1",
+        "answer_sanitized": "x = 0 and x = −1"
       },
       "20": {
         "question": "Evaluate lim<sub>x → ∞</sub> <span class=\"nsb-fraction\"><span>x<sup>5</sup></span><span>e<sup>x</sup></span></span> [the limit as x goes to infinity of the fraction x to the fifth over e to the x].",
@@ -10042,10 +10161,10 @@
       },
       "3": {
         "parts": [
-          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x – 6y = 3."
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x − 6y = 3."
         ],
         "parts_sanitized": [
-          "Find the coordinates of the point on the graph of f(x) = 2 + 4 square root of x where the tangent line is parallel to the line 4x - 6y = 3."
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x − 6y = 3."
         ]
       },
       "4": {
@@ -10078,10 +10197,16 @@
       },
       "9": {
         "parts": [
-          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x<sup>2</sup> – 5x at the point (1, -2)?"
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x<sup>2</sup> − 5x at the point (1, −2)?"
         ],
         "parts_sanitized": [
-          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x^2 - 5x at the point (1, -2)?"
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x² − 5x at the point (1, −2)?"
+        ],
+        "answers": [
+          "y = −x − 1"
+        ],
+        "answers_sanitized": [
+          "y = −x − 1"
         ]
       },
       "11": {
@@ -10094,10 +10219,16 @@
       },
       "14": {
         "parts": [
-          "What is the value of the differential approximation error dy - ∆y [dy minus delta y] for y = x<sup>2</sup> + 2 as x changes from 1 to 1.1?"
+          "What is the value of the differential approximation error dy − Δy [dy minus delta y] for y = x<sup>2</sup> + 2 as x changes from 1 to 1.1?"
         ],
         "parts_sanitized": [
-          "What is the value of the differential approximation error dy - delta y [dy minus delta y] for y = x^2 + 2 as x changes from 1 to 1.1?"
+          "What is the value of the differential approximation error dy − Δy [dy minus delta y] for y = x² + 2 as x changes from 1 to 1.1?"
+        ],
+        "answers": [
+          "−0.01"
+        ],
+        "answers_sanitized": [
+          "−0.01"
         ]
       },
       "20": {
@@ -10105,7 +10236,13 @@
           "In interval notation, give the open interval on which the function f(x) = x<sup>3</sup> + 12x<sup>2</sup> – 3 is concave down."
         ],
         "parts_sanitized": [
-          "In interval notation, give the open interval on which the function f(x) = x^3 + 12x^2 - 3 is concave down."
+          "In interval notation, give the open interval on which the function f(x) = x^3 + 12x^2 − 3 is concave down."
+        ],
+        "answers": [
+          "(−∞, −4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO −4)"
+        ],
+        "answers_sanitized": [
+          "(−∞, −4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO −4)"
         ]
       },
       "21": {
@@ -11680,6 +11817,15 @@
       }
     },
     "bonuses": {
+      "2": {
+        "category": "Math",
+        "parts": [
+          "If two angles of a triangle inscribed in a circle are 40° and 110°, what is the degree measure of the arc intercepted by the third angle?<br>W) 15<br>X) 30<br>Y) 60<br>Z) 210"
+        ],
+        "parts_sanitized": [
+          "If two angles of a triangle inscribed in a circle are 40° and 110°, what is the degree measure of the arc intercepted by the third angle?\nW) 15\nX) 30\nY) 60\nZ) 210"
+        ]
+      },
       "4": {
         "answers": [
           "CARBON DIOXIDE (ACCEPT: CO<sub>2</sub>)"
@@ -12092,6 +12238,11 @@
         "question_sanitized": "Differentiate the following trigonometric function: f(x) = sin(x^2)",
         "answer_sanitized": "2x cos(x^2)"
       },
+      "9": {
+        "notes": [
+          "(Solution: W = 70°C, X = -5°C, Y = 16°C, Z = 32°C; Saturated Fats are usually solids)"
+        ]
+      },
       "11": {
         "question": "Which of the following is NOT true:<br>W) a function’s graph may intersect one of its horizontal asymptotes<br>X) a function’s graph may intersect one of its vertical asymptotes<br>Y) the identity function f(x) = x is its own inverse<br>Z) the function f(x) = −x is its own inverse",
         "options": [
@@ -12164,6 +12315,12 @@
         ],
         "parts_sanitized": [
           "Find the following indefinite integral: integral of (3 sin x + 5 cos x) dx (read as: the integral of 3 sine x + 5 cosine x, dx)"
+        ],
+        "answers": [
+          "−3 cos x + 5 sin x + C"
+        ],
+        "answers_sanitized": [
+          "−3 cos x + 5 sin x + C"
         ]
       },
       "24": {
@@ -12178,6 +12335,11 @@
   },
   "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-17C.pdf": {
     "tossups": {
+      "8": {
+        "notes": [
+          "(Solution: NaF = 993°C; NaCl = 801; CaF<sub>2</sub> = 1423; MgO = 2800°C)"
+        ]
+      },
       "11": {
         "question": "Differentiate and simplify the following with respect to x: y = e<sup>√x</sup>",
         "answer": "<span class=\"nsb-fraction\"><span>e<sup>√x</sup></span><span>2√x</span></span>",
@@ -12253,6 +12415,14 @@
         ],
         "notes": [
           "(Solution: PE<sub>g</sub> = Fd = (450 N)(0.6 − 1.1 m) = −225 J. KE = −PE<sub>g</sub> = ½mv<sup>2</sup> → v = √(<span class=\"nsb-fraction\"><span>2(225 J)</span><span>450 N / 9.8 m/s<sup>2</sup></span></span>) = 3.13 m/s)"
+        ]
+      },
+      "11": {
+        "parts": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45°, find the area of the triangle, to the nearest whole number:"
+        ],
+        "parts_sanitized": [
+          "For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45°, find the area of the triangle, to the nearest whole number:"
         ]
       },
       "15": {
@@ -12473,6 +12643,14 @@
       },
       "19": {
         "type": "Multiple Choice"
+      },
+      "22": {
+        "parts": [
+          "AB and CD are parallel line segments intersected by the line segment EF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18° and angle CFE is 125°, what is the measure of angle AEC?"
+        ],
+        "parts_sanitized": [
+          "AB and CD are parallel line segments intersected by the line segment EF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18° and angle CFE is 125°, what is the measure of angle AEC?"
+        ]
       },
       "24": {
         "parts": [
@@ -13084,6 +13262,14 @@
         "parts": [
           "A sample of an ideal gas is placed in a sealed container of fixed volume. The gas is heated from 25.0° Celsius to 45.0° Celsius. Identify all of the following four factors that will increase: 1) the pressure of the gas, 2) the average kinetic energy of the gas, 3) the density of the gas, 4) the intermolecular forces."
         ]
+      },
+      "23": {
+        "parts": [
+          "Solve the inequality −3 + |3 − 6x| &lt; 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ],
+        "parts_sanitized": [
+          "Solve the inequality −3 + |3 − 6x| < 2 [negative 3 plus the absolute value of the quantity 3 minus 6x is less than 2]."
+        ]
       }
     }
   },
@@ -13167,6 +13353,10 @@
         "question": "An aqueous solution in which the concentration of OH<sup>-</sup> ions is greater than that of H<sup>+</sup> ions is:<br>W) basic<br>X) acidic<br>Y) neutral<br>Z) in equilibrium",
         "question_sanitized": "An aqueous solution in which the concentration of OH^(-) ions is greater than that of H^(+) ions is:; W) basic; X) acidic; Y) neutral; Z) in equilibrium"
       },
+      "4": {
+        "question": "What term BEST describes 2 angles with 90° as the sum of their measurements?",
+        "question_sanitized": "What term BEST describes 2 angles with 90° as the sum of their measurements?"
+      },
       "11": {
         "question": "Simplify the following expression, where a is not equal to zero if b = 0 or if b = −1: (a<sup>b<sup>2</sup></sup>)(a<sup>b</sup>)",
         "answer": "a<sup>b<sup>2</sup> + b</sup>",
@@ -13198,6 +13388,12 @@
       "11": {
         "answers": [
           "5√2 (ACCEPT: BOTH 5√2)"
+        ],
+        "parts": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90° triangle is 10 inches, find the length of the other sides:"
+        ],
+        "parts_sanitized": [
+          "Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90° triangle is 10 inches, find the length of the other sides:"
         ]
       },
       "23": {
@@ -13222,8 +13418,19 @@
         ],
         "answer": "Z) 8 × 10<sup>−5</sup>"
       },
+      "15": {
+        "question": "What is the pH of a solution with a pOH of 6.8 at 25°C?",
+        "question_sanitized": "What is the pH of a solution with a pOH of 6.8 at 25°C?"
+      },
       "18": {
         "question": "Giving your answer in centimeters, what is the length of a side of a square whose diagonal measures 12√2 centimeters?"
+      }
+    },
+    "bonuses": {
+      "1": {
+        "notes": [
+          "(Solution: MgO = 2800°C; diamond = 3550°C; NaCl = 801°C; Cs = 645°C)"
+        ]
       }
     }
   },
@@ -13241,6 +13448,22 @@
       }
     },
     "bonuses": {
+      "2": {
+        "parts": [
+          "What is the pH of a 1 molar NaOH solution at 25°C?"
+        ],
+        "parts_sanitized": [
+          "What is the pH of a 1 molar NaOH solution at 25°C?"
+        ]
+      },
+      "4": {
+        "parts": [
+          "Consider triangle ABC, where the measure of angle A = 20°, B =117°, and C = 43°. Arrange the 3 sides in order of increasing length:"
+        ],
+        "parts_sanitized": [
+          "Consider triangle ABC, where the measure of angle A = 20°, B =117°, and C = 43°. Arrange the 3 sides in order of increasing length:"
+        ]
+      },
       "11": {
         "answers": [
           "−<span class=\"nsb-fraction\"><span>6</span><span>5</span></span>"
@@ -13318,6 +13541,14 @@
       "1": {
         "parts": [
           "What is the oxidation number of chromium in the chromate ion, or CrO<sub>4</sub><sup>2−</sup>?"
+        ]
+      },
+      "8": {
+        "parts": [
+          "Which of the following compounds is most SOLUBLE in water at 10°C:<br>W) KNO<sub>3</sub><br>X) CaSO<sub>4</sub><br>Y) BaSO<sub>4</sub><br>Z) AgBr"
+        ],
+        "parts_sanitized": [
+          "Which of the following compounds is most SOLUBLE in water at 10°C:\nW) KNO₃\nX) CaSO₄\nY) BaSO₄\nZ) AgBr"
         ]
       },
       "15": {
@@ -13587,7 +13818,13 @@
           "100"
         ],
         "notes": [
-          "(Solution: ΔT<sub>f</sub> = 5.5º – 4.5º = 1.0ºC; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0º/5.0º = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+          "(Solution: ΔT<sub>f</sub> = 5.5° – 4.5° = 1.0°C; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0°/5.0° = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
+        ],
+        "parts": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5°C. Assume the freezing point constant of benzene is 5.0°C per molal, and the freezing point of benzene is 5.5°C. Give your answer to the nearest whole number in grams per mole."
+        ],
+        "parts_sanitized": [
+          "1.0 gram of an unknown organic molecule is dissolved in 50.0 grams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5°C. Assume the freezing point constant of benzene is 5.0°C per molal, and the freezing point of benzene is 5.5°C. Give your answer to the nearest whole number in grams per mole."
         ]
       },
       "11": {
@@ -13619,13 +13856,13 @@
           "0.07 (ACCEPT: 0.06)"
         ],
         "notes": [
-          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+          "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0°C/m)(0.033m) = 0.066°C)"
         ],
         "parts": [
-          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0°C per molal.."
         ],
         "parts_sanitized": [
-          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0°C per molal.."
         ]
       }
     }
@@ -13640,11 +13877,16 @@
         "question": "What is the most common term for the celestial phenomenon that causes a comet's tail in our solar system to point away from the Sun?"
       },
       "18": {
-        "question": "Evaluate the expression, x(y + z)<sup>2</sup>, when x = 2, y = -8; and z = 3:",
-        "question_sanitized": "Evaluate the expression, x(y + z)^2, when x = 2, y = -8; and z = 3:"
+        "question": "Evaluate the expression, x(y + z)<sup>2</sup>, when x = 2, y = −8; and z = 3:",
+        "question_sanitized": "Evaluate the expression, x(y + z)², when x = 2, y = −8; and z = 3:"
       }
     },
     "bonuses": {
+      "4": {
+        "notes": [
+          "(Solution: c = a√2 = 100√2 − 141.4cm)"
+        ]
+      },
       "13": {
         "parts": [
           "Giving your answer in scientific notation, convert 10<sup>7</sup> square meters into square millimeters:"
@@ -13657,6 +13899,20 @@
         ],
         "answers_sanitized": [
           "1 × 10^7 (DO NOT ACCEPT: 10^7)"
+        ]
+      },
+      "16": {
+        "parts": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:<br>W) viscosity<br>X) surface tension<br>Y) malleability<br>Z) vapor pressure"
+        ],
+        "options": [
+          "W) viscosity",
+          "X) surface tension",
+          "Y) malleability",
+          "Z) vapor pressure"
+        ],
+        "parts_sanitized": [
+          "Which of the following is the term used to describe the resistance to flow of a liquid:\nW) viscosity\nX) surface tension\nY) malleability\nZ) vapor pressure"
         ]
       },
       "18": {
@@ -13762,6 +14018,19 @@
       }
     },
     "bonuses": {
+      "2": {
+        "parts": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20°C: water; ethanol; mercury"
+        ],
+        "parts_sanitized": [
+          "Arrange the following 3 liquids in order of DECREASING surface tension at 20°C: water; ethanol; mercury"
+        ]
+      },
+      "4": {
+        "notes": [
+          "(Solution: 2² + 10² = c²; c = 10.20 = 10)"
+        ]
+      },
       "9": {
         "notes": [
           "(Solution: 8 × 10<sup>−6</sup>g/2g = 4 × 10<sup>−6</sup>g = 4 ppm)"
@@ -14011,6 +14280,11 @@
           "Find the mass percent composition, rounded to the nearest whole number, for each atom in KClO<sub>3</sub>. Assume the atomic masses of potassium = 39, chlorine = 35, and oxygen = 16"
         ]
       },
+      "4": {
+        "notes": [
+          "(Solution: (100 – 2)(180) = 17,640°)"
+        ]
+      },
       "15": {
         "parts": [
           "Which of the following does NOT have the electron configuration of argon:<br>W) O<sup>2−</sup><br>X) Cl<sup>−</sup><br>Y) S<sup>2−</sup><br>Z) K<sup>+</sup>"
@@ -14032,6 +14306,17 @@
         "answers": [
           "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>"
         ]
+      },
+      "25": {
+        "parts": [
+          "What is the degree measure of the angle formed by 2 secants intersecting outside a circle if the measures of the intercepted arcs are 80° and 34°?"
+        ],
+        "notes": [
+          "(Solution: ½(80° – 34°) = 23°)"
+        ],
+        "parts_sanitized": [
+          "What is the degree measure of the angle formed by 2 secants intersecting outside a circle if the measures of the intercepted arcs are 80° and 34°?"
+        ]
       }
     }
   },
@@ -14049,7 +14334,10 @@
       },
       "11": {
         "question": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:",
-        "question_sanitized": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:"
+        "question_sanitized": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:",
+        "notes": [
+          "(Solution: arc/circumference = n°/360°; n = 90° or (8π/2π16)(360°) = 90°)"
+        ]
       },
       "16": {
         "question": "The reaction CuCl<sub>2</sub> + Na<sub>2</sub>S → CuS + 2NaCl<sub>2</sub>, is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition"
@@ -14091,6 +14379,10 @@
           "Y) HCl",
           "Z) HNO<sub>2</sub>"
         ]
+      },
+      "4": {
+        "question": "Find the cotangent and cosecant, respectively, of a 90° angle:",
+        "question_sanitized": "Find the cotangent and cosecant, respectively, of a 90° angle:"
       },
       "19": {
         "answer": "Z) WINDS"
@@ -14146,6 +14438,18 @@
     "tossups": {
       "4": {
         "question": "The graph of the relation y = −√(25 − x<sup>2</sup>) is a:<br>W) circle<br>X) semi-circle<br>Y) parabola<br>Z) straight line"
+      },
+      "11": {
+        "question": "Which of the following is a second quadrant angle in standard position:<br>W) 500°<br>X) –180°<br>Y) –680°<br>Z) 930°",
+        "answer": "W) 500°",
+        "options": [
+          "W) 500°",
+          "X) –180°",
+          "Y) –680°",
+          "Z) 930°"
+        ],
+        "question_sanitized": "Which of the following is a second quadrant angle in standard position:\nW) 500°\nX) -180°\nY) -680°\nZ) 930°",
+        "answer_sanitized": "W) 500°"
       }
     },
     "bonuses": {
@@ -14213,6 +14517,12 @@
         ],
         "answers_sanitized": [
           "118.4"
+        ],
+        "parts": [
+          "A sample of oxygen gas is collected over water at 14°C. Knowing that the vapor pressure of water at 14°C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
+        ],
+        "parts_sanitized": [
+          "A sample of oxygen gas is collected over water at 14°C. Knowing that the vapor pressure of water at 14°C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:"
         ]
       },
       "25": {
@@ -14311,6 +14621,14 @@
         ],
         "parts_sanitized": [
           "Find the largest possible real range of the function y = 1 − 2e^(x/2 - 3) [y equals 1 minus 2 times e to the power of the quantity x over 2 minus 3]."
+        ]
+      },
+      "7": {
+        "answers": [
+          "−cos x"
+        ],
+        "answers_sanitized": [
+          "−cos x"
         ]
       },
       "10": {
@@ -14588,16 +14906,16 @@
       },
       "18": {
         "parts": [
-          "Which of the following is a prime polynomial over the integers:<br>W) 5x<sup>2</sup> − 8x + 2<br>X) 4x<sup>2</sup> − 4x − 8<br>Y) 3x<sup>2</sup> − 4x − 4<br>Z) 3x<sup>2</sup> − 10x + 3x"
+          "Which of the following is a prime polynomial over the integers:<br>W) 5x<sup>2</sup> − 8x + 2<br>X) 4x<sup>2</sup> − 4x − 8<br>Y) 3x<sup>2</sup> − 4x − 4<br>Z) 3x<sup>2</sup> − 10x<sup>2</sup> + 3x"
         ],
         "parts_sanitized": [
-          "Which of the following is a prime polynomial over the integers:<br>W) 5x^2 - 8x + 2<br>X) 4x^2 - 4x - 8<br>Y) 3x^2 - 4x - 4<br>Z) 3x^2 - 10x + 3x"
+          "Which of the following is a prime polynomial over the integers:\nW) 5x² − 8x + 2\nX) 4x² − 4x − 8\nY) 3x² − 4x − 4\nZ) 3x² − 10x² + 3x"
         ],
         "options": [
           "W) 5x<sup>2</sup> − 8x + 2",
           "X) 4x<sup>2</sup> − 4x − 8",
           "Y) 3x<sup>2</sup> − 4x − 4",
-          "Z) 3x<sup>2</sup> − 10x + 3x"
+          "Z) 3x<sup>2</sup> − 10x<sup>2</sup> + 3x"
         ],
         "answers": [
           "W) 5x<sup>2</sup> − 8x + 2"
@@ -14762,6 +15080,10 @@
         "question_sanitized": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: 1/(3 − √x)",
         "answer": "<span class=\"nsb-fraction\"><span>3 + √x</span><span>9 − x</span></span>",
         "answer_sanitized": "(3 + √x)/(9 − x)"
+      },
+      "25": {
+        "question": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10<sup>−5</sup> M?",
+        "question_sanitized": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10⁻⁵ M?"
       }
     },
     "bonuses": {
@@ -14806,6 +15128,11 @@
         ],
         "answers_sanitized": [
           "W) C_(n)H_(2n)"
+        ]
+      },
+      "11": {
+        "notes": [
+          "(Solution: (n – 2)180° = 176n; n = 90)"
         ]
       },
       "18": {
@@ -14877,6 +15204,10 @@
       "22": {
         "answer": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O<sub>2</sub>)",
         "answer_sanitized": "OXYGEN (ACCEPT: MOLECULAR OXYGEN or O₂)"
+      },
+      "23": {
+        "answer": "120°",
+        "answer_sanitized": "120°"
       }
     },
     "bonuses": {
@@ -14944,6 +15275,15 @@
         ],
         "answer": "W) H<sub>2</sub>SO<sub>4</sub>",
         "answer_sanitized": "W) H₂SO₄"
+      },
+      "4": {
+        "notes": [
+          "(Solution: arc/circumference = n/360; n = 45°)"
+        ]
+      },
+      "15": {
+        "answer": "180° (ACCEPT: LINEAR)",
+        "answer_sanitized": "180° (ACCEPT: LINEAR)"
       },
       "18": {
         "question": "Which of the following has a graph that is a parabola that opens downward:<br>W) f(x) = 3x + 1<br>X) f(x) = x<sup>2</sup> − 2<br>Y) f(x) = −x<sup>2</sup><br>Z) f(x) = x<sup>3</sup>",
@@ -15013,10 +15353,15 @@
   },
   "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round13.pdf": {
     "tossups": {
+      "2": {
+        "question": "Which of the following has a melting point of 185°C and readily dissolves in water at room temperature, but is NOT an electrolyte:<br>W) NaCl<br>X) decane<br>Y) methane<br>Z) sucrose",
+        "question_sanitized": "Which of the following has a melting point of 185°C and readily dissolves in water at room temperature, but is NOT an electrolyte:\nW) NaCl\nX) decane\nY) methane\nZ) sucrose"
+      },
       "4": {
-        "question": "Express 600º in radians as a reduced fraction in terms of π:",
+        "question": "Express 600° in radians as a reduced fraction in terms of π:",
         "answer": "<span class=\"nsb-fraction\"><span>10π</span><span>3</span></span>",
-        "answer_sanitized": "(10π)/(3)"
+        "answer_sanitized": "(10π)/(3)",
+        "question_sanitized": "Express 600° in radians as a reduced fraction in terms of π:"
       },
       "16": {
         "question": "An organic compound with the formula C<sub>6</sub>H<sub>14</sub> is an:<br>W) alkane<br>X) alkene<br>Y) alkyne<br>Z) arene",
@@ -15066,6 +15411,12 @@
         ],
         "notes": [
           "(Solution: ΔH°<sub>reaction</sub> = Σn<sub>p</sub>ΔH<sub>f</sub>°(products) − Σn<sub>r</sub>ΔH<sub>f</sub>°(reactants) = −242 − (−286) = +44.0 kJ)"
+        ],
+        "parts": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25°C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:"
+        ],
+        "parts_sanitized": [
+          "Calculate the enthalpy of vaporization, in kilojoules, of water at 25°C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is -286 kilojoules and the standard enthalpy of formation of water gas is -242 kilojoules:"
         ]
       }
     }
@@ -15198,6 +15549,12 @@
         ],
         "notes": [
           "(Solution: 18 + <span class=\"nsb-fraction\"><span>18</span><span>60</span></span> + <span class=\"nsb-fraction\"><span>36</span><span>3600</span></span> = 18.31)"
+        ],
+        "parts": [
+          "Convert the angle, 18°18′36″ (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:"
+        ],
+        "parts_sanitized": [
+          "Convert the angle, 18°18′36″ (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:"
         ]
       },
       "9": {
@@ -15492,6 +15849,19 @@
           "Z) LiBr"
         ]
       },
+      "11": {
+        "question": "Which of the following are coterminal angles in standard position (read slowly):<br>W) 550° and 185°<br>X) 80° and –190°<br>Y) 1160° and 800°<br>Z) 181° and –118°",
+        "options": [
+          "W) 550° and 185°",
+          "X) 80° and –190°",
+          "Y) 1160° and 800°",
+          "Z) 181° and –118°"
+        ],
+        "notes": [
+          "(Solution: 80 +3(360°) = 1160°; 80 +2(360°) = 800°)"
+        ],
+        "question_sanitized": "Which of the following are coterminal angles in standard position (read slowly):\nW) 550° and 185°\nX) 80° and -190°\nY) 1160° and 800°\nZ) 181° and -118°"
+      },
       "18": {
         "question": "What function is the inverse of y = 3x + 4?",
         "question_sanitized": "What function is the inverse of y = 3x + 4?",
@@ -15521,6 +15891,11 @@
         ],
         "answers_sanitized": [
           "NH₃; CH₃OH"
+        ]
+      },
+      "4": {
+        "notes": [
+          "(Solution: (14 – 2)(180) = 2,160°)"
         ]
       },
       "9": {
@@ -15554,6 +15929,12 @@
   },
   "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-13C.pdf": {
     "tossups": {
+      "4": {
+        "question": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0° ≤ x &lt; 360°: 2 sin x – 1 = 0",
+        "answer": "30° AND 150°",
+        "question_sanitized": "Solve the following trigonometric equation for x, giving your answer in degrees such that 0° ≤ x < 360°: 2 sin x - 1 = 0",
+        "answer_sanitized": "30° AND 150°"
+      },
       "11": {
         "question": "Simplify the following radical expression, giving your answer in standard bi form: √(−144/49)",
         "question_sanitized": "Simplify the following radical expression, giving your answer in standard bi form: square root of negative 144/49.",
@@ -15641,7 +16022,9 @@
         ]
       },
       "4": {
-        "answer": "√2"
+        "answer": "√2",
+        "question": "In simplest radical form, give the cosecant of a 135° angle:",
+        "question_sanitized": "In simplest radical form, give the cosecant of a 135° angle:"
       },
       "13": {
         "question": "Which of the following statements is LEAST accurate:<br>W) the molecular formula for dimethyl sulfoxide is C<sub>2</sub>H<sub>6</sub>SO<br>X) black smokers are a type of hydrothermal vent found on the ocean floor<br>Y) Io is the most volcanically active body in our Solar System<br>Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front",
@@ -15651,6 +16034,10 @@
           "Y) Io is the most volcanically active body in our Solar System",
           "Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front"
         ]
+      },
+      "23": {
+        "answer": "120° (ACCEPT: THREE 120°)",
+        "answer_sanitized": "120° (ACCEPT: THREE 120°)"
       },
       "25": {
         "answer": "3"
@@ -15713,6 +16100,14 @@
         ],
         "notes": [
           "(Solution: He-4 + N-14 → O-17 + proton)"
+        ]
+      },
+      "23": {
+        "parts": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27°C and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
+        ],
+        "parts_sanitized": [
+          "Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27°C and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?"
         ]
       },
       "25": {

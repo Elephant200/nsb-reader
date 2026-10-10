@@ -30,13 +30,13 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the complete tossup 3 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 2; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Verified the equation and answer 15. Replaced an en dash used as subtraction with Unicode mathematical minus in the rich prompt and sanitized prompt.",
       "before": {
         "question": "Solve for x: (x – 3)(x + 5) = x2 + x."
       },
       "changes": {
-        "question": "Solve for x: (x – 3)(x + 5) = x<sup>2</sup> + x.",
-        "question_sanitized": "Solve for x: (x - 3)(x + 5) = x^2 + x."
+        "question": "Solve for x: (x − 3)(x + 5) = x<sup>2</sup> + x.",
+        "question_sanitized": "Solve for x: (x − 3)(x + 5) = x² + x."
       }
     },
     {
@@ -97,13 +97,16 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Compared the complete tossup 9 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 5; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Visually checked x²+y²−4x+6y=0 and keyed center (2,−3); normalized the negative coordinate to Unicode mathematical minus in rich and sanitized values.",
       "before": {
-        "question": "What are the coordinates of the center of the circle with equation: x2 + y2 – 4x + 6y = 0?"
+        "question": "What are the coordinates of the center of the circle with equation: x2 + y2 – 4x + 6y = 0?",
+        "answer": "(2, -3)"
       },
       "changes": {
-        "question": "What are the coordinates of the center of the circle with equation: x<sup>2</sup> + y<sup>2</sup> – 4x + 6y = 0?",
-        "question_sanitized": "What are the coordinates of the center of the circle with equation: x^2 + y^2 - 4x + 6y = 0?"
+        "question": "What are the coordinates of the center of the circle with equation: x<sup>2</sup> + y<sup>2</sup> − 4x + 6y = 0?",
+        "question_sanitized": "What are the coordinates of the center of the circle with equation: x² + y² − 4x + 6y = 0?",
+        "answer": "(2, −3)",
+        "answer_sanitized": "(2, −3)"
       }
     },
     {
@@ -154,13 +157,16 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared the complete tossup 14 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 7; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Visually checked the fraction (x−1)/(x³−x), including the numerator/denominator reading cue, and keyed vertical asymptotes x=0 and x=−1. Normalized the answer’s negative sign.",
       "before": {
-        "question": "What are the equations of each vertical asymptote for the graph of x −1 the function f ( x) = [f of x equals the fraction with numerator x minus 1 and x3 − x denominator x cubed minus x]."
+        "question": "What are the equations of each vertical asymptote for the graph of x −1 the function f ( x) = [f of x equals the fraction with numerator x minus 1 and x3 − x denominator x cubed minus x].",
+        "answer": "x = 0 and x = -1"
       },
       "changes": {
         "question": "What are the equations of each vertical asymptote for the graph of the function f(x) = <span class=\"nsb-fraction\"><span>x − 1</span><span>x<sup>3</sup> − x</span></span> [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x].",
-        "question_sanitized": "What are the equations of each vertical asymptote for the graph of the function f(x) = (x - 1)/(x^3 - x) [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x]."
+        "question_sanitized": "What are the equations of each vertical asymptote for the graph of the function f(x) = (x - 1)/(x^3 - x) [f of x equals the fraction with numerator x minus 1 and denominator x cubed minus x].",
+        "answer": "x = 0 and x = −1",
+        "answer_sanitized": "x = 0 and x = −1"
       }
     },
     {
@@ -318,7 +324,7 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the complete bonus 3 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 2; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Verified f(x)=2+4√x, tangent parallel to 4x−6y=3, and point (9,14). Normalized the equation’s dash to Unicode mathematical minus in rich and sanitized reading fields.",
       "before": {
         "parts": [
           "Find the coordinates of the point on the graph of 𝑓𝑓(𝑥𝑥) = 2 + 4√𝑥𝑥 where the tangent line is parallel to the line 4x – 6y = 3."
@@ -326,10 +332,10 @@
       },
       "changes": {
         "parts": [
-          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x – 6y = 3."
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x − 6y = 3."
         ],
         "parts_sanitized": [
-          "Find the coordinates of the point on the graph of f(x) = 2 + 4 square root of x where the tangent line is parallel to the line 4x - 6y = 3."
+          "Find the coordinates of the point on the graph of f(x) = 2 + 4√x where the tangent line is parallel to the line 4x − 6y = 3."
         ]
       }
     },
@@ -438,18 +444,27 @@
       "sourcePages": [
         5
       ],
-      "evidence": "Compared the complete bonus 9 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 5; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Visually checked f(x)=3x²−5x at (1,−2), the normal-line answer y=−x−1, and all signs. Replaced dash/hyphen glyphs used as mathematical minus signs with U+2212.",
       "before": {
         "parts": [
           "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x2 – 5x at the point (1, -2)?"
+        ],
+        "answers": [
+          "y = -x – 1"
         ]
       },
       "changes": {
         "parts": [
-          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x<sup>2</sup> – 5x at the point (1, -2)?"
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x<sup>2</sup> − 5x at the point (1, −2)?"
         ],
         "parts_sanitized": [
-          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x^2 - 5x at the point (1, -2)?"
+          "Providing your answer in slope intercept form, what is the equation of the line that is normal to the graph of the function f(x) = 3x² − 5x at the point (1, −2)?"
+        ],
+        "answers": [
+          "y = −x − 1"
+        ],
+        "answers_sanitized": [
+          "y = −x − 1"
         ]
       }
     },
@@ -514,18 +529,27 @@
       "sourcePages": [
         7
       ],
-      "evidence": "Compared the complete bonus 14 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 7; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Verified the differential-error expression dy−Δy and key −0.01. Normalized mathematical minus signs in rich and sanitized reading fields.",
       "before": {
         "parts": [
           "What is the value of the differential approximation error dy - ∆y [dy minus delta y] for y = x2 + 2 as x changes from 1 to 1.1?"
+        ],
+        "answers": [
+          "-0.01"
         ]
       },
       "changes": {
         "parts": [
-          "What is the value of the differential approximation error dy - ∆y [dy minus delta y] for y = x<sup>2</sup> + 2 as x changes from 1 to 1.1?"
+          "What is the value of the differential approximation error dy − Δy [dy minus delta y] for y = x<sup>2</sup> + 2 as x changes from 1 to 1.1?"
         ],
         "parts_sanitized": [
-          "What is the value of the differential approximation error dy - delta y [dy minus delta y] for y = x^2 + 2 as x changes from 1 to 1.1?"
+          "What is the value of the differential approximation error dy − Δy [dy minus delta y] for y = x² + 2 as x changes from 1 to 1.1?"
+        ],
+        "answers": [
+          "−0.01"
+        ],
+        "answers_sanitized": [
+          "−0.01"
         ]
       }
     },
@@ -587,10 +611,13 @@
       "sourcePages": [
         10
       ],
-      "evidence": "Compared the complete bonus 20 prompt, printed answer, all choices, and notes when present with Double Elimination Round 2, page 10; number, kind, and stem match the PDF. Applied only the visible source notation correction.",
+      "evidence": "Verified concavity-down interval and accepted open-interval cue. Normalized the negative endpoint from ASCII hyphens to Unicode mathematical minus in rich answer and sanitized prompt.",
       "before": {
         "parts": [
           "In interval notation, give the open interval on which the function f(x) = x3 + 12x2 – 3 is concave down."
+        ],
+        "answers": [
+          "(-∞, -4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO -4)"
         ]
       },
       "changes": {
@@ -598,7 +625,13 @@
           "In interval notation, give the open interval on which the function f(x) = x<sup>3</sup> + 12x<sup>2</sup> – 3 is concave down."
         ],
         "parts_sanitized": [
-          "In interval notation, give the open interval on which the function f(x) = x^3 + 12x^2 - 3 is concave down."
+          "In interval notation, give the open interval on which the function f(x) = x^3 + 12x^2 − 3 is concave down."
+        ],
+        "answers": [
+          "(−∞, −4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO −4)"
+        ],
+        "answers_sanitized": [
+          "(−∞, −4) (ACCEPT: THE OPEN INTERVAL FROM NEGATIVE INFINITY TO −4)"
         ]
       }
     },

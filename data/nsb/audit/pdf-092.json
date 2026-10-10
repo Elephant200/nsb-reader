@@ -62,13 +62,28 @@
       "sourcePages": [
         2
       ],
-      "evidence": "Rendered source page 2 confirms the expression sin 24º cos 17º + cos 24º sin 17º and its verbal read-as cue; added spacing makes the four factors legible.",
+      "evidence": "PDF page 2 prints degree measures in the checked field (“Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degr”; answer “Y) SINE OF 41º”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
       "before": {
-        "question": "Which of the following is equivalent to sin24ºcos17º + cos24ºsin17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7º<br>X) Cosine of 41º<br>Y) Sine of 41º<br>Z) Tangent of 41º"
+        "question": "Which of the following is equivalent to sin24ºcos17º + cos24ºsin17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7º<br>X) Cosine of 41º<br>Y) Sine of 41º<br>Z) Tangent of 41º",
+        "answer": "Y) SINE OF 41º",
+        "options": [
+          "W) Sine of 7º",
+          "X) Cosine of 41º",
+          "Y) Sine of 41º",
+          "Z) Tangent of 41º"
+        ]
       },
       "changes": {
-        "question": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7º<br>X) Cosine of 41º<br>Y) Sine of 41º<br>Z) Tangent of 41º",
-        "question_sanitized": "Which of the following is equivalent to sin 24º cos 17º + cos 24º sin 17º [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?\nW) Sine of 7º\nX) Cosine of 41º\nY) Sine of 41º\nZ) Tangent of 41º"
+        "question": "Which of the following is equivalent to sin 24° cos 17° + cos 24° sin 17° [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?<br>W) Sine of 7°<br>X) Cosine of 41°<br>Y) Sine of 41°<br>Z) Tangent of 41°",
+        "question_sanitized": "Which of the following is equivalent to sin 24° cos 17° + cos 24° sin 17° [sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17 degrees]?\nW) Sine of 7°\nX) Cosine of 41°\nY) Sine of 41°\nZ) Tangent of 41°",
+        "answer": "Y) SINE OF 41°",
+        "options": [
+          "W) Sine of 7°",
+          "X) Cosine of 41°",
+          "Y) Sine of 41°",
+          "Z) Tangent of 41°"
+        ],
+        "answer_sanitized": "Y) SINE OF 41°"
       }
     },
     {
@@ -140,11 +155,18 @@
       "kind": "tossups",
       "itemIndex": 9,
       "number": 10,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         5
       ],
-      "evidence": "Compared the complete numbered toss-up 10 section on source page 5, including prompt, choices where present, and answer."
+      "evidence": "PDF page 5 prints degree measures in the checked field (“If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures”; answer “102°”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "question": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141º, what is the measure of the vertex angle?"
+      },
+      "changes": {
+        "question": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141°, what is the measure of the vertex angle?",
+        "question_sanitized": "If the exterior angle of a base angle of an isosceles [eye-SOS-uh- lees] triangle measures 141°, what is the measure of the vertex angle?"
+      }
     },
     {
       "kind": "tossups",

@@ -385,11 +385,24 @@
       "kind": "bonuses",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "Compared the flagged wording and answer/options with the original packet PDF, page 4; source text and notation agree with the corpus."
+      "evidence": "Read complete rendered 2009 source physical page 4, including bonus 8, answer and all options. The source clearly uses degrees Celsius; normalized the ordinal glyph in the prompt and its extracted options to the degree sign.",
+      "before": {
+        "parts": [
+          "Which of the following compounds is most SOLUBLE in water at 10ºC:<br>W) KNO<sub>3</sub><br>X) CaSO<sub>4</sub><br>Y) BaSO<sub>4</sub><br>Z) AgBr"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "Which of the following compounds is most SOLUBLE in water at 10°C:<br>W) KNO<sub>3</sub><br>X) CaSO<sub>4</sub><br>Y) BaSO<sub>4</sub><br>Z) AgBr"
+        ],
+        "parts_sanitized": [
+          "Which of the following compounds is most SOLUBLE in water at 10°C:\nW) KNO₃\nX) CaSO₄\nY) BaSO₄\nZ) AgBr"
+        ]
+      }
     },
     {
       "kind": "bonuses",

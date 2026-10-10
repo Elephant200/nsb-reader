@@ -129,13 +129,19 @@
       "sourcePages": [
         6
       ],
-      "evidence": "PDF page 6 asks for the central angle of a sector of a 32-meter diameter circle with arc length 8π meters. The corpus prompt has the phrase order scrambled; answer 90 matches the PDF.",
+      "evidence": "PDF page 6 prints degree measures in the checked field (“A circle has a diameter of 32 meters. Find the degree measure of the central angle of a se”; answer “90”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
       "before": {
-        "question": "A circle has a diameter of 32 meters. Find the degree measure of the the circle if its arc length measures 8π meters: central angle of a sector of"
+        "question": "A circle has a diameter of 32 meters. Find the degree measure of the the circle if its arc length measures 8π meters: central angle of a sector of",
+        "notes": [
+          "(Solution: arc/circumference = nº/360º; n = 90º or (8π/2π16)(360º) = 90º)"
+        ]
       },
       "changes": {
         "question": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:",
-        "question_sanitized": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:"
+        "question_sanitized": "A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8π meters:",
+        "notes": [
+          "(Solution: arc/circumference = n°/360°; n = 90° or (8π/2π16)(360°) = 90°)"
+        ]
       }
     },
     {

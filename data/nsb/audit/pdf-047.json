@@ -96,11 +96,21 @@
       "kind": "tossups",
       "itemIndex": 8,
       "number": 9,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         5
       ],
-      "evidence": "Compared the complete printed question, answer, choices where present, and notes on source page 5; the corpus record agrees."
+      "evidence": "PDF page 5 prints degree measures in the checked field (“Which of the following fatty acids has the HIGHEST melting point:W) an 18-carbon saturated”; answer “W) AN 18-CARBON SATURATED FATTY ACI”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "notes": [
+          "(Solution: W = 70ºC, X = -5ºC, Y = 16ºC, Z = 32ºC; Saturated Fats are usually solids)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: W = 70°C, X = -5°C, Y = 16°C, Z = 32°C; Saturated Fats are usually solids)"
+        ]
+      }
     },
     {
       "kind": "tossups",
@@ -541,10 +551,13 @@
       "sourcePages": [
         9
       ],
-      "evidence": "Rendered page 9 and compared the full stem, answer, choices, and notes to corpus item 18; corrected source-visible notation and transcription.",
+      "evidence": "PDF page 9 gives ∫(3 sin x+5 cos x) dx and accepts −3 cos x+5 sin x+C; the answer’s en dash was normalized to mathematical minus, and the full read-as cue was checked.",
       "before": {
         "parts": [
           "Find the following indefinite integral: ( 3 sin x 5 cos x ) dx (read as: the ! + integral of 3 sine x + 5 cosine x, dx)"
+        ],
+        "answers": [
+          "–3 cos x + 5 sin x + C"
         ]
       },
       "changes": {
@@ -553,6 +566,12 @@
         ],
         "parts_sanitized": [
           "Find the following indefinite integral: integral of (3 sin x + 5 cos x) dx (read as: the integral of 3 sine x + 5 cosine x, dx)"
+        ],
+        "answers": [
+          "−3 cos x + 5 sin x + C"
+        ],
+        "answers_sanitized": [
+          "−3 cos x + 5 sin x + C"
         ]
       }
     },

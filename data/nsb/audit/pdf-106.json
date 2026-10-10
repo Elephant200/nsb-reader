@@ -80,11 +80,18 @@
       "kind": "tossups",
       "itemIndex": 7,
       "number": 8,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         4
       ],
-      "evidence": "PDF p.4 visibly prints question 8 (tossups) beginning “Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, th”; its printed answer “(-4, 4)” matches the corpus. The printed response and surrounding wording were compared."
+      "evidence": "Physical page 4 prints a 180° rotation around the origin, but scope has “180o”. Visually, the source glyph is a degree mark; corrected the prompt to 180°. Reflection (4,2)→(4,−2), 180° rotation→(−4,2), then up 2→(−4,4), matching the key.",
+      "before": {
+        "question": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180o around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point’s final location?"
+      },
+      "changes": {
+        "question": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180° around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point’s final location?",
+        "question_sanitized": "Starting with point (4, 2) in the coordinate plane, reflect it across the x- axis, then rotate it 180° around the origin, and finally, translate it vertically up by 2 units. What are the coordinates of the point's final location?"
+      }
     },
     {
       "kind": "tossups",

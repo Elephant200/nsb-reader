@@ -292,11 +292,18 @@
       "kind": "tossups",
       "itemIndex": 24,
       "number": 25,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         13
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 13; wording matches."
+      "evidence": "Read rendered physical page 13 (2007), including the full toss-up 25 prompt, answer; checked ionic notation, radicals/fractions, powers and reading cues against the source. The PDF prints the exponent −5 raised to the 10; restored the superscript and mathematical minus.",
+      "before": {
+        "question": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10–5 M?"
+      },
+      "changes": {
+        "question": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10<sup>−5</sup> M?",
+        "question_sanitized": "What is the pH of a solution having a hydroxide ion concentration of 1 × 10⁻⁵ M?"
+      }
     },
     {
       "kind": "bonuses",
@@ -476,11 +483,21 @@
       "kind": "bonuses",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+      "evidence": "Compared Math toss-up 11 monomial −6x²y⁴z³ (including coefficient sign and exponents) and total degree 9; bonus 11 regular polygon interior angle 176°, n=90, and solution formula. Normalized the misencoded ordinal º to degree sign ° in the note.",
+      "before": {
+        "notes": [
+          "(Solution: (n – 2)180º = 176n; n = 90)"
+        ]
+      },
+      "changes": {
+        "notes": [
+          "(Solution: (n – 2)180° = 176n; n = 90)"
+        ]
+      }
     },
     {
       "kind": "bonuses",

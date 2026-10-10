@@ -129,11 +129,30 @@
       "kind": "tossups",
       "itemIndex": 15,
       "number": 16,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "p. 8: read the complete printed question/options and answer ‘X) E-CELL GREATER THAN ZERO AND DELTA-G GREATER THAN ZERO’ for tossup 16 (Chemistry – Multiple Choice For a given redox [REE-dox] reaction, which of the following pairs )."
+      "evidence": "Visual review of original PDF p. 8: option X pairs positive E-cell with positive ΔG and is not possible for a spontaneous redox reaction; key X matches. Corrected the repeated source misspelling “K-equilibium” to “K-equilibrium” in choices W and Z.",
+      "before": {
+        "question": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?<br>W) K-equilibium greater than 1 and delta-H greater than zero<br>X) E-cell greater than zero and delta-G greater than zero<br>Y) delta-H greater than zero and delta-G greater than zero<br>Z) K-equilibium greater than 1 and E-cell greater than zero",
+        "options": [
+          "W) K-equilibium greater than 1 and delta-H greater than zero",
+          "X) E-cell greater than zero and delta-G greater than zero",
+          "Y) delta-H greater than zero and delta-G greater than zero",
+          "Z) K-equilibium greater than 1 and E-cell greater than zero"
+        ]
+      },
+      "changes": {
+        "question": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?<br>W) K-equilibrium greater than 1 and delta-H greater than zero<br>X) E-cell greater than zero and delta-G greater than zero<br>Y) delta-H greater than zero and delta-G greater than zero<br>Z) K-equilibrium greater than 1 and E-cell greater than zero",
+        "options": [
+          "W) K-equilibrium greater than 1 and delta-H greater than zero",
+          "X) E-cell greater than zero and delta-G greater than zero",
+          "Y) delta-H greater than zero and delta-G greater than zero",
+          "Z) K-equilibrium greater than 1 and E-cell greater than zero"
+        ],
+        "question_sanitized": "For a given redox [REE-dox] reaction, which of the following pairs of thermodynamic statements is NOT possible?\nW) K-equilibrium greater than 1 and delta-H greater than zero\nX) E-cell greater than zero and delta-G greater than zero\nY) delta-H greater than zero and delta-G greater than zero\nZ) K-equilibrium greater than 1 and E-cell greater than zero"
+      }
     },
     {
       "kind": "tossups",

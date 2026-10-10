@@ -301,11 +301,18 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 12; wording matches."
+      "evidence": "PDF page 12 prints degree measures in the checked field (“What are the bond angles around each carbon in a benzene ring?”; answer “120º”); the ordinal indicator was replaced with the degree sign. Rich and sanitized readings were checked.",
+      "before": {
+        "answer": "120º"
+      },
+      "changes": {
+        "answer": "120°",
+        "answer_sanitized": "120°"
+      }
     },
     {
       "kind": "tossups",

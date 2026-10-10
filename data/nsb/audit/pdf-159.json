@@ -180,11 +180,18 @@
       "kind": "tossups",
       "itemIndex": 17,
       "number": 18,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "p.9 confirms Math – Short Answer If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS-; ANSWER: 84 matches the print after reviewing the complete prompt/options."
+      "evidence": "Page 9 visibly uses the degree mark in “If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132º, what…” / “84”. Replaced the visually confirmed degree mark in the full corpus field; other wording and notation match.",
+      "before": {
+        "question": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132º, what is the degree measure of the vertex angle?"
+      },
+      "changes": {
+        "question": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132°, what is the degree measure of the vertex angle?",
+        "question_sanitized": "If an exterior angle adjacent to a base angle of an isosceles [eye-SOSS- uh-lees] triangle measures 132°, what is the degree measure of the vertex angle?"
+      }
     },
     {
       "kind": "tossups",

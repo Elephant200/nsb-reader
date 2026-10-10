@@ -36,11 +36,18 @@
       "kind": "tossups",
       "itemIndex": 3,
       "number": 4,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         2
       ],
-      "evidence": "Compared the complete numbered toss-up 4 section on source page 2, including prompt, choices where present, and answer."
+      "evidence": "Visual review of original PDF p. 2: What is the determinant of the 2 by 2 matrix [2, −3; −8, −4]? Printed key: −32. Short Answer. The printed matrix is [[2, −3], [−8, −4]], with a read-as cue spelling out both rows; the key is −32. I checked the complete printed prompt, choices where present, answer, cues, and notes. The source matrix was omitted from the frozen prompt field.",
+      "before": {
+        "question": "What is the determinant of the 2 by 2 matrix [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?"
+      },
+      "changes": {
+        "question": "What is the determinant of the 2 by 2 matrix [[2, −3], [−8, −4]] [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?",
+        "question_sanitized": "What is the determinant of the 2 by 2 matrix [[2, −3], [−8, −4]] [such that row one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?"
+      }
     },
     {
       "kind": "tossups",

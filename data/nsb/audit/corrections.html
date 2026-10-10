@@ -48,6 +48,7 @@
   <p id="progress" class="muted" aria-live="polite"></p>
   <div class="controls">
     <label class="search">Find a correction<input id="search" type="search" placeholder="Question text, formula, category, or question number"></label>
+    <label>Audit<select id="audit"><option value="all">Cumulative corrections</option><option value="repeat">Repeat Math/Chemistry findings</option></select></label>
     <label>Sample set<select id="set"><option value="">All sets</option></select></label>
     <label>Status<select id="status"><option value="">All corrections</option><option value="applied">Applied locally</option><option value="pending">Awaiting validation or application</option></select></label>
   </div>
@@ -62,7 +63,7 @@
   <nav class="paging" aria-label="Correction pages"><button id="previous" type="button">Previous</button><span id="page"></span><button id="next" type="button">Next</button></nav>
 </main>
 <script>
-  const controls = Object.fromEntries(['search','set','status','reading','raw','live','count','updated','errors','entries','previous','next','page','progress'].map(id => [id, document.getElementById(id)]));
+  const controls = Object.fromEntries(['audit','search','set','status','reading','raw','live','count','updated','errors','entries','previous','next','page','progress'].map(id => [id, document.getElementById(id)]));
   let data = { records: [] };
   let page = 0;
   const pageSize = 20;
@@ -76,7 +77,8 @@
 
   function render() {
     const search = controls.search.value.toLowerCase().trim();
-    const matching = data.records.filter(record => {
+    const records = controls.audit.value === 'repeat' ? data.repeatRecords ?? [] : data.records;
+    const matching = records.filter(record => {
       if (controls.set.value && String(record.set) !== controls.set.value) return false;
       if (controls.status.value === 'applied' && !record.applied) return false;
       if (controls.status.value === 'pending' && record.applied) return false;
@@ -84,7 +86,7 @@
     });
     const pages = Math.max(1, Math.ceil(matching.length / pageSize));
     page = Math.min(page, pages - 1);
-    controls.count.textContent = `${matching.length} of ${data.records.length} corrections · ${data.records.filter(record => record.applied).length} applied locally`;
+    controls.count.textContent = `${matching.length} of ${records.length} ${controls.audit.value === 'repeat' ? 'findings' : 'corrections'} · ${records.filter(record => record.applied).length} applied locally`;
     controls.page.textContent = `Page ${page + 1} of ${pages}`;
     controls.previous.disabled = page === 0;
     controls.next.disabled = page + 1 === pages;
@@ -104,7 +106,7 @@
       }
       entry.append(meta, element('p', record.evidence, 'evidence'));
       const fields = record.fields.filter(field => controls.reading.checked || !field.reading);
-      if (!fields.length) entry.append(element('p', 'Reading-text correction. Enable “Include reading text” to inspect it.', 'muted'));
+      if (!fields.length) entry.append(element('p', record.fields.length ? 'Reading-text correction. Enable “Include reading text” to inspect it.' : 'The original source text is preserved. See the evidence above.', 'muted'));
       for (const field of fields) {
         const group = element('div', undefined, 'field');
         group.append(element('h3', field.label + (field.reading ? ' — reading text' : '')));
@@ -140,12 +142,13 @@
       controls.updated.textContent = `Updated ${new Date(data.updatedAt).toLocaleString()}`;
       if (data.audit) controls.progress.textContent = `PDF review: ${data.audit.reviewed.toLocaleString()} of ${data.audit.flagged.toLocaleString()} flagged questions reviewed · ${(data.audit.flagged - data.audit.reviewed).toLocaleString()} still pending` + (data.audit.unresolved ? ` · ${data.audit.unresolved} unresolved` : '');
       if (data.audit?.secondPass) controls.progress.textContent += ` · Independent second pass: ${data.audit.secondPass.reviewed.toLocaleString()} of ${data.audit.secondPass.total.toLocaleString()} questions reviewed`;
+      if (data.audit?.reaudit) controls.progress.textContent += ` · Repeat Math/Chemistry audit: ${data.audit.reaudit.reviewed.toLocaleString()} of ${data.audit.reaudit.total.toLocaleString()} reviewed · ${data.audit.reaudit.corrected.toLocaleString()} corrections` + (data.audit.reaudit.sourceIssues ? ` · ${data.audit.reaudit.sourceIssues} original PDF inconsistencies` : '');
       controls.errors.textContent = '';
       render();
     } catch (error) { controls.errors.textContent = error.message; }
   }
 
-  for (const id of ['search','set','status','reading','raw']) controls[id].addEventListener('input', () => { page = 0; render(); });
+  for (const id of ['audit','search','set','status','reading','raw']) controls[id].addEventListener('input', () => { page = 0; render(); });
   controls.previous.addEventListener('click', () => { page--; render(); window.scrollTo({ top: 0 }); });
   controls.next.addEventListener('click', () => { page++; render(); window.scrollTo({ top: 0 }); });
   controls.live.addEventListener('change', () => { if (controls.live.checked) refresh(); });
