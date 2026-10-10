@@ -65,6 +65,8 @@ export function scienceKey (value) {
     key = unwrap(key) ?? key;
     if (key === previous) break;
   }
+  const equation = key.match(/^([^=]+)=([^=]+)$/);
+  if (equation) key = `${unwrap(equation[1]) ?? equation[1]}=${unwrap(equation[2]) ?? equation[2]}`;
   return key;
 }
 

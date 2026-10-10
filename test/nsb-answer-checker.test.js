@@ -9,6 +9,14 @@ import ServerTossupBonusRoom from '../server/multiplayer/ServerTossupBonusRoom.j
 import { BONUS_PROGRESS_ENUM, QUESTION_TYPE_ENUM } from '../shared/constants.js';
 
 const check = createNsbAnswerChecker(checkShortAnswer);
+test('fraction answer equations accept equivalent outer grouping', () => {
+  const key = 'y = <span class="nsb-fraction"><span>x − 4</span><span>3</span></span>';
+  assert.equal(check(key, 'y=(x-4)/3').directive, 'accept');
+  assert.equal(check(key, '(y)=((x-4)/3)').directive, 'accept');
+  assert.equal(check(key, 'y=x-4/3').directive, 'reject');
+  assert.equal(check(key, 'y=(x+4)/3').directive, 'reject');
+});
+
 test('source ordinal superscripts remain readable answer alternatives', () => {
   const key = '2 (ACCEPT: 2<sup>nd</sup> ORDER)';
   assert.equal(check(key, '2').directive, 'accept');

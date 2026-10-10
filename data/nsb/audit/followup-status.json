@@ -10,7 +10,7 @@
     {"set": 1, "year": 2009, "packet": 17, "number": 15, "kind": "bonus", "issue": "Displaced electrolysis answer charges and arrow"},
     {"set": 17, "year": 2022, "packet": 12, "number": 10, "kind": "tossup", "issue": "Existing local exponent correction absent from production"}
   ],
-  "answerChecking": "Superscript ordinal endings are normalized as ordinals, preserving acceptance of 2nd ORDER while retaining actual numeric powers.",
-  "testsPassed": 64,
+  "answerChecking": "Superscript ordinal endings are normalized as ordinals, preserving acceptance of 2nd ORDER while retaining actual numeric powers. Redundant outer grouping on either side of an equation is normalized while fraction operands remain grouped.",
+  "testsPassed": 65,
   "lint": "passed"
 }
