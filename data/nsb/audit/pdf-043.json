@@ -188,11 +188,21 @@
       "kind": "tossups",
       "itemIndex": 17,
       "number": 18,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         9
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 9; wording matches."
+      "evidence": "Luna and root viewed page 9: y = (x − 4)/3 appears wholly in the ANSWER, not the prompt. Restore numerator to answer and remove displaced prompt fragments.",
+      "before": {
+        "question": "What function is the inverse of y = 3x + 4? x 4 −",
+        "answer": "y = 3"
+      },
+      "changes": {
+        "question": "What function is the inverse of y = 3x + 4?",
+        "question_sanitized": "What function is the inverse of y = 3x + 4?",
+        "answer": "y = <span class=\"nsb-fraction\"><span>x − 4</span><span>3</span></span>",
+        "answer_sanitized": "y = (x − 4)/3"
+      }
     },
     {
       "kind": "tossups",

@@ -3,15 +3,15 @@
   "phase": "first-pass-complete",
   "secondPassStatus": "skipped-at-user-request",
   "finalValidation": {
-    "date": "2026-10-04",
-    "correctionLogEntries": 1672,
-    "appliedCorrectionLogEntries": 1672,
+    "date": "2026-10-09",
+    "correctionLogEntries": 1680,
+    "appliedCorrectionLogEntries": 1680,
     "supplementalCorrectedQuestions": 3,
     "structuralRepairs": 2,
     "playableTossups": 6012,
     "playableBonuses": 6012,
     "skippedQuestionPairs": 0,
-    "testsPassed": 63,
+    "testsPassed": 64,
     "lint": "passed",
     "build": "passed",
     "importManifestParity": "passed",
@@ -52,14 +52,14 @@
   "excludedQuestionCount": 808,
   "screeningIdentityValidation": "All 12023 packetIndex/kind/itemIndex/number identities checked against source arrays; no duplicates or omissions.",
   "pdfReviewedQuestionCount": 11215,
-  "correctedQuestionCount": 1667,
+  "correctedQuestionCount": 1675,
   "notes": [
     "Luna completed full-text reading after conservative automated screening. Per-shard coverage files record methods and corrected indexing errors.",
     "Every flagged identity has a completed first-pass PDF review; known incorrect proposals were withdrawn before finalization. Genuine printed source inconsistencies remain documented in packetIssues.",
     "The full independent second pass was skipped at the user's explicit request. Completion refers to the first-pass audit and final validation, not a guarantee of zero remaining source or transcription errors.",
-    "Only the local preview database was refreshed; no production database writes were performed."
+    "The initial code release preserved production question data. The October 9 follow-up fixes the two user-reported questions and source-confirmed related defects through targeted production updates; the complete audited corpus has not been imported into production."
   ],
-  "proposedCorrectionCount": 1667,
+  "proposedCorrectionCount": 1675,
   "pdfUnresolvedQuestionCount": 0,
   "pdfPendingQuestionCount": 0,
   "pdfCompletedPacketIndexes": [

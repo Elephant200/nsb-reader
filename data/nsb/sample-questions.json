@@ -6762,7 +6762,7 @@
           "number": 9,
           "leadin": "",
           "parts": [
-            "Consider the following equilibrium reaction, ↔ PCl PCl + Cl . If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> 5(gas) 3(gas) 2(gas) st at equilibrium, find the molar amounts, to the 1 decimal place, of PCl<sub>5</sub> at equilibrium:"
+            "Consider the following equilibrium reaction, PCl<sub>5(gas)</sub> ↔ PCl<sub>3(gas)</sub> + Cl<sub>2(gas)</sub>. If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
           ],
           "answers": [
             "1.8"
@@ -6775,6 +6775,9 @@
           "options": [],
           "notes": [
             "(Solution: 2 – 0.2 = 1.8)"
+          ],
+          "parts_sanitized": [
+            "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
           ]
         },
         {
@@ -13050,7 +13053,7 @@
         },
         {
           "number": 15,
-          "question": "Consider the following equilibrium reaction, ↔ Fe ∆H (read as: delta H) equals FeO + CO + CO , where –10 kilojoules. Which (solid) (gas) (solid) 2(gas) of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
+          "question": "Consider the following equilibrium reaction, FeO<sub>(solid)</sub> + CO<sub>(gas)</sub> ↔ Fe<sub>(solid)</sub> + CO<sub>2(gas)</sub>, where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
           "answer": "Y) REMOVING CARBON DIOXIDE",
           "category": "Chemistry",
           "type": "Multiple Choice",
@@ -13062,7 +13065,8 @@
           ],
           "notes": [
             "(Solution: shifts to the right)"
-          ]
+          ],
+          "question_sanitized": "Consider the following equilibrium reaction, FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature: W) adding iron X) increasing pressure Y) removing carbon dioxide Z) removing carbon monoxide"
         },
         {
           "number": 16,
@@ -13142,14 +13146,16 @@
         },
         {
           "number": 23,
-          "question": "What is the overall reaction order for the following rate law: 4+ 2– 4+ 2– rate = k[NH ][NO ] (read as: k times the concentration of NH times the concentration of NO ) nd",
-          "answer": "2 (ACCEPT: 2 ORDER)",
+          "question": "What is the overall reaction order for the following rate law: rate = k[NH<sub>4</sub><sup>+</sup>][NO<sub>2</sub><sup>−</sup>] (read as: k times the concentration of NH<sub>4</sub><sup>+</sup> times the concentration of NO<sub>2</sub><sup>−</sup>)",
+          "answer": "2 (ACCEPT: 2<sup>nd</sup> ORDER)",
           "category": "Chemistry",
           "type": "Short Answer",
           "options": [],
           "notes": [
             "(Solution: exponents 1 + 1 = 2)"
-          ]
+          ],
+          "question_sanitized": "What is the overall reaction order for the following rate law: rate = k[NH₄⁺][NO₂⁻] (read as: k times the concentration of NH₄⁺ times the concentration of NO₂⁻)",
+          "answer_sanitized": "2 (ACCEPT: 2nd ORDER)"
         },
         {
           "number": 24,
@@ -13378,7 +13384,7 @@
           "number": 11,
           "leadin": "",
           "parts": [
-            "What are the coordinates of the hole in the graph of the function, − 2 ( 2 x 8 ) g(x) = ? − ( x 2 )"
+            "What are the coordinates of the hole in the graph of the function, g(x) = <span class=\"nsb-fraction\"><span>(2x<sup>2</sup> − 8)</span><span>(x − 2)</span></span>?"
           ],
           "answers": [
             "(2, 8)"
@@ -13391,6 +13397,9 @@
           "options": [],
           "notes": [
             "(Solution: simplifies to 2(x + 2); graph looks like a line except at the indicated hole)"
+          ],
+          "parts_sanitized": [
+            "What are the coordinates of the hole in the graph of the function, g(x) = (2x² − 8)/(x − 2)?"
           ]
         },
         {
@@ -13604,7 +13613,7 @@
           "number": 23,
           "leadin": "",
           "parts": [
-            "Calculate the one-atmosphere boiling point elevation, in degrees nd Celsius to the 2 decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+            "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
           ],
           "answers": [
             "0.07 (ACCEPT: 0.06)"
@@ -13617,6 +13626,9 @@
           "options": [],
           "notes": [
             "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+          ],
+          "parts_sanitized": [
+            "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
           ]
         },
         {
@@ -18885,7 +18897,7 @@
         },
         {
           "number": 24,
-          "question": "Consider the following reaction: 2C 2 H 6(g) + 7O 2(g) → 4CO 2(g) + 6H 2 O (l) in which ∆H = - 3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
+          "question": "Consider the following reaction: 2C<sub>2</sub>H<sub>6(g)</sub> + 7O<sub>2(g)</sub> → 4CO<sub>2(g)</sub> + 6H<sub>2</sub>O<sub>(l)</sub> in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
           "answer": "Z) 156 [NOTE: (g) = GAS; (l) = LIQUID]",
           "category": "Chemistry",
           "type": "Multiple Choice",
@@ -18895,7 +18907,8 @@
             "Y) 312",
             "Z) 156"
           ],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Consider the following reaction: 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced? W) 1560 X) 624 Y) 312 Z) 156"
         },
         {
           "number": 25,
@@ -29344,12 +29357,13 @@
         },
         {
           "number": 11,
-          "question": "Solve the following radical equation for x, when x is a real number: 5 x 1 2 + =",
+          "question": "Solve the following radical equation for x, when x is a real number: <sup>5</sup>√(x + 1) = 2",
           "answer": "31",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Solve the following radical equation for x, when x is a real number: fifth root of (x + 1) = 2"
         },
         {
           "number": 12,
@@ -32774,12 +32788,14 @@
         },
         {
           "number": 18,
-          "question": "Giving your answer in simplest radical form, rationalize the denominator 1 of the following expression: (3 − x ) 3+ x",
-          "answer": "9− x",
+          "question": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: <span class=\"nsb-fraction\"><span>1</span><span>(3 − √x)</span></span>",
+          "answer": "<span class=\"nsb-fraction\"><span>3 + √x</span><span>9 − x</span></span>",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: 1/(3 − √x)",
+          "answer_sanitized": "(3 + √x)/(9 − x)"
         },
         {
           "number": 19,
@@ -35336,12 +35352,14 @@
         },
         {
           "number": 18,
-          "question": "What function is the inverse of y = 3x + 4? x 4 −",
-          "answer": "y = 3",
+          "question": "What function is the inverse of y = 3x + 4?",
+          "answer": "y = <span class=\"nsb-fraction\"><span>x − 4</span><span>3</span></span>",
           "category": "Math",
           "type": "Short Answer",
           "options": [],
-          "notes": []
+          "notes": [],
+          "question_sanitized": "What function is the inverse of y = 3x + 4?",
+          "answer_sanitized": "y = (x − 4)/3"
         },
         {
           "number": 19,

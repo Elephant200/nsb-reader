@@ -275,11 +275,18 @@
       "kind": "tossups",
       "itemIndex": 23,
       "number": 24,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "Compared wording, options, answer, and notation with Round Robin Round 7, page 12."
+      "evidence": "Luna and root independently viewed page 12: restored chemical subscripts, phases, and negative enthalpy. Root preserved all W/X/Y/Z choices and answer phase-key note, omitted from the reviewer’s abbreviated proposal.",
+      "before": {
+        "question": "Consider the following reaction: 2C 2 H 6(g) + 7O 2(g) → 4CO 2(g) + 6H 2 O (l) in which ∆H = - 3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156"
+      },
+      "changes": {
+        "question": "Consider the following reaction: 2C<sub>2</sub>H<sub>6(g)</sub> + 7O<sub>2(g)</sub> → 4CO<sub>2(g)</sub> + 6H<sub>2</sub>O<sub>(l)</sub> in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
+        "question_sanitized": "Consider the following reaction: 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced? W) 1560 X) 624 Y) 312 Z) 156"
+      }
     },
     {
       "kind": "bonuses",

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-09",
+  "scope": "Two reported packets plus 25 selected high-risk equations; this is a focused follow-up rather than a full second pass.",
+  "reports": ["followup-016.json", "followup-254.json", "followup-related-equations.json"],
+  "recordsReviewed": 111,
+  "additionalSourceConfirmedDefects": 8,
+  "integration": "Source proposals independently checked by root; complete choices, phase words, reading cues and answer alternatives retained. Corrections integrated into source-keyed manifests and original audit ledgers.",
+  "reportedFixes": [
+    {"set": 1, "year": 2009, "packet": 17, "number": 15, "kind": "tossup", "issue": "Scrambled equilibrium reaction"},
+    {"set": 1, "year": 2009, "packet": 17, "number": 15, "kind": "bonus", "issue": "Displaced electrolysis answer charges and arrow"},
+    {"set": 17, "year": 2022, "packet": 12, "number": 10, "kind": "tossup", "issue": "Existing local exponent correction absent from production"}
+  ],
+  "answerChecking": "Superscript ordinal endings are normalized as ordinals, preserving acceptance of 2nd ORDER while retaining actual numeric powers.",
+  "testsPassed": 64,
+  "lint": "passed"
+}

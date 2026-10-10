@@ -1,6 +1,6 @@
 {
-  "version": "c432e8ab232c5b8fec999909d3b9b8b6ac6f48f4854fc1ccb7d6dfd8e954f132",
-  "updatedAt": "2026-10-05T01:31:41.299Z",
+  "version": "7d25f893fce2615981a2250b8d4ef2c64909e7fb79a1104576be858b58c152ab",
+  "updatedAt": "2026-10-10T00:29:06.894Z",
   "audit": {
     "flagged": 11215,
     "reviewed": 11215,
@@ -1924,6 +1924,46 @@
           "after": "The reaction CuCl<sub>2</sub> + Na<sub>2</sub>S → CuS + 2NaCl<sub>2</sub>, is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition",
           "beforeHtml": "The reaction CuCl<sub>2</sub> + Na<sub>2</sub> S CuS + 2NaCl<sub>2</sub> , is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition",
           "afterHtml": "The reaction CuCl<sub>2</sub> + Na<sub>2</sub>S → CuS + 2NaCl<sub>2</sub>, is an example of what class of chemical reaction:<br>W) synthesis<br>X) single replacement<br>Y) double replacement<br>Z) decomposition"
+        }
+      ]
+    },
+    {
+      "id": "8-bonuses-8",
+      "pass": 1,
+      "packetIndex": 8,
+      "set": 1,
+      "year": 2009,
+      "round": 9,
+      "kind": "Bonus",
+      "number": 9,
+      "category": "Chemistry",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round9.pdf",
+      "sourcePages": [
+        5
+      ],
+      "evidence": "Luna and root independently viewed page 5. Restore PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas), phase words and 1st ordinal in their source positions. Root retained full phase words rather than abbreviating them.",
+      "fields": [
+        {
+          "key": "parts",
+          "label": "Bonus question",
+          "reading": false,
+          "added": false,
+          "before": "Consider the following equilibrium reaction, ↔ PCl PCl + Cl . If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> 5(gas) 3(gas) 2(gas) st at equilibrium, find the molar amounts, to the 1 decimal place, of PCl<sub>5</sub> at equilibrium:",
+          "after": "Consider the following equilibrium reaction, PCl<sub>5(gas)</sub> ↔ PCl<sub>3(gas)</sub> + Cl<sub>2(gas)</sub>. If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:",
+          "beforeHtml": "Consider the following equilibrium reaction, ↔ PCl PCl + Cl . If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> 5(gas) 3(gas) 2(gas) st at equilibrium, find the molar amounts, to the 1 decimal place, of PCl<sub>5</sub> at equilibrium:",
+          "afterHtml": "Consider the following equilibrium reaction, PCl<sub>5(gas)</sub> ↔ PCl<sub>3(gas)</sub> + Cl<sub>2(gas)</sub>. If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
+        },
+        {
+          "key": "parts_sanitized",
+          "label": "Bonus question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:",
+          "beforeHtml": "",
+          "afterHtml": "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
         }
       ]
     },
@@ -4678,6 +4718,46 @@
       ]
     },
     {
+      "id": "16-tossups-14",
+      "pass": 1,
+      "packetIndex": 16,
+      "set": 1,
+      "year": 2009,
+      "round": 17,
+      "kind": "Toss-up",
+      "number": 15,
+      "category": "Chemistry",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round17.pdf",
+      "sourcePages": [
+        8
+      ],
+      "evidence": "Root visually inspected fresh packet-specific PDF page 8. The reaction reads FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), followed by ΔH (read as: delta H) equals −10 kilojoules. Extraction displaced the reaction, state labels, CO₂ count and enthalpy. Restored their order and script positions, retaining every option and the source solution note.",
+      "fields": [
+        {
+          "key": "question",
+          "label": "Question",
+          "reading": false,
+          "added": false,
+          "before": "Consider the following equilibrium reaction, ↔ Fe ∆H (read as: delta H) equals FeO + CO + CO , where –10 kilojoules. Which (solid) (gas) (solid) 2(gas) of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
+          "after": "Consider the following equilibrium reaction, FeO<sub>(solid)</sub> + CO<sub>(gas)</sub> ↔ Fe<sub>(solid)</sub> + CO<sub>2(gas)</sub>, where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
+          "beforeHtml": "Consider the following equilibrium reaction, ↔ Fe ∆H (read as: delta H) equals FeO + CO + CO , where –10 kilojoules. Which (solid) (gas) (solid) 2(gas) of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
+          "afterHtml": "Consider the following equilibrium reaction, FeO<sub>(solid)</sub> + CO<sub>(gas)</sub> ↔ Fe<sub>(solid)</sub> + CO<sub>2(gas)</sub>, where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide"
+        },
+        {
+          "key": "question_sanitized",
+          "label": "Question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "Consider the following equilibrium reaction, FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature: W) adding iron X) increasing pressure Y) removing carbon dioxide Z) removing carbon monoxide",
+          "beforeHtml": "",
+          "afterHtml": "Consider the following equilibrium reaction, FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature: W) adding iron X) increasing pressure Y) removing carbon dioxide Z) removing carbon monoxide"
+        }
+      ]
+    },
+    {
       "id": "16-tossups-17",
       "pass": 1,
       "packetIndex": 16,
@@ -4714,6 +4794,66 @@
           "after": "How many solutions are there for the equation, cosine 4x = 1/2, for the interval 0 ≤ x < 2π?",
           "beforeHtml": "",
           "afterHtml": "How many solutions are there for the equation, cosine 4x = 1/2, for the interval 0 ≤ x &lt; 2π?"
+        }
+      ]
+    },
+    {
+      "id": "16-tossups-22",
+      "pass": 1,
+      "packetIndex": 16,
+      "set": 1,
+      "year": 2009,
+      "round": 17,
+      "kind": "Toss-up",
+      "number": 23,
+      "category": "Chemistry",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round17.pdf",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Luna follow-up and root independently viewed PDF page 12. Restored NH₄⁺ and NO₂⁻ groups and charges in the rate law and read-aloud cue, moved stray nd to its accepted answer 2nd ORDER, and retained solution note.",
+      "fields": [
+        {
+          "key": "question",
+          "label": "Question",
+          "reading": false,
+          "added": false,
+          "before": "What is the overall reaction order for the following rate law: 4+ 2– 4+ 2– rate = k[NH ][NO ] (read as: k times the concentration of NH times the concentration of NO ) nd",
+          "after": "What is the overall reaction order for the following rate law: rate = k[NH<sub>4</sub><sup>+</sup>][NO<sub>2</sub><sup>−</sup>] (read as: k times the concentration of NH<sub>4</sub><sup>+</sup> times the concentration of NO<sub>2</sub><sup>−</sup>)",
+          "beforeHtml": "What is the overall reaction order for the following rate law: 4+ 2– 4+ 2– rate = k[NH ][NO ] (read as: k times the concentration of NH times the concentration of NO ) nd",
+          "afterHtml": "What is the overall reaction order for the following rate law: rate = k[NH<sub>4</sub><sup>+</sup>][NO<sub>2</sub><sup>−</sup>] (read as: k times the concentration of NH<sub>4</sub><sup>+</sup> times the concentration of NO<sub>2</sub><sup>−</sup>)"
+        },
+        {
+          "key": "question_sanitized",
+          "label": "Question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "What is the overall reaction order for the following rate law: rate = k[NH₄⁺][NO₂⁻] (read as: k times the concentration of NH₄⁺ times the concentration of NO₂⁻)",
+          "beforeHtml": "",
+          "afterHtml": "What is the overall reaction order for the following rate law: rate = k[NH₄⁺][NO₂⁻] (read as: k times the concentration of NH₄⁺ times the concentration of NO₂⁻)"
+        },
+        {
+          "key": "answer",
+          "label": "Answer",
+          "reading": false,
+          "added": false,
+          "before": "2 (ACCEPT: 2 ORDER)",
+          "after": "2 (ACCEPT: 2<sup>nd</sup> ORDER)",
+          "beforeHtml": "2 (ACCEPT: 2 ORDER)",
+          "afterHtml": "2 (ACCEPT: 2<sup>nd</sup> ORDER)"
+        },
+        {
+          "key": "answer_sanitized",
+          "label": "Answer",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "2 (ACCEPT: 2nd ORDER)",
+          "beforeHtml": "",
+          "afterHtml": "2 (ACCEPT: 2nd ORDER)"
         }
       ]
     },
@@ -4848,6 +4988,46 @@
       ]
     },
     {
+      "id": "16-bonuses-10",
+      "pass": 1,
+      "packetIndex": 16,
+      "set": 1,
+      "year": 2009,
+      "round": 17,
+      "kind": "Bonus",
+      "number": 11,
+      "category": "Math",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round17.pdf",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Luna follow-up and root independently viewed PDF page 6: g(x) has numerator (2x² − 8), denominator (x − 2). Restored the displaced function and fraction; answer (2, 8) and solution note retained.",
+      "fields": [
+        {
+          "key": "parts",
+          "label": "Bonus question",
+          "reading": false,
+          "added": false,
+          "before": "What are the coordinates of the hole in the graph of the function, − 2 ( 2 x 8 ) g(x) = ? − ( x 2 )",
+          "after": "What are the coordinates of the hole in the graph of the function, g(x) = <span class=\"nsb-fraction\"><span>(2x<sup>2</sup> − 8)</span><span>(x − 2)</span></span>?",
+          "beforeHtml": "What are the coordinates of the hole in the graph of the function, − 2 ( 2 x 8 ) g(x) = ? − ( x 2 )",
+          "afterHtml": "What are the coordinates of the hole in the graph of the function, g(x) = <span class=\"nsb-fraction\"><span>(2x<sup>2</sup> − 8)</span><span>(x − 2)</span></span>?"
+        },
+        {
+          "key": "parts_sanitized",
+          "label": "Bonus question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "What are the coordinates of the hole in the graph of the function, g(x) = (2x² − 8)/(x − 2)?",
+          "beforeHtml": "",
+          "afterHtml": "What are the coordinates of the hole in the graph of the function, g(x) = (2x² − 8)/(x − 2)?"
+        }
+      ]
+    },
+    {
       "id": "16-bonuses-13",
       "pass": 1,
       "packetIndex": 16,
@@ -4943,7 +5123,7 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Root source QA of PDF p. 12 confirms the answer ends before the separately labeled Solution paragraph. Restored the complete solution to notes and removed its continuation from the answer.",
+      "evidence": "Luna and root viewed PDF page 12: degrees Celsius to the 2nd decimal place. Restored ordinal in its original position; quantities, answer alternatives, and solution retained, including source double period.",
       "fields": [
         {
           "key": "answers",
@@ -4964,6 +5144,26 @@
           "after": "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)",
           "beforeHtml": "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m;",
           "afterHtml": "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+        },
+        {
+          "key": "parts",
+          "label": "Bonus question",
+          "reading": false,
+          "added": false,
+          "before": "Calculate the one-atmosphere boiling point elevation, in degrees nd Celsius to the 2 decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal..",
+          "after": "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal..",
+          "beforeHtml": "Calculate the one-atmosphere boiling point elevation, in degrees nd Celsius to the 2 decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal..",
+          "afterHtml": "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+        },
+        {
+          "key": "parts_sanitized",
+          "label": "Bonus question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal..",
+          "beforeHtml": "",
+          "afterHtml": "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
         }
       ]
     },
@@ -7114,6 +7314,46 @@
           "after": "In the expansion of (1 - 5x)^3 [open parenthesis 1 minus 5x close parenthesis cubed], what is the coefficient of x^2?",
           "beforeHtml": "",
           "afterHtml": "In the expansion of (1 - 5x)^3 [open parenthesis 1 minus 5x close parenthesis cubed], what is the coefficient of x^2?"
+        }
+      ]
+    },
+    {
+      "id": "23-tossups-23",
+      "pass": 1,
+      "packetIndex": 23,
+      "set": 2,
+      "year": 2012,
+      "round": 7,
+      "kind": "Toss-up",
+      "number": 24,
+      "category": "Chemistry",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round7.pdf",
+      "sourcePages": [
+        12
+      ],
+      "evidence": "Luna and root independently viewed page 12: restored chemical subscripts, phases, and negative enthalpy. Root preserved all W/X/Y/Z choices and answer phase-key note, omitted from the reviewer’s abbreviated proposal.",
+      "fields": [
+        {
+          "key": "question",
+          "label": "Question",
+          "reading": false,
+          "added": false,
+          "before": "Consider the following reaction: 2C 2 H 6(g) + 7O 2(g) → 4CO 2(g) + 6H 2 O (l) in which ∆H = - 3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
+          "after": "Consider the following reaction: 2C<sub>2</sub>H<sub>6(g)</sub> + 7O<sub>2(g)</sub> → 4CO<sub>2(g)</sub> + 6H<sub>2</sub>O<sub>(l)</sub> in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
+          "beforeHtml": "Consider the following reaction: 2C 2 H 6(g) + 7O 2(g) → 4CO 2(g) + 6H 2 O (l) in which ∆H = - 3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
+          "afterHtml": "Consider the following reaction: 2C<sub>2</sub>H<sub>6(g)</sub> + 7O<sub>2(g)</sub> → 4CO<sub>2(g)</sub> + 6H<sub>2</sub>O<sub>(l)</sub> in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156"
+        },
+        {
+          "key": "question_sanitized",
+          "label": "Question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "Consider the following reaction: 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced? W) 1560 X) 624 Y) 312 Z) 156",
+          "beforeHtml": "",
+          "afterHtml": "Consider the following reaction: 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced? W) 1560 X) 624 Y) 312 Z) 156"
         }
       ]
     },
@@ -11398,6 +11638,46 @@
       ]
     },
     {
+      "id": "36-tossups-10",
+      "pass": 1,
+      "packetIndex": 36,
+      "set": 3,
+      "year": 2007,
+      "round": 5,
+      "kind": "Toss-up",
+      "number": 11,
+      "category": "Math",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-5C.pdf",
+      "sourcePages": [
+        6
+      ],
+      "evidence": "Luna and root viewed PDF page 6: radical index 5, entire radicand x + 1, right-hand side 2. Restore complete radical equation; answer 31 unchanged.",
+      "fields": [
+        {
+          "key": "question",
+          "label": "Question",
+          "reading": false,
+          "added": false,
+          "before": "Solve the following radical equation for x, when x is a real number: 5 x 1 2 + =",
+          "after": "Solve the following radical equation for x, when x is a real number: <sup>5</sup>√(x + 1) = 2",
+          "beforeHtml": "Solve the following radical equation for x, when x is a real number: 5 x 1 2 + =",
+          "afterHtml": "Solve the following radical equation for x, when x is a real number: <sup>5</sup>√(x + 1) = 2"
+        },
+        {
+          "key": "question_sanitized",
+          "label": "Question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "Solve the following radical equation for x, when x is a real number: fifth root of (x + 1) = 2",
+          "beforeHtml": "",
+          "afterHtml": "Solve the following radical equation for x, when x is a real number: fifth root of (x + 1) = 2"
+        }
+      ]
+    },
+    {
       "id": "36-tossups-17",
       "pass": 1,
       "packetIndex": 36,
@@ -13598,6 +13878,66 @@
       ]
     },
     {
+      "id": "40-tossups-17",
+      "pass": 1,
+      "packetIndex": 40,
+      "set": 3,
+      "year": 2007,
+      "round": 9,
+      "kind": "Toss-up",
+      "number": 18,
+      "category": "Math",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-9C.pdf",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Luna and root viewed PDF page 9: question fraction 1/(3 − √x), complete answer (3 + √x)/(9 − x). Restored missing radical, numerator, and fraction grouping without inferred source changes.",
+      "fields": [
+        {
+          "key": "question",
+          "label": "Question",
+          "reading": false,
+          "added": false,
+          "before": "Giving your answer in simplest radical form, rationalize the denominator 1 of the following expression: (3 − x ) 3+ x",
+          "after": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: <span class=\"nsb-fraction\"><span>1</span><span>(3 − √x)</span></span>",
+          "beforeHtml": "Giving your answer in simplest radical form, rationalize the denominator 1 of the following expression: (3 − x ) 3+ x",
+          "afterHtml": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: <span class=\"nsb-fraction\"><span>1</span><span>(3 − √x)</span></span>"
+        },
+        {
+          "key": "question_sanitized",
+          "label": "Question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: 1/(3 − √x)",
+          "beforeHtml": "",
+          "afterHtml": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: 1/(3 − √x)"
+        },
+        {
+          "key": "answer",
+          "label": "Answer",
+          "reading": false,
+          "added": false,
+          "before": "9− x",
+          "after": "<span class=\"nsb-fraction\"><span>3 + √x</span><span>9 − x</span></span>",
+          "beforeHtml": "9− x",
+          "afterHtml": "<span class=\"nsb-fraction\"><span>3 + √x</span><span>9 − x</span></span>"
+        },
+        {
+          "key": "answer_sanitized",
+          "label": "Answer",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "(3 + √x)/(9 − x)",
+          "beforeHtml": "",
+          "afterHtml": "(3 + √x)/(9 − x)"
+        }
+      ]
+    },
+    {
       "id": "40-bonuses-7",
       "pass": 1,
       "packetIndex": 40,
@@ -14884,6 +15224,66 @@
           "after": "W) NH<sub>4</sub>Cl\nX) NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>\nY) KCl\nZ) LiBr",
           "beforeHtml": "W) NH<sub>4</sub> Cl<br>X) NaC<sub>2</sub> H<sub>3</sub> O<sub>2</sub><br>Y) KCl<br>Z) LiBr",
           "afterHtml": "W) NH<sub>4</sub>Cl<br>X) NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub><br>Y) KCl<br>Z) LiBr"
+        }
+      ]
+    },
+    {
+      "id": "43-tossups-17",
+      "pass": 1,
+      "packetIndex": 43,
+      "set": 3,
+      "year": 2007,
+      "round": 12,
+      "kind": "Toss-up",
+      "number": 18,
+      "category": "Math",
+      "applied": true,
+      "superseded": false,
+      "sourceUrl": "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-12C.pdf",
+      "sourcePages": [
+        9
+      ],
+      "evidence": "Luna and root viewed page 9: y = (x − 4)/3 appears wholly in the ANSWER, not the prompt. Restore numerator to answer and remove displaced prompt fragments.",
+      "fields": [
+        {
+          "key": "question",
+          "label": "Question",
+          "reading": false,
+          "added": false,
+          "before": "What function is the inverse of y = 3x + 4? x 4 −",
+          "after": "What function is the inverse of y = 3x + 4?",
+          "beforeHtml": "What function is the inverse of y = 3x + 4? x 4 −",
+          "afterHtml": "What function is the inverse of y = 3x + 4?"
+        },
+        {
+          "key": "question_sanitized",
+          "label": "Question",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "What function is the inverse of y = 3x + 4?",
+          "beforeHtml": "",
+          "afterHtml": "What function is the inverse of y = 3x + 4?"
+        },
+        {
+          "key": "answer",
+          "label": "Answer",
+          "reading": false,
+          "added": false,
+          "before": "y = 3",
+          "after": "y = <span class=\"nsb-fraction\"><span>x − 4</span><span>3</span></span>",
+          "beforeHtml": "y = 3",
+          "afterHtml": "y = <span class=\"nsb-fraction\"><span>x − 4</span><span>3</span></span>"
+        },
+        {
+          "key": "answer_sanitized",
+          "label": "Answer",
+          "reading": true,
+          "added": true,
+          "before": "",
+          "after": "y = (x − 4)/3",
+          "beforeHtml": "",
+          "afterHtml": "y = (x − 4)/3"
         }
       ]
     },

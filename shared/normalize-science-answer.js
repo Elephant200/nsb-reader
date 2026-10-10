@@ -12,7 +12,8 @@ const ENTITIES = { amp: '&', lt: '<', gt: '>', nbsp: ' ', quot: '"', apos: "'", 
  * @returns {string}
  */
 export function scienceText (value) {
-  let text = String(value ?? '').replace(/<br\s*\/?\s*>/gi, ' ');
+  let text = String(value ?? '').replace(/<br\s*\/?\s*>/gi, ' ')
+    .replace(/(\d)<sup>(st|nd|rd|th)<\/sup>(?=\s|[.,;:)]|$)/gi, '$1$2');
   // Resolve innermost fractions and powers before their containing expressions.
   for (let i = 0; i < 20; i++) {
     const previous = text;
@@ -51,7 +52,7 @@ export function scienceKey (value) {
     .replace(/√\s*(\d+|[a-z])/gi, 'sqrt($1)')
     .replace(/\s*([=+*/^_(),<>≤≥≠-])\s*/g, '$1')
     .replace(/\b(meters?|metres?|seconds?|grams?|kilograms?|joules?|newtons?|watts?|volts?|amperes?|pascals?|hertz|coulombs?|degrees?|celsius|kelvin|liters?|litres?|moles?|centimeters?|millimeters?|nanometers?|kilometers?|squared|cubed|per)\b/gi, word => word.toLowerCase())
-    .replace(/\b(relative|minimum|maximum|at|for|with|when|and|forward|backward|iron|oxygen|gallium|atoms?|ions?|plus|minus|photons?)\b/gi, word => word === 'At' ? word : word.toLowerCase())
+    .replace(/\b(relative|minimum|maximum|at|for|with|when|and|forward|backward|iron|oxygen|gallium|atoms?|ions?|plus|minus|photons?|order)\b/gi, word => word === 'At' ? word : word.toLowerCase())
     .trim();
   // Source answer lines sometimes capitalize orbital hybridization labels.
   // Require the complete label with explicit powers; keep chemical case intact.

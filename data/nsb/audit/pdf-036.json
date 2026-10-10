@@ -108,11 +108,18 @@
       "kind": "tossups",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "Compared prompt, answer, options, and notes with the original PDF on page 6; wording matches."
+      "evidence": "Luna and root viewed PDF page 6: radical index 5, entire radicand x + 1, right-hand side 2. Restore complete radical equation; answer 31 unchanged.",
+      "before": {
+        "question": "Solve the following radical equation for x, when x is a real number: 5 x 1 2 + ="
+      },
+      "changes": {
+        "question": "Solve the following radical equation for x, when x is a real number: <sup>5</sup>√(x + 1) = 2",
+        "question_sanitized": "Solve the following radical equation for x, when x is a real number: fifth root of (x + 1) = 2"
+      }
     },
     {
       "kind": "tossups",

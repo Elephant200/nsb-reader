@@ -9,6 +9,14 @@ import ServerTossupBonusRoom from '../server/multiplayer/ServerTossupBonusRoom.j
 import { BONUS_PROGRESS_ENUM, QUESTION_TYPE_ENUM } from '../shared/constants.js';
 
 const check = createNsbAnswerChecker(checkShortAnswer);
+test('source ordinal superscripts remain readable answer alternatives', () => {
+  const key = '2 (ACCEPT: 2<sup>nd</sup> ORDER)';
+  assert.equal(check(key, '2').directive, 'accept');
+  assert.equal(check(key, '2nd order').directive, 'accept');
+  assert.equal(check(key, '3rd order').directive, 'reject');
+  assert.equal(check('2<sup>3</sup>', '23').directive, 'reject');
+});
+
 test('multiple choice accepts a letter or full choice, and rejects contradictory pairs', () => {
   const key = 'W) CARBON DIOXIDE';
   for (const answer of ['w', 'W)', 'carbon dioxide', 'W) carbon dioxide', 'W carbon dioxide']) {

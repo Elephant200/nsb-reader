@@ -12980,9 +12980,19 @@
           "(Solution: using the derivative, y’ = 4x<sup>3</sup>, the slope of the tangent line at x = 1 is 4. The line must pass through (1, 1) so y – 1 = 4(x – 1))"
         ]
       },
+      "15": {
+        "question": "Consider the following equilibrium reaction, FeO<sub>(solid)</sub> + CO<sub>(gas)</sub> ↔ Fe<sub>(solid)</sub> + CO<sub>2(gas)</sub>, where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
+        "question_sanitized": "Consider the following equilibrium reaction, FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature: W) adding iron X) increasing pressure Y) removing carbon dioxide Z) removing carbon monoxide"
+      },
       "18": {
         "question": "How many solutions are there for the equation, cosine 4x = <span class=\"nsb-fraction\"><span>1</span><span>2</span></span>, for the interval 0 ≤ x &lt; 2π?",
         "question_sanitized": "How many solutions are there for the equation, cosine 4x = 1/2, for the interval 0 ≤ x < 2π?"
+      },
+      "23": {
+        "question": "What is the overall reaction order for the following rate law: rate = k[NH<sub>4</sub><sup>+</sup>][NO<sub>2</sub><sup>−</sup>] (read as: k times the concentration of NH<sub>4</sub><sup>+</sup> times the concentration of NO<sub>2</sub><sup>−</sup>)",
+        "question_sanitized": "What is the overall reaction order for the following rate law: rate = k[NH₄⁺][NO₂⁻] (read as: k times the concentration of NH₄⁺ times the concentration of NO₂⁻)",
+        "answer": "2 (ACCEPT: 2<sup>nd</sup> ORDER)",
+        "answer_sanitized": "2 (ACCEPT: 2nd ORDER)"
       }
     },
     "bonuses": {
@@ -13013,6 +13023,14 @@
           "(Solution: ΔT<sub>f</sub> = 5.5º – 4.5º = 1.0ºC; m = ΔT<sub>f</sub>/K<sub>f</sub> = 1.0º/5.0º = 0.2m or 0.2mol/kg; (1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)"
         ]
       },
+      "11": {
+        "parts": [
+          "What are the coordinates of the hole in the graph of the function, g(x) = <span class=\"nsb-fraction\"><span>(2x<sup>2</sup> − 8)</span><span>(x − 2)</span></span>?"
+        ],
+        "parts_sanitized": [
+          "What are the coordinates of the hole in the graph of the function, g(x) = (2x² − 8)/(x − 2)?"
+        ]
+      },
       "14": {
         "answers": [
           "500X (ACCEPT: 500 or 500 TIMES)"
@@ -13035,6 +13053,12 @@
         ],
         "notes": [
           "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+        ],
+        "parts": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+        ],
+        "parts_sanitized": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
         ]
       }
     }
@@ -13185,6 +13209,10 @@
         "notes": [
           "(Solution: adding a primary color to the proper secondary color (called complementary colors) will give white light; complementary color pairs are one primary color and one secondary color, e.g. blue and yellow, red and cyan, or green and magenta.)"
         ]
+      },
+      "11": {
+        "question": "Solve the following radical equation for x, when x is a real number: <sup>5</sup>√(x + 1) = 2",
+        "question_sanitized": "Solve the following radical equation for x, when x is a real number: fifth root of (x + 1) = 2"
       },
       "18": {
         "question": "Give the value of c that completes the square of the following expression: x<sup>2</sup> + <span class=\"nsb-fraction\"><span>2</span><span>5</span></span>x + c",
@@ -13373,6 +13401,14 @@
       }
     },
     "bonuses": {
+      "9": {
+        "parts": [
+          "Consider the following equilibrium reaction, PCl<sub>5(gas)</sub> ↔ PCl<sub>3(gas)</sub> + Cl<sub>2(gas)</sub>. If a 2 mole sample of PCl<sub>5</sub> dissociates to give 0.2 moles of Cl<sub>2</sub> at equilibrium, find the molar amounts, to the 1<sup>st</sup> decimal place, of PCl<sub>5</sub> at equilibrium:"
+        ],
+        "parts_sanitized": [
+          "Consider the following equilibrium reaction, PCl₅(gas) ↔ PCl₃(gas) + Cl₂(gas). If a 2 mole sample of PCl₅ dissociates to give 0.2 moles of Cl₂ at equilibrium, find the molar amounts, to the 1st decimal place, of PCl₅ at equilibrium:"
+        ]
+      },
       "16": {
         "parts": [
           "Name all of the following 4 species that contain an odd number of electrons: O<sub>2</sub><sup>1−</sup>; O<sub>2</sub><sup>2−</sup>; SO<sub>2</sub>; CO"
@@ -13660,6 +13696,10 @@
       "19": {
         "question": "In the expansion of (1 − 5x)<sup>3</sup> [open parenthesis 1 minus 5x close parenthesis cubed], what is the coefficient of x<sup>2</sup>?",
         "question_sanitized": "In the expansion of (1 - 5x)^3 [open parenthesis 1 minus 5x close parenthesis cubed], what is the coefficient of x^2?"
+      },
+      "24": {
+        "question": "Consider the following reaction: 2C<sub>2</sub>H<sub>6(g)</sub> + 7O<sub>2(g)</sub> → 4CO<sub>2(g)</sub> + 6H<sub>2</sub>O<sub>(l)</sub> in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced?<br>W) 1560<br>X) 624<br>Y) 312<br>Z) 156",
+        "question_sanitized": "Consider the following reaction: 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l) in which ΔH = −3120 kilojoules. If 3.00 grams of ethane are burned, how many kilojoules of heat are produced? W) 1560 X) 624 Y) 312 Z) 156"
       }
     }
   },
@@ -14008,6 +14048,12 @@
       "11": {
         "question": "What is the degree of the following monomial: −6x<sup>2</sup>y<sup>4</sup>z<sup>3</sup>",
         "question_sanitized": "What is the degree of the following monomial: −6x²y⁴z³"
+      },
+      "18": {
+        "question": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: <span class=\"nsb-fraction\"><span>1</span><span>(3 − √x)</span></span>",
+        "question_sanitized": "Giving your answer in simplest radical form, rationalize the denominator of the following expression: 1/(3 − √x)",
+        "answer": "<span class=\"nsb-fraction\"><span>3 + √x</span><span>9 − x</span></span>",
+        "answer_sanitized": "(3 + √x)/(9 − x)"
       }
     },
     "bonuses": {
@@ -14711,6 +14757,12 @@
           "Y) KCl",
           "Z) LiBr"
         ]
+      },
+      "18": {
+        "question": "What function is the inverse of y = 3x + 4?",
+        "question_sanitized": "What function is the inverse of y = 3x + 4?",
+        "answer": "y = <span class=\"nsb-fraction\"><span>x − 4</span><span>3</span></span>",
+        "answer_sanitized": "y = (x − 4)/3"
       },
       "21": {
         "question": "If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release?",

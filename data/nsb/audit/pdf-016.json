@@ -186,11 +186,18 @@
       "kind": "tossups",
       "itemIndex": 14,
       "number": 15,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         8
       ],
-      "evidence": "PDF p.8: compared numbered source prompt and printed answer; source begins “15) CHEMISTRY Multiple Choice Consider the following equilibrium reaction,”."
+      "evidence": "Root visually inspected fresh packet-specific PDF page 8. The reaction reads FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), followed by ΔH (read as: delta H) equals −10 kilojoules. Extraction displaced the reaction, state labels, CO₂ count and enthalpy. Restored their order and script positions, retaining every option and the source solution note.",
+      "before": {
+        "question": "Consider the following equilibrium reaction, ↔ Fe ∆H (read as: delta H) equals FeO + CO + CO , where –10 kilojoules. Which (solid) (gas) (solid) 2(gas) of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide"
+      },
+      "changes": {
+        "question": "Consider the following equilibrium reaction, FeO<sub>(solid)</sub> + CO<sub>(gas)</sub> ↔ Fe<sub>(solid)</sub> + CO<sub>2(gas)</sub>, where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature:<br>W) adding iron<br>X) increasing pressure<br>Y) removing carbon dioxide<br>Z) removing carbon monoxide",
+        "question_sanitized": "Consider the following equilibrium reaction, FeO(solid) + CO(gas) ↔ Fe(solid) + CO₂(gas), where ΔH (read as: delta H) equals −10 kilojoules. Which of the following would have a similar effect on the equilibrium position as lowering the temperature: W) adding iron X) increasing pressure Y) removing carbon dioxide Z) removing carbon monoxide"
+      }
     },
     {
       "kind": "tossups",
@@ -273,11 +280,21 @@
       "kind": "tossups",
       "itemIndex": 22,
       "number": 23,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         12
       ],
-      "evidence": "PDF p.12: compared numbered source prompt and printed answer; source begins “23) CHEMISTRY Short Answer What is the overall reaction order for the foll”."
+      "evidence": "Luna follow-up and root independently viewed PDF page 12. Restored NH₄⁺ and NO₂⁻ groups and charges in the rate law and read-aloud cue, moved stray nd to its accepted answer 2nd ORDER, and retained solution note.",
+      "before": {
+        "question": "What is the overall reaction order for the following rate law: 4+ 2– 4+ 2– rate = k[NH ][NO ] (read as: k times the concentration of NH times the concentration of NO ) nd",
+        "answer": "2 (ACCEPT: 2 ORDER)"
+      },
+      "changes": {
+        "question": "What is the overall reaction order for the following rate law: rate = k[NH<sub>4</sub><sup>+</sup>][NO<sub>2</sub><sup>−</sup>] (read as: k times the concentration of NH<sub>4</sub><sup>+</sup> times the concentration of NO<sub>2</sub><sup>−</sup>)",
+        "question_sanitized": "What is the overall reaction order for the following rate law: rate = k[NH₄⁺][NO₂⁻] (read as: k times the concentration of NH₄⁺ times the concentration of NO₂⁻)",
+        "answer": "2 (ACCEPT: 2<sup>nd</sup> ORDER)",
+        "answer_sanitized": "2 (ACCEPT: 2nd ORDER)"
+      }
     },
     {
       "kind": "tossups",
@@ -441,11 +458,24 @@
       "kind": "bonuses",
       "itemIndex": 10,
       "number": 11,
-      "status": "verified",
+      "status": "corrected",
       "sourcePages": [
         6
       ],
-      "evidence": "PDF p.6: compared numbered source prompt and printed answer; source begins “11) MATH Short Answer What are the coordinates of the hole in the graph of”."
+      "evidence": "Luna follow-up and root independently viewed PDF page 6: g(x) has numerator (2x² − 8), denominator (x − 2). Restored the displaced function and fraction; answer (2, 8) and solution note retained.",
+      "before": {
+        "parts": [
+          "What are the coordinates of the hole in the graph of the function, − 2 ( 2 x 8 ) g(x) = ? − ( x 2 )"
+        ]
+      },
+      "changes": {
+        "parts": [
+          "What are the coordinates of the hole in the graph of the function, g(x) = <span class=\"nsb-fraction\"><span>(2x<sup>2</sup> − 8)</span><span>(x − 2)</span></span>?"
+        ],
+        "parts_sanitized": [
+          "What are the coordinates of the hole in the graph of the function, g(x) = (2x² − 8)/(x − 2)?"
+        ]
+      }
     },
     {
       "kind": "bonuses",
@@ -597,13 +627,16 @@
       "sourcePages": [
         12
       ],
-      "evidence": "Root source QA of PDF p. 12 confirms the answer ends before the separately labeled Solution paragraph. Restored the complete solution to notes and removed its continuation from the answer.",
+      "evidence": "Luna and root viewed PDF page 12: degrees Celsius to the 2nd decimal place. Restored ordinal in its original position; quantities, answer alternatives, and solution retained, including source double period.",
       "before": {
         "answers": [
           "0.07 (ACCEPT: 0.06) ΔT = K (m) = (2.0ºC/m)(0.033m) = 0.066ºC) b b"
         ],
         "notes": [
           "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m;"
+        ],
+        "parts": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees nd Celsius to the 2 decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
         ]
       },
       "changes": {
@@ -612,6 +645,12 @@
         ],
         "notes": [
           "(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m; ΔT<sub>b</sub> = K<sub>b</sub>(m) = (2.0ºC/m)(0.033m) = 0.066ºC)"
+        ],
+        "parts": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2<sup>nd</sup> decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
+        ],
+        "parts_sanitized": [
+          "Calculate the one-atmosphere boiling point elevation, in degrees Celsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms of water. Assume the formula weight of the solute is 300 and the boiling point depression constant is 2.0ºC per molal.."
         ]
       }
     },
